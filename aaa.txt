@@ -1,0 +1,799 @@
+Gemini said
+Based on the provided text from Chapter 9, here are 100 multiple-choice questions in the requested CBT simulator format.
+
+Q: What enables us to see objects during the day? 
+A: The heat of the Sun
+B: Sunlight reflecting off objects
+C: The shadow of the object
+D: The gravity of the Sun
+ANS: B
+
+Q: What makes a transparent medium visible? 
+A: It reflects all light
+B: It absorbs all light
+C: Light is transmitted through it
+D: It casts a sharp shadow
+ANS: C
+
+Q: Light seems to travel in what kind of path? 
+A: Circular lines
+B: Zigzag lines
+C: Straight lines
+D: Curved lines
+ANS: C
+
+Q: What is a straight-line path of light usually indicated as? 
+A: A beam
+B: A ray
+C: A wave
+D: A particle
+ANS: B
+
+Q: What phenomenon occurs when light bends around a very small opaque object? 
+A: Reflection
+B: Refraction
+C: Diffraction
+D: Dispersion
+ANS: C
+
+Q: Which theory reconciles the particle properties of light with its wave nature? 
+A: Modern quantum theory
+B: Wave theory
+C: Particle theory
+D: Magnetic theory
+ANS: A
+
+Q: A highly polished surface, such as a mirror, does what to most of the light falling on it? 
+A: Absorbs it
+B: Refracts it
+C: Transmits it
+D: Reflects it
+ANS: D
+
+Q: According to the laws of reflection, the angle of incidence is always what to the angle of reflection? 
+A: Greater than
+B: Less than
+C: Equal to
+D: Double
+ANS: C
+
+Q: In reflection, where do the incident ray, the normal, and the reflected ray lie? 
+A: In different planes
+B: Parallel to each other
+C: In the same plane
+D: Perpendicular to each other
+ANS: C
+
+Q: The laws of reflection apply to which types of surfaces? 
+A: Only plane mirrors
+B: Only spherical mirrors
+C: All types of reflecting surfaces
+D: Only transparent surfaces
+ANS: C
+
+Q: What is the nature of an image formed by a plane mirror? 
+A: Real and inverted
+B: Virtual and erect
+C: Real and erect
+D: Virtual and inverted
+ANS: B
+
+Q: How does the size of an image in a plane mirror compare to the object? 
+A: It is smaller
+B: It is larger
+C: It is equal to the object
+D: It is double the size
+ANS: C
+
+Q: An image formed by a plane mirror is as far behind the mirror as: 
+A: The mirror is thick
+B: The object is in front of it
+C: The light travels
+D: Half the distance of the object
+ANS: B
+
+Q: What term describes the "left-right" reversal of an image in a plane mirror? 
+A: Refraction
+B: Lateral inversion
+C: Diffraction
+D: Magnification
+ANS: B
+
+Q: A spherical mirror whose reflecting surface is curved inwards is called a: 
+A: Convex mirror
+B: Concave mirror
+C: Plane mirror
+D: Bifocal mirror
+ANS: B
+
+Q: A spherical mirror whose reflecting surface is curved outwards is called a: 
+A: Concave mirror
+B: Convex mirror
+C: Simple mirror
+D: Diverging lens
+ANS: B
+
+Q: What is the center of the reflecting surface of a spherical mirror called? 
+A: Center of curvature
+B: Focus
+C: Pole
+D: Aperture
+ANS: C
+
+Q: The pole of a spherical mirror is usually represented by which letter? 
+A: C
+B: F
+C: P
+D: R
+ANS: C
+
+Q: What is the center of the sphere of which the mirror’s reflecting surface forms a part? 
+A: Pole
+B: Center of curvature
+C: Principal focus
+D: Optical center
+ANS: B
+
+Q: Where does the center of curvature of a concave mirror lie? 
+A: Behind the mirror
+B: On the mirror surface
+C: In front of the mirror
+D: At the pole
+ANS: C
+
+Q: Where does the center of curvature of a convex mirror lie? 
+A: Behind the mirror
+B: In front of the mirror
+C: At the focus
+D: On the principal axis
+ANS: A
+
+Q: What is the distance PC (from pole to center of curvature) called? 
+A: Focal length
+B: Aperture
+C: Radius of curvature
+D: Principal axis
+ANS: C
+
+Q: What is the straight line passing through the pole and center of curvature called? 
+A: Ray of light
+B: Principal axis
+C: Diameter
+D: Normal line
+ANS: B
+
+Q: In a concave mirror, rays parallel to the principal axis meet at which point after reflection? 
+A: Center of curvature
+B: Pole
+C: Principal focus
+D: Infinity
+ANS: C
+
+Q: In a convex mirror, parallel rays appear to diverge from which point? 
+A: Pole
+B: Principal focus
+C: Center of curvature
+D: Aperture
+ANS: B
+
+Q: What is the distance between the pole and the principal focus? 
+A: Radius of curvature
+B: Aperture
+C: Focal length
+D: Image distance
+ANS: C
+
+Q: What is the diameter of the reflecting surface of a spherical mirror? 
+A: Radius
+B: Focal length
+C: Aperture
+D: Principal axis
+ANS: C
+
+Q: For a spherical mirror of small aperture, what is the relationship between R and f? 
+A: R = f
+B: f = 2R
+C: R = 2f
+D: R = f/2
+ANS: C
+
+Q: If the radius of curvature of a spherical mirror is 20 cm, what is its focal length? 
+A: 40 cm
+B: 10 cm
+C: 20 cm
+D: 5 cm
+ANS: B
+
+Q: Where is the image formed when an object is at infinity for a concave mirror? 
+A: At C
+B: At F
+C: Between F and C
+D: Behind the mirror
+ANS: B
+
+Q: What is the nature of the image formed by a concave mirror when the object is at infinity? 
+A: Virtual and erect
+B: Real and inverted
+C: Real and erect
+D: Virtual and inverted
+ANS: B
+
+Q: When an object is at C in front of a concave mirror, where is the image formed? 
+A: At F
+B: Beyond C
+C: At C
+D: At infinity
+ANS: C
+
+Q: What is the size of the image when the object is at C for a concave mirror? 
+A: Enlarged
+B: Diminished
+C: Same size
+D: Point-sized
+ANS: C
+
+Q: When an object is between P and F of a concave mirror, the image is: 
+A: Real and inverted
+B: Real and enlarged
+C: Virtual and erect
+D: Diminished and virtual
+ANS: C
+
+Q: Which mirror is used by dentists to see large images of teeth? 
+A: Convex mirror
+B: Plane mirror
+C: Concave mirror
+D: Bifocal mirror
+ANS: C
+
+Q: Why are concave mirrors used in solar furnaces? 
+A: To diminish sunlight
+B: To disperse sunlight
+C: To concentrate sunlight to produce heat
+D: To reflect sunlight in all directions
+ANS: C
+
+Q: What type of image does a convex mirror always produce? 
+A: Real and inverted
+B: Virtual and erect
+C: Real and erect
+D: Virtual and inverted
+ANS: B
++1
+
+Q: Where is the image formed when an object is at infinity for a convex mirror? 
+A: At the pole
+B: At the focus F, behind the mirror
+C: At the center of curvature
+D: In front of the mirror
+ANS: B
+
+Q: Convex mirrors are used as rear-view mirrors in vehicles because they: 
+A: Produce enlarged images
+B: Have a narrow field of view
+C: Have a wider field of view
+D: Form real images
+ANS: C
+
+Q: In the New Cartesian Sign Convention, where is the object always placed? 
+A: To the right of the mirror
+B: To the left of the mirror
+C: On the principal axis
+D: Below the principal axis
+ANS: B
+
+Q: Distances measured to the right of the origin (along +x-axis) are taken as: 
+A: Negative
+B: Zero
+C: Positive
+D: Neutral
+ANS: C
+
+Q: Distances measured perpendicular to and below the principal axis are: 
+A: Positive
+B: Negative
+C: Constant
+D: Infinite
+ANS: B
+
+Q: What is the symbol for object-distance? 
+A: v
+B: f
+C: u
+D: h
+ANS: C
+
+Q: What is the symbol for image-distance? 
+|A: u
+B: v
+C: R
+D: P
+ANS: B
+
+Q: What is the Mirror Formula? 
+A:  
+v
+1
+​
+ − 
+u
+1
+​
+ = 
+f
+1
+​
+ 
+B:  
+v
+1
+​
+ + 
+u
+1
+​
+ = 
+f
+1
+​
+ 
+C: v+u=f
+D: R=2f
+ANS: B
++1
+
+Q: Magnification (m) is defined as the ratio of: 
+A: Object height to image height
+B: Image height to object height
+C: Focal length to radius
+D: Object distance to image distance
+ANS: B
+
+Q: In terms of u and v, magnification (m) for a mirror is: 
+A: m=v/u
+B: m=−v/u
+C: m=u/v
+D: m=uv/f
+ANS: B
++1
+
+Q: A negative sign in the value of magnification indicates the image is: 
+A: Virtual
+B: Erect
+C: Real
+D: Diminished
+ANS: C
+
+Q: A positive sign in the value of magnification indicates the image is: 
+A: Real
+B: Virtual
+C: Inverted
+D: Enlarged
+ANS: B
+
+Q: If a mirror has a radius of curvature of 32 cm, its focal length is: 
+A: 32 cm
+B: 64 cm
+C: 16 cm
+D: 8 cm
+ANS: C
+
+Q: What is the phenomenon where light changes direction when entering another medium? 
+A: Reflection
+B: Refraction
+C: Diffraction
+D: Dispersion
+ANS: B
+
+Q: Why does a pencil partly immersed in water appear displaced? 
+A: Because of reflection
+B: Because of lateral inversion
+C: Because of refraction
+D: Because of opacity
+ANS: C
+
+Q: Light travels from a rarer medium to a denser medium. It will: 
+A: Bend away from the normal
+B: Bend towards the normal
+C: Not bend at all
+D: Move in a circle
+ANS: B
++1
+
+Q: Light travels from a denser medium to a rarer medium. It will: 
+A: Slow down
+B: Bend towards the normal
+C: Bend away from the normal
+D: Stop completely
+ANS: C
++1
+
+Q: In a rectangular glass slab, the emergent ray is what to the incident ray? 
+A: Perpendicular
+B: Parallel
+C: At 45 degrees
+D: In the opposite direction
+ANS: B
++1
+
+Q: What is the first law of refraction? 
+A: Angle i equals angle r
+B: Incident ray, refracted ray, and normal lie in the same plane
+C: Light travels in a straight line
+D: n=c/v
+ANS: B
+
+Q: Snell’s law of refraction is expressed as: 
+A: sin i+sin r=constant
+B: sin i/sin r=constant
+C: i/r=n
+D: tan i/tan r=constant
+ANS: B
+
+Q: What is the speed of light in vacuum? 
+A: 3×10 
+5
+  m/s
+B: 3×10 
+8
+  m/s
+C: 3×10 
+10
+  m/s
+D: 3×10 
+6
+  m/s
+ANS: B
++1
+
+Q: Refractive index of medium 2 with respect to medium 1 (n 21) is: 
+A: Speed in med 2 / Speed in med 1
+B: Speed in med 1 / Speed in med 2
+C: Speed in vacuum / Speed in med 2
+D: sin r/sin i
+ANS: B
++1
+
+Q: What is "absolute refractive index"? 
+A: Refractive index with respect to glass
+B: Refractive index with respect to water
+C: Refractive index with respect to vacuum or air
+D: The speed of light in a medium
+ANS: C
+
+Q: What is the refractive index of water (n w)? 
+A: 1.00
+B: 1.52
+C: 1.33
+D: 2.42
+ANS: C
++2
+
+Q: Which material has the highest refractive index according to Table 9.3? 
+A: Glass
+B: Water
+C: Diamond
+D: Ruby
+ANS: C
++2
+
+Q: What is the refractive index of diamond? 
+A: 1.50
+B: 2.42
+C: 1.33
+D: 1.31
+ANS: B
++1
+
+Q: Optical density is the same as mass density. 
+A: True
+B: False
+C: Only for water
+D: Only for vacuum
+ANS: B
+
+Q: Light travels fastest in which medium? 
+A: Denser medium
+B: Rarer medium
+C: Opaque medium
+D: Liquid medium
+ANS: B
+
+Q: A lens bound by two spherical surfaces bulging outwards is a: 
+A: Concave lens
+B: Convex lens
+C: Plano-concave lens
+D: Cylindrical lens
+ANS: B
+
+Q: A convex lens is also known as a: 
+A: Diverging lens
+B: Converging lens
+C: Reflecting lens
+D: Normal lens
+ANS: B
+
+Q: A concave lens is also known as a: 
+A: Converging lens
+B: Diverging lens
+C: Magnifying lens
+D: Focal lens
+ANS: B
+
+Q: The central point of a lens is called its: 
+A: Pole
+B: Optical center
+C: Focus
+D: Center of curvature
+ANS: B
+
+Q: How many principal foci does a lens have? 
+A: One
+B: Two
+C: Three
+D: None
+ANS: B
+
+Q: What is the focal length of a lens? 
+A: Distance between C 1 and C 2
+B: Distance between optical center and principal focus
+C: Diameter of the lens
+D: Radius of the spherical surface
+ANS: B
+
+Q: Where is the image formed by a convex lens when the object is at infinity? 
+A: At 2F 
+B: At focus F 
+C: Between F and 2F 
+D: At infinity
+ANS: B
+
+Q: For a convex lens, when an object is at 2F 1, the image is formed at: 
+A: F 
+B: Infinity
+C: 2F 
+D: Beyond 2F 
+ANS: C
+
+Q: What is the nature of the image formed by a convex lens for an object at 2F 1? 
+A: Virtual and erect
+B: Real and inverted, same size
+C: Real and inverted, enlarged
+D: Virtual and diminished
+ANS: B
+
+Q: When an object is between F and optical center O of a convex lens, the image is: 
+A: Real and inverted
+B: Virtual and erect, enlarged
+C: Real and diminished
+D: Formed at infinity
+ANS: B
+
+Q: A concave lens always gives which type of image? 
+A: Real, inverted, diminished
+B: Virtual, erect, enlarged
+C: Virtual, erect, diminished
+D: Real, inverted, enlarged
+ANS: C
+
+Q: A ray of light passing through the optical center of a lens will: 
+A: Bend towards focus
+B: Bend away from focus
+C: Pass without any deviation
+D: Be reflected back
+ANS: C
++1
+
+Q: What is the focal length of a convex lens in terms of sign? 
+A: Negative
+B: Positive
+C: Zero
+D: Variable
+ANS: B
++1
+
+Q: What is the focal length of a concave lens in terms of sign? 
+A: Positive
+B: Negative
+C: Neutral
+D: Infinite
+ANS: B
++1
+
+Q: What is the Lens Formula? 
+A:  
+v
+1
+​
+ + 
+u
+1
+​
+ = 
+f
+1
+​
+ 
+B:  
+v
+1
+​
+ − 
+u
+1
+​
+ = 
+f
+1
+​
+ 
+C: v−u=f
+D: m=v/u
+ANS: B
++1
+
+Q: Magnification (m) produced by a lens is: 
+A: m=h 
+′
+ /h=−v/u
+B: m=h 
+′
+ /h=v/u
+C: m=h/h 
+′
+ =v/u
+D: m=uv/f
+ANS: B
+
+Q: What is the power of a lens? 
+A: Reciprocal of its radius
+B: Reciprocal of its focal length
+C: Product of v and u
+D: Height of the image
+ANS: B
+
+Q: What is the SI unit of power of a lens? 
+A: Meter
+B: Watt
+C: Dioptre
+D: Joule
+ANS: C
+
+Q: 1 dioptre is the power of a lens whose focal length is: 
+A: 1 cm
+B: 100 cm
+C: 1 meter
+D: 2 meters
+ANS: C
+
+Q: The power of a convex lens is: 
+A: Negative
+B: Positive
+C: Zero
+D: Not defined
+ANS: B
+
+Q: The power of a concave lens is: 
+A: Positive
+B: Negative
+C: Infinite
+D: One
+ANS: B
+
+Q: What is the net power (P) of lenses in contact? 
+A: P=P 
+1
+​
+ ×P 
+2
+​
+ 
+B: P=P 
+1
+​
+ /P 
+2
+​
+ 
+C: P=P 
+1
+​
+ +P 
+2
+​
+ +P 
+3
+​
+ +...
+D: P=1/P 
+1
+​
+ +1/P 
+2
+​
+ 
+ANS: C
+
+Q: If a lens has a power of +2.0 D, its focal length is: 
+A: +2.0 m
+B: +0.50 m
+C: -0.50 m
+D: +1.0 m
+ANS: B
+
+Q: A lens has power -2.5 D. What is its focal length? 
+A: -0.40 m
+B: -2.5 m
+C: +0.40 m
+D: -0.25 m
+ANS: A
+
+Q: Which material cannot be used to make a lens? 
+A: Water
+B: Glass
+C: Plastic
+D: Clay
+ANS: D
+
+Q: Where should an object be placed in front of a convex lens to get a real image of the same size? 
+A: At the principal focus
+B: At twice the focal length
+C: At infinity
+D: At the optical center
+ANS: B
+
+Q: A spherical mirror and a thin lens both have a focal length of -15 cm. They are likely: 
+A: Both concave
+B: Both convex
+C: Mirror is concave, lens is convex
+D: Mirror is convex, lens is concave
+ANS: A
+
+Q: No matter how far you stand from a mirror, your image appears erect. The mirror is: 
+A: Only plane
+B: Only concave
+C: Only convex
+D: Either plane or convex
+ANS: D
+
+Q: Which lens is preferred for reading small letters in a dictionary? 
+A: Convex lens of f=50 cm
+B: Concave lens of f=50 cm
+C: Convex lens of f=5 cm
+D: Concave lens of f=5 cm
+ANS: C
+
+Q: What is the magnification of a plane mirror? 
+A: 0
+B: +1
+C: -1
+D: Infinity
+ANS: B
+
+Q: The power of a concave lens of focal length 2 m is: 
+A: +0.5 D
+B: -0.5 D
+C: -2.0 D
+D: +2.0 D
+ANS: B
+
+Q: If focal length is expressed in meters, power is in: 
+A: Watts
+B: Dioptres
+C: Meters
+D: Centimeters
+ANS: B
+
+Q: A corrective lens has power +1.5 D. It is a: 
+A: Diverging lens
+B: Converging lens
+C: Concave lens
+D: Plane glass
+ANS: B
+
+Q: The focal length of a lens of power -2.0 D is: 
+A: -0.5 m
+B: +0.5 m
+C: -2.0 m
+D: +2.0 m
+ANS: A

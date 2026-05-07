@@ -1,0 +1,362 @@
+Here is a specialized 50-question mock test focused exclusively on the Basic Science & Engineering section for the RRB Technician Grade 1 (Signal) exam.
+
+I have designed these to be technically challenging, covering units, measurements, mass/weight, work/energy, and basic electricity, using the same plain-text format for your randomized CBT simulator.
+
+RRB Technician Grade 1: Basic Science & Engineering (50 Questions)
+Units, Measurements, and Mass/Weight
+
+Q: Which of the following is a derived SI unit?
+A: Candela
+B: Kelvin
+C: Newton
+D: Mole
+ANS: C
+
+Q: The value of one Horsepower (Metric) is equal to approximately:
+A: 746 Watts
+B: 735.5 Watts
+C: 1000 Watts
+D: 550 Watts
+ANS: B
+
+Q: What is the dimensional formula for Pressure?
+A: [MLT-2]
+B: [ML-1T-2]
+C: [ML2T-2]
+D: [M-1L3T-2]
+ANS: B
+
+Q: A body has a mass of 10 kg on Earth. What will be its mass on the Moon?
+A: 1.67 kg
+B: 10 kg
+C: 60 kg
+D: 0 kg
+ANS: B
+
+Q: Which instrument is used to measure the specific gravity of a liquid?
+A: Hygrometer
+B: Hydrometer
+C: Lactometer
+D: Barometer
+ANS: B
+
+Q: The property of a material by which it can be drawn into thin wires is:
+A: Malleability
+B: Ductility
+C: Elasticity
+D: Plasticity
+ANS: B
+
+Q: 1 kWh (Kilowatt-hour) is equal to how many Joules?
+A: 3.6 x 10^5 J
+B: 3.6 x 10^6 J
+C: 1000 J
+D: 3600 J
+ANS: B
+
+Q: The density of water is maximum at what temperature?
+A: 0 degrees Celsius
+B: 4 degrees Celsius
+C: 100 degrees Celsius
+D: -4 degrees Celsius
+ANS: B
+
+Q: Which of the following is a vector quantity?
+A: Speed
+B: Distance
+C: Displacement
+D: Mass
+ANS: C
+
+Q: The rate of change of momentum is equal to:
+A: Work
+B: Force
+C: Power
+D: Impulse
+ANS: B
+
+Work, Power, Energy, and Machines
+
+Q: If a force of 10N moves an object by 5m in the direction of the force, the work done is:
+A: 2 J
+B: 50 J
+C: 0.5 J
+D: 15 J
+ANS: B
+
+Q: A machine has an efficiency of 80 percent. If the input energy is 1000 J, what is the output work?
+A: 1250 J
+B: 800 J
+C: 200 J
+D: 1800 J
+ANS: B
+
+Q: Kinetic energy of a body becomes how many times if its velocity is doubled?
+A: 2 times
+B: 4 times
+C: 8 times
+D: Remains same
+ANS: B
+
+Q: What type of lever is a pair of scissors?
+A: First-class lever
+B: Second-class lever
+C: Third-class lever
+D: Fourth-class lever
+ANS: A
+
+Q: Mechanical Advantage (MA) is defined as the ratio of:
+A: Effort to Load
+B: Load to Effort
+C: Distance moved by effort to distance moved by load
+D: Work output to work input
+ANS: B
+
+Q: A body of mass 2 kg is at a height of 10m. Taking g = 10 m/s2, its potential energy is:
+A: 20 J
+B: 200 J
+C: 100 J
+D: 50 J
+ANS: B
+
+Q: The unit of Coefficient of Friction is:
+A: Newton
+B: Joule
+C: Pascal
+D: No unit
+ANS: D
+
+Q: In a second-class lever, which component is in the middle?
+A: Fulcrum
+B: Load
+C: Effort
+D: Pivot
+ANS: B
+
+Q: Power is defined as:
+A: Force x Distance
+B: Work / Time
+C: Mass x Acceleration
+D: Energy x Time
+ANS: B
+
+Q: The center of gravity of a uniform thin rod is located at:
+A: One end
+B: Its geometric center
+C: 1/4th from the end
+D: Outside the rod
+ANS: B
+
+Electricity, Magnetism, and Electronics
+
+Q: Resistance of a conductor is inversely proportional to its:
+A: Length
+B: Area of cross-section
+C: Temperature
+D: Resistivity
+ANS: B
+
+Q: The unit of Electric Charge is:
+A: Ampere
+B: Coulomb
+C: Volt
+D: Farad
+ANS: B
+
+Q: Three resistors of 3 Ohms each are connected in parallel. The equivalent resistance is:
+A: 9 Ohms
+B: 1 Ohm
+C: 6 Ohms
+D: 1.5 Ohms
+ANS: B
+
+Q: Which law states that the sum of currents entering a junction equals the sum of currents leaving it?
+A: Kirchhoff's Voltage Law
+B: Kirchhoff's Current Law
+C: Ohm's Law
+D: Lenz's Law
+ANS: B
+
+Q: The power dissipated in a resistor R with current I is:
+A: I * R
+B: I^2 * R
+C: V / R
+D: I * R^2
+ANS: B
+
+Q: Which material is a perfect diamagnetic material?
+A: Iron
+B: Superconductor
+C: Aluminum
+D: Copper
+ANS: B
+
+Q: The frequency of a signal with a time period of 0.02 seconds is:
+A: 10 Hz
+B: 50 Hz
+C: 100 Hz
+D: 20 Hz
+ANS: B
+
+Q: What is the peak voltage of a 230V RMS AC supply?
+A: 230 V
+B: 325 V
+C: 460 V
+D: 115 V
+ANS: B
+
+Q: In an intrinsic semiconductor, the number of free electrons is:
+A: More than holes
+B: Equal to holes
+C: Less than holes
+D: Zero
+ANS: B
+
+Q: A capacitor of 10 microfarads stores 100 volts. The charge stored is:
+A: 1 mC
+B: 10 mC
+C: 0.1 mC
+D: 1000 C
+ANS: A
+
+Q: Which logic gate is often used as a digital comparator?
+A: AND
+B: XOR
+C: NOT
+D: OR
+ANS: B
+
+Q: The thickness of the depletion layer in a PN junction increases under:
+A: Forward bias
+B: Reverse bias
+C: No bias
+D: High temperature
+ANS: B
+
+Q: Which type of instrument is used to measure DC only?
+A: Moving Iron
+B: Permanent Magnet Moving Coil (PMMC)
+C: Induction type
+D: Rectifier type
+ANS: B
+
+Q: The hexadecimal equivalent of binary 1111 is:
+A: E
+B: F
+C: 10
+D: 15
+ANS: B
+
+Q: A step-down transformer has a turns ratio of 10:1. If input is 230V, output is:
+A: 2300 V
+B: 23 V
+C: 2.3 V
+D: 230 V
+ANS: B
+
+Heat, Optics, and Engineering Drawing
+
+Q: The absolute zero temperature is equal to:
+A: 0 degrees Celsius
+B: -273.15 degrees Celsius
+C: 273.15 Kelvin
+D: -459 degrees Celsius
+ANS: B
+
+Q: Which mode of heat transfer does not require a medium?
+A: Conduction
+B: Radiation
+C: Convection
+D: Evaporation
+ANS: B
+
+Q: What is the focal length of a plane mirror?
+A: Zero
+B: Infinite
+C: 10 cm
+D: 1 m
+ANS: B
+
+Q: The refractive index of diamond is approximately:
+A: 1.33
+B: 2.42
+C: 1.50
+D: 1.00
+ANS: B
+
+Q: In Engineering Drawing, which line is used to show hidden parts?
+A: Continuous thick line
+B: Dashed thin line
+C: Chain thin line
+D: Continuous thin line
+ANS: B
+
+Q: The size of an A4 drawing sheet is:
+A: 210 x 297 mm
+B: 420 x 594 mm
+C: 297 x 420 mm
+D: 148 x 210 mm
+ANS: A
+
+Q: Which scale is used to represent very small objects in a larger size?
+A: Reducing scale
+B: Enlarging scale
+C: Full size scale
+D: Plain scale
+ANS: B
+
+Q: In first-angle projection, the plan (top view) is drawn:
+A: Above the elevation
+B: Below the elevation
+C: To the left of elevation
+D: Over the elevation
+ANS: B
+
+Q: What is the angle between the Isometric axes?
+A: 90 degrees
+B: 120 degrees
+C: 60 degrees
+D: 180 degrees
+ANS: B
+
+Q: Which lead is the hardest in a drawing pencil?
+A: HB
+B: 9H
+C: 7B
+D: 2H
+ANS: B
+
+Q: Latent heat of fusion of ice is:
+A: 540 cal/g
+B: 80 cal/g
+C: 100 cal/g
+D: 1 cal/g
+ANS: B
+
+Q: Short-sightedness (Myopia) can be corrected using which lens?
+A: Convex
+B: Concave
+C: Bifocal
+D: Cylindrical
+ANS: B
+
+Q: The boiling point of water on the Fahrenheit scale is:
+A: 100 degrees F
+B: 212 degrees F
+C: 32 degrees F
+D: 180 degrees F
+ANS: B
+
+Q: A vector has:
+A: Magnitude only
+B: Direction only
+C: Both magnitude and direction
+D: Neither magnitude nor direction
+ANS: C
+
+Q: Which law states that 'Pressure applied to an enclosed fluid is transmitted undiminished to every portion of the fluid'?
+A: Bernoulli's Law
+B: Pascal's Law
+C: Archimedes Principle
+D: Boyle's Law
+ANS: B

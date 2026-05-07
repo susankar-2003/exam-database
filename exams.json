@@ -1,0 +1,24 @@
+{
+  "RRB Exams": [
+    {
+      "name": "RRB Technician 2024 Shift 1",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/exam-database/main/rrb_shift1.txt"
+    },
+    {
+      "name": "RRB Technician Mock Test",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/exam-database/main/rrb_mock.txt"
+    }
+  ],
+  "ADRE Grade 3": [
+    {
+      "name": "ADRE Previous Year Paper",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/exam-database/main/adre_pyq.txt"
+    }
+  ],
+  "OIL India": [
+    {
+      "name": "OIL Junior Assistant Mock",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/exam-database/main/oil_mock.txt"
+    }
+  ]
+}

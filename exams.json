@@ -1,4 +1,4 @@
-{"_version": "2",
+{"_version": "3",
   "RRB Exams": [
     {
       "name": "RRB Technician 2024 Shift 100",
@@ -22,6 +22,12 @@
     }
    ],
    "ONGC": [
+    {
+      "name": "ADRE Previous Year Paper 2024",
+      "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/aaa.txt"
+    }
+   ],
+  "ic": [
     {
       "name": "ADRE Previous Year Paper 2024",
       "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/aaa.txt"

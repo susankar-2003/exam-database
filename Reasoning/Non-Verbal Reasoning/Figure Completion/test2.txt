@@ -1,0 +1,712 @@
+Here is a fresh set of 100 MCQs for the RRB Technician Grade 1 (Signal) exam. I have maintained the same syllabus distribution and used plain text only to ensure no symbol errors in your CBT simulator.
+
+RRB Technician Grade 1 (Signal) - Mock Test #2 (Plain Text)
+General Awareness (10 Questions)
+
+Q: Which Indian state is known as the "Land of the Rising Sun"?
+A: Assam
+B: Arunachal Pradesh
+C: Nagaland
+D: Manipur
+ANS: B
+
+Q: The "Kaziranga National Park" is famous for which animal?
+A: Bengal Tiger
+B: One-horned Rhinoceros
+C: Asiatic Lion
+D: Elephant
+ANS: B
+
+Q: Who was the first woman to climb Mount Everest?
+A: Bachendri Pal
+B: Junko Tabei
+C: Santosh Yadav
+D: Arundhati Roy
+ANS: B
+
+Q: "Panchayati Raj" was first introduced in which Indian state?
+A: Gujarat
+B: Rajasthan
+C: Bihar
+D: Uttar Pradesh
+ANS: B
+
+Q: The headquarters of the International Court of Justice is located in:
+A: Geneva
+B: The Hague
+C: Paris
+D: New York
+ANS: B
+
+Q: Which planet is known as the "Red Planet"?
+A: Venus
+B: Mars
+C: Jupiter
+D: Saturn
+ANS: B
+
+Q: Who wrote the Indian National Anthem "Jana Gana Mana"?
+A: Bankim Chandra Chattopadhyay
+B: Rabindranath Tagore
+C: Sarojini Naidu
+D: Sri Aurobindo
+ANS: B
+
+Q: The "Duleep Trophy" is associated with which sport?
+A: Hockey
+B: Cricket
+C: Football
+D: Tennis
+ANS: B
+
+Q: In India, the "National Science Day" is celebrated on:
+A: 15th August
+B: 28th February
+C: 2nd October
+D: 12th January
+ANS: B
+
+Q: Which city is the headquarters of the North Eastern Frontier Railway?
+A: Guwahati (Maligaon)
+B: Dibrugarh
+C: Silchar
+D: Jorhat
+ANS: A
+
+Mathematics (20 Questions)
+
+Q: What is the value of (27) raised to the power 2/3?
+A: 3
+B: 9
+C: 6
+D: 27
+ANS: B
+
+Q: If 5x + 3 = 2x + 12, then the value of x is:
+A: 2
+B: 3
+C: 4
+D: 5
+ANS: B
+
+Q: The average of first five prime numbers is:
+A: 5.4
+B: 5.6
+C: 5.8
+D: 6.0
+ANS: B
+
+Q: If a rectangle has a length of 12 cm and a diagonal of 13 cm, what is its width?
+A: 5 cm
+B: 7 cm
+C: 8 cm
+D: 10 cm
+ANS: A
+
+Q: What is the value of cos(60 degrees) + sin(30 degrees)?
+A: 0.5
+B: 1.0
+C: 0.866
+D: 0
+ANS: B
+
+Q: The HCF of two numbers is 11 and their LCM is 693. If one number is 77, find the other.
+A: 88
+B: 99
+C: 101
+D: 110
+ANS: B
+
+Q: Find the value of x if 25 percent of x is 500.
+A: 1000
+B: 2000
+C: 1500
+D: 2500
+ANS: B
+
+Q: The slope of the line passing through (0,0) and (2,4) is:
+A: 0.5
+B: 2
+C: 4
+D: 1
+ANS: B
+
+Q: If the radius of a circle is doubled, its area increases by how many times?
+A: 2 times
+B: 4 times
+C: 8 times
+D: Same
+ANS: B
+
+Q: Solve for x: log2(x) = 5.
+A: 10
+B: 32
+C: 25
+D: 64
+ANS: B
+
+Q: A bag contains 3 red and 2 blue balls. What is the probability of drawing a blue ball?
+A: 1/2
+B: 2/5
+C: 3/5
+D: 2/3
+ANS: B
+
+Q: The product of two consecutive even numbers is 48. Find the numbers.
+A: 4, 12
+B: 6, 8
+C: 8, 10
+D: 10, 12
+ANS: B
+
+Q: If x + 1/x = 4, then x^2 + 1/x^2 is:
+A: 16
+B: 14
+C: 18
+D: 20
+ANS: B
+
+Q: A car travels 240 km in 4 hours. What is its speed in m/s?
+A: 15.2
+B: 16.67
+C: 20.0
+D: 60.0
+ANS: B
+
+Q: The sum of internal angles of a hexagon is:
+A: 360 degrees
+B: 720 degrees
+C: 540 degrees
+D: 900 degrees
+ANS: B
+
+Q: What is the integration of constant 'k' with respect to x?
+A: 0
+B: kx + c
+C: k^2
+D: x
+ANS: B
+
+Q: If 3x - 4y = 5 and x + 2y = 5, then x is:
+A: 2
+B: 3
+C: 1
+D: 4
+ANS: B
+
+Q: The 10th term of an AP: 2, 5, 8, ... is:
+A: 27
+B: 29
+C: 31
+D: 33
+ANS: B
+
+Q: Value of (1/2) divided by (1/4) is:
+A: 1/8
+B: 2
+C: 0.5
+D: 4
+ANS: B
+
+Q: What is the value of 10 factorial divided by 8 factorial?
+A: 80
+B: 90
+C: 100
+D: 72
+ANS: B
+
+General Intelligence & Reasoning (15 Questions)
+
+Q: Find the odd one out: 49, 63, 77, 81.
+A: 49
+B: 81
+C: 63
+D: 77
+ANS: B
+
+Q: In a code, TIGER is written as UJHFS. How is LION written?
+A: MJPO
+B: MKPO
+C: MJPQ
+D: NJPO
+ANS: A
+
+Q: If A is the brother of B, and B is the sister of C, how is A related to C?
+A: Father
+B: Brother
+C: Uncle
+D: Cousin
+ANS: B
+
+Q: Series: 5, 11, 23, 47, ?
+A: 94
+B: 95
+C: 96
+D: 99
+ANS: B
+
+Q: A man faces North. He turns 90 degrees clockwise and then 180 degrees anti-clockwise. Which direction is he facing?
+A: East
+B: West
+C: South
+D: North
+ANS: B
+
+Q: Clock : Time :: Thermometer : ?
+A: Heat
+B: Temperature
+C: Energy
+D: Radiation
+ANS: B
+
+Q: If 'Rain' is 'Water', 'Water' is 'Road', 'Road' is 'Cloud', where do vehicles move?
+A: Water
+B: Road
+C: Cloud
+D: Rain
+ANS: C
+
+Q: How many squares are in a 3x3 grid?
+A: 9
+B: 14
+C: 13
+D: 10
+ANS: B
+
+Q: Introducing a girl, Vipin said, "She is the daughter of my mother's only child." How is Vipin related to the girl?
+A: Brother
+B: Father
+C: Uncle
+D: Grandfather
+ANS: B
+
+Q: Which number replaces the question mark? 3 : 27 :: 4 : ?
+A: 16
+B: 64
+C: 32
+D: 48
+ANS: B
+
+Q: If Tuesday is the 4th of the month, what day is the 24th?
+A: Sunday
+B: Monday
+C: Tuesday
+D: Wednesday
+ANS: B
+
+Q: Arrange in order: 1. Village 2. State 3. Nation 4. District
+A: 1, 4, 2, 3
+B: 1, 2, 4, 3
+C: 4, 1, 2, 3
+D: 1, 4, 3, 2
+ANS: A
+
+Q: All mangoes are golden. Some golden things are expensive. Conclusion: All mangoes are expensive.
+A: True
+B: False
+C: Cannot say
+D: Possible
+ANS: B
+
+Q: Find the missing letter: B, E, H, K, ?
+A: M
+B: N
+C: L
+D: O
+ANS: B
+
+Q: If 123 means 'Hot Filtered Coffee' and 356 means 'Very Hot Day', which digit means 'Hot'?
+A: 1
+B: 3
+C: 2
+D: 5
+ANS: B
+
+Computer & Applications (20 Questions)
+
+Q: Which of the following is the "Brain" of the computer?
+A: RAM
+B: CPU
+C: Hard Disk
+D: Motherboard
+ANS: B
+
+Q: 1 Terabyte (TB) is equal to:
+A: 1024 MB
+B: 1024 GB
+C: 1000 GB
+D: 1024 KB
+ANS: B
+
+Q: What is the full form of PDF?
+A: Printed Document Format
+B: Portable Document Format
+C: Personal Data File
+D: Portable Data Format
+ANS: B
+
+Q: Which of the following is an example of an "Application Software"?
+A: Windows 10
+B: MS Word
+C: Linux
+D: DOS
+ANS: B
+
+Q: In networking, what does LAN stand for?
+A: Large Area Network
+B: Local Area Network
+C: Link Area Network
+D: Long Access Network
+ANS: B
+
+Q: Which key is used to refresh a web page?
+A: F2
+B: F5
+C: F11
+D: F1
+ANS: B
+
+Q: "HTTP" is a protocol used in which layer?
+A: Physical
+B: Application
+C: Transport
+D: Network
+ANS: B
+
+Q: Which part of the CPU performs mathematical calculations?
+A: CU
+B: ALU
+C: Registers
+D: Cache
+ANS: B
+
+Q: Which of the following is NOT a web browser?
+A: Chrome
+B: Firefox
+C: Google
+D: Safari
+ANS: C
+
+Q: What is the shortcut to Undo an action in Windows?
+A: Ctrl + Y
+B: Ctrl + Z
+C: Ctrl + U
+D: Ctrl + X
+ANS: B
+
+Q: A computer's temporary memory is called:
+A: ROM
+B: RAM
+C: Virtual Memory
+D: Flash
+ANS: B
+
+Q: What is the extension of an MS Excel file?
+A: .docx
+B: .xlsx
+C: .pptx
+D: .txt
+ANS: B
+
+Q: Which device is used to connect a computer to a telephone line for internet?
+A: Router
+B: Modem
+C: Switch
+D: Hub
+ANS: B
+
+Q: Junk email is also known as:
+A: Spoof
+B: Spam
+C: Sniffer
+D: Spool
+ANS: B
+
+Q: Which of the following is an "Open Source" operating system?
+A: Windows
+B: Linux
+C: macOS
+D: iOS
+ANS: B
+
+Q: In binary, what is 1 + 1?
+A: 2
+B: 10
+C: 1
+D: 11
+ANS: B
+
+Q: What does GUI stand for?
+A: General User Interval
+B: Graphical User Interface
+C: Global User Index
+D: Graph User Interaction
+ANS: B
+
+Q: Which protocol is used to send emails?
+A: FTP
+B: SMTP
+C: POP3
+D: HTTP
+ANS: B
+
+Q: What is the permanent memory built into your computer called?
+A: RAM
+B: ROM
+C: CPU
+D: CD-ROM
+ANS: B
+
+Q: Verification of a login name and password is known as:
+A: Configuration
+B: Authentication
+C: Accessibility
+D: Logging
+ANS: B
+
+Basic Science and Engineering (35 Questions)
+
+Q: What is the unit of Power?
+A: Joule
+B: Watt
+C: Newton
+D: Pascal
+ANS: B
+
+Q: Which component opposes the flow of current in a circuit?
+A: Capacitor
+B: Resistor
+C: Inductor
+D: Battery
+ANS: B
+
+Q: An instrument used to measure current is:
+A: Voltmeter
+B: Ammeter
+C: Ohmmeter
+D: Galvanometer
+ANS: B
+
+Q: Silicon is a:
+A: Conductor
+B: Semiconductor
+C: Insulator
+D: Superconductor
+ANS: B
+
+Q: A transformer works on the principle of:
+A: Self Induction
+B: Mutual Induction
+C: Static Electricity
+D: Magnetic Resonance
+ANS: B
+
+Q: What is the value of 'g' (acceleration due to gravity) on Earth?
+A: 8.9 m/s2
+B: 9.8 m/s2
+C: 10.5 m/s2
+D: 7.8 m/s2
+ANS: B
+
+Q: Which mirror is used in car headlights?
+A: Convex
+B: Concave
+C: Plane
+D: Cylindrical
+ANS: B
+
+Q: Resistance of an ideal ammeter should be:
+A: Infinite
+B: Zero
+C: High
+D: 100 Ohms
+ANS: B
+
+Q: In a Common Emitter configuration, the current gain is called:
+A: Alpha
+B: Beta
+C: Gamma
+D: Delta
+ANS: B
+
+Q: The frequency of DC supply is:
+A: 50 Hz
+B: 0 Hz
+C: 60 Hz
+D: 100 Hz
+ANS: B
+
+Q: Which material has a negative temperature coefficient of resistance?
+A: Copper
+B: Carbon
+C: Iron
+D: Aluminum
+ANS: B
+
+Q: A NAND gate is followed by a NOT gate. The result is:
+A: OR gate
+B: AND gate
+C: NOR gate
+D: XOR gate
+ANS: B
+
+Q: The speed of sound is maximum in:
+A: Air
+B: Steel
+C: Water
+D: Vacuum
+ANS: B
+
+Q: Which acid is used in lead-acid batteries?
+A: Nitric Acid
+B: Sulphuric Acid
+C: Hydrochloric Acid
+D: Acetic Acid
+ANS: B
+
+Q: What is the bandwidth of a signal from 20 Hz to 20 kHz?
+A: 20 Hz
+B: 19980 Hz
+C: 20000 Hz
+D: 40 kHz
+ANS: B
+
+Q: The breakdown that occurs in a highly doped PN junction is:
+A: Avalanche breakdown
+B: Zener breakdown
+C: Thermal breakdown
+D: Recovery breakdown
+ANS: B
+
+Q: Which diode is used as a photo-detector?
+A: Zener diode
+B: Photodiode
+C: LED
+D: Varactor diode
+ANS: B
+
+Q: Unit of Luminous Intensity is:
+A: Mole
+B: Candela
+C: Kelvin
+D: Ampere
+ANS: B
+
+Q: Heat is transferred in solids primarily by:
+A: Convection
+B: Conduction
+C: Radiation
+D: Evaporation
+ANS: B
+
+Q: A multimeter cannot measure:
+A: Voltage
+B: Frequency
+C: Current
+D: Resistance
+ANS: B
+
+Q: The energy gap in insulators is:
+A: Small
+B: Large
+C: Zero
+D: Variable
+ANS: B
+
+Q: In an AC circuit, the ratio of actual power to apparent power is:
+A: Form factor
+B: Power factor
+C: Peak factor
+D: Load factor
+ANS: B
+
+Q: Which law is used to find the direction of induced current?
+A: Faraday's Law
+B: Lenz's Law
+C: Ohm's Law
+D: Coulomb's Law
+ANS: B
+
+Q: A transistor acts as a closed switch when it is in:
+A: Cut-off region
+B: Saturation region
+C: Active region
+D: Reverse active region
+ANS: B
+
+Q: Which modulation is used in TV video transmission?
+A: FM
+B: AM
+C: PM
+D: PCM
+ANS: B
+
+Q: The process of removing the carrier wave from the original signal is:
+A: Modulation
+B: Demodulation
+C: Amplification
+D: Rectification
+ANS: B
+
+Q: Number of valence electrons in Silicon is:
+A: 2
+B: 4
+C: 6
+D: 8
+ANS: B
+
+Q: Which instrument is used to measure very high resistances (like insulation)?
+A: Multimeter
+B: Megger
+C: Potentiometer
+D: Wheatstone Bridge
+ANS: B
+
+Q: Kinetic energy depends on:
+A: Mass only
+B: Mass and Velocity
+C: Velocity only
+D: Position
+ANS: B
+
+Q: Which bridge is used to measure capacitance?
+A: Maxwell Bridge
+B: Schering Bridge
+C: Anderson Bridge
+D: Hay Bridge
+ANS: B
+
+Q: In binary, how many bits make 1 Byte?
+A: 4
+B: 8
+C: 16
+D: 32
+ANS: B
+
+Q: What is the color code for a 1k Ohm resistor?
+A: Brown, Black, Red
+B: Brown, Black, Orange
+C: Red, Red, Red
+D: Yellow, Violet, Brown
+ANS: A
+
+Q: Which gate gives a HIGH output only when both inputs are LOW?
+A: OR
+B: NOR
+C: AND
+D: NAND
+ANS: B
+
+Q: Power P in a DC circuit is calculated as:
+A: V + I
+B: V * I
+C: V / I
+D: I / V
+ANS: B
+
+Q: The logic gate which acts as an inverter is:
+A: OR
+B: NOT
+C: AND
+D: NAND
+ANS: B

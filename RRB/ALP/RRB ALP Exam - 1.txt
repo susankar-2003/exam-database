@@ -1,0 +1,699 @@
+1. What does ALP stand for in RRB ALP Examination?
+   A) Assistant Loco Pilot
+   B) Additional Line Pilot
+   C) Advanced Loco Passenger
+   D) Assistant Logistics Personnel
+   Ans: A
+
+2. Which organization conducts the RRB ALP Examination?
+   A) SSC
+   B) UPSC
+   C) Railway Recruitment Board
+   D) IBPS
+   Ans: C
+
+3. The primary duty of an ALP is:
+   A) Ticket checking
+   B) Assisting train operation
+   C) Cleaning coaches
+   D) Handling accounts
+   Ans: B
+
+4. Which section is included in CBT 1 of RRB ALP?
+   A) General Science
+   B) Mechanical Engineering
+   C) Drawing
+   D) Electrical Workshop
+   Ans: A
+
+5. Total duration of CBT 1 is:
+   A) 45 minutes
+   B) 60 minutes
+   C) 75 minutes
+   D) 90 minutes
+   Ans: B
+
+6. Negative marking in RRB ALP is:
+   A) 1/2 mark
+   B) 1/4 mark
+   C) 1/3 mark
+   D) No negative marking
+   Ans: C
+
+7. Which subject is NOT included in CBT 1?
+   A) Mathematics
+   B) General Intelligence
+   C) Current Affairs
+   D) Technical Engineering
+   Ans: D
+
+8. Number of questions in CBT 1:
+   A) 50
+   B) 75
+   C) 100
+   D) 120
+   Ans: B
+
+9. Full form of RRB is:
+   A) Railway Recruitment Board
+   B) Regional Railway Bureau
+   C) Railway Reservation Branch
+   D) Rail Road Board
+   Ans: A
+
+10. Minimum educational qualification for ALP:
+    A) 8th Pass
+    B) 10th + ITI/Diploma
+    C) Graduation
+    D) Post Graduation
+    Ans: B
+
+11. Which is the square root of 144?
+    A) 10
+    B) 12
+    C) 14
+    D) 16
+    Ans: B
+
+12. Simplify: 15 × 6
+    A) 80
+    B) 85
+    C) 90
+    D) 95
+    Ans: C
+
+13. Find 25% of 200
+    A) 25
+    B) 40
+    C) 50
+    D) 75
+    Ans: C
+
+14. Average of 10, 20, 30
+    A) 15
+    B) 20
+    C) 25
+    D) 30
+    Ans: B
+
+15. If x=5, then x²=
+    A) 10
+    B) 15
+    C) 20
+    D) 25
+    Ans: D
+
+16. HCF of 12 and 18:
+    A) 3
+    B) 6
+    C) 9
+    D) 12
+    Ans: B
+
+17. LCM of 4 and 6:
+    A) 8
+    B) 10
+    C) 12
+    D) 16
+    Ans: C
+
+18. 7³ equals:
+    A) 343
+    B) 243
+    C) 49
+    D) 512
+    Ans: A
+
+19. Value of π approximately:
+    A) 2.14
+    B) 3.14
+    C) 4.14
+    D) 5.14
+    Ans: B
+
+20. Area of square with side 5:
+    A) 10
+    B) 20
+    C) 25
+    D) 30
+    Ans: C
+
+21. Synonym of “Rapid”
+    A) Slow
+    B) Quick
+    C) Weak
+    D) Heavy
+    Ans: B
+
+22. Opposite of “Expand”
+    A) Contract
+    B) Extend
+    C) Grow
+    D) Increase
+    Ans: A
+
+23. Choose correct spelling:
+    A) Accomodation
+    B) Accommodation
+    C) Acommodation
+    D) Accommudation
+    Ans: B
+
+24. Antonym of “Victory”
+    A) Success
+    B) Defeat
+    C) Triumph
+    D) Gain
+    Ans: B
+
+25. “Honest” means:
+    A) Truthful
+    B) Angry
+    C) Lazy
+    D) Fearful
+    Ans: A
+
+26. If CAT = 24, BAT = ?
+    A) 21
+    B) 22
+    C) 23
+    D) 24
+    Ans: C
+
+27. Complete series: 2,4,8,16,?
+    A) 24
+    B) 30
+    C) 32
+    D) 36
+    Ans: C
+
+28. Odd one out:
+    A) Circle
+    B) Triangle
+    C) Rectangle
+    D) Apple
+    Ans: D
+
+29. Mirror image reasoning belongs to:
+    A) Arithmetic
+    B) General Intelligence
+    C) GK
+    D) Science
+    Ans: B
+
+30. Clock angle at 3:00:
+    A) 45°
+    B) 60°
+    C) 90°
+    D) 120°
+    Ans: C
+
+31. SI unit of force:
+    A) Joule
+    B) Watt
+    C) Newton
+    D) Pascal
+    Ans: C
+
+32. Water boils at:
+    A) 50°C
+    B) 75°C
+    C) 100°C
+    D) 120°C
+    Ans: C
+
+33. Chemical formula of water:
+    A) CO₂
+    B) H₂O
+    C) O₂
+    D) NaCl
+    Ans: B
+
+34. Human heart has how many chambers?
+    A) 2
+    B) 3
+    C) 4
+    D) 5
+    Ans: C
+
+35. Earth revolves around:
+    A) Moon
+    B) Mars
+    C) Sun
+    D) Venus
+    Ans: C
+
+36. Largest planet:
+    A) Earth
+    B) Jupiter
+    C) Saturn
+    D) Mars
+    Ans: B
+
+37. Vitamin C deficiency causes:
+    A) Scurvy
+    B) Rickets
+    C) Night blindness
+    D) Beriberi
+    Ans: A
+
+38. Unit of current:
+    A) Volt
+    B) Watt
+    C) Ampere
+    D) Ohm
+    Ans: C
+
+39. Gas essential for breathing:
+    A) Nitrogen
+    B) Oxygen
+    C) Hydrogen
+    D) Carbon dioxide
+    Ans: B
+
+40. Photosynthesis occurs in:
+    A) Roots
+    B) Stem
+    C) Leaves
+    D) Flowers
+    Ans: C
+
+41. Capital of India:
+    A) Mumbai
+    B) Delhi
+    C) Kolkata
+    D) Chennai
+    Ans: B
+
+42. National animal of India:
+    A) Lion
+    B) Elephant
+    C) Tiger
+    D) Leopard
+    Ans: C
+
+43. Currency of Japan:
+    A) Dollar
+    B) Yen
+    C) Won
+    D) Peso
+    Ans: B
+
+44. First President of India:
+    A) Rajendra Prasad
+    B) Nehru
+    C) Gandhi
+    D) Kalam
+    Ans: A
+
+45. Largest ocean:
+    A) Atlantic
+    B) Indian
+    C) Arctic
+    D) Pacific
+    Ans: D
+
+46. Red Fort is in:
+    A) Agra
+    B) Jaipur
+    C) Delhi
+    D) Mumbai
+    Ans: C
+
+47. National flower of India:
+    A) Rose
+    B) Lotus
+    C) Lily
+    D) Jasmine
+    Ans: B
+
+48. Currency of UK:
+    A) Euro
+    B) Dollar
+    C) Pound
+    D) Yen
+    Ans: C
+
+49. Constitution adopted in:
+    A) 1947
+    B) 1948
+    C) 1949
+    D) 1950
+    Ans: C
+
+50. Largest state by area:
+    A) UP
+    B) MP
+    C) Rajasthan
+    D) Maharashtra
+    Ans: C
+
+51. 12 × 8 =
+    A) 96
+    B) 98
+    C) 88
+    D) 92
+    Ans: A
+
+52. Cube root of 64:
+    A) 2
+    B) 3
+    C) 4
+    D) 5
+    Ans: C
+
+53. 18 ÷ 3 =
+    A) 5
+    B) 6
+    C) 7
+    D) 8
+    Ans: B
+
+54. Perimeter of square side 4:
+    A) 8
+    B) 12
+    C) 16
+    D) 20
+    Ans: C
+
+55. 1000 grams =
+    A) 1 kg
+    B) 10 kg
+    C) 100 kg
+    D) 0.1 kg
+    Ans: A
+
+56. Which is prime?
+    A) 9
+    B) 15
+    C) 17
+    D) 21
+    Ans: C
+
+57. Decimal of 1/2:
+    A) 0.2
+    B) 0.5
+    C) 0.8
+    D) 1.0
+    Ans: B
+
+58. 9² =
+    A) 18
+    B) 27
+    C) 81
+    D) 72
+    Ans: C
+
+59. Half of 500:
+    A) 200
+    B) 250
+    C) 300
+    D) 350
+    Ans: B
+
+60. Roman numeral for 50:
+    A) L
+    B) C
+    C) X
+    D) V
+    Ans: A
+
+61. Direction opposite to East:
+    A) North
+    B) South
+    C) West
+    D) Northeast
+    Ans: C
+
+62. Next alphabet after M:
+    A) N
+    B) O
+    C) P
+    D) L
+    Ans: A
+
+63. Odd one:
+    A) Dog
+    B) Cat
+    C) Cow
+    D) Car
+    Ans: D
+
+64. If 5 pens cost ₹50, one pen costs:
+    A) ₹5
+    B) ₹10
+    C) ₹15
+    D) ₹20
+    Ans: B
+
+65. Smallest even number:
+    A) 0
+    B) 1
+    C) 2
+    D) 4
+    Ans: A
+
+66. Which is not a fruit?
+    A) Mango
+    B) Banana
+    C) Potato
+    D) Apple
+    Ans: C
+
+67. Largest continent:
+    A) Africa
+    B) Europe
+    C) Asia
+    D) Australia
+    Ans: C
+
+68. Railway tracks are usually made of:
+    A) Wood
+    B) Plastic
+    C) Steel
+    D) Rubber
+    Ans: C
+
+69. Speed unit:
+    A) m/s
+    B) kg
+    C) litre
+    D) ampere
+    Ans: A
+
+70. 60 minutes equals:
+    A) 1 hour
+    B) 2 hours
+    C) 30 min
+    D) 90 min
+    Ans: A
+
+71. Who invented bulb?
+    A) Edison
+    B) Newton
+    C) Bell
+    D) Tesla
+    Ans: A
+
+72. Shape with 5 sides:
+    A) Hexagon
+    B) Pentagon
+    C) Triangle
+    D) Square
+    Ans: B
+
+73. Railway budget merged in:
+    A) 2015
+    B) 2016
+    C) 2017
+    D) 2018
+    Ans: C
+
+74. Number of days in leap year:
+    A) 364
+    B) 365
+    C) 366
+    D) 367
+    Ans: C
+
+75. Gas plants absorb:
+    A) Oxygen
+    B) Nitrogen
+    C) Carbon dioxide
+    D) Helium
+    Ans: C
+
+76. Keyboard has how many function keys?
+    A) 10
+    B) 12
+    C) 14
+    D) 16
+    Ans: B
+
+77. Binary of decimal 2:
+    A) 01
+    B) 10
+    C) 11
+    D) 100
+    Ans: B
+
+78. Founder of Microsoft:
+    A) Jobs
+    B) Gates
+    C) Musk
+    D) Page
+    Ans: B
+
+79. WWW stands for:
+    A) World Wide Web
+    B) Wide Web World
+    C) Web World Wide
+    D) World Web Work
+    Ans: A
+
+80. CPU means:
+    A) Central Process Unit
+    B) Central Processing Unit
+    C) Computer Processing Unit
+    D) Core Process Unit
+    Ans: B
+
+81. Sun rises in:
+    A) West
+    B) East
+    C) North
+    D) South
+    Ans: B
+
+82. Largest mammal:
+    A) Elephant
+    B) Whale
+    C) Giraffe
+    D) Rhino
+    Ans: B
+
+83. Rainbow has:
+    A) 5 colors
+    B) 6 colors
+    C) 7 colors
+    D) 8 colors
+    Ans: C
+
+84. National anthem writer:
+    A) Tagore
+    B) Premchand
+    C) Kalidas
+    D) Gandhi
+    Ans: A
+
+85. Currency of USA:
+    A) Euro
+    B) Pound
+    C) Dollar
+    D) Yen
+    Ans: C
+
+86. SI unit of energy:
+    A) Watt
+    B) Joule
+    C) Newton
+    D) Volt
+    Ans: B
+
+87. Fastest land animal:
+    A) Tiger
+    B) Leopard
+    C) Cheetah
+    D) Horse
+    Ans: C
+
+88. Largest desert:
+    A) Sahara
+    B) Gobi
+    C) Thar
+    D) Kalahari
+    Ans: A
+
+89. Instrument to measure temperature:
+    A) Thermometer
+    B) Barometer
+    C) Hygrometer
+    D) Altimeter
+    Ans: A
+
+90. Railway signal color for stop:
+    A) Green
+    B) Yellow
+    C) Red
+    D) Blue
+    Ans: C
+
+91. Number of players in cricket team:
+    A) 9
+    B) 10
+    C) 11
+    D) 12
+    Ans: C
+
+92. Currency of China:
+    A) Yen
+    B) Yuan
+    C) Won
+    D) Dollar
+    Ans: B
+
+93. Hardest natural substance:
+    A) Gold
+    B) Iron
+    C) Diamond
+    D) Silver
+    Ans: C
+
+94. Largest river in India:
+    A) Ganga
+    B) Yamuna
+    C) Godavari
+    D) Brahmaputra
+    Ans: A
+
+95. Computer brain:
+    A) RAM
+    B) CPU
+    C) Monitor
+    D) Keyboard
+    Ans: B
+
+96. Which is input device?
+    A) Printer
+    B) Speaker
+    C) Keyboard
+    D) Monitor
+    Ans: C
+
+97. Full form of USB:
+    A) Universal Serial Bus
+    B) United Serial Bus
+    C) Universal Service Bus
+    D) Unified Serial Base
+    Ans: A
+
+98. First month of year:
+    A) February
+    B) January
+    C) March
+    D) April
+    Ans: B
+
+99. Number of zeros in one thousand:
+    A) 2
+    B) 3
+    C) 4
+    D) 5
+    Ans: B
+
+100. ALP works under:
+     A) Postal Department
+     B) Railway Department
+     C) Banking Sector
+     D) Defense Ministry
+     Ans: B

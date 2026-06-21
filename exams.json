@@ -18,6 +18,13 @@
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/APSC%20(Assam%20Public%20Service%20Commission)/APSC%20JE/paper%201.txt"
         }],
+    "Assam Police": [{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Assam%20Police/Assam%20Police%20Constable/paper%201.txt"
+        },{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Assam%20Police/Assam%20Police%20SI/paper%201.txt"
+        }],
     "ADRE": [{
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/ADRE/Grade-III%20Papers/Bachelor's%20Degree%20Level/paper%201.txt"

@@ -18,6 +18,16 @@
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/APSC%20(Assam%20Public%20Service%20Commission)/APSC%20JE/paper%201.txt"
         }],
+     "Bachelor of Education (B.Ed)": [{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Bachelor%20of%20Education%20(B.Ed)/Assam%20University%2C%20Silchar/paper%201.txt"
+        },{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Bachelor%20of%20Education%20(B.Ed)/Dibrugarh%20University%20(DU%20B.Ed.%20CET)/paper%201.txt"
+        },{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Bachelor%20of%20Education%20(B.Ed)/Gauhati%20University%20(GUBEDCET)/paper%201.txt"
+        }],
     "Assam Police": [{
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Assam%20Police/Assam%20Police%20Constable/paper%201.txt"
@@ -25,15 +35,19 @@
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Assam%20Police/Assam%20Police%20SI/paper%201.txt"
         }],
+    "Assam Teacher Eligibility Test (TET)": [{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Assam%20Teacher%20Eligibility%20Test%20(TET)/Paper%20I%20-%20for%20Lower%20Primary/paper%201.txt"
+        }, {
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Assam%20Teacher%20Eligibility%20Test%20(TET)/Paper%20II%20for%20Upper%20Primary/paper%201.txt"
+        }],
     "ADRE": [{
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/ADRE/Grade-III%20Papers/Bachelor's%20Degree%20Level/paper%201.txt"
         },{
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/ADRE/Grade-III%20Papers/HSLC%20or%20Equivalent%20Level/paper%201.txt"
-        },{
-            "name": "Paper 1",
-            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/ADRE/Grade-III%20Papers/Bachelor's%20Degree%20Level/paper%201.txt"
         },{
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/ADRE/Grade-III%20Papers/HSSLC%20or%20Equivalent%20Level/paper.txt"

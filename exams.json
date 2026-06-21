@@ -22,6 +22,16 @@
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/APSC%20(Assam%20Public%20Service%20Commission)/APSC%20JE/paper%201.txt"
         }],
+    "Medical Department": [{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Medical%20Department/Directorate%20of%20Health%20Services%20(DHS)/paper%201.txt"
+        },{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Medical%20Department/Directorate%20of%20Medical%20Education%20(DME)/paper%201.txt"
+        },{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Medical%20Department/NHM%20Assam%20(National%20Health%20Mission)/paper1.txt"
+        }],
      "Bachelor of Education (B.Ed)": [{
             "name": "Paper 1",
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Bachelor%20of%20Education%20(B.Ed)/Assam%20University%2C%20Silchar/paper%201.txt"

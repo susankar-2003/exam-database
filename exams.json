@@ -9,8 +9,14 @@
             "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Gauhati%20University%20(GUBEDCET)/Previous%20Year%202016.txt"
         }],
     "APSC (Assam Public Service Commission)": [{
-            "name": "APSC (Assam Public Service Commission)",
-            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/Gauhati%20University%20(GUBEDCET)/Previous%20Year%202016.txt"
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/APSC%20(Assam%20Public%20Service%20Commission)/APSC%20AE/paper%201.txt"
+        },{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/APSC%20(Assam%20Public%20Service%20Commission)/APSC%20CEE/paper%201.txt"
+        },{
+            "name": "Paper 1",
+            "url": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/APSC%20(Assam%20Public%20Service%20Commission)/APSC%20JE/paper%201.txt"
         }],
     "OIL India Limited": [
         {

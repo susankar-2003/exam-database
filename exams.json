@@ -1,5 +1,33 @@
 {
     "_version": "11",
+
+
+"_category_descriptions": {
+    "Dibrugarh University (DU B.Ed. CET)": "Previous year papers for DU B.Ed CET.",
+    "Assam Police": "Mock tests and past papers for Assam Police recruitment."
+  },
+  "_banners": [
+    {
+      "type": "custom",
+      "imageUrl": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/banners/banner1.png",
+      "actionUrl": "app://exam?name=Dibrugarh%20University%20(DU%20B.Ed.%20CET)/DU%20Paper%201&url=https://github.com/susankar-2003/exam-database/raw/refs/heads/main/Dibrugarh%20University%20(DU%20B.Ed.%20CET)/DU%20Paper%201.zip"
+    },
+    {
+      "type": "admob"
+    },
+    {
+      "type": "custom",
+      "imageUrl": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/banners/banner2.png",
+      "actionUrl": "https://play.google.com/store/apps/details?id=your.other.app"
+    }
+  ],
+
+
+
+
+
+
+    
      "Dibrugarh University (DU B.Ed. CET)": [{
             "name": "Dibrugarh University (DU B.Ed. CET)",
             "url": "https://github.com/susankar-2003/exam-database/raw/refs/heads/main/Dibrugarh%20University%20(DU%20B.Ed.%20CET)/DU%20Paper%201.zip"

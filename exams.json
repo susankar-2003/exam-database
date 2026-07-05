@@ -17,7 +17,7 @@
     },
     {
       "type": "custom",
-      "imageUrl": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/banners/banner2.png",
+      "imageUrl": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/banners/banner2.png",
       "actionUrl": "https://play.google.com/store/apps/details?id=your.other.app"
     }
   ],

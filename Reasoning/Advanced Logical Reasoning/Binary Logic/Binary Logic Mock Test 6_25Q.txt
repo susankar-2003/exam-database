@@ -1,174 +1,150 @@
-26. Which of the following is also a universal gate?
-    A) XOR
-    B) NOR
-    C) XNOR
-    D) Buffer
-    Ans: B
-
-27. What is the output of 1 OR 1?
-    A) 0
-    B) 1
-    C) Undefined
-    D) 2
-    Ans: B
-
-28. What is the output of 0 XOR 0?
-    A) 0
-    B) 1
-    C) 2
-    D) Undefined
-    Ans: A
-
-29. What is the output of 0 XNOR 0?
-    A) 0
-    B) 1
-    C) Undefined
-    D) 2
-    Ans: B
-
-30. Which gate performs logical inversion?
-    A) OR
-    B) AND
-    C) NOT
-    D) XOR
-    Ans: C
-
-31. If A = 0 and B = 0, what is the output of A NAND B?
-    A) 0
-    B) 1
-    C) Undefined
-    D) 2
-    Ans: B
-
-32. If A = 1 and B = 1, what is the output of A NOR B?
-    A) 0
-    B) 1
-    C) 2
-    D) Undefined
-    Ans: A
-
-33. Which gate produces 0 only when all inputs are 1?
-    A) AND
-    B) NAND
-    C) OR
-    D) XOR
-    Ans: B
-
-34. Which gate produces 1 only when all inputs are 0?
-    A) NOR
-    B) NAND
-    C) XOR
-    D) OR
-    Ans: A
-
-35. Which gate gives an output of 0 when the inputs are different?
-    A) XOR
-    B) XNOR
-    C) OR
-    D) NAND
-    Ans: B
-
-36. If A = 1 and B = 1, what is the output of A XOR B?
-    A) 0
-    B) 1
-    C) 2
-    D) Undefined
-    Ans: A
-
-37. If A = 0 and B = 0, what is the output of A OR B?
-    A) 0
-    B) 1
-    C) Undefined
-    D) 2
-    Ans: A
-
-38. If A = 1 and B = 1, what is the output of A AND B?
-    A) 0
-    B) 1
-    C) 2
-    D) Undefined
-    Ans: B
-
-39. If A = 0 and B = 1, what is the output of A NOR B?
-    A) 0
-    B) 1
-    C) Undefined
-    D) 2
-    Ans: A
-
-40. Which gate is commonly used to compare two binary bits for equality?
-    A) XOR
-    B) XNOR
-    C) NAND
-    D) OR
-    Ans: B
-
-41. What is the binary complement of 1010?
-    A) 0101
-    B) 1111
-    C) 1001
-    D) 0011
-    Ans: A
-
-42. What is the binary complement of 1100?
-    A) 0011
-    B) 0101
-    C) 1010
-    D) 1111
-    Ans: A
-
-43. Which gate is equivalent to an OR gate followed by a NOT gate?
-    A) NAND
-    B) NOR
-    C) XOR
-    D) Buffer
-    Ans: B
-
-44. Which gate is equivalent to an AND gate followed by a NOT gate?
-    A) NOR
-    B) XOR
-    C) NAND
-    D) XNOR
-    Ans: C
-
-45. What is the output of (1 AND 0) OR 1?
-    A) 0
-    B) 1
-    C) Undefined
-    D) 2
-    Ans: B
-
-46. What is the output of (1 OR 0) AND 0?
-    A) 0
-    B) 1
-    C) 2
-    D) Undefined
-    Ans: A
-
-47. What is the output of NOT(1 AND 1)?
-    A) 0
-    B) 1
-    C) 2
-    D) Undefined
-    Ans: A
-
-48. What is the output of NOT(0 OR 0)?
-    A) 0
-    B) 1
-    C) Undefined
-    D) 2
-    Ans: B
-
-49. What is the output of (1 XOR 0) AND 1?
-    A) 0
-    B) 1
-    C) 2
-    D) Undefined
-    Ans: B
-
-50. Which logic gate always passes the input to the output without changing it?
-    A) NOT
-    B) XOR
-    C) Buffer
-    D) NAND
-    Ans: C
+1. Person I says, "J is a liar." Person J says, "K is a liar." Person K says, "Both I and J are truth-tellers." Who is a truth-teller?
+A) I
+B) J
+C) K
+D) None
+Ans: A
+2. You encounter M and N. M says, "N is a liar." N says, "M and I are the same type." What is M?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: A
+3. Person O says, "If Person P is a truth-teller, then I am a liar." What are O and P?
+A) O is a truth-teller, P is a truth-teller
+B) O is a liar, P is a liar
+C) O is a liar, P is a truth-teller
+D) O is a truth-teller, P is a liar
+Ans: C
+4. Person Q says, "At least one of us (Q and R) is a liar." Person R says, "Q is a truth-teller." What are they?
+A) Q is a truth-teller, R is a liar
+B) Q is a liar, R is a truth-teller
+C) Both are truth-tellers
+D) Both are liars
+Ans: A
+5. Person S says, "T is a liar." Person T says, "U is a truth-teller." Person U says, "S is a liar." How many liars are there among them?
+A) 1
+B) 2
+C) 3
+D) 0
+Ans: B
+6. You meet V, W, X. V says, "W and X are liars." W says, "V and X are liars." X says, "V and W are liars." How many are truth-tellers?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: B
+7. Person Y says, "Z is a truth-teller." Person Z says, "Y is a liar." What can you deduce?
+A) Y is a truth-teller, Z is a liar
+B) Y is a liar, Z is a truth-teller
+C) Both are liars
+D) Both are truth-tellers
+Ans: C
+8. Three people, A1, B1, and C1. A1 says, "All of us are liars." B1 says, "Exactly one of us is a truth-teller." What is C1?
+A) Truth-teller
+B) Liar
+C) Spy
+D) Unknown
+Ans: B
+9. A2 says, "B2 is a liar." B2 says, "C2 is a liar." C2 says, "A2 is a liar." Which statement is true?
+A) Exactly one is a truth-teller
+B) Exactly two are truth-tellers
+C) All are liars
+D) All are truth-tellers
+Ans: A
+10. A detective interviews D1, D2, and D3 about a crime. Only one is innocent, and the innocent person tells the truth (guilty lie). D1 says, "D2 is guilty." D2 says, "D3 is guilty." D3 says, "D1 is guilty." Who is innocent?
+A) D1
+B) D2
+C) D3
+D) Cannot be determined
+Ans: D
+11. In a different town, the guilty person tells the truth and the innocent people lie. There is one guilty person. E1 says, "E2 is innocent." E2 says, "E3 is guilty." E3 says, "E1 is guilty." Who is guilty?
+A) E1
+B) E2
+C) E3
+D) None
+Ans: B
+12. You meet F1 and F2. F1 says, "F2 and I are both truth-tellers or both liars." F2 says, "F1 is a liar." What are they?
+A) F1 is a truth-teller, F2 is a liar
+B) F1 is a liar, F2 is a truth-teller
+C) Both are truth-tellers
+D) Both are liars
+Ans: B
+13. You meet G1, G2, G3. G1 says, "G2 is a truth-teller." G2 says, "G1 and G3 are different types." G3 says, "G1 is a liar." What is G2?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: B
+14. H1 says, "I am a truth-teller." H2 says, "H1 is a liar." H3 says, "H2 is a liar." If exactly one person is a liar, who is it?
+A) H1
+B) H2
+C) H3
+D) Cannot be determined
+Ans: B
+15. Three people sit in a circle: I1, I2, I3. Each person says, "The person to my right is a liar." What is the maximum number of truth-tellers?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: 1
+16. Five people stand in a line. Each says, "The person in front of me is a liar." The first person says, "I am a truth-teller." How many liars are in the line?
+A) 2
+B) 3
+C) 4
+D) 5
+Ans: A
+17. You meet J1 and J2. J1 says, "We are both liars." What is J2?
+A) Truth-teller
+B) Liar
+C) Cannot be determined
+D) J1 is a paradox
+Ans: A
+18. K1 says, "If K2 is a liar, then I am a liar." What can you deduce?
+A) K1 is a truth-teller
+B) K2 is a truth-teller
+C) Both are truth-tellers
+D) Both are liars
+Ans: B
+19. L1 says, "L2 is a truth-teller." L2 says, "If L1 is a truth-teller, then I am a liar." What are they?
+A) L1 is a truth-teller, L2 is a liar
+B) L1 is a liar, L2 is a truth-teller
+C) Both are truth-tellers
+D) Both are liars
+Ans: D
+20. M1 says, "I am a liar and M2 is a truth-teller." What is M1?
+A) Truth-teller
+B) Liar
+C) Spy
+D) Impossible to determine
+Ans: B
+21. You ask N1, "Are you a liar?" N1 replies. N2 says, "N1 said yes." N3 says, "N2 is telling the truth." What is N3?
+A) Truth-teller
+B) Liar
+C) Half-liar
+D) Cannot be determined
+Ans: B
+22. O1 says, "O2 and O3 are both liars." O2 says, "O1 and O3 are both liars." O3 says, "At least one of O1 or O2 is a truth-teller." How many liars are there?
+A) 1
+B) 2
+C) 3
+D) 0
+Ans: B
+23. P1 says, "P2 is a liar." P2 says, "P3 is a liar." P3 says, "P1 and P2 are of the same type." Who is a truth-teller?
+A) P1
+B) P2
+C) P3
+D) None
+Ans: B
+24. Q1 says, "Exactly two of us (Q1, Q2, Q3) are truth-tellers." Q2 says, "Exactly two of us are liars." Q3 says, "I am a liar." Who is a truth-teller?
+A) Q1
+B) Q2
+C) Q3
+D) Q1 and Q2
+Ans: B
+25. R1 says, "All three of us are truth-tellers." R2 says, "R1 is a liar." R3 says, "R1 is a truth-teller." What is R2?
+A) Truth-teller
+B) Liar
+C) Knave
+D) Unknown
+Ans: A

@@ -1,0 +1,174 @@
+26. Which of the following is also a universal gate?
+    A) XOR
+    B) NOR
+    C) XNOR
+    D) Buffer
+    Ans: B
+
+27. What is the output of 1 OR 1?
+    A) 0
+    B) 1
+    C) Undefined
+    D) 2
+    Ans: B
+
+28. What is the output of 0 XOR 0?
+    A) 0
+    B) 1
+    C) 2
+    D) Undefined
+    Ans: A
+
+29. What is the output of 0 XNOR 0?
+    A) 0
+    B) 1
+    C) Undefined
+    D) 2
+    Ans: B
+
+30. Which gate performs logical inversion?
+    A) OR
+    B) AND
+    C) NOT
+    D) XOR
+    Ans: C
+
+31. If A = 0 and B = 0, what is the output of A NAND B?
+    A) 0
+    B) 1
+    C) Undefined
+    D) 2
+    Ans: B
+
+32. If A = 1 and B = 1, what is the output of A NOR B?
+    A) 0
+    B) 1
+    C) 2
+    D) Undefined
+    Ans: A
+
+33. Which gate produces 0 only when all inputs are 1?
+    A) AND
+    B) NAND
+    C) OR
+    D) XOR
+    Ans: B
+
+34. Which gate produces 1 only when all inputs are 0?
+    A) NOR
+    B) NAND
+    C) XOR
+    D) OR
+    Ans: A
+
+35. Which gate gives an output of 0 when the inputs are different?
+    A) XOR
+    B) XNOR
+    C) OR
+    D) NAND
+    Ans: B
+
+36. If A = 1 and B = 1, what is the output of A XOR B?
+    A) 0
+    B) 1
+    C) 2
+    D) Undefined
+    Ans: A
+
+37. If A = 0 and B = 0, what is the output of A OR B?
+    A) 0
+    B) 1
+    C) Undefined
+    D) 2
+    Ans: A
+
+38. If A = 1 and B = 1, what is the output of A AND B?
+    A) 0
+    B) 1
+    C) 2
+    D) Undefined
+    Ans: B
+
+39. If A = 0 and B = 1, what is the output of A NOR B?
+    A) 0
+    B) 1
+    C) Undefined
+    D) 2
+    Ans: A
+
+40. Which gate is commonly used to compare two binary bits for equality?
+    A) XOR
+    B) XNOR
+    C) NAND
+    D) OR
+    Ans: B
+
+41. What is the binary complement of 1010?
+    A) 0101
+    B) 1111
+    C) 1001
+    D) 0011
+    Ans: A
+
+42. What is the binary complement of 1100?
+    A) 0011
+    B) 0101
+    C) 1010
+    D) 1111
+    Ans: A
+
+43. Which gate is equivalent to an OR gate followed by a NOT gate?
+    A) NAND
+    B) NOR
+    C) XOR
+    D) Buffer
+    Ans: B
+
+44. Which gate is equivalent to an AND gate followed by a NOT gate?
+    A) NOR
+    B) XOR
+    C) NAND
+    D) XNOR
+    Ans: C
+
+45. What is the output of (1 AND 0) OR 1?
+    A) 0
+    B) 1
+    C) Undefined
+    D) 2
+    Ans: B
+
+46. What is the output of (1 OR 0) AND 0?
+    A) 0
+    B) 1
+    C) 2
+    D) Undefined
+    Ans: A
+
+47. What is the output of NOT(1 AND 1)?
+    A) 0
+    B) 1
+    C) 2
+    D) Undefined
+    Ans: A
+
+48. What is the output of NOT(0 OR 0)?
+    A) 0
+    B) 1
+    C) Undefined
+    D) 2
+    Ans: B
+
+49. What is the output of (1 XOR 0) AND 1?
+    A) 0
+    B) 1
+    C) 2
+    D) Undefined
+    Ans: B
+
+50. Which logic gate always passes the input to the output without changing it?
+    A) NOT
+    B) XOR
+    C) Buffer
+    D) NAND
+    Ans: C

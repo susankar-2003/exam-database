@@ -1,0 +1,150 @@
+1. M says, "N and O are both truth-tellers." N says, "M is a liar and O is a truth-teller." O says, "M and N are both liars." Who is a truth-teller?
+A) M
+B) N
+C) O
+D) None
+Ans: C
+2. P says, "Q is a liar." Q says, "R is a liar." R says, "S is a liar." S says, "P is a liar." Which pair could both be liars?
+A) P and Q
+B) P and R
+C) P and S
+D) Q and S
+Ans: B
+3. T says, "I am a truth-teller." U says, "T is a liar." V says, "U is a liar." W says, "V is a liar." If exactly two are truth-tellers, who are they?
+A) T and U
+B) T and V
+C) U and W
+D) V and W
+Ans: B
+4. X says, "Y is a truth-teller." Y says, "Z is a liar." Z says, "W is a liar." W says, "X, Y, and Z are all liars." Who is a truth-teller?
+A) X
+B) Y
+C) Z
+D) W
+Ans: C
+5. A1 says, "B1 is a liar." B1 says, "C1 is a liar." C1 says, "A1 and B1 are of the same type." What is C1?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: B
+6. D1 says, "If E1 is a truth-teller, then I am a liar." What must be true?
+A) D1 is a truth-teller
+B) E1 is a truth-teller
+C) E1 is a liar
+D) Both are liars
+Ans: C
+7. F1 says, "G1 and H1 are of the same type." G1 says, "F1 and H1 are of different types." What is H1?
+A) Truth-teller
+B) Liar
+C) Alternator
+D) Cannot be determined
+Ans: B
+8. I1 says, "Exactly one of us (I1, J1, K1) is a truth-teller." J1 says, "Exactly one of us is a liar." K1 says, "All of us are liars." Who is a truth-teller?
+A) I1
+B) J1
+C) K1
+D) Both I1 and J1
+Ans: A
+9. L1 says, "M1 is a liar." M1 says, "N1 is a liar." N1 says, "O1 is a liar." O1 says, "L1 is a liar." Which statement is correct?
+A) Exactly one is a truth-teller
+B) Exactly two are truth-tellers
+C) Exactly three are truth-tellers
+D) All are liars
+Ans: B
+10. P1 says, "I am a liar and Q1 is a truth-teller." What is Q1?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: D
+11. R1 says, "S1 is a truth-teller." S1 says, "T1 is a liar." T1 says, "R1 and S1 are different types." What is R1?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: B
+12. U1 says, "V1 is a liar." V1 says, "W1 is a liar." W1 says, "U1 is a liar." Which of the following is true?
+A) All three are liars
+B) All three are truth-tellers
+C) Exactly two are truth-tellers
+D) Exactly one is a truth-teller
+Ans: D
+13. X1 says, "Y1 is a truth-teller or Z1 is a truth-teller." Y1 says, "X1 is a liar." Z1 says, "X1 and Y1 are liars." Who is a truth-teller?
+A) X1
+B) Y1
+C) Z1
+D) None
+Ans: C
+14. A machine has three indicator lights that can be True or False. Light A: "Light B is False." Light B: "Light C is False." Light C: "Light A is False." How many lights are True?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: B
+15. Person A says, "I am a truth-teller." Person B says, "I am a truth-teller." Person C says, "At most one of us is a truth-teller." How many truth-tellers are there?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: C
+16. Person D says, "E is a liar." Person E says, "F is a truth-teller." Person F says, "D is a liar." If D is a truth-teller, what is F?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: B
+17. Person G says, "H and I are truth-tellers." Person H says, "G is a truth-teller and I is a liar." Person I says, "G and H are liars." What is I?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: A
+18. J says, "At least one of us (J, K) is a liar." K says, "J is a liar." What is J?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: A
+19. L says, "M is a truth-teller." M says, "L is a liar." What can you deduce?
+A) L is a truth-teller, M is a liar
+B) L is a liar, M is a truth-teller
+C) Both are truth-tellers
+D) Both are liars
+Ans: B
+20. N says, "O is a liar." O says, "P is a liar." P says, "N and O are both liars." What is P?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: B
+21. Q says, "If I am a truth-teller, then R is a liar." R says, "Q is a liar." What are they?
+A) Q is a truth-teller, R is a truth-teller
+B) Q is a truth-teller, R is a liar
+C) Q is a liar, R is a truth-teller
+D) Q is a liar, R is a liar
+Ans: B
+22. S says, "T is a truth-teller." T says, "If S is a truth-teller, then U is a liar." U says, "S and T are liars." What is U?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: A
+23. V says, "W is a liar." W says, "X is a liar." X says, "Y is a liar." Y says, "V, W, and X are all liars." Who is a truth-teller?
+A) V
+B) W
+C) X
+D) Y
+Ans: D
+24. Z says, "Exactly one of A and B is a truth-teller." A says, "Z is a liar." B says, "Z and A are liars." What is B?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: B
+25. C says, "D is a truth-teller." D says, "E is a truth-teller." E says, "C is a liar." Which of the following is logically consistent?
+A) C is a truth-teller
+B) D is a truth-teller
+C) E is a truth-teller
+D) All are truth-tellers
+Ans: C

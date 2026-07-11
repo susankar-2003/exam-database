@@ -1,0 +1,150 @@
+1. In binary logic, how many possible values can a binary variable have?
+A) 1
+B) 2
+C) 3
+D) 4
+Ans: B
+2. Which binary digit represents TRUE in digital logic?
+A) 0
+B) 1
+C) 2
+D) Both 0 and 1
+Ans: B
+3. What is the output of 1 AND 1?
+A) 0
+B) 1
+C) Undefined
+D) Depends on input
+Ans: B
+4. What is the output of 1 AND 0?
+A) 0
+B) 1
+C) Undefined
+D) 2
+Ans: A
+5. What is the output of 0 OR 1?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: B
+6. What is the output of 0 OR 0?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: A
+7. What is the output of NOT 1?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: A
+8. What is the output of NOT 0?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: B
+9. What is the output of 1 XOR 0?
+A) 0
+B) 1
+C) Undefined
+D) 2
+Ans: B
+10. What is the output of 1 XOR 1?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: A
+11. Which logic gate gives an output of 1 only when all inputs are 1?
+A) OR
+B) XOR
+C) AND
+D) NOR
+Ans: C
+12. Which logic gate gives an output of 1 if at least one input is 1?
+A) AND
+B) OR
+C) NAND
+D) XNOR
+Ans: B
+13. Which logic gate always produces the opposite output?
+A) AND
+B) OR
+C) NOT
+D) XOR
+Ans: C
+14. What is the output of NAND(1,1)?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: A
+15. What is the output of NAND(0,1)?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: B
+16. What is the output of NOR(0,0)?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: B
+17. What is the output of NOR(1,0)?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: A
+18. What is the output of XNOR(1,1)?
+A) 0
+B) 1
+C) Undefined
+D) 2
+Ans: B
+19. What is the output of XNOR(0,1)?
+A) 0
+B) 1
+C) Undefined
+D) 2
+Ans: A
+20. Which gate outputs 1 only when the inputs are different?
+A) AND
+B) OR
+C) XOR
+D) NAND
+Ans: C
+21. If A = 1 and B = 0, what is the output of A OR B?
+A) 0
+B) 1
+C) Undefined
+D) 2
+Ans: B
+22. If A = 1 and B = 0, what is the output of A AND B?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: A
+23. If A = 0 and B = 1, what is the output of A XOR B?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: B
+24. If A = 1, what is the output of NOT(A)?
+A) 0
+B) 1
+C) 2
+D) Undefined
+Ans: A
+25. Which logic gate is called the universal gate?
+A) XOR
+B) NAND
+C) XNOR
+D) Buffer
+Ans: B

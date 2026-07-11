@@ -1,0 +1,150 @@
+1. You meet K, L, and M. K says, "We are all knaves." L says, "Exactly one of us is a knight." What is M?
+A) Knight
+B) Knave
+C) Neutral
+D) Cannot be determined
+Ans: B
+2. You meet N, O, and P. N says, "O is a knave." O says, "P is a knave." P says, "N is a knave." Which is a possible combination of knights (T) and knaves (F) for N, O, P respectively?
+A) T, T, F
+B) T, F, T
+C) F, F, F
+D) T, F, F
+Ans: B
+3. You meet Q, R, and S. Q says, "R is a knight." R says, "S is a knight." S says, "Q and R are knaves." How many are knaves?
+A) 1
+B) 2
+C) 3
+D) 0
+Ans: B
+4. You meet T, U, and V. T says, "U is a knave." U says, "T is a knave." V says, "Both T and U are knaves." What is V?
+A) Knight
+B) Knave
+C) Alternator
+D) Cannot be determined
+Ans: B
+5. You meet W, X, and Y. W says, "At least two of us are knaves." X says, "W is a knave." Y says, "X is a knave." How many are knaves?
+A) 1
+B) 2
+C) 3
+D) 0
+Ans: B
+6. You meet Z, A, and B. Z says, "A is a knave." A says, "B is a knave." B says, "Z is a knight." How many are knights?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: A
+7. You meet C, D, and E. C says, "D and E are of the same type." D says, "C and E are of different types." What is E?
+A) Knight
+B) Knave
+C) Spy
+D) Cannot be determined
+Ans: B
+8. You meet F, G, and H. F says, "G is a knight." G says, "H is a knave." H says, "F and G are different types." What are they?
+A) F is a knight, G is a knight, H is a knave
+B) F is a knave, G is a knave, H is a knight
+C) F is a knave, G is a knave, H is a knave
+D) F is a knight, G is a knave, H is a knight
+Ans: B
+9. You meet I, J, and K. I says, "Exactly one of us is a knave." J says, "Exactly two of us are knaves." K says, "All of us are knaves." What is I?
+A) Knight
+B) Knave
+C) Normal
+D) Cannot be determined
+Ans: B
+10. You meet L, M, and N. L says, "I am a knight." M says, "I am a knight." N says, "At most one of us is a knight." How many are knights?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: C
+11. You meet O, P, and Q. O says, "P is a knave." P says, "Q is a knight." Q says, "O is a knave." Which of the following is true?
+A) P is a knight
+B) Q is a knight
+C) O is a knave
+D) P is a knave
+Ans: D
+12. You meet R, S, and T. R says, "S and T are knights." S says, "R is a knave and T is a knight." T says, "R and S are knaves." What is T?
+A) Knight
+B) Knave
+C) Neutral
+D) Cannot be determined
+Ans: A
+13. You meet U, V, and W. U says, "V is a knave." V says, "U and W are knaves." W says, "U is a knight." How many are knights?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: B
+14. You meet X, Y, and Z. X says, "Y is a knave." Y says, "Z is a knave." Z says, "X and Y are of the same type." Who is the knight?
+A) X
+B) Y
+C) Z
+D) None
+Ans: B
+15. A says, "I am a knave or B is a knight." B says, "A is a knave." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: A
+16. A says, "We are both knaves." B says nothing. What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: C
+17. A says, "B is a knight." B says, "A and I are of opposite types." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: D
+18. A says, "If B is a knight, then I am a knave." B says nothing. What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: B
+19. A says, "Both of us are knights." B says, "A is a knave." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: C
+20. A says, "At least one of us is a knave." B says nothing. What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: B
+21. A says, "B is a knave." B says, "We are both knaves." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: B
+22. A says, "I am a knight and B is a knave." B says, "We are both knights." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: D
+23. A says, "We are of different types." B says, "A is a knight." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: D
+24. A says, "B is a knave." B says, "A is a knight." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: D
+25. A says, "I am a knave." Can A exist on the island of knights and knaves?
+A) Yes, as a knight
+B) Yes, as a knave
+C) No, this is a paradox
+D) Yes, as a normal
+Ans: C

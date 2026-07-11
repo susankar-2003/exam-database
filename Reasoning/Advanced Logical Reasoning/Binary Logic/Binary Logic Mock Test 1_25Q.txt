@@ -1,0 +1,150 @@
+1. You meet two inhabitants of an island, Alice and Bob. Alice says, "We are both knaves." Knaves always lie and knights always tell the truth. What are Alice and Bob?
+A) Alice is a knight, Bob is a knave
+B) Alice is a knave, Bob is a knight
+C) Both are knights
+D) Both are knaves
+Ans: B
+2. You meet two inhabitants, Charles and Diana. Charles says, "At least one of us is a knave." What are Charles and Diana?
+A) Charles is a knight, Diana is a knave
+B) Charles is a knave, Diana is a knight
+C) Both are knights
+D) Both are knaves
+Ans: A
+3. You meet two inhabitants, Edward and Fiona. Edward says, "I am a knave or Fiona is a knight." What are Edward and Fiona?
+A) Edward is a knight, Fiona is a knave
+B) Edward is a knave, Fiona is a knight
+C) Both are knights
+D) Both are knaves
+Ans: C
+4. You meet two inhabitants, George and Helen. George says, "If I am a knight, then Helen is a knave." What are they?
+A) George is a knight, Helen is a knave
+B) George is a knave, Helen is a knight
+C) Both are knights
+D) Both are knaves
+Ans: A
+5. You meet two inhabitants, Ian and Jane. Ian says, "Jane and I are of the same type." Jane says, "Ian and I are of different types." What are they?
+A) Ian is a knight, Jane is a knave
+B) Ian is a knave, Jane is a knight
+C) Both are knights
+D) Both are knaves
+Ans: B
+6. You meet two inhabitants, Kevin and Laura. Kevin says, "We are both knights." Laura says, "Kevin is a knave." What are they?
+A) Kevin is a knight, Laura is a knave
+B) Kevin is a knave, Laura is a knight
+C) Both are knights
+D) Both are knaves
+Ans: B
+7. You meet two inhabitants, Mike and Nina. Mike says, "I am a knave, but Nina is not." What are they?
+A) Mike is a knight, Nina is a knave
+B) Mike is a knave, Nina is a knight
+C) Both are knights
+D) Both are knaves
+Ans: D
+8. You meet two inhabitants, Oscar and Paula. Oscar says, "Paula is a knave." Paula says, "Oscar and I are of the same type." What are they?
+A) Oscar is a knight, Paula is a knave
+B) Oscar is a knave, Paula is a knight
+C) Both are knights
+D) Both are knaves
+Ans: A
+9. You meet two inhabitants, Quinn and Rachel. Quinn says, "Both of us are knaves." What can you deduce?
+A) Quinn is a knight, Rachel is a knave
+B) Quinn is a knave, Rachel is a knight
+C) Both are knights
+D) Both are knaves
+Ans: B
+10. You meet two inhabitants, Steve and Tracy. Steve says, "Exactly one of us is a knight." Tracy says, "Exactly one of us is a knave." What are they?
+A) Steve is a knight, Tracy is a knave
+B) Steve is a knave, Tracy is a knight
+C) They are of opposite types, but it is impossible to determine who is who
+D) Both are knights
+Ans: C
+11. You meet two inhabitants, Uma and Victor. Uma says, "I am a knight and Victor is a knave." Victor says, "Uma and I are both knights." What are they?
+A) Uma is a knight, Victor is a knave
+B) Uma is a knave, Victor is a knight
+C) Both are knights
+D) Both are knaves
+Ans: D
+12. You meet two inhabitants, Wendy and Xavier. Wendy says, "If Xavier is a knight, then I am a knave." What are they?
+A) Wendy is a knight, Xavier is a knave
+B) Wendy is a knave, Xavier is a knight
+C) Both are knights
+D) Both are knaves
+Ans: A
+13. You meet two inhabitants, Yusef and Zara. Yusef says, "I am a knave and Zara is a knight." What are they?
+A) Yusef is a knight, Zara is a knave
+B) Yusef is a knave, Zara is a knight
+C) Both are knights
+D) Both are knaves
+Ans: D
+14. You meet three inhabitants, Alan, Bill, and Carl. Alan says, "All of us are knaves." Bill says, "Exactly one of us is a knight." What is Carl?
+A) Knight
+B) Knave
+C) Alternator
+D) Cannot be determined
+Ans: B
+15. You meet three inhabitants, Dave, Ed, and Frank. Dave says, "Ed is a knave." Ed says, "Frank is a knave." Frank says, "Dave and Ed are both knaves." How many knights are there?
+A) Zero
+B) One
+C) Two
+D) Three
+Ans: B
+16. You meet three inhabitants, Greg, Hal, and Ivan. Greg says, "Hal and Ivan are both knights." Hal says, "Greg is a knave and Ivan is a knight." What is Ivan?
+A) Knight
+B) Knave
+C) Alternator
+D) Cannot be determined
+Ans: B
+17. You meet three inhabitants, Jack, Ken, and Leo. Jack says, "Ken is a knight." Ken says, "Leo is a knave." Leo says, "I am a knight." Who is a knave?
+A) Jack
+B) Ken
+C) Leo
+D) Cannot be determined
+Ans: D
+18. Four suspects are interrogated about a theft. Only one is telling the truth. A says "B did it." B says "D did it." C says "I didn't do it." D says "B is lying." Who committed the theft?
+A) A
+B) B
+C) C
+D) D
+Ans: C
+19. Four children are asked who broke the window. Only one is lying. Alice says "Bob broke it." Bob says "Charlie broke it." Charlie says "Bob is lying." Diana says "I didn't do it." Who broke the window?
+A) Alice
+B) Bob
+C) Charlie
+D) Diana
+Ans: B
+20. On an island, knights tell the truth, knaves lie, and spies can do either. You meet three people, A, B, and C, knowing one is a knight, one a knave, and one a spy. A says "I am the knight." B says "A is not the knight." C says "I am the spy." Who is the spy?
+A) A
+B) B
+C) C
+D) Cannot be determined
+Ans: C
+21. You face two doors. One leads to treasure, one to death. A guard stands at each door. One always lies, one always tells the truth. You ask the first guard: "Which door would the other guard say leads to the treasure?" He points to Door A. Which door should you choose?
+A) Door A
+B) Door B
+C) Neither
+D) Cannot be determined
+Ans: B
+22. You face two doors, guarded by two guards. You know one guard lies and one tells the truth. You ask Guard 1, "Is Guard 2 a truth-teller?" He says "No." What can you determine?
+A) Guard 1 tells the truth
+B) Guard 1 lies
+C) They are of opposite types
+D) Nothing about which is which, but the answer will always be 'No'
+Ans: D
+23. A lion lies on Mondays, Tuesdays, and Wednesdays, and tells the truth otherwise. A unicorn lies on Thursdays, Fridays, and Saturdays, and tells the truth otherwise. Both say: "I lied yesterday." What day is it?
+A) Monday
+B) Wednesday
+C) Thursday
+D) Sunday
+Ans: C
+24. A lion lies on Mon/Tue/Wed, and a unicorn lies on Thu/Fri/Sat. They both say: "I will lie tomorrow." What day is it?
+A) Tuesday
+B) Wednesday
+C) Saturday
+D) Sunday
+Ans: B
+25. A lion lies on Mon/Tue/Wed. He says: "I lied yesterday and I will lie tomorrow." What day is it?
+A) Monday
+B) Tuesday
+C) Wednesday
+D) Thursday
+Ans: B

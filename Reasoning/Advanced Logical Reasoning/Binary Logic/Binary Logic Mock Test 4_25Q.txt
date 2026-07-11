@@ -1,0 +1,150 @@
+1. A says, "I am a knave and B is a knight." What is B?
+A) Knight
+B) Knave
+C) Normal
+D) Cannot be determined
+Ans: B
+2. A says, "I am a knave or B is a knave." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: B
+3. A says, "If I am a knight, then B is a knave." B says, "A is a knave." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: B
+4. A says, "B is a knight." B says, "If A is a knight, then I am a knave." What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: D
+5. A says, "Either I am a knave or B is a knight." B says nothing. What are they?
+A) A is a knight, B is a knight
+B) A is a knight, B is a knave
+C) A is a knave, B is a knight
+D) A is a knave, B is a knave
+Ans: A
+6. A says, "B and C are knights." B says, "A is a knave and C is a knight." C says, "A and B are knaves." Who is a knight?
+A) A
+B) B
+C) C
+D) None
+Ans: C
+7. A says, "B is a knave." B says, "C is a knave." C says, "A is a knave." How many are knights?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: B
+8. A says, "At least two of us are knights." B says, "At least two of us are knaves." C says, "A and B are of the same type." What is C?
+A) Knight
+B) Knave
+C) Normal
+D) Cannot be determined
+Ans: B
+9. A says, "I am a knight." B says, "A is a knight." C says, "B is a knight." If exactly one is a knave, who is it?
+A) A
+B) B
+C) C
+D) Cannot be determined
+Ans: D
+10. A says, "I am a knave." B says, "A is a knave." C says, "B is a knave." Which of the following is true?
+A) A cannot say this
+B) B is a knight
+C) C is a knight
+D) Both B and C are knights
+Ans: A
+11. A says, "B and C are of the same type." B says, "A and C are of the same type." C says, "A and B are of different types." How many are knights?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: A
+12. A says, "B is a knight." B says, "C is a knave." C says, "A and B are both knights." Who is a knave?
+A) A
+B) B
+C) C
+D) All of them
+Ans: D
+13. A says, "Exactly one of us is a knight." B says, "Exactly one of us is a knave." C says, "A and B are knights." What is C?
+A) Knight
+B) Knave
+C) Alternator
+D) Normal
+Ans: B
+14. A says, "B is a knight or C is a knight." B says, "A is a knave." C says, "A and B are knaves." What is A?
+A) Knight
+B) Knave
+C) Spy
+D) Cannot be determined
+Ans: A
+15. A says, "I am the only knight here." B says, "No, I am the only knight here." C says, "Neither A nor B is a knight." Who is a knight?
+A) A
+B) B
+C) C
+D) None
+Ans: C
+16. A says, "B is a knave." B says, "C is a knave." C says, "D is a knave." D says, "A, B, and C are knaves." How many knights are there?
+A) 1
+B) 2
+C) 3
+D) 4
+Ans: B
+17. A says, "All of us are knaves." B says, "Exactly one of us is a knight." C says, "Exactly two of us are knights." D says, "All of us are knights." Who is telling the truth?
+A) A
+B) B
+C) C
+D) D
+Ans: B
+18. A says, "B and C are knaves." B says, "A and D are knaves." C says, "B and D are knaves." D says, "A and C are knaves." How many are knights?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: C
+19. A says, "B is a knight." B says, "C is a knight." C says, "D is a knight." D says, "A, B, and C are knaves." What is A?
+A) Knight
+B) Knave
+C) Normal
+D) Cannot be determined
+Ans: B
+20. A says, "D is a knave." B says, "A is a knave." C says, "B is a knave." D says, "C is a knave." How many are knaves?
+A) 1
+B) 2
+C) 3
+D) 4
+Ans: B
+21. A says, "At least one of us is a knight." B says, "At least one of us is a knave." C says, "A is a knave." D says, "B is a knave." Who is a knight?
+A) A and B
+B) C and D
+C) A and D
+D) B and C
+Ans: A
+22. A says, "Exactly three of us are knaves." B says, "Exactly two of us are knaves." C says, "Exactly one of us is a knave." D says, "None of us are knaves." Who is a knight?
+A) A
+B) B
+C) C
+D) D
+Ans: A
+23. A says, "B is a knight." B says, "A is a knave." C says, "D is a knight." D says, "C is a knave." How many knights are there?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: C
+24. A says, "If B is a knight, then C is a knave." B says, "If C is a knight, then D is a knave." C says, "If D is a knight, then A is a knave." D says, "We are all knights." Who is a knight?
+A) A
+B) B
+C) A, B, and C
+D) None
+Ans: C
+25. A says, "I am a knight." B says, "A is a knave." C says, "B is a knave." D says, "C is a knave." If exactly two are knights, which pair could they be?
+A) A and B
+B) A and C
+C) B and C
+D) C and D
+Ans: B

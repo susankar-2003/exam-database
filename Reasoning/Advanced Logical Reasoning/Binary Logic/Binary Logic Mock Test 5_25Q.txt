@@ -1,150 +1,150 @@
-1. In binary logic, how many possible values can a binary variable have?
-A) 1
-B) 2
-C) 3
-D) 4
+1. You visit a planet where Alphas always tell the truth and Betas always lie. You meet an alien named Zor. Zor says, "I am a Beta." What type of alien is Zor?
+A) Alpha
+B) Beta
+C) Neither, Zor is an imposter
+D) This statement is a logical impossibility
+Ans: D
+2. You meet two aliens, Xar and Yul. Xar says, "We are both Betas." Yul says, "Xar is an Alpha." What are Xar and Yul?
+A) Xar is an Alpha, Yul is a Beta
+B) Xar is a Beta, Yul is an Alpha
+C) Both are Alphas
+D) Both are Betas
+Ans: D
+3. Three robots, R1, R2, and R3, are programmed to either always output true statements or always output false statements. R1 says, "R2 outputs false." R2 says, "R3 outputs false." R3 says, "R1 and R2 both output false." How many robots output true statements?
+A) Zero
+B) One
+C) Two
+D) Three
 Ans: B
-2. Which binary digit represents TRUE in digital logic?
-A) 0
-B) 1
-C) 2
-D) Both 0 and 1
+4. In a village, Truth-tellers always speak the truth and Liars always lie. You encounter a villager named Tom. Tom says, "If I am a Truth-teller, then pigs can fly." Assuming pigs cannot fly, what is Tom?
+A) Truth-teller
+B) Liar
+C) A normal person
+D) Cannot be determined
 Ans: B
-3. What is the output of 1 AND 1?
-A) 0
-B) 1
-C) Undefined
-D) Depends on input
-Ans: B
-4. What is the output of 1 AND 0?
-A) 0
-B) 1
-C) Undefined
-D) 2
+5. You meet two villagers, Sam and Max. Sam says, "At least one of us is a Liar." Max says nothing. What are Sam and Max?
+A) Sam is a Truth-teller, Max is a Liar
+B) Sam is a Liar, Max is a Truth-teller
+C) Both are Truth-tellers
+D) Both are Liars
 Ans: A
-5. What is the output of 0 OR 1?
-A) 0
-B) 1
-C) 2
-D) Undefined
-Ans: B
-6. What is the output of 0 OR 0?
-A) 0
-B) 1
-C) 2
-D) Undefined
+6. You meet three natives: P, Q, and R. P says, "Q is a Liar." Q says, "P and R are both Liars." R says, "P is a Truth-teller." Who is a Truth-teller?
+A) P only
+B) Q only
+C) R only
+D) None of them
 Ans: A
-7. What is the output of NOT 1?
-A) 0
-B) 1
-C) 2
-D) Undefined
-Ans: A
-8. What is the output of NOT 0?
-A) 0
-B) 1
-C) 2
-D) Undefined
+7. Four suspects, W, X, Y, and Z, are questioned. Only the guilty person lies; the innocent tell the truth. W says, "X did it." X says, "Y did it." Y says, "X is lying." Z says, "I didn't do it." Who is guilty?
+A) W
+B) X
+C) Y
+D) Z
 Ans: B
-9. What is the output of 1 XOR 0?
-A) 0
-B) 1
-C) Undefined
-D) 2
-Ans: B
-10. What is the output of 1 XOR 1?
-A) 0
-B) 1
-C) 2
-D) Undefined
+8. A computer cluster has two types of nodes: Secure nodes (always send true packets) and Compromised nodes (always send false packets). Node A sends: "Node B is Compromised." Node B sends: "Node A and I are of different types." What are Node A and Node B?
+A) Node A is Secure, Node B is Compromised
+B) Node A is Compromised, Node B is Secure
+C) Both are Secure
+D) Both are Compromised
 Ans: A
-11. Which logic gate gives an output of 1 only when all inputs are 1?
-A) OR
-B) XOR
-C) AND
-D) NOR
+9. Node C sends: "Node D is Secure." Node D sends: "Node C is Compromised." What can you deduce about these nodes?
+A) Both are Secure
+B) Both are Compromised
+C) Exactly one is Secure and one is Compromised
+D) The scenario is logically impossible
 Ans: C
-12. Which logic gate gives an output of 1 if at least one input is 1?
-A) AND
-B) OR
-C) NAND
-D) XNOR
-Ans: B
-13. Which logic gate always produces the opposite output?
-A) AND
-B) OR
-C) NOT
-D) XOR
+10. Node E sends: "Both Node E and Node F are Compromised." What is Node F?
+A) Secure
+B) Compromised
+C) Unknown
+D) Offline
+Ans: A
+11. On an island, daytime inhabitants tell the truth and nighttime inhabitants lie. You meet someone named Glimmer. Glimmer says, "I am a nighttime inhabitant or you are a nighttime inhabitant." What is Glimmer?
+A) Daytime inhabitant
+B) Nighttime inhabitant
+C) A daytime inhabitant, and you are a nighttime inhabitant
+D) A daytime inhabitant, and you are a daytime inhabitant
 Ans: C
-14. What is the output of NAND(1,1)?
-A) 0
-B) 1
-C) 2
-D) Undefined
-Ans: A
-15. What is the output of NAND(0,1)?
-A) 0
-B) 1
-C) 2
-D) Undefined
+12. Two guards, A and B. One tells the truth, the other lies. Guard A says, "Guard B and I are the same type." What is Guard A?
+A) Truth-teller
+B) Liar
+C) Same as Guard B
+D) Cannot be determined
 Ans: B
-16. What is the output of NOR(0,0)?
-A) 0
-B) 1
-C) 2
-D) Undefined
-Ans: B
-17. What is the output of NOR(1,0)?
-A) 0
-B) 1
-C) 2
-D) Undefined
-Ans: A
-18. What is the output of XNOR(1,1)?
-A) 0
-B) 1
-C) Undefined
-D) 2
-Ans: B
-19. What is the output of XNOR(0,1)?
-A) 0
-B) 1
-C) Undefined
-D) 2
-Ans: A
-20. Which gate outputs 1 only when the inputs are different?
-A) AND
-B) OR
-C) XOR
-D) NAND
+13. Guard C says, "Guard D is a liar." Guard D says, "Guard C is a liar." What must be true?
+A) Both are truth-tellers
+B) Both are liars
+C) Exactly one is a truth-teller
+D) It is impossible to have this conversation
 Ans: C
-21. If A = 1 and B = 0, what is the output of A OR B?
-A) 0
-B) 1
-C) Undefined
-D) 2
+14. You ask a native named Kael, "Are you a truth-teller?" Kael mumbles an answer you cannot hear. His friend Jace says, "Kael said yes." His other friend Lora says, "Kael said no." Which friend is definitely a liar?
+A) Jace
+B) Lora
+C) Both Jace and Lora
+D) Neither
 Ans: B
-22. If A = 1 and B = 0, what is the output of A AND B?
-A) 0
-B) 1
-C) 2
-D) Undefined
+15. You are looking for the gold chest. Chest 1 says, "The gold is not in here." Chest 2 says, "The gold is in Chest 1." Chest 3 says, "The gold is in here." Only one chest tells the truth. Where is the gold?
+A) Chest 1
+B) Chest 2
+C) Chest 3
+D) None of the chests
 Ans: A
-23. If A = 0 and B = 1, what is the output of A XOR B?
-A) 0
-B) 1
-C) 2
-D) Undefined
+16. If exactly two of the chests in the previous scenario tell the truth, and the statements are the same (1: Not here, 2: In 1, 3: In here), where is the gold?
+A) Chest 1
+B) Chest 2
+C) Chest 3
+D) Cannot be determined
+Ans: C
+17. Three goddesses, Athena, Aphrodite, and Hera, make statements. The one who has the apple tells the truth, the others lie. Athena: "I don't have the apple." Aphrodite: "Athena has the apple." Hera: "I have the apple." Who has the apple?
+A) Athena
+B) Aphrodite
+C) Hera
+D) Nobody
+Ans: A
+18. A logic gate circuit outputs 1 (True) or 0 (False). Gate X says, "Gate Y outputs 0." Gate Y says, "Gate X outputs 1 and Gate Z outputs 0." Gate Z says, "Gate X outputs 0." Which gate outputs 1?
+A) Gate X
+B) Gate Y
+C) Gate Z
+D) None of them
+Ans: C
+19. You meet two twins, Tweedledee and Tweedledum. One always lies, one always tells the truth. Tweedledee says, "I am the liar." Who is Tweedledee?
+A) The truth-teller
+B) The liar
+C) Neither, this statement is impossible for either
+D) Both
+Ans: C
+20. A Red team member always tells the truth. A Blue team member always lies. Member Alpha says, "Member Beta is on the Blue team." Member Beta says, "Member Alpha is on the Blue team." Are they on the same team?
+A) Yes, both Red
+B) Yes, both Blue
+C) No, they are on different teams
+D) Cannot be determined
+Ans: C
+21. Member Gamma says, "Either I am on the Blue team or Member Delta is on the Red team." What team is Delta on?
+A) Red team
+B) Blue team
+C) Green team
+D) Unknown
+Ans: A
+22. Member Epsilon says, "If I am on the Red team, then Member Zeta is on the Blue team." What team is Epsilon on?
+A) Red team
+B) Blue team
+C) Cannot be determined
+D) Both teams
 Ans: B
-24. If A = 1, what is the output of NOT(A)?
+23. You have three boxes: Red, Green, Blue. One contains a prize. The Red box says, "Prize is in the Green box." The Green box says, "Prize is not in the Blue box." The Blue box says, "Prize is not in here." Only one box is lying. Where is the prize?
+A) Red box
+B) Green box
+C) Blue box
+D) None of the boxes
+Ans: B
+24. A student named Alex takes a true/false test. Alex says, "Question 1 is False." Question 1 says, "Alex's statement is True." Which of the following is correct?
+A) Alex is telling the truth, Question 1 is True
+B) Alex is lying, Question 1 is False
+C) This is a paradox
+D) Alex is telling the truth, Question 1 is False
+Ans: C
+25. You meet a group of three people: F, G, and H. F says, "G is a truth-teller." G says, "H is a liar." H says, "F and G are both liars." How many truth-tellers are there?
 A) 0
 B) 1
 C) 2
-D) Undefined
-Ans: A
-25. Which logic gate is called the universal gate?
-A) XOR
-B) NAND
-C) XNOR
-D) Buffer
+D) 3
 Ans: B

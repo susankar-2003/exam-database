@@ -1,0 +1,150 @@
+1.Pointing to a man, Rita said, "He is the son of my grandfather's only son." Who is the man?
+A) Brother 
+B) Father 
+C) Son 
+D) Uncle 
+Ans: A
+2.A is the father of B. C is the wife of A. D is the daughter of C. How is B related to D?
+A) Brother 
+B) Father 
+C) Uncle 
+D) Son 
+Ans: A
+3.Pointing to a woman, Raj said, "She is the daughter of my mother's only daughter." Who is the woman?
+A) Sister 
+B) Daughter 
+C) Mother 
+D) Cousin 
+Ans: B
+4.If P is the brother of Q, Q is the sister of R, and R is the father of S, how is P related to S?
+A) Uncle 	
+B) Father 
+C) Brother 
+D) Cousin 
+Ans: A
+5.Introducing a man, Anita said, "He is the husband of my mother's only daughter." Who is the man?
+A) Father 
+B) Husband 
+C) Brother 
+D) Uncle 
+Ans: B
+6.X is the father of Y. Z is the mother of X. How is Z related to Y?
+A) Grandmother 
+B) Aunt 
+C) Mother 
+D) Sister 
+Ans: A
+7.Pointing to a girl, Ravi said, "She is my father's granddaughter." Who is she?
+A) Daughter 
+B) Sister 
+C) Niece 
+D) Mother 
+Ans: A
+8.A is B's sister. B is C's father. How is A related to C?
+A) Aunt 
+B) Mother 
+C) Sister 
+D) Grandmother 
+Ans: A
+9.P is the mother of Q. Q is the father of R. How is P related to R?
+A) Grandmother 
+B) Aunt 
+C) Mother 
+D) Sister 
+Ans: A
+10.If Mohan is the brother of Sita and Sita is the mother of Ravi, then Mohan is Ravi's:
+A) Uncle 
+B) Brother 
+C) Father 
+D) Grandfather 
+Ans: A
+11.A man says, "My mother's brother's son is my..."
+A) Cousin 
+B) Brother 
+C) Uncle 
+D) Nephew 
+Ans: A
+12.Pointing to a woman, Raju said, "She is the wife of my father's son." The woman is:
+A) Mother 
+B) Wife 
+C) Sister 
+D) Aunt 
+Ans: B
+13.If A is B's father and C is A's father, then C is B's:
+A) Grandfather 
+B) Uncle 
+C) Brother 
+D) Father 
+Ans: A
+14.A's sister is B. B's mother is C. C's husband is D. How is D related to A?
+A) Father 
+B) Uncle 
+C) Grandfather 
+D) Brother 
+Ans: A
+15.Pointing to a boy, Meena said, "He is the son of my father's only son." The boy is:
+A) Brother 
+B) Son 
+C) Nephew 
+D) Cousin 
+Ans: B
+16.A is B's mother. C is B's brother. D is C's son. How is A related to D?
+A) Grandmother 
+B) Aunt 
+C) Mother 
+D) Sister 
+Ans: A
+17.If R is the daughter of S and S is the wife of T, then T is R's:
+A) Father 
+B) Uncle 
+C) Brother 
+D) Grandfather 
+Ans: A
+18.Pointing to a photograph, Rina said, "This man's son is my son's uncle." The man is Rina's:
+A) Father 
+B) Husband 
+C) Brother 
+D) Uncle 
+Ans: B
+19.A is the son of B. B is the daughter of C. How is C related to A?
+A) Grandparent 
+B) Mother 
+C) Uncle 
+D) Brother 
+Ans: A
+20.P is the wife of Q. R is the daughter of P. S is the brother of R. How is Q related to S?
+A) Father 
+B) Brother 
+C) Uncle 
+D) Grandfather 
+Ans: A
+21.A man's father's sister is his:
+A) Aunt 
+B) Mother 
+C) Sister 
+D) Cousin 
+Ans: A
+22.If X is Y's daughter and Y is Z's son, then Z is X's:
+A) Grandparent 
+B) Aunt 
+C) Sister 
+D) Mother 
+Ans: A
+23.Pointing to a lady, Hari said, "She is my wife's mother's daughter." She is Hari's:
+A) Wife 
+B) Sister 
+C) Aunt 
+D) Mother 
+Ans: A
+24.A is the brother of B. B is the brother of C. How is A related to C?
+A) Brother 
+B) Father 
+C) Uncle 
+D) Cousin 
+Ans: A
+25.If P is the father of Q and Q is the father of R, then P is:
+A) Grandfather 
+B) Uncle 
+C) Brother 
+D) Father 
+Ans: A

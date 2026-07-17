@@ -1,0 +1,174 @@
+1. If all computers are machines and all machines require energy, then:
+   A) All computers require energy
+   B) All energy is used by computers
+   C) Some machines are not computers
+   D) No computers require energy
+   Ans: A
+
+2. If Priya scored more marks than Kavya and Kavya scored more than Neha, then:
+   A) Neha scored more than Priya
+   B) Priya scored more than Neha
+   C) Kavya scored more than Priya
+   D) Priya and Neha scored the same
+   Ans: B
+
+3. If every printer uses ink and this device is a printer, then:
+   A) It uses ink
+   B) It uses petrol
+   C) It is a scanner
+   D) Cannot be determined
+   Ans: A
+
+4. If no amphibians are birds and all frogs are amphibians, then:
+   A) All frogs are birds
+   B) Some frogs are birds
+   C) No frogs are birds
+   D) All birds are frogs
+   Ans: C
+
+5. If the traffic signal is red, vehicles stop. The traffic signal is red. Therefore:
+   A) Vehicles stop
+   B) Vehicles speed up
+   C) Vehicles turn left only
+   D) Cannot be determined
+   Ans: A
+
+6. If all scientists are researchers and some researchers are professors, then:
+   A) All scientists are professors
+   B) Some scientists are professors
+   C) All scientists are researchers
+   D) All professors are scientists
+   Ans: C
+
+7. If A is heavier than B and B is heavier than C, then:
+   A) C is heavier than A
+   B) A is heavier than C
+   C) B is lighter than C
+   D) A and C weigh the same
+   Ans: B
+
+8. If all grapes are fruits and some fruits are sour, then:
+   A) All grapes are sour
+   B) Some grapes are sour
+   C) All sour things are grapes
+   D) All grapes are fruits
+   Ans: D
+
+9. If today is Thursday, what day will it be after 22 days?
+   A) Monday
+   B) Tuesday
+   C) Wednesday
+   D) Thursday
+   Ans: C
+
+10. If every calculator has buttons and this object is a calculator, then:
+    A) It has buttons
+    B) It has wheels
+    C) It has no buttons
+    D) Cannot be determined
+    Ans: A
+
+11. If some employees are managers and all managers attend meetings, then:
+    A) All employees attend meetings
+    B) Some employees attend meetings
+    C) No employees attend meetings
+    D) All meeting attendees are managers
+    Ans: B
+
+12. If P is north of Q and Q is west of R, where is P with respect to R?
+    A) North-East
+    B) North-West
+    C) South-East
+    D) South-West
+    Ans: B
+
+13. If no insects have bones and a mosquito is an insect, then:
+    A) A mosquito has bones
+    B) A mosquito does not have bones
+    C) Some insects have bones
+    D) All insects have bones
+    Ans: B
+
+14. If all pilots can fly aircraft and Rakesh is a pilot, then:
+    A) Rakesh can fly aircraft
+    B) Rakesh cannot fly aircraft
+    C) Rakesh is a passenger
+    D) Rakesh is a mechanic
+    Ans: A
+
+15. If a number is divisible by 3, then the sum of its digits is divisible by 3. The sum of the digits of 246 is 12. Therefore:
+    A) 246 is divisible by 3
+    B) 246 is not divisible by 3
+    C) 246 is a prime number
+    D) Cannot be determined
+    Ans: A
+
+16. If every fan has blades and this appliance is a fan, then:
+    A) It has blades
+    B) It has tyres
+    C) It has no blades
+    D) Cannot be determined
+    Ans: A
+
+17. If all tigers are carnivores and all carnivores eat meat, then:
+    A) All tigers eat meat
+    B) All meat is eaten by tigers
+    C) Some carnivores are tigers
+    D) No tigers eat meat
+    Ans: A
+
+18. If Deepa is younger than Seema and Seema is younger than Anita, then:
+    A) Anita is younger than Deepa
+    B) Deepa is older than Anita
+    C) Anita is older than Deepa
+    D) Seema is older than Anita
+    Ans: C
+
+19. If some chairs are wooden and all wooden chairs are durable, then:
+    A) All chairs are durable
+    B) Some chairs are durable
+    C) No chairs are durable
+    D) All durable items are chairs
+    Ans: B
+
+20. If all circles are closed figures and all closed figures have boundaries, then:
+    A) All circles have boundaries
+    B) All boundaries are circles
+    C) Some circles have no boundaries
+    D) No circles are closed figures
+    Ans: A
+
+21. If X is east of Y and Y is south of Z, where is X with respect to Z?
+    A) North-East
+    B) South-East
+    C) North-West
+    D) South-West
+    Ans: B
+
+22. If every refrigerator keeps food cold and this appliance is a refrigerator, then:
+    A) It keeps food cold
+    B) It heats food
+    C) It is an oven
+    D) Cannot be determined
+    Ans: A
+
+23. If all buses are public transport vehicles and some public transport vehicles are electric, then:
+    A) All buses are electric
+    B) Some buses are electric
+    C) All buses are public transport vehicles
+    D) All electric vehicles are buses
+    Ans: C
+
+24. If all painters are artists and Karan is a painter, then:
+    A) Karan is an artist
+    B) Karan is an engineer
+    C) Karan is not an artist
+    D) Karan is a doctor
+    Ans: A
+
+25. If today is Wednesday, what day will it be after 50 days?
+    A) Friday
+    B) Saturday
+    C) Sunday
+    D) Monday
+    Ans: A

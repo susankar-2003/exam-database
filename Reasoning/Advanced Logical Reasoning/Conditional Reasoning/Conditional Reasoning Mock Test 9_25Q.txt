@@ -1,0 +1,174 @@
+1. If all keyboards are input devices and all input devices are hardware, then:
+   A) All keyboards are hardware
+   B) Some hardware is keyboards
+   C) All hardware is keyboards
+   D) No keyboards are hardware
+   Ans: A
+
+2. If Mohit is faster than Rohit and Rohit is faster than Sumit, then:
+   A) Sumit is faster than Mohit
+   B) Mohit is faster than Sumit
+   C) Rohit is faster than Mohit
+   D) Mohit and Sumit are equally fast
+   Ans: B
+
+3. If every smartphone has a battery and this device is a smartphone, then:
+   A) It has a battery
+   B) It has no battery
+   C) It is a desktop computer
+   D) Cannot be determined
+   Ans: A
+
+4. If no insects are vertebrates and all ants are insects, then:
+   A) All ants are vertebrates
+   B) Some ants are vertebrates
+   C) No ants are vertebrates
+   D) All vertebrates are ants
+   Ans: C
+
+5. If the alarm rings, Rahul wakes up. Rahul woke up. Which conclusion is valid?
+   A) The alarm definitely rang
+   B) Rahul could have woken up for another reason
+   C) Rahul was sleeping all day
+   D) The alarm never rings
+   Ans: B
+
+6. If all lawyers are graduates and some graduates are entrepreneurs, then:
+   A) All lawyers are entrepreneurs
+   B) Some lawyers are entrepreneurs
+   C) All lawyers are graduates
+   D) All entrepreneurs are lawyers
+   Ans: C
+
+7. If X is richer than Y and Y is richer than Z, then:
+   A) Z is richer than X
+   B) X is richer than Z
+   C) Y is richer than X
+   D) X and Z have equal wealth
+   Ans: B
+
+8. If all pears are fruits and some fruits are juicy, then:
+   A) All pears are juicy
+   B) Some pears are juicy
+   C) All juicy things are pears
+   D) All pears are fruits
+   Ans: D
+
+9. If today is Tuesday, what day will it be after 30 days?
+   A) Wednesday
+   B) Thursday
+   C) Friday
+   D) Saturday
+   Ans: B
+
+10. If every bicycle has two wheels and this vehicle is a bicycle, then:
+    A) It has two wheels
+    B) It has four wheels
+    C) It has no wheels
+    D) Cannot be determined
+    Ans: A
+
+11. If some doctors are surgeons and all surgeons are specialists, then:
+    A) All doctors are specialists
+    B) Some doctors are specialists
+    C) No doctors are specialists
+    D) All specialists are doctors
+    Ans: B
+
+12. If P is east of Q and Q is north of R, where is P with respect to R?
+    A) North-East
+    B) South-East
+    C) North-West
+    D) South-West
+    Ans: A
+
+13. If no reptiles have feathers and a crocodile is a reptile, then:
+    A) A crocodile has feathers
+    B) A crocodile does not have feathers
+    C) Some reptiles have feathers
+    D) All birds are reptiles
+    Ans: B
+
+14. If all chefs can cook and Amit is a chef, then:
+    A) Amit can cook
+    B) Amit cannot cook
+    C) Amit is a waiter
+    D) Amit is a customer
+    Ans: A
+
+15. If a number is divisible by 4, then it is even. The number is odd. Therefore:
+    A) It is divisible by 4
+    B) It is not divisible by 4
+    C) It is divisible by 2
+    D) Cannot be determined
+    Ans: B
+
+16. If every pen contains ink and this object is a pen, then:
+    A) It contains ink
+    B) It contains water
+    C) It contains no ink
+    D) Cannot be determined
+    Ans: A
+
+17. If all whales are mammals and all mammals are animals, then:
+    A) All whales are animals
+    B) All animals are whales
+    C) Some mammals are whales
+    D) No whales are animals
+    Ans: A
+
+18. If K is shorter than L and L is shorter than M, then:
+    A) M is shorter than K
+    B) K is taller than M
+    C) M is taller than K
+    D) L is taller than M
+    Ans: C
+
+19. If some laptops are gaming laptops and all gaming laptops are expensive, then:
+    A) All laptops are expensive
+    B) Some laptops are expensive
+    C) No laptops are expensive
+    D) All expensive items are gaming laptops
+    Ans: B
+
+20. If all hexagons are polygons and all polygons are closed figures, then:
+    A) All hexagons are closed figures
+    B) All closed figures are hexagons
+    C) Some polygons are not closed figures
+    D) No hexagons are polygons
+    Ans: A
+
+21. If A is south of B and B is east of C, where is A with respect to C?
+    A) North-East
+    B) South-East
+    C) North-West
+    D) South-West
+    Ans: B
+
+22. If every watch shows time and this object is a watch, then:
+    A) It shows time
+    B) It shows temperature only
+    C) It cannot show time
+    D) Cannot be determined
+    Ans: A
+
+23. If all motorcycles are vehicles and some vehicles use electricity, then:
+    A) All motorcycles use electricity
+    B) Some motorcycles use electricity
+    C) All motorcycles are vehicles
+    D) All electric vehicles are motorcycles
+    Ans: C
+
+24. If all dancers are performers and Nisha is a dancer, then:
+    A) Nisha is a performer
+    B) Nisha is a singer
+    C) Nisha is not a performer
+    D) Nisha is a painter
+    Ans: A
+
+25. If today is Monday, what day will it be after 45 days?
+    A) Monday
+    B) Tuesday
+    C) Wednesday
+    D) Thursday
+    Ans: B

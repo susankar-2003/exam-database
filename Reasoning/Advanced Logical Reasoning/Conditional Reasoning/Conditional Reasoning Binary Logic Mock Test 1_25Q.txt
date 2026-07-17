@@ -1,0 +1,174 @@
+1. If all roses are flowers and some flowers are red, which conclusion definitely follows?
+   A) All roses are red
+   B) Some roses are red
+   C) All red things are roses
+   D) All roses are flowers
+   Ans: D
+
+2. If Ravi is taller than Amit and Amit is taller than Sunil, who is the shortest?
+   A) Ravi
+   B) Amit
+   C) Sunil
+   D) Cannot be determined
+   Ans: C
+
+3. If every student in a class studies Mathematics and Rina is a student in the class, what follows?
+   A) Rina studies Science
+   B) Rina studies Mathematics
+   C) Rina is a teacher
+   D) Rina dislikes Mathematics
+   Ans: B
+
+4. If no birds are mammals and all sparrows are birds, then:
+   A) All mammals are sparrows
+   B) Some sparrows are mammals
+   C) No sparrows are mammals
+   D) All birds are mammals
+   Ans: C
+
+5. If a train is late, Rahul misses the meeting. Rahul missed the meeting. Which conclusion is valid?
+   A) The train was late
+   B) Rahul traveled by bus
+   C) The train was not late
+   D) Cannot be determined
+   Ans: D
+
+6. If all engineers are graduates and some graduates are athletes, then:
+   A) All engineers are athletes
+   B) Some engineers are athletes
+   C) All athletes are graduates
+   D) All engineers are graduates
+   Ans: D
+
+7. If P is older than Q and Q is older than R, then:
+   A) R is older than P
+   B) P is older than R
+   C) Q is older than P
+   D) R and P are the same age
+   Ans: B
+
+8. If all cats are animals and some animals are wild, then:
+   A) All cats are wild
+   B) Some cats are wild
+   C) All wild animals are cats
+   D) All cats are animals
+   Ans: D
+
+9. If today is Monday, what day will it be after 10 days?
+   A) Wednesday
+   B) Thursday
+   C) Friday
+   D) Saturday
+   Ans: B
+
+10. If every book on the shelf is new and this book is on the shelf, then:
+    A) This book is old
+    B) This book is new
+    C) This book is expensive
+    D) Cannot be determined
+    Ans: B
+
+11. If some pens are blue and all blue pens are expensive, then:
+    A) Some pens are expensive
+    B) All pens are expensive
+    C) No pens are expensive
+    D) All expensive items are pens
+    Ans: A
+
+12. If A is to the north of B and B is to the north of C, then:
+    A) C is north of A
+    B) A is south of C
+    C) A is north of C
+    D) B is south of C
+    Ans: C
+
+13. If no fish can fly and a shark is a fish, then:
+    A) A shark can fly
+    B) A shark cannot fly
+    C) Some fish can fly
+    D) All birds are fish
+    Ans: B
+
+14. If all doctors are educated and Raj is a doctor, then:
+    A) Raj is educated
+    B) Raj is not educated
+    C) Raj is a teacher
+    D) Raj is a student
+    Ans: A
+
+15. If a number is divisible by 2, then it is even. The number 24 is divisible by 2. Therefore:
+    A) 24 is odd
+    B) 24 is prime
+    C) 24 is even
+    D) 24 is negative
+    Ans: C
+
+16. If every employee has an ID card and Meena is an employee, then:
+    A) Meena has an ID card
+    B) Meena is unemployed
+    C) Meena is a manager
+    D) Meena has no ID card
+    Ans: A
+
+17. If all mangoes are fruits and all fruits contain vitamins, then:
+    A) All mangoes contain vitamins
+    B) Some vitamins are mangoes
+    C) All vitamins are fruits
+    D) No mango contains vitamins
+    Ans: A
+
+18. If Kiran is younger than Mohan and Mohan is younger than Sita, then:
+    A) Kiran is oldest
+    B) Sita is youngest
+    C) Sita is older than Kiran
+    D) Mohan is older than Sita
+    Ans: C
+
+19. If some cars are electric and all electric cars are eco-friendly, then:
+    A) All cars are eco-friendly
+    B) Some cars are eco-friendly
+    C) No cars are eco-friendly
+    D) All eco-friendly vehicles are cars
+    Ans: B
+
+20. If all squares are rectangles and all rectangles are quadrilaterals, then:
+    A) All quadrilaterals are squares
+    B) All squares are quadrilaterals
+    C) Some rectangles are not quadrilaterals
+    D) No square is a quadrilateral
+    Ans: B
+
+21. If R is to the left of S and S is to the left of T, then:
+    A) T is left of R
+    B) R is right of T
+    C) R is left of T
+    D) S is right of T
+    Ans: C
+
+22. If every laptop has a processor and this device is a laptop, then:
+    A) This device has a processor
+    B) This device is a mobile phone
+    C) This device has no processor
+    D) Cannot be determined
+    Ans: A
+
+23. If all buses are vehicles and some vehicles are fast, then:
+    A) All buses are fast
+    B) Some buses are fast
+    C) All vehicles are buses
+    D) All buses are vehicles
+    Ans: D
+
+24. If all singers are artists and Priya is a singer, then:
+    A) Priya is an artist
+    B) Priya is a dancer
+    C) Priya is not an artist
+    D) Priya is a painter
+    Ans: A
+
+25. If today is Thursday, what day will it be after 15 days?
+    A) Friday
+    B) Saturday
+    C) Sunday
+    D) Monday
+    Ans: A

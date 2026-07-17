@@ -1,0 +1,175 @@
+1. If you play with fire, you get burned. You are not burned. Conclusion: You did not play with fire. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+2. If you are a mammal, you have a heart. A whale is a mammal. Conclusion: A whale has a heart. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+3. If you are at the beach, you see sand. You do not see sand. Conclusion: You are not at the beach. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+4. If you have a fever, you are sick. You are sick. Conclusion: You have a fever. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+5. If you turn the key, the door unlocks. You did not turn the key. Conclusion: The door does not unlock. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+6. If you buy a ticket, you can see the show. You bought a ticket. Conclusion: You can see the show. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+7. If it is a square, it is a rectangle. A circle is not a rectangle. Conclusion: A circle is not a square. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+8. If you heat ice, it melts. The ice has melted. Conclusion: You heated it. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+9. If you are human, you need water. You are human. Conclusion: You need water. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+10. If the oven is on, it is hot. The oven is not hot. Conclusion: The oven is not on. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+11. If it snows, the roads are slippery. The roads are slippery. Conclusion: It snowed. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+12. If you lie, you are untrustworthy. You do not lie. Conclusion: You are trustworthy. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+13. If you have a cold, you sneeze. You are sneezing. Conclusion: You have a cold. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+14. If you work hard, you succeed. You did not succeed. Conclusion: You did not work hard. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+15. If you are in Rome, you are in Italy. You are not in Rome. Conclusion: You are not in Italy. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+16. If you run a marathon, you are tired. You ran a marathon. Conclusion: You are tired. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+17. If you drop a glass, it breaks. It did not break. Conclusion: You did not drop it. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+18. If a number is even, it is divisible by 2. The number 7 is not divisible by 2. Conclusion: 7 is not even. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+19. If you are a doctor, you wear a white coat. You wear a white coat. Conclusion: You are a doctor. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+20. If you are at home, the door is locked. You are not at home. Conclusion: The door is not locked. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+21. If the coffee is hot, you should blow on it. You should blow on it. Conclusion: The coffee is hot. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+22. If you are 16, you can drive. You are 16. Conclusion: You can drive. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+23. If the dog barks, someone is at the door. No one is at the door. Conclusion: The dog did not bark. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+24. If it is 12 PM, it is noon. It is not noon. Conclusion: It is not 12 PM. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+25. If you press the brake, the car stops. The car stopped. Conclusion: You pressed the brake. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+

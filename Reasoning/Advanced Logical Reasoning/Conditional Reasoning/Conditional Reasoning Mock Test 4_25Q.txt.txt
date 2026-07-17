@@ -1,0 +1,174 @@
+1. If all pencils are stationery items and all stationery items are useful, then:
+   A) All pencils are useful
+   B) Some useful things are pencils
+   C) All useful things are pencils
+   D) No pencils are useful
+   Ans: A
+
+2. If Arjun is taller than Bharat and Bharat is taller than Chirag, then:
+   A) Chirag is taller than Arjun
+   B) Arjun is taller than Chirag
+   C) Bharat is taller than Arjun
+   D) Arjun and Chirag are of equal height
+   Ans: B
+
+3. If every airplane has wings and this vehicle is an airplane, then:
+   A) It has wheels only
+   B) It has wings
+   C) It is a train
+   D) Cannot be determined
+   Ans: B
+
+4. If no mammals lay eggs and all dogs are mammals, then:
+   A) All dogs lay eggs
+   B) Some dogs lay eggs
+   C) No dogs lay eggs
+   D) All mammals are dogs
+   Ans: C
+
+5. If the power goes out, the lights turn off. The lights are off. Which conclusion is valid?
+   A) The power definitely went out
+   B) The power did not go out
+   C) The lights can only turn off due to a power outage
+   D) Cannot be determined
+   Ans: D
+
+6. If all musicians are artists and some artists are painters, then:
+   A) All musicians are painters
+   B) Some musicians are painters
+   C) All musicians are artists
+   D) All painters are musicians
+   Ans: C
+
+7. If A is heavier than B and B is heavier than C, then:
+   A) C is heavier than A
+   B) A is heavier than C
+   C) B is heavier than A
+   D) A and C weigh the same
+   Ans: B
+
+8. If all bananas are fruits and some fruits are yellow, then:
+   A) All bananas are yellow
+   B) Some bananas are yellow
+   C) All yellow things are bananas
+   D) All bananas are fruits
+   Ans: D
+
+9. If today is Friday, what day will it be after 20 days?
+   A) Tuesday
+   B) Wednesday
+   C) Thursday
+   D) Friday
+   Ans: C
+
+10. If every hospital has doctors and City Hospital is a hospital, then:
+    A) City Hospital has doctors
+    B) City Hospital has no doctors
+    C) City Hospital is a school
+    D) Cannot be determined
+    Ans: A
+
+11. If some teachers are researchers and all researchers are graduates, then:
+    A) All teachers are graduates
+    B) Some teachers are graduates
+    C) No teachers are graduates
+    D) All graduates are teachers
+    Ans: B
+
+12. If M is west of N and N is west of O, then:
+    A) O is west of M
+    B) M is east of O
+    C) M is west of O
+    D) N is east of O
+    Ans: C
+
+13. If no fish are birds and a salmon is a fish, then:
+    A) A salmon is a bird
+    B) A salmon is not a bird
+    C) Some fish are birds
+    D) All birds are fish
+    Ans: B
+
+14. If all pharmacists are healthcare professionals and Riya is a pharmacist, then:
+    A) Riya is a healthcare professional
+    B) Riya is a teacher
+    C) Riya is not a healthcare professional
+    D) Riya is a patient
+    Ans: A
+
+15. If a number is divisible by 10, then it ends in 0. The number ends in 0. Which conclusion is valid?
+    A) It is definitely divisible by 10
+    B) It is definitely not divisible by 10
+    C) It is an odd number
+    D) Cannot be determined
+    Ans: A
+
+16. If every train has an engine and this vehicle is a train, then:
+    A) It has an engine
+    B) It has wings
+    C) It has no engine
+    D) Cannot be determined
+    Ans: A
+
+17. If all elephants are mammals and all mammals breathe air, then:
+    A) All elephants breathe air
+    B) Some air is elephants
+    C) All air is mammals
+    D) No elephants breathe air
+    Ans: A
+
+18. If Sneha is older than Kavita and Kavita is older than Meera, then:
+    A) Meera is older than Sneha
+    B) Sneha is younger than Meera
+    C) Sneha is older than Meera
+    D) Kavita is older than Sneha
+    Ans: C
+
+19. If some flowers are roses and all roses are fragrant, then:
+    A) All flowers are fragrant
+    B) Some flowers are fragrant
+    C) No flowers are fragrant
+    D) All fragrant things are roses
+    Ans: B
+
+20. If all cubes are solids and all solids occupy space, then:
+    A) All cubes occupy space
+    B) All space is occupied by cubes
+    C) Some solids do not occupy space
+    D) No cubes occupy space
+    Ans: A
+
+21. If S is north of T and T is north of U, then:
+    A) U is north of S
+    B) S is south of U
+    C) S is north of U
+    D) T is south of U
+    Ans: C
+
+22. If every keyboard has keys and this device is a keyboard, then:
+    A) It has keys
+    B) It has no keys
+    C) It is a monitor
+    D) Cannot be determined
+    Ans: A
+
+23. If all scooters are vehicles and some vehicles are electric, then:
+    A) All scooters are electric
+    B) Some scooters are electric
+    C) All scooters are vehicles
+    D) All electric vehicles are scooters
+    Ans: C
+
+24. If all poets are writers and Aman is a poet, then:
+    A) Aman is a writer
+    B) Aman is a singer
+    C) Aman is not a writer
+    D) Aman is an actor
+    Ans: A
+
+25. If today is Sunday, what day will it be after 23 days?
+    A) Monday
+    B) Tuesday
+    C) Wednesday
+    D) Thursday
+    Ans: C

@@ -1,0 +1,174 @@
+1. If you are a student, you have an ID. You do not have an ID. Conclusion: You are not a student. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+2. If you use a computer, you need electricity. You are using a computer. Conclusion: You need electricity. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+3. If you go to the store, you buy milk. You bought milk. Conclusion: You went to the store. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+4. If you have a cat, you have a pet. You do not have a cat. Conclusion: You do not have a pet. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+5. If you are in Paris, you see the Eiffel Tower. You are seeing the Eiffel Tower. Conclusion: You are in Paris. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+6. If you are thirsty, you drink water. You are thirsty. Conclusion: You drink water. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+7. If you are happy, you smile. You are not smiling. Conclusion: You are not happy. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+8. If you have a car, you have insurance. You do not have insurance. Conclusion: You do not have a car. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+9. If you are tired, you sleep. You are sleeping. Conclusion: You are tired. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+10. If you are hungry, you eat. You are not hungry. Conclusion: You do not eat. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+11. If you are a plant, you need sun. You need sun. Conclusion: You are a plant. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+12. If you are a chef, you can cook. You are a chef. Conclusion: You can cook. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+13. If you have a map, you are not lost. You are lost. Conclusion: You do not have a map. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+14. If it is 5 PM, it is time to go home. It is not 5 PM. Conclusion: It is not time to go home. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+15. If you are in a library, you are quiet. You are quiet. Conclusion: You are in a library. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+16. If you are on a plane, you are flying. You are on a plane. Conclusion: You are flying. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+17. If you have a cold, you have a cough. You do not have a cough. Conclusion: You do not have a cold. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+18. If you have a dog, you have a collar. You have a collar. Conclusion: You have a dog. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+19. If you are a pilot, you fly planes. You are not a pilot. Conclusion: You do not fly planes. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+20. If you are in a desert, it is dry. It is dry. Conclusion: You are in a desert. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+21. If you are a musician, you play an instrument. You are a musician. Conclusion: You play an instrument. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+22. If you have a headache, you take an aspirin. You did not take an aspirin. Conclusion: You do not have a headache. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+23. If it is raining, you use an umbrella. You are using an umbrella. Conclusion: It is raining. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+24. If you are a teacher, you have students. You are not a teacher. Conclusion: You do not have students. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+25. If you have a phone, you can call. You can call. Conclusion: You have a phone. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C

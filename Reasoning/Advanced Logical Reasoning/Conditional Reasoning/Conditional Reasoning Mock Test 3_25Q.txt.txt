@@ -1,0 +1,174 @@
+1. If all apples are fruits and all fruits are healthy foods, then:
+   A) All apples are healthy foods
+   B) Some healthy foods are apples
+   C) All healthy foods are apples
+   D) No apples are healthy foods
+   Ans: A
+
+2. If Neha is taller than Pooja and Pooja is taller than Kavya, then:
+   A) Kavya is taller than Neha
+   B) Neha is taller than Kavya
+   C) Pooja is taller than Neha
+   D) Neha and Kavya are of equal height
+   Ans: B
+
+3. If every computer has a CPU and this machine is a computer, then:
+   A) This machine has a CPU
+   B) This machine is a printer
+   C) This machine has no CPU
+   D) Cannot be determined
+   Ans: A
+
+4. If no reptiles are warm-blooded and all snakes are reptiles, then:
+   A) All snakes are warm-blooded
+   B) Some snakes are warm-blooded
+   C) No snakes are warm-blooded
+   D) All reptiles are snakes
+   Ans: C
+
+5. If it rains, the roads become wet. The roads are wet. Which conclusion is valid?
+   A) It definitely rained
+   B) It did not rain
+   C) The roads can never be wet otherwise
+   D) Cannot be determined
+   Ans: D
+
+6. If all teachers are educated and some educated people are writers, then:
+   A) All teachers are writers
+   B) Some teachers are writers
+   C) All teachers are educated
+   D) All writers are teachers
+   Ans: C
+
+7. If M is older than N and N is older than O, then:
+   A) O is older than M
+   B) M is older than O
+   C) N is older than M
+   D) M and O are the same age
+   Ans: B
+
+8. If all oranges are fruits and some fruits are sweet, then:
+   A) All oranges are sweet
+   B) Some oranges are sweet
+   C) All sweet things are oranges
+   D) All oranges are fruits
+   Ans: D
+
+9. If today is Wednesday, what day will it be after 12 days?
+   A) Sunday
+   B) Monday
+   C) Tuesday
+   D) Friday
+   Ans: B
+
+10. If every mobile phone has a battery and this device is a mobile phone, then:
+    A) It has a battery
+    B) It has no battery
+    C) It is a television
+    D) Cannot be determined
+    Ans: A
+
+11. If some students are athletes and all athletes exercise regularly, then:
+    A) All students exercise regularly
+    B) Some students exercise regularly
+    C) No students exercise regularly
+    D) All athletes are students
+    Ans: B
+
+12. If X is east of Y and Y is east of Z, then:
+    A) Z is east of X
+    B) X is west of Z
+    C) X is east of Z
+    D) Y is west of Z
+    Ans: C
+
+13. If no insects are mammals and a butterfly is an insect, then:
+    A) A butterfly is a mammal
+    B) A butterfly is not a mammal
+    C) Some insects are mammals
+    D) All mammals are insects
+    Ans: B
+
+14. If all nurses work in hospitals and Anita is a nurse, then:
+    A) Anita works in a hospital
+    B) Anita is a doctor
+    C) Anita does not work in a hospital
+    D) Anita is a patient
+    Ans: A
+
+15. If a number is divisible by 5, then it ends in 0 or 5. The number ends in 8. Therefore:
+    A) It is divisible by 5
+    B) It is not divisible by 5
+    C) It is even and divisible by 5
+    D) Cannot be determined
+    Ans: B
+
+16. If every bus has wheels and this vehicle is a bus, then:
+    A) It has wheels
+    B) It has wings
+    C) It has no wheels
+    D) Cannot be determined
+    Ans: A
+
+17. If all lions are animals and all animals need food, then:
+    A) All lions need food
+    B) Some food is lions
+    C) All food is animals
+    D) No lions need food
+    Ans: A
+
+18. If Rohan is younger than Sameer and Sameer is younger than Vivek, then:
+    A) Vivek is younger than Rohan
+    B) Rohan is older than Vivek
+    C) Vivek is older than Rohan
+    D) Sameer is older than Vivek
+    Ans: C
+
+19. If some books are novels and all novels are interesting, then:
+    A) All books are interesting
+    B) Some books are interesting
+    C) No books are interesting
+    D) All interesting things are novels
+    Ans: B
+
+20. If all triangles are polygons and all polygons are shapes, then:
+    A) All triangles are shapes
+    B) All shapes are triangles
+    C) Some polygons are not shapes
+    D) No triangles are shapes
+    Ans: A
+
+21. If P is south of Q and Q is south of R, then:
+    A) R is south of P
+    B) P is north of R
+    C) P is south of R
+    D) Q is north of R
+    Ans: C
+
+22. If every television has a screen and this device is a television, then:
+    A) It has a screen
+    B) It has no screen
+    C) It is a computer
+    D) Cannot be determined
+    Ans: A
+
+23. If all bicycles are vehicles and some vehicles are fast, then:
+    A) All bicycles are fast
+    B) Some bicycles are fast
+    C) All bicycles are vehicles
+    D) All fast vehicles are bicycles
+    Ans: C
+
+24. If all actors are performers and Arjun is an actor, then:
+    A) Arjun is a performer
+    B) Arjun is a singer
+    C) Arjun is not a performer
+    D) Arjun is a writer
+    Ans: A
+
+25. If today is Saturday, what day will it be after 17 days?
+    A) Monday
+    B) Tuesday
+    C) Wednesday
+    D) Thursday
+    Ans: C

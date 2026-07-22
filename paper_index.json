@@ -1,5 +1,5 @@
 {
-    "last_serial": 112,
+    "last_serial": 113,
     "papers": {
         "1": {
             "id": "1",
@@ -672,6 +672,12 @@
             "name": "paper 1.txt",
             "path": "ADRE/Grade-III Papers/Bachelor's Degree Level/paper 1.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Bachelor%27s%20Degree%20Level/paper%201.txt"
+        },
+        "113": {
+            "id": "113",
+            "name": "paper 123.txt",
+            "path": "ADRE/Grade-III Papers/Bachelor's Degree Level/paper 123.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Bachelor%27s%20Degree%20Level/paper%20123.txt"
         }
     }
 }

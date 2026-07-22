@@ -1,5 +1,5 @@
 {
-    "last_serial": 111,
+    "last_serial": 112,
     "papers": {
         "1": {
             "id": "1",
@@ -666,6 +666,12 @@
             "name": "paper 1.txt",
             "path": "Medical Department/Directorate of Medical Education (DME)/paper 1.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Medical%20Education%20%28DME%29/paper%201.txt"
+        },
+        "112": {
+            "id": "112",
+            "name": "paper 1.txt",
+            "path": "ADRE/Grade-III Papers/Bachelor's Degree Level/paper 1.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Bachelor%27s%20Degree%20Level/paper%201.txt"
         }
     }
 }

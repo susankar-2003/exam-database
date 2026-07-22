@@ -1,0 +1,36 @@
+name: Auto Generate Paper Index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*.txt'
+      - '**/*.zip'
+      - 'bot.py'
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Bot Script
+        run: python bot.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add paper_index.json
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update paper_index.json with new serial IDs" && git push)

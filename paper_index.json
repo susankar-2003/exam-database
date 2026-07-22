@@ -5,43 +5,50 @@
             "id": "1",
             "name": "RRB-ALP-1.txt",
             "path": "DRDO/CEPTAM - Technician A (Tech 'A')/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DRDO/CEPTAM%20-%20Technician%20A%20%28Tech%20%27A%27%29/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DRDO/CEPTAM%20-%20Technician%20A%20%28Tech%20%27A%27%29/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "2": {
             "id": "2",
             "name": "RRB-ALP-1.txt",
             "path": "DRDO/Scientist Entry Test (SET)/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DRDO/Scientist%20Entry%20Test%20%28SET%29/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DRDO/Scientist%20Entry%20Test%20%28SET%29/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "3": {
             "id": "3",
             "name": "RRB-ALP-1.txt",
             "path": "DRDO/CEPTAM - Senior Technical Assistant B (STA 'B')/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DRDO/CEPTAM%20-%20Senior%20Technical%20Assistant%20B%20%28STA%20%27B%27%29/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DRDO/CEPTAM%20-%20Senior%20Technical%20Assistant%20B%20%28STA%20%27B%27%29/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "4": {
             "id": "4",
             "name": "RRB-ALP-1.txt",
             "path": "DRDO/CEPTAM - Admin & Allied (A&A)/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DRDO/CEPTAM%20-%20Admin%20%26%20Allied%20%28A%26A%29/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DRDO/CEPTAM%20-%20Admin%20%26%20Allied%20%28A%26A%29/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "5": {
             "id": "5",
             "name": "paper 1.txt",
             "path": "Assam Police/Assam Police SI/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20SI/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20SI/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "6": {
             "id": "6",
             "name": "paper 1_locked_t1.txt",
             "path": "Assam Police/Assam Police Constable/paper 1_locked_t1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/paper%201_locked_t1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/paper%201_locked_t1.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "7": {
             "id": "7",
             "name": "paper 2_locked_t1.txt",
             "path": "Assam Police/Assam Police Constable/paper 2_locked_t1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/paper%202_locked_t1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/paper%202_locked_t1.txt",
+            "hash": "fb76474feb6ce2e755a6120c0531d9a5"
         },
         "8": {
             "id": "8",
@@ -53,619 +60,722 @@
             "id": "9",
             "name": "paper 1.txt",
             "path": "ADRE/Grade-III Papers/HSLC or Equivalent Level/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/HSLC%20or%20Equivalent%20Level/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/HSLC%20or%20Equivalent%20Level/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "10": {
             "id": "10",
             "name": "paper.txt",
             "path": "ADRE/Grade-III Papers/HSSLC or Equivalent Level/paper.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/HSSLC%20or%20Equivalent%20Level/paper.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/HSSLC%20or%20Equivalent%20Level/paper.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "11": {
             "id": "11",
             "name": "paper 1.txt",
             "path": "ADRE/Grade-IV Papers/Class VIII Level/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-IV%20Papers/Class%20VIII%20Level/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-IV%20Papers/Class%20VIII%20Level/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "12": {
             "id": "12",
             "name": "paper 1.txt",
             "path": "ADRE/Grade-IV Papers/HSLC (Class 10) or Equivalent Level/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-IV%20Papers/HSLC%20%28Class%2010%29%20or%20Equivalent%20Level/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-IV%20Papers/HSLC%20%28Class%2010%29%20or%20Equivalent%20Level/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "13": {
             "id": "13",
             "name": "paper 1.txt",
             "path": "Bachelor of Education (B.Ed)/Assam University, Silchar/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Bachelor%20of%20Education%20%28B.Ed%29/Assam%20University%2C%20Silchar/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Bachelor%20of%20Education%20%28B.Ed%29/Assam%20University%2C%20Silchar/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "14": {
             "id": "14",
             "name": "paper 1.txt",
             "path": "Bachelor of Education (B.Ed)/Dibrugarh University (DU B.Ed. CET)/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Bachelor%20of%20Education%20%28B.Ed%29/Dibrugarh%20University%20%28DU%20B.Ed.%20CET%29/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Bachelor%20of%20Education%20%28B.Ed%29/Dibrugarh%20University%20%28DU%20B.Ed.%20CET%29/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "15": {
             "id": "15",
             "name": "paper 1.txt",
             "path": "Bachelor of Education (B.Ed)/Gauhati University (GUBEDCET)/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Bachelor%20of%20Education%20%28B.Ed%29/Gauhati%20University%20%28GUBEDCET%29/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Bachelor%20of%20Education%20%28B.Ed%29/Gauhati%20University%20%28GUBEDCET%29/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "16": {
             "id": "16",
             "name": "paper 1.txt",
             "path": "Assam Teacher Eligibility Test (TET)/Paper I - for Lower Primary/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Teacher%20Eligibility%20Test%20%28TET%29/Paper%20I%20-%20for%20Lower%20Primary/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Teacher%20Eligibility%20Test%20%28TET%29/Paper%20I%20-%20for%20Lower%20Primary/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "17": {
             "id": "17",
             "name": "paper 1.txt",
             "path": "Assam Teacher Eligibility Test (TET)/Paper II for Upper Primary/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Teacher%20Eligibility%20Test%20%28TET%29/Paper%20II%20for%20Upper%20Primary/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Teacher%20Eligibility%20Test%20%28TET%29/Paper%20II%20for%20Upper%20Primary/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "18": {
             "id": "18",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Analytical Reasoning/Matching Puzzles/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Matching%20Puzzles/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Matching%20Puzzles/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "19": {
             "id": "19",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Analytical Reasoning/Scheduling Problems/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Scheduling%20Problems/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Scheduling%20Problems/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "20": {
             "id": "20",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Analytical Reasoning/Distribution Problems/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Distribution%20Problems/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Distribution%20Problems/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "21": {
             "id": "21",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Analytical Reasoning/Selection Problems/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Selection%20Problems/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Selection%20Problems/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "22": {
             "id": "22",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Analytical Reasoning/Ranking Logic/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Ranking%20Logic/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Ranking%20Logic/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "23": {
             "id": "23",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Analytical Reasoning/Seating Arrangement/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Seating%20Arrangement/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analytical%20Reasoning/Seating%20Arrangement/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "24": {
             "id": "24",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Embedded Figures/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Embedded%20Figures/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Embedded%20Figures/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "25": {
             "id": "25",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Water Images/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Water%20Images/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Water%20Images/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "26": {
             "id": "26",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Paper Cutting/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Paper%20Cutting/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Paper%20Cutting/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "27": {
             "id": "27",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Paper Folding/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Paper%20Folding/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Paper%20Folding/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "28": {
             "id": "28",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Counting Figures/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Counting%20Figures/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Counting%20Figures/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "29": {
             "id": "29",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Figure Matrix/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Figure%20Matrix/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Figure%20Matrix/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "30": {
             "id": "30",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Pattern Completion/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Pattern%20Completion/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Pattern%20Completion/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "31": {
             "id": "31",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Mirror Images/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Mirror%20Images/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Mirror%20Images/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "32": {
             "id": "32",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Cube and Dice/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Cube%20and%20Dice/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Cube%20and%20Dice/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "33": {
             "id": "33",
             "name": "test2.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Figure Completion/test2.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Figure%20Completion/test2.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Figure%20Completion/test2.txt",
+            "hash": "13c208c2520a520a77827661457930c7"
         },
         "34": {
             "id": "34",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Non-Verbal Reasoning/Figure Completion/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Figure%20Completion/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Non-Verbal%20Reasoning/Figure%20Completion/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "35": {
             "id": "35",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Deductive Logic/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Deductive%20Logic/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Deductive%20Logic/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "36": {
             "id": "36",
             "name": "Conditional Reasoning Mock Test 1_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%201_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%201_25Q.txt",
+            "hash": "392662e01b5b5872271b7fec3dd345d3"
         },
         "37": {
             "id": "37",
             "name": "Conditional Reasoning Mock Test 4_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%204_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%204_25Q.txt",
+            "hash": "3bc42b3ca8401777a3d8ccc3782927e4"
         },
         "38": {
             "id": "38",
             "name": "Conditional Reasoning Mock Test 5_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%205_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%205_25Q.txt",
+            "hash": "85c1fa1fd9cc82a7ecdfba5a575b2c0c"
         },
         "39": {
             "id": "39",
             "name": "Conditional Reasoning Mock Test 6_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%206_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%206_25Q.txt",
+            "hash": "1f66a46da3617b5e44229902a84bf598"
         },
         "40": {
             "id": "40",
             "name": "Conditional Reasoning Mock Test 9_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 9_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%209_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%209_25Q.txt",
+            "hash": "cdf0845fd74508fd2d0b079b9d8ddb39"
         },
         "41": {
             "id": "41",
             "name": "Conditional Reasoning Mock Test 8_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 8_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%208_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%208_25Q.txt",
+            "hash": "7d1613e03d64276efdcf4ae97c526b83"
         },
         "42": {
             "id": "42",
             "name": "Conditional Reasoning Mock Test 2_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%202_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%202_25Q.txt",
+            "hash": "c0d850875c20ee694f52fae7704bab94"
         },
         "43": {
             "id": "43",
             "name": "Conditional Reasoning Mock Test 10_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 10_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%2010_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%2010_25Q.txt",
+            "hash": "7ac3859ef96d1573d8666f3c3acc6f82"
         },
         "44": {
             "id": "44",
             "name": "Conditional Reasoning Mock Test 7_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 7_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%207_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%207_25Q.txt",
+            "hash": "08c690ff52365ca63412986c1e7e9918"
         },
         "45": {
             "id": "45",
             "name": "Conditional Reasoning Mock Test 3_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%203_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%203_25Q.txt",
+            "hash": "c0d850875c20ee694f52fae7704bab94"
         },
         "46": {
             "id": "46",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Logical Venn Diagram/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Logical%20Venn%20Diagram/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Logical%20Venn%20Diagram/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "47": {
             "id": "47",
             "name": "Binary Logic Mock Test 1_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Binary Logic/Binary Logic Mock Test 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%201_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%201_25Q.txt",
+            "hash": "3bd90a5a558bf2a8eef3ffd3388a9838"
         },
         "48": {
             "id": "48",
             "name": "Binary Logic Mock Test 4_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Binary Logic/Binary Logic Mock Test 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%204_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%204_25Q.txt",
+            "hash": "81822c52d2df61e3b80e244947e72623"
         },
         "49": {
             "id": "49",
             "name": "Binary Logic Mock Test 7_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Binary Logic/Binary Logic Mock Test 7_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%207_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%207_25Q.txt",
+            "hash": "9033aa4c186735088514184800cbdd8d"
         },
         "50": {
             "id": "50",
             "name": "Binary Logic Mock Test 2_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Binary Logic/Binary Logic Mock Test 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%202_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%202_25Q.txt",
+            "hash": "ecdacbafa1297e19fa51fe101dfe33c2"
         },
         "51": {
             "id": "51",
             "name": "Binary Logic Mock Test 8_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Binary Logic/Binary Logic Mock Test 8_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%208_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%208_25Q.txt",
+            "hash": "f1f4c2c308e8595f65c1e54de6d0d841"
         },
         "52": {
             "id": "52",
             "name": "Binary Logic Mock Test 3_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Binary Logic/Binary Logic Mock Test 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%203_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%203_25Q.txt",
+            "hash": "9258d6e5ed3f6798cb91e3128b488df2"
         },
         "53": {
             "id": "53",
             "name": "Binary Logic Mock Test 6_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Binary Logic/Binary Logic Mock Test 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%206_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%206_25Q.txt",
+            "hash": "cbec5d424b9f255ed5fdba1bd8e5d999"
         },
         "54": {
             "id": "54",
             "name": "Binary Logic Mock Test 5_25Q.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Binary Logic/Binary Logic Mock Test 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%205_25Q.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%205_25Q.txt",
+            "hash": "5f98b54fd218d5f5929b3e38caa40032"
         },
         "55": {
             "id": "55",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Advanced Logical Reasoning/Truth Tellers and Liars/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Truth%20Tellers%20and%20Liars/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Advanced%20Logical%20Reasoning/Truth%20Tellers%20and%20Liars/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "56": {
             "id": "56",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Mathematical Reasoning/Clock/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Clock/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Clock/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "57": {
             "id": "57",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Mathematical Reasoning/Calendar/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Calendar/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Calendar/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "58": {
             "id": "58",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Mathematical Reasoning/Age Problems/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Age%20Problems/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Age%20Problems/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "59": {
             "id": "59",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Mathematical Reasoning/Mathematical Operations/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Mathematical%20Operations/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Mathematical%20Operations/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "60": {
             "id": "60",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Mathematical Reasoning/Arithmetic Reasoning/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Arithmetic%20Reasoning/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Arithmetic%20Reasoning/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "61": {
             "id": "61",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Mathematical Reasoning/Missing Number/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Missing%20Number/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Missing%20Number/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "62": {
             "id": "62",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Mathematical Reasoning/Number Logic/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Number%20Logic/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Number%20Logic/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "63": {
             "id": "63",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Coding-Decoding/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Coding-Decoding/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Coding-Decoding/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "64": {
             "id": "64",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Analogy/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Analogy/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Analogy/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "65": {
             "id": "65",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Assertion and Reason/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Assertion%20and%20Reason/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Assertion%20and%20Reason/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "66": {
             "id": "66",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Syllogism/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Syllogism/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Syllogism/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "67": {
             "id": "67",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Data Sufficiency/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Data%20Sufficiency/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Data%20Sufficiency/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "68": {
             "id": "68",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Sitting Arrangement/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Sitting%20Arrangement/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Sitting%20Arrangement/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "69": {
             "id": "69",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Statement and Conclusion/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Statement%20and%20Conclusion/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Statement%20and%20Conclusion/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "70": {
             "id": "70",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Decision Making/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Decision%20Making/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Decision%20Making/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "71": {
             "id": "71",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Statement and Argument/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Statement%20and%20Argument/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Statement%20and%20Argument/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "72": {
             "id": "72",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Cause and Effect/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Cause%20and%20Effect/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Cause%20and%20Effect/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "73": {
             "id": "73",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Series Completion/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Series%20Completion/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Series%20Completion/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "74": {
             "id": "74",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Puzzle Test/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Puzzle%20Test/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Puzzle%20Test/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "75": {
             "id": "75",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Input Output/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Input%20Output/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Input%20Output/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "76": {
             "id": "76",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Classification/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Classification/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Classification/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "77": {
             "id": "77",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Ranking Order/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Ranking%20Order/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Ranking%20Order/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "78": {
             "id": "78",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Alphabet Test/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Alphabet%20Test/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Alphabet%20Test/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "79": {
             "id": "79",
             "name": "Blood Relation Test Paper 2.txt",
             "path": "Reasoning/Verbal Reasoning/Blood Relations/Blood Relation Test Paper 2.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Blood%20Relations/Blood%20Relation%20Test%20Paper%202.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Blood%20Relations/Blood%20Relation%20Test%20Paper%202.txt",
+            "hash": "35f9dc97109968e8b13fa16137ff98bc"
         },
         "80": {
             "id": "80",
             "name": "Blood Relation Test Paper 1.txt",
             "path": "Reasoning/Verbal Reasoning/Blood Relations/Blood Relation Test Paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Blood%20Relations/Blood%20Relation%20Test%20Paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Blood%20Relations/Blood%20Relation%20Test%20Paper%201.txt",
+            "hash": "3aae856c84c0d7df480a640a37196d06"
         },
         "81": {
             "id": "81",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Blood Relations/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Blood%20Relations/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Blood%20Relations/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "82": {
             "id": "82",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Inequality/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Inequality/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Inequality/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "83": {
             "id": "83",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Direction Sense Test/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Direction%20Sense%20Test/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Direction%20Sense%20Test/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "84": {
             "id": "84",
             "name": "RRB-ALP-1.txt",
             "path": "Reasoning/Verbal Reasoning/Statement and Assumption/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Statement%20and%20Assumption/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Verbal%20Reasoning/Statement%20and%20Assumption/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "85": {
             "id": "85",
             "name": "paper 1.txt",
             "path": "Assam D.El.Ed/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20D.El.Ed/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20D.El.Ed/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "86": {
             "id": "86",
             "name": "RRB-ALP-1.txt",
             "path": "RRB/NTPC/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/NTPC/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/NTPC/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "87": {
             "id": "87",
             "name": "RRB_ALP_Exam_1.txt",
             "path": "RRB/ALP/RRB_ALP_Exam_1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/ALP/RRB_ALP_Exam_1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/ALP/RRB_ALP_Exam_1.txt",
+            "hash": "942a5ed6b87b5ffcbda421256db9f6e6"
         },
         "88": {
             "id": "88",
             "name": "RRB-ALP-1.txt",
             "path": "RRB/Technician/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/Technician/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/Technician/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "89": {
             "id": "89",
             "name": "RRB-ALP-1.txt",
             "path": "RRB/JE/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/JE/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/JE/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "90": {
             "id": "90",
             "name": "RRB-ALP-1.txt",
             "path": "RRB/Group D/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/Group%20D/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/RRB/Group%20D/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "91": {
             "id": "91",
             "name": "paper 1.txt",
             "path": "APSC (Assam Public Service Commission)/APSC AE/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/APSC%20%28Assam%20Public%20Service%20Commission%29/APSC%20AE/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/APSC%20%28Assam%20Public%20Service%20Commission%29/APSC%20AE/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "92": {
             "id": "92",
             "name": "paper 1.txt",
             "path": "APSC (Assam Public Service Commission)/APSC JE/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/APSC%20%28Assam%20Public%20Service%20Commission%29/APSC%20JE/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/APSC%20%28Assam%20Public%20Service%20Commission%29/APSC%20JE/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "93": {
             "id": "93",
             "name": "paper 1.txt",
             "path": "APSC (Assam Public Service Commission)/APSC CEE/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/APSC%20%28Assam%20Public%20Service%20Commission%29/APSC%20CEE/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/APSC%20%28Assam%20Public%20Service%20Commission%29/APSC%20CEE/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "94": {
             "id": "94",
             "name": "RRB-ALP-1.txt",
             "path": "OIL India Limited/Junior Office Assistant/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/OIL%20India%20Limited/Junior%20Office%20Assistant/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/OIL%20India%20Limited/Junior%20Office%20Assistant/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "95": {
             "id": "95",
             "name": "RRB-ALP-1.txt",
             "path": "OIL India Limited/Junior Technician/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/OIL%20India%20Limited/Junior%20Technician/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/OIL%20India%20Limited/Junior%20Technician/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "96": {
             "id": "96",
             "name": "RRB-ALP-1.txt",
             "path": "OIL India Limited/Grade B & C/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/OIL%20India%20Limited/Grade%20B%20%26%20C/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/OIL%20India%20Limited/Grade%20B%20%26%20C/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "97": {
             "id": "97",
             "name": "RRB-ALP-1.txt",
             "path": "OIL India Limited/Junior Engineer/RRB-ALP-1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/OIL%20India%20Limited/Junior%20Engineer/RRB-ALP-1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/OIL%20India%20Limited/Junior%20Engineer/RRB-ALP-1.txt",
+            "hash": "36689c62822d54b557ac83dc029c757f"
         },
         "98": {
             "id": "98",
             "name": "Previous Year 2016.txt",
             "path": "Gauhati University (GUBEDCET)/Previous Year 2016.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Gauhati%20University%20%28GUBEDCET%29/Previous%20Year%202016.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Gauhati%20University%20%28GUBEDCET%29/Previous%20Year%202016.txt",
+            "hash": "fe0cb688ee6ebbc4b0af6956af9f5c95"
         },
         "99": {
             "id": "99",
             "name": "DU B.Ed 2020 Paper_70Q.zip",
             "path": "Dibrugarh University (DU B.Ed)/DU B.Ed 2020 Paper_70Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202020%20Paper_70Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202020%20Paper_70Q.zip",
+            "hash": "27abf58234cc5de7081e5de7704cd3cf"
         },
         "100": {
             "id": "100",
             "name": "DU B.Ed 2023 Paper_70Q.zip",
             "path": "Dibrugarh University (DU B.Ed)/DU B.Ed 2023 Paper_70Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202023%20Paper_70Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202023%20Paper_70Q.zip",
+            "hash": "d73202bb8f2f8d51962105b1e9c35edf"
         },
         "101": {
             "id": "101",
             "name": "DU B.Ed 2025 Paper_70Q.zip",
             "path": "Dibrugarh University (DU B.Ed)/DU B.Ed 2025 Paper_70Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202025%20Paper_70Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202025%20Paper_70Q.zip",
+            "hash": "535c4e5e043ed091b69752377e6ea996"
         },
         "102": {
             "id": "102",
             "name": "DU B.Ed 2018 Paper_69Q.zip",
             "path": "Dibrugarh University (DU B.Ed)/DU B.Ed 2018 Paper_69Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202018%20Paper_69Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202018%20Paper_69Q.zip",
+            "hash": "a3b1966a3002c80b27a068ec508e0009"
         },
         "103": {
             "id": "103",
             "name": "DU Paper 1_locked_t1_75Q.zip",
             "path": "Dibrugarh University (DU B.Ed)/DU Paper 1_locked_t1_75Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20Paper%201_locked_t1_75Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20Paper%201_locked_t1_75Q.zip",
+            "hash": "185ff6aac981bf480e7a6996608c69f9"
         },
         "104": {
             "id": "104",
             "name": "DU B.Ed 2022 Paper_70Q.zip",
             "path": "Dibrugarh University (DU B.Ed)/DU B.Ed 2022 Paper_70Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202022%20Paper_70Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202022%20Paper_70Q.zip",
+            "hash": "870d36c18dede80cf0cb583a7aada347"
         },
         "105": {
             "id": "105",
             "name": "DU B.Ed 2026 Paper_70Q.zip",
             "path": "Dibrugarh University (DU B.Ed)/DU B.Ed 2026 Paper_70Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202026%20Paper_70Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202026%20Paper_70Q.zip",
+            "hash": "bb0c5753c40fc689ab44eeef2c377066"
         },
         "106": {
             "id": "106",
             "name": "DU B.Ed 2019 Paper_70Q.zip",
             "path": "Dibrugarh University (DU B.Ed)/DU B.Ed 2019 Paper_70Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202019%20Paper_70Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202019%20Paper_70Q.zip",
+            "hash": "529fd97876d5c7ec713e56797905a125"
         },
         "107": {
             "id": "107",
             "name": "DHS 2018 Paper_100Q.zip",
             "path": "Medical Department/Directorate of Health Services (DHS)/DHS 2018 Paper_100Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Health%20Services%20%28DHS%29/DHS%202018%20Paper_100Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Health%20Services%20%28DHS%29/DHS%202018%20Paper_100Q.zip",
+            "hash": "a3964cd7b6a32149525ffa98d33900f6"
         },
         "108": {
             "id": "108",
             "name": "DHS 2025 Paper_100Q.zip",
             "path": "Medical Department/Directorate of Health Services (DHS)/DHS 2025 Paper_100Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Health%20Services%20%28DHS%29/DHS%202025%20Paper_100Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Health%20Services%20%28DHS%29/DHS%202025%20Paper_100Q.zip",
+            "hash": "b9e43b25c21e426eb671390cc9a47db9"
         },
         "109": {
             "id": "109",
             "name": "DHS 2020 Paper_100Q.zip",
             "path": "Medical Department/Directorate of Health Services (DHS)/DHS 2020 Paper_100Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Health%20Services%20%28DHS%29/DHS%202020%20Paper_100Q.zip"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Health%20Services%20%28DHS%29/DHS%202020%20Paper_100Q.zip",
+            "hash": "334a2fa552c0c5860358e580e19f085c"
         },
         "110": {
             "id": "110",
             "name": "paper1.txt",
             "path": "Medical Department/NHM Assam (National Health Mission)/paper1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/NHM%20Assam%20%28National%20Health%20Mission%29/paper1.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/NHM%20Assam%20%28National%20Health%20Mission%29/paper1.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "111": {
             "id": "111",
             "name": "paper 1.txt",
             "path": "Medical Department/Directorate of Medical Education (DME)/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Medical%20Education%20%28DME%29/paper%201.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Medical%20Education%20%28DME%29/paper%201.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "112": {
             "id": "112",
@@ -677,7 +787,8 @@
             "id": "113",
             "name": "paper 123.txt",
             "path": "ADRE/Grade-III Papers/Bachelor's Degree Level/paper 123.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Bachelor%27s%20Degree%20Level/paper%20123.txt"
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Bachelor%27s%20Degree%20Level/paper%20123.txt",
+            "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         }
     }
 }

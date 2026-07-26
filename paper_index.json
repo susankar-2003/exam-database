@@ -1,5 +1,5 @@
 {
-    "last_serial": 113,
+    "last_serial": 114,
     "papers": {
         "1": {
             "id": "1",
@@ -789,6 +789,13 @@
             "path": "ADRE/Grade-III Papers/Bachelor's Degree Level/paper 123456.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Bachelor%27s%20Degree%20Level/paper%20123456.txt",
             "hash": "12fc204edeae5b57713c5ad7dcb97d39"
+        },
+        "114": {
+            "id": "114",
+            "name": "DHS DME 2022 Grade 4 Paper_50Q.zip",
+            "path": "Medical Department/DHS DME 2022 Grade 4 Paper_50Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%20DME%202022%20Grade%204%20Paper_50Q.zip",
+            "hash": "c1ff591ac62387f5c1cf3239d4bcb689"
         }
     }
 }

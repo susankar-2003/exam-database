@@ -1,5 +1,5 @@
-[SECTION] General Knowledge | 1 - 10
-[SECTION] General Science | 1 - 10
+[SECTION] General Knowledge | 1 - 20
+[SECTION] General Science | 21 - 30
 [SECTION] English | 31 - 40
 [SECTION] Aptitude | 41 - 50
 

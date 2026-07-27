@@ -10,6 +10,17 @@
       "type": "custom",
       "imageUrl": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/banners/banner1.png",
       "actionUrl": "app://exam?name=Dibrugarh%20University%20(DU%20B.Ed.%20CET)/DU%20Paper%201&url=https://github.com/susankar-2003/exam-database/raw/refs/heads/main/Dibrugarh%20University%20(DU%20B.Ed.%20CET)/DU%20Paper%201.zip"
+    },
+    {
+      "type": "admob"
+    },
+     {
+      "type": "admob"
+    },
+    {
+      "type": "custom",
+      "imageUrl": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/banners/banner2.png",
+      "actionUrl": "https://play.google.com/store/apps/details?id=your.other.app"
     }
   ],
   "Dibrugarh University (DU B.Ed)": [],

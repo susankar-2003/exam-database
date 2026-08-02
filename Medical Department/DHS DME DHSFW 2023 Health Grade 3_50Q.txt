@@ -70,7 +70,9 @@ B) Niece
 C) Widow
 D) Spinster
 Ans: A
-11. Simplify the following: 2.002 + 7.9 { 2.8 - 6.3 (3.6 - 1.5) + 15.6}
+11. Simplify the following: 
+
+2.002 + 7.9 { 2.8 - 6.3 (3.6 - 1.5) + 15.6}
 A) 2.002
 B) 4.2845
 C) 40.843

@@ -126,9 +126,9 @@ D) Rectangle has two pairs of equal sides.
 Ans: C
 20. A and B can do a piece of work in 10 days, B and C can do the same work in 15 days while C and A can do it in 20 days. In how many days can B alone do the same work?
 A) 11 days
-B) 11 1/7days
+B) 11 (1/7) days
 C) 17 days
-D) 17 1/7 days
+D) 17 (1/7) days
 Ans: D
 21.What is the National Bird of India?
 A) Indian Peacock

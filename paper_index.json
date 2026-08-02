@@ -834,9 +834,9 @@
         },
         "120": {
             "id": "120",
-            "name": "DHSs DME DHSFW 2023 Health Grade 3_50Q.txt",
-            "path": "Medical Department/DHSs DME DHSFW 2023 Health Grade 3_50Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHSs%20DME%20DHSFW%202023%20Health%20Grade%203_50Q.txt",
+            "name": "DHS DME DHSFW 2023 Health Grade 3_50Q.txt",
+            "path": "Medical Department/DHS DME DHSFW 2023 Health Grade 3_50Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%20DME%20DHSFW%202023%20Health%20Grade%203_50Q.txt",
             "hash": "d7d1085aa37f35562a6190e54e73a3dd"
         }
     }

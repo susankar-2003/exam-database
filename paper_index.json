@@ -1,5 +1,5 @@
 {
-    "last_serial": 118,
+    "last_serial": 119,
     "papers": {
         "1": {
             "id": "1",
@@ -824,6 +824,13 @@
             "path": "Medical Department/DME 2022 Grade 4 Lakhimpur Medical College_50Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DME%202022%20Grade%204%20Lakhimpur%20Medical%20College_50Q.txt",
             "hash": "971e804bfcf681eb2624fa6fe9e7637d"
+        },
+        "119": {
+            "id": "119",
+            "name": "DHS 2019 Field Worker & Social Worker_100Q.zip",
+            "path": "Medical Department/DHS 2019 Field Worker & Social Worker_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%202019%20Field%20Worker%20%26%20Social%20Worker_100Q.zip",
+            "hash": "545e247465ec42fe7157b5b5cac94967"
         }
     }
 }

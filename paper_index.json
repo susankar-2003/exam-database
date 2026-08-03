@@ -1,5 +1,5 @@
 {
-    "last_serial": 120,
+    "last_serial": 121,
     "papers": {
         "1": {
             "id": "1",
@@ -838,6 +838,13 @@
             "path": "Medical Department/DHS DME DHSFW 2023 Health Grade 3_50Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%20DME%20DHSFW%202023%20Health%20Grade%203_50Q.txt",
             "hash": "d7d1085aa37f35562a6190e54e73a3dd"
+        },
+        "121": {
+            "id": "121",
+            "name": "a.txt",
+            "path": "Assam GK/History/a.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/History/a.txt",
+            "hash": "68b329da9893e34099c7d8ad5cb9c940"
         }
     }
 }

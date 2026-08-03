@@ -1,5 +1,5 @@
 {
-    "last_serial": 122,
+    "last_serial": 123,
     "papers": {
         "1": {
             "id": "1",
@@ -852,6 +852,13 @@
             "path": "Assam GK/Political Science/a.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Political%20Science/a.txt",
             "hash": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "123": {
+            "id": "123",
+            "name": "DHS 2019 Ward Boy & Chokidar_100Q.zip",
+            "path": "Medical Department/DHS 2019 Ward Boy & Chokidar_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%202019%20Ward%20Boy%20%26%20Chokidar_100Q.zip",
+            "hash": "79563f35b62943310507c5749e0cfcdb"
         }
     }
 }

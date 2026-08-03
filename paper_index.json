@@ -1,5 +1,5 @@
 {
-    "last_serial": 121,
+    "last_serial": 122,
     "papers": {
         "1": {
             "id": "1",
@@ -845,6 +845,13 @@
             "path": "Current Affairs/a.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/a.txt",
             "hash": "68b329da9893e34099c7d8ad5cb9c940"
+        },
+        "122": {
+            "id": "122",
+            "name": "a.txt",
+            "path": "Assam GK/Political Science/a.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Political%20Science/a.txt",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e"
         }
     }
 }

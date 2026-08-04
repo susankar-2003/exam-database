@@ -1,5 +1,5 @@
 {
-    "last_serial": 124,
+    "last_serial": 125,
     "papers": {
         "1": {
             "id": "1",
@@ -866,6 +866,13 @@
             "path": "Medical Department/DHSFW LDA 2019 Computer Operator_Q100.zip",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHSFW%20LDA%202019%20Computer%20Operator_Q100.zip",
             "hash": "0b8e5774491087c248b45912a0806dd8"
+        },
+        "125": {
+            "id": "125",
+            "name": "DHSFW 2019 LDA Computer Operator_Q100.zip",
+            "path": "Medical Department/DHSFW 2019 LDA Computer Operator_Q100.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHSFW%202019%20LDA%20Computer%20Operator_Q100.zip",
+            "hash": "5dd5a9fca62cce5b56ccf37124d973db"
         }
     }
 }

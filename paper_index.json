@@ -1,5 +1,5 @@
 {
-    "last_serial": 125,
+    "last_serial": 126,
     "papers": {
         "1": {
             "id": "1",
@@ -873,6 +873,13 @@
             "path": "Medical Department/DHSFW 2019 LDA Computer Operator_100Q.zip",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHSFW%202019%20LDA%20Computer%20Operator_100Q.zip",
             "hash": "5dd5a9fca62cce5b56ccf37124d973db"
+        },
+        "126": {
+            "id": "126",
+            "name": "Assam Police Constable 2020 Set1_50Q.zip",
+            "path": "Assam Police/Assam Police Constable/Assam Police Constable 2020 Set1_50Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20Constable%202020%20Set1_50Q.zip",
+            "hash": "cae4777fa3ea606be068949766a619fc"
         }
     }
 }

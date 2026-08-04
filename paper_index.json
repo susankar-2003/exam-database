@@ -1,5 +1,5 @@
 {
-    "last_serial": 123,
+    "last_serial": 124,
     "papers": {
         "1": {
             "id": "1",
@@ -859,6 +859,13 @@
             "path": "Medical Department/DHS 2019 Ward Boy & Chokidar_100Q.zip",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%202019%20Ward%20Boy%20%26%20Chokidar_100Q.zip",
             "hash": "9540bf394e01b88262b886dd5513ac82"
+        },
+        "124": {
+            "id": "124",
+            "name": "DHSFW LDA 2019 Computer Operator_Q100.zip",
+            "path": "Medical Department/DHSFW LDA 2019 Computer Operator_Q100.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHSFW%20LDA%202019%20Computer%20Operator_Q100.zip",
+            "hash": "0b8e5774491087c248b45912a0806dd8"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 127,
+    "last_serial": 128,
     "papers": {
         "1": {
             "id": "1",
@@ -887,6 +887,13 @@
             "path": "Assam Police/Assam Police Constable/Assam Police Constable 2022 Set 2_100Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20Constable%202022%20Set%202_100Q.txt",
             "hash": "4f3a5be8b5e686b4cefb40eb82ddf910"
+        },
+        "128": {
+            "id": "128",
+            "name": "Assam Police Constable 2025_100Q.zip",
+            "path": "Assam Police/Assam Police Constable/Assam Police Constable 2025_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20Constable%202025_100Q.zip",
+            "hash": "f8f43970a02af1add3edc35a4e596365"
         }
     }
 }

@@ -496,10 +496,10 @@ C) 49
 D) 56
 Ans: C
 
-58. A + B means A is the father of B. 
-A - B means A is the mother of B. 
-A × B means A is the brother of B. 
-A ÷ B means A is the sister of B. 
+58. A + B means A is the father of B, 
+A - B means A is the mother of B, 
+A × B means A is the brother of B, 
+A ÷ B means A is the sister of B, 
 
 In the expression M × N + O, how is M related to O?
 

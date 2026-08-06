@@ -1,5 +1,5 @@
 {
-    "last_serial": 129,
+    "last_serial": 130,
     "papers": {
         "1": {
             "id": "1",
@@ -901,6 +901,13 @@
             "path": "Assam Police/Assam Police Constable/Mock 1 Assam Police Constable_100Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Mock%201%20Assam%20Police%20Constable_100Q.txt",
             "hash": "75f1285626ad54fd7908192cb03f1086"
+        },
+        "130": {
+            "id": "130",
+            "name": "Assam Police SI 2025_100Q.zip",
+            "path": "Assam Police/Assam Police SI/Assam Police SI 2025_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20SI/Assam%20Police%20SI%202025_100Q.zip",
+            "hash": "c9b265100588409bdee77fe40f11f51a"
         }
     }
 }

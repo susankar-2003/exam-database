@@ -1,5 +1,5 @@
 {
-    "last_serial": 133,
+    "last_serial": 134,
     "papers": {
         "1": {
             "id": "1",
@@ -929,6 +929,13 @@
             "path": "Assam Police/Assam Police SI/Assam Police SI 2020 Memory Based Paper_100Q.zip",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20SI/Assam%20Police%20SI%202020%20Memory%20Based%20Paper_100Q.zip",
             "hash": "9264d3e9119b0bb3f52d5866ec887afc"
+        },
+        "134": {
+            "id": "134",
+            "name": "Paper V 2022.zip",
+            "path": "ADRE/Grade-III Papers/HSLC or Equivalent Level/Paper V 2022.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/HSLC%20or%20Equivalent%20Level/Paper%20V%202022.zip",
+            "hash": "cd06761fc03c0829eaa62d6ee0cfdebb"
         }
     }
 }

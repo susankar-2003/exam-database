@@ -1,5 +1,5 @@
 {
-    "last_serial": 134,
+    "last_serial": 135,
     "papers": {
         "1": {
             "id": "1",
@@ -936,6 +936,13 @@
             "path": "ADRE/Grade-III Papers/HSLC or Equivalent Level/Paper V 2022.zip",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/HSLC%20or%20Equivalent%20Level/Paper%20V%202022.zip",
             "hash": "11da08a9d8b5ef8e72941d8ca24d9945"
+        },
+        "135": {
+            "id": "135",
+            "name": "ADRE Paper III 2022.zip",
+            "path": "ADRE/Grade-III Papers/HSSLC or Equivalent Level/ADRE Paper III 2022.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/HSSLC%20or%20Equivalent%20Level/ADRE%20Paper%20III%202022.zip",
+            "hash": "589f50267dd953b2e82075cced24ecb5"
         }
     }
 }

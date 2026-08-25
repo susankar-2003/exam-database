@@ -22,7 +22,7 @@ Ans: A
 A) Jonathan Swift / জোনাথন চুইফ্ট
 B) Daniel Defoe / ডেনিয়েল ডিফো
 C) Alexander Pope / আলেকজেণ্ডাৰ পোপ
-D) Samuel Johnson / চে繆ৱেল জনছন
+D) Samuel Johnson / চমূৱেল জনছন
 Ans: A
 
 4. Who wrote the classic novel "Robinson Crusoe"?
@@ -49,7 +49,7 @@ Ans: A
 A) Bram Stoker / ব্ৰাম ষ্টোকাৰ
 B) Mary Shelley / মেৰী শ্বেলী
 C) Robert Louis Stevenson / ৰবাৰ্ট লুই ষ্টীভেনছন
-D) Horace Walpole / হোৰেছ ৱালפול
+D) Horace Walpole / হোৰেছ ৱালপ’ল
 Ans: A
 
 7. Who wrote the famous horror novel "Frankenstein"?
@@ -64,8 +64,8 @@ Ans: A
 8. Who is the author of the epic fantasy saga "The Lord of the Rings"?
 
 "দ্য লৰ্ড অৱ দ্য ৰিংছ" (The Lord of the Rings) গ্ৰন্থখনৰ লেখক কোন?
-A) J.R.R. Tolkien / জে. আৰ. আৰ. টলকিন
-B) C.S. Lewis / সি. এছ. লিউইছ
+A) J R R  Tolkien / জে. আৰ. আৰ. টলকিন
+B) C S Lewis / সি. এছ. লিউইছ
 C) George R.R. Martin / জৰ্জ আৰ. আৰ. মাৰ্টিন
 D) Christopher Paolini / ক্ৰিষ্টোফাৰ পাওিলনি
 Ans: A
@@ -73,8 +73,8 @@ Ans: A
 9. Who wrote the fantasy book series "The Chronicles of Narnia"?
 
 "দ্য ক্ৰনিকলছ অৱ নাৰ্নিয়া" (The Chronicles of Narnia) ধাৰাবাহিকখনৰ লেখক কোন?
-A) C.S. Lewis / সি. এছ. লিউইছ
-B) J.R.R. Tolkien / জে. আৰ. আৰ. টলকিন
+A) C S Lewis / সি. এছ. লিউইছ
+B) J R R Tolkien / জে. আৰ. আৰ. টলকিন
 C) Philip Pullman / ফিলিপ পুলমেন
 D) Neil Gaiman / নীল গেইমেন
 Ans: A
@@ -201,7 +201,7 @@ Ans: A
 "দ্য ইণ্টাৰপ্ৰিটেচন অৱ ড্ৰীমছ" (The Interpretation of Dreams) গ্ৰন্থখনৰ লেখক কোন?
 A) Sigmund Freud / সিগমুণ্ড ফ্রয়েড
 B) Carl Jung / কাৰ্ল জং
-C) B.F. Skinner / বি. এফ. স্কিনাৰ
+C) B F Skinner / বি. এফ. স্কিনাৰ
 D) Ivan Pavlov / ইভান পাভলভ
 Ans: A
 

@@ -1,5 +1,5 @@
 {
-    "last_serial": 167,
+    "last_serial": 169,
     "papers": {
         "1": {
             "id": "1",
@@ -1167,6 +1167,20 @@
             "path": "Static GK/Gallantry Awards Of India 1_10Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Gallantry%20Awards%20Of%20India%201_10Q.txt",
             "hash": "0e7e293f3dae83497056d5509608e888"
+        },
+        "168": {
+            "id": "168",
+            "name": "Government Schemes Of India 2_25Q.txt",
+            "path": "Static GK/Government Schemes Of India 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Government%20Schemes%20Of%20India%202_25Q.txt",
+            "hash": "6013264d3edcf5b2983da847d4dc7d3f"
+        },
+        "169": {
+            "id": "169",
+            "name": "Government Schemes Of India 1_25Q.txt",
+            "path": "Static GK/Government Schemes Of India 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Government%20Schemes%20Of%20India%201_25Q.txt",
+            "hash": "f7292d3bf63df470941ea5881da04c09"
         }
     }
 }

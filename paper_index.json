@@ -1,5 +1,5 @@
 {
-    "last_serial": 173,
+    "last_serial": 174,
     "papers": {
         "1": {
             "id": "1",
@@ -1209,6 +1209,13 @@
             "path": "Static GK/Important Dates 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Dates%202_25Q.txt",
             "hash": "9259ad326584997ec6936a8c910ae051"
+        },
+        "174": {
+            "id": "174",
+            "name": "Indian Classical Dance & Artists_20Q.txt",
+            "path": "Static GK/Indian Classical Dance & Artists_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Classical%20Dance%20%26%20Artists_20Q.txt",
+            "hash": "be99ddf27336270cd912b94acfb519ed"
         }
     }
 }

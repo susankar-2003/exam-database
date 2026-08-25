@@ -1,5 +1,5 @@
 {
-    "last_serial": 156,
+    "last_serial": 157,
     "papers": {
         "1": {
             "id": "1",
@@ -1090,6 +1090,13 @@
             "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 8_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%208_20Q.txt",
             "hash": "3b14db55a4f3793c251816edf5c6c450"
+        },
+        "157": {
+            "id": "157",
+            "name": "Current Affairs Feb 26 - Part 9_20Q.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 9_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%209_20Q.txt",
+            "hash": "d54ac8271a4de4317802280baa92d8f2"
         }
     }
 }

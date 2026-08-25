@@ -1,5 +1,5 @@
 {
-    "last_serial": 171,
+    "last_serial": 173,
     "papers": {
         "1": {
             "id": "1",
@@ -1195,6 +1195,20 @@
             "path": "Static GK/Important Books and Authors (Forein Writers) 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Books%20and%20Authors%20%28Forein%20Writers%29%202_25Q.txt",
             "hash": "8d5c2f2ed4b994d0653493d3d8f8d08d"
+        },
+        "172": {
+            "id": "172",
+            "name": "Important Dates 1_25Q.txt",
+            "path": "Static GK/Important Dates 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Dates%201_25Q.txt",
+            "hash": "793bdad16fbe3899bb0122a1518e557f"
+        },
+        "173": {
+            "id": "173",
+            "name": "Important Dates 2_25Q.txt",
+            "path": "Static GK/Important Dates 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Dates%202_25Q.txt",
+            "hash": "9259ad326584997ec6936a8c910ae051"
         }
     }
 }

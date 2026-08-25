@@ -1,5 +1,5 @@
 {
-    "last_serial": 158,
+    "last_serial": 159,
     "papers": {
         "1": {
             "id": "1",
@@ -1104,6 +1104,13 @@
             "path": "Static GK/Airports of India.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Airports%20of%20India.txt",
             "hash": "95b1c2a23ce89524583dcc120ae27c3a"
+        },
+        "159": {
+            "id": "159",
+            "name": "Airports of India_30Q.txt",
+            "path": "Static GK/Airports of India_30Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Airports%20of%20India_30Q.txt",
+            "hash": "78af04f73208f08556902b86ff65a1e9"
         }
     }
 }

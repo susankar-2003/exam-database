@@ -1,5 +1,5 @@
 {
-    "last_serial": 165,
+    "last_serial": 167,
     "papers": {
         "1": {
             "id": "1",
@@ -1153,6 +1153,20 @@
             "path": "Static GK/First In India 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/First%20In%20India%202_20Q.txt",
             "hash": "ef3c2ff1607f82140248a452c37f4422"
+        },
+        "166": {
+            "id": "166",
+            "name": "Gallantry Awards Of India 2_10Q.txt",
+            "path": "Static GK/Gallantry Awards Of India 2_10Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Gallantry%20Awards%20Of%20India%202_10Q.txt",
+            "hash": "f10a0dfdfe9e65a4df28e81ac878bed9"
+        },
+        "167": {
+            "id": "167",
+            "name": "Gallantry Awards Of India 1_10Q.txt",
+            "path": "Static GK/Gallantry Awards Of India 1_10Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Gallantry%20Awards%20Of%20India%201_10Q.txt",
+            "hash": "0e7e293f3dae83497056d5509608e888"
         }
     }
 }

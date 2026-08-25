@@ -83,7 +83,7 @@ Ans: A
 
 "এ ব্ৰিফ হিষ্ট্ৰী অৱ টাইম" (A Brief History of Time) গ্ৰন্থখনৰ লেখক কোন?
 A) Stephen Hawking / স্টিফেন হকিং
-B) Albert Einstein / আলবাৰ্ট আইNodeType
+B) Albert Einstein / আলবাৰ্ট আইনষ্টাইন
 C) Carl Sagan / কাৰ্ল সাগান
 D) Isaac Asimov / ইচাক আছিমভ
 Ans: A

@@ -1,5 +1,5 @@
 {
-    "last_serial": 163,
+    "last_serial": 165,
     "papers": {
         "1": {
             "id": "1",
@@ -1139,6 +1139,20 @@
             "path": "Static GK/Classical Dance of India_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Classical%20Dance%20of%20India_15Q.txt",
             "hash": "312c1133cb6c9e282c933db55d804317"
+        },
+        "164": {
+            "id": "164",
+            "name": "First In India 1_20Q.txt",
+            "path": "Static GK/First In India 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/First%20In%20India%201_20Q.txt",
+            "hash": "b1e9914abb364bc9e5738ab435f975d3"
+        },
+        "165": {
+            "id": "165",
+            "name": "First In India 2_20Q.txt",
+            "path": "Static GK/First In India 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/First%20In%20India%202_20Q.txt",
+            "hash": "ef3c2ff1607f82140248a452c37f4422"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 162,
+    "last_serial": 163,
     "papers": {
         "1": {
             "id": "1",
@@ -1132,6 +1132,13 @@
             "path": "Static GK/Capitals Of Indian States & Union Territories 2_10Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Capitals%20Of%20Indian%20States%20%26%20Union%20Territories%202_10Q.txt",
             "hash": "64a0827d287d63d9618a716a8fbc1900"
+        },
+        "163": {
+            "id": "163",
+            "name": "Classical Dance of India_15Q.txt",
+            "path": "Static GK/Classical Dance of India_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Classical%20Dance%20of%20India_15Q.txt",
+            "hash": "312c1133cb6c9e282c933db55d804317"
         }
     }
 }

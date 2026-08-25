@@ -1,5 +1,5 @@
 {
-    "last_serial": 157,
+    "last_serial": 158,
     "papers": {
         "1": {
             "id": "1",
@@ -1097,6 +1097,13 @@
             "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 9_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%209_20Q.txt",
             "hash": "d54ac8271a4de4317802280baa92d8f2"
+        },
+        "158": {
+            "id": "158",
+            "name": "Airports of India.txt",
+            "path": "Static GK/Airports of India.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Airports%20of%20India.txt",
+            "hash": "95b1c2a23ce89524583dcc120ae27c3a"
         }
     }
 }

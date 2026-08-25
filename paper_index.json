@@ -1,5 +1,5 @@
 {
-    "last_serial": 137,
+    "last_serial": 147,
     "papers": {
         "1": {
             "id": "1",
@@ -957,6 +957,76 @@
             "path": "Current Affairs/February 2026/a.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/a.txt",
             "hash": "f5302386464f953ed581edac03556e55"
+        },
+        "138": {
+            "id": "138",
+            "name": "Current Affairs Feb 26 - Part 3.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 3.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%203.txt",
+            "hash": "90d19f6f742973e4614f93890236a6ce"
+        },
+        "139": {
+            "id": "139",
+            "name": "Current Affairs Feb 26 - Part 6.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 6.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%206.txt",
+            "hash": "9f3ce26fcecfd99343a127d9b45a56f5"
+        },
+        "140": {
+            "id": "140",
+            "name": "Current Affairs Feb 26 - Part 4.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 4.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%204.txt",
+            "hash": "da2dc4331b64370e3d16694872ab5b61"
+        },
+        "141": {
+            "id": "141",
+            "name": "Current Affairs Feb 26 - Part 1.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 1.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%201.txt",
+            "hash": "cea4a4e90600864c567d58105b223472"
+        },
+        "142": {
+            "id": "142",
+            "name": "Current Affairs Feb 26 - Part 8.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 8.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%208.txt",
+            "hash": "c30e0e9c853f516b7437492e7a7e5013"
+        },
+        "143": {
+            "id": "143",
+            "name": "Current Affairs Feb 26 - Part 2.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 2.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%202.txt",
+            "hash": "c717a478f7325d527cc0ec27ceeb2a37"
+        },
+        "144": {
+            "id": "144",
+            "name": "Current Affairs Feb 26 - Part 9.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 9.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%209.txt",
+            "hash": "d68f685fd7c09ab83355d4c589bb57fe"
+        },
+        "145": {
+            "id": "145",
+            "name": "Current Affairs Feb 26 - Part 5.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 5.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%205.txt",
+            "hash": "e6f773bd9acba1a205e68e7443f7eec3"
+        },
+        "146": {
+            "id": "146",
+            "name": "Current Affairs Feb 26 - Part 10.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 10.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%2010.txt",
+            "hash": "46cc903b8b85d91861f6d51b7af11160"
+        },
+        "147": {
+            "id": "147",
+            "name": "Current Affairs Feb 26 - Part 7.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 7.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%207.txt",
+            "hash": "206170ebd55248e11e6bdd50de3acd12"
         }
     }
 }

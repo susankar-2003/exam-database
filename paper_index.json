@@ -1,5 +1,5 @@
 {
-    "last_serial": 189,
+    "last_serial": 191,
     "papers": {
         "1": {
             "id": "1",
@@ -1321,6 +1321,20 @@
             "path": "Static GK/Rivers And Dams Of India 2_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20And%20Dams%20Of%20India%202_15Q.txt",
             "hash": "a529f7acdf1da5b2e3232522682afb1c"
+        },
+        "190": {
+            "id": "190",
+            "name": "Rivers of India 1_15Q.txt",
+            "path": "Static GK/Rivers of India 1_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20of%20India%201_15Q.txt",
+            "hash": "462ca54cd6243200eedfa093f434a751"
+        },
+        "191": {
+            "id": "191",
+            "name": "Rivers of India 2_15Q.txt",
+            "path": "Static GK/Rivers of India 2_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20of%20India%202_15Q.txt",
+            "hash": "4ee0fab301278a0d05c56265dea154ba"
         }
     }
 }

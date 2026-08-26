@@ -1,5 +1,5 @@
 {
-    "last_serial": 174,
+    "last_serial": 176,
     "papers": {
         "1": {
             "id": "1",
@@ -1216,6 +1216,20 @@
             "path": "Static GK/Indian Classical Dance & Artists_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Classical%20Dance%20%26%20Artists_20Q.txt",
             "hash": "be99ddf27336270cd912b94acfb519ed"
+        },
+        "175": {
+            "id": "175",
+            "name": "Indian Organizations & Headquarters 1_15Q.txt",
+            "path": "Static GK/Indian Organizations & Headquarters 1_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Organizations%20%26%20Headquarters%201_15Q.txt",
+            "hash": "c2cb34731045daee3406d21b5bd27a75"
+        },
+        "176": {
+            "id": "176",
+            "name": "Indian Organizations & Headquarters 2_15Q.txt",
+            "path": "Static GK/Indian Organizations & Headquarters 2_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Organizations%20%26%20Headquarters%202_15Q.txt",
+            "hash": "23ebe94542014ce88c894c8473a9d4d8"
         }
     }
 }

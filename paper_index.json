@@ -1,5 +1,5 @@
 {
-    "last_serial": 178,
+    "last_serial": 180,
     "papers": {
         "1": {
             "id": "1",
@@ -1244,6 +1244,20 @@
             "path": "Static GK/Indian Sports 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Sports%202_25Q.txt",
             "hash": "d739d4cb539bd518a6753ab44e8e3963"
+        },
+        "179": {
+            "id": "179",
+            "name": "Indian States And Folk Dances 1_25Q.txt",
+            "path": "Static GK/Indian States And Folk Dances 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20States%20And%20Folk%20Dances%201_25Q.txt",
+            "hash": "06933ef10f6990dcc95a98d372ce24b0"
+        },
+        "180": {
+            "id": "180",
+            "name": "Indian States And Folk Dances 2_25Q.txt",
+            "path": "Static GK/Indian States And Folk Dances 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20States%20And%20Folk%20Dances%202_25Q.txt",
+            "hash": "57ca44db993dbf7c9cb835ff909096c5"
         }
     }
 }

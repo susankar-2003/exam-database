@@ -1,5 +1,5 @@
 {
-    "last_serial": 182,
+    "last_serial": 184,
     "papers": {
         "1": {
             "id": "1",
@@ -1272,6 +1272,20 @@
             "path": "Static GK/Missiles Of India 2_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Missiles%20Of%20India%202_15Q.txt",
             "hash": "64a8e2c0728e7bdfa30969855bea07c4"
+        },
+        "183": {
+            "id": "183",
+            "name": "Mountains of India 1_25Q.txt",
+            "path": "Static GK/Mountains of India 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Mountains%20of%20India%201_25Q.txt",
+            "hash": "3585f4424069a9cd8b1eef8e856a198d"
+        },
+        "184": {
+            "id": "184",
+            "name": "Mountains of India 2_25Q.txt",
+            "path": "Static GK/Mountains of India 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Mountains%20of%20India%202_25Q.txt",
+            "hash": "e23d68bba7406ab970b3fce5643c8931"
         }
     }
 }

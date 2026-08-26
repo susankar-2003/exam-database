@@ -1,5 +1,5 @@
 {
-    "last_serial": 184,
+    "last_serial": 186,
     "papers": {
         "1": {
             "id": "1",
@@ -1286,6 +1286,20 @@
             "path": "Static GK/Mountains of India 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Mountains%20of%20India%202_25Q.txt",
             "hash": "e23d68bba7406ab970b3fce5643c8931"
+        },
+        "185": {
+            "id": "185",
+            "name": "Nationl Park of India 1.txt",
+            "path": "Static GK/Nationl Park of India 1.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Nationl%20Park%20of%20India%201.txt",
+            "hash": "cb81f919700f0d9a323804c9f26bd94e"
+        },
+        "186": {
+            "id": "186",
+            "name": "Nationl Park of India 2.txt",
+            "path": "Static GK/Nationl Park of India 2.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Nationl%20Park%20of%20India%202.txt",
+            "hash": "eb9c4da32e4faa0931ef645cbabdadfb"
         }
     }
 }

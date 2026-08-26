@@ -1,5 +1,5 @@
 {
-    "last_serial": 176,
+    "last_serial": 178,
     "papers": {
         "1": {
             "id": "1",
@@ -1230,6 +1230,20 @@
             "path": "Static GK/Indian Organizations & Headquarters 2_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Organizations%20%26%20Headquarters%202_15Q.txt",
             "hash": "23ebe94542014ce88c894c8473a9d4d8"
+        },
+        "177": {
+            "id": "177",
+            "name": "Indian Sports 1_25Q.txt",
+            "path": "Static GK/Indian Sports 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Sports%201_25Q.txt",
+            "hash": "e14a66b1be518c4379656e628805ce41"
+        },
+        "178": {
+            "id": "178",
+            "name": "Indian Sports 2_25Q.txt",
+            "path": "Static GK/Indian Sports 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Sports%202_25Q.txt",
+            "hash": "d739d4cb539bd518a6753ab44e8e3963"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 203,
+    "last_serial": 204,
     "papers": {
         "1": {
             "id": "1",
@@ -1419,6 +1419,13 @@
             "path": "Assam GK/Assam Static GK/Airports of Assam_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Airports%20of%20Assam_15Q.txt",
             "hash": "b1d6012e7b445d6579dd446ac1a6b36b"
+        },
+        "204": {
+            "id": "204",
+            "name": "Artists of Assam_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Artists of Assam_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Artists%20of%20Assam_20Q.txt",
+            "hash": "61e842bfa3bae7a25823c88c502d6e2c"
         }
     }
 }

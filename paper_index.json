@@ -1,5 +1,5 @@
 {
-    "last_serial": 210,
+    "last_serial": 212,
     "papers": {
         "1": {
             "id": "1",
@@ -1468,6 +1468,20 @@
             "path": "Assam GK/Assam Static GK/Bridges of Assam 1_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Bridges%20of%20Assam%201_15Q.txt",
             "hash": "aaa885836a8ee33dd485ecd98026f501"
+        },
+        "211": {
+            "id": "211",
+            "name": "First in Assam 1_25Q.txt",
+            "path": "Assam GK/Assam Static GK/First in Assam 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/First%20in%20Assam%201_25Q.txt",
+            "hash": "c75ea078dc76d817e28d4b60b62b6fca"
+        },
+        "212": {
+            "id": "212",
+            "name": "First in Assam 2_25Q.txt",
+            "path": "Assam GK/Assam Static GK/First in Assam 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/First%20in%20Assam%202_25Q.txt",
+            "hash": "97e37a4da0c1af9806c9ef6aa094cbd0"
         }
     }
 }

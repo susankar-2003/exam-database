@@ -1,5 +1,5 @@
 {
-    "last_serial": 212,
+    "last_serial": 214,
     "papers": {
         "1": {
             "id": "1",
@@ -1482,6 +1482,20 @@
             "path": "Assam GK/Assam Static GK/First in Assam 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/First%20in%20Assam%202_25Q.txt",
             "hash": "97e37a4da0c1af9806c9ef6aa094cbd0"
+        },
+        "213": {
+            "id": "213",
+            "name": "Folk Dances of Assam 2_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Folk Dances of Assam 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Folk%20Dances%20of%20Assam%202_20Q.txt",
+            "hash": "f7063c6fd4bea9d9021f32d6f89bbadb"
+        },
+        "214": {
+            "id": "214",
+            "name": "Folk Dances of Assam 1_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Folk Dances of Assam 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Folk%20Dances%20of%20Assam%201_20Q.txt",
+            "hash": "6dd3cb3399f24dac2f87561a414d9535"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 220,
+    "last_serial": 222,
     "papers": {
         "1": {
             "id": "1",
@@ -1538,6 +1538,20 @@
             "path": "Assam GK/Assam Static GK/National Parks & Wildlife Sanctuaries of Assam 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/National%20Parks%20%26%20Wildlife%20Sanctuaries%20of%20Assam%202_25Q.txt",
             "hash": "2433eaab3ec21087a2bbe7c3fe38ed01"
+        },
+        "221": {
+            "id": "221",
+            "name": "Rivers of Assam 2_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Rivers of Assam 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Rivers%20of%20Assam%202_25Q.txt",
+            "hash": "e8930f2b146277d55d9f1f1dc1e63a9d"
+        },
+        "222": {
+            "id": "222",
+            "name": "Rivers of Assam 1_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Rivers of Assam 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Rivers%20of%20Assam%201_25Q.txt",
+            "hash": "d7d60af9df3c702ffeb5a7ba34b0117a"
         }
     }
 }

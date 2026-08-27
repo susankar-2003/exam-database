@@ -1,5 +1,5 @@
 {
-    "last_serial": 216,
+    "last_serial": 218,
     "papers": {
         "1": {
             "id": "1",
@@ -1510,6 +1510,20 @@
             "path": "Assam GK/Assam Static GK/Important Dates of Assam 1_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Important%20Dates%20of%20Assam%201_15Q.txt",
             "hash": "267b94d1d788620a64bba91e62c75b89"
+        },
+        "217": {
+            "id": "217",
+            "name": "Literature of Assam 2_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Literature of Assam 2_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Literature%20of%20Assam%202_15Q.txt",
+            "hash": "0cc30c60435f45a8ebfd4eebf506433b"
+        },
+        "218": {
+            "id": "218",
+            "name": "Literature of Assam 1_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Literature of Assam 1_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Literature%20of%20Assam%201_15Q.txt",
+            "hash": "2948e93074c87455505ef285e1eae51b"
         }
     }
 }

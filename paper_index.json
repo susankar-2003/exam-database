@@ -1,5 +1,5 @@
 {
-    "last_serial": 222,
+    "last_serial": 224,
     "papers": {
         "1": {
             "id": "1",
@@ -1552,6 +1552,20 @@
             "path": "Assam GK/Assam Static GK/Rivers of Assam 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Rivers%20of%20Assam%201_25Q.txt",
             "hash": "d7d60af9df3c702ffeb5a7ba34b0117a"
+        },
+        "223": {
+            "id": "223",
+            "name": "Sports & Sportspersons of Assam 2_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Sports & Sportspersons of Assam 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Sports%20%26%20Sportspersons%20of%20Assam%202_25Q.txt",
+            "hash": "7485a68e63ef2392de8429d6dd85715d"
+        },
+        "224": {
+            "id": "224",
+            "name": "Sports & Sportspersons of Assam 1_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Sports & Sportspersons of Assam 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Sports%20%26%20Sportspersons%20of%20Assam%201_25Q.txt",
+            "hash": "9f19ff5a7a739b857879461d22051b4b"
         }
     }
 }

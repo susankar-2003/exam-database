@@ -1,5 +1,5 @@
 {
-    "last_serial": 206,
+    "last_serial": 208,
     "papers": {
         "1": {
             "id": "1",
@@ -1440,6 +1440,20 @@
             "path": "Assam GK/Assam Static GK/Assam Government Schemes 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Assam%20Government%20Schemes%202_25Q.txt",
             "hash": "2a2e8bcdd16f3a580d73b6b4a5209378"
+        },
+        "207": {
+            "id": "207",
+            "name": "Awards of Assam 1_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Awards of Assam 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Awards%20of%20Assam%201_20Q.txt",
+            "hash": "19b3ca9334161e5a4bb4569ace56d1d4"
+        },
+        "208": {
+            "id": "208",
+            "name": "Awards of Assam 2_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Awards of Assam 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Awards%20of%20Assam%202_20Q.txt",
+            "hash": "c2b58f1275d30b75c8eba8b1e1c13fb3"
         }
     }
 }

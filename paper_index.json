@@ -1,5 +1,5 @@
 {
-    "last_serial": 238,
+    "last_serial": 242,
     "papers": {
         "1": {
             "id": "1",
@@ -1664,6 +1664,34 @@
             "path": "Assam GK/Assam History/Ancient Assam History 4_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Ancient%20Assam%20History%204_25Q.txt",
             "hash": "11e256915e8e80382407cc3229d21ffa"
+        },
+        "239": {
+            "id": "239",
+            "name": "Assam Recent History 3_25Q.txt",
+            "path": "Assam GK/Assam History/Assam Recent History 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Recent%20History%203_25Q.txt",
+            "hash": "87625007feb896d76fc1c756308c2c5e"
+        },
+        "240": {
+            "id": "240",
+            "name": "Assam Recent History 1_25Q.txt",
+            "path": "Assam GK/Assam History/Assam Recent History 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Recent%20History%201_25Q.txt",
+            "hash": "3cd3943352d768851e2fe8539aedec2f"
+        },
+        "241": {
+            "id": "241",
+            "name": "Assam Recent History 2_25Q.txt",
+            "path": "Assam GK/Assam History/Assam Recent History 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Recent%20History%202_25Q.txt",
+            "hash": "6b8ef0af2e6438baa1b125743851ca9a"
+        },
+        "242": {
+            "id": "242",
+            "name": "Assam Recent History 4_25Q.txt",
+            "path": "Assam GK/Assam History/Assam Recent History 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Recent%20History%204_25Q.txt",
+            "hash": "74ae8d4221a5fdd0285b6b5e7f21142d"
         }
     }
 }

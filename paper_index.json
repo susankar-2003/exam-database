@@ -1,5 +1,5 @@
 {
-    "last_serial": 244,
+    "last_serial": 248,
     "papers": {
         "1": {
             "id": "1",
@@ -1706,6 +1706,34 @@
             "path": "Assam GK/Assam History/Medieval Assam History 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Medieval%20Assam%20History%201_25Q.txt",
             "hash": "8ca8a1774c9581e4b21372cbadb1a686"
+        },
+        "245": {
+            "id": "245",
+            "name": "Modern History 1_25Q.txt",
+            "path": "Assam GK/Assam History/Modern History 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Modern%20History%201_25Q.txt",
+            "hash": "75dfac58ad8453c7c93750964ea5820c"
+        },
+        "246": {
+            "id": "246",
+            "name": "Modern History 2_25Q.txt",
+            "path": "Assam GK/Assam History/Modern History 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Modern%20History%202_25Q.txt",
+            "hash": "69e1c073b5323f755e5652a1a6bf068a"
+        },
+        "247": {
+            "id": "247",
+            "name": "Modern History 4_25Q.txt",
+            "path": "Assam GK/Assam History/Modern History 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Modern%20History%204_25Q.txt",
+            "hash": "c8e503a807f5de2e55cb537a47f85a80"
+        },
+        "248": {
+            "id": "248",
+            "name": "Modern History 3_25Q.txt",
+            "path": "Assam GK/Assam History/Modern History 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Modern%20History%203_25Q.txt",
+            "hash": "a75f5a0ad425ba1373247a9d2a4a16e2"
         }
     }
 }

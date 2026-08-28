@@ -1,5 +1,5 @@
 {
-    "last_serial": 226,
+    "last_serial": 230,
     "papers": {
         "1": {
             "id": "1",
@@ -1580,6 +1580,34 @@
             "path": "Assam GK/Assam Geography/Climate, Forests, and Soils of Assam 2_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Climate%2C%20Forests%2C%20and%20Soils%20of%20Assam%202_15Q.txt",
             "hash": "28e37c5b701a2e021dda7e9b02264f00"
+        },
+        "227": {
+            "id": "227",
+            "name": "Geography of Assam 1_25Q.txt",
+            "path": "Assam GK/Assam Geography/Geography of Assam 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Geography%20of%20Assam%201_25Q.txt",
+            "hash": "48901bfff6dd7819d396885edf64d3a6"
+        },
+        "228": {
+            "id": "228",
+            "name": "Geography of Assam 4_25Q.txt",
+            "path": "Assam GK/Assam Geography/Geography of Assam 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Geography%20of%20Assam%204_25Q.txt",
+            "hash": "5cdbd2ab1bd0b6b131b0cee648113c87"
+        },
+        "229": {
+            "id": "229",
+            "name": "Geography of Assam 2_25Q.txt",
+            "path": "Assam GK/Assam Geography/Geography of Assam 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Geography%20of%20Assam%202_25Q.txt",
+            "hash": "6389189435b1a6b4178bcc45fa486397"
+        },
+        "230": {
+            "id": "230",
+            "name": "Geography of Assam 3_25Q.txt",
+            "path": "Assam GK/Assam Geography/Geography of Assam 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Geography%20of%20Assam%203_25Q.txt",
+            "hash": "af278edc873c166618d48769d0b2e044"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 242,
+    "last_serial": 243,
     "papers": {
         "1": {
             "id": "1",
@@ -1692,6 +1692,13 @@
             "path": "Assam GK/Assam History/Assam Recent History 4_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Recent%20History%204_25Q.txt",
             "hash": "74ae8d4221a5fdd0285b6b5e7f21142d"
+        },
+        "243": {
+            "id": "243",
+            "name": "Assam Battles_20Q.txt",
+            "path": "Assam GK/Assam History/Assam Battles_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Battles_20Q.txt",
+            "hash": "a43306e57f0e183ed1a7881bad0c05a9"
         }
     }
 }

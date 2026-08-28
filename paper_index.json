@@ -1,5 +1,5 @@
 {
-    "last_serial": 224,
+    "last_serial": 226,
     "papers": {
         "1": {
             "id": "1",
@@ -1566,6 +1566,20 @@
             "path": "Assam GK/Assam Static GK/Sports & Sportspersons of Assam 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Sports%20%26%20Sportspersons%20of%20Assam%201_25Q.txt",
             "hash": "9f19ff5a7a739b857879461d22051b4b"
+        },
+        "225": {
+            "id": "225",
+            "name": "Climate, Forests, and Soils of Assam 1_15Q.txt",
+            "path": "Assam GK/Assam Geography/Climate, Forests, and Soils of Assam 1_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Climate%2C%20Forests%2C%20and%20Soils%20of%20Assam%201_15Q.txt",
+            "hash": "20ec8e437156a41a2546d5e5ba3b44a9"
+        },
+        "226": {
+            "id": "226",
+            "name": "Climate, Forests, and Soils of Assam 2_15Q.txt",
+            "path": "Assam GK/Assam Geography/Climate, Forests, and Soils of Assam 2_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Climate%2C%20Forests%2C%20and%20Soils%20of%20Assam%202_15Q.txt",
+            "hash": "28e37c5b701a2e021dda7e9b02264f00"
         }
     }
 }

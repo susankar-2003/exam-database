@@ -745,22 +745,22 @@
         "107": {
             "id": "107",
             "name": "DHS 2018 Paper_100Q.zip",
-            "path": "Medical Department/DHS 2018 Paper_100Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%202018%20Paper_100Q.zip",
+            "path": "DHS DME Exam/DHS 2018 Paper_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%202018%20Paper_100Q.zip",
             "hash": "a3964cd7b6a32149525ffa98d33900f6"
         },
         "108": {
             "id": "108",
             "name": "DHS 2025 Paper_100Q.zip",
-            "path": "Medical Department/DHS 2025 Paper_100Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%202025%20Paper_100Q.zip",
+            "path": "DHS DME Exam/DHS 2025 Paper_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%202025%20Paper_100Q.zip",
             "hash": "b9e43b25c21e426eb671390cc9a47db9"
         },
         "109": {
             "id": "109",
             "name": "DHS 2020 Paper_100Q.zip",
-            "path": "Medical Department/DHS 2020 Paper_100Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%202020%20Paper_100Q.zip",
+            "path": "DHS DME Exam/DHS 2020 Paper_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%202020%20Paper_100Q.zip",
             "hash": "334a2fa552c0c5860358e580e19f085c"
         },
         "110": {
@@ -793,8 +793,8 @@
         "114": {
             "id": "114",
             "name": "DHS DME 2022 Grade 4 Paper_50Q.zip",
-            "path": "Medical Department/DHS DME 2022 Grade 4 Paper_50Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%20DME%202022%20Grade%204%20Paper_50Q.zip",
+            "path": "DHS DME Exam/DHS DME 2022 Grade 4 Paper_50Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%20DME%202022%20Grade%204%20Paper_50Q.zip",
             "hash": "2d6c356271ffd91d426eceef481a6222"
         },
         "115": {
@@ -807,36 +807,36 @@
         "116": {
             "id": "116",
             "name": "DHS DME 2022 Grade 3 Technical_50Q.zip",
-            "path": "Medical Department/DHS DME 2022 Grade 3 Technical_50Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%20DME%202022%20Grade%203%20Technical_50Q.zip",
+            "path": "DHS DME Exam/DHS DME 2022 Grade 3 Technical_50Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%20DME%202022%20Grade%203%20Technical_50Q.zip",
             "hash": "541d229c7ef8f7ce0c62cf3170ea98da"
         },
         "117": {
             "id": "117",
             "name": "DME 2022 Grade 3 Lakhimpur Medical College_50Q.zip",
-            "path": "Medical Department/DME 2022 Grade 3 Lakhimpur Medical College_50Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DME%202022%20Grade%203%20Lakhimpur%20Medical%20College_50Q.zip",
+            "path": "DHS DME Exam/DME 2022 Grade 3 Lakhimpur Medical College_50Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DME%202022%20Grade%203%20Lakhimpur%20Medical%20College_50Q.zip",
             "hash": "88592fc3c76dacc372e2073606838852"
         },
         "118": {
             "id": "118",
             "name": "DME 2022 Grade 4 Lakhimpur Medical College_50Q.txt",
-            "path": "Medical Department/DME 2022 Grade 4 Lakhimpur Medical College_50Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DME%202022%20Grade%204%20Lakhimpur%20Medical%20College_50Q.txt",
+            "path": "DHS DME Exam/DME 2022 Grade 4 Lakhimpur Medical College_50Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DME%202022%20Grade%204%20Lakhimpur%20Medical%20College_50Q.txt",
             "hash": "971e804bfcf681eb2624fa6fe9e7637d"
         },
         "119": {
             "id": "119",
             "name": "DHS 2019 Field Worker & Social Worker_100Q.zip",
-            "path": "Medical Department/DHS 2019 Field Worker & Social Worker_100Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%202019%20Field%20Worker%20%26%20Social%20Worker_100Q.zip",
+            "path": "DHS DME Exam/DHS 2019 Field Worker & Social Worker_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%202019%20Field%20Worker%20%26%20Social%20Worker_100Q.zip",
             "hash": "b757495115631ff0fe7f6f1223f61598"
         },
         "120": {
             "id": "120",
             "name": "DHS DME DHSFW 2023 Health Grade 3_50Q.txt",
-            "path": "Medical Department/DHS DME DHSFW 2023 Health Grade 3_50Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%20DME%20DHSFW%202023%20Health%20Grade%203_50Q.txt",
+            "path": "DHS DME Exam/DHS DME DHSFW 2023 Health Grade 3_50Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%20DME%20DHSFW%202023%20Health%20Grade%203_50Q.txt",
             "hash": "d7d1085aa37f35562a6190e54e73a3dd"
         },
         "121": {
@@ -856,8 +856,8 @@
         "123": {
             "id": "123",
             "name": "DHS 2019 Ward Boy & Chokidar_100Q.zip",
-            "path": "Medical Department/DHS 2019 Ward Boy & Chokidar_100Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHS%202019%20Ward%20Boy%20%26%20Chokidar_100Q.zip",
+            "path": "DHS DME Exam/DHS 2019 Ward Boy & Chokidar_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%202019%20Ward%20Boy%20%26%20Chokidar_100Q.zip",
             "hash": "9540bf394e01b88262b886dd5513ac82"
         },
         "124": {
@@ -870,8 +870,8 @@
         "125": {
             "id": "125",
             "name": "DHSFW 2019 LDA Computer Operator_100Q.zip",
-            "path": "Medical Department/DHSFW 2019 LDA Computer Operator_100Q.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/DHSFW%202019%20LDA%20Computer%20Operator_100Q.zip",
+            "path": "DHS DME Exam/DHSFW 2019 LDA Computer Operator_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHSFW%202019%20LDA%20Computer%20Operator_100Q.zip",
             "hash": "5dd5a9fca62cce5b56ccf37124d973db"
         },
         "126": {

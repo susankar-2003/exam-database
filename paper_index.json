@@ -1,5 +1,5 @@
 {
-    "last_serial": 251,
+    "last_serial": 253,
     "papers": {
         "1": {
             "id": "1",
@@ -1755,6 +1755,20 @@
             "path": "Assam GK/Polity and Administration of Assam/Legislature 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Legislature%202_20Q.txt",
             "hash": "06c26823c22baebb8eb047806f9f2b2f"
+        },
+        "252": {
+            "id": "252",
+            "name": "Special provisions of Assam 1_15Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Special provisions of Assam 1_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Special%20provisions%20of%20Assam%201_15Q.txt",
+            "hash": "6562b81a82a862643d77e132d1617a63"
+        },
+        "253": {
+            "id": "253",
+            "name": "Special provisions of Assam 2_15Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Special provisions of Assam 2_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Special%20provisions%20of%20Assam%202_15Q.txt",
+            "hash": "ce0784aea460bda815090d4b3d9e9682"
         }
     }
 }

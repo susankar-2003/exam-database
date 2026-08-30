@@ -1,5 +1,5 @@
 {
-    "last_serial": 248,
+    "last_serial": 251,
     "papers": {
         "1": {
             "id": "1",
@@ -1734,6 +1734,27 @@
             "path": "Assam GK/Assam History/Modern History 3_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Modern%20History%203_25Q.txt",
             "hash": "a75f5a0ad425ba1373247a9d2a4a16e2"
+        },
+        "249": {
+            "id": "249",
+            "name": "Legislature 3_20Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Legislature 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Legislature%203_20Q.txt",
+            "hash": "682c92cc90748ef8d040617eaab69562"
+        },
+        "250": {
+            "id": "250",
+            "name": "Legislature 1_20Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Legislature 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Legislature%201_20Q.txt",
+            "hash": "e6e4fef3cb3bb86b641c838fceb5b0b6"
+        },
+        "251": {
+            "id": "251",
+            "name": "Legislature 2_20Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Legislature 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Legislature%202_20Q.txt",
+            "hash": "06c26823c22baebb8eb047806f9f2b2f"
         }
     }
 }

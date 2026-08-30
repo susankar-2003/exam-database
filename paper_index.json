@@ -1,5 +1,5 @@
 {
-    "last_serial": 253,
+    "last_serial": 255,
     "papers": {
         "1": {
             "id": "1",
@@ -1769,6 +1769,20 @@
             "path": "Assam GK/Polity and Administration of Assam/Special provisions of Assam 2_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Special%20provisions%20of%20Assam%202_15Q.txt",
             "hash": "ce0784aea460bda815090d4b3d9e9682"
+        },
+        "254": {
+            "id": "254",
+            "name": "State Symbols 1_15Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/State Symbols 1_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/State%20Symbols%201_15Q.txt",
+            "hash": "f8bc2b4e9294dfbc7042f67778bd44cd"
+        },
+        "255": {
+            "id": "255",
+            "name": "State Symbols 2_15Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/State Symbols 2_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/State%20Symbols%202_15Q.txt",
+            "hash": "410210be82d49b676a074a91a1fe64df"
         }
     }
 }

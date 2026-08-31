@@ -1,5 +1,5 @@
 {
-    "last_serial": 281,
+    "last_serial": 283,
     "papers": {
         "1": {
             "id": "1",
@@ -1965,6 +1965,20 @@
             "path": "General Awareness/World History/World History French Revolution 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20History%20French%20Revolution%202_20Q.txt",
             "hash": "81e58e30cd0a2afb8dda0301e3ae0cff"
+        },
+        "282": {
+            "id": "282",
+            "name": "World War I Part 1_25Q.txt",
+            "path": "General Awareness/World History/World War I Part 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20I%20Part%201_25Q.txt",
+            "hash": "57f63f6b18953db69a57dffbbde2bc14"
+        },
+        "283": {
+            "id": "283",
+            "name": "World War I Part 2_25Q.txt",
+            "path": "General Awareness/World History/World War I Part 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20I%20Part%202_25Q.txt",
+            "hash": "e61a6f9a39f17950f7f2f6ea4f87389e"
         }
     }
 }

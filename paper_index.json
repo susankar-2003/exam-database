@@ -1,5 +1,5 @@
 {
-    "last_serial": 279,
+    "last_serial": 281,
     "papers": {
         "1": {
             "id": "1",
@@ -1951,6 +1951,20 @@
             "path": "General Awareness/World History/United Nations 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/United%20Nations%202_25Q.txt",
             "hash": "2415c9dcd02a2062173513507464f79c"
+        },
+        "280": {
+            "id": "280",
+            "name": "World History French Revolution 1_20Q.txt",
+            "path": "General Awareness/World History/World History French Revolution 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20History%20French%20Revolution%201_20Q.txt",
+            "hash": "b056de930e4d7232352ff4b4b8534722"
+        },
+        "281": {
+            "id": "281",
+            "name": "World History French Revolution 2_20Q.txt",
+            "path": "General Awareness/World History/World History French Revolution 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20History%20French%20Revolution%202_20Q.txt",
+            "hash": "81e58e30cd0a2afb8dda0301e3ae0cff"
         }
     }
 }

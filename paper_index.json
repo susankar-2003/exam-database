@@ -1,5 +1,5 @@
 {
-    "last_serial": 283,
+    "last_serial": 285,
     "papers": {
         "1": {
             "id": "1",
@@ -1979,6 +1979,20 @@
             "path": "General Awareness/World History/World War I Part 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20I%20Part%202_25Q.txt",
             "hash": "e61a6f9a39f17950f7f2f6ea4f87389e"
+        },
+        "284": {
+            "id": "284",
+            "name": "World War II Part 1_25Q.txt",
+            "path": "General Awareness/World History/World War II Part 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20II%20Part%201_25Q.txt",
+            "hash": "c282f6948ee523d024a8fb1e305cdbdc"
+        },
+        "285": {
+            "id": "285",
+            "name": "World War II Part 2_25Q.txt",
+            "path": "General Awareness/World History/World War II Part 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20II%20Part%202_25Q.txt",
+            "hash": "d2ed1ab3fc0010cff7ea86553533257d"
         }
     }
 }

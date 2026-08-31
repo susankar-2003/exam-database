@@ -1,5 +1,5 @@
 {
-    "last_serial": 265,
+    "last_serial": 267,
     "papers": {
         "1": {
             "id": "1",
@@ -1853,6 +1853,20 @@
             "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 3_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%203_15Q.txt",
             "hash": "7d060b5e6ed51461619d421a6a45626c"
+        },
+        "266": {
+            "id": "266",
+            "name": "Ancient Civilizations 1_25Q.txt",
+            "path": "General Awareness/World History/Ancient Civilizations 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Ancient%20Civilizations%201_25Q.txt",
+            "hash": "b70c54be0a82947eb47b68dbbfb08d1b"
+        },
+        "267": {
+            "id": "267",
+            "name": "Ancient Civilizations 2_25Q.txt",
+            "path": "General Awareness/World History/Ancient Civilizations 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Ancient%20Civilizations%202_25Q.txt",
+            "hash": "d642ad9590e3a46586da3ac09d787882"
         }
     }
 }

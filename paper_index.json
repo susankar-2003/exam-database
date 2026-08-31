@@ -1,5 +1,5 @@
 {
-    "last_serial": 275,
+    "last_serial": 277,
     "papers": {
         "1": {
             "id": "1",
@@ -1923,6 +1923,20 @@
             "path": "General Awareness/World History/Imperialism & Colonialism 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Imperialism%20%26%20Colonialism%202_25Q.txt",
             "hash": "9931c5260d581d5380888a3880286446"
+        },
+        "276": {
+            "id": "276",
+            "name": "Industrial Revolution 1_25Q.txt",
+            "path": "General Awareness/World History/Industrial Revolution 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Industrial%20Revolution%201_25Q.txt",
+            "hash": "d820eccd29ab99e9fdb9fd9e7056af94"
+        },
+        "277": {
+            "id": "277",
+            "name": "Industrial Revolution 2_25Q.txt",
+            "path": "General Awareness/World History/Industrial Revolution 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Industrial%20Revolution%202_25Q.txt",
+            "hash": "369a54d703de829ed0a0178a990b96a7"
         }
     }
 }

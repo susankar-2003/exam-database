@@ -1,5 +1,5 @@
 {
-    "last_serial": 267,
+    "last_serial": 269,
     "papers": {
         "1": {
             "id": "1",
@@ -1867,6 +1867,20 @@
             "path": "General Awareness/World History/Ancient Civilizations 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Ancient%20Civilizations%202_25Q.txt",
             "hash": "d642ad9590e3a46586da3ac09d787882"
+        },
+        "268": {
+            "id": "268",
+            "name": "Cold War 1_25Q.txt",
+            "path": "General Awareness/World History/Cold War 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Cold%20War%201_25Q.txt",
+            "hash": "8bb740f3871f86295458fab9dd31e6fe"
+        },
+        "269": {
+            "id": "269",
+            "name": "Cold War 2_25Q.txt",
+            "path": "General Awareness/World History/Cold War 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Cold%20War%202_25Q.txt",
+            "hash": "21944448375190ce211f0b91e0d19d14"
         }
     }
 }

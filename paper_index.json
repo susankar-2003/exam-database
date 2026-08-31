@@ -1,5 +1,5 @@
 {
-    "last_serial": 273,
+    "last_serial": 275,
     "papers": {
         "1": {
             "id": "1",
@@ -1909,6 +1909,20 @@
             "path": "General Awareness/World History/British History 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/British%20History%201_25Q.txt",
             "hash": "e5a4f078115196564595e403833091c6"
+        },
+        "274": {
+            "id": "274",
+            "name": "Imperialism & Colonialism 1_25Q.txt",
+            "path": "General Awareness/World History/Imperialism & Colonialism 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Imperialism%20%26%20Colonialism%201_25Q.txt",
+            "hash": "acf8ced55e45dba3c9b0deef0d2d921f"
+        },
+        "275": {
+            "id": "275",
+            "name": "Imperialism & Colonialism 2_25Q.txt",
+            "path": "General Awareness/World History/Imperialism & Colonialism 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Imperialism%20%26%20Colonialism%202_25Q.txt",
+            "hash": "9931c5260d581d5380888a3880286446"
         }
     }
 }

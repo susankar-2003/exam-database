@@ -1,5 +1,5 @@
 {
-    "last_serial": 277,
+    "last_serial": 279,
     "papers": {
         "1": {
             "id": "1",
@@ -1937,6 +1937,20 @@
             "path": "General Awareness/World History/Industrial Revolution 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Industrial%20Revolution%202_25Q.txt",
             "hash": "369a54d703de829ed0a0178a990b96a7"
+        },
+        "278": {
+            "id": "278",
+            "name": "United Nations 1_25Q.txt",
+            "path": "General Awareness/World History/United Nations 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/United%20Nations%201_25Q.txt",
+            "hash": "b6cbb58d92f8e966a92d91a9b0f7c6bf"
+        },
+        "279": {
+            "id": "279",
+            "name": "United Nations 2_25Q.txt",
+            "path": "General Awareness/World History/United Nations 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/United%20Nations%202_25Q.txt",
+            "hash": "2415c9dcd02a2062173513507464f79c"
         }
     }
 }

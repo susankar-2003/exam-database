@@ -1,5 +1,5 @@
 {
-    "last_serial": 308,
+    "last_serial": 311,
     "papers": {
         "1": {
             "id": "1",
@@ -2154,6 +2154,27 @@
             "path": "General Awareness/World Geography/Winds & Ocean Currents 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Winds%20%26%20Ocean%20Currents%202_25Q.txt",
             "hash": "17bee9c960cc5a9f37960b6584116b36"
+        },
+        "309": {
+            "id": "309",
+            "name": "Constitutional Amendment 2_20Q.txt",
+            "path": "General Awareness/Indian Polity/Constitutional Amendment 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Constitutional%20Amendment%202_20Q.txt",
+            "hash": "e4809e0ecd5de7e5a786d73b0afed345"
+        },
+        "310": {
+            "id": "310",
+            "name": "Constitutional Amendment 3_20Q.txt",
+            "path": "General Awareness/Indian Polity/Constitutional Amendment 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Constitutional%20Amendment%203_20Q.txt",
+            "hash": "3fbb458c9839c90bbac72b935ce59d27"
+        },
+        "311": {
+            "id": "311",
+            "name": "Constitutional Amendment 1_20Q.txt",
+            "path": "General Awareness/Indian Polity/Constitutional Amendment 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Constitutional%20Amendment%201_20Q.txt",
+            "hash": "e52223ae4c2b983fc8d16b7178aea07c"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 302,
+    "last_serial": 304,
     "papers": {
         "1": {
             "id": "1",
@@ -2112,6 +2112,20 @@
             "path": "General Awareness/World Geography/Seas, Gulfs & Bays 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Seas%2C%20Gulfs%20%26%20Bays%201_25Q.txt",
             "hash": "9a495ec3b8ed2e56e26f78618cbb95dc"
+        },
+        "303": {
+            "id": "303",
+            "name": "Straits & Canals 2_25Q.txt",
+            "path": "General Awareness/World Geography/Straits & Canals 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Straits%20%26%20Canals%202_25Q.txt",
+            "hash": "7436b46c818ef2bd149df945ad77e8aa"
+        },
+        "304": {
+            "id": "304",
+            "name": "Straits & Canals 1_25Q.txt",
+            "path": "General Awareness/World Geography/Straits & Canals 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Straits%20%26%20Canals%201_25Q.txt",
+            "hash": "591d3724321618bcceeb1789d46f8af0"
         }
     }
 }

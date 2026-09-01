@@ -1,5 +1,5 @@
 {
-    "last_serial": 298,
+    "last_serial": 300,
     "papers": {
         "1": {
             "id": "1",
@@ -2084,6 +2084,20 @@
             "path": "General Awareness/World Geography/Latitudes & Longitudes 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Latitudes%20%26%20Longitudes%201_25Q.txt",
             "hash": "94b4f0269b21d962f6e029a2361b4b73"
+        },
+        "299": {
+            "id": "299",
+            "name": "Rivers & Lakes 2_25Q.txt",
+            "path": "General Awareness/World Geography/Rivers & Lakes 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Rivers%20%26%20Lakes%202_25Q.txt",
+            "hash": "69203e65244a6cd81d97c5ec71b46858"
+        },
+        "300": {
+            "id": "300",
+            "name": "Rivers & Lakes 1_25Q.txt",
+            "path": "General Awareness/World Geography/Rivers & Lakes 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Rivers%20%26%20Lakes%201_25Q.txt",
+            "hash": "2d0ab09f5bd8c8195dbe1a6b881da7c6"
         }
     }
 }

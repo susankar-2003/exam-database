@@ -1,5 +1,5 @@
 {
-    "last_serial": 300,
+    "last_serial": 302,
     "papers": {
         "1": {
             "id": "1",
@@ -2098,6 +2098,20 @@
             "path": "General Awareness/World Geography/Rivers & Lakes 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Rivers%20%26%20Lakes%201_25Q.txt",
             "hash": "2d0ab09f5bd8c8195dbe1a6b881da7c6"
+        },
+        "301": {
+            "id": "301",
+            "name": "Seas, Gulfs & Bays 2_25Q.txt",
+            "path": "General Awareness/World Geography/Seas, Gulfs & Bays 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Seas%2C%20Gulfs%20%26%20Bays%202_25Q.txt",
+            "hash": "f1a99e705e854b955b3cbfa39803513b"
+        },
+        "302": {
+            "id": "302",
+            "name": "Seas, Gulfs & Bays 1_25Q.txt",
+            "path": "General Awareness/World Geography/Seas, Gulfs & Bays 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Seas%2C%20Gulfs%20%26%20Bays%201_25Q.txt",
+            "hash": "9a495ec3b8ed2e56e26f78618cbb95dc"
         }
     }
 }

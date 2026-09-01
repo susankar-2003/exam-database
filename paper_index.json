@@ -1,5 +1,5 @@
 {
-    "last_serial": 296,
+    "last_serial": 298,
     "papers": {
         "1": {
             "id": "1",
@@ -2070,6 +2070,20 @@
             "path": "General Awareness/World Geography/Deserts 2_20Q.txt.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%202_20Q.txt.txt",
             "hash": "dd5f646a85624198d2576ebb91aa4087"
+        },
+        "297": {
+            "id": "297",
+            "name": "Latitudes & Longitudes 2_25Q.txt",
+            "path": "General Awareness/World Geography/Latitudes & Longitudes 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Latitudes%20%26%20Longitudes%202_25Q.txt",
+            "hash": "262d6e2393e7a47ba3e5699419178fc5"
+        },
+        "298": {
+            "id": "298",
+            "name": "Latitudes & Longitudes 1_25Q.txt",
+            "path": "General Awareness/World Geography/Latitudes & Longitudes 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Latitudes%20%26%20Longitudes%201_25Q.txt",
+            "hash": "94b4f0269b21d962f6e029a2361b4b73"
         }
     }
 }

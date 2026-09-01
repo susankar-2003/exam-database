@@ -1,5 +1,5 @@
 {
-    "last_serial": 291,
+    "last_serial": 293,
     "papers": {
         "1": {
             "id": "1",
@@ -2035,6 +2035,20 @@
             "path": "General Awareness/World Geography/Climate & Natural Vegetation 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Climate%20%26%20Natural%20Vegetation%202_25Q.txt",
             "hash": "10b078644697057c2822dbc8ff07e893"
+        },
+        "292": {
+            "id": "292",
+            "name": "Continents & Oceans 1_25Q.txt",
+            "path": "General Awareness/World Geography/Continents & Oceans 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Continents%20%26%20Oceans%201_25Q.txt",
+            "hash": "99f65823a4438fabfdc812e4109e8fef"
+        },
+        "293": {
+            "id": "293",
+            "name": "Continents & Oceans 2_25Q.txt",
+            "path": "General Awareness/World Geography/Continents & Oceans 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Continents%20%26%20Oceans%202_25Q.txt",
+            "hash": "845d8e74559b93f184d68d42b900c70c"
         }
     }
 }

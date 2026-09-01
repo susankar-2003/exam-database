@@ -1,5 +1,5 @@
 {
-    "last_serial": 285,
+    "last_serial": 286,
     "papers": {
         "1": {
             "id": "1",
@@ -1993,6 +1993,13 @@
             "path": "General Awareness/World History/World War II Part 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20II%20Part%202_25Q.txt",
             "hash": "d2ed1ab3fc0010cff7ea86553533257d"
+        },
+        "286": {
+            "id": "286",
+            "name": "a.txt",
+            "path": "General Awareness/World Geography/a.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/a.txt",
+            "hash": "60b725f10c9c85c70d97880dfe8191b3"
         }
     }
 }

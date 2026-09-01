@@ -1,5 +1,5 @@
 {
-    "last_serial": 352,
+    "last_serial": 354,
     "papers": {
         "1": {
             "id": "1",
@@ -2462,6 +2462,20 @@
             "path": "General Awareness/Indian History/Constitutional Development 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Constitutional%20Development%202_25Q.txt",
             "hash": "ae98203e83a511bebda8fb4eba37e69a"
+        },
+        "353": {
+            "id": "353",
+            "name": "Governor Generals & Viceroys 2_25Q.txt",
+            "path": "General Awareness/Indian History/Governor Generals & Viceroys 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Governor%20Generals%20%26%20Viceroys%202_25Q.txt",
+            "hash": "db0cb230496cea64c6f1e18c89d4b2db"
+        },
+        "354": {
+            "id": "354",
+            "name": "Governor Generals & Viceroys 1_25Q.txt",
+            "path": "General Awareness/Indian History/Governor Generals & Viceroys 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Governor%20Generals%20%26%20Viceroys%201_25Q.txt",
+            "hash": "31b77d831ce017b97dacb9b3e5b8fa47"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 318,
+    "last_serial": 320,
     "papers": {
         "1": {
             "id": "1",
@@ -2224,6 +2224,20 @@
             "path": "General Awareness/Indian Polity/Emergency Provisions 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Emergency%20Provisions%202_25Q.txt",
             "hash": "ac364d9cb45de9a3413fac77829b12f0"
+        },
+        "319": {
+            "id": "319",
+            "name": "Fundamental Duties 1_25Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Duties 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Duties%201_25Q.txt",
+            "hash": "815e3cfe8d8b6d3060de9de775909940"
+        },
+        "320": {
+            "id": "320",
+            "name": "Fundamental Duties 2_25Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Duties 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Duties%202_25Q.txt",
+            "hash": "86248b19c3df9e3500aec37948a05ab7"
         }
     }
 }

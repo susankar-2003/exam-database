@@ -1,5 +1,5 @@
 {
-    "last_serial": 332,
+    "last_serial": 335,
     "papers": {
         "1": {
             "id": "1",
@@ -2322,6 +2322,27 @@
             "path": "General Awareness/Indian Polity/President & Vice-President 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/President%20%26%20Vice-President%202_20Q.txt",
             "hash": "a55c350b168b887505d04d6649cad8ea"
+        },
+        "333": {
+            "id": "333",
+            "name": "State Government 1_20Q.txt",
+            "path": "General Awareness/Indian Polity/State Government 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/State%20Government%201_20Q.txt",
+            "hash": "e8c994e6ff985d12e5c82c7a74bdfacc"
+        },
+        "334": {
+            "id": "334",
+            "name": "State Government 3_20Q.txt",
+            "path": "General Awareness/Indian Polity/State Government 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/State%20Government%203_20Q.txt",
+            "hash": "ac328d357ccaeb38945b37197e9fc6ba"
+        },
+        "335": {
+            "id": "335",
+            "name": "State Government 2_20Q.txt",
+            "path": "General Awareness/Indian Polity/State Government 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/State%20Government%202_20Q.txt",
+            "hash": "4602245967624a98e1ab910e18587f6d"
         }
     }
 }

@@ -1,0 +1,224 @@
+1. What is the angular distance of a place north or south of the Earth's equator called?
+
+পৃথিৱীৰ বিষুৱৰেখাৰ উত্তৰ বা দক্ষিণ দিশৰ কোনো স্থানৰ কৌণিক দূৰত্বক কি বোলা হয়?
+A) Longitude (দ্ৰাঘিমাংশ)
+B) Latitude (অক্ষমাংশ)
+C) Altitude (উচ্চতা)
+D) Meridian (মধ্যাহ্ন ৰেখা)
+Ans: B
+
+2. What is the zero-degree latitude line on the Earth known as?
+
+পৃথিৱীৰ শূন্য ডিগ্ৰী অক্ষৰেখাক কি নামেৰে জনা যায়?
+A) Prime Meridian (মুখ্য মধ্যাহ্ন ৰেখা)
+B) Equator (বিষুৱৰেখা)
+C) Tropic of Cancer (কৰ্কট ক্ৰান্তি ৰেখা)
+D) Tropic of Capricorn (মকৰ ক্ৰান্তি ৰেখা)
+Ans: B
+
+3. What is the angular distance of a place east or west of the Prime Meridian called?
+
+মুখ্য মধ্যাহ্ন ৰেখাৰ পূব বা পশ্চিম দিশৰ কোনো স্থানৰ কৌণিক দূৰত্বক কি বোলা হয়?
+A) Latitude (অক্ষমাংশ)
+B) Longitude (দ্ৰাঘিমাংশ)
+C) Horizon (দিগন্ত)
+D) Equator (বিষুৱৰেখা)
+Ans: B
+
+4. What is the zero-degree longitude line passing through Greenwich called?
+
+গ্ৰীনউইচৰ মাজেৰে পাৰ হৈ যোৱা শূন্য ডিগ্ৰী দ্ৰাঘিমা ৰেখাক কি বোলা হয়?
+A) Equator (বিষুৱৰেখা)
+B) Prime Meridian (মুখ্য মধ্যাহ্ন ৰেখা)
+C) International Date Line (আন্তঃৰাষ্ট্ৰীয় তাৰিখ ৰেখা)
+D) Tropic of Cancer (কৰ্কট ক্ৰান্তি ৰেখা)
+Ans: B
+
+5. What is the value of latitude for the Tropic of Cancer?
+
+কৰ্কট ক্ৰান্তি ৰেখাৰ অক্ষমাংশৰ মান কিমান?
+A) 23.5° South (২৩.৫° দক্ষিণ)
+B) 23.5° North (২৩.৫° উত্তৰ)
+C) 66.5° North (৬৬.৫° উত্তৰ)
+D) 66.5° South (৬৬.৫° দক্ষিণ)
+Ans: B
+
+6. What is the value of latitude for the Tropic of Capricorn?
+
+মকৰ ক্ৰান্তি ৰেখাৰ অক্ষমাংশৰ মান কিমান?
+A) 23.5° North (২৩.৫° উত্তৰ)
+B) 23.5° South (২৩.৫° দক্ষিণ)
+C) 66.5° North (৬৬.৫° উত্তৰ)
+D) 66.5° South (৬৬.৫° দক্ষিণ)
+Ans: B
+
+7. What is the latitude line located at 66.5° North of the Equator called?
+
+বিষুৱৰেখাৰ ৬৬.৫° উত্তৰত অৱস্থিত অক্ষৰেখাক কি বোলা হয়?
+A) Antarctic Circle (কুপ্ৰদেশীয় বৃত্ত)
+B) Arctic Circle (সুমীৰু বৃত্ত)
+C) Tropic of Cancer (কৰ্কট ক্ৰান্তি ৰেখা)
+D) Equator (বিষুৱৰেখা)
+Ans: B
+
+8. What is the latitude line located at 66.5° South of the Equator called?
+
+বিষুৱৰেখাৰ ৬৬.৫° দক্ষিণত অৱস্থিত অক্ষৰেখাক কি বোলা হয়?
+A) Arctic Circle (সুমীৰু বৃত্ত)
+B) Antarctic Circle (কুপ্ৰদেশীয় বৃত্ত)
+C) Tropic of Capricorn (মকৰ ক্ৰান্তি ৰেখা)
+D) Prime Meridian (মুখ্য মধ্যাহ্ন ৰেখা)
+Ans: B
+
+9. How many degrees of latitude are there from the Equator to either of the poles?
+
+বিষুৱৰেখাৰ পৰা যিকোনো এটা মেৰুলৈকে কেইডিগ্ৰী অক্ষমাংশ থাকে?
+A) 45° (৪৫°)
+B) 90° (৯০°)
+C) 180° (১৮০°)
+D) 360° (৩৬০°)
+Ans: B
+
+10. Total how many full circle parallel latitude lines exist on Earth if drawn at 1-degree intervals?
+
+১ ডিগ্ৰীৰ অন্তৰালত অংকন কৰিলে পৃথিৱীত মুঠ কিমানটা পূৰ্ণ বৃত্তাকাৰ সমান্তৰাল অক্ষৰেখা থাকে?
+A) 181 (১৮১)
+B) 179 (১৭৯)
+C) 180 (১৮০)
+D) 360 (৩৬০)
+Ans: B
+
+11. Total how many meridians of longitude are drawn on the globe at 1-degree intervals?
+
+১ ডিগ্ৰীৰ অন্তৰালত গ্ল’বত মুঠ কিমানটা দ্ৰাঘিমা ৰেখা অংকন কৰা হয়?
+A) 180 (১৮০)
+B) 360 (৩৬০)
+C) 90 (৯০)
+D) 179 (১৭৯)
+Ans: B
+
+12. What is the approximate distance between two consecutive lines of latitude on the Earth's surface?
+
+পৃথিৱীৰ পৃষ্ঠত দুটা পৰস্পৰ অক্ষৰেখাৰ মাজৰ আনুমানিক দূৰত্ব কিমান?
+A) 100 km ( ১০০ কিমি)
+B) 111 km (১১১ কিমি)
+C) 120 km (১২০ কিমি)
+D) 60 km (৬০ কিমি)
+Ans: B
+
+13. Where is the distance between two lines of longitude maximum?
+
+দুডাাল দ্ৰাঘিমা ৰেখাৰ মাজৰ দূৰত্ব ক’ত সৰ্বাধিক হয়?
+A) At the Poles (মেৰু অঞ্চলত)
+B) At the Equator (বিষুৱৰেখাত)
+C) At the Tropics (ক্ৰান্তি অঞ্চলত)
+D) At the Arctic Circle (সুমীৰু বৃত্তত)
+Ans: B
+
+14. What is the distance between lines of longitude at the Poles?
+
+মেৰু অঞ্চলত দ্ৰাঘিমা ৰেখাবোৰৰ মাজৰ দূৰত্ব কিমান?
+A) 111 km (১১১ কিমি)
+B) 0 km (০ কিমি)
+C) 55 km (৫৫ কিমি)
+D) 23.5 km (২৩.৫ কিমি)
+Ans: B
+
+15. What is the network of intersecting parallels of latitude and meridians of longitude on a globe called?
+
+গ্ল’বত অক্ষৰেখা আৰু দ্ৰাঘিমা ৰেখাবোৰে ইটোৱে সিটোক ছেদ কৰি সৃষ্টি কৰা জালখনক কি বোলা হয়?
+A) Scale (মাপকাঠি)
+B) Geographic Grid ( ভৌগোলিক গ্ৰিড)
+C) Contour Line (সমুচ্চ ৰেখা)
+D) Legend (কিংবদন্তি)
+Ans: B
+
+16. The International Date Line is approximately located along which meridian of longitude?
+
+আন্তঃৰাষ্ট্ৰীয় তাৰিখ ৰেখা প্ৰায় কোনটো দ্ৰাঘিমা ৰেখাৰ কাষেৰে পাৰ হৈ গৈছে?
+A) 0° Longitude (০° দ্ৰাঘিমাংশ)
+B) 180° Longitude (১৮০° দ্ৰাঘিমাংশ)
+C) 90° East ( ৯০° পূব)
+D) 90° West (৯০° পশ্চিম)
+Ans: B
+
+17. Through which body of water does the International Date Line pass zig-zag to avoid landmasses?
+
+স্থলভাগ এৰাবুলৈ আন্তঃৰাষ্ট্ৰীয় তাৰিখ ৰেখা কোনটো জলভাগৰ মাজেৰে বেকা-বেঁকিকৈ গৈছে?
+A) Atlantic Ocean (আটলান্টিক মহাসাগৰ)
+B) Pacific Ocean / Bering Strait (প্ৰশান্ত মহাসাগৰ / বেৰিং প্ৰণালী)
+C) Indian Ocean (ভাৰত মহাসাগৰ)
+D) Arctic Ocean ( উত্তৰ মহাসাগৰ)
+Ans: B
+
+18. What happens to the date when a traveler crosses the International Date Line from West to East?
+
+পশ্চিমৰ পৰা পূবলৈ আন্তঃৰাষ্ট্ৰীয় তাৰিখ ৰেখা অতিক্ৰম কৰিলে তাৰিখৰ কি পৰিৱৰ্তন হয়?
+A) Gain a day / Date drops by one day (এদিন পিছুৱাই দিয়া হয়)
+B) Lose a day / Date advances by one day (এদিন আগুৱাই দিয়া হয়)
+C) No change in date (তাৰিখৰ কোনো পৰিৱৰ্তন নহয়)
+D) Time changes by 12 hours only (কেৱল ১২ ঘণ্টা সময় সলনি হয়)
+Ans: B
+
+19. How much time difference corresponds to 1 degree of longitude change?
+
+১ ডিগ্ৰী দ্ৰাঘিমাংশৰ পৰিৱৰ্তনৰ বাবে সময়ৰ পাৰ্থক্য কিমান হয়?
+A) 1 minute (১ মিনিট)
+B) 4 minutes (৪ মিনিট)
+C) 15 minutes (১৫ মিনিট)
+D) 60 minutes (৬০ মিনিট)
+Ans: B
+
+20. How many degrees of longitude does the Earth rotate through in 1 hour?
+
+১ ঘণ্টাত পৃথিৱীয়ে কেইডিগ্ৰী দ্ৰাঘিমাংশ আৱৰ্তন কৰে?
+A) 10° (১০°)
+B) 15° (১৫°)
+C) 20° (২০°)
+D) 30° (৩০°)
+Ans: B
+
+21. On which dates does the sun shine vertically over the Equator resulting in equal day and night worldwide (Equinox)?
+
+কোনবোৰ তাৰিখত বিষুৱৰেখাৰ ওপৰত সূৰ্যৰ ৰশ্মি উলম্বভাৱে পৰে, যাৰ ফলত সমগ্ৰ পৃথিৱীতে দিন আৰু ৰাতি সমান হয় (বিষুৱ)?
+A) June 21 and Dec 22 (২১ জুন আৰু ২২ ডিচেম্বৰ)
+B) March 21 and Sept 23 (২১ মাৰ্চ আৰু ২৩ ছেপ্টেম্বৰ)
+C) July 4 and Jan 3 (৪ জুলাই আৰু ৩ জানুৱাৰী)
+D) May 1 and Nov 1 (১ মে' আৰু ১ নৱেম্বৰ)
+Ans: B
+
+22. On which date does Summer Solstice occur in the Northern Hemisphere when the sun is directly overhead at Tropic of Cancer?
+
+উত্তৰ গোলাৰ্ধত গ্ৰীষ্মকালীন অয়মান্ত দিন (Summer Solstice) কেতিয়া হয়, যেতিয়া সূৰ্য কৰ্কট ক্ৰান্তি ৰেখাৰ ঠিক মূৰৰ ওপৰত থাকে?
+A) December 22 (২২ ডিচেম্বৰ)
+B) June 21 (২১ জুন)
+C) March 21 (২১ মাৰ্চ)
+D) September 23 (২৩ ছেপ্টেম্বৰ)
+Ans: B
+
+23. On which date does Winter Solstice occur in the Northern Hemisphere when the sun is overhead at Tropic of Capricorn?
+
+উত্তৰ গোলাৰ্ধত শীতকালীন অয়মান্ত দিন (Winter Solstice) কেতিয়া হয়, যেতিয়া সূৰ্য মকৰ ক্ৰান্তি ৰেখাৰ মূৰৰ ওপৰত থাকে?
+A) June 21 (২১ জুন)
+B) December 22 (২২ ডিচেম্বৰ)
+C) September 23 (২৩ ছেপ্টেম্বৰ)
+D) March 21 (২১ মাৰ্চ)
+Ans: B
+
+24. What is the longitudinal value of the Indian Standard Time (IST) meridian passing through Mirzapur near Prayagraj?
+
+প্ৰয়াগৰাজৰ ওচৰৰ মিৰ্জাপুৰৰ মাজেৰে পাৰ হৈ যোৱা ভাৰতীয় প্ৰমাণ সময়ৰ (IST) দ্ৰাঘিমাংশৰ মান কিমান?
+A) 80.5° East (৮০.৫° পূব)
+B) 82.5° East / 82°30' E (৮২.৫° পূব / ৮২°৩০' পূব)
+C) 85.5° East (৮৫.৫° পূব)
+D) 75.5° East (৭৫.৫° পূব)
+Ans: B
+
+25. How far ahead is Indian Standard Time (IST) from Greenwich Mean Time (GMT / UTC)?
+
+ভাৰতীয় প্ৰমাণ সময় (IST) গ্ৰীনউইচ গড় সময় (GMT / UTC) তকৈ কিমান সময় আগবাঢ়ি থাকে?
+A) 4 hours 30 minutes (৪ ঘণ্টা ৩০ মিনিট)
+B) 5 hours 30 minutes (৫ ঘণ্টা ৩০ মিনিট)
+C) 6 hours (৬ ঘণ্টা)
+D) 5 hours (৫ ঘণ্টা)
+Ans: B

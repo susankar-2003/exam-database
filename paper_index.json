@@ -1,5 +1,5 @@
 {
-    "last_serial": 356,
+    "last_serial": 360,
     "papers": {
         "1": {
             "id": "1",
@@ -2490,6 +2490,34 @@
             "path": "General Awareness/Indian History/Indian National Movement 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Indian%20National%20Movement%202_25Q.txt",
             "hash": "9759cac88bb9b40def4d81782a7d021a"
+        },
+        "357": {
+            "id": "357",
+            "name": "Medieval India 4_20Q.txt",
+            "path": "General Awareness/Indian History/Medieval India 4_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Medieval%20India%204_20Q.txt",
+            "hash": "2d287ac3fc7af44346051ae72519476d"
+        },
+        "358": {
+            "id": "358",
+            "name": "Medieval India 3_20Q.txt",
+            "path": "General Awareness/Indian History/Medieval India 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Medieval%20India%203_20Q.txt",
+            "hash": "79dfbe841c70a05b4a18ff78c280b959"
+        },
+        "359": {
+            "id": "359",
+            "name": "Medieval India 2_20Q.txt",
+            "path": "General Awareness/Indian History/Medieval India 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Medieval%20India%202_20Q.txt",
+            "hash": "0e8db236596d2744a35c3eda5f8781da"
+        },
+        "360": {
+            "id": "360",
+            "name": "Medieval India 1_20Q.txt",
+            "path": "General Awareness/Indian History/Medieval India 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Medieval%20India%201_20Q.txt",
+            "hash": "b12c94c5c0842c006eb6f952d3edf3d6"
         }
     }
 }

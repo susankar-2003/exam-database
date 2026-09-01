@@ -1,5 +1,5 @@
 {
-    "last_serial": 360,
+    "last_serial": 364,
     "papers": {
         "1": {
             "id": "1",
@@ -2518,6 +2518,34 @@
             "path": "General Awareness/Indian History/Medieval India 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Medieval%20India%201_20Q.txt",
             "hash": "b12c94c5c0842c006eb6f952d3edf3d6"
+        },
+        "361": {
+            "id": "361",
+            "name": "Modern India 1_20Q.txt",
+            "path": "General Awareness/Indian History/Modern India 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Modern%20India%201_20Q.txt",
+            "hash": "891fc84b93f817099fa3dcf017685df7"
+        },
+        "362": {
+            "id": "362",
+            "name": "Modern India 3_20Q.txt",
+            "path": "General Awareness/Indian History/Modern India 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Modern%20India%203_20Q.txt",
+            "hash": "b2722f8d540b39f9a8dd2a54a0073df0"
+        },
+        "363": {
+            "id": "363",
+            "name": "Modern India 4_20Q.txt",
+            "path": "General Awareness/Indian History/Modern India 4_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Modern%20India%204_20Q.txt",
+            "hash": "b83f4643a5fc6fbeed4d9d70114fe0f5"
+        },
+        "364": {
+            "id": "364",
+            "name": "Modern India 2_20Q.txt",
+            "path": "General Awareness/Indian History/Modern India 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Modern%20India%202_20Q.txt",
+            "hash": "a727b52482793efbf828bbe60f6a723f"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 323,
+    "last_serial": 326,
     "papers": {
         "1": {
             "id": "1",
@@ -2259,6 +2259,27 @@
             "path": "General Awareness/Indian Polity/Fundamental Rights 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Rights%201_20Q.txt",
             "hash": "52cde178a10ad2b60be975378355d528"
+        },
+        "324": {
+            "id": "324",
+            "name": "Indian Constitution 1_20Q.txt",
+            "path": "General Awareness/Indian Polity/Indian Constitution 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Indian%20Constitution%201_20Q.txt",
+            "hash": "e5fceb2e1ab50c3230947e3cd813b21d"
+        },
+        "325": {
+            "id": "325",
+            "name": "Indian Constitution 2_20Q.txt",
+            "path": "General Awareness/Indian Polity/Indian Constitution 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Indian%20Constitution%202_20Q.txt",
+            "hash": "22dc1008a153fbbde6a8e2048e2cf4d0"
+        },
+        "326": {
+            "id": "326",
+            "name": "Indian Constitution 3_20Q.txt",
+            "path": "General Awareness/Indian Polity/Indian Constitution 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Indian%20Constitution%203_20Q.txt",
+            "hash": "1556a49ef490f7b9b16ae34d3974f831"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 293,
+    "last_serial": 296,
     "papers": {
         "1": {
             "id": "1",
@@ -2049,6 +2049,27 @@
             "path": "General Awareness/World Geography/Continents & Oceans 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Continents%20%26%20Oceans%202_25Q.txt",
             "hash": "845d8e74559b93f184d68d42b900c70c"
+        },
+        "294": {
+            "id": "294",
+            "name": "Deserts 1_20Q.txt",
+            "path": "General Awareness/World Geography/Deserts 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%201_20Q.txt",
+            "hash": "61a65474077837c45ad58dd3a2f527f5"
+        },
+        "295": {
+            "id": "295",
+            "name": "Deserts 3_20Q.txt",
+            "path": "General Awareness/World Geography/Deserts 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%203_20Q.txt",
+            "hash": "fc605867cb75f5c18b6e75efcef6d47f"
+        },
+        "296": {
+            "id": "296",
+            "name": "Deserts 2_20Q.txt.txt",
+            "path": "General Awareness/World Geography/Deserts 2_20Q.txt.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%202_20Q.txt.txt",
+            "hash": "dd5f646a85624198d2576ebb91aa4087"
         }
     }
 }

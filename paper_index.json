@@ -1,5 +1,5 @@
 {
-    "last_serial": 289,
+    "last_serial": 291,
     "papers": {
         "1": {
             "id": "1",
@@ -2021,6 +2021,20 @@
             "path": "General Awareness/World Geography/Capitals & Currencies 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Capitals%20%26%20Currencies%202_20Q.txt",
             "hash": "0d546fc33b0615ab2834b1167a06bbc7"
+        },
+        "290": {
+            "id": "290",
+            "name": "Climate & Natural Vegetation 1_25Q.txt",
+            "path": "General Awareness/World Geography/Climate & Natural Vegetation 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Climate%20%26%20Natural%20Vegetation%201_25Q.txt",
+            "hash": "0f1f0787b3beffc272098f8517e6e8d0"
+        },
+        "291": {
+            "id": "291",
+            "name": "Climate & Natural Vegetation 2_25Q.txt",
+            "path": "General Awareness/World Geography/Climate & Natural Vegetation 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Climate%20%26%20Natural%20Vegetation%202_25Q.txt",
+            "hash": "10b078644697057c2822dbc8ff07e893"
         }
     }
 }

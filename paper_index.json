@@ -1,5 +1,5 @@
 {
-    "last_serial": 354,
+    "last_serial": 356,
     "papers": {
         "1": {
             "id": "1",
@@ -2476,6 +2476,20 @@
             "path": "General Awareness/Indian History/Governor Generals & Viceroys 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Governor%20Generals%20%26%20Viceroys%201_25Q.txt",
             "hash": "31b77d831ce017b97dacb9b3e5b8fa47"
+        },
+        "355": {
+            "id": "355",
+            "name": "Indian National Movement 1_25Q.txt",
+            "path": "General Awareness/Indian History/Indian National Movement 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Indian%20National%20Movement%201_25Q.txt",
+            "hash": "c91b6cfc9072a6cac287900589fbcc3a"
+        },
+        "356": {
+            "id": "356",
+            "name": "Indian National Movement 2_25Q.txt",
+            "path": "General Awareness/Indian History/Indian National Movement 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Indian%20National%20Movement%202_25Q.txt",
+            "hash": "43cd2c3ae0c78c5360758a1c2bd96b9b"
         }
     }
 }

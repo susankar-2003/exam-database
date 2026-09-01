@@ -1,5 +1,5 @@
 {
-    "last_serial": 335,
+    "last_serial": 338,
     "papers": {
         "1": {
             "id": "1",
@@ -2343,6 +2343,27 @@
             "path": "General Awareness/Indian Polity/State Government 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/State%20Government%202_20Q.txt",
             "hash": "4602245967624a98e1ab910e18587f6d"
+        },
+        "336": {
+            "id": "336",
+            "name": "Supreme Court & High Courts 3_20Q.txt",
+            "path": "General Awareness/Indian Polity/Supreme Court & High Courts 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Supreme%20Court%20%26%20High%20Courts%203_20Q.txt",
+            "hash": "d149af7cada090b2de3a9ff8e68cc240"
+        },
+        "337": {
+            "id": "337",
+            "name": "Supreme Court & High Courts 2_20Q.txt",
+            "path": "General Awareness/Indian Polity/Supreme Court & High Courts 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Supreme%20Court%20%26%20High%20Courts%202_20Q.txt",
+            "hash": "496ac4975f285dc5c7f252d193a20c43"
+        },
+        "338": {
+            "id": "338",
+            "name": "Supreme Court & High Courts 1_20Q.txt",
+            "path": "General Awareness/Indian Polity/Supreme Court & High Courts 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Supreme%20Court%20%26%20High%20Courts%201_20Q.txt",
+            "hash": "2d5a06adbd28dee5d3e4dc8f2ad42124"
         }
     }
 }

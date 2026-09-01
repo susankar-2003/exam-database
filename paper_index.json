@@ -1,5 +1,5 @@
 {
-    "last_serial": 364,
+    "last_serial": 367,
     "papers": {
         "1": {
             "id": "1",
@@ -2546,6 +2546,27 @@
             "path": "General Awareness/Indian History/Modern India 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Modern%20India%202_20Q.txt",
             "hash": "a727b52482793efbf828bbe60f6a723f"
+        },
+        "365": {
+            "id": "365",
+            "name": "Regional kingdoms 1_20Q.txt",
+            "path": "General Awareness/Indian History/Regional kingdoms 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Regional%20kingdoms%201_20Q.txt",
+            "hash": "84ac254c2b6c773bcd9cd870626e31ae"
+        },
+        "366": {
+            "id": "366",
+            "name": "Regional kingdoms 3_20Q.txt",
+            "path": "General Awareness/Indian History/Regional kingdoms 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Regional%20kingdoms%203_20Q.txt",
+            "hash": "9628cc16495a098f5329e5262c88cbf5"
+        },
+        "367": {
+            "id": "367",
+            "name": "Regional kingdoms 2_20Q.txt",
+            "path": "General Awareness/Indian History/Regional kingdoms 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Regional%20kingdoms%202_20Q.txt",
+            "hash": "8201122ddd6119aed2aeda7a71ac7a6d"
         }
     }
 }

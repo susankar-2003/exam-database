@@ -1,5 +1,5 @@
 {
-    "last_serial": 316,
+    "last_serial": 318,
     "papers": {
         "1": {
             "id": "1",
@@ -2210,6 +2210,20 @@
             "path": "General Awareness/Indian Polity/Elections 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Elections%201_20Q.txt",
             "hash": "98066326f2c935914fab8998e0d464a1"
+        },
+        "317": {
+            "id": "317",
+            "name": "Emergency Provisions 1_25Q.txt",
+            "path": "General Awareness/Indian Polity/Emergency Provisions 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Emergency%20Provisions%201_25Q.txt",
+            "hash": "459c20a67b1f2794d6f6f805623e3632"
+        },
+        "318": {
+            "id": "318",
+            "name": "Emergency Provisions 2_25Q.txt",
+            "path": "General Awareness/Indian Polity/Emergency Provisions 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Emergency%20Provisions%202_25Q.txt",
+            "hash": "ac364d9cb45de9a3413fac77829b12f0"
         }
     }
 }

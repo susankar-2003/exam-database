@@ -1,5 +1,5 @@
 {
-    "last_serial": 342,
+    "last_serial": 348,
     "papers": {
         "1": {
             "id": "1",
@@ -2392,6 +2392,48 @@
             "path": "General Awareness/India Geography/Ancient India 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/India%20Geography/Ancient%20India%202_20Q.txt",
             "hash": "288be051282daabe9c5ca9fe856b5b14"
+        },
+        "343": {
+            "id": "343",
+            "name": "Ancient India 1_20Q.txt",
+            "path": "General Awareness/Indian History/Ancient India 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%201_20Q.txt",
+            "hash": "ff4027c3ed73ec0f14f3e7e5265f85dd"
+        },
+        "344": {
+            "id": "344",
+            "name": "Ancient India 4_20Q.txt",
+            "path": "General Awareness/Indian History/Ancient India 4_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%204_20Q.txt",
+            "hash": "c4bad0ab0570e18bc84adcddb130e92d"
+        },
+        "345": {
+            "id": "345",
+            "name": "Art & Culture 2_25Q.txt",
+            "path": "General Awareness/Indian History/Art & Culture 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Art%20%26%20Culture%202_25Q.txt",
+            "hash": "083eb0b8d0d448ccad03c290a1cc70aa"
+        },
+        "346": {
+            "id": "346",
+            "name": "Art & Culture 1_25Q.txt",
+            "path": "General Awareness/Indian History/Art & Culture 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Art%20%26%20Culture%201_25Q.txt",
+            "hash": "e27416d63c759033a98f249b5d2f1482"
+        },
+        "347": {
+            "id": "347",
+            "name": "Ancient India 3_20Q.txt",
+            "path": "General Awareness/Indian History/Ancient India 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%203_20Q.txt",
+            "hash": "f175152be73ae5a9cfef1af098dd73bf"
+        },
+        "348": {
+            "id": "348",
+            "name": "Ancient India 2_20Q.txt",
+            "path": "General Awareness/Indian History/Ancient India 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%202_20Q.txt",
+            "hash": "3e90abd5706406b587ac0f4f5bc25f7e"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 304,
+    "last_serial": 306,
     "papers": {
         "1": {
             "id": "1",
@@ -2126,6 +2126,20 @@
             "path": "General Awareness/World Geography/Straits & Canals 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Straits%20%26%20Canals%201_25Q.txt",
             "hash": "591d3724321618bcceeb1789d46f8af0"
+        },
+        "305": {
+            "id": "305",
+            "name": "Volcanoes & Earthquakes 1_25Q.txt",
+            "path": "General Awareness/World Geography/Volcanoes & Earthquakes 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Volcanoes%20%26%20Earthquakes%201_25Q.txt",
+            "hash": "061f9ed176a3978e52a114788775e691"
+        },
+        "306": {
+            "id": "306",
+            "name": "Volcanoes & Earthquakes 2_25Q.txt",
+            "path": "General Awareness/World Geography/Volcanoes & Earthquakes 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Volcanoes%20%26%20Earthquakes%202_25Q.txt",
+            "hash": "53b1b7d39dc43b2b2183d7784e88e173"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 326,
+    "last_serial": 329,
     "papers": {
         "1": {
             "id": "1",
@@ -2280,6 +2280,27 @@
             "path": "General Awareness/Indian Polity/Indian Constitution 3_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Indian%20Constitution%203_20Q.txt",
             "hash": "1556a49ef490f7b9b16ae34d3974f831"
+        },
+        "327": {
+            "id": "327",
+            "name": "Parliament 2_20Q.txt",
+            "path": "General Awareness/Indian Polity/Parliament 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Parliament%202_20Q.txt",
+            "hash": "1cce637ed8ecf41804aea175af2e7304"
+        },
+        "328": {
+            "id": "328",
+            "name": "Parliament 1_20Q.txt",
+            "path": "General Awareness/Indian Polity/Parliament 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Parliament%201_20Q.txt",
+            "hash": "a4c86d3a78952bf85aa1336e94c1672e"
+        },
+        "329": {
+            "id": "329",
+            "name": "Parliament 3_20Q.txt",
+            "path": "General Awareness/Indian Polity/Parliament 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Parliament%203_20Q.txt",
+            "hash": "c7b0bbd18029849f012655f7dbed9e21"
         }
     }
 }

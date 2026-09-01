@@ -1,5 +1,5 @@
 {
-    "last_serial": 320,
+    "last_serial": 323,
     "papers": {
         "1": {
             "id": "1",
@@ -2238,6 +2238,27 @@
             "path": "General Awareness/Indian Polity/Fundamental Duties 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Duties%202_25Q.txt",
             "hash": "86248b19c3df9e3500aec37948a05ab7"
+        },
+        "321": {
+            "id": "321",
+            "name": "Fundamental Rights 3_20Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Rights 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Rights%203_20Q.txt",
+            "hash": "444ebff96d2eb54dc7a984a931f087d7"
+        },
+        "322": {
+            "id": "322",
+            "name": "Fundamental Rights 2_20Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Rights 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Rights%202_20Q.txt",
+            "hash": "795961d439499ecc4636be997092f15b"
+        },
+        "323": {
+            "id": "323",
+            "name": "Fundamental Rights 1_20Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Rights 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Rights%201_20Q.txt",
+            "hash": "52cde178a10ad2b60be975378355d528"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 286,
+    "last_serial": 289,
     "papers": {
         "1": {
             "id": "1",
@@ -2000,6 +2000,27 @@
             "path": "General Awareness/World Geography/a.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/a.txt",
             "hash": "60b725f10c9c85c70d97880dfe8191b3"
+        },
+        "287": {
+            "id": "287",
+            "name": "Capitals & Currencies 3_20Q.txt",
+            "path": "General Awareness/World Geography/Capitals & Currencies 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Capitals%20%26%20Currencies%203_20Q.txt",
+            "hash": "37a5b587552fb492c366033d66449267"
+        },
+        "288": {
+            "id": "288",
+            "name": "Capitals & Currencies 1_20Q.txt",
+            "path": "General Awareness/World Geography/Capitals & Currencies 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Capitals%20%26%20Currencies%201_20Q.txt",
+            "hash": "8bf6d4c7585419a5395093c8b03802ab"
+        },
+        "289": {
+            "id": "289",
+            "name": "Capitals & Currencies 2_20Q.txt",
+            "path": "General Awareness/World Geography/Capitals & Currencies 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Capitals%20%26%20Currencies%202_20Q.txt",
+            "hash": "0d546fc33b0615ab2834b1167a06bbc7"
         }
     }
 }

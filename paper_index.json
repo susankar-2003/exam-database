@@ -1,5 +1,5 @@
 {
-    "last_serial": 329,
+    "last_serial": 332,
     "papers": {
         "1": {
             "id": "1",
@@ -2301,6 +2301,27 @@
             "path": "General Awareness/Indian Polity/Parliament 3_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Parliament%203_20Q.txt",
             "hash": "c7b0bbd18029849f012655f7dbed9e21"
+        },
+        "330": {
+            "id": "330",
+            "name": "President & Vice-President 3_20Q.txt",
+            "path": "General Awareness/Indian Polity/President & Vice-President 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/President%20%26%20Vice-President%203_20Q.txt",
+            "hash": "f6452f7900671b9bef919d41549c4aa6"
+        },
+        "331": {
+            "id": "331",
+            "name": "President & Vice-President 1_20Q.txt",
+            "path": "General Awareness/Indian Polity/President & Vice-President 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/President%20%26%20Vice-President%201_20Q.txt",
+            "hash": "fb0f40c472c0b44c2784e4ba463c8716"
+        },
+        "332": {
+            "id": "332",
+            "name": "President & Vice-President 2_20Q.txt",
+            "path": "General Awareness/Indian Polity/President & Vice-President 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/President%20%26%20Vice-President%202_20Q.txt",
+            "hash": "a55c350b168b887505d04d6649cad8ea"
         }
     }
 }

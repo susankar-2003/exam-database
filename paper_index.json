@@ -1,5 +1,5 @@
 {
-    "last_serial": 350,
+    "last_serial": 352,
     "papers": {
         "1": {
             "id": "1",
@@ -2448,6 +2448,20 @@
             "path": "General Awareness/Indian History/British Acts 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/British%20Acts%201_25Q.txt",
             "hash": "840bb3e0a63546a029d378bc54f3f1d2"
+        },
+        "351": {
+            "id": "351",
+            "name": "Constitutional Development 1_25Q.txt",
+            "path": "General Awareness/Indian History/Constitutional Development 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Constitutional%20Development%201_25Q.txt",
+            "hash": "a38ecdea86fe311b81c2ec5d2ae8d9d1"
+        },
+        "352": {
+            "id": "352",
+            "name": "Constitutional Development 2_25Q.txt",
+            "path": "General Awareness/Indian History/Constitutional Development 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Constitutional%20Development%202_25Q.txt",
+            "hash": "ae98203e83a511bebda8fb4eba37e69a"
         }
     }
 }

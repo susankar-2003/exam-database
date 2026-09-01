@@ -39,7 +39,7 @@ Ans: B
 দ্বিতীয় ঘূৰণীয়া মেজমেলত কংগ্ৰেছক কোনে প্ৰতিনিধিত্ব কৰিছিল?
 A) Jawaharlal Nehru / জৱাহৰলাল নেহৰু
 B) Mahatma Gandhi / মহাত্মা গান্ধী
-C) Dr. B.R. Ambedkar / ড° বি.আৰ. আম্বেদকাৰ
+C) Dr. B R Ambedkar / ড° বি.আৰ. আম্বেদকাৰ
 D) Sarojini Naidu / সৰোজিনী নাইডু
 Ans: B
 
@@ -47,7 +47,7 @@ Ans: B
 
 তিনিওখন ঘূৰণীয়া মেজমেলত কোনে অংশগ্ৰহণ কৰিছিল?
 A) Mahatma Gandhi / মহাত্মা গান্ধী
-B) Dr. B.R. Ambedkar / ড° বি.আৰ. আম্বেদকাৰ
+B) Dr. B R Ambedkar / ড° বি.আৰ. আম্বেদকাৰ
 C) Jawaharlal Nehru / জৱাহৰলাল নেহৰু
 D) Sardar Vallabhbhai Patel / চৰ্দাৰ বল্লভভাই পেটেল
 Ans: B
@@ -56,7 +56,7 @@ Ans: B
 
 ১৯৩২ চনৰ পুনা চুক্তি কাৰ কাৰ মাজত স্বাক্ষৰিত হৈছিল?
 A) Gandhi and Lord Irwin / গান্ধী আৰু লৰ্ড আৰৱিন
-B) Gandhi and Dr. B.R. Ambedkar / গান্ধী আৰু ড° বি.আৰ. আম্বেদকাৰ
+B) Gandhi and Dr. B R Ambedkar / গান্ধী আৰু ড° বি.আৰ. আম্বেদকাৰ
 C) Nehru and Jinnah / নেহৰু আৰু জিন্নাহ
 D) Subhas Bose and Gandhi / সুভাষ বসু আৰু গান্ধী
 Ans: B
@@ -129,7 +129,7 @@ Ans: C
 ১৯৪৬ চনত গঠিত অন্তৱৰ্তীকালীন চৰকাৰৰ প্ৰধানমন্ত্ৰী বা উপ-সভাপতি হিচাপে কাক নিযুক্ত কৰা হৈছিল?
 A) Jawaharlal Nehru / জৱাহৰলাল নেহৰু
 B) Sardar Patel / চৰ্দাৰ পেটেল
-C) C. Rajagopalachari / সি. ৰাজাগোপালাচাৰী
+C) C Rajagopalachari / সি. ৰাজাগোপালাচাৰী
 D) Dr. Rajendra Prasad / ড° ৰাজেন্দ্ৰ প্ৰসাদ
 Ans: A
 
@@ -145,7 +145,7 @@ Ans: A
 17. Who was the first Governor-General of independent India?
 
 স্বাধীন ভাৰতৰ প্ৰথমজন গৱৰ্ণৰ জেনেৰেল কোন আছিল?
-A) C. Rajagopalachari / সি. ৰাজাগোপালাচাৰী
+A) C Rajagopalachari / সি. ৰাজাগোপালাচাৰী
 B) Lord Mountbatten / লৰ্ড মাউণ্টবেটেন
 C) Dr. Rajendra Prasad / ড° ৰাজেন্দ্ৰ প্ৰসাদ
 D) Lord Wavell / লৰ্ড ৱাভেল
@@ -154,7 +154,7 @@ Ans: B
 18. Who was the first Indian Governor-General of independent India?
 
 স্বাধীন ভাৰতৰ প্ৰথমজন ভাৰতীয় গৱৰ্ণৰ জেনেৰেল কোন আছিল?
-A) C. Rajagopalachari / সি. ৰাজাগোপালাচাৰী
+A) C Rajagopalachari / সি. ৰাজাগোপালাচাৰী
 B) Dr. S. Radhakrishnan / ড° এছ. ৰাধাকৃষ্ণন
 C) Jawaharlal Nehru / জৱাহৰলাল নেহৰু
 D) Sardar Patel / চৰ্দাৰ পেটেল
@@ -220,5 +220,5 @@ Ans: B
 A) Maulana Abul Kalam Azad / মৌলানা আবুল কালাম আজাদ
 B) Jawaharlal Nehru / জৱাহৰলাল নেহৰু
 C) Subhas Chandra Bose / সুভাষ চন্দ্ৰ বসু
-D) J.B. Kripalani / জে.বি. কৃপালনী
+D) J B Kripalani / জে.বি. কৃপালনী
 Ans: A

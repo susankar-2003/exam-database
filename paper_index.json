@@ -1,5 +1,5 @@
 {
-    "last_serial": 311,
+    "last_serial": 313,
     "papers": {
         "1": {
             "id": "1",
@@ -2175,6 +2175,20 @@
             "path": "General Awareness/Indian Polity/Constitutional Amendment 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Constitutional%20Amendment%201_20Q.txt",
             "hash": "e52223ae4c2b983fc8d16b7178aea07c"
+        },
+        "312": {
+            "id": "312",
+            "name": "Directive Principles of State Policy (DPSP) 2_25Q.txt",
+            "path": "General Awareness/Indian Polity/Directive Principles of State Policy (DPSP) 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Directive%20Principles%20of%20State%20Policy%20%28DPSP%29%202_25Q.txt",
+            "hash": "f5482d57afa106038f596316a5ad1892"
+        },
+        "313": {
+            "id": "313",
+            "name": "Directive Principles of State Policy (DPSP) 1_25Q.txt",
+            "path": "General Awareness/Indian Polity/Directive Principles of State Policy (DPSP) 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Directive%20Principles%20of%20State%20Policy%20%28DPSP%29%201_25Q.txt",
+            "hash": "63b70542fb81d01abf6b196b7e1cdf34"
         }
     }
 }

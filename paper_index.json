@@ -1,5 +1,5 @@
 {
-    "last_serial": 348,
+    "last_serial": 350,
     "papers": {
         "1": {
             "id": "1",
@@ -2434,6 +2434,20 @@
             "path": "General Awareness/Indian History/Ancient India 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%202_20Q.txt",
             "hash": "3e90abd5706406b587ac0f4f5bc25f7e"
+        },
+        "349": {
+            "id": "349",
+            "name": "British Acts 2_25Q.txt",
+            "path": "General Awareness/Indian History/British Acts 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/British%20Acts%202_25Q.txt",
+            "hash": "a561001c947527bea1fd3b366f9bef0a"
+        },
+        "350": {
+            "id": "350",
+            "name": "British Acts 1_25Q.txt",
+            "path": "General Awareness/Indian History/British Acts 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/British%20Acts%201_25Q.txt",
+            "hash": "840bb3e0a63546a029d378bc54f3f1d2"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 313,
+    "last_serial": 316,
     "papers": {
         "1": {
             "id": "1",
@@ -2189,6 +2189,27 @@
             "path": "General Awareness/Indian Polity/Directive Principles of State Policy (DPSP) 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Directive%20Principles%20of%20State%20Policy%20%28DPSP%29%201_25Q.txt",
             "hash": "63b70542fb81d01abf6b196b7e1cdf34"
+        },
+        "314": {
+            "id": "314",
+            "name": "Elections 2_20Q.txt",
+            "path": "General Awareness/Indian Polity/Elections 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Elections%202_20Q.txt",
+            "hash": "f1e02b941ebd8761732170d7dd5f6427"
+        },
+        "315": {
+            "id": "315",
+            "name": "Elections 3_20Q.txt",
+            "path": "General Awareness/Indian Polity/Elections 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Elections%203_20Q.txt",
+            "hash": "76338b31d124c10650b8b7f139daf991"
+        },
+        "316": {
+            "id": "316",
+            "name": "Elections 1_20Q.txt",
+            "path": "General Awareness/Indian Polity/Elections 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Elections%201_20Q.txt",
+            "hash": "98066326f2c935914fab8998e0d464a1"
         }
     }
 }

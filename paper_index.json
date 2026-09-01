@@ -1,5 +1,5 @@
 {
-    "last_serial": 306,
+    "last_serial": 308,
     "papers": {
         "1": {
             "id": "1",
@@ -2140,6 +2140,20 @@
             "path": "General Awareness/World Geography/Volcanoes & Earthquakes 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Volcanoes%20%26%20Earthquakes%202_25Q.txt",
             "hash": "53b1b7d39dc43b2b2183d7784e88e173"
+        },
+        "307": {
+            "id": "307",
+            "name": "Winds & Ocean Currents 1_25Q.txt",
+            "path": "General Awareness/World Geography/Winds & Ocean Currents 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Winds%20%26%20Ocean%20Currents%201_25Q.txt",
+            "hash": "d8b91829866b079995fa4c9ef1050080"
+        },
+        "308": {
+            "id": "308",
+            "name": "Winds & Ocean Currents 2_25Q.txt",
+            "path": "General Awareness/World Geography/Winds & Ocean Currents 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Winds%20%26%20Ocean%20Currents%202_25Q.txt",
+            "hash": "17bee9c960cc5a9f37960b6584116b36"
         }
     }
 }

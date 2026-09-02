@@ -1,5 +1,5 @@
 {
-    "last_serial": 383,
+    "last_serial": 385,
     "papers": {
         "1": {
             "id": "1",
@@ -2679,6 +2679,20 @@
             "path": "General Awareness/Indian Geography/Mountain passes_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mountain%20passes_25Q.txt",
             "hash": "3d2a2adb46877959fd5c91b9ca5f723d"
+        },
+        "384": {
+            "id": "384",
+            "name": "Natural Vegetation & Wildlife 1_25Q.txt",
+            "path": "General Awareness/Indian Geography/Natural Vegetation & Wildlife 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Natural%20Vegetation%20%26%20Wildlife%201_25Q.txt",
+            "hash": "bd005c9615d633ba384be1ff4d2e6a6a"
+        },
+        "385": {
+            "id": "385",
+            "name": "Natural Vegetation & Wildlife 2_25Q.txt",
+            "path": "General Awareness/Indian Geography/Natural Vegetation & Wildlife 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Natural%20Vegetation%20%26%20Wildlife%202_25Q.txt",
+            "hash": "9b89de3863073fb05aef41dd4233977b"
         }
     }
 }

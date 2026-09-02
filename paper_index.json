@@ -1,5 +1,5 @@
 {
-    "last_serial": 407,
+    "last_serial": 409,
     "papers": {
         "1": {
             "id": "1",
@@ -2847,6 +2847,20 @@
             "path": "General Awareness/Indian Art and Culture/Temple Architecture Styles 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Temple%20Architecture%20Styles%202_20Q.txt",
             "hash": "7037a47a46543a8fdacb6d698eafbd8c"
+        },
+        "408": {
+            "id": "408",
+            "name": "UNESCO World Heritage & Indian Heritage 2_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/UNESCO World Heritage & Indian Heritage 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/UNESCO%20World%20Heritage%20%26%20Indian%20Heritage%202_25Q.txt",
+            "hash": "e7a1a16e1c7dee38f943c4c343faff09"
+        },
+        "409": {
+            "id": "409",
+            "name": "UNESCO World Heritage & Indian Heritage 1_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/UNESCO World Heritage & Indian Heritage 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/UNESCO%20World%20Heritage%20%26%20Indian%20Heritage%201_25Q.txt",
+            "hash": "c0dfa4fdbf3d216506c3171f2ddc2d2b"
         }
     }
 }

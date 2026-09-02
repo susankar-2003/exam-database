@@ -1,5 +1,5 @@
 {
-    "last_serial": 376,
+    "last_serial": 378,
     "papers": {
         "1": {
             "id": "1",
@@ -2630,6 +2630,20 @@
             "path": "General Awareness/Indian Geography/Indian Rivers & Drainage System 3_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Indian%20Rivers%20%26%20Drainage%20System%203_20Q.txt",
             "hash": "eb9990a60dd98036f3927086e4e2dfe7"
+        },
+        "377": {
+            "id": "377",
+            "name": "Industries of India 1_25Q.txt",
+            "path": "General Awareness/Indian Geography/Industries of India 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Industries%20of%20India%201_25Q.txt",
+            "hash": "1b80cb25469342032b5fef0e7d940812"
+        },
+        "378": {
+            "id": "378",
+            "name": "Industries of India 2_25Q.txt",
+            "path": "General Awareness/Indian Geography/Industries of India 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Industries%20of%20India%202_25Q.txt",
+            "hash": "da2520b15e9efacdbe84bd1bbd0ec1b8"
         }
     }
 }

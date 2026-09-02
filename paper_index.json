@@ -1408,9 +1408,9 @@
         },
         "202": {
             "id": "202",
-            "name": "a.txt",
-            "path": "Current Affairs/March 2026/a.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/a.txt",
+            "name": "qa.txt",
+            "path": "General Awareness/Indian Art and Culture/qa.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/qa.txt",
             "hash": "68b329da9893e34099c7d8ad5cb9c940"
         },
         "203": {

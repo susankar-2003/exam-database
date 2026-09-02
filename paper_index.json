@@ -1,5 +1,5 @@
 {
-    "last_serial": 367,
+    "last_serial": 370,
     "papers": {
         "1": {
             "id": "1",
@@ -2567,6 +2567,27 @@
             "path": "General Awareness/Indian History/Regional kingdoms 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Regional%20kingdoms%202_20Q.txt",
             "hash": "8201122ddd6119aed2aeda7a71ac7a6d"
+        },
+        "368": {
+            "id": "368",
+            "name": "Agriculture 3_20Q.txt",
+            "path": "General Awareness/Indian Geography/Agriculture 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Agriculture%203_20Q.txt",
+            "hash": "b56a732e2c075e55b71f4f59b976c631"
+        },
+        "369": {
+            "id": "369",
+            "name": "Agriculture 2_20Q.txt",
+            "path": "General Awareness/Indian Geography/Agriculture 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Agriculture%202_20Q.txt",
+            "hash": "64cf7b2cb9da1624f5a12e953c11a8ed"
+        },
+        "370": {
+            "id": "370",
+            "name": "Agriculture 1_20Q.txt",
+            "path": "General Awareness/Indian Geography/Agriculture 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Agriculture%201_20Q.txt",
+            "hash": "bc862abe157fa8078270e29ed1c155b0"
         }
     }
 }

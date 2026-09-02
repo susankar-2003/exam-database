@@ -1,5 +1,5 @@
 {
-    "last_serial": 401,
+    "last_serial": 403,
     "papers": {
         "1": {
             "id": "1",
@@ -2805,6 +2805,20 @@
             "path": "Current Affairs/March 2026/Current Affairs March 2026 - 4_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%204_20Q.txt",
             "hash": "b6a07f4e1fa4b41342b2f68b2e150ef2"
+        },
+        "402": {
+            "id": "402",
+            "name": "Folk Music & Instruments_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Folk Music & Instruments_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Folk%20Music%20%26%20Instruments_25Q.txt",
+            "hash": "8fb98bcb512f0659a14f2e0378cadbed"
+        },
+        "403": {
+            "id": "403",
+            "name": "Classical Dances_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Classical Dances_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Classical%20Dances_25Q.txt",
+            "hash": "7872103197e220a5913f736fcfec5619"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 405,
+    "last_serial": 407,
     "papers": {
         "1": {
             "id": "1",
@@ -1255,8 +1255,8 @@
         "180": {
             "id": "180",
             "name": "Indian States And Folk Dances 2_25Q.txt",
-            "path": "General Awareness/Indian Art and Culture/Indian States And Folk Dances 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Indian%20States%20And%20Folk%20Dances%202_25Q.txt",
+            "path": "Static GK/Indian States And Folk Dances 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20States%20And%20Folk%20Dances%202_25Q.txt",
             "hash": "57ca44db993dbf7c9cb835ff909096c5"
         },
         "181": {
@@ -1528,29 +1528,29 @@
         "219": {
             "id": "219",
             "name": "National Parks & Wildlife Sanctuaries of Assam 1_25Q.txt",
-            "path": "Assam GK/Assam Static GK/National Parks & Wildlife Sanctuaries of Assam 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/National%20Parks%20%26%20Wildlife%20Sanctuaries%20of%20Assam%201_25Q.txt",
+            "path": "Assam GK/Assam Geography/National Parks & Wildlife Sanctuaries of Assam 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/National%20Parks%20%26%20Wildlife%20Sanctuaries%20of%20Assam%201_25Q.txt",
             "hash": "72a810ac14b9d4cfb9465d3b1ae5e904"
         },
         "220": {
             "id": "220",
             "name": "National Parks & Wildlife Sanctuaries of Assam 2_25Q.txt",
-            "path": "Assam GK/Assam Static GK/National Parks & Wildlife Sanctuaries of Assam 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/National%20Parks%20%26%20Wildlife%20Sanctuaries%20of%20Assam%202_25Q.txt",
+            "path": "Assam GK/Assam Geography/National Parks & Wildlife Sanctuaries of Assam 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/National%20Parks%20%26%20Wildlife%20Sanctuaries%20of%20Assam%202_25Q.txt",
             "hash": "4971b16ac9c5b7201b7383e68926f6ab"
         },
         "221": {
             "id": "221",
             "name": "Rivers of Assam 2_25Q.txt",
-            "path": "Assam GK/Assam Static GK/Rivers of Assam 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Rivers%20of%20Assam%202_25Q.txt",
+            "path": "Assam GK/Assam Geography/Rivers of Assam 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Rivers%20of%20Assam%202_25Q.txt",
             "hash": "294ad3e7b3ab2ecd1ba362a69020bf30"
         },
         "222": {
             "id": "222",
             "name": "Rivers of Assam 1_25Q.txt",
-            "path": "Assam GK/Assam Static GK/Rivers of Assam 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Rivers%20of%20Assam%201_25Q.txt",
+            "path": "Assam GK/Assam Geography/Rivers of Assam 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Rivers%20of%20Assam%201_25Q.txt",
             "hash": "8658e5788808bf71aa2d15b17cda32ea"
         },
         "223": {
@@ -1639,9 +1639,9 @@
         },
         "235": {
             "id": "235",
-            "name": "Ancient Assam History 3_25Q.txt",
-            "path": "Assam GK/Assam History/Ancient Assam History 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Ancient%20Assam%20History%203_25Q.txt",
+            "name": "Medieval Assam History 3_25Q.txt",
+            "path": "Assam GK/Assam History/Medieval Assam History 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Medieval%20Assam%20History%203_25Q.txt",
             "hash": "2aad75ab5f6e08c3d8e97ff9a8c31a06"
         },
         "236": {
@@ -2052,16 +2052,16 @@
         },
         "294": {
             "id": "294",
-            "name": "Mountains & Peaks 1_20Q.txt",
-            "path": "General Awareness/World Geography/Mountains & Peaks 1_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%201_20Q.txt",
+            "name": "Deserts 1_20Q.txt",
+            "path": "General Awareness/World Geography/Deserts 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%201_20Q.txt",
             "hash": "61a65474077837c45ad58dd3a2f527f5"
         },
         "295": {
             "id": "295",
-            "name": "Mountains & Peaks 2_20Q.txt",
-            "path": "General Awareness/World Geography/Mountains & Peaks 2_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%202_20Q.txt",
+            "name": "Deserts 3_20Q.txt",
+            "path": "General Awareness/World Geography/Deserts 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%203_20Q.txt",
             "hash": "fc605867cb75f5c18b6e75efcef6d47f"
         },
         "296": {
@@ -2833,6 +2833,20 @@
             "path": "General Awareness/Indian Art and Culture/Indian States And Folk Dances 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Indian%20States%20And%20Folk%20Dances%201_25Q.txt",
             "hash": "bc5ceeb7600af063f735786bc88a4821"
+        },
+        "406": {
+            "id": "406",
+            "name": "Temple Architecture Styles 1_20Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Temple Architecture Styles 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Temple%20Architecture%20Styles%201_20Q.txt",
+            "hash": "851b18e324f00ae28bf6b7ceb0bec57a"
+        },
+        "407": {
+            "id": "407",
+            "name": "Temple Architecture Styles 2_20Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Temple Architecture Styles 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Temple%20Architecture%20Styles%202_20Q.txt",
+            "hash": "7037a47a46543a8fdacb6d698eafbd8c"
         }
     }
 }

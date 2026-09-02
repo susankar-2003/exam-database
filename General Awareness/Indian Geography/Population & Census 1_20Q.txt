@@ -28,7 +28,7 @@ Ans: B
 4. Which state in India recorded the lowest population density in Census 2011?
 
 ২০১১ চনৰ লোকপিয়লত ভাৰতৰ কোনখন ৰাজ্যত জনসংখ্যাৰ ঘনত্ব আটাইতকৈ কম আছিল?
-A) Arunachal Pradesh / অৰুণাচল প্ৰદેશ
+A) Arunachal Pradesh / অৰুণাচল প্ৰদেশ
 B) Mizoram / মিজোৰাম
 C) Sikkim / ছিকিম
 D) Nagaland / নাগালেণ্ড
@@ -49,7 +49,7 @@ Ans: C
 A) Sikkim / ছিকিম
 B) Mizoram / মিজোৰাম
 C) Goa / গোৱা
-D) Arunachal Pradesh / অৰুণাচল প্ৰદેશ
+D) Arunachal Pradesh / অৰুণাচল প্ৰদেশ
 Ans: A
 
 7. What was the overall literacy rate of India recorded in Census 2011?
@@ -74,7 +74,7 @@ Ans: C
 
 ২০১১ চনৰ লোকপিয়ল অনুসৰি ভাৰতৰ কোনখন ৰাজ্যত সাক্ষৰতাৰ হাৰ আটাইতকৈ কম আছিল?
 A) Bihar / বিহাৰ
-B) Arunachal Pradesh / অৰুণাচল প্ৰદેશ
+B) Arunachal Pradesh / অৰুণাচল প্ৰদেশ
 C) Rajasthan / ৰাজস্থান
 D) Jharkhand / ঝাৰখণ্ড
 Ans: A
@@ -146,7 +146,7 @@ Ans: A
 
 ২০১১ চনৰ লোকপিয়লত কোনখন ৰাজ্যত সৰ্বাধিক দহ বছৰীয়া জনসংখ্যা বৃদ্ধিৰ হাৰ লিপিবদ্ধ কৰা হৈছিল?
 A) Meghalaya / মেঘালয়
-B) Arunachal Pradesh / অৰুণাচল প্ৰદેશ
+B) Arunachal Pradesh / অৰুণাচল প্ৰদেশ
 C) Bihar / বিহাৰ
 D) Jammu and Kashmir / জম্মু আৰু কাশ্মীৰ
 Ans: A

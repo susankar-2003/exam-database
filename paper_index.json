@@ -1,5 +1,5 @@
 {
-    "last_serial": 395,
+    "last_serial": 401,
     "papers": {
         "1": {
             "id": "1",
@@ -2763,6 +2763,48 @@
             "path": "General Awareness/Indian Geography/Physical Geography of India 4_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Physical%20Geography%20of%20India%204_20Q.txt",
             "hash": "a44f7e48bdf130810235b213b99d7a11"
+        },
+        "396": {
+            "id": "396",
+            "name": "Current Affairs March 2026 - 3_20Q.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%203_20Q.txt",
+            "hash": "fecc22e2cea9a9ca4fde7f6355fef99a"
+        },
+        "397": {
+            "id": "397",
+            "name": "Current Affairs March 2026 - 6_20Q.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 6_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%206_20Q.txt",
+            "hash": "eaf3cd6723b4f57b66b1752e6f34a387"
+        },
+        "398": {
+            "id": "398",
+            "name": "Current Affairs March 2026 - 2_20Q.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%202_20Q.txt",
+            "hash": "082cc5999139b776fe47a136eca49797"
+        },
+        "399": {
+            "id": "399",
+            "name": "Current Affairs March 2026 - 1_20Q.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%201_20Q.txt",
+            "hash": "28123907d70d5addffebf26fee96cd83"
+        },
+        "400": {
+            "id": "400",
+            "name": "Current Affairs March 2026 - 5_20Q.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 5_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%205_20Q.txt",
+            "hash": "ef5b40693eeac7b8317b48e43ef02a26"
+        },
+        "401": {
+            "id": "401",
+            "name": "Current Affairs March 2026 - 4_20Q.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 4_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%204_20Q.txt",
+            "hash": "b6a07f4e1fa4b41342b2f68b2e150ef2"
         }
     }
 }

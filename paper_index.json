@@ -1,5 +1,5 @@
 {
-    "last_serial": 382,
+    "last_serial": 383,
     "papers": {
         "1": {
             "id": "1",
@@ -2672,6 +2672,13 @@
             "path": "General Awareness/Indian Geography/Mineral & Energy Resources 3_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mineral%20%26%20Energy%20Resources%203_20Q.txt",
             "hash": "286b5d0afce21a80cf4b53b8ae2e0985"
+        },
+        "383": {
+            "id": "383",
+            "name": "Mountain passes_25Q.txt",
+            "path": "General Awareness/Indian Geography/Mountain passes_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mountain%20passes_25Q.txt",
+            "hash": "3d2a2adb46877959fd5c91b9ca5f723d"
         }
     }
 }

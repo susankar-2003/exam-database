@@ -1,5 +1,5 @@
 {
-    "last_serial": 403,
+    "last_serial": 404,
     "papers": {
         "1": {
             "id": "1",
@@ -2819,6 +2819,13 @@
             "path": "General Awareness/Indian Art and Culture/Classical Dances_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Classical%20Dances_25Q.txt",
             "hash": "7872103197e220a5913f736fcfec5619"
+        },
+        "404": {
+            "id": "404",
+            "name": "Indian Classical Dance & Artists_20Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Indian Classical Dance & Artists_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Indian%20Classical%20Dance%20%26%20Artists_20Q.txt",
+            "hash": "7263ef6ed81157b826e0a6899c20e251"
         }
     }
 }

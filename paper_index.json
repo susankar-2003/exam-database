@@ -1,5 +1,5 @@
 {
-    "last_serial": 388,
+    "last_serial": 391,
     "papers": {
         "1": {
             "id": "1",
@@ -2714,6 +2714,27 @@
             "path": "General Awareness/Indian Geography/Population & Census 3_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Population%20%26%20Census%203_20Q.txt",
             "hash": "f5f995a793e0e30902ea1a0da2a3749f"
+        },
+        "389": {
+            "id": "389",
+            "name": "Soils of India 3_20Q.txt",
+            "path": "General Awareness/Indian Geography/Soils of India 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Soils%20of%20India%203_20Q.txt",
+            "hash": "e676d161807efb52df9bca2f1145524e"
+        },
+        "390": {
+            "id": "390",
+            "name": "Soils of India 1_20Q.txt",
+            "path": "General Awareness/Indian Geography/Soils of India 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Soils%20of%20India%201_20Q.txt",
+            "hash": "8a3b7d6ccdf59eb9e0e8146f079885af"
+        },
+        "391": {
+            "id": "391",
+            "name": "Soils of India 2_20Q.txt",
+            "path": "General Awareness/Indian Geography/Soils of India 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Soils%20of%20India%202_20Q.txt",
+            "hash": "faabb081153193ffba8ffa72fb97174a"
         }
     }
 }

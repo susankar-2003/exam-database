@@ -1,5 +1,5 @@
 {
-    "last_serial": 391,
+    "last_serial": 395,
     "papers": {
         "1": {
             "id": "1",
@@ -2735,6 +2735,34 @@
             "path": "General Awareness/Indian Geography/Soils of India 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Soils%20of%20India%202_20Q.txt",
             "hash": "faabb081153193ffba8ffa72fb97174a"
+        },
+        "392": {
+            "id": "392",
+            "name": "Physical Geography of India 3_20Q.txt",
+            "path": "General Awareness/Indian Geography/Physical Geography of India 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Physical%20Geography%20of%20India%203_20Q.txt",
+            "hash": "0459405617b3fb51c965ca5e329593a1"
+        },
+        "393": {
+            "id": "393",
+            "name": "Physical Geography of India 1_20Q.txt",
+            "path": "General Awareness/Indian Geography/Physical Geography of India 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Physical%20Geography%20of%20India%201_20Q.txt",
+            "hash": "363387c166eb882a15bd7c7c0e90e0eb"
+        },
+        "394": {
+            "id": "394",
+            "name": "Physical Geography of India 2_20Q.txt",
+            "path": "General Awareness/Indian Geography/Physical Geography of India 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Physical%20Geography%20of%20India%202_20Q.txt",
+            "hash": "b5de80a09d1c7436d0b313d52de3e196"
+        },
+        "395": {
+            "id": "395",
+            "name": "Physical Geography of India 4_20Q.txt",
+            "path": "General Awareness/Indian Geography/Physical Geography of India 4_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Physical%20Geography%20of%20India%204_20Q.txt",
+            "hash": "926845cd39c74da5b86ddaabc134bbc0"
         }
     }
 }

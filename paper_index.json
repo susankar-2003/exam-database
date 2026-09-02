@@ -1,5 +1,5 @@
 {
-    "last_serial": 378,
+    "last_serial": 379,
     "papers": {
         "1": {
             "id": "1",
@@ -2644,6 +2644,13 @@
             "path": "General Awareness/Indian Geography/Industries of India 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Industries%20of%20India%202_25Q.txt",
             "hash": "da2520b15e9efacdbe84bd1bbd0ec1b8"
+        },
+        "379": {
+            "id": "379",
+            "name": "Lakes of India_20Q.txt",
+            "path": "General Awareness/Indian Geography/Lakes of India_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Lakes%20of%20India_20Q.txt",
+            "hash": "b7a349c1bc3c2312ab5e566126f1e9a2"
         }
     }
 }

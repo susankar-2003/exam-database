@@ -1,5 +1,5 @@
 {
-    "last_serial": 379,
+    "last_serial": 382,
     "papers": {
         "1": {
             "id": "1",
@@ -2651,6 +2651,27 @@
             "path": "General Awareness/Indian Geography/Lakes of India_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Lakes%20of%20India_20Q.txt",
             "hash": "b7a349c1bc3c2312ab5e566126f1e9a2"
+        },
+        "380": {
+            "id": "380",
+            "name": "Mineral & Energy Resources 1_20Q.txt",
+            "path": "General Awareness/Indian Geography/Mineral & Energy Resources 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mineral%20%26%20Energy%20Resources%201_20Q.txt",
+            "hash": "c1f1055d0a19c1e3028614657e3d9b81"
+        },
+        "381": {
+            "id": "381",
+            "name": "Mineral & Energy Resources 2_20Q.txt",
+            "path": "General Awareness/Indian Geography/Mineral & Energy Resources 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mineral%20%26%20Energy%20Resources%202_20Q.txt",
+            "hash": "d8f846b109d7d4e5bcca7937f0a5c49f"
+        },
+        "382": {
+            "id": "382",
+            "name": "Mineral & Energy Resources 3_20Q.txt",
+            "path": "General Awareness/Indian Geography/Mineral & Energy Resources 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mineral%20%26%20Energy%20Resources%203_20Q.txt",
+            "hash": "286b5d0afce21a80cf4b53b8ae2e0985"
         }
     }
 }

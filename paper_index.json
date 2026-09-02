@@ -1,5 +1,5 @@
 {
-    "last_serial": 370,
+    "last_serial": 373,
     "papers": {
         "1": {
             "id": "1",
@@ -2588,6 +2588,27 @@
             "path": "General Awareness/Indian Geography/Agriculture 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Agriculture%201_20Q.txt",
             "hash": "bc862abe157fa8078270e29ed1c155b0"
+        },
+        "371": {
+            "id": "371",
+            "name": "Climate of India 3_20Q.txt",
+            "path": "General Awareness/Indian Geography/Climate of India 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Climate%20of%20India%203_20Q.txt",
+            "hash": "db546d2263c3bb1a6b1a6fa2179c9390"
+        },
+        "372": {
+            "id": "372",
+            "name": "Climate of India 1_20Q.txt",
+            "path": "General Awareness/Indian Geography/Climate of India 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Climate%20of%20India%201_20Q.txt",
+            "hash": "447313a06abe159711230b9f029b4acc"
+        },
+        "373": {
+            "id": "373",
+            "name": "Climate of India 2_20Q.txt",
+            "path": "General Awareness/Indian Geography/Climate of India 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Climate%20of%20India%202_20Q.txt",
+            "hash": "d9839a6d838e556c0d7ffd82fbda175b"
         }
     }
 }

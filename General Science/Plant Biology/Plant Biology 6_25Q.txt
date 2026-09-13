@@ -1,0 +1,224 @@
+1. Deficiency of nitrogen in plants leads to yellowing of leaves, called:
+
+উদ্ভিদত নাইট্ৰ’জেনৰ অভাৱৰ বাবে পাত হালধীয়া পৰা ৰোগটোক কি বোলে?
+A) Necrosis ( নেক্ৰ’চিছ )
+B) Chlorosis ( ক্ল’ৰ’চিছ )
+C) Etiolation ( ইটিঅ’লেশ্বন )
+D) Stunting ( বৃদ্ধি ৰোধ )
+Ans: B
+
+2. Which mineral deficiency causes "dieback" in plants?
+
+কোনটো খনিজৰ অভাৱত উদ্ভিদৰ "ডাইবেক" (Dieback) ৰোগ হয়?
+A) Copper ( তাম / কপাৰ )
+B) Zinc ( জিংক / দস্তা )
+C) Boron ( বৰণ )
+D) Manganese ( মেংগানিজ )
+Ans: A
+
+3. Little leaf disease in plants is primarily caused by deficiency of:
+
+উদ্ভিদৰ "লিটল লিফ" (সৰু পাত) ৰোগ মূলতঃ কিহৰ অভাৱত হয়?
+A) Zinc ( জিংক )
+B) Iron ( লো )
+C) Calcium ( কেলচিয়াম )
+D) Magnesium ( মেগনেছিয়াম )
+Ans: A
+
+4. Whip-tail disease of cauliflower is caused by deficiency of:
+
+ফুলকবিৰ "হুইপ-টেইল" ৰোগ কিহৰ অভাৱত হয়?
+A) Molybdenum ( মলিবডেনাছ )
+B) Zinc ( জিংক )
+C) Boron ( বৰণ )
+D) Copper ( তাম )
+Ans: A
+
+5. Black heart disease in potato tubers is caused due to lack of:
+
+আলুৰ "ব্লেক হাৰ্ট" ৰোগ কিহৰ অভাৱৰ বাবে হয়?
+A) Oxygen during storage ( সঞ্চয়ৰ সময়ত অক্সিজেনৰ অভাৱ )
+B) Nitrogen ( নাইট্ৰ’জেন )
+C) Potassium ( পটাছিয়াম )
+D) Water ( পানী )
+Ans: A
+
+6. The primary photosynthetic product formed in the Calvin cycle is:
+
+কেলভিন চক্ৰত সৃষ্টি হোৱা প্ৰাথমিক সালোক- সংশ্লেষণ সামগ্ৰীটো কি?
+A) Glucose ( গ্লুক’জ )
+B) 3-PGA ( ৩-পি জি এ )
+C) RuBP ( আৰ ইউ বি পি )
+D) Sucrose ( চুক্ৰ’জ )
+Ans: B
+
+7. C4 plants like maize and sugarcane minimize photorespiration using:
+
+গোমধান আৰু কুঁহিয়াৰৰ দৰে C4 উদ্ভিদে কি ব্যৱহাৰ কৰি ফট’ৰেচপিৰেচন হ্ৰাস কৰে?
+A) Kranz Anatomy ( ক্ৰাঞ্জ শৰীৰস্থান )
+B) Bulliform cells ( বুলিফৰ্ম কোষ )
+C) Stomatal closure ( পত্ৰৰন্ধ্ৰ বন্ধ হোৱা )
+D) Sunken stomata ( ডুব যোৱা পত্ৰৰন্ধ্ৰ )
+Ans: A
+
+8. CAM pathway (Crassulacean Acid Metabolism) is an adaptation found in:
+
+CAM পথ (ক্ৰেচুলেচিয়ান এচিড মেটাবলিজম) কিহৰ এক অভিযোজন?
+A) Desert plants / Succulents ( মৰুভূমির উদ্ভিদ / চাকুলেন্ট )
+B) Hydrophytes ( জলজ উদ্ভিদ )
+C) Parasitic plants ( পৰজীৱী উদ্ভিদ )
+D) Alpine plants ( আল্পাইন উদ্ভিদ )
+Ans: A
+
+9. CAM plants open their stomata during:
+
+CAM উদ্ভিদবোৰে সিহঁতৰ পত্ৰৰন্ধ্ৰ কতিয়া খুলি দিয়ে?
+A) Night ( ৰাতি )
+B) Daytime ( দিনৰ ভাগত )
+C) Noon ( দুপৰীয়া )
+D) All times ( সদায় )
+Ans: A
+
+10. Male gametophyte in flowering plants is represented by:
+
+সপুষ্পক উদ্ভিদৰ পুং-যুগ্মক (Male gametophyte) ক কিহে প্ৰতিনিধিত্ব কৰে?
+A) Pollen Grain ( পৰাগ ৰেণু )
+B) Ovule ( ডিম্বক )
+C) Embryo Sac ( ভ্ৰূণস্থলী )
+D) Stamen ( পুংকেশৰ )
+Ans: A
+
+11. Female gametophyte in angiosperms is the:
+
+গুপ্তবীজী উদ্ভিদৰ স্ত্ৰী-যুগ্মক (Female gametophyte) হ’ল:
+A) Embryo Sac ( ভ্ৰূণস্থলী )
+B) Ovule ( ডিম্বক )
+C) Stigma ( গৰ্ভমুণ্ড )
+D) Carpel ( গৰ্ভকেশৰ )
+Ans: A
+
+12. Double fertilization is a unique characteristic feature of:
+
+দ্বি-নিষেচন (Double fertilization) ক্ৰিয়া কোনটো গোটৰ এক অনন্য বৈশিষ্ট্য?
+A) Gymnosperms ( ব্যক্তবীজী )
+B) Angiosperms ( গুপ্তবীজী )
+C) Bryophytes ( ব্ৰায়’ফাইটা )
+D) Pteridophytes ( টেৰিড’ফাইটা )
+Ans: B
+
+13. Triploid (3n) tissue formed after double fertilization in angiosperms is:
+
+গুপ্তবীজী উদ্ভিদৰ দ্বি-নিষেচনৰ পিছত গঠিত ট্ৰিপ্লইড (3n) কলাটো কি?
+A) Endosperm ( ভ্ৰূণপোোষ )
+B) Embryo ( ভ্ৰূণ )
+C) Seed Coat ( বীজত্বক )
+D) Zygote ( জাইগ’ট )
+Ans: A
+
+14. Endosperm provides nourishment to the developing:
+
+ভ্ৰূণপোোষে (Endosperm) কাৰ বিকাশত পুষ্টি যোগায়?
+A) Embryo ( ভ্ৰূণ )
+B) Flower ( ফুল )
+C) Root ( শিপা )
+D) Fruit Wall ( ফলত্বক )
+Ans: A
+
+15. Non-endospermic (exalbuminous) seeds store food in their:
+
+ভ্ৰূণপোোষ নথকা বীজবোৰে ক’ত খাদ্য সঞ্চয় কৰে?
+A) Cotyledons ( বীজপত্ৰ )
+B) Endosperm ( ভ্ৰূণপোোষ )
+C) Seed Coat ( বীজত্বক )
+D) Pericarp ( ফলত্বক )
+Ans: A
+
+16. Gram, pea, and bean seeds are examples of:
+
+বুট, মটৰ, আৰু উৰহী বীজবোৰ কিহৰ উদাহৰণ?
+A) Non-endospermic seeds ( ভ্ৰূণপোোষহীন বীজ )
+B) Endospermic seeds ( ভ্ৰূণপোোষযুক্ত বীজ )
+C) Monocot seeds ( একবীজপত্ৰী বীজ )
+D) Gymnosperm seeds ( ব্যক্তবীজী বীজ )
+Ans: A
+
+17. Castor and maize seeds are examples of:
+
+ৰেৰী (Castor) আৰু গোমধানৰ বীজবোৰ কিহৰ উদাহৰণ?
+A) Endospermic / Albuminous seeds ( ভ্ৰূণপোোষযুক্ত বীজ )
+B) Non-endospermic seeds ( ভ্ৰূণপোোষহীন বীজ )
+C) Dicot non-endospermic ( দ্বিবীজপত্ৰী ভ্ৰূণপোোষহীন )
+D) Bare seeds ( নগ্ন বীজ )
+Ans: A
+
+18. Which plant hormone breaks seed dormancy and promotes germination?
+
+কোনটো উদ্ভিদ হৰম’নে বীজৰ সুপ্ত অৱস্থা ভংগ কৰে আৰু অংকুৰোদ্গম ত্বৰান্বিত কৰে?
+A) Gibberellin ( জিব্বাৰেলিন )
+B) Abscisic Acid ( এবচিচিক এচিড )
+C) Auxin ( অক্সিন )
+D) Ethylene ( ইথিলিন )
+Ans: A
+
+19. Vernalization is the promotion of flowering by exposure to:
+
+ভাৰ্নেলাইজেচন (Vernalization) হ’ল কিহৰ সংস্পৰ্শৰ দ্বাৰা ফুল ফুলা বৃদ্ধি কৰা প্ৰক্ৰিয়া?
+A) Low Temperature / Cold ( নিম্ন উষ্ণতা / চেঁচা )
+B) High Temperature ( উচ্চ উষ্ণতা )
+C) Darkness ( আন্ধাৰ )
+D) High Light Intensity ( প্ৰখৰ পোহৰ )
+Ans: A
+
+20. Photoperiodism in plants refers to the response to duration of:
+
+উদ্ভিদৰ ফট’পিৰিয়ডিজম (দীপ্তিকাল প্ৰতিক্ৰিয়া) কিহৰ সময়সীমাৰ প্ৰতিক্ৰিয়া?
+A) Light and Dark periods ( পোহৰ আৰু আন্ধাৰৰ সময়সীমা )
+B) Temperature ( উষ্ণতা )
+C) Rainfall ( বৰষুণ )
+D) Humidity ( আৰ্দ্ৰতা )
+Ans: A
+
+21. Pigment responsible for sensing light duration (photoperiod) in plants is:
+
+উদ্ভিদত পোহৰৰ সময়সীমা অনুভৱ কৰাৰ বাবে দায়ী ৰঞ্জক পদাৰ্থটো কি?
+A) Phytochrome ( ফাইটোক্ৰ’ম )
+B) Chlorophyll ( ক্ল’ৰ’ফিল )
+C) Carotenoid ( কেৰ’টিনইড )
+D) Anthocyanin ( এন্থ’চাইয়ানিন )
+Ans: A
+
+22. Hydroponics is the technique of growing plants in:
+
+হাইড্ৰ’পনিক্স (Hydroponics) হ’ল কিহত উদ্ভিদ গজোৱাৰ কৌশল?
+A) Nutrient Water Solution without Soil ( মাটি নোহোৱাকৈ পুষ্টিযুক্ত পানীৰ দ্ৰৱত )
+B) Pure Sand ( কেৱল বালিত )
+C) Dry Soil ( শুকান মাটিত )
+D) Air medium only ( কেৱল বায়ুত )
+Ans: A
+
+23. Aeroponics is a system of growing plants with roots suspended in:
+
+এৰ’পনিক্স (Aeroponics) হ’ল শিপাবোৰ কিহত ওলমাই ৰাখি উদ্ভিদ গজোৱা প্ৰণালী?
+A) Air and misted with nutrients ( বায়ুত আৰু পুষ্টিৰ বাষ্প মিহলাই )
+B) Water tanks ( পানীৰ টেংকিত )
+C) Soil ( মাটিত )
+D) Organic compost ( জৈৱিক সাৰত )
+Ans: A
+
+24. Green algae belong to which plant division?
+
+সেউজীয়া শেলাই কোনটো উদ্ভিদ বিভাগৰ অন্তৰ্গত?
+A) Chlorophyta ( ক্ল’ৰ’ফাইটা )
+B) Phaeophyta ( ফেঅ’ফাইটা )
+C) Rhodophyta ( ৰ’ড’ফাইটা )
+D) Bryophyta ( ব্ৰায়’ফাইটা )
+Ans: A
+
+25. Red algae belong to which group?
+
+ৰঙা শেলাই কোনটো গোটৰ অন্তৰ্গত?
+A) Rhodophyta ( ৰ’ড’ফাইটা )
+B) Chlorophyta ( ক্ল’ৰ’ফাইটা )
+C) Phaeophyta ( ফেঅ’ফাইটা )
+D) Xanthophyta ( জেন্থ’ফাইটা )
+Ans: A

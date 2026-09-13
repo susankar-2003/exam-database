@@ -1,0 +1,224 @@
+1. Which organelle is known as the powerhouse of the cell?
+
+কোনটো অঙ্গাণুক কোষৰ শক্তিঘৰ (Powerhouse) বুলি জনা যায়?
+A) Ribosome ( ৰাইব’জ’ম )
+B) Mitochondria ( মাইট’কণ্ড্ৰিয়া )
+C) Lysosome ( লাইছ’জ’ম )
+D) Chloroplast ( ক্ল’ৰ’প্লাষ্ট )
+Ans: B
+
+2. Photosynthesis in plants takes place primarily in which part?
+
+উদ্ভিদৰ সালোক- সংশ্লেষণ প্ৰধানকৈ ক’ত সংঘটিত হয়?
+A) Roots ( শিপা )
+B) Stem ( কাণ্ড )
+C) Leaves ( পাত )
+D) Flowers ( ফুল )
+Ans: C
+
+3. Which gas is absorbed by plants during photosynthesis?
+
+সালোক- সংশ্লেষণৰ সময়ত উদ্ভিদে কোনটো গেছ গ্ৰহণ কৰে?
+A) Oxygen ( অক্সিজেন )
+B) Carbon Dioxide ( কাৰ্বন ডাই অক্সাইড )
+C) Nitrogen ( নাইট্ৰ’জেন )
+D) Hydrogen ( হাইড্ৰ’জেন )
+Ans: B
+
+4. What is the green pigment in plants responsible for capturing light energy?
+
+পোহৰ শক্তি সংগ্ৰহ কৰাৰ বাবে উদ্ভিদত থকা সেউজীয়া ৰঞ্জক পদাৰ্থবিধ কি?
+A) Carotene ( কেৰ’টিন )
+B) Xanthophyll ( জেন্থ’ফিল )
+C) Chlorophyll ( ক্ল’ৰ’ফিল )
+D) Anthocyanin ( এন্থ’চাইয়ানিন )
+Ans: C
+
+5. Which tissue is responsible for transporting water in plants?
+
+উদ্ভিদৰ পানী পৰিবহনৰ বাবে কোনটো কলা দায়ী?
+A) Phloem ( ফ্ল’ৱেম )
+B) Xylem ( জাইলেম )
+C) Cambium ( ক্যাম্বিয়াম )
+D) Epidermis ( এপিডাৰ্মিছ )
+Ans: B
+
+6. Which tissue transports food and nutrients from leaves to other parts of the plant?
+
+পাতৰ পৰা খাদ্য আৰু পুষ্টি উদ্ভিদৰ অন্যান্য অংশলৈ পৰিবহন কৰা কলাটো কি?
+A) Xylem ( জাইলেম )
+B) Phloem ( ফ্ল’ৱেম )
+C) Cortex ( কৰ্টেক্স )
+D) Pith ( পিথ )
+Ans: B
+
+7. Small pores present on the surface of leaves for gas exchange are called:
+
+গেছীয় বিনিময়ৰ বাবে পাতৰ পৃষ্ঠত থকা সৰু ছিদ্ৰবোৰক কি বোলা হয়?
+A) Lenticels ( লেনটিচেল )
+B) Stomata ( ষ্ট’মাটা / পত্ৰৰন্ধ্ৰ )
+C) Hydathodes ( হাইডাথ’ড )
+D) Cuticle ( কিউটিকেল )
+Ans: B
+
+8. The process of loss of water in the form of vapor from aerial parts of plants is:
+
+উদ্ভিদৰ বায়ৱীয় অংশৰ পৰা বাষ্প আকাৰে পানী ওলাই যোৱা প্ৰক্ৰিয়াটোক কি বোলে?
+A) Evaporation ( বাষ্পীভবন )
+B) Transpiration ( প্ৰস্বেদন )
+C) Guttation ( গাটেচন )
+D) Osmosis ( পৰাস্ৰৱণ )
+Ans: B
+
+9. Plant cell walls are primarily composed of which biological substance?
+
+উদ্ভিদৰ কোষবেৰ মূলতঃ কোনটো জৈৱিক পদাৰ্থৰে গঠিত?
+A) Starch ( শ্বেতসাৰ )
+B) Cellulose ( চেলুল’জ )
+C) Glycogen ( গ্লাইক’জেন )
+D) Chitin ( কাইটিন )
+Ans: B
+
+10. Which plant hormone promotes cell elongation and growth?
+
+কোনটো উদ্ভিদ হৰম’নে কোষৰ দৈৰ্ঘ্য বৃদ্ধি আৰু বিকাশ ত্বৰান্বিত কৰে?
+A) Abscisic Acid ( এবচিচিক এচিড )
+B) Auxin ( অক্সিন )
+C) Ethylene ( ইথিলিন )
+D) Cytokinin ( সাইট’কাইনিন )
+Ans: B
+
+11. Which plant hormone is mainly responsible for fruit ripening?
+
+ফল পকাৰ বাবে মূলতঃ কোনটো উদ্ভিদ হৰম’ন দায়ী?
+A) Ethylene ( ইথিলিন )
+B) Gibberellin ( জিব্বাৰেলিন )
+C) Auxin ( অক্সিন )
+D) Cytokinin ( সাইট’কাইনিন )
+Ans: A
+
+12. The growth response of a plant towards light is known as:
+
+পোহৰৰ প্ৰতি উদ্ভিদৰ দিশনিৰ্ণায়ক বৃদ্ধিক কি বোলা হয়?
+A) Geotropism ( জিঅ’ট্ৰপিজম )
+B) Phototropism ( ফট’ট্ৰপিজম )
+C) Hydrotropism ( হাইড্ৰ’ট্ৰপিজম )
+D) Thigmotropism ( থিগম’ট্ৰপিজম )
+Ans: B
+
+13. The growth response of plant roots towards gravity is called:
+
+মাধ্যাকৰ্ষণৰ দিশত উদ্ভিদৰ শিপাৰ বৃদ্ধিক কি বোলা হয়?
+A) Phototropism ( ফট’ট্ৰপিজম )
+B) Hydrotropism ( হাইড্ৰ’ট্ৰপিজম )
+C) Positive Geotropism ( ধনাত্মক জিঅ’ট্ৰপিজম )
+D) Thigmotropism ( থিগম’ট্ৰপিজম )
+Ans: C
+
+14. Which reproductive organ represents the female part of a flower?
+
+কোনটো প্ৰজনন অংগই ফুলৰ স্ত্ৰী অংশক প্ৰতিনিধিত্ব কৰে?
+A) Stamen ( পুংকেশৰ )
+B) Pistil / Carpel ( গৰ্ভকেশৰ )
+C) Petal ( পাপৰি )
+D) Sepal ( ব্ৰিটি )
+Ans: B
+
+15. The male reproductive part of a flower consists of anther and filament, called:
+
+পৰাগধানী আৰু পুংদণ্ডৰে গঠিত ফুলৰ পুং প্ৰজনন অংশটোক কি বোলে?
+A) Stamen ( পুংকেশৰ )
+B) Carpel ( গৰ্ভকেশৰ )
+C) Style ( গৰ্ভদণ্ড )
+D) Stigma ( গৰ্ভমুণ্ড )
+Ans: A
+
+16. What does the ovary of a flower develop into after fertilization?
+
+নিষেচনৰ পিছত ফুলৰ গৰ্ভাশয়টো কিহৈলৈ ৰূপান্তৰিত হয়?
+A) Seed ( গুটি / বীজ )
+B) Fruit ( ফল )
+C) Ovule ( ডিম্বক )
+D) Leaf ( পাত )
+Ans: B
+
+17. After fertilization, the ovule develops into a:
+
+নিষেচনৰ পিছত ডিম্বকটো কিহৈলৈ বিকাশ হয়?
+A) Fruit ( ফল )
+B) Seed ( বীজ )
+C) Flower ( ফুল )
+D) Embryo ( ভ্ৰূণ )
+Ans: B
+
+18. Which gas is released as a byproduct during photosynthesis?
+
+সালোক- সংশ্লেষণৰ সময়ত উপজাত সামগ্ৰী হিচাপে কোনটো গেছ নিৰ্গত হয়?
+A) Carbon Dioxide ( কাৰ্বন ডাই অক্সাইড )
+B) Nitrogen ( নাইট্ৰ’জেন )
+C) Oxygen ( অক্সিজেন )
+D) Methane ( মিথেন )
+Ans: C
+
+19. Insectivorous plants grow in soil that is deficient in which nutrient?
+
+কীটভোজী উদ্ভিদবোৰ কোনটো পুষ্টিৰ অভাৱ থকা মাটিত গজে?
+A) Calcium ( কেলচিয়াম )
+B) Potassium ( পটাছিয়াম )
+C) Nitrogen ( নাইট্ৰ’জেন )
+D) Phosphorus ( ফছফৰাছ )
+Ans: C
+
+20. Which of the following is an example of an insectivorous plant?
+
+তলৰ কোনটো কীটভোজী উদ্ভিদৰ উদাহৰণ?
+A) Cuscuta ( কলচী লতা )
+B) Pitcher Plant ( কলচী উদ্ভিদ )
+C) Mushroom ( কাঠফুলা )
+D) Algae ( শেলাই )
+Ans: B
+
+21. Pitcher plant captures insects using its modified:
+
+কলচী উদ্ভিদে তাৰ ৰূপান্তৰিত কিহৰ সহায়ত কীট-পতংগ ধৰে?
+A) Stem ( কাণ্ড )
+B) Leaf ( পাত )
+C) Root ( শিপা )
+D) Flower ( ফুল )
+Ans: B
+
+22. Cuscuta (Dodder) is an example of a:
+
+কাছকাটা (অমৰলতা) হ’ল এবিধ:
+A) Autotroph ( স্বভোজী )
+B) Parasite ( পৰজীৱী )
+C) Saprophyte ( মৃতজীৱী )
+D) Symbiont ( মিথোজীৱী )
+Ans: B
+
+23. Organisms that derive nourishment from dead and decaying matter are:
+
+মৃত আৰু পচা জৈৱিক পদাৰ্থৰ পৰা আহাৰ গ্ৰহণ কৰা জীৱবোৰ হ’ল:
+A) Parasites ( পৰজীৱী )
+B) Saprophytes ( মৃতজীৱী )
+C) Autotrophs ( স্বভোজী )
+D) Herbivores ( তৃণভোজী )
+Ans: B
+
+24. Fungi like mushrooms obtain their nutrition through:
+
+কাঠফুলাৰ দৰে ভেঁকুৰে কি প্ৰক্ৰিয়াৰে পুষ্টি লাভ কৰে?
+A) Autotrophic nutrition ( স্বভোজী পুষ্টি )
+B) Saprophytic nutrition ( মৃতজীৱী পুষ্টি )
+C) Holozoic nutrition ( প্ৰাণীসম পুষ্টি )
+D) Parasitic nutrition ( পৰজীৱী পুষ্টি )
+Ans: B
+
+25. The symbiotic association between algae and fungi is called:
+
+শেলাই আৰু ভেঁকুৰৰ মাজৰ মিথোজীৱী সম্পৰ্কটোক কি বোলা হয়?
+A) Mycorrhiza ( মাইক’ৰাইজা )
+B) Lichen ( লাইকেন )
+C) Rhizobium ( ৰাইয’বিয়াম )
+D) Virus ( ভাইৰাছ )
+Ans: B

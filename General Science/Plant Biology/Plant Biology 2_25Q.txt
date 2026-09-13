@@ -1,0 +1,224 @@
+1. Which nitrogen-fixing bacteria live in the root nodules of leguminous plants?
+
+ফলিজাতীয় উদ্ভিদৰ শিপাৰ গুটিত কোনবোৰ নাইট্ৰ’জেন সংবন্ধনকাৰী বেক্টেৰিয়া থাকে?
+A) Azotobacter ( এজ’ট’বেক্টৰ )
+B) Rhizobium ( ৰাইজ’বিয়াম )
+C) Nitrosomonas ( নাইট্ৰ’ছ’ম’নাছ )
+D) Pseudomonas ( সুড’ম’নাছ )
+Ans: B
+
+2. Root hairs absorb water from the soil through the process of:
+
+শিপাৰ ৰোমে মাটিৰ পৰা কি প্ৰক্ৰিয়াৰে পানী শোষণ কৰে?
+A) Diffusion ( ব্যাপন )
+B) Osmosis ( পৰাস্ৰৱণ )
+C) Active Transport ( সক্ৰিয় পৰিবহন )
+D) Transpiration ( প্ৰস্বেদন )
+Ans: B
+
+3. Light energy is converted into chemical energy during which process?
+
+কোনটো প্ৰক্ৰিয়াত পোহৰ শক্তি ৰাসায়নিক শক্তিলৈ ৰূপান্তৰিত হয়?
+A) Respiration ( শ্বসন )
+B) Fermentation ( কিণ্বন )
+C) Photosynthesis ( সালোক- সংশ্লেষণ )
+D) Transpiration ( প্ৰস্বেদন )
+Ans: C
+
+4. Dark reaction of photosynthesis takes place in which part of the chloroplast?
+
+ক্ল’ৰ’প্লাষ্টৰ কোনটো অংশত সালোক- সংশ্লেষণৰ আন্ধাৰ বিক্ৰিয়া ঘটে?
+A) Grana ( গ্ৰানা )
+B) Stroma ( ষ্ট্ৰ’মা )
+C) Thylakoid ( থাইলাকইড )
+D) Outer Membrane ( বহিঃ আৱৰণ )
+Ans: B
+
+5. Light reaction of photosynthesis takes place in:
+
+সালোক- সংশ্লেষণৰ পোহৰ বিক্ৰিয়া ক’ত সংঘটিত হয়?
+A) Stroma ( ষ্ট্ৰ’মা )
+B) Thylakoids / Grana ( থাইলাকইড / গ্ৰানা )
+C) Matrix ( ম্যাট্ৰিস্ক )
+D) Cytoplasm ( চাইট’প্লাজম )
+Ans: B
+
+6. Which element is present at the center of the chlorophyll molecule?
+
+ক্ল’ৰ’ফিল অণুৰ কেন্দ্ৰত কোনটো মৌল উপস্থিত থাকে?
+A) Iron ( লো )
+B) Magnesium ( মেগনেছিয়াম )
+C) Calcium ( কেলচিয়াম )
+D) Zinc ( জিংক / দস্তা )
+Ans: B
+
+7. Non-flowering seed-bearing plants are classified as:
+
+ফুল নফুলা কিন্তু বীজ ধাৰণ কৰা উদ্ভিদবোৰক কি বুলি শ্ৰেণীভুক্ত কৰা হয়?
+A) Angiosperms ( গুপ্তবীজী )
+B) Gymnosperms ( ব্যক্তবীজী )
+C) Bryophytes ( ব্ৰায়’ফাইটা )
+D) Pteridophytes ( টেৰিড’ফাইটা )
+Ans: B
+
+8. Flowering plants with enclosed seeds are called:
+
+আৱৃত বীজ থকা সপুষ্পক উদ্ভিদবোৰক কি বোলে?
+A) Gymnosperms ( ব্যক্তবীজী )
+B) Angiosperms ( গুপ্তবীজী )
+C) Thallophytes ( থেল’ফাইটা )
+D) Bryophytes ( ব্ৰায়’ফাইটা )
+Ans: B
+
+9. Plants that lack vascular tissues (xylem and phloem) belong to:
+
+সংবহন কলা (জাইলেম আৰু ফ্ল’ৱেম) নথকা উদ্ভিদসমূহ কোনটো গোষ্ঠীৰ?
+A) Bryophytes ( ব্ৰায়’ফাইটা )
+B) Pteridophytes ( টেৰিড’ফাইটা )
+C) Angiosperms ( গুপ্তবীজী )
+D) Gymnosperms ( ব্যক্তবীজী )
+Ans: A
+
+10. Which plant group is known as the "amphibians of the plant kingdom"?
+
+কোনটো উদ্ভিদ গোটক "উদ্ভিদ জগতৰ উভচৰ" বুলি জনা যায়?
+A) Algae ( শেলাই )
+B) Bryophytes ( ব্ৰায়’ফাইটা )
+C) Pteridophytes ( টেৰিড’ফাইটা )
+D) Fungi ( ভেঁকুৰ )
+Ans: B
+
+11. Ferns and horsetails belong to which group of plants?
+
+ঢেকীয়া আৰু হৰ্ছটেইল উদ্ভিদৰ কোনটো গোটৰ অন্তৰ্গত?
+A) Bryophytes ( ব্ৰায়’ফাইটা )
+B) Pteridophytes ( টেৰিড’ফাইটা )
+C) Gymnosperms ( ব্যক্তবীজী )
+D) Angiosperms ( গুপ্তবীজী )
+Ans: B
+
+12. The study of plants is called:
+
+উদ্ভিদ সম্পৰ্কীয় অধ্যয়নক কি বোলা হয়?
+A) Zoology ( প্ৰাণীবিজ্ঞান )
+B) Botany ( উদ্ভিদবিজ্ঞান )
+C) Mycology ( মাইক’লজি )
+D) Ecology ( পৰিস্থিতিবিজ্ঞান )
+Ans: B
+
+13. The study of fungi is known as:
+
+ভেঁকুৰৰ বিষয়ে অধ্যয়ন কৰা বিজ্ঞানক কি বোলে?
+A) Phycology ( ফাইক’লজি )
+B) Mycology ( মাইক’লজি )
+C) Dendrology ( ডেনড্ৰ’লজি )
+D) Taxonomy ( টেক্স’নমি )
+Ans: B
+
+14. The study of algae is known as:
+
+শেলাইৰ বিষয়ে অধ্যয়ন কৰা বিজ্ঞানক কি বোলে?
+A) Phycology ( ফাইক’লজি )
+B) Mycology ( মাইক’লজি )
+C) Bryology ( ব্ৰায়’লজি )
+D) Pomology ( প’ম’লজি )
+Ans: A
+
+15. Potato is a modified form of which plant organ?
+
+আলু উদ্ভিদৰ কোনটো অংগৰ ৰূপান্তৰিত ৰূপ?
+A) Root ( শিপা )
+B) Stem ( কাণ্ড )
+C) Fruit ( ফল )
+D) Leaf ( পাত )
+Ans: B
+
+16. Sweet potato is a modified:
+
+মিঠা আলু হ’ল এবিধ ৰূপান্তৰিত:
+A) Stem ( কাণ্ড )
+B) Root ( শিপা )
+C) Leaf ( পাত )
+D) Flower ( ফুল )
+Ans: B
+
+17. Onion and garlic store food in modified underground:
+
+পিয়াঁজ আৰু নহৰুৱে ভূগৰ্ভস্থ ৰূপান্তৰিত কিহত খাদ্য সঞ্চয় কৰে?
+A) Leaves / Bulbs ( পাত / বাল্ব )
+B) Roots ( শিপা )
+C) Stems ( কাণ্ড )
+D) Rhizomes ( ৰাইয’ম )
+Ans: A
+
+18. Carrot and radish are examples of modified:
+
+গাজৰ আৰু মূলা কিহৰ ৰূপান্তৰিত উদাহৰণ?
+A) Stems ( কাণ্ড )
+B) Taproots ( প্ৰধান শিপা )
+C) Leaves ( পাত )
+D) Flowers ( ফুল )
+Ans: B
+
+19. The functional unit of heredity in plants and animals is the:
+
+উদ্ভিদ আৰু প্ৰাণীৰ বংশগতিৰ কাৰ্যকৰী একক হ’ল:
+A) Chromosome ( ক্ৰম’জ’ম )
+B) Gene ( জিন )
+C) DNA ( ডি এ এন এ )
+D) Nucleus ( নিউক্লিয়াছ )
+Ans: B
+
+20. Simple cell division that results in two identical daughter cells is:
+
+দুটা একে ধৰণৰ অপত্য কোষৰ সৃষ্টি কৰা সৰল কোষ বিভাজন প্ৰক্ৰিয়াটো কি?
+A) Meiosis ( মিঅ’চিছ )
+B) Mitosis ( মাইট’চিছ )
+C) Binary Fission ( দ্বি-খণ্ডন )
+D) Budding ( মুকুলোদ্গম )
+Ans: B
+
+21. Cell division that reduces the chromosome number by half is called:
+
+ক্ৰম’জ’মৰ সংখ্যা আধা কৰি পেলোৱা কোষ বিভাজনক কি বোলে?
+A) Mitosis ( মাইট’চিছ )
+B) Meiosis ( মিঅ’চিছ )
+C) Amitosis ( এৰোপ-মাইট’চিছ )
+D) Cytokinesis ( সাইট’কাইনিন )
+Ans: B
+
+22. The process of seed germination begins with the absorption of:
+
+বীজৰ অংকুৰোদ্গম প্ৰক্ৰিয়া কি শোষণেৰে আৰম্ভ হয়?
+A) Light ( পোহৰ )
+B) Water ( পানী )
+C) Soil Nutrients ( মাটিৰ পুষ্টি )
+D) Oxygen ( অক্সিজেন )
+Ans: B
+
+23. Storage food in plant cells is mainly stored as:
+
+উদ্ভিদ কোষত খাদ্য মূলতঃ কি ৰূপত সঞ্চিত হৈ থাকে?
+A) Glycogen ( গ্লাইক’জেন )
+B) Starch ( শ্বেতসাৰ / ষ্টাৰ্চ )
+C) Glucose ( গ্লুক’জ )
+D) Sucrose ( চুক্ৰ’জ )
+Ans: B
+
+24. What is the outer protective layer of a seed called?
+
+বীজৰ বাহিৰৰ প্ৰতিৰক্ষামূলক আৱৰণটোক কি বোলা হয়?
+A) Embryo ( ভ্ৰূণ )
+B) Seed Coat ( বীজত্বক )
+C) Cotyledon ( বীজপত্ৰ )
+D) Endosperm ( ভ্ৰূণপোোষ )
+Ans: B
+
+25. Plants that complete their life cycle in one growing season are:
+
+এটা ঋতুতে জীৱন চক্ৰ সম্পূৰ্ণ কৰা উদ্ভিদবোৰ হ’ল:
+A) Biennials ( দ্বি-বাৰ্ষিক )
+B) Annuals ( এক-বাৰ্ষিক )
+C) Perennials ( বহুবৰ্ষজীবী )
+D) Ephemerals ( ক্ষণস্থায়ী )
+Ans: B

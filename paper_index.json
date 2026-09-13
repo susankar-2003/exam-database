@@ -1,5 +1,5 @@
 {
-    "last_serial": 486,
+    "last_serial": 492,
     "papers": {
         "1": {
             "id": "1",
@@ -3400,6 +3400,48 @@
             "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 3_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%203_25Q.txt",
             "hash": "882753bcfb1ceadfecae152e0c5933bc"
+        },
+        "487": {
+            "id": "487",
+            "name": "Genetics & Evolution 3_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%203_25Q.txt",
+            "hash": "34c9c8781cf103abc456fb78098970d4"
+        },
+        "488": {
+            "id": "488",
+            "name": "Genetics & Evolution 5_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%205_25Q.txt",
+            "hash": "042a515287dc5f263f9a448b6d35ee60"
+        },
+        "489": {
+            "id": "489",
+            "name": "Genetics & Evolution 1_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%201_25Q.txt",
+            "hash": "242c6c18efbf881cdc5b1af8fbb5c374"
+        },
+        "490": {
+            "id": "490",
+            "name": "Genetics & Evolution 6_23Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 6_23Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%206_23Q.txt",
+            "hash": "48f2f729ddbb864eb383c93fac1d8da4"
+        },
+        "491": {
+            "id": "491",
+            "name": "Genetics & Evolution 4_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%204_25Q.txt",
+            "hash": "a700b9c09a90185f7f6f893fde23848f"
+        },
+        "492": {
+            "id": "492",
+            "name": "Genetics & Evolution 2_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%202_25Q.txt",
+            "hash": "3788a80693d7997c6709a230aa093759"
         }
     }
 }

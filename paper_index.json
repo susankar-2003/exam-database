@@ -1,5 +1,5 @@
 {
-    "last_serial": 462,
+    "last_serial": 468,
     "papers": {
         "1": {
             "id": "1",
@@ -3232,6 +3232,48 @@
             "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 4_22Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%204_22Q.txt",
             "hash": "fa74dbd8596b06ef6c88ada4bce6d9f4"
+        },
+        "463": {
+            "id": "463",
+            "name": "Science & Technology 5_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%205_25Q.txt",
+            "hash": "cbe9a0c224b2d1f30cbeb96bb973a5d3"
+        },
+        "464": {
+            "id": "464",
+            "name": "Science & Technology 6_23Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 6_23Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%206_23Q.txt",
+            "hash": "0f8490a257673a025f94f3683de4acbc"
+        },
+        "465": {
+            "id": "465",
+            "name": "Science & Technology 3_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%203_25Q.txt",
+            "hash": "875258afcbb6e52d40b1d866cd90eb9b"
+        },
+        "466": {
+            "id": "466",
+            "name": "Science & Technology 4_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%204_25Q.txt",
+            "hash": "d0aed77998a23011ce24a6b1ce5b61da"
+        },
+        "467": {
+            "id": "467",
+            "name": "Science & Technology 1_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%201_25Q.txt",
+            "hash": "7c6e9689de0c1e5dc348dc37ce71f59d"
+        },
+        "468": {
+            "id": "468",
+            "name": "Science & Technology 2_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%202_25Q.txt",
+            "hash": "8a22d2df94637bd645b9126f8631e8dc"
         }
     }
 }

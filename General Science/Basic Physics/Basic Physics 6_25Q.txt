@@ -1,0 +1,224 @@
+1. Source of energy in the Sun is:
+
+সূৰ্যৰ শক্তিৰ প্ৰধান উৎস কি?
+A) Nuclear Fission / নিউক্লীয় বিভাজন
+B) Nuclear Fusion / নিউক্লীয় সংযোজন
+C) Chemical Burning / ৰাসায়নিক দহন
+D) Gravitational contraction / মহাকৰ্ষণিক সংকোচন
+Ans: B
+
+2. Moderator used in nuclear reactors is:
+
+নিউক্লীয় ৰিয়েল্টৰত মধ্যস্থকাৰী (Moderator) হিচাপে কি ব্যৱহাৰ কৰা হয়?
+A) Heavy water / গধুৰ পানী
+B) Uranium / ইউৰেনিয়াম
+C) Plutonium / প্লুট'নিয়াম
+D) Liquid sodium / তৰল ছডিয়াম
+Ans: A
+
+3. Control rods in a nuclear reactor are made of:
+
+নিউক্লীয় ৰিয়েক্টৰৰ নিয়ন্ত্ৰণ দণ্ডসমূহ কিহেৰে তৈয়াৰী?
+A) Cadmium or Boron / কেডমিয়াম বা ব'ৰন
+B) Iron and Steel / লো আৰু ইস্পাত
+C) Copper / তাম
+D) Graphite / গ্ৰাফাইট
+Ans: A
+
+4. Unit of radioactivity is:
+
+তেজস্ক্রিয়তাৰ SI একক কি?
+A) Curie / কুৰী
+B) Becquerel / বেকাৰেল
+C) Rutherford / ৰাডাৰফৰ্ড
+D) Roentgen / ৰোentgen
+Ans: B
+
+5. Alpha particles carry:
+
+আলফা কণাত কি আধান থাকে?
+A) 2 units of positive charge / ২ একক ধনাত্মক আধান
+B) 1 unit of negative charge / ১ একক ঋণাত্মক আধান
+C) No charge / কোনো আধান নাথাকে
+D) 2 units of negative charge / ২ একক ঋণাত্মক আধান
+Ans: A
+
+6. Beta particles are fast moving:
+
+বিটা কণাবোৰ হ'ল দ্ৰুতগতিত গতি কৰা:
+A) Protons / প্ৰ'টন
+B) Neutrons / নিউট্ৰন
+C) Electrons / ইলেকট্রন
+D) Photons / ফট'ন
+Ans: C
+
+7. Photons are particles of:
+
+ফট'ন কণা কিহৰ কণা?
+A) Sound / শব্দ
+B) Light / পোহৰ
+C) Electricity / বিদ্যুৎ
+D) Magnetism / চুম্বকত্ব
+Ans: B
+
+8. Density of water is maximum at what temperature?
+
+পানীৰ ঘনত্ব কোনটো উষ্ণতাত আটাইতকৈ বেছি?
+A) 0°C
+B) 4°C
+C) 100°C
+D) -4°C
+Ans: B
+
+9. Anomalous expansion of water occurs between:
+
+পানীৰ ব্যতিক্ৰমী প্ৰসাৰণ কোন পৰিসৰৰ উষ্ণতাত ঘটে?
+A) 0°C to 4°C / ০° ছেলছিয়াছৰ পৰা ৪° ছেলছিয়াছ
+B) 4°C to 100°C / ৪° ছেলছিয়াছৰ পৰা ১০০° ছেলছিয়াছ
+C) -4°C to 0°C / -৪° ছেলছিয়াছৰ পৰা ০° ছেলছিয়াছ
+D) 0°C to 10°C / ০° ছেলছিয়াছৰ পৰা ১০° ছেলছিয়াছ
+Ans: A
+
+10. Thermal expansion is maximum in:
+
+তাপীয় প্ৰসাৰণ কাৰ আটাইতকৈ বেছি?
+A) Solids / কঠিন পদাৰ্থৰ
+B) Liquids / তৰল পদাৰ্থৰ
+C) Gases / গেছীয় পদাৰ্থৰ
+D) Metals / ধাতুৰ
+Ans: C
+
+11. Specific heat capacity is highest for:
+
+কাৰ আপেক্ষিক তাপ ধাৰণ ক্ষমতা আটাইতকৈ বেছি?
+A) Iron / লো
+B) Water / পানী
+C) Mercury / পাৰা
+D) Kerosene / কেৰাচিন
+Ans: B
+
+12. Mercury is commonly used in thermometers because of its:
+
+থার্মোমিটাৰত পাৰা ব্যৱহাৰ কৰাৰ মুখ্য কাৰণ কি?
+A) High density / উচ্চ ঘনত্ব
+B) High thermal conductivity and uniform expansion / উচ্চ তাপ পৰিবাহিতা আৰু সুষম প্ৰসাৰণ
+C) Low boiling point / নিম্ন উতলাংক
+D) High specific heat / উচ্চ আপেক্ষিক তাপ
+Ans: B
+
+13. Clinical thermometer range is usually:
+
+ডাক্তৰী থাৰ্মোমিটাৰৰ উষ্ণতাৰ পৰিসৰ সাধাৰণতে কিমান?
+A) 35°C to 42°C / ৩৫° ছেলছিয়াছৰ পৰা ৪২° ছেলছিয়াছ
+B) 0°C to 100°C / ০° ছেলছিয়াছৰ পৰা ১০০° ছেলছিয়াছ
+C) 32°F to 212°F / ৩২° ফাৰেনহাইটৰ পৰা ২১২° ফাৰেনহাইট
+D) 20°C to 50°C / ২০° ছেলছিয়াছৰ পৰা ৫০° ছেলছিয়াছ
+Ans: A
+
+14. Normal human body temperature is approximately:
+
+মানুহৰ শৰীৰৰ স্বাভাৱিক উষ্ণতা প্ৰায় কিমান?
+A) 37°C or 98.6°F / ৩৭° ছেলছিয়াছ বা ৯৮.৬° ফাৰেনহাইট
+B) 98.6°C / ৯৮.৬° ছেলছিয়াছ
+C) 37°F / ৩৭° ফাৰেনহাইট
+D) 100°F / ১০০° ফাৰেনহাইট
+Ans: A
+
+15. Boiling point of water on Fahrenheit scale is:
+
+ফাৰেনহাইট স্কেলত পানীৰ উতলাংক কিমান?
+A) 100°F / ১০০° ফাৰেনহাইট
+B) 212°F / ২১২° ফাৰেনহাইট
+C) 180°F / ১৮০° ফাৰেনহাইট
+D) 32°F / ৩২° ফাৰেনহাইট
+Ans: B
+
+16. Freezing point of water on Fahrenheit scale is:
+
+ফাৰেনহাইট স্কেলত পানীৰ হিমাংক কিমান?
+A) 0°F / ০° ফাৰেনহাইট
+B) 32°F / ৩২° ফাৰেনহাইট
+C) 100°F / ১০০° ফাৰেনহাইট
+D) -32°F / -৩২° ফাৰেনহাইট
+Ans: B
+
+17. Relation between Celsius and Fahrenheit scale is:
+
+ছেলছিয়াছ আৰু ফাৰেনহাইট স্কেলৰ মাজৰ সম্পৰ্ক কি?
+A) C/5 = (F-32)/9
+B) C/9 = (F-32)/5
+C) C/5 = F/9
+D) C/100 = F/100
+Ans: A
+
+18. Temperature at which Celsius and Fahrenheit scales show same reading:
+
+কোনটো উষ্ণতাত ছেলছিয়াছ আৰু ফাৰেনহাইট স্কেলৰ মান একে হয়?
+A) 40°
+B) -40°
+C) 0°
+D) 100°
+Ans: B
+
+19. Heat energy absorbed during change of state without changing temperature is:
+
+উষ্ণতা অপৰিৱৰ্তিত ৰাখি অৱস্থাৰ পৰিৱৰ্তনৰ সময়ত শোষিত তাপক কি বোলা হয়?
+A) Specific Heat / আপেক্ষিক তাপ
+B) Latent Heat / লীন তাপ
+C) Sensible Heat / অনুভূতিক তাপ
+D) Thermal Capacity / তাপীয় ধাৰণ ক্ষমতা
+Ans: B
+
+20. Latent heat of fusion of ice is:
+
+বৰফ গলনৰ লীন তাপ কিমান?
+A) 80 cal/g / ৮০ কেলৰি/গ্ৰাম
+B) 540 cal/g / ৫৪০ কেলৰি/গ্ৰাম
+C) 100 cal/g / ১০০ কেলৰি/গ্ৰাম
+D) 336 cal/g / ৩৩৬ কেলৰি/গ্ৰাম
+Ans: A
+
+21. Latent heat of vaporization of water is:
+
+পানী বাষ্পীভৱনৰ লীন তাপ কিমান?
+A) 80 cal/g / ৮০ কেলৰি/গ্ৰাম
+B) 540 cal/g / ৫৪০ কেলৰি/গ্ৰাম
+C) 100 cal/g / ১০০ কেলৰি/গ্ৰাম
+D) 250 cal/g / ২৫০ কেলৰি/গ্ৰাম
+Ans: B
+
+22. Direct transition from solid to gas phase is called:
+
+কঠিন পদাৰ্থ পোনপটীয়াকৈ গেছলৈ ৰূপান্তৰ হোৱা প্ৰক্ৰিয়াটোক কি বোলা হয়?
+A) Evaporation / বাষ্পীভৱন
+B) Sublimation / উৰ্ধপাতন
+C) Condensation / ঘনীভবন
+D) Melting / গলন
+Ans: B
+
+23. Camphor and Ammonium chloride disappear on heating due to:
+
+গৰম কৰিলে কৰ্পূৰ আৰু এমোনিয়াম ক্ল’ৰাইড কিহৰ বাবে নোহোৱা হৈ পৰে?
+A) Evaporation / বাষ্পীভৱন
+B) Sublimation / উৰ্ধপাতন
+C) Fusion / গলন
+D) Vaporization / বাষ্পীভৱন
+Ans: B
+
+24. Coolers work on the principle of:
+
+ঘৰুৱা এয়াৰ কুলাৰসমূহ কি নীতিৰ ওপৰত ভিত্তি কৰি কাম কৰে?
+A) Condensation / ঘনীভবন
+B) Evaporative cooling / বাষ্পীভৱনৰ দ্বাৰা শৈতায়ন
+C) Sublimation / উৰ্ধপাতন
+D) Radiation / বিকিৰণ
+Ans: B
+
+25. Rate of evaporation increases with:
+
+বাষ্পীভৱনৰ হাৰ কিহৰ বাবে বৃদ্ধি পায়?
+A) Increase in surface area / পৃষ্ঠকালি বৃদ্ধি পালে
+B) Increase in temperature / উষ্ণতা বৃদ্ধি পালে
+C) Increase in wind speed / বতাহৰ বেগ বৃদ্ধি পালে
+D) All of the above / উপৰোক্ত সকলোবোৰ
+Ans: D

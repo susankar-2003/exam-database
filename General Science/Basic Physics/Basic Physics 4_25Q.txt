@@ -1,0 +1,224 @@
+1. Unit of noise level measurement is:
+
+শব্দ প্ৰদূষণ বা শব্দৰ মাত্ৰা জোখা একক কি?
+A) Hertz / হাৰ্টজ
+B) Decibel / ডেচিবেল
+C) Pascal / পাস্কেল
+D) Watt / ওয়াট
+Ans: B
+
+2. Dynamo converts:
+
+ডায়নামোৱে কি শক্তিক কি শক্তিলৈ ৰূপান্তৰ কৰে?
+A) Electrical to Mechanical / বৈদ্যুতিকৰ পৰা যান্ত্ৰিক
+B) Mechanical to Electrical / যান্ত্ৰিকৰ পৰা বৈদ্যুতিক
+C) Chemical to Electrical / ৰাসায়নিকৰ পৰা বৈদ্যুতিক
+D) Solar to Electrical / সৌৰ শক্তিৰ পৰা বৈদ্যুতিক
+Ans: B
+
+3. Process of heat transfer in liquids and gases is mainly:
+
+তৰল আৰু গেছীয় পদাৰ্থত তাপ সঞ্চালন প্ৰধানকৈ কোনটো পদ্ধতিৰে হয়?
+A) Conduction / পৰিবহন
+B) Convection / পৰিচলন
+C) Radiation / বিকিৰণ
+D) Insulation / ৰোধকন
+Ans: B
+
+4. Standard atmospheric pressure at sea level is:
+
+সমুদ্র পৃষ্ঠত প্ৰমাণ বায়ুমণ্ডলীয় চাপ কিমান?
+A) 760 mm of Hg / ৭৬০ মিমি পাৰা
+B) 100 mm of Hg / ১০০ মিমি পাৰা
+C) 500 mm of Hg / ৫০০ মিমি পাৰা
+D) 76 mm of Hg / ৭৬ মিমি পাৰা
+Ans: A
+
+5. Device used to convert AC into DC is called:
+
+এচি (AC) ক ডিচি (DC) লৈ পৰিৱৰ্তন কৰা সঁজুলিটো হ'ল:
+A) Transformer / ট্ৰান্সফৰ্মাৰ
+B) Rectifier / ৰেক্টিফায়াৰ
+C) Inverter / ইনভাৰ্টাৰ
+D) Generator / জেনেৰেটৰ
+Ans: B
+
+6. Filament of an electric heater is made of:
+
+বৈদ্যুতিক হিটাৰৰ ফিলামেন্ট কিহেৰে তৈয়াৰী?
+A) Tungsten / টাংষ্টেন
+B) Copper / তাম
+C) Nichrome / নাইক্ৰ’ম
+D) Aluminum / এলুমিনিয়াম
+Ans: C
+
+7. Fuse wire is always connected in:
+
+ফিউজ তাঁৰ সদায় কেনেকৈ সংযোগ কৰা হয়?
+A) Series with live wire / লাইভ তাঁৰৰ সৈতে শ্ৰেণীবদ্ধভাৱে
+B) Parallel with live wire / লাইভ তাঁৰৰ সৈতে সমান্তৰালভাৱে
+C) Series with neutral wire / নিউট্ৰেল তাঁৰৰ সৈতে শ্ৰেণীবদ্ধভাৱে
+D) Earth wire / আৰ্থিং তাঁৰত
+Ans: A
+
+8. Force of attraction between similar molecules is called:
+
+একেজাতীয় অণুৰ মাজৰ আকৰ্ষণ বলক কি বোলা হয়?
+A) Adhesive force / আসঞ্জন বল
+B) Cohesive force / সংশক্তি বল
+C) Friction / ঘৰ্ষণ বল
+D) Gravitational force / মহাকৰ্ষণ বল
+Ans: B
+
+9. Electrostatic force is governed by which law?
+
+স্থিৰ বৈদুতিক বল কোনটো সূত্ৰৰ দ্বাৰা পৰিচালিত হয়?
+A) Newton's Law / নিউটনৰ সূত্ৰ
+B) Coulomb's Law / কুলম্বৰ সূত্ৰ
+C) Ampere's Law / এম্পিয়াৰৰ সূত্ৰ
+D) Ohm's Law / ওমৰ সূত্ৰ
+Ans: B
+
+10. Weight of an object is maximum at:
+
+বস্তু এটাৰ ওজন ক'ত আটাইতকৈ বেছি হয়?
+A) Equator / বিষুৱ ৰেখাত
+B) Poles / মেৰুত
+C) Center of Earth / পৃথিৱীৰ কেন্দ্ৰত
+D) High Altitude / উচ্চ স্থানত
+Ans: B
+
+11. Weight of an object at the center of the Earth is:
+
+পৃথিৱীৰ কেন্দ্ৰত বস্তু এটাৰ ওজন কিমান?
+A) Maximum / সৰ্বাধিক
+B) Infinite / অসীম
+C) Zero / শূন্য
+D) Same as on surface / পৃষ্ঠৰ সমান
+Ans: C
+
+12. Device used to measure very high temperatures:
+
+অতি উচ্চ উষ্ণতা জোখিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰটো হ'ল:
+A) Pyrometer / পাইৰ'মিটাৰ
+B) Thermometer / থাৰ্মোমিটাৰ
+C) Barometer / বেৰোমিটাৰ
+D) Calorimeter / কেলৰিমিটাৰ
+Ans: A
+
+13. Which color absorbs the maximum heat?
+
+কোনটো ৰঙে আটাইতকৈ বেছি তাপ শোষণ কৰে?
+A) White / বগা
+B) Black / ক'লা
+C) Red / ৰঙা
+D) Yellow / হালধীয়া
+Ans: B
+
+14. Unit of electric charge is:
+
+বৈদ্যুতিক আধানৰ একক কি?
+A) Volt / ভোল্ট
+B) Ampere / এম্পিয়াৰ
+C) Coulomb / কুলম্ব
+D) Watt / ওয়াট
+Ans: C
+
+15. Instrument used to detect presence of electric current:
+
+বৰ্তনী এটাত বিদ্যুৎ প্রবাহৰ উপস্থিতি ধৰা পেলাবলৈ ব্যৱহাৰ কৰা যন্ত্ৰ:
+A) Galvanometer / গেলভান'মিটাৰ
+B) Voltmeter / ভোল্টমিটাৰ
+C) Rheostat / ৰিয়'ষ্টেট
+D) Wattmeter / ওয়াটমিটাৰ
+Ans: A
+
+16. Force per unit area is called:
+
+প্ৰতি একক ক্ষেত্রফলত ক্ৰিয়া কৰা বলক কি বোলা হয়?
+A) Work / কাৰ্য
+B) Energy / শক্তি
+C) Power / ক্ষমতা
+D) Pressure / চাপ
+Ans: D
+
+17. Sudden fall in barometer reading indicates:
+
+বেৰোমিটাৰৰ পাৰা হঠাৎ তললৈ নামি যোৱাটোৱে কি সূচায়?
+A) Fair weather / পৰিষ্কাৰ বতৰ
+B) Storm / ধুমুহা
+C) Rain / বৰষুণ
+D) Extreme cold / প্ৰচণ্ড শীত
+Ans: B
+
+18. Unit of Work in CGS system is:
+
+CGS প্ৰণালীত কাৰ্যৰ একক কি?
+A) Joule / জুল
+B) Erg / আৰ্গ
+C) Dyne / ডাইন
+D) Newton / নিউটন
+Ans: B
+
+19. 1 Joule is equal to how many ergs?
+
+১ জুল কিমান আৰ্গৰ (Erg) সমান?
+A) 10⁵ Ergs / ১০৫ আৰ্গ
+B) 10⁷ Ergs / ১০৭ আৰ্গ
+C) 10⁶ Ergs / ১০৬ আৰ্গ
+D) 10⁸ Ergs / ১০৮ আৰ্গ
+Ans: B
+
+20. In an elastic collision, which quantity is conserved?
+
+স্থিতিস্থাপক সংঘৰ্ষত (Elastic collision) কোনটো সংৰক্ষিত হৈ থাকে?
+A) Momentum only / কেৱল ভৰবেগ
+B) Kinetic Energy only / কেৱল গতি শক্তি
+C) Both Momentum and Kinetic Energy / ভৰবেগ আৰু গতি শক্তি দুয়োটা
+D) Neither / এটাও নহয়
+Ans: C
+
+21. Newton's Third Law of Motion states:
+
+নিউটনৰ তৃতীয় গতি সূত্ৰ মতে:
+A) Action equals reaction / প্ৰত্যেক ক্ৰিয়াৰে সমান আৰু বিপৰীত প্ৰতিক্ৰিয়া আছে
+B) Force equals mass times acceleration / বল = ভৰ × ত্বৰণ
+C) Body remains at rest / বস্তু স্থিৰ হৈ থাকে
+D) Momentum is zero / ভৰবেগ শূন্য
+Ans: A
+
+22. Unit of Momentum is:
+
+ভৰবেগৰ (Momentum) SI একক কি?
+A) kg m/s / কিগ্ৰা মি/ছে
+B) kg m/s² / কিগ্ৰা মি/ছে২
+C) N m / নিউটন মিটাৰ
+D) Joule / জুল
+Ans: A
+
+23. Impulse is equal to change in:
+
+ঘাত বল (Impulse) কিহৰ পৰিৱৰ্তনৰ সমান?
+A) Force / বল
+B) Energy / শক্তি
+C) Momentum / ভৰবেগ
+D) Acceleration / ত্বৰণ
+Ans: C
+
+24. Centripetal force acts towards:
+
+কেন্দ্ৰমুখী বল (Centripetal force) ক'লৈ ক্ৰিয়া কৰে?
+A) Away from center / কেন্দ্ৰৰ বিপৰীতে
+B) Towards center / কেন্দ্ৰৰ ফালে
+C) Tangentially / স্পৰ্শকীয়ভাৱে
+D) Downwards / তললৈ
+Ans: B
+
+25. Cream is separated from milk due to which force?
+
+কোনটো বলৰ প্ৰভাৱত গাখীৰৰ পৰা ক্ৰীম পৃথক কৰা হয়?
+A) Centripetal Force / কেন্দ্ৰমুখী বল
+B) Centrifugal Force / কেন্দ্ৰাপসাৰী বল
+C) Gravitational Force / মহাকৰ্ষণ বল
+D) Frictional Force / ঘৰ্ষণ বল
+Ans: B

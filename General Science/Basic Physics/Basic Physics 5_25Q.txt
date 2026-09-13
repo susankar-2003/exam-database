@@ -1,0 +1,224 @@
+1. Which electromagnetic wave has the shortest wavelength?
+
+কোনটো বিদ্যুত-চুম্বকীয় তৰঙ্গৰ তৰঙ্গদৈৰ্ঘ্য আটাইতকৈ চুটি?
+A) Radio waves / ৰেডিঅ’ তৰঙ্গ
+B) Gamma rays / গামা ৰশ্মি
+C) Infrared rays / অৱলোহিত ৰশ্মি
+D) Ultraviolet rays / অতিবেঙুনীয়া ৰশ্মি
+Ans: B
+
+2. Which radiation has the highest penetrating power?
+
+কোনটো বিকিৰণৰ ভেদ ক্ষমতা (Penetrating power) আটাইতকৈ বেছি?
+A) Alpha particles / আলফা কণা
+B) Beta particles / বিটা কণা
+C) Gamma rays / গামা ৰশ্মি
+D) X-rays / এক্স-ৰে'
+Ans: C
+
+3. Speed of light is maximum in:
+
+পোহৰৰ গতিবেগ ক’ত আটাইতকৈ বেছি?
+A) Glass / কাঁচত
+B) Water / পানীত
+C) Vacuum / শূন্যত
+D) Diamond / হীৰাত
+Ans: C
+
+4. Refractive index of diamond is approximately:
+
+হীৰাৰ প্ৰতিসৰাংক প্ৰায় কিমান?
+A) 1.0
+B) 1.33
+C) 1.5
+D) 2.42
+Ans: D
+
+5. Light enters the eye through a thin membrane called:
+
+পোহৰ চকুত কোনটো পাতল আৱৰণৰ মাধ্যমেৰে প্ৰৱেশ কৰে?
+A) Retina / ৰেটিনা
+B) Cornea / কৰ্নিয়া
+C) Pupil / মণি (Pupil)
+D) Iris / আইৰিছ
+Ans: B
+
+6. The part of eye that controls the amount of light entering:
+
+চকুত প্ৰৱেশ কৰা পোহৰৰ পৰিমাণ নিয়ন্ত্ৰণ কৰা অংশটো হ'ল:
+A) Lens / লেঞ্চ
+B) Iris / আইৰিছ
+C) Cornea / কৰ্নিয়া
+D) Retina / ৰেটিনা
+Ans: B
+
+7. Least distance of distinct vision for a normal human eye is:
+
+স্বাভাবিক মানুহৰ চকুৰ বাবে স্পষ্ট দৃষ্টিৰ ন্যূনতম দূৰত্ব কিমান?
+A) 25 m / ২৫ মিটাৰ
+B) 25 cm / ২৫ ছেমি
+C) 25 mm / ২৫ মিমি
+D) Infinite / অসীম
+Ans: B
+
+8. Far point of a normal human eye is:
+
+স্বাভাবিক মানুহৰ চকুৰ বাবে দুৰৱৰ্তী বিন্দু (Far point) ক'ত থাকে?
+A) 25 cm / ২৫ ছেমি
+B) 100 cm / ১০০ ছেমি
+C) Infinity / অসীম
+D) 1 km / ১ কিমি
+Ans: C
+
+9. What is the unit of self-inductance?
+
+স্ব-আবেশৰ (Self-inductance) একক কি?
+A) Weber / ৱেবাৰ
+B) Tesla / টেছলা
+C) Henry / হেনৰী
+D) Farad / ফাৰাড
+Ans: C
+
+10. Unit of capacitance is:
+
+ধাৰকত্বৰ (Capacitance) SI একক কি?
+A) Ohm / ওম
+B) Farad / ফাৰাড
+C) Coulomb / কুলম্ব
+D) Volt / ভোল্ট
+Ans: B
+
+11. Electric energy is converted into mechanical energy by:
+
+বৈদ্যুতিক শক্তিক যান্ত্ৰিক শক্তিলৈ কাৰ দ্বাৰা ৰূপান্তৰ কৰা হয়?
+A) Dynamo / ডায়নামো
+B) Electric Motor / বৈদ্যুতিক মটৰ
+C) Transformer / ট্ৰান্সফৰ্মাৰ
+D) Generator / জেনেৰেটৰ
+Ans: B
+
+12. A transformer is used to change:
+
+ট্ৰান্সফৰ্মাৰ কি পৰিৱৰ্তন কৰিবলৈ ব্যৱহাৰ কৰা হয়?
+A) DC Voltage / ডিচি ভোল্টেজ
+B) AC Voltage / এচি ভোল্টেজ
+C) Mechanical power / যান্ত্ৰিক শক্তি
+D) Current frequency / প্ৰবাহৰ কম্পাংক
+Ans: B
+
+13. Core of a transformer is made of:
+
+ট্ৰান্সফৰ্মাৰৰ ক'ৰ (Core) কিহেৰে তৈয়াৰ কৰা হয়?
+A) Soft Iron / কোমল লো
+B) Steel / ইস্পাত
+C) Copper / তাম
+D) Aluminum / এলুমিনিয়াম
+Ans: A
+
+14. The element with highest electrical conductivity is:
+
+আটাইতকৈ বেছি বৈদ্যুতিক পৰিবাহিতা থকা মৌলটো হ'ল:
+A) Copper / তাম
+B) Silver / ৰূপ
+C) Gold / সোণ
+D) Aluminum / এলুমিনিয়াম
+Ans: B
+
+15. Semiconductor devices are made of:
+
+অৰ্ধপৰিবাহী (Semiconductor) সঁজুলিসমূহ প্ৰধানকৈ কিহেৰে তৈয়াৰী?
+A) Copper and Iron / তাম আৰু লো
+B) Silicon and Germanium / চিলিকন আৰু জাৰ্মেনিয়াম
+C) Silver and Gold / ৰূপ আৰু সোণ
+D) Carbon and Aluminum / কাৰ্বন আৰু এলুমিনিয়াম
+Ans: B
+
+16. Resistance of a semiconductor on heating:
+
+উত্তপ্ত কৰিলে অৰ্ধপৰিবাহীৰ ৰোধৰ কি হয়?
+A) Increases / বৃদ্ধি পায়
+B) Decreases / হ্রাস পায়
+C) Remains constant / অপৰিৱৰ্তিত থাকে
+D) Becomes infinite / অসীম হয়
+Ans: B
+
+17. Resistance of a conductor on heating:
+
+উত্তপ্ত কৰিলে পৰিবাহী পদাৰ্থৰ ৰোধৰ কি হয়?
+A) Increases / বৃদ্ধি পায়
+B) Decreases / হ্রাস পায়
+C) Remains same / একেই থাকে
+D) Drops to zero / শূন্যলৈ হ্রাস পায়
+Ans: A
+
+18. Phenomenon where material loses electrical resistance at low temperature:
+
+নিম্ন উষ্ণতাত পদাৰ্থই বৈদ্যুতিক ৰোধ সম্পূৰ্ণভাৱে হেৰুওৱা পৰিঘটনাটোক কি বোলে?
+A) Photoelectric effect / আলোক-বৈদ্যুতিক ক্ৰিয়া
+B) Superconductivity / অতিপৰিবাহিতা
+C) Thermionic emission / থাৰ্মায়নিক নিৰ্গমন
+D) Induction / আবেশ
+Ans: B
+
+19. Photoelectric effect was explained by:
+
+আলোক-বৈদ্যুতিক ক্ৰিয়া (Photoelectric effect) কোনে ব্যাখ্যা কৰিছিল?
+A) Isaac Newton / ইছাক নিউটন
+B) Albert Einstein / আলবাৰ্ট আইন্সটাইন
+C) J.J. Thomson / জে. জে. থমছন
+D) Niels Bohr / নীলছ বোৰ
+Ans: B
+
+20. Electron was discovered by:
+
+ইলেকট্ৰন কোনে আৱিষ্কাৰ কৰিছিল?
+A) Ernest Rutherford / আৰ্নেষ্ট ৰাডাৰফৰ্ড
+B) J.J. Thomson / জে. জে. থমছন
+C) James Chadwick / জেমেছ চ্যেডৱিক
+D) John Dalton / জন ডালটন
+Ans: B
+
+21. Proton was discovered by:
+
+প্ৰ'টন কোনে আৱিষ্কাৰ কৰিছিল?
+A) James Chadwick / জেমেছ চ্যেডৱিক
+B) Ernest Rutherford / আৰ্নেষ্ট ৰাডাৰফৰ্ড
+C) J.J. Thomson / জে. জে. থমছন
+D) Niels Bohr / নীলছ বোৰ
+Ans: B
+
+22. Neutron was discovered by:
+
+নিউট্ৰন কোনে আৱিষ্কাৰ কৰিছিল?
+A) James Chadwick / জেমেছ চ্যেডৱিক
+B) J.J. Thomson / জে. জে. থমছন
+C) Ernest Rutherford / আৰ্নেষ্ট ৰাডাৰফৰ্ড
+D) Enrico Fermi / এনৰিকো ফেৰ্মী
+Ans: A
+
+23. Nucleus of an atom consists of:
+
+পৰমাণুৰ নিউক্লিয়াছত কি কি থাকে?
+A) Electrons and Protons / ইলেকট্রন আৰু প্ৰ'টন
+B) Protons and Neutrons / প্ৰ'টন আৰু নিউট্ৰন
+C) Electrons and Neutrons / ইলেকট্রন আৰু নিউট্ৰন
+D) Only Neutrons / কেৱল নিউট্ৰন
+Ans: B
+
+24. Charge of a neutron is:
+
+নিউট্ৰনৰ আধান কিমান?
+A) Positive / ধনাত্মক
+B) Negative / ঋণাত্মক
+C) Zero (Neutral) / শূন্য (নিৰপেক্ষ)
+D) Variable / পৰিৱৰ্তনশীল
+Ans: C
+
+25. Mass of an electron is approximately:
+
+এটা ইলেকট্রনৰ ভৰ প্ৰায় কিমান?
+A) 9.1 x 10⁻³¹ kg / ৯.১ × ১০⁻³১ কিগ্ৰা
+B) 1.67 x 10⁻²⁷ kg / ১.৬৭ × ১০⁻২৭ কিগ্ৰা
+C) 1.6 x 10⁻¹⁹ kg / ১.৬ × ১০⁻১৯ কিগ্ৰা
+D) Zero / শূন্য
+Ans: A

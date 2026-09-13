@@ -1,0 +1,224 @@
+1. Kepler's First Law states that planets revolve around Sun in:
+
+কেপলাৰৰ প্ৰথম গতি সূত্ৰ মতে গ্ৰহবোৰে সূৰ্যৰ চাৰিওফালে কি কক্ষপথত ঘূৰে?
+A) Circular orbit / বৃত্তাকাৰ কক্ষপথ
+B) Elliptical orbit / উপবৃত্তাকাৰ কক্ষপথ
+C) Parabolic orbit / পৰাবৃত্তাকাৰ কক্ষপথ
+D) Straight line / সৰল ৰৈখিক কক্ষপথ
+Ans: B
+
+2. Tides in the ocean are mainly caused by gravitational attraction of:
+
+মহাৰ্ণৱৰ জোৱাৰ-ভাটা মূলতঃ কাৰ মহাকৰ্ষণ আকৰ্ষণৰ বাবে হয়?
+A) Sun / সূৰ্য
+B) Moon / চন্দ্ৰ
+C) Mars / মঙ্গল গ্ৰহ
+D) Venus / শুক্ৰ গ্ৰহ
+Ans: B
+
+3. A body is in equilibrium when net force acting on it is:
+
+বস্তু এটা সাম্যৱস্থাত থকা বুলি কোৱা হয় যেতিয়া তাৰ ওপৰত ক্ৰিয়া কৰা মুঠ বল:
+A) Positive / ধনাত্মক হয়
+B) Negative / ঋণাত্মক হয়
+C) Zero / শূন্য হয়
+D) Infinite / অসীম হয়
+Ans: C
+
+4. Gravitational constant G was experimentally determined by:
+
+মহাকৰ্ষণিক ধ্ৰুৱক G ৰ মান পৰীক্ষামূলকভাৱে কোনে নিৰ্ধাৰণ কৰিছিল?
+A) Isaac Newton / ইছাক নিউটন
+B) Henry Cavendish / হেনৰী কেভেণ্ডিছ
+C) Galileo Galilei / গ্যালিলিও গ্যালিলাই
+D) Johannes Kepler / যোহানছ কেপলাৰ
+Ans: B
+
+5. Value of Universal Gravitational Constant G is:
+
+বিশ্বজনীন মহাকৰ্ষণিক ধ্ৰুৱক G ৰ মান কিমান?
+A) 6.67 x 10⁻¹¹ N m²/kg² / ৬.৬৭ × ১০⁻১১ নিউটন মি২/কিগ্ৰা২
+B) 9.8 m/s² / ৯.৮ মি/ছে২
+C) 6.67 x 10¹¹ N m²/kg² / ৬.৬৭ × ১০১১ নিউটন মি২/কিগ্ৰা২
+D) 1.6 x 10⁻¹⁹ C / ১.৬ × ১০⁻১৯ কুলম্ব
+Ans: A
+
+6. Center of gravity of a uniform sphere lies at its:
+
+এটা সুষম গোলকৰ ভৰকেন্দ্ৰ বা গুৰুত্বকেন্দ্ৰ ক'ত থাকে?
+A) Surface / পৃষ্ঠত
+B) Geometric center / জ্যামিতিক কেন্দ্ৰত
+C) Bottom / তলফালে
+D) Top / ওপৰফালে
+Ans: B
+
+7. Work done in moving a body along a closed circular path in gravitational field is:
+
+মহাকৰ্ষণিক ক্ষেত্ৰত আবদ্ধ বৃত্তাকাৰ পথত বস্তু এটা ঘূৰাই আনিলে কৰা কাৰ্যৰ মান:
+A) Positive / ধনাত্মক
+B) Negative / ঋণাত্মক
+C) Zero / শূন্য
+D) Maximum / সৰ্বাধিক
+Ans: C
+
+8. Bending of a cyclist around a curve provides necessary:
+
+বাঁক লোৱাৰ সময়ত চাইকেল চালক এজনে হালি পৰাৰ কাৰণে কি বল প্ৰদান হয়?
+A) Centrifugal force / কেন্দ্ৰাপসাৰী বল
+B) Centripetal force / কেন্দ্ৰমুখী বল
+C) Gravitational force / মহাকৰ্ষণ বল
+D) Frictional force / ঘৰ্ষণ বল
+Ans: B
+
+9. Lubricants are used in machines to:
+
+যন্ত্ৰ-পাতিসমূহ মসৃণ কৰিবলৈ তেল বা গ্ৰীছ (Lubricants) ব্যৱহাৰ কৰাৰ কাৰণ:
+A) Increase friction / ঘৰ্ষণ বৃদ্ধি কৰা
+B) Reduce friction / ঘৰ্ষণ হ্ৰাস কৰা
+C) Increase speed / গতি বৃদ্ধি কৰা
+D) Generate heat / তাপ উৎপন্ন কৰা
+Ans: B
+
+10. Ball bearings are used to convert sliding friction into:
+
+বল বেয়াৰিংবোৰ পিছল ঘৰ্ষণক (Sliding friction) কিহলৈ পৰিৱৰ্তন কৰিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Rolling friction / ঘূৰ্ণন ঘৰ্ষণ (Rolling friction)
+B) Fluid friction / তৰল ঘৰ্ষণ
+C) Static friction / স্থিৰ ঘৰ্ষণ
+D) Viscous force / সান্দ্ৰ বল
+Ans: A
+
+11. Frictional force acts in which direction relative to motion?
+
+ঘৰ্ষণ বল গতিৰ দিশৰ তুলনাত কোন দিশত ক্ৰিয়া কৰে?
+A) Same direction / একে দিশত
+B) Opposite direction / বিপৰীত দিশত
+C) Perpendicular direction / লম্ব দিশত
+D) Any direction / যিকোনো দিশত
+Ans: B
+
+12. Liquid drops combine to form a single bigger drop to reduce:
+
+তৰলৰ টোপালবোৰ একত্ৰিত হৈ এখন ডাঙৰ টোপাল গঠন কৰে যাতে:
+A) Surface area / পৃষ্ঠকালি হ্ৰাস পায়
+B) Volume / আয়তন হ্ৰাস পায়
+C) Mass / ভৰ হ্ৰাস পায়
+D) Density / ঘনত্ব হ্ৰাস পায়
+Ans: A
+
+13. Rise of oil in the wick of a lamp is due to:
+
+চাকিৰ সলিতাৰে তেল ওপৰলৈ উঠি যোৱাৰ কাৰণ কি?
+A) Viscosity / সান্দ্ৰতা
+B) Capillarity / কৈশিকতা
+C) Gravitational force / মহাকৰ্ষণ বল
+D) Evaporation / বাষ্পীভৱন
+Ans: B
+
+14. Ink is absorbed by blotting paper due to:
+
+ব্লটিং পেপাৰে চিয়াঁহী শোষণ কৰাৰ কাৰণ:
+A) Viscosity / সান্দ্ৰতা
+B) Capillary action / কৈশিক ক্ৰিয়া
+C) Diffusion / ব্যাপন
+D) Osmosis / পৰাসৰণ
+Ans: B
+
+15. Resistance offered by a fluid to its flow is called:
+
+তৰলে গতি কৰোঁতে লাভ কৰা ৰোধ বা বাধাৰ ধৰ্মক কি বোলা হয়?
+A) Surface Tension / পৃষ্ঠটান
+B) Viscosity / সান্দ্ৰতা
+C) Elasticity / স্থিতিস্থাপকতা
+D) Buoyancy / প্লৱতা
+Ans: B
+
+16. SI unit of viscosity coefficient is:
+
+সান্দ্ৰতা গুণাংকৰ (Viscosity) SI একক কি?
+A) Pascal / পাস্কেল
+B) Poiseuille / পয়েজুয়েল
+C) Poise / পয়েজ
+D) Joule / জুল
+Ans: B
+
+17. Bernoulli's theorem is based on conservation of:
+
+বাৰ্নোলিৰ সূত্ৰ কোনটো সংৰক্ষণ নীতিৰ ওপৰত প্ৰতিষ্ঠিত?
+A) Mass / ভৰ
+B) Momentum / ভৰবেগ
+C) Energy / শক্তি
+D) Charge / আধান
+Ans: C
+
+18. Velocity of a fluid flowing through a pipe increases when cross-sectional area:
+
+পাইপ এটাৰ মাজেৰে বৈ যোৱা তৰলৰ বেগ বৃদ্ধি পায় যেতিয়া তাৰ প্ৰস্থচ্ছেদৰ কালি:
+A) Increases / বৃদ্ধি পায়
+B) Decreases / হ্ৰাস পায়
+C) Remains same / একেই থাকে
+D) Doubled / দুগুণ হয়
+Ans: B
+
+19. Action of a carburetor in an engine works on:
+
+ইঞ্জিনৰ কাৰ্বুৰেটৰে কোনটো নীতিৰ ওপৰত কাম কৰে?
+A) Pascal's Law / পাস্কেলৰ সূত্ৰ
+B) Archimedes' Principle / আৰ্কিমিডিছৰ নীতি
+C) Bernoulli's Principle / বাৰ্নোলিৰ নীতি
+D) Newton's Law / নিউটনৰ সূত্ৰ
+Ans: C
+
+20. Unit of pitch or frequency of sound perception:
+
+শব্দৰ তীক্ষ্ণতা কি পৰিমাপৰ সৈতে পোনপটীয়াকৈ সম্পৰ্কিত?
+A) Amplitude / বিস্তাৰ
+B) Frequency / কম্পাংক
+C) Speed / বেগ
+D) Loudness / তীব্ৰতা
+Ans: B
+
+21. Loudness of sound depends on its:
+
+শব্দৰ উচ্চতা বা প্ৰাবল্য (Loudness) কিহৰ ওপৰত নিৰ্ভৰ কৰে?
+A) Frequency / কম্পাংক
+B) Amplitude / বিস্তাৰ
+C) Velocity / বেগ
+D) Wavelength / তৰঙ্গদৈৰ্ঘ্য
+Ans: B
+
+22. Sound wave cannot show the phenomenon of:
+
+শব্দ তৰঙ্গে তলৰ কোনটো পৰিঘটনা দেখুৱাব নোৱাৰে?
+A) Reflection / প্ৰতিফলন
+B) Refraction / প্ৰতিসৰণ
+C) Diffraction / অপৱৰ্তন
+D) Polarization / সমৱৰ্তন (Polarization)
+Ans: D
+
+23. Light waves can be polarized because they are:
+
+পোহৰ তৰঙ্গৰ সমৱৰ্তন হ'ব পাৰে কাৰণ এইবোৰ:
+A) Longitudinal waves / অনুদৈৰ্ঘ্য তৰঙ্গ
+B) Transverse waves / অনুপ্রস্থ তৰঙ্গ
+C) Mechanical waves / যান্ত্ৰিক তৰঙ্গ
+D) Stationary waves / স্থাণু তৰঙ্গ
+Ans: B
+
+24. Velocity of sound in air increases with:
+
+বায়ুত শব্দৰ বেগ কি বৃদ্ধি পালে বৃদ্ধি পায়?
+A) Temperature increase / উষ্ণতা বৃদ্ধি
+B) Humidity increase / আৰ্দ্ৰতা বৃদ্ধি
+C) Both A and B / A আৰু B দুয়োটা
+D) Pressure increase / চাপ বৃদ্ধি
+Ans: C
+
+25. Echo is produced due to which property of sound?
+
+শব্দৰ কোনটো ধৰ্মৰ বাবে প্ৰতিধ্বনি (Echo) সৃষ্টি হয়?
+A) Refraction / প্ৰতিসৰণ
+B) Reflection / প্ৰতিফলন
+C) Dispersion / বিচ্ছুৰণ
+D) Absorption / শোষণ
+Ans: B

@@ -1,0 +1,224 @@
+1. Mirage is formed due to which phenomenon?
+
+মৰীচিকা কোনটো পৰিঘটনাৰ বাবে সৃষ্টি হয়?
+A) Refraction / প্ৰতিসৰণ
+B) Total Internal Reflection / পূৰ্ণ অভ্যন্তৰীণ প্ৰতিফলন
+C) Reflection / প্ৰতিফলন
+D) Scattering / প্ৰকীৰ্ণন
+Ans: B
+
+2. What type of lens is used to correct Myopia (short-sightedness)?
+
+মাইঅ'পিয়া (হ্ৰস্বদৃষ্টি) শুধৰাবলৈ কোনটো লেঞ্চ ব্যৱহাৰ কৰা হয়?
+A) Convex lens / উত্তল লেঞ্চ
+B) Concave lens / অবতল লেঞ্চ
+C) Cylindrical lens / বেলনাকৃতি লেঞ্চ
+D) Bifocal lens / বাইফ'কেল লেঞ্চ
+Ans: B
+
+3. Hypermetropia is corrected using which type of lens?
+
+হাইপাৰমেট্ৰ'পিয়া (দীৰ্ঘদৃষ্টি) শুধৰাবলৈ কোনটো লেঞ্চ ব্যৱহাৰ কৰা হয়?
+A) Concave lens / অবতল লেঞ্চ
+B) Convex lens / উত্তল লেঞ্চ
+C) Bifocal lens / বাইফ'কেল লেঞ্চ
+D) Plane lens / সমতল লেঞ্চ
+Ans: B
+
+4. What is the speed of light in vacuum?
+
+শূন্য মাধ্যমত পোহৰৰ বেগ কিমান?
+A) 3 x 10⁸ m/s / ৩ × ১০৮ মি/ছে
+B) 3 x 10⁶ m/s / ৩ × ১০৬ মি/ছে
+C) 3 x 10⁵ km/s / ৩ × ১০৫ কিমি/ছে
+D) Both A and C / A আৰু C দুয়োটা
+Ans: D
+
+5. Sky appears blue due to which optical phenomenon?
+
+কোনটো পোহৰৰ পৰিঘটনাৰ বাবে আকাশখন নীলা দেখা যায়?
+A) Dispersion / বিচ্ছুৰণ
+B) Interference / ব্যতিচাৰ
+C) Scattering of light / পোহৰৰ প্ৰকীৰ্ণন
+D) Refraction / প্ৰতিসৰণ
+Ans: C
+
+6. Absolute zero temperature is equal to:
+
+পৰম শূন্য উষ্ণতা কিমান ডিগ্ৰীৰ সমান?
+A) 0°C / ০° ছেলছিয়াছ
+B) -273.15°C / -২৭৩.১৫° ছেলছিয়াছ
+C) -100°C / - ১০০° ছেলছিয়াছ
+D) 273.15 K / ২৭৩.১৫ কেলভিন
+Ans: B
+
+7. Heat travels from Sun to Earth mainly by which mode?
+
+সূৰ্যৰ পৰা পৃথিৱীলৈ তাপ মূলতঃ কোনটো পদ্ধতিৰে আহে?
+A) Conduction / পৰিবহন
+B) Convection / পৰিচলন
+C) Radiation / বিকিৰণ
+D) Sublimation / উৰ্ধপাতন
+Ans: C
+
+8. Which instrument is used to measure temperature?
+
+উষ্ণতা জোখিবলৈ কোনটো যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Barometer / বেৰোমিটাৰ
+B) Thermometer / থাৰ্মোমিটাৰ
+C) Calorimeter / কেলৰিমিটাৰ
+D) Hygrometer / হাইগ্ৰ'মিটাৰ
+Ans: B
+
+9. Good conductors of heat generally have:
+
+তাপৰ সুপৰিবাহী পদাৰ্থসমূহৰ সাধাৰণতে কি থাকে?
+A) Low thermal conductivity / কম তাপীয় পৰিবাহিতা
+B) High thermal conductivity / উচ্চ তাপীয় পৰিবাহিতা
+C) Zero conductivity / শূন্য পৰিবাহিতা
+D) Free ions only / কেৱল মুক্ত আয়ন
+Ans: B
+
+10. The SI unit of electric current is:
+
+বৈদ্যুতিক প্ৰবাহৰ SI একক কি?
+A) Volt / ভোল্ট
+B) Ohm / ওম
+C) Ampere / এম্পিয়াৰ
+D) Coulomb / কুলম্ব
+Ans: C
+
+11. Ohm's Law gives the relation between voltage and:
+
+ওমৰ সূত্ৰই ভোল্টেজ আৰু কিহৰ মাজৰ সম্পৰ্ক প্ৰকাশ কৰে?
+A) Resistance / প্ৰতিৰোধ
+B) Electric Current / বৈদ্যুতিক প্ৰবাহ
+C) Power / ক্ষমতা
+D) Charge / আধান
+Ans: B
+
+12. What is the SI unit of electric resistance?
+
+বৈদ্যুতিক ৰোধৰ (Resistance) SI একক কি?
+A) Ampere / এম্পিয়াৰ
+B) Ohm / ওম
+C) Farad / ফাৰাড
+D) Tesla / টেছলা
+Ans: B
+
+13. Device used to measure electric current in a circuit is:
+
+বর্তনী এটাত বৈদ্যুতিক প্ৰবাহ জুখিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰটো হ'ল:
+A) Voltmeter / ভোল্টমিটাৰ
+B) Ammeter / এমিটাৰ
+C) Galvanometer / গেলভান'মিটাৰ
+D) Ohmmeter / ওমমিটাৰ
+Ans: B
+
+14. Electric bulb filament is made of which metal?
+
+বৈদ্যুতিক বাল্বৰ ফিলামেন্ট কোনটো ধাতুৰে তৈয়াৰী?
+A) Copper / তাম
+B) Iron / লো
+C) Tungsten / টাংষ্টেন
+D) Aluminum / এলুমিনিয়াম
+Ans: C
+
+15. Fuse wire is made of an alloy having:
+
+ফিউজ তাঁৰ কি ধৰণৰ সংমিশ্ৰণেৰে তৈয়াৰ কৰা হয়?
+A) High melting point / উচ্চ গলাংক
+B) Low melting point / নিম্ন গলাংক
+C) High resistance only / কেৱল উচ্চ ৰোধ
+D) Zero resistance / শূন্য ৰোধ
+Ans: B
+
+16. Transformer works on the principle of:
+
+ট্ৰান্সফৰ্মাৰে কোনটো নীতিৰ ওপৰত কাম কৰে?
+A) Self induction / স্ব-আবেশ
+B) Mutual induction / পাৰস্পৰিক আবেশ
+C) Direct current / প্ৰত্যক্ষ প্ৰবাহ
+D) Heating effect / তাপীয় প্ৰভাৱ
+Ans: B
+
+17. Direct Current (DC) is supplied by:
+
+প্ৰত্যক্ষ প্ৰবাহ (DC) কাৰ পৰা পোৱা যায়?
+A) Transformer / ট্ৰান্সফৰ্মাৰ
+B) Battery / বেটাৰী
+C) AC Generator / এচি জেনেৰেটৰ
+D) Inductor / ইনডাক্টৰ
+Ans: B
+
+18. Unit of magnetic flux density is:
+
+চুম্বকীয় ফ্লাক্স ঘনত্বৰ একক কি?
+A) Weber / ৱেবাৰ
+B) Tesla / টেছলা
+C) Henry / হেনৰী
+D) Gauss / গাওছ
+Ans: B
+
+19. Light year is a unit of:
+
+পোহৰ বৰ্ষ (Light year) কিহৰ একক?
+A) Time / সময়
+B) Distance / দূৰত্ব
+C) Speed of light / পোহৰৰ বেগ
+D) Intensity of light / পোহৰৰ তীব্ৰতা
+Ans: B
+
+20. What is the SI unit of frequency?
+
+কম্পাংকৰ SI একক কি?
+A) Decibel / ডেচিবেল
+B) Hertz / হাৰ্টজ
+C) Meter / মিটাৰ
+D) Second / ছেকেণ্ড
+Ans: B
+
+21. Which wave is used in radar systems?
+
+ৰাডাৰ ছিষ্টেমত কোনটো তৰঙ্গ ব্যৱহাৰ কৰা হয়?
+A) Ultraviolet waves / অতিবেঙুনীয়া তৰঙ্গ
+B) Microwaves / মাইক্ৰ’ৱেভ
+C) Sound waves / শব্দ তৰঙ্গ
+D) Infrared waves / অৱলোহিত তৰঙ্গ
+Ans: B
+
+22. X-rays were discovered by:
+
+এক্স-ৰে' কোনে আৱিষ্কাৰ কৰিছিল?
+A) J J Thomson / জে. জে. থমছন
+B) W C Roentgen / ডব্লিউ. চি. ৰোentgen
+C) Ernest Rutherford / আৰ্নেষ্ট ৰাডাৰফৰ্ড
+D) Marie Curie / মেৰী কুৰী
+Ans: B
+
+23. Phenomenon of radioactivity was discovered by:
+
+তেজস্ক্রিয়তা পৰিঘটনাটো কোনে আৱিষ্কাৰ কৰিছিল?
+A) Henri Becquerel / হেনৰী বেকাৰেল
+B) Madam Curie / ম্যাডাম কুৰী
+C) Albert Einstein / আলবাৰ্ট আইন্সটাইন
+D) Niels Bohr / নীলছ বোৰ
+Ans: A
+
+24. Atomic bomb works on the principle of:
+
+পাৰমাণৱিক বোমা কোনটো নীতিৰ ওপৰত ভিত্তি কৰি তৈয়াৰ কৰা হয়?
+A) Nuclear Fusion / নিউক্লীয় সংযোজন
+B) Nuclear Fission / নিউক্লীয় বিভাজন
+C) Chemical Reaction / ৰাসায়নিক বিক্ৰিয়া
+D) Thermionic Emission / থাৰ্মায়নিক নিৰ্গমন
+Ans: B
+
+25. Hydrogen bomb is based on the principle of:
+
+হাইড্ৰ'জেন বোমা কোনটো নীতিৰ ওপৰত প্ৰতিষ্ঠিত?
+A) Uncontrolled Nuclear Fission / অনিয়ন্ত্ৰিত নিউক্লীয় বিভাজন
+B) Uncontrolled Nuclear Fusion / অনিয়ন্ত্ৰিত নিউক্লীয় সংযোজন
+C) Controlled Nuclear Fission / নিয়ন্ত্ৰিত নিউক্লীয় বিভাজন
+D) Natural Radioactivity / প্ৰাকৃতিক তেজস্ক্রিয়তা
+Ans: B

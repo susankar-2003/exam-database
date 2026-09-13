@@ -1,0 +1,224 @@
+1. Minimum distance required between source and reflector to hear an echo:
+
+প্ৰতিধ্বনি শুনিবলৈ উৎস আৰু প্ৰতিফলকৰ মাজত নূন্যতম দূৰত্ব কিমান হ'ব লাগে?
+A) 17.2 meters / ১৭.২ মিটাৰ
+B) 10 meters / ১০ মিটাৰ
+C) 25 meters / ২৫ মিটাৰ
+D) 34 meters / ৩৪ মিটাৰ
+Ans: A
+
+2. SONAR works on the principle of:
+
+ছোনাৰ (SONAR) কি নীতিৰ ওপৰত ভিত্তি কৰি কাম কৰে?
+A) Echo of sound / শব্দৰ প্ৰতিধ্বনি
+B) Refraction of sound / শব্দৰ প্ৰতিসৰণ
+C) Resonance / অনুৰণন
+D) Electromagnetic radiation / বিদ্যুত-চুম্বকীয় বিকিৰণ
+Ans: A
+
+3. Full form of SONAR is:
+
+SONAR ৰ সম্পূৰ্ণ ৰূপটো কি?
+A) Sound Navigation and Ranging
+B) Solar Navigation and Ranging
+C) Sound Network and Resonance
+D) Sound Natural and Radio
+Ans: A
+
+4. Full form of RADAR is:
+
+RADAR ৰ সম্পূৰ্ণ ৰূপটো কি?
+A) Radio Detection and Ranging
+B) Radio Distance and Ranging
+C) Radiation Detection and Ranging
+D) Radio Device and Radar
+Ans: A
+
+5. Device used to convert sound energy into electrical signal:
+
+শব্দ শক্তিক বৈদ্যুতিক সংকেটলৈ ৰূপান্তৰ কৰা যন্ত্ৰটো হ'ল:
+A) Loudspeaker / লাউডস্পীকাৰ
+B) Microphone / মাাইক্ৰ'ফোন
+C) Amplifier / এম্প্লিফায়াৰ
+D) Rectifier / ৰেক্টিফায়াৰ
+Ans: B
+
+6. Device used to convert electrical signal into sound energy:
+
+বৈদ্যুতিক সংকেটক শব্দ শক্তিলৈ ৰূপান্তৰ কৰা যন্ত্ৰটো হ'ল:
+A) Microphone / মাাইক্ৰ'ফোন
+B) Loudspeaker / লাউডস্পীকাৰ
+C) Dynamo / ডায়নামো
+D) Transducer / ট্রান্সডিউচাৰ
+Ans: B
+
+7. Speed of sound is independent of:
+
+শব্দৰ বেগ কিহৰ ওপৰত নিৰ্ভৰ নকৰে?
+A) Temperature / উষ্ণতা
+B) Pressure / চাপ
+C) Medium / মাধ্যম
+D) Humidity / আৰ্দ্ৰতা
+Ans: B
+
+8. Total internal reflection occurs when light travels from:
+
+পূৰ্ণ অভ্যন্তৰীণ প্ৰতিফলন ঘটে যেতিয়া পোহৰ গতি কৰে:
+A) Rarer medium to denser medium / লঘু মাধ্যমৰ পৰা ঘন মাধ্যমলৈ
+B) Denser medium to rarer medium / ঘন মাধ্যমৰ পৰা লঘু মাধ্যমলৈ
+C) One medium to same medium / একে মাধ্যমত
+D) Air to water / বায়ুলৈ পানীত
+Ans: B
+
+9. Critical angle is angle of incidence for which angle of refraction is:
+
+সংকট কোণ হ'ল সেই আপাতন কোণ যাৰ বাবে প্ৰতিসৰণ কোণৰ মান:
+A) 0°
+B) 45°
+C) 90°
+D) 180°
+Ans: C
+
+10. Rainbow is formed due to combination of:
+
+ৰামধেনু কিহৰ যৌথ প্ৰভাৱৰ বাবে গঠন হয়?
+A) Refraction and Reflection / প্ৰতিসৰণ আৰু প্ৰতিফলন
+B) Dispersion and Total Internal Reflection / বিচ্ছুৰণ আৰু পূৰ্ণ অভ্যন্তৰীণ প্ৰতিফলন
+C) Refraction, Dispersion, and Total Internal Reflection / প্ৰতিসৰণ, বিচ্ছুৰণ আৰু পূৰ্ণ অভ্যন্তৰীণ প্ৰতিফলন
+D) Reflection and Scattering / প্ৰতিফলন আৰু প্ৰকীৰ্ণন
+Ans: C
+
+11. Image formed by a convex mirror is always:
+
+উত্তল দাপোণে গঠন কৰা প্ৰতিবিম্ব সদায়:
+A) Real and inverted / সৎ আৰু ওলোটা
+B) Virtual, erect, and diminished / অসৎ, থিয় আৰু সৰু (হ্ৰাসপ্ৰাপ্ত)
+C) Virtual and enlarged / অসৎ আৰু ডাঙৰ
+D) Real and enlarged / সৎ আৰু ডাঙৰ
+Ans: B
+
+12. Image formed by a concave lens is always:
+
+অবতল লেঞ্চে গঠন কৰা প্ৰতিবিম্ব সদায়:
+A) Virtual, erect, and diminished / অসৎ, থিয় আৰু সৰু
+B) Real and inverted / সৎ আৰু ওলোটা
+C) Real and magnified / সৎ আৰু ডাঙৰ
+D) Virtual and magnified / অসৎ আৰু ডাঙৰ
+Ans: A
+
+13. Unit of Power of lens is Diopter, which is equal to:
+
+লেঞ্চৰ ক্ষমতাৰ একক ডায়প্টাৰ, যিটো কিহৰ সমান?
+A) 1 meter / ১ মিটাৰ
+B) 1 m⁻¹ (per meter) / ১ মি⁻১ (প্ৰতি মিটাৰ)
+C) 1 cm / ১ ছেমি
+D) 1 mm⁻¹ / ১ মিমি⁻১
+Ans: B
+
+14. Power of a convex lens is:
+
+উত্তল লেঞ্চৰ ক্ষমতা সদায়:
+A) Positive / ধনাত্মক
+B) Negative / ঋণাত্মক
+C) Zero / শূন্য
+D) Variable / পৰিৱৰ্তনশীল
+Ans: A
+
+15. Power of a concave lens is:
+
+অবতল লেঞ্চৰ ক্ষমতা সদায়:
+A) Positive / ধনাত্মক
+B) Negative / ঋণাত্মক
+C) Zero / শূন্য
+D) Infinity / অসীম
+Ans: B
+
+16. Magnetic field inside a current-carrying long straight solenoid is:
+
+বিদ্যুৎ প্ৰবাহী সোজা চলিন'ইড এটাৰ ভিতৰত চুম্বকীয় ক্ষেত্ৰ:
+A) Zero / শূন্য
+B) Uniform / সুষম
+C) Non-uniform / বিষম
+D) Decreases towards center / কেন্দ্ৰৰ ফালে হ্ৰাস পায়
+Ans: B
+
+17. Instrument used to measure small electrical potential difference:
+
+ক্ষুদ্র বৈদুতিক বিভৱভেদ জোখিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰ:
+A) Voltmeter / ভোল্টমিটাৰ
+B) Potentiometer / পটেনচিঅ'মিটাৰ
+C) Ammeter / এমিটাৰ
+D) Galvanometer / গেলভান'মিটাৰ
+Ans: B
+
+18. Work done in moving a unit positive charge from one point to another:
+
+একক ধনাত্মক আধান এটা এঠাইৰ পৰা আন এঠাইলৈ স্থানান্তৰ কৰোঁতে কৰা কাৰ্যক কি বোলে?
+A) Electric Current / বৈদ্যুতিক প্ৰবাহ
+B) Potential Difference / বিভৱভেদ
+C) Resistance / ৰোধ
+D) Electric Power / বৈদ্যুতিক ক্ষমতা
+Ans: B
+
+19. kWh (Kilowatt hour) is unit of:
+
+kWh (কিলোওয়াট ঘণ্টা) কিহৰ একক?
+A) Electric Power / বৈদ্যুতিক ক্ষমতা
+B) Electric Energy / বৈদ্যুতিক শক্তি
+C) Electric Current / বৈদ্যুতিক প্ৰবাহ
+D) Charge / আধান
+Ans: B
+
+20. Direction of induced current is determined by:
+
+আৱিষ্ট প্ৰবাহৰ দিশ কোনটো সূত্ৰৰ দ্বাৰা নিৰ্ধাৰণ কৰা হয়?
+A) Fleming's Left Hand Rule / ফ্লেমিংৰ বাওঁহাতৰ সূত্ৰ
+B) Fleming's Right Hand Rule / ফ্লেমিংৰ সোঁহাতৰ সূত্ৰ
+C) Ampere's Rule / এম্পিয়াৰৰ সূত্ৰ
+D) Ohm's Law / ওমৰ সূত্ৰ
+Ans: B
+
+21. Force on a current carrying conductor in a magnetic field is given by:
+
+চুম্বকীয় ক্ষেত্ৰত বিদ্যুৎ প্ৰবাহী পৰিবাহীৰ ওপৰত ক্ৰিয়া কৰা বলৰ দিশ কাৰ নিয়মৰ দ্বাৰা পোৱা যায়?
+A) Fleming's Left Hand Rule / ফ্লেমিংৰ বাওঁহাতৰ সূত্ৰ
+B) Fleming's Right Hand Rule / ফ্লেমিংৰ সোঁহাতৰ সূত্ৰ
+C) Lenz's Law / লেনজৰ সূত্ৰ
+D) Faraday's Law / ফাৰাডেৰ সূত্ৰ
+Ans: A
+
+22. Direction of induced emf opposes the cause producing it is stated by:
+
+আৱিষ্ট বিদ্যুৎ চালক বলৰ দিশে ইয়াক সৃষ্টি কৰা কাৰণটোকে বাধা দিয়ে - এইটো কাৰ সূত্ৰ?
+A) Faraday's Law / ফাৰাডেৰ সূত্ৰ
+B) Lenz's Law / লেনজৰ সূত্ৰ
+C) Ampere's Law / এম্পিয়াৰৰ সূত্ৰ
+D) Maxwell's Law / মেক্সৱেলৰ সূত্ৰ
+Ans: B
+
+23. Device used to increase or decrease AC voltage:
+
+এচি ভোল্টেজ বৃদ্ধি বা হ্ৰাস কৰিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰটো হ'ল:
+A) Generator / জেনেৰেটৰ
+B) Transformer / ট্ৰান্সফৰ্মাৰ
+C) Rectifier / ৰেক্টিফায়াৰ
+D) Inverter / ইনভাৰ্টাৰ
+Ans: B
+
+24. Step-up transformer increases:
+
+ষ্টেপ-আপ ট্ৰান্সফৰ্মাৰে কি বৃদ্ধি কৰে?
+A) Current / প্ৰবাহ
+B) Voltage / ভোল্টেজ
+C) Power / ক্ষমতা
+D) Frequency / কম্পাংক
+Ans: B
+
+25. Frequency of Alternating Current (AC) supplied in India is:
+
+ভাৰতত যোগান ধৰা পৰিৱৰ্তী প্ৰবাহৰ (AC) কম্পাংক কিমান?
+A) 50 Hz / ৫০ হাৰ্টজ
+B) 60 Hz / ৬০ হাৰ্টজ
+C) 100 Hz / ১০০ হাৰ্টজ
+D) 220 Hz / ২২০ হাৰ্টজ
+Ans: A

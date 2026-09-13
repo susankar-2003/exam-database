@@ -1,0 +1,224 @@
+1. Submarines work on the principle of:
+
+জাবজাহাজ (Submarine) কোনটো নীতিৰ ওপৰত কাম কৰে?
+A) Newton's Law / নিউটনৰ সূত্ৰ
+B) Archimedes' Principle / আৰ্কিমিডিছৰ নীতি
+C) Pascal's Law / পাস্কেলৰ সূত্ৰ
+D) Boyles Law / বয়েলৰ সূত্ৰ
+Ans: B
+
+2. In a vacuum, all freely falling objects have the same:
+
+শূন্য মাধ্যমত মুক্তভাৱে সৰি পৰা সকলো বস্তুৰ কি একে থাকে?
+A) Speed / গতি
+B) Velocity / বেগ
+C) Acceleration / ত্বৰণ
+D) Force / বল
+Ans: C
+
+3. Which instrument is used to measure humidity?
+
+আৰ্দ্ৰতা জোখিবলৈ কোনটো যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Hydrometer / হাইড্ৰ'মিটাৰ
+B) Hygrometer / হাইগ্ৰ'মিটাৰ
+C) Lactometer / লেক্টোমিটাৰ
+D) Barometer / বেৰোমিটাৰ
+Ans: B
+
+4. The purity of milk is measured by:
+
+গাখীৰৰ বিশুদ্ধতা কিহৰ সহায়ত জোখা হয়?
+A) Barometer / বেৰোমিটাৰ
+B) Lactometer / লেক্টোমিটাৰ
+C) Thermometer / থাৰ্মোমিটাৰ
+D) Speedometer / স্পীডোমিটাৰ
+Ans: B
+
+5. Hydraulic brakes in automobiles work on:
+
+মটৰ গাড়ীৰ হাইড্ৰ'লিক ব্ৰেক কি নীতিৰ ওপৰত ভিত্তি কৰি কাম কৰে?
+A) Pascal's Law / পাস্কেলৰ সূত্ৰ
+B) Archimedes' Principle / আৰ্কিমিডিছৰ নীতি
+C) Bernoulli's Principle / বাৰ্নোলিৰ নীতি
+D) Newton's Law / নিউটনৰ সূত্ৰ
+Ans: A
+
+6. Energy stored in a stretched rubber band is:
+
+টানি ৰখা ৰবাৰ বেণ্ড এটাত সঞ্চিত হৈ থকা শক্তি হ'ল:
+A) Kinetic Energy / গতি শক্তি
+B) Potential Energy / স্থিতি শক্তি
+C) Thermal Energy / তাপ শক্তি
+D) Chemical Energy / ৰাসায়নিক শক্তি
+Ans: B
+
+7. Commercial unit of electrical energy is:
+
+বৈদ্যুতিক শক্তিৰ ব্যৱসায়িক একক কি?
+A) Joule / জুল
+B) Watt-hour / ওয়াট-ঘণ্টা
+C) Kilowatt-hour (kWh) / কিলোওয়াট-ঘণ্টা
+D) Volt / ভোল্ট
+Ans: C
+
+8. One Kilowatt-hour is equal to:
+
+এক কিলোওয়াট-ঘণ্টা কিমান জুলৰ সমান?
+A) 3.6 x 10⁶ Joules / ৩.৬ × ১০৬ জুল
+B) 3.6 x 10⁵ Joules / ৩.৬ × ১০৫ জুল
+C) 1000 Joules / ১০০০০ জুল
+D) 746 Joules / ৭৪৬ জুল
+Ans: A
+
+9. Resistance of an ideal ammeter is:
+
+এটা আদৰ্শ এমিটাৰৰ ৰোধ কিমান?
+A) High / বেছি
+B) Low / কম
+C) Infinite / অসীম
+D) Zero / শূন্য
+Ans: D
+
+10. Resistance of an ideal voltmeter is:
+
+এটা আদৰ্শ ভোল্টমিটাৰৰ ৰোধ কিমান?
+A) Zero / শূন্য
+B) High / বেছি
+C) Infinite / অসীম
+D) Low / কম
+Ans: C
+
+11. What is the working principle of an optical fiber?
+
+অপটিকেল ফাইবাৰৰ কাৰ্যপ্ৰণালী কি নীতিৰ ওপৰত প্ৰতিষ্ঠিত?
+A) Refraction / প্ৰতিসৰণ
+B) Total Internal Reflection / পূৰ্ণ অভ্যন্তৰীণ প্ৰতিফলন
+C) Scattering / প্ৰকীৰ্ণন
+D) Interference / ব্যতিচাৰ
+Ans: B
+
+12. Unit of luminous intensity is:
+
+দীপ্তি তীব্ৰতাৰ (Luminous intensity) SI একক কি?
+A) Ampere / এম্পিয়াৰ
+B) Candela / ক্যান্ডেলা
+C) Kelvin / কেলভিন
+D) Mole / মোল
+Ans: B
+
+13. Primary colors of light are:
+
+পোহৰৰ প্ৰাথমিক ৰংবোৰ কি কি?
+A) Red, Yellow, Blue / ৰঙা, হালধীয়া, নীলা
+B) Red, Green, Blue / ৰঙা, সেউজীয়া, নীলা
+C) Red, White, Black / ৰঙা, বগা, ক'লা
+D) Yellow, Green, Blue / হালধীয়া, সেউজীয়া, নীলা
+Ans: B
+
+14. Speedometer of an automobile measures:
+
+গাড়ীৰ স্পীডোমিটাৰে কি জোখে?
+A) Average speed / গড় গতি
+B) Instantaneous speed / তাৎক্ষণিক গতি
+C) Total distance / মুঠ দূৰত্ব
+D) Acceleration / ত্বৰণ
+Ans: B
+
+15. Odometer in a vehicle measures:
+
+গাড়ীত থকা অড'মিটাৰে কি জোখে?
+A) Speed / গতি
+B) Time / সময়
+C) Distance travelled / অতিক্ৰম কৰা দূৰত্ব
+D) Fuel level / ইন্ধনৰ পৰিমাণ
+Ans: C
+
+16. What type of image is formed on the retina of human eye?
+
+মানুহৰ চকুৰ ৰেটিনাত কি ধৰণৰ প্ৰতিবিম্ব গঠিত হয়?
+A) Real and inverted / সৎ আৰু ওলোটা
+B) Virtual and erect / অসৎ আৰু থিয়
+C) Real and erect / সৎ আৰু থিয়
+D) Virtual and inverted / অসৎ আৰু ওলোটা
+Ans: A
+
+17. Power of a lens is measured in:
+
+লেঞ্চৰ ক্ষমতা কি এককত জোখা হয়?
+A) Meter / মিটাৰ
+B) Watt / ওয়াট
+C) Diopter / ডায়প্টাৰ
+D) Joule / জুল
+Ans: C
+
+18. The focal length of a plane mirror is:
+
+সমতল দাপোণৰ ফোকাছ দৈৰ্ঘ্য কিমান?
+A) Zero / শূন্য
+B) Infinite / অসীম
+C) 10 cm / ১০ ছেমি
+D) 1 meter / ১ মিটাৰ
+Ans: B
+
+19. Mirror used by dentists to view enlarged images of teeth is:
+
+দাঁতৰ চিকিৎসকে দাঁতৰ ডাঙৰ প্ৰতিবিম্ব চাবলৈ ব্যৱহাৰ কৰা দাপোণখন কি?
+A) Convex Mirror / উত্তল দাপোণ
+B) Concave Mirror / অবতল দাপোণ
+C) Plane Mirror / সমতল দাপোণ
+D) Cylindrical Mirror / বেলনাকৃতি দাপোণ
+Ans: B
+
+20. Rear view mirror used in vehicles is:
+
+গাড়ীত পিছফালৰ দৃশ্য চাবলৈ ব্যৱহাৰ কৰা আইনাখন হ'ল:
+A) Concave Mirror / অবতল দাপোণ
+B) Convex Mirror / উত্তল দাপোণ
+C) Plane Mirror / সমতল দাপোণ
+D) Parabolic Mirror / পেৰাবোলিক দাপোণ
+Ans: B
+
+21. Velocity of sound in air at 0°C is approximately:
+
+০° ছেলছিয়াছ উষ্ণতাত বায়ুত শব্দৰ বেগ প্ৰায় কিমান?
+A) 332 m/s / ৩৩২ মি/ছে
+B) 1500 m/s / ১৫০০ মি/ছে
+C) 5000 m/s / ৫০০০০ মি/ছে
+D) 3 x 10⁸ m/s / ৩ × ১০৮ মি/ছে
+Ans: A
+
+22. Persistence of vision for human eye is:
+
+মানুহৰ চকুৰ দৃষ্টি স্থায়িত্বকাল কিমান?
+A) 1/10th second / ১/১০ ছেকেণ্ড
+B) 1/16th second / ১/১৬ ছেকেণ্ড
+C) 1/2nd second / ১/২ ছেকেণ্ড
+D) 1 second / ১ ছেকেণ্ড
+Ans: B
+
+23. Human ear can hear frequency range between:
+
+মানুহৰ কাণে শুনিব পৰা শব্দৰ কম্পাংকৰ পৰিসৰ কত?
+A) 20 Hz to 20,000 Hz / ২০ হাৰ্টজৰ পৰা ২০,০০০ হাৰ্টজ
+B) Below 20 Hz / ২০ হাৰ্টজৰ তলত
+C) Above 20,000 Hz / ২০,০০০ হাৰ্টজৰ ওপৰত
+D) 100 Hz to 1000 Hz / ১০০ হাৰ্টজৰ পৰা ১০০০ হাৰ্টজ
+Ans: A
+
+24. Sound frequencies above 20,000 Hz are called:
+
+২০,০০০ হাৰ্টজতকৈ অধিক কম্পাংকৰ শব্দক কি বোলা হয়?
+A) Infrasonic / ইনফ্ৰাছ'নিক
+B) Ultrasonic / আল্ট্ৰাছ'নিক
+C) Supersonic / ছুপাৰছ'নিক
+D) Audible / শ্ৰাব্য
+Ans: B
+
+25. Bats navigate and catch prey using:
+
+বাদুলিই কি শব্দ তৰঙ্গ ব্যৱহাৰ কৰি নিশাচৰ দিশ নিৰ্ণয় আৰু চিকাৰ কৰে?
+A) Ultrasonic waves / আল্ট্ৰাছ’নিক তৰঙ্গ
+B) Infrasonic waves / ইনফ্ৰাছ’নিক তৰঙ্গ
+C) Radio waves / ৰেডিঅ’ তৰঙ্গ
+D) Light waves / পোহৰ তৰঙ্গ
+Ans: A

@@ -1,0 +1,225 @@
+1. What is the SI unit of force?
+
+বলৰ SI একক কি?
+A) Joule / জুল
+B) Newton / নিউটন
+C) Watt / ওয়াট
+D) Pascal / পাস্কেল
+Ans: B
+
+2. What is the acceleration due to gravity on the surface of the Earth?
+
+পৃথিৱীৰ পৃষ্ঠত মধ্যাকৰ্ষণিক ত্বৰণৰ মান কিমান?
+A) 8.8 m/s² / ৮.৮ মি/ছে২
+B) 9.8 m/s² / ৯.৮ মি/ছে২
+C) 10.8 m/s² / ১০.৮ মি/ছে২
+D) 11.2 m/s² / ১১.২ মি/ছে২
+Ans: B
+
+3. Which of the following is a scalar quantity?
+
+তলৰ কোনটো এটা স্ক্যেলাৰ ৰাশি?
+A) Velocity / বেগ
+B) Force / বল
+C) Speed / দ্ৰুতি
+D) Acceleration / ত্বৰণ
+Ans: C
+
+4. The rate of change of displacement is called:
+
+সৰণৰ পৰিৱৰ্তনৰ হাৰক কি বোলা হয়?
+A) Distance / দূৰত্ব
+B) Speed / দ্ৰুতি
+C) Acceleration / ত্বৰণ
+D) Velocity / বেগ
+Ans: D
+
+5. Newton's First Law of Motion is also known as:
+
+নিউটনৰ প্ৰথম গতি সূত্ৰক আন কি নামেৰে জনা যায়?
+A) Law of Conservation of Energy / শক্তি সংৰক্ষণ সূত্ৰ
+B) Law of Inertia / জড়তাৰ সূত্ৰ
+C) Law of Momentum / ভৰবেগৰ সূত্ৰ
+D) Law of Gravitation / মহাকৰ্ষণ সূত্ৰ
+Ans: B
+
+6. What is the SI unit of work?
+
+কাৰ্যৰ SI একক কি?
+A) Newton / নিউটন
+B) Pascal / পাস্কেল
+C) Joule / জুল
+D) Hertz / হাৰ্টজ
+Ans: C
+
+7. The ability to do work is called:
+
+কাৰ্য কৰাৰ সামৰ্থ্যক কি বোলা হয়?
+A) Power / ক্ষমতা
+B) Energy / শক্তি
+C) Force / বল
+D) Pressure / চাপ
+Ans: B
+
+8. What is the SI unit of power?
+
+ক্ষমতাৰ SI একক কি?
+A) Watt / ওয়াট
+B) Joule / জুল
+C) Ampere / এম্পিয়াৰ
+D) Volt / ভোল্ট
+Ans: A
+
+9. One horsepower is equal to how many watts?
+
+এক অশ্বশক্তি (Horsepower) কিমান ওয়াটৰ সমান?
+A) 500 Watts / ৫০০ ওয়াট
+B) 746 Watts / ৭৪৬ ওয়াট
+C) 1000 Watts / ১০০০০ ওয়াট
+D) 750 Watts / ৭৫০ ওয়াট
+Ans: B
+
+10. Which device converts mechanical energy into electrical energy?
+
+কোনটো যন্ত্ৰই যান্ত্ৰিক শক্তিক বিদ্যুৎ শক্তিলৈ ৰূপান্তৰিত কৰে?
+A) Electric Motor / বৈদ্যুতিক মটৰ
+B) Generator / জেনেৰেটৰ
+C) Battery / বেটাৰী
+D) Solar Panel / সৌৰ পেনেল
+Ans: B
+
+11. What is the escape velocity from the surface of the Earth?
+
+পৃথিৱীৰ পৃষ্ঠৰ পৰা মুক্তি বেগ (Escape velocity) কিমান?
+A) 9.8 km/s / ৯.৮ কিমি/ছে
+B) 11.2 km/s / ১১.২ কিমি/ছে
+C) 15.0 km/s / ১৫.০ কিমি/ছে
+D) 7.9 km/s / ৭.৯ কিমি/ছে
+Ans: B
+
+12. Atmospheric pressure is measured using which instrument?
+
+বায়ুমণ্ডলীয় চাপ কোনটো যন্ত্ৰৰ সহায়ত জোখা হয়?
+A) Thermometer / থাৰ্মোমিটাৰ
+B) Barometer / বেৰোমিটাৰ
+C) Hydrometer / হাইড্ৰ'মিটাৰ
+D) Ammeter / এমিটাৰ
+Ans: B
+
+13. What happens to the boiling point of water at higher altitudes?
+
+উচ্চ স্থানত পানীৰ উতলাংকৰ কি পৰিৱৰ্তন হয়?
+A) Increases / বৃদ্ধি পায়
+B) Decreases / হ্রাস পায়
+C) Remains same / একেই থাকে
+D) First increases then decreases / প্ৰথমে বাঢ়ে তাৰ পিছত কমে
+Ans: B
+
+14. Upward force exerted by a fluid on an immersed object is called:
+
+তৰল পদাৰ্থত নিমজ্জিত বস্তুটোৰ ওপৰত প্ৰয়োগ হোৱা উৰ্ধমুখী বলক কি বোলা হয়?
+A) Viscosity / সান্দ্ৰতা
+B) Buoyant Force / প্লৱতা বল
+C) Friction / ঘৰ্ষণ
+D) Surface Tension / পৃষ্ঠটান
+Ans: B
+
+15. Pascal's law is related to:
+
+পাস্কেলৰ সূত্ৰ কিহৰ সৈতে সম্পৰ্কিত?
+A) Heat / উত্তাপ
+B) Hydraulic pressure / হাইড্ৰ'লিক চাপ
+C) Light / পোহৰ
+D) Sound / শব্দ
+Ans: B
+
+16. What is the S.I. unit of pressure?
+
+চাপৰ SI একক কি?
+A) Newton / নিউটন
+B) Pascal / পাস্কেল
+C) Joule / জুল
+D) Dyne / ডাইন
+Ans: B
+
+17. Raindrops are spherical in shape due to:
+
+বৰষুণৰ টোপালবোৰ কিহৰ বাবে গোলাকাৰ হয়?
+A) Gravity / মহাকৰ্ষণ
+B) Viscosity / সান্দ্ৰতা
+C) Surface Tension / পৃষ্ঠটান
+D) Atmospheric pressure / বায়ুমণ্ডলীয় চাপ
+Ans: C
+
+18. Sound waves are:
+
+শব্দ তৰঙ্গবোৰ হ'ল:
+A) Longitudinal waves / অনুদৈৰ্ঘ্য তৰঙ্গ
+B) Transverse waves / অনুপ্রস্থ তৰঙ্গ
+C) Electromagnetic waves / বিদ্যুত-চুম্বকীয় তৰঙ্গ
+D) Matter waves / পদাৰ্থ তৰঙ্গ
+Ans: A
+
+19. Sound cannot travel through which medium?
+
+শব্দই কোনটো মাধ্যমৰ মাধ্যমেৰে গতি কৰিব নোৱাৰে?
+A) Solid / কঠিন
+B) Liquid / তৰল
+C) Gas / গেছ
+D) Vacuum / শূন্য মাধ্যম
+Ans: D
+
+20. The speed of sound is maximum in which medium?
+
+শব্দৰ গতিবেগ কোনটো মাধ্যমত আটাইতকৈ বেছি?
+A) Air / বায়ুত
+B) Water / পানীত
+C) Steel / ইস্পাতত
+D) Vacuum / শূন্যত
+Ans: C
+
+21. Pitch of a sound depends on its:
+
+শব্দৰ তীক্ষ্ণতা (Pitch) কিহৰ ওপৰত নিৰ্ভৰ কৰে?
+A) Amplitude / বিস্তাৰ
+B) Frequency / কম্পাঙ্ক
+C) Speed / গতি
+D) Wavelength / তৰঙ্গদৈৰ্ঘ্য
+Ans: B
+
+22. The persistence of hearing for human ear is:
+
+মানুহৰ কাণৰ বাবে শব্দৰ স্থায়িত্বকাল (Persistence of hearing) কিমান?
+A) 1/10th of a second / ১/১০ ছেকেণ্ড
+B) 1/20th of a second / ১/২০ ছেকেণ্ড
+C) 1/5th of a second / ১/৫ ছেকেণ্ড
+D) 1 second / ১ ছেকেণ্ড
+Ans: A
+
+23. Which light has the longest wavelength?
+
+কোনটো পোহৰৰ তৰঙ্গদৈৰ্ঘ্য আটাইতকৈ বেছি?
+
+A) Violet / বেঙুনীয়া
+B) Red / ৰঙা
+C) Green / সেউজীয়া
+D) Yellow / হালধীয়া
+Ans: B
+
+24. Splitting of white light into its component colors is called:
+
+বগা পোহৰ তাৰ উপাদান ৰংবোৰত বিভক্ত হোৱা প্ৰক্ৰিয়াক কি বোলা হয়?
+A) Reflection / প্ৰতিফলন
+B) Refraction / প্ৰতিসৰণ
+C) Dispersion / বিচ্ছুৰণ
+D) Diffraction / অপৱৰ্তন
+Ans: C
+
+25. The phenomenon responsible for the twinkling of stars is:
+
+তৰাবোৰ তিৰবিৰাই থকাৰ বাবে দায়িত্বশীল পৰিঘটনাটো কি?
+A) Reflection / প্ৰতিফলন
+B) Atmospheric Refraction / বায়ুমণ্ডলীয় প্ৰতিসৰণ
+C) Total Internal Reflection / পূৰ্ণ অভ্যন্তৰীণ প্ৰতিফলন
+D) Dispersion / বিচ্ছুৰণ
+Ans: B

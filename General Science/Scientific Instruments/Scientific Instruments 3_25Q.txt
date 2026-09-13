@@ -1,0 +1,224 @@
+1. Viscometer is used to measure:
+
+ভিছক'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Viscosity of liquids / তৰলৰ সান্দ্ৰতা
+B) Density / ঘনত্ব
+C) Volume / আয়তন
+D) Pressure / চাপ
+Ans: A
+
+2. Salinometer is used to measure:
+
+চেলিনোমিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Salinity of solution / দ্ৰৱণৰ লৱণাক্ততা
+B) Sugar content / চেনিৰ পৰিমাণ
+C) Density / ঘনত্ব
+D) Temperature / উষ্ণতা
+Ans: A
+
+3. Saccharimeter is used to measure:
+
+চেকাৰিমিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Concentration of sugar in solution / দ্ৰৱণত চেনিৰ গাঢ়তা
+B) Salinity / লৱণাক্ততা
+C) Acid concentration / এচিডৰ গাঢ়তা
+D) Alcohol content / এলক'হলৰ পৰিমাণ
+Ans: A
+
+4. Manometer is used to measure:
+
+মেন'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Pressure of gases / গেছৰ চাপ
+B) Atmospheric pressure / বায়ুমণ্ডলীয় চাপ
+C) Liquid density / তৰলৰ ঘনত্ব
+D) Wind speed / বতাহৰ বেগ
+Ans: A
+
+5. Which barometer does not use any liquid?
+
+কোনটো বাৰ'মিটাৰে কোনো তৰংগ বা তৰল ব্যৱহাৰ নকৰে?
+A) Aneroid barometer / এনিৰইড বাৰ'মিটাৰ
+B) Mercury barometer / পাৰা বাৰ'মিটাৰ
+C) Fortin's barometer / ফ'ৰ্টিনৰ বাৰ'মিটাৰ
+D) Water barometer / পানীৰ বাৰ'মিটাৰ
+Ans: A
+
+6. Venturimeter is used to measure:
+
+ভেনচুৰিমিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Rate of flow of liquids in pipes / পাইপত তৰলৰ প্ৰবাহৰ হাৰ
+B) Viscosity / সান্দ্ৰতা
+C) Atmospheric pressure / বায়ুমণ্ডলীয় চাপ
+D) Surface tension / পৃষ্ঠটান
+Ans: A
+
+7. Pycnometer is used to measure:
+
+পাইকন'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Density and specific gravity of liquids / তৰলৰ ঘনত্ব আৰু আপেক্ষিক গুৰুত্ব
+B) High pressure / উচ্চ চাপ
+C) High voltage / উচ্চ ভোল্টেজ
+D) Flame temperature / শিখাৰ উষ্ণতা
+Ans: A
+
+8. Which instrument measures thermal radiation?
+
+তাপীয় বিকিৰণ কি যন্ত্ৰই জোখে?
+A) Bolometer / বল'মিটাৰ
+B) Thermometer / থাৰ্মোমিটাৰ
+C) Barometer / বাৰ'মিটাৰ
+D) Hydrometer / হাইড্ৰ'মিটাৰ
+Ans: A
+
+9. Cryometer is an instrument used to measure:
+
+ক্ৰায়'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Very low temperatures / অতি নিম্ন উষ্ণতা
+B) Very high temperatures / অতি উচ্চ উষ্ণতা
+C) Ice density / বৰফৰ ঘনত্ব
+D) Cold ocean currents / শীতল সাগৰীয় প্ৰবাহ
+Ans: A
+
+10. Thermocouple is used to measure:
+
+থাৰ্ম'কপল কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Temperature / উষ্ণতা
+B) Current / বৈদ্যুতিক প্ৰবাহ
+C) Voltage / ভোল্টেজ
+D) Resistance / ৰোধ
+Ans: A
+
+11. Thermocouple works on the principle of:
+
+থাৰ্ম'কপল কি নীতিত কাৰ্য কৰে?
+A) Seebeck effect / চিবেক প্ৰভাৱ
+B) Peltier effect / পেল্টিয়াৰ প্ৰভাৱ
+C) Thomson effect / থমছন প্ৰভাৱ
+D) Joule effect / জুল প্ৰভাৱ
+Ans: A
+
+12. Which instrument measures the intensity of solar radiation?
+
+সৌৰ বিকিৰণৰ তীব্রতা কি যন্ত্ৰই জোখে?
+A) Actinometer / এক্টিন'মিটাৰ
+B) Pyrometer / পাইৰ'মিটাৰ
+C) Barometer / বাৰ'মিটাৰ
+D) Anemometer / এনিম'মিটাৰ
+Ans: A
+
+13. Which instrument is used to determine the purity of gold?
+
+সোণৰ বিশুদ্ধতা নিৰ্ণয় কৰিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Karatmeter / কেৰাটমিটাৰ
+B) Hydrometer / হাইড্ৰ'মিটাৰ
+C) Lactometer / লেক্টোমিটাৰ
+D) Spectrometer / স্পেক্ট্ৰ'মিটাৰ
+Ans: A
+
+14. Which instrument is used to measure sound underwater?
+
+পানীৰ তলত শব্দ জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Hydrophone / হাইড্ৰ'ফোন
+B) Microphone / মাইক্ৰ'ফোন
+C) Loudspeaker / লাউডস্পীকাৰ
+D) Megaphone / মেগাফোন
+Ans: A
+
+15. Microphone converts:
+
+মাইক্ৰ'ফোনে কি ৰূপান্তৰ কৰে?
+A) Sound energy to Electrical signals / শব্দ শক্তিক বৈদ্যুতিক সংকেতলৈ
+B) Electrical signals to Sound energy / বৈদ্যুতিক সংকেতক শব্দ শক্তিলৈ
+C) Sound energy to Light energy / শব্দ শক্তিক পোহৰ শক্তিলৈ
+D) Mechanical energy to Sound energy / যান্ত্ৰিক শক্তিক শব্দ শক্তিলৈ
+Ans: A
+
+16. Loudspeaker converts:
+
+লাউডস্পীকাৰে কি ৰূপান্তৰ কৰে?
+A) Electrical energy to Sound energy / বৈদ্যুতিক শক্তিক শব্দ শক্তিলৈ
+B) Sound energy to Electrical energy / শব্দ শক্তিক বৈদ্যুতিক শক্তিলৈ
+C) Heat energy to Sound energy / তাপ শক্তিক শব্দ শক্তিলৈ
+D) Light energy to Sound energy / পোহৰ শক্তিক শব্দ শক্তিলৈ
+Ans: A
+
+17. Oscilloscope (CRO) is used to display and analyze:
+
+অ'চিল'স্ক'পে (CRO) কি প্ৰদৰ্শন আৰু বিশ্লেষণ কৰে?
+A) Electrical voltage waveforms / বৈদ্যুতিক ভোল্টেজ ৱেভফৰ্ম
+B) Light spectrum / পোহৰৰ বৰ্ণালী
+C) Sound frequencies / শব্দৰ কম্পনাংক
+D) Magnetic flux / চুম্বকীয় ফ্লাক্স
+Ans: A
+
+18. Stroboscope is used to view:
+
+ষ্ট্ৰব'স্ক'প কি চাবলৈ ব্যৱহাৰ কৰা হয়?
+A) Fast moving objects in slow motion / দ্ৰুত গতিশীল বস্তু লেহেঁতীয়াকৈ চাবলৈ
+B) Tiny objects / অতি ক্ষুদ্ৰ বস্তু
+C) Microorganisms / অণুজীৱ
+D) Celestial bodies / মহাজাগতিক বস্তু
+Ans: A
+
+19. Which device measures the electric power consumed in a circuit?
+
+বৰ্তনীত খৰচ হোৱা বৈদ্যুতিক ক্ষমতা কি যন্ত্ৰই জোখে?
+A) Wattmeter / ৱাটমিটাৰ
+B) Voltmeter / ভোল্টমিটাৰ
+C) Ammeter / এমিটাৰ
+D) Galvanometer / গালভানোমিটাৰ
+Ans: A
+
+20. Energy meter installed outside homes measures electrical energy in:
+
+ঘৰৰ বাহিৰত লগোৱা এনাৰ্জি মিটাৰে বৈদ্যুতিক শক্তি কিহৈত জোখে?
+A) Kilowatt-hour (kWh) / কিলোৱাট-ঘণ্টা (kWh)
+B) Watt / ৱাট
+C) Joule / জুল
+D) Volt-Ampere / ভোল্ট-এম্পিয়াৰ
+Ans: A
+
+21. Gyroscope is an instrument used for measuring or maintaining:
+
+গাইৰ'স্ক'প কি জোখা বা বৰ্তাই ৰখাৰ বাবে ব্যৱহৃত হয়?
+A) Orientation and angular velocity / দিশ আৰু কৌণিক বেগ
+B) Linear speed / ৰৈখিক গতি
+C) Mass / ভৰ
+D) Altitude / উচ্চতা
+Ans: A
+
+22. Which instrument is used to measure the thickness of human skinfold for body fat estimation?
+
+শৰীৰৰ মেদ জোখিবলৈ চৰ্মৰ ভাঁজ জোখা যন্ত্ৰটো কি?
+A) Skinfold Caliper / স্কিনফ'ল্ড কেলিপাৰ
+B) Vernier Caliper / ভাৰ্নিয়াৰ কেলিপাৰ
+C) Screw Gauge / স্ক্ৰু গেইজ
+D) Spherometer / স্ফীয়ৰ'মিটাৰ
+Ans: A
+
+23. Spirometer is an instrument used to measure:
+
+স্পাইৰ'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Lung capacity (volume of air inspired and expired) / হাওঁফাওঁৰ ক্ষমতা
+B) Heart rate / হৃদস্পন্দন
+C) Blood flow / ৰক্ত প্ৰবাহ
+D) Oxygen in blood / ৰক্তত থকা অক্সিজেন
+Ans: A
+
+24. Polygraph is commonly known as a:
+
+পলিগ্ৰাফক সাধাৰণতে কি বুলি জনা যায়?
+A) Lie detector / মিছা কথা ধৰা যন্ত্ৰ (Lie detector)
+B) Heart rate monitor / হৃদস্পন্দন মাপক
+C) Brain scanner / মস্তিষ্ক স্কেনাৰ
+D) Earthquake recorder / ভূমিকম্প ৰেকৰ্ডাৰ
+Ans: A
+
+25. Polygraph machine measures physiological indicators such as:
+
+পলিগ্ৰাফ মেছিনে কি শাৰীৰিক সূচক জোখে?
+A) Blood pressure, pulse, respiration, and skin conductivity / ৰক্তচাপ, নাড়ী, শ্বাস-প্ৰশ্বাস আৰু ছালৰ পৰিবাহিতা
+B) Brain waves only / কেৱল মস্তিষ্কৰ তৰংগ
+C) Heart beats only / কেৱল হৃদস্পন্দন
+D) Voice pitch / মাতৰ স্বৰ
+Ans: A

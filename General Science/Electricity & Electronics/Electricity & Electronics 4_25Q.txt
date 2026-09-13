@@ -1,0 +1,224 @@
+1. Fuse works on which effect of electric current?
+
+ফিউজে বৈদ্যুতিক প্ৰবাহৰ কি ক্ৰিয়াৰ ওপৰত কাম কৰে?
+A) Magnetic effect / চুম্বকীয় ক্ৰিয়া
+B) Heating effect (Joule heating) / তাপীয় ক্ৰিয়া (জুল তাপন)
+C) Chemical effect / ৰাসায়নিক ক্ৰিয়া
+D) Mechanical effect / যান্ত্ৰিক ক্ৰিয়া
+Ans: B
+
+2. Mathematical expression of Joule's Law of Heating is:
+
+জুলৰ তাপীয় ক্ৰিয়াৰ সূত্ৰৰ গাণিতিক ৰূপ কি?
+A) H = I * R * t
+B) H = I^2 * R * t
+C) H = I * R^2 * t
+D) H = V * I^2 * t
+Ans: B
+
+3. What happens to the heat produced in a resistor if current is doubled?
+
+বিদ্যুৎ প্ৰবাহ দুগুণ কৰিলে উৎপন্ন হোৱা তাপৰ কি হ'ব?
+A) Doubled / দুগুণ হ'ব
+B) Tripled / তিনিগুণ হ'ব
+C) Quadrupled (4 times) / চাৰিগুণ হ'ব
+D) Halved / আধা হ'ব
+Ans: C
+
+4. Electric power P is given by formula:
+
+বৈদ্যুতিক ক্ষমতা P ৰ সূত্ৰ কি?
+A) P = V * I
+B) P = I^2 * R
+C) P = V^2 / R
+D) All of the above / ওপৰৰ আটাইবোৰ
+Ans: D
+
+5. Light bulb produces light due to:
+
+বৈদ্যুতিক বাল্বে কিহৰ বাবে পোহৰ দিয়ে?
+A) Chemical reaction / ৰাসায়নিক বিক্ৰিয়া
+B) Incandescence of hot filament / উত্তপ্ত ফিলামেন্টৰ উজ্জ্বলতা (Incandescence)
+C) Gas ionisation / গেছৰ আয়নীকৰণ
+D) Fluorescence / প্ৰতিপ্রভা (Fluorescence)
+Ans: B
+
+6. Inert gases filled inside electric bulb to prolong filament life are:
+
+ফিলামেন্টৰ আয়ুস বঢ়াবলৈ বৈদুতিক বাল্বৰ ভিতৰত ভৰোৱা নিষ্ক্ৰিয় গেছসমূহ কি?
+A) Oxygen and Hydrogen / অক্সিজেন আৰু হাইড্ৰ'জেন
+B) Nitrogen and Argon / নাইtoolbox আৰু আৰ্গন
+C) Carbon dioxide and Helium / কাৰ্বন ডাইঅক্সাইড আৰু হিলিয়াম
+D) Chlorine and Neon / ক্লোৰিন আৰু নিয়নে
+Ans: B
+
+7. The component used to oppose flow of current is:
+
+বিদ্যুৎ প্ৰবাহৰ গতিত বাধা প্ৰদান কৰা উপাদানটো কি?
+A) Resistor / ৰেজিষ্টৰ (ৰোধক)
+B) Inductor / ইণ্ডাক্টৰ
+C) Capacitor / কেপাচিটৰ
+D) Diode / ডায়'ড
+Ans: A
+
+8. Standard color code band on resistor indicates its:
+
+ৰেজিষ্টৰৰ ৰং সংকেত ব্লেণ্ডে কি সূচায়?
+A) Power rating / ক্ষমতাৰ মান
+B) Resistance value and tolerance / ৰোধৰ মান আৰু সহ্যসীমা (Tolerance)
+C) Voltage limit / ভোল্টেজৰ সীমা
+D) Temperature capacity / তাপমাত্ৰা ধাৰণ ক্ষমতা
+Ans: B
+
+9. Photoelectric effect was explained by:
+
+ফটো-ইলেক্ট্ৰিক প্ৰভাৱৰ ব্যাখ্যা কোনে আগবঢ়াইছিল?
+A) Newton / নিউটন
+B) Albert Einstein / আলবাৰ্ট আইন্‌ষ্টাইন
+C) Maxwell / মেক্সৱেল
+D) Hertz / হাৰ্টজ
+Ans: B
+
+10. Solar cell converts solar energy directly into:
+
+সৌৰ কোষে সৌৰ শক্তিক পোনপটীয়াকৈ কি শক্তিলৈ ৰূপান্তৰ কৰে?
+A) Thermal energy / তাপ শক্তি
+B) Electrical energy / বৈদ্যুতিক শক্তি
+C) Chemical energy / ৰাসায়নিক শক্তি
+D) Mechanical energy / যান্ত্ৰিক শক্তি
+Ans: B
+
+11. Main material used in solar cell fabrication is:
+
+সৌৰ কোষ নিৰ্মাণত ব্যৱহৃত মূল পদাৰ্থটো কি?
+A) Copper / তাম
+B) Silicon / চিলিকন
+C) Silver / ৰূপ
+D) Platinum / প্লেটিনাম
+Ans: B
+
+12. What is a Integrated Circuit (IC) made of?
+
+ইন্টিগ্ৰেটেড চাৰ্কিট (IC) কিহেৰে তৈয়াৰী?
+A) Metals / ধাতু
+B) Semiconductors (Silicon) / অৰ্ধপৰিবাহী (চিলিকন)
+C) Insulators / অপৰিবাহী
+D) Superconductors / অতিপৰিবাহী
+Ans: B
+
+13. Who invented the Integrated Circuit (IC)?
+
+ইন্টিগ্ৰেটেড চাৰ্কিট (IC) কোনে আৱিষ্কাৰ কৰিছিল?
+A) Jack Kilby and Robert Noyce / জেক কিলবি আৰু ৰবাৰ্ট নইচ
+B) Charles Babbage / চাৰ্লছ বেবেজ
+C) Nikola Tesla / নিকোলা টেছলা
+D) Thomas Edison / থমাছ এডিচন
+Ans: A
+
+14. A PN-junction diode allows current to flow in:
+
+এটা PN-জংচন ডায়'ডে কিমানটা দিশত বিদ্যুৎ চালিত হ'বলৈ দিয়ে?
+A) Both directions / দুয়োটা দিশত
+B) Only one direction / কেৱল এটা দিশত
+C) Three directions / তিনিটা দিশত
+D) No direction / কোনো দিশত নিদিয়ে
+Ans: B
+
+15. Diode is forward biased when:
+
+ডায়'ড কেতিয়া ফৰৱাৰ্ড বায়াস্ড (Forward Biased) হয়?
+A) P-side connected to positive terminal / P-ফালে ধনাত্মক টাৰ্মিনেল সংলগ্ন
+B) P-side connected to negative terminal / P-ফালে ঋণাত্মক টাৰ্মিনেল সংলগ্ন
+C) N-side connected to positive terminal / N-ফালে ধনাত্মক টাৰ্মিনেল সংলগ্ন
+D) Both sides grounded / দুয়োফালে মাটিৰ সৈতে সংযোজিত
+Ans: A
+
+16. Logic gate that gives high output (1) only when all inputs are high (1) is:
+
+সকলো ইনপুট উচ্চ (1) হ'লেহে উচ্চ আউটপুট (1) দিয়া লজিক গেইটটো কি?
+A) OR gate / OR গেইট
+B) AND gate / AND গেইট
+C) NOT gate / NOT গেইট
+D) NOR gate / NOR গেইট
+Ans: B
+
+17. Logic gate known as an inverter is:
+
+ইনভাৰ্টাৰ হিচাপে জনাজাত লজিক গেইটটো কি?
+A) AND gate / AND গেইট
+B) OR gate / OR গেইট
+C) NOT gate / NOT গেইট
+D) NAND gate / NAND গেইট
+Ans: C
+
+18. Universal logic gates are:
+
+সাৰ্বজনীন লজিক গেইটসমূহ কি কি?
+A) AND and OR / AND আৰু OR
+B) NAND and NOR / NAND আৰু NOR
+C) NOT and AND / NOT আৰু AND
+D) XOR and XNOR / XOR আৰু XNOR
+Ans: B
+
+19. Cathode rays consist of a stream of:
+
+কেথ'ড ৰশ্মি কিহৰ সোঁত?
+A) Protons / প্ৰ'টন
+B) Neutrons / নিউট্ৰন
+C) Electrons / ইলেক্ট্ৰন
+D) Alpha particles / আলফা কণা
+Ans: C
+
+20. Who discovered electrons?
+
+ইল্যেক্ট্ৰন কোনে আৱিষ্কাৰ কৰিছিল?
+A) J.J. Thomson / জে.জে. থমছন
+B) Ernest Rutherford / আৰ্নেষ্ট ৰাডাৰফ'ৰ্ড
+C) James Chadwick / জে সং চ্যাডউইক
+D) John Dalton / জন ডালটন
+Ans: A
+
+21. Which component converts sound waves into electrical signals?
+
+কোনটো সঁজুলিয়ে শব্দ তৰংগক বৈদ্যুতিক সংকেতলৈ ৰূপান্তৰ কৰে?
+A) Loudspeaker / লাউডস্পীকাৰ
+B) Microphone / মাইক্ৰ'ফোন
+C) Amplifier / এম্প্লিফায়াৰ
+D) Rectifier / ৰেক্টিফায়াৰ
+Ans: B
+
+22. Loudspeaker converts electrical signals into:
+
+লাউডস্পীকাৰে বৈদ্যুতিক সংকেতক কিহৈলৈ ৰূপান্তৰ কৰে?
+A) Light energy / পোহৰ শক্তি
+B) Sound energy / শব্দ শক্তি
+C) Chemical energy / ৰাসায়নিক শক্তি
+D) Magnetic energy / চুম্বকীয় শক্তি
+Ans: B
+
+23. Which electronic instrument is used to visualize voltage waveforms?
+
+ভোল্টেজ ৱেভফৰ্ম প্ৰদৰ্শন কৰিবলৈ কি ইলেক্ট্ৰনিক সঁজুলি ব্যৱহাৰ কৰা হয়?
+A) Multimeter / মাল্টিমিটাৰ
+B) Cathode Ray Oscilloscope (CRO) / কেথ'ড ৰে অ'চিল'স্ক'প (CRO)
+C) Signal Generator / চিগনেল জেনেৰেটৰ
+D) Wattmeter / ৱাটমিটাৰ
+Ans: B
+
+24. Multimeter is used to measure:
+
+মাল্টিমিটাৰ কি জুখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Voltage only / কেৱল ভোল্টেজ
+B) Current only / কেৱল বিদ্যুৎ প্ৰবাহ
+C) Resistance only / কেৱল ৰোধ
+D) Voltage, Current, and Resistance / ভোল্টেজ, বিদ্যুৎ প্ৰবাহ আৰু ৰোধ
+Ans: D
+
+25. Primary function of a filter circuit in power supply is to:
+
+পাৱাৰ চাপ্লাইত ফিল্টাৰ চাৰ্কিটৰ মূল কাম কি?
+A) Convert DC to AC / DC ক AC লৈ ৰূপান্তৰ কৰা
+B) Remove AC ripples from rectified DC / ৰেক্টিফাই কৰা DC ৰ পৰা AC ৰিপল আঁতৰোৱা
+C) Increase current / বিদ্যুৎ প্ৰবাহ বৃদ্ধি কৰা
+D) Step up voltage / ভোল্টেজ বৃদ্ধি কৰা
+Ans: B

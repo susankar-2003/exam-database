@@ -1,0 +1,224 @@
+1. Base region of a transistor is:
+
+ট্ৰানজিষ্টৰৰ বেইচ (Base) অঞ্চলটো:
+A) Very thick and heavily doped / অতি ডাঠ আৰু গধুৰ ড'পিং
+B) Very thin and lightly doped / অতি পাতল আৰু পাতলভাৱে ড'প কৰা
+C) Largest region / আটাইতকৈ ডাঙৰ অঞ্চল
+D) Un-doped / ড'প নকৰা
+Ans: B
+
+2. Standard unit of Frequency is:
+
+কম্পনাংকৰ মানক একক কি?
+A) Decibel / ডেচিবেল
+B) Hertz / হাৰ্টজ
+C) Meter/second / মিটাৰ/ছেকেণ্ড
+D) Watt / ৱাট
+Ans: B
+
+3. Relationship between velocity (v), frequency (f) and wavelength (λ) is:
+
+বেগ (v), কম্পনাংক (f) আৰু তৰংগদৈৰ্ঘ্য (λ) ৰ সম্পৰ্ক কি?
+A) v = f / λ
+B) v = f * λ
+C) f = v * λ
+D) λ = v * f
+Ans: B
+
+4. Electromagnetic waves travel through vacuum at the speed of:
+
+বৈদ্যুত-চুম্বকীয় তৰংগ শূন্যতাত কিমান বেগত গতি কৰে?
+A) 3 x 10^8 m/s
+B) 3 x 10^5 m/s
+C) 330 m/s
+D) 1100 ft/s
+Ans: A
+
+5. Which radiation has the highest frequency in electromagnetic spectrum?
+
+বৈদ্যুত-চুম্বকীয় বৰ্ণালীৰ ভিতৰত কাৰ কম্পনাংক সৰ্বোচ্চ?
+A) Radio waves / ৰেডিঅ' তৰংগ
+B) Gamma rays / গামা ৰশ্মি
+C) Infrared / অৱলোহিত ৰশ্মি
+D) Microwaves / মাইক্ৰ'ৱেভ
+Ans: B
+
+6. Which radiation has the longest wavelength?
+
+কাৰ তৰংগদৈৰ্ঘ্য আটাইতকৈ বেছি?
+A) Gamma rays / গামা ৰশ্মি
+B) X-rays / এক্স-ৰে
+C) Radio waves / ৰেডিঅ' তৰংগ
+D) Ultraviolet rays / অতিবেঙুনীয়া ৰশ্মি
+Ans: C
+
+7. RADAR uses which type of electromagnetic waves?
+
+ৰাডাৰত (RADAR) কি প্ৰকাৰৰ বৈদ্যুত-চুম্বকীয় তৰংগ ব্যৱহাৰ কৰা হয়?
+A) Microwaves / Radio waves / মাইক্ৰ'ৱেভ / ৰেডিঅ' তৰংগ
+B) X-rays / এক্স-ৰে
+C) Gamma rays / গামা ৰশ্মি
+D) Infrared waves / অৱলোহিত তৰংগ
+Ans: A
+
+8. Fiber optic cables work on the principle of:
+
+ফাইবাৰ অপটিক কেবল কি নীতিত কাৰ্য কৰে?
+A) Reflection / প্ৰতিফলন
+B) Refraction / প্ৰতিসৰণ
+C) Total Internal Reflection / প্ৰতিফলন (পূৰ্ণ অভ্যন্তৰীণ প্ৰতিফলন)
+D) Diffraction / অপৱৰ্তন
+Ans: C
+
+9. Direct Current (DC) frequency is:
+
+প্ৰত্যক্ষ প্ৰবাহৰ (DC) কম্পনাংক কিমান?
+A) 50 Hz
+B) 60 Hz
+C) 0 Hz
+D) Infinite / অসীম
+Ans: C
+
+10. Earth wire is connected to:
+
+ভূ-সংযোজক (Earth) তাঁৰ ক'ত সংযোগ কৰা হয়?
+A) Live terminal / জীৱন্ত টাৰ্মিনেলত
+B) Metallic body of appliance buried in earth / সঁজুলিৰ ধাতৱ ভাগ আৰু মাটিত পুতি ৰখা পাতত
+C) Neutral terminal / নিউট্ৰেল টাৰ্মিনেলত
+D) Main switchboard only / কেৱল মূল চুইচব'ৰ্ডত
+Ans: B
+
+11. Purpose of Earthing electrical equipment is to:
+
+বৈদ্যুতিক সঁজুলিত আৰ্থিং কৰাৰ মূল উদ্দেশ্য কি?
+A) Avoid electric shock / বৈদ্যুতিক শ্বকৰ পৰা ৰক্ষা পোৱা
+B) Reduce electricity bill / বিদ্যুৎ বিল কমোৱা
+C) Increase voltage / ভোল্টেজ বঢ়োৱা
+D) Increase current / বিদ্যুৎ প্ৰবাহ বঢ়োৱা
+Ans: A
+
+12. Electricity meter installed at homes measures energy in:
+
+ঘৰত লগোৱা মিটাৰে বিদ্যুৎ শক্তি কি একক ত জোখে?
+A) kWh (Kilowatt-hour) / কিলোৱাট-ঘণ্টা
+B) Watts / ৱাট
+C) Volts / ভোল্ট
+D) Amperes / এম্পিয়াৰ
+Ans: A
+
+13. Device that breaks circuit automatically during overload or short circuit is:
+
+অভাৰল'ড বা শ্বৰ্ট চাৰ্কিট হ'লে বৰ্তনী স্বয়ংক্ৰিয়ভাৱে বিচ্ছিন্ন কৰা সঁজুলি কি?
+A) Switch / চুইচ
+B) Miniature Circuit Breaker (MCB) / মিনিএচাৰ চাৰ্কিট ব্ৰেকাৰ (MCB)
+C) Voltmeter / ভোল্টমিটাৰ
+D) Transformer / ট্ৰান্সফৰ্মাৰ
+Ans: B
+
+14. Short circuit occurs when:
+
+শ্বৰ্ট চাৰ্কিট কেতিয়া সংঘটিত হয়?
+A) Live and Neutral wires come in direct contact / জীৱন্ত আৰু নিউট্ৰেল তাঁৰ পোনপটীয়া স্পৰ্শলৈ আহে
+B) Earth wire touches ground / আৰ্থ তাঁৰে মাটি স্পৰ্শ কৰে
+C) Switch is OFF / চুইচ বন্ধ থাকিলে
+D) Fuse melts / ফিউজ গলি গ'লে
+Ans: A
+
+15. Resistance of human body in dry condition is approximately:
+
+শুকান অৱস্থাত মানুহৰ শৰীৰৰ ৰোধ আনুমানিক কিমান?
+A) 10 Ohms
+B) 100 Ohms
+C) 10,000 to 100,000 Ohms
+D) Zero
+Ans: C
+
+16. Resistance of human body decreases significantly when:
+
+মানৱ শৰীৰৰ প্ৰতিৰোধ ক্ষমতা যথেষ্ট হ্ৰাস পায় যেতিয়া...?
+A) Skin is wet / ছাল তেন্তে বা তিতা হ'লে
+B) Body is dry / শৰীৰ শুকান হ'লে
+C) Standing on wooden floor / কাঠৰ মেঝিয়াত থিয় হ'লে
+D) Wearing rubber shoes / ৰবাৰৰ জোতা পিন্ধি থাকিলে
+Ans: A
+
+17. Capacitance of a parallel plate capacitor increases with:
+
+সমান্তৰাল পাত কেপাচিটৰৰ ধাৰকত্ব কিহৰ দ্বাৰা বৃদ্ধি পায়?
+A) Increasing area of plates / পাতৰ কালি বৃদ্ধি কৰিলে
+B) Increasing distance between plates / পাত দুটাৰ দুৰত্ব বঢ়ালে
+C) Decreasing area of plates / পাতৰ কালি কমাল
+D) Removing dielectric material / ডাই-ইলেকট্ৰিক আঁতৰালে
+Ans: A
+
+18. Capacitance of parallel plate capacitor decreases with:
+
+সমান্তৰাল পাত কেপাচিটৰৰ ধাৰকত্ব কিহৰ দ্বাৰা হ্ৰাস পায়?
+A) Decreasing area of plates / পাতৰ কালি কমালে
+B) Increasing distance between plates / পাতৰ দূৰত্ব বঢ়ালে
+C) Both A and B / এ আৰু বি দুয়োটা
+D) Neither / কোনোটোৱেই নহয়
+Ans: C
+
+19. Electric field lines always emerge from:
+
+বৈদ্যুতিক ক্ষেত্ৰ ৰেখাসমূহ সদায় ক'ৰ পৰা নিৰ্গমন হয়?
+A) Negative charge to Positive / ঋণাত্মক আধানৰ পৰা
+B) Positive charge and end at Negative / ধনাত্মক আধানৰ পৰা আৰম্ভ হৈ ঋণাত্মকত শেষ হয়
+C) North Pole to South Pole / উত্তৰ মেৰুৰ পৰা
+D) Center of conductor / পৰিবাহীৰ কেন্দ্ৰৰ পৰা
+Ans: B
+
+20. Inside a hollow charged conductor, the electric field is:
+
+এটা ফোলোং আধানযুক্ত পৰিবাহীৰ ভিতৰত বৈদ্যুতিক ক্ষেত্ৰ কিমান?
+A) Maximum / সৰ্বোচ্চ
+B) Zero / শূন্য
+C) Infinite / অসীম
+D) Constant / ধ্ৰুৱক
+Ans: B
+
+21. Electrostatic shielding is based on the principle that electric field inside a conductor is:
+
+স্থিৰ-বৈদ্যুতিক সুৰক্ষা (Electrostatic shielding) পৰিবাহীৰ ভিতৰৰ কি ধাৰণাৰ ওপৰত প্ৰতিষ্ঠিত?
+A) Zero / শূন্য
+B) High / উচ্চ
+C) Infinite / অসীম
+D) Uniform / সুষম
+Ans: A
+
+22. Primary charge carrier in vacuum tubes is:
+
+ভেকুৱাম টিউবত মুখ্য আধান বাহক কি?
+A) Protons / প্ৰ'টন
+B) Free Electrons / মুক্ত ইলেক্ট্ৰন
+C) Holes / হোল
+D) Ions / আয়ন
+Ans: B
+
+23. Emission of electrons from hot metal surface is called:
+
+উত্তপ্ত ধাতুৰ পৃষ্ঠৰ পৰা ইলেক্ট্ৰন নিৰ্গমন হোৱা ঘটনাটোক কি বোলা হয়?
+A) Photoelectric emission / ফটোইলেক্ট্ৰিক নিৰ্গমন
+B) Thermionic emission / থাৰ্মাইঅনিক নিৰ্গমন
+C) Secondary emission / গৌণ নিৰ্গমন
+D) Field emission / ফিল্ড নিৰ্গমন
+Ans: B
+
+24. Thermistor is a temperature-sensitive:
+
+থাৰ্মিষ্টৰ (Thermistor) হৈছে উষ্ণতা-সংবেদনশীল:
+A) Resistor / ৰেজিষ্টৰ (ৰোধক)
+B) Capacitor / কেপাচিটৰ
+C) Inductor / ইণ্ডাক্টৰ
+D) Diode / ডায়'ড
+Ans: A
+
+25. Resistance of a Negative Temperature Coefficient (NTC) thermistor:
+
+ঋণাত্মক উষ্ণতা গুণাঙ্ক (NTC) থাৰ্মিষ্টৰৰ ৰোধ উষ্ণতা বৃদ্ধিৰ সৈতে:
+A) Increases with temperature / বৃদ্ধি পায়
+B) Decreases with temperature increase / হ্ৰাস পায়
+C) Remains constant / অপৰিৱৰ্তিত থাকে
+D) Becomes zero / শূন্য হয়
+Ans: B

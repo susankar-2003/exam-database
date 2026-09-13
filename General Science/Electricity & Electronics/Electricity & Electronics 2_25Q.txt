@@ -1,0 +1,225 @@
+1. Nichrome is an alloy of:
+
+নাইক্ৰ'ম কিহৰ সংকট ধাতু?
+A) Nickel and Chromium / নিকেল আৰু ক্ৰ'মিয়াম
+B) Copper and Nickel / তাম আৰু নিকেল
+C) Iron and Zinc / লো আৰু দস্তা
+D) Aluminum and Copper / এলুমিনিয়াম আৰু তাম
+Ans: A
+
+2. Which diode is used to emit light when current passes through it?
+
+বিদ্যুৎ প্ৰবাহ চালিত হ'লে পোহৰ নিৰ্গমন কৰা ডায়'ডটোক কি বোলা হয়?
+A) Zener Diode / জেণাৰ ডায়'ড
+B) Photo Diode / ফটো ডায়'ড
+C) Light Emitting Diode (LED) / লাইট এমিটিং ডায়'ড (LED)
+D) Tunnel Diode / টানেল ডায়'ড
+Ans: C
+
+3. Which component is used to store electrical energy in an electric field?
+
+বৈদ্যুতিক ক্ষেত্ৰত বৈদুতিক শক্তি সঞ্চয় কৰিবলৈ কি উপাদান ব্যৱহাৰ কৰা হয়?
+A) Inductor / ইণ্ডাক্টৰ
+B) Capacitor / কেপাচিটৰ
+C) Resistor / ৰেজিষ্টৰ
+D) Transformer / ট্ৰান্সফৰ্মাৰ
+Ans: B
+
+4. SI unit of capacitance is:
+
+ধাৰকত্বৰ  SI একক কি?
+A) Henry / হেনৰী
+B) Farad / ফাৰাড
+C) Ohm / ওম
+D) Weber / ৱেবাৰ
+Ans: B
+
+5. SI unit of inductance is:
+
+আৱেশকত্বৰ  SI একক কি?
+A) Farad / ফাৰাড
+B) Henry / হেনৰী
+C) Tesla / টেছলা
+D) Gauss / গাউছ
+Ans: B
+
+6. Transformer works on which type of power supply?
+
+ট্ৰান্সফৰ্মাৰে কি প্ৰকাৰৰ বিদ্যুৎ যোগানত কাম কৰে?
+A) DC only / কেৱল DC
+B) AC only / কেৱল AC
+C) Both AC and DC / AC আৰু DC দুয়োটাতে
+D) Battery power only / কেৱল বেটাৰী শক্তি
+Ans: B
+
+7. Transformer works on the principle of:
+
+ট্ৰান্সফৰ্মাৰ কি সূত্ৰৰ ওপৰত ভিত্তি কৰি কাৰ্য কৰে?
+A) Self induction / স্ব-আৱেশ
+B) Mutual induction / ইmapped/পাৰস্পৰিক আৱেশ
+C) Electromagnetic force / বৈদ্যুত-চুম্বকীয় বল
+D) Seebeck effect / চিবেক প্ৰভাৱ
+Ans: B
+
+8. Step-up transformer increases:
+
+ষ্টেপ-আপ ট্ৰান্সফৰ্মাৰে কি বৃদ্ধি কৰে?
+A) Current / বিদ্যুৎ প্ৰবাহ
+B) Voltage / ভোল্টেজ
+C) Frequency / কম্পনাংক
+D) Power / ক্ষমতা
+Ans: B
+
+9. Which semiconductor device acts as a voltage regulator?
+
+কোনটো অৰ্ধপৰিবাহী যন্ত্ৰই ভোল্টেজ নিয়ন্ত্ৰক হিচাপে কাম কৰে?
+A) LED / এল.ই.ডি.
+B) Zener Diode / জেণাৰ ডায়'ড
+C) Solar Cell / সৌৰ কোষ
+D) Transistor / ট্রানজিষ্টৰ
+Ans: B
+
+10. The majority charge carriers in N-type semiconductors are:
+
+N-টাইপ অৰ্ধপৰিবাহীত মুখ্য আধান বাহকসমূহ কি?
+A) Holes / হোল (গহ্বৰ)
+B) Electrons / ইলেক্ট্ৰন
+C) Protons / প্ৰ'টন
+D) Neutrons / নিউট্ৰন
+Ans: B
+
+11. The majority charge carriers in P-type semiconductors are:
+
+P-টাইপ অৰ্ধপৰিবাহীত মুখ্য আধান বাহকসমূহ কি?
+A) Electrons / ইলেক্ট্ৰন
+B) Holes / হোল (গহ্বৰ)
+C) Positrons / পজিট্ৰন
+D) Ions / আয়ন
+Ans: B
+
+12. Pure semiconductor is called:
+
+বিশুদ্ধ অৰ্ধপৰিবাহীক কি বোলা হয়?
+A) Extrinsic semiconductor / বহিৰ্জাত অৰ্ধপৰিবাহী
+B) Intrinsic semiconductor / অন্তৰ্জাত অৰ্ধপৰিবাহী
+C) N-type semiconductor / N-টাইপ অৰ্ধপৰিবাহী
+D) P-type semiconductor / P-টাইপ অৰ্ধপৰিবাহী
+Ans: B
+
+13. Process of adding impurities to a pure semiconductor is called:
+
+বিশুদ্ধ অৰ্ধপৰিবাহীত অপদ্ৰৱ মিহলোৱা প্ৰক্ৰিয়াটোক কি বোলা হয়?
+A) Doping / ড'পিং
+B) Rectification / ৰেক্টিফিকেচন
+C) Amplification / এম্প্লিফিকেচন
+D) Ionization / আয়নীকৰণ
+Ans: A
+
+14. Device used to amplify weak electrical signals is:
+
+দুৰ্বল বৈদুতিক সংকেত বিবৰ্ধন কৰিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰ হ'ল:
+A) Diode / ডায়'ড
+B) Transistor / ট্রানজিষ্টৰ
+C) Resistor / ৰেজিষ্টৰ
+D) Capacitor / কেপাচিটৰ
+Ans: B
+
+15. Bipolar Junction Transistor (BJT) has how many terminals?
+
+দ্বিপোলাৰ জংচন ট্ৰানজিষ্টৰৰ (BJT) কিমানটা টাৰ্মিনেল থাকে?
+A) 2
+B) 3
+C) 4
+D) 5
+Ans: B
+
+16. What are the three terminals of a transistor?
+
+ট্ৰানজিষ্টৰৰ তিনিটা টাৰ্মিনেল কি কি?
+
+A) Anode, Cathode, Gate / এন'ড, কেথ'ড, গেইট
+B) Emitter, Base, Collector / এমিটাৰ, বেইচ, কালেক্টৰ
+C) Source, Drain, Gate / ছ'ৰ্চ, ড্ৰেইন, গেইট
+D) Positive, Negative, Neutral / ধনাত্মক, ঋণাত্মক, নিৰপেক্ষ
+Ans: B
+
+17. What happens to the resistance of a semiconductor on heating?
+
+উত্তপ্ত কৰিলে অৰ্ধপৰিবাহীৰ ৰোধৰ কি পৰিৱৰ্তন হয়?
+A) Increases / বৃদ্ধি পায়
+B) Decreases / হ্ৰাস পায়
+C) Remains same / একে থাকে
+D) First increases then decreases / প্ৰথমে বাঢ়ে তাৰ পিছত কমে
+Ans: B
+
+18. Which metal is the best conductor of electricity?
+
+কোনটো ধাতু বিদ্যুৎ পৰিবহণৰ বাবে শ্ৰেষ্ঠ?
+A) Copper / তাম
+B) Gold / সোণ
+C) Silver / ৰূপ
+D) Aluminum / এলুমিনিয়াম
+Ans: C
+
+19. Which non-metal is a good conductor of electricity?
+
+কোনটো অধাতু বিদ্যুৎ পৰিবাহী?
+A) Diamond / হীৰা
+B) Graphite / গ্ৰেফাইট
+C) Sulfur / চালফাৰ
+D) Phosphorus / ফছফৰাছ
+Ans: B
+
+20. The reciprocal of resistance is called:
+
+ৰোধৰ বিপৰীত ৰাশিক কি বোলা হয়?
+A) Conductance / পৰিবাহিত
+B) Resistivity / আপেক্ষিক ৰোধ
+C) Inductance / আৱেশকত্ব
+D) Susceptibility / সংবেদনশীলতা
+Ans: A
+
+21. SI unit of conductance is:
+
+পৰিবাহিতাৰ SI একক কি?
+A) Ohm / ওম
+B) Siemens (or Mho) / চিমেনছ (বা ম' )
+C) Henry / হেনৰী
+D) Tesla / টেছলা
+Ans: B
+
+22. The reciprocal of resistivity is called:
+
+আপেক্ষিক ৰোধৰ বিপৰীত ৰাশিক কি বোলা হয়?
+A) Conductance / পৰিবাহিতা
+B) Conductivity / আপেক্ষিক পৰিবাহিতা
+C) Resistance / ৰোধ
+D) Permeability / প্ৰৱেশ্যতা
+Ans: B
+
+23. SI unit of resistivity is:
+
+আপেক্ষিক ৰোধৰ SI একক কি?
+A) Ohm-meter / ওম-মিটাৰ
+B) Ohm/meter / ওম/মিটাৰ
+C) Siemens / চিমেনছ
+D) Volt/meter / ভোল্ট/মিটাৰ
+Ans: A
+
+24. Superconductors are materials that have:
+
+অতিপৰিবাহী (Superconductors) পদাৰ্থবোৰৰ:
+A) Zero resistance / ৰোধ শূন্য
+B) Infinite resistance / ৰোধ অসীম
+C) Moderate resistance / ৰোধ মজলীয়া
+D) Very high resistance / ৰোধ অতি উচ্চ
+Ans: A
+
+25. Temperature at which a material becomes superconductor is called:
+
+যি উষ্ণতাত কোনো পদাৰ্থ অতিপৰিবাহীলৈ ৰূপান্তৰিত হয় তাক কি বোলা হয়?
+A) Absolute temperature / পৰম উষ্ণতা
+B) Critical temperature / সংকট উষ্ণতা
+C) Curie temperature / ক্যুৰী উষ্ণতা
+D) Room temperature / কোঠাৰ উষ্ণতা
+Ans: B

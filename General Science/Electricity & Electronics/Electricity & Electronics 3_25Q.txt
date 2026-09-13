@@ -1,0 +1,224 @@
+1. Electric Potential is a:
+
+বৈদ্যুতিক বিভৱ কি ৰাশি?
+A) Scalar quantity / স্কোলাৰ ৰাশি
+B) Vector quantity / ভেক্টৰ ৰাশি
+C) Tensor quantity / টেনছৰ ৰাশি
+D) Dimensionless quantity / মাত্ৰাহীন ৰাশি
+Ans: A
+
+2. SI unit of Electric Potential difference is:
+
+বৈদ্যুতিক বিভৱ পাৰ্থক্যৰ SI একক কি?
+A) Ampere / এম্পিয়াৰ
+B) Coulomb / কুলম্ব
+C) Volt / ভোল্ট
+D) Watt / ৱাট
+Ans: C
+
+3. Energy consumed by 100 Watt bulb in 10 hours is:
+
+100 ৱাটৰ বাল্ব এটাই 10 ঘণ্টাত কিমান শক্তি খৰচ কৰিব?
+A) 1 kWh (1 Unit)
+B) 10 kWh
+C) 0.1 kWh
+D) 100 kWh
+Ans: A
+
+4. Work done per unit charge is called:
+
+প্ৰতি একক আধান কাৰ্য কৰাক কি বোলা হয়?
+A) Electric Field / বৈদ্যুতিক ক্ষেত্ৰ
+B) Potential Difference / বিভৱ পাৰ্থক্য
+C) Electric Current / বিদ্যুৎ প্ৰবাহ
+D) Resistance / ৰোধ
+Ans: B
+
+5. Conventional direction of electric current is opposite to the flow of:
+
+বিদ্যুৎ প্ৰবাহৰ পৰম্পৰাগত দিশ কাৰ গতিৰ বিপৰীত?
+A) Protons / প্ৰ'টন
+B) Electrons / ইলেক্ট্ৰন
+C) Neutrons / নিউট্ৰন
+D) Positive ions / ধনাত্মক আয়ন
+Ans: B
+
+6. The chemical energy converted into electrical energy occurs in:
+
+ৰাসায়নিক শক্তিক বৈদ্যুতিক শক্তিলৈ ৰূপান্তৰ ক'ত হয়?
+A) Electric Fan / বৈদুতিক পাখা
+B) Electric Cell (Battery) / বৈদুতিক কোষ (বেটাৰী)
+C) Dynamo / ডাইনাম'
+D) Solar Panel / সৌৰ পেনেল
+Ans: B
+
+7. Primary cell is one which:
+
+প্ৰাথমিক কোষ (Primary cell) কি?
+A) Can be recharged / পুনৰ ৰিচাৰ্জ কৰিব পাৰি
+B) Cannot be recharged / পুনৰ ৰিচাৰ্জ কৰিব নোৱাৰি
+C) Gives alternating current / পৰিৱৰ্তী প্ৰবাহ দিয়ে
+D) Has infinite life / অসীম আয়ুস আছে
+Ans: B
+
+8. Example of a secondary (rechargeable) cell is:
+
+গৌণ (ৰিচাৰ্জ কৰিব পৰা) কোষৰ উদাহৰণ হ'ল:
+A) Dry Cell / ড্ৰাই চেল
+B) Lead-acid Battery / লিড-এচিড বেটাৰী
+C) Daniel Cell / ডেনিয়েল চেল
+D) Voltaic Cell / ভোল্টাইক চেল
+Ans: B
+
+9. Acid used in lead storage battery is:
+
+লিড ষ্ট'ৰেজ বেটাৰীত ব্যৱহৃত এচিড কি?
+A) Hydrochloric acid / হাইড্ৰ'ক্লৰিক এচিড
+B) Nitric acid / নাইট্ৰিক এচিড
+C) Sulfuric acid / চালফিউৰিক এচিড
+D) Acetic acid / এচেটিক এচিড
+Ans: C
+
+10. Electric current through a metallic conductor produces:
+
+ধাতৱ পৰিবাহীৰ মাজেৰে বৈ যোৱা বৈদুতিক প্ৰবাহে কি সৃষ্টি কৰে?
+A) Heating effect / তাপীয় প্ৰভাৱ
+B) Magnetic effect / চুম্বকীয় প্ৰভাৱ
+C) Chemical effect / ৰাসায়নিক প্ৰভাৱ
+D) All of the above / ওপৰৰ আটাইবোৰ
+Ans: D
+
+11. Magnetic effect of electric current was discovered by:
+
+বৈদ্যুতিক প্ৰবাহৰ চুম্বকীয় প্ৰভাৱ কোনে আৱিষ্কাৰ কৰিছিল?
+A) Faraday / ফাৰাডে
+B) Oersted / অ'ৰষ্টেড
+C) Newton / নিউটন
+D) Joule / জুল
+Ans: B
+
+12. Laws of Electromagnetic Induction were given by:
+
+বৈদ্যুত-চুম্বকীয় আৱেশৰ নিয়ম কোনে দিছিল?
+A) Michael Faraday / মাইকেল ফাৰাডে
+B) Ohm / ওম
+C) Coulomb / কুলম্ব
+D) Edison / এডিচন
+Ans: A
+
+13. Fleming's Left-Hand Rule is used to find the direction of:
+
+ফ্লেমিংৰ বাওঁহাতৰ নিয়ম কিহৰ দিশ নিৰ্ণয় কৰিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Magnetic field / চুম্বকীয় ক্ষেত্ৰ
+B) Induced current / আৱিষ্ট প্ৰবাহ
+C) Force on a current-carrying conductor / প্ৰবাহযুক্ত পৰিবাহীৰ ওপৰত ক্ৰিয়াশীল বল
+D) Electric potential / বৈদ্যুতিক বিভৱ
+Ans: C
+
+14. Fleming's Right-Hand Rule is used to find the direction of:
+
+ফ্লেমিংৰ সোঁহাতৰ নিয়ম কিহৰ দিশ নিৰ্ণয় কৰিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Induced Current / আৱিষ্ট প্ৰবাহ
+B) Magnetic force / চুম্বকীয় বল
+C) Motion of conductor / পৰিবাহীৰ গতি
+D) Electric charge / বৈদ্যুতিক আধান
+Ans: A
+
+15. The device used for detecting small electric currents is:
+
+ক্ষুদ্ৰ বৈদ্যুতিক প্ৰবাহ চিনাক্ত কৰিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰ হ'ল:
+A) Voltmeter / ভোল্টমিটাৰ
+B) Galvanometer / গালভানোমিটাৰ
+C) Wattmeter / ৱাটমিটাৰ
+D) Ammeter / এমিটাৰ
+Ans: B
+
+16. A Galvanometer can be converted into an Ammeter by connecting:
+
+গালভানোমিটাৰক কেনেকৈ এমিটাৰলৈ ৰূপান্তৰ কৰিব পাৰি?
+A) High resistance in series / শ্ৰেণীবদ্ধ সজ্জাত উচ্চ ৰোধ যোগ কৰি
+B) Low resistance in parallel (Shunt) / সমান্তৰাল সজ্জাত নিম্ন ৰোধ (শ্বাণ্ট) যোগ কৰি
+C) Low resistance in series / শ্ৰেণীবদ্ধ সজ্জাত নিম্ন ৰোধ যোগ কৰি
+D) High resistance in parallel / সমান্তৰাল সজ্জাত উচ্চ ৰোধ যোগ কৰি
+Ans: B
+
+17. A Galvanometer can be converted into a Voltmeter by connecting:
+
+গালভানোমিটাৰক কেনেকৈ ভোল্টমিটাৰলৈ ৰূপান্তৰ কৰিব পাৰি?
+A) Low resistance in parallel / সমান্তৰাল সজ্জাত নিম্ন ৰোধ যোগ কৰি
+B) High resistance in series / শ্ৰেণীবদ্ধ সজ্জাত উচ্চ ৰোধ যোগ কৰি
+C) High resistance in parallel / সমান্তৰাল সজ্জাত উচ্চ ৰোধ যোগ কৰি
+D) Low resistance in series / শ্ৰেণীবদ্ধ সজ্জাত নিম্ন ৰোধ যোগ কৰি
+Ans: B
+
+18. What is the standard voltage supplied to domestic households in India?
+
+ভাৰতত ঘৰুৱা ব্যৱহাৰৰ বাবে মানক ভোল্টেজ কিমান?
+A) 110 V
+B) 220 V - 230 V
+C) 440 V
+D) 12 V
+Ans: B
+
+19. Wire with green insulation in domestic wiring is generally used for:
+
+ঘৰুৱা ওৱাৰিংত সেউজীয়া আৱৰণ থকা তাঁৰ কিহৰ বাবে ব্যৱহৃত হয়?
+A) Live wire / জীৱন্ত তাঁৰ
+B) Neutral wire / নিৰপেক্ষ (নিউট্ৰেল) তাঁৰ
+C) Earth wire / ভূ-সংযোজক (আৰ্থ) তাঁৰ
+D) Phase wire / ফেজ তাঁৰ
+Ans: C
+
+20. Live wire in domestic circuit usually has insulation of color:
+
+ঘৰুৱা বৰ্তনীৰ জীৱন্ত তাঁৰৰ আৱৰণৰ ৰং সাধাৰণতে কি হয়?
+A) Green / সেউজীয়া
+B) Black / ক'লা
+C) Red or Brown / ৰঙা বা বাদামী
+D) Yellow / হালধীয়া
+Ans: C
+
+21. Neutral wire color code is traditionally:
+
+পৰম্পৰাগতভাৱে নিউট্ৰেল তাঁৰৰ ৰং কি?
+A) Red / ৰঙা
+B) Black or Blue / ক'লা বা নীলা
+C) Green / সেউজীয়া
+D) White / বগা
+Ans: B
+
+22. Electrical appliances are connected in domestic circuits in:
+
+ঘৰুৱা বৰ্তনীত বৈদ্যুতিক সঁজুলিবোৰ কেনেকৈ সংযোগ কৰা হয়?
+A) Series / শ্ৰেণীবদ্ধ সজ্জাত
+B) Parallel / সমান্তৰাল সজ্জাত
+C) Combination / মিশ্ৰিত সজ্জাত
+D) Randomly / যিকোনো ধৰণে
+Ans: B
+
+23. Why are domestic appliances connected in parallel?
+
+ঘৰুৱা সঁজুলিবোৰ সমান্তৰালভাৱে কিয় সংযোগ কৰা হয়?
+A) To get same current / একে বিদ্যুৎ প্ৰবাহ পাবলৈ
+B) Each device gets full voltage and works independently / প্ৰত্যেকটো সঁজুলিয়ে সম্পূৰ্ণ ভোল্টেজ পায় আৰু স্বতন্ত্ৰভাৱে কাম কৰে
+C) To increase overall resistance / মুঠ ৰোধ বৃদ্ধি কৰিবলৈ
+D) To save power / বিদ্যুৎ শক্তি ৰাহি কৰিবলৈ
+Ans: B
+
+24. Equivalent resistance in series connection is:
+
+শ্ৰেণীবদ্ধ সজ্জাত তুল্য ৰোধ কি হয়?
+A) Sum of individual resistances / সুকীয়া ৰোধসমূহৰ যোগফল
+B) Less than the smallest resistance / আটাইতকৈ সৰু ৰোধতকৈ কম
+C) Reciprocal sum / বিপৰীত অনুপাতৰ যোগফল
+D) Zero / শূন্য
+Ans: A
+
+25. Equivalent resistance in parallel connection is:
+
+সমান্তৰাল সজ্জাত তুল্য ৰোধ কি হয়?
+A) Sum of all resistances / সকলো ৰোধৰ যোগফল
+B) Less than the smallest individual resistance / আটাইতকৈ সৰু ৰোধতকৈও কম
+C) Greater than the largest resistance / আটাইতকৈ ডাঙৰ ৰোধতকৈও বেছি
+D) Equal to maximum resistance / সৰ্বোচ্চ ৰোধৰ সমান
+Ans: B

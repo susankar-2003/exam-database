@@ -1,0 +1,224 @@
+1. What is the unit of electric current?
+
+বিদ্যুৎ প্ৰবাহৰ একক কি?
+A) Volt / ভোল্ট
+B) Ampere / এম্পিয়াৰ
+C) Ohm / ওম
+D) Watt / ৱাট
+Ans: B
+
+2. Which device is used to measure electric current?
+
+বিদ্যুৎ প্ৰবাহ জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Voltmeter / ভোল্টমিটাৰ
+B) Ammeter / এমিটাৰ
+C) Galvanometer / গালভানোমিটাৰ
+D) Potentiometer / পোটেনচিঅ'মিটাৰ
+Ans: B
+
+3. Resistance of a conductor is inversely proportional to its:
+
+পৰিবাহীৰ ৰোধ কাৰ বিপৰীত সমানুপাতিক?
+A) Length / দৈৰ্ঘ্য
+B) Area of cross-section / প্ৰস্থচ্ছেদৰ কালি
+C) Temperature / উত্তাপ
+D) Material / পদাৰ্থ
+Ans: B
+
+4. The SI unit of electrical resistance is:
+
+বৈদ্যুতিক ৰোধৰ S.I. একক কি?
+A) Ampere / এম্পিয়াৰ
+B) Volt / ভোল্ট
+C) Ohm / ওম
+D) Coulomb / কুলম্ব
+Ans: C
+
+5. Which filament is used in a traditional incandescent electric bulb?
+
+পৰম্পৰাগত বৈদুতিক বাল্বত কি ফিলামেন্ট ব্যৱহাৰ কৰা হয়?
+A) Copper / তাম
+B) Tungsten / টাংষ্টেন
+C) Aluminum / এলুমিনিয়াম
+D) Nichrome / নাইক্ৰ'ম
+Ans: B
+
+6. Commercial unit of electric energy is:
+
+বৈদ্যুতিক শক্তিৰ ব্যৱসায়িক একক কি?
+A) Joule / জুল
+B) Watt-hour / ৱাট-ঘণ্টা
+C) Kilowatt-hour / কিলোৱাট-ঘণ্টা
+D) Volt-ampere / ভোল্ট-এম্পিয়াৰ
+Ans: C
+
+7. One kilowatt-hour (1 kWh) is equal to how many Joules?
+
+এক কিলোৱাট-ঘণ্টা (1 kWh) কিমান জুলৰ সমান?
+A) 3.6 x 10^5 J
+B) 3.6 x 10^6 J
+C) 36 x 10^6 J
+D) 0.36 x 10^6 J
+Ans: B
+
+8. Fuse wire is made of an alloy of:
+
+ফিউজ তাঁৰ কিহৰ সংকৰ ধাতুখণ্ডৰে তৈয়াৰী?
+A) Tin and Lead / টিন আৰু সীহ
+B) Copper and Zinc / তাম আৰু দস্তা
+C) Lead and Copper / সীহ আৰু তাম
+D) Iron and Tin / লো আৰু টিন
+Ans: A
+
+9. A good fuse wire should have:
+
+এটা ভাল ফিউজ তাঁৰৰ কি গুণ থাকিব লাগে?
+A) High melting point and low resistance / উচ্চ গলনাংক আৰু কম ৰোধ
+B) Low melting point and high resistance / নিম্ন গলনাংক আৰু উচ্চ ৰোধ
+C) High melting point and high resistance / উচ্চ গলনাংক আৰু উচ্চ ৰোধ
+D) Low melting point and low resistance / নিম্ন গলনাংক আৰু কম ৰোধ
+Ans: B
+
+10. What type of current is supplied to houses for domestic use?
+
+ঘৰুৱা ব্যৱহাৰৰ বাবে কি প্ৰকাৰৰ বিদ্যুৎ যোগান ধৰা হয়?
+A) Direct Current (DC) / প্ৰত্যক্ষ প্ৰবাহ
+B) Alternating Current (AC) / পৰিৱৰ্তী প্ৰবাহ
+C) Pulsating Current / স্পন্দিত প্ৰবাহ
+D) Constant Current / ধ্ৰুৱক প্ৰবাহ
+Ans: B
+
+11. What is the frequency of AC power supply in India?
+
+ভাৰতত AC বিদ্যুৎ যোগানৰ কম্পনাংক কিমান?
+A) 50 Hz
+B) 60 Hz
+C) 100 Hz
+D) 220 Hz
+Ans: A
+
+12. Which material is a semiconductor?
+
+তলৰ কোনটো পদাৰ্থ অৰ্ধপৰিবাহী?
+A) Copper / তাম
+B) Silicon / চিলিকন
+C) Wood / কাঠ
+D) Silver / ৰূপ
+Ans: B
+
+13. The device that converts AC to DC is called a:
+
+AC ক DC লৈ ৰূপান্তৰ কৰা যন্ত্ৰটোক কি বোলা হয়?
+A) Transformer / ট্ৰান্সফৰ্মাৰ
+B) Rectifier / ৰেক্টিফায়াৰ
+C) Inverter / ইনভাৰ্টাৰ
+D) Generator / জেনেৰেটৰ
+Ans: B
+
+14. The device that converts DC to AC is called an:
+
+DC ক AC লৈ ৰূপান্তৰ কৰা যন্ত্ৰটোক কি বোলা হয়?
+A) Inverter / ইনভাৰ্টাৰ
+B) Rectifier / ৰেক্টিফায়াৰ
+C) Transformer / ট্ৰান্সফৰ্মাৰ
+D) Dynamo / ডাইনাম'
+Ans: A
+
+15. What works on the principle of electromagnetic induction?
+
+বৈদ্যুত-চুম্বকীয় আৱেশৰ নীতিৰ ওপৰত কি চালিত হয়?
+A) Electric Motor / বৈদুতিক মটৰ
+B) Electric Generator / বৈদুতিক জেনেৰেটৰ
+C) Electric Heater / বৈদুতিক হিটাৰ
+D) Electric Bulb / বৈদুতিক বাল্ব
+Ans: B
+
+16. Electric motor converts electrical energy into:
+
+বৈদ্যুতিক মটৰে বৈদ্যুতিক শক্তিক কি শক্তিলৈ ৰূপান্তৰ কৰে?
+A) Chemical Energy / ৰাসায়নিক শক্তি
+B) Mechanical Energy / যান্ত্ৰিক শক্তি
+C) Light Energy / পোহৰ শক্তি
+D) Sound Energy / শব্দ শক্তি
+Ans: B
+
+17. Ohm's Law gives the relationship between voltage and:
+
+ওমৰ সূত্ৰই ভোল্টেজ আৰু কাৰ মাজৰ সম্পৰ্ক দেখুৱায়?
+A) Power / ক্ষমতা
+B) Current / বিদ্যুৎ প্ৰবাহ
+C) Work / কাৰ্য
+D) Charge / আধান
+Ans: B
+
+18. Ohm's Law is valid only when temperature remains:
+
+ওমৰ সূত্ৰ কেৱল তেতিয়াহে প্ৰযোজ্য যেতিয়া উত্তাপ:
+A) Increasing / বৃদ্ধি পায়
+B) Decreasing / হ্ৰাস পায়
+C) Constant / স্থিৰ থাকে
+D) Zero / শূন্য হয়
+Ans: C
+
+19. Subatomic particle responsible for electric current in metals is:
+
+ধাতুত বিদ্যুৎ প্ৰবাহৰ বাবে দায়বদ্ধ উপ-পাৰমাণৱিক কণাটো কি?
+A) Proton / প্ৰ'টন
+B) Neutron / নিউট্ৰন
+C) Electron / ইলেক্ট্ৰন
+D) Positron / পজিট্ৰন
+Ans: C
+
+20. What is the unit of electric charge?
+
+বৈদ্যুতিক আধানৰ একক কি?
+A) Volt / ভোল্ট
+B) Joule / জুল
+C) Coulomb / কুলম্ব
+D) Faraday / ফাৰাডে
+Ans: C
+
+21. Resistance of an ideal ammeter should be:
+
+এটা আদৰ্শ এমিটাৰৰ ৰোধ কিমান হ'ব লাগে?
+A) Infinite / অসীম
+B) Very High / অতি বেছি
+C) Zero / শূন্য
+D) One Ohm / এক ওম
+Ans: C
+
+22. Resistance of an ideal voltmeter should be:
+
+এটা আদৰ্শ ভোল্টমিটাৰৰ ৰোধ কিমান হ'ব লাগে?
+A) Zero / শূন্য
+B) Infinite / অসীম
+C) Very Low / অতি কম
+D) 100 Ohms / ১০০ ওম
+Ans: B
+
+23. Ammeter is always connected in:
+
+এমিটাৰ সদায় কেনেকৈ সংযোগ কৰা হয়?
+A) Series / শ্ৰেণীবদ্ধ সজ্জাত
+B) Parallel / সমান্তৰাল সজ্জাত
+C) Both Series and Parallel / শ্ৰেণীবদ্ধ আৰু সমান্তৰাল দুয়োটাতে
+D) Neither / কোনোটাতে নহয়
+Ans: A
+
+24. Voltmeter is always connected in:
+
+ভোল্টমিটাৰ সদায় কেনেকৈ সংযোগ কৰা হয়?
+A) Series / শ্ৰেণীবদ্ধ সজ্জাত
+B) Parallel / সমান্তৰাল সজ্জাত
+C) Diagonal / তীৰ্যকভাৱে
+D) Direct / পোনপটীয়াকৈ
+Ans: B
+
+25. The heating element in an electric iron is made of:
+
+বৈদ্যুতিক ইস্ত্ৰিৰ উত্তাপক উপাদানটো কিহেৰে তৈয়াৰী?
+A) Copper / তাম
+B) Nichrome / নাইক্ৰ'ম
+C) Iron / লো
+D) Silver / ৰূপ
+Ans: B

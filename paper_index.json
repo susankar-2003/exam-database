@@ -1,5 +1,5 @@
 {
-    "last_serial": 425,
+    "last_serial": 433,
     "papers": {
         "1": {
             "id": "1",
@@ -2973,6 +2973,62 @@
             "path": "General Science/Basic Chemistry/Basic Chemistry 6_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%206_25Q.txt",
             "hash": "c34d9ada2e7b09c31732767721bcc64c"
+        },
+        "426": {
+            "id": "426",
+            "name": "Basic Physics 1_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%201_25Q.txt",
+            "hash": "6f7c53090a662b1703312ed749a88649"
+        },
+        "427": {
+            "id": "427",
+            "name": "Basic Physics 2_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%202_25Q.txt",
+            "hash": "cbe0089724fcfaa475a450873730e269"
+        },
+        "428": {
+            "id": "428",
+            "name": "Basic Physics 8_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 8_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%208_25Q.txt",
+            "hash": "7817a7d1710643d0cb583f3384e1412d"
+        },
+        "429": {
+            "id": "429",
+            "name": "Basic Physics 4_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%204_25Q.txt",
+            "hash": "77eb1907210e02d45e9449aeb9be69e5"
+        },
+        "430": {
+            "id": "430",
+            "name": "Basic Physics 3_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%203_25Q.txt",
+            "hash": "af46f62418b736db8da75d6e57910481"
+        },
+        "431": {
+            "id": "431",
+            "name": "Basic Physics 7_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 7_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%207_25Q.txt",
+            "hash": "c0cfc4a0ace8573795224a6d2b805954"
+        },
+        "432": {
+            "id": "432",
+            "name": "Basic Physics 6_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%206_25Q.txt",
+            "hash": "3fcd6e72f7c9e1823830e48d3a1f4c90"
+        },
+        "433": {
+            "id": "433",
+            "name": "Basic Physics 5_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%205_25Q.txt",
+            "hash": "1148794bbbd9348db0f7abf74833e5ad"
         }
     }
 }

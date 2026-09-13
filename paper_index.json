@@ -1,5 +1,5 @@
 {
-    "last_serial": 453,
+    "last_serial": 457,
     "papers": {
         "1": {
             "id": "1",
@@ -3169,6 +3169,34 @@
             "path": "General Science/Electricity & Electronics/Electricity & Electronics 5_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%205_25Q.txt",
             "hash": "5138c26da049e5e8c292ce0e6043cb71"
+        },
+        "454": {
+            "id": "454",
+            "name": "Scientific Instruments 3_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Scientific Instruments/Scientific Instruments 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Scientific%20Instruments/Scientific%20Instruments%203_25Q.txt",
+            "hash": "e13c524f765f8a1e60d1a7fa9a892c27"
+        },
+        "455": {
+            "id": "455",
+            "name": "Scientific Instruments 4_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Scientific Instruments/Scientific Instruments 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Scientific%20Instruments/Scientific%20Instruments%204_25Q.txt",
+            "hash": "b55f5fac77312f0215cd6fbbaaa4ca27"
+        },
+        "456": {
+            "id": "456",
+            "name": "Scientific Instruments 2_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Scientific Instruments/Scientific Instruments 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Scientific%20Instruments/Scientific%20Instruments%202_25Q.txt",
+            "hash": "961e5456a17979c6ef6cbebd02d5b228"
+        },
+        "457": {
+            "id": "457",
+            "name": "Scientific Instruments 1_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Scientific Instruments/Scientific Instruments 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Scientific%20Instruments/Scientific%20Instruments%201_25Q.txt",
+            "hash": "2be1a52338cb9afc42b3b07f778d895d"
         }
     }
 }

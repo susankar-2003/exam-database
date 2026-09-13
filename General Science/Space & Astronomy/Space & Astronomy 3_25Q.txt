@@ -1,0 +1,224 @@
+1. What is a vast cloud of gas and dust in space where new stars are born called?
+
+নতুন তৰাৰ জন্ম হোৱা মহাকাশৰ গেছ আৰু ধূলিকণাৰ বিশাল ডাৱৰটোক কি বোলা হয়?
+A) Galaxy / হাতীপটি
+B) Nebula / নীহাৰিকা (Nebula)
+C) Black Hole / কৃষ্ণগহ্বৰ
+D) Quasar / কোৱাছাৰ
+Ans: B
+
+2. What is the closest star system to our Solar System?
+
+আমাৰ সৌৰজগতৰ আটাইতকৈ ওচৰত থকা নক্ষত্ৰ ব্যৱস্থাটো কি?
+A) Sirius / চিৰিয়াছ
+B) Alpha Centauri / আলফা চেণ্টাউৰী
+C) Betelgeuse / বেটেলজিউছ
+D) Polaris / ধ্ৰুৱতৰা
+Ans: B
+
+3. Proxima Centauri is the individual star closest to which celestial body?
+
+প্ৰক্সিমা চেণ্টাউৰী কোনটো মহাজাগতিক বস্তুৰ আটাইতকৈ ওচৰত থকা ব্যক্তিগত নক্ষত্ৰ?
+A) Earth / পৃথিৱী
+B) Sun / সূৰ্য
+C) Moon / চন্দ্ৰ
+D) Polaris / ধ্ৰুৱতৰা
+Ans: B
+
+4. Which star is commonly used for navigation in the Northern Hemisphere because it points North?
+
+উত্তৰ গোলাৰ্ধত দিশ নিৰ্ণয়ৰ বাবে সাধাৰণতে কোনটো তৰা ব্যৱহাৰ কৰা হয় কাৰণ ই উত্তৰ দিশ সূচায়?
+A) Sirius / চিৰিয়াছ
+B) Polaris (North Star) / ধ্ৰুৱতৰা
+C) Vega / ভেগা
+D) Alpha Centauri / আলফা চেণ্টাউৰী
+Ans: B
+
+5. What is the brightest star in the night sky as viewed from Earth?
+
+পৃথিৱীৰ পৰা দেখা পোৱা ৰাতিৰ আকাশৰ আটাইতকৈ উজ্জ্বল তৰাটো কি?
+A) Sirius (Dog Star) / চিৰিয়াছ (Sirius)
+B) Polaris / ধ্ৰুৱতৰা
+C) Alpha Centauri / আলফা চেণ্টাউৰী
+D) Betelgeuse / বেটেলজিউছ
+Ans: A
+
+6. What color are the hottest main-sequence stars in the universe?
+
+মহাবিশ্বৰ আটাইতকৈ উত্তপ্ত মূল-শাৰীৰ তৰাবোৰৰ ৰং কি?
+A) Red / ৰঙা
+B) Yellow / হালধীয়া
+C) Blue / নীলা
+D) Orange / কমলা
+Ans: C
+
+7. Cool stars with relatively low surface temperatures appear in which primary color?
+
+আপেক্ষিকভাৱে কম পৃষ্ঠৰ উত্তাপ থকা শীতল তৰাবোৰ কোনটো মূল ৰঙত দেখা যায়?
+A) Blue / নীলা
+B) White / বগা
+C) Red / ৰঙা
+D) Green / সেউজীয়া
+Ans: C
+
+8. What is the theoretical final stage of a massive star after a supernova explosion?
+
+ছুপাৰন'ভা বিস্ফোৰণৰ পিছত এটা বিশাল তৰাৰ তাত্বিকভাৱে চূড়ান্ত পৰ্যায়টো কি?
+A) White Dwarf / বগা বামন
+B) Black Hole or Neutron Star / কৃষ্ণগহ্বৰ বা নিউট্ৰন তৰা
+C) Red Giant / ৰঙা দানৱ
+D) Protostar / প্ৰ'ট'ষ্টাৰ
+Ans: B
+
+9. The Chandrasekhar Limit defines the maximum mass of which type of stellar remnant?
+
+চন্দ্ৰশেখৰ সীমাই (Chandrasekhar Limit) কোন ধৰণৰ নক্ষত্ৰীয় অৱশেষৰ সৰ্বোচ্চ ভৰ নিৰ্ধাৰণ কৰে?
+A) White Dwarf / বগা বামন (White Dwarf)
+B) Neutron Star / নিউট্ৰন তৰা
+C) Red Giant / ৰঙা দানৱ
+D) Black Hole / কৃষ্ণগহ্বৰ
+Ans: A
+
+10. What is the value of the Chandrasekhar Limit in terms of Solar Mass?
+
+সৌৰ ভৰৰ হিচাপত চন্দ্ৰশেখৰ সীমাৰ মান কিমান?
+A) 1.0 Solar Mass / ১.০ সৌৰ ভৰ
+B) 1.4 Solar Mass / ১.৪ সৌৰ ভৰ
+C) 2.0 Solar Mass / ২.০ সৌৰ ভৰ
+D) 3.0 Solar Mass / ৩.০ সৌৰ ভৰ
+Ans: B
+
+11. Subrahmanyan Chandrasekhar was awarded the Nobel Prize in Physics for his work on what?
+
+সুব্ৰহ্মণ্যন চন্দ্ৰশেখৰক কিহৰ গৱেষণাৰ বাবে পদাৰ্থ বিজ্ঞানৰ নোবেল বঁটা প্ৰদান কৰা হৈছিল?
+A) Structure and evolution of stars / তৰাৰ গঠন আৰু বিৱৰ্তন
+B) Discovery of Raman Effect / ৰমন ক্ৰিয়াৰ আৱিষ্কাৰ
+C) Invention of Fiber Optics / ফাইবাৰ অপটিক্সৰ উদ্ভাৱন
+D) Cosmic ray scattering / মহাজাগতিক ৰশ্মি প্ৰকীৰ্ণন
+Ans: A
+
+12. What is the distance between the Earth and the Sun called in astronomical measurement?
+
+জ্যোতিৰ্বিজ্ঞানৰ পৰিমাপত পৃথিৱী আৰু সূৰ্য্যৰ মাজৰ গড় দূৰত্বক কি বোলা হয়?
+A) Light-year / পোহৰ-বৰ্ষ
+B) Astronomical Unit (AU) / এষ্ট্ৰ'নমিকেল ইউনিট (AU)
+C) Parsec / পাৰছেক
+D) Kilometer / কিলোমিটাৰ
+Ans: B
+
+13. Which unit of length is the largest among the following astronomical units?
+
+তলৰ জ্যোতিৰ্বিজ্ঞানৰ এককবোৰৰ ভিতৰত দৈৰ্ঘ্যৰ আটাইতকৈ ডাঙৰ এককটো কি?
+A) Light-year / পোহৰ-বৰ্ষ
+B) Astronomical Unit / এষ্ট্ৰ'নমিকেল ইউনিট
+C) Parsec / পাৰছেক (Parsec)
+D) Kilometer / কিলোমিটাৰ
+Ans: C
+
+14. Approximately how many light-years is 1 Parsec equal to?
+
+১ পাৰছেক আনুমানিক কিমান পোহৰ-বৰ্ষৰ সমান?
+A) 1.5 light-years
+B) 3.26 light-years
+C) 9.46 light-years
+D) 10 light-years
+Ans: B
+
+15. Which Indian space mission launched in 2015 is India's first dedicated multi-wavelength space observatory?
+
+২০১৫ চনত উৎক্ষেপণ কৰা কোনটো ভাৰতীয় মহাকাশ অভিযান ভাৰতৰ প্ৰথমটো বহুমুখী মহাকাশ পৰ্যবেক্ষণাগাৰ (Space Observatory)?
+A) Astrosat / এষ্ট্ৰ'চেট (Astrosat)
+B) Cartosat / কাৰ্টোচেট
+C) RISAT / ৰাইচেট
+D) NISAR / নিচাৰ
+Ans: A
+
+16. Orion is a well-known constellation commonly visible during which season?
+
+কালপুৰুষ (Orion) তৰামণ্ডলটো সাধাৰণতে কোনটো ঋতুত দেখা পোৱা যায়?
+A) Summer / গ্ৰীষ্মকাল
+B) Winter / শীতকাল
+C) Monsoon / বর্ষাকাল
+D) Spring / বসন্তকাল
+Ans: B
+
+17. What is the study of the origin, evolution, and ultimate fate of the Universe called?
+
+মহাবিশ্বৰ উৎপত্তি, বিৱৰ্তন আৰু চূড়ান্ত পৰিণতি সংক্ৰান্তিয় অধ্যয়নক কি বোলা হয়?
+A) Astrology / জ্যোতিষ শাস্ত্ৰ
+B) Cosmology / বিশ্বব্ৰহ্মাণ্ডবিদ্যা (Cosmology)
+C) Astronomy / জ্যোতিৰ্বিজ্ঞান
+D) Geology / ভূ-বিজ্ঞান
+Ans: B
+
+18. Which theory is the prevailing cosmological model explaining the origin of the Universe?
+
+মহাবিশ্বৰ উৎপত্তি ব্যাখ্যা কৰা আটাইতকৈ গ্ৰহণযোগ্য তত্ত্বটো কি?
+A) Steady State Theory / ষ্টেডি ষ্টেট থিয়ৰী
+B) Big Bang Theory / বিগ বেং তত্ত্ব (Big Bang Theory)
+C) Pulsating Universe Theory / পালচেটিং থিয়ৰী
+D) Nebular Hypothesis / নিহাৰিকা প্ৰকল্প
+Ans: B
+
+19. Who first proposed observational evidence that the Universe is expanding?
+
+মহাবিশ্ব সম্প্ৰসাৰিত হৈ আছে বুলি কোনে প্ৰথম পৰ্যবেক্ষণমূলক প্ৰমাণ আগবঢ়াইছিল?
+A) Albert Einstein / আলবাৰ্ট আই প্ৰমাণ
+B) Edwin Hubble / এডৱিন হাবল
+C) Isaac Newton / আইজাক নিউটন
+D) Stephen Hawking / স্টিফেন হকিং
+Ans: B
+
+20. What space telescope launched in 1990 revolutionized observational astronomy from Earth orbit?
+
+১৯৯০ চনত উৎক্ষেপণ কৰা কোনটো মহাকাশ দূৰবীক্ষণে পৃথিৱীৰ কক্ষপথৰ পৰা দৃশ্যমান জ্যোতিৰ্বিজ্ঞানত বিপ্লৱ আনিছিল?
+A) James Webb Space Telescope / জেমছ ৱেব স্পেছ টেলিস্কোপ
+B) Hubble Space Telescope / হাবল স্পেছ টেলিস্কোপ
+C) Chandra X-ray Observatory / চন্দ্ৰা এক্স-ৰে অবজাৰভেটৰী
+D) Spitzer Space Telescope / স্পিটজাৰ স্পেছ টেলিস্কোপ
+Ans: B
+
+21. Which flagship space telescope was launched in December 2021 as the successor to Hubble?
+
+হাবলৰ উত্তৰাধিকাৰী হিচাপে ২০২১ চনৰ ডিচেম্বৰত উৎক্ষেপণ কৰা ফ্ল্যাগশ্বিপ মহাকাশ দূৰবীক্ষণ যন্ত্ৰটো কি?
+A) James Webb Space Telescope / জেমছ ৱেব স্পেছ টেলিস্কোপ
+B) Kepler Telescope / কেপলাৰ টেলিস্কোপ
+C) Spitzer Telescope / স্পিটজাৰ টেলিস্কোপ
+D) Herschel Observatory / হাৰ্ছেল অবজাৰভেটৰী
+Ans: A
+
+22. What is the spectral phenomenon where light from expanding distant galaxies shifts toward longer wavelengths?
+
+সম্প্ৰসাৰিত দূৰৱৰ্তী হাতীপটিৰ পৰা অহা পোহৰ দীঘলীয়া তৰংগদৈৰ্ঘ্যলৈ গতি কৰা বৰ্ণালীীয় পৰিঘটনাক কি বোলে?
+A) Blue Shift / ব্লু শিফ্ট
+B) Redshift / ৰেডশিফ্ট (Redshift)
+C) Doppler Freeze / ডপলাৰ ফ্ৰীজ
+D) Refraction / প্ৰতিসৰণ
+Ans: B
+
+23. What is the approximate speed of light in vacuum?
+
+শূন্যত পোহৰৰ আনুমানিক গতিবেগ কিমান?
+A) 3 x 10^5 km/s / ৩ x ১০^৫ কিমি/ছেকেণ্ড
+B) 3 x 10^8 km/s / ৩ x ১০^৮ কিমি/ছেকেণ্ড
+C) 1.5 x 10^5 km/s / ১.৫ x ১০^৫ কিমি/ছেকেণ্ড
+D) 3 x 10^6 km/s / ৩ x ১০^৬ কিমি/ছেকেণ্ড
+Ans: A
+
+24. Which planet has the shortest year (fastest revolution around the Sun)?
+
+কোনটো গ্ৰহৰ বছৰ আটাইতকৈ চুটি (সূৰ্য্যৰ চাৰিওফালে আটাইতকৈ দ্ৰুত পৰিক্ৰমা)?
+A) Venus / শুক্ৰ
+B) Mercury / বুধ
+C) Mars / মঙ্গল
+D) Earth / পৃথিৱী
+Ans: B
+
+25. Which planet has the longest day (slowest rotation on its axis)?
+
+কোনটো গ্ৰহৰ দিন আটাইতকৈ দীঘলীয়া (নিজ অক্ষত আটাইতকৈ লেহেমীয়া ঘূৰ্ণন)?
+A) Venus / শুক্ৰ
+B) Mercury / বুধ
+C) Mars / মঙ্গল
+D) Jupiter / বৃহস্পতি
+Ans: AS

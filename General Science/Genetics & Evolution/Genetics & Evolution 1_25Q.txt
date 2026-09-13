@@ -1,0 +1,224 @@
+1. Who is known as the Father of Genetics?
+
+জেনেটিক্স বা বংশগতিবিদ্যাক কাক পিতৃ বুলি জনা যায়?
+A) Gregor Mendel / গ্ৰেগৰ মেণ্ডেল
+B) Charles Darwin / চাৰ্লছ ডাৰৱিন
+C) Jean-Baptiste Lamarck / জীন-বেপ্টিষ্ট লেমাৰ্ক
+D) Thomas Hunt Morgan / থমাছ হান্ট মৰ্গান
+Ans: A
+
+2. Which plant did Gregor Mendel use for his experiments on inheritance?
+
+মেণ্ডেলে বংশগতিৰ পৰীক্ষাৰ বাবে কোনটো উদ্ভিদ ব্যৱহাৰ কৰিছিল?
+A) Sweet pea / মিঠা মটৰ
+B) Garden pea / বাগিচাৰ মটৰ
+C) Mustard plant / সৰিয়হ গছ
+D) Sunflower / সূৰ্যমুখী
+Ans: B
+
+3. What is the phenotypic ratio of a monohybrid cross in the F2 generation?
+
+F2 প্ৰজন্মত একসংকৰ প্ৰজননৰ ফিন'টাইপীয় অনুপাত কিমান?
+A) 3:1 / ৩:১
+B) 1:2:1 / ১:২:১
+C) 9:3:3:1 / ৯:৩:৩:১
+D) 2:1 / ২:১
+Ans: A
+
+4. What is the genotypic ratio of a monohybrid cross in the F2 generation?
+
+F2 প্ৰজন্মত একসংকৰ প্ৰজননৰ জিন'টাইপীয় অনুপাত কিমান?
+A) 3:1 / ৩:১
+B) 1:2:1 / ১:২:১
+C) 9:3:3:1 / ৯:৩:৩:১
+D) 1:1 / ১:১
+Ans: B
+
+5. What is the phenotypic ratio of a dihybrid cross in the F2 generation?
+
+F2 প্ৰজন্মত দ্বিসংকৰ প্ৰজননৰ ফিন'টাইপীয় অনুপাত কিমান?
+A) 3:1 / ৩:১
+B) 1:2:1 / ১:২:১
+C) 9:3:3:1 / ৯:৩:৩:১
+D) 12:3:1 / ১২:৩:১
+Ans: C
+
+6. What is the basic functional unit of heredity?
+
+বংশগতিৰ মৌলিক কাৰ্যকৰী একক কি?
+A) Chromosome / ক্ৰ'ম'জ'ম
+B) Gene / জিন
+C) DNA / ডি.এন.এ.
+D) Nucleus / নিউক্লিয়াছ
+Ans: B
+
+7. Alternate forms of the same gene are known as what?
+
+একেটা জিনৰ বিকল্প ৰূপবোৰক কি বোলা হয়?
+A) Alleles / এলিল
+B) Chromosomes / ক্ৰ'ম'জ'ম
+C) Genotypes / জিন'টাইপ
+D) Phenotypes / ফিন'টাইপ
+Ans: A
+
+8. The physical or observable appearance of an organism is called what?
+
+জীৱ এটাৰ বাহ্যিক লক্ষণ বা বৈশিষ্ট্যক কি বোলা হয়?
+A) Genotype / জিন'টাইপ
+B) Phenotype / ফিন'টাইপ
+C) Karyotype / কেৰিয়'টাইপ
+D) Idiogram / ইডিঅ'গ্ৰাম
+Ans: B
+
+9. The genetic makeup of an organism is referred to as what?
+
+জীৱ এটাৰ জিনীয় গঠনক কি বোলা হয়?
+A) Phenotype / ফিন'টাইপ
+B) Genotype / জিন'টাইপ
+C) Prototype / প্ৰ'ট'টাইপ
+D) Somatotype / ছ'মাট'টাইপ
+Ans: B
+
+10. Which scientist proposed the Theory of Natural Selection?
+
+প্ৰাকৃতিক নিৰ্বাচন তত্ত্ব কোন বিজ্ঞানীয়ে প্ৰস্তাৱ কৰিছিল?
+A) Jean-Baptiste Lamarck / জীন-বেপ্টিষ্ট লেমাৰ্ক
+B) Charles Darwin / চাৰ্লছ ডাৰৱিন
+C) Hugo de Vries / হিউগ' ডি ভ্ৰীছ
+D) Gregor Mendel / গ্ৰেগৰ মেণ্ডেল
+Ans: B
+
+11. Who authored the famous book 'On the Origin of Species'?
+
+'অন দ্য অৰিজিন অৱ স্পেছিছ' নামৰ বিখ্যাত গ্ৰন্থখন কোনে ৰচনা কৰিছিল?
+A) Charles Darwin / চাৰ্লছ ডাৰৱিন
+B) Alfred Russel Wallace / আলফ্ৰেড ৰাছেল ৱালেছ
+C) Lamarck / লেমাৰ্ক
+D) Mendel / মেণ্ডেল
+Ans: A
+
+12. The theory of inheritance of acquired characters was proposed by whom?
+
+অৰ্জিত লক্ষণৰ বংশানুক্ৰম তত্ত্ব কোনে প্ৰস্তাৱ কৰিছিল?
+A) Charles Darwin / চাৰ্লছ ডাৰৱিন
+B) Jean-Baptiste Lamarck / জীন-বেপ্টিষ্ট লেমাৰ্ক
+C) August Weismann / আগষ্ট ৱাইজমেন
+D) Hugo de Vries / হিউগ' ডি ভ্ৰীছ
+Ans: B
+
+13. Who proposed the Mutation Theory of evolution?
+
+বিৱৰ্তনৰ মিউটেচন বা পৰিৱ্যক্তি তত্ত্ব কোনে আগবঢ়াইছিল?
+A) Hugo de Vries / হিউগ' ডি ভ্ৰীছ
+B) Charles Darwin / চাৰ্লছ ডাৰৱিন
+C) Thomas Morgan / থমাছ মৰ্গান
+D) Lamarck / লেমাৰ্ক
+Ans: A
+
+14. How many pairs of chromosomes are found in a normal human somatic cell?
+
+মানুহৰ সাধাৰণ দৈহিক কোষত কেইযোৰ ক্ৰ'ম'জ'ম পোৱা যায়?
+A) 22 pairs / ২২ যোৰ
+B) 23 pairs / ২৩ যোৰ
+C) 46 pairs / ৪৬ যোৰ
+D) 24 pairs / ২৪ যোৰ
+Ans: B
+
+15. How many autosomes are present in human somatic cells?
+
+মানুহৰ দৈহিক কোষত কেইটা অ'ট'জ'ম থাকে?
+A) 22 / ২২
+B) 23 / ২৩
+C) 44 / ৪৪
+D) 46 / ৪৬
+Ans: C
+
+16. Which chromosome combination determines a human male?
+
+কোনটো ক্ৰ'ম'জ'মৰ সংযোগে পুৰুষ লিঙ্গ নিৰ্ধাৰণ কৰে?
+A) XX / এক্স-এক্স
+B) XY / এক্স-ৱাই
+C) YY / ৱাই-ৱাই
+D) XO / এক্স-অ'
+Ans: B
+
+17. Which chromosome combination determines a human female?
+
+কোনটো ক্ৰ'ম'জ'মৰ সংযোগে মহিলা লিঙ্গ নিৰ্ধাৰণ কৰে?
+A) XX / এক্স-এক্স
+B) XY / এক্স-ৱাই
+C) YY / ৱাই-ৱাই
+D) XO / এক্স-অ'
+Ans: A
+
+18. Who discovered the structure of the DNA double helix?
+
+ডি.এন.এ. ৰ দ্বি-সূত্ৰকাৰ গঠন কোনে আৱিষ্কাৰ কৰিছিল?
+A) Robert Brown and Hooke / ৰবাৰ্ট ব্ৰাউন আৰু হুক
+B) Watson and Crick / ৱাটছন আৰু ক্ৰিক
+C) Schleiden and Schwann / শ্লেইডেন আৰু শ্বৱান
+D) Avery and MacLeod / এভাৰী আৰু মেকলিয়ড
+Ans: B
+
+19. Which nitrogenous base is present in DNA but absent in RNA?
+
+ডি.এন.এ. ত থকা কিন্তু আৰ.এন.এ. ত নথকা নাইট্ৰ'জেন ঘাটিটো কি?
+A) Adenine / এডেনিন
+B) Guanine / গুৱানিন
+C) Thymine / থাইমিন
+D) Uracil / ইউৰেছিল
+Ans: C
+
+20. Which nitrogenous base is present in RNA instead of Thymine?
+
+থাইমিনৰ পৰিৱৰ্তে আৰ.এন.এ. ত কোনটো নাইট্ৰ'জেন ঘাটি থাকে?
+A) Uracil / ইউৰেছিল
+B) Cytosine / চাইট'ছিন
+C) Adenine / এডেনিন
+D) Guanine / গুৱানিন
+Ans: A
+
+21. Organs having similar origin and structure but performing different functions are called what?
+
+একে উৎপত্তি আৰু গঠন থকা কিন্তু বেলেগ কাম কৰা অঙ্গবোৰক কি বোলা হয়?
+A) Analogous organs / সমবৃত্তি অঙ্গ
+B) Homologous organs / সমসংস্থ অঙ্গ
+C) Vestigial organs / অবলুপ্তপ্ৰায় অঙ্গ
+D) Fossilized organs / জীৱাশ্ম অঙ্গ
+Ans: B
+
+22. Forelimbs of a human and wings of a bat are examples of which type of organs?
+
+মানুহৰ হাত আৰু বাদুলিৰ ডেউকা কোন প্ৰকাৰৰ অঙ্গৰ উদাহৰণ?
+A) Homologous organs / সমসংস্থ অঙ্গ
+B) Analogous organs / সমবৃত্তি অঙ্গ
+C) Vestigial organs / অবলুপ্তপ্ৰায় অঙ্গ
+D) Atavistic organs / পূৰ্বপুৰুষীয় অঙ্গ
+Ans: A
+
+23. Organs having different origin but performing similar functions are called what?
+
+বেলেগ উৎপত্তি কিন্তু একে কাৰ্য কৰা অঙ্গবোৰক কি বোলা হয়?
+A) Homologous organs / সমসংস্থ অঙ্গ
+B) Analogous organs / সমবৃত্তি অঙ্গ
+C) Vestigial organs / অবলুপ্তপ্ৰায় অঙ্গ
+D) Endemic organs / এণ্ডেমিক অঙ্গ
+Ans: B
+
+24. Wings of a butterfly and wings of a bird are examples of which type of organs?
+
+পখিলাৰ ডেউকা আৰু চৰাইৰ ডেউকা কোন প্ৰকাৰৰ অঙ্গৰ উদাহৰণ?
+A) Homologous organs / সমসংস্থ অঙ্গ
+B) Analogous organs / সমবৃত্তি অঙ্গ
+C) Vestigial organs / অবলুপ্তপ্ৰায় অঙ্গ
+D) Genetic organs / বংশগত অঙ্গ
+Ans: B
+
+25. Organs which are non-functional and reduced in size in an organism are called what?
+
+জীৱৰ শৰীৰত কাৰ্যহীন আৰু সৰু হৈ পৰা অঙ্গবোৰক কি বোলা হয়?
+A) Homologous organs / সমসংস্থ অঙ্গ
+B) Analogous organs / সমবৃত্তি অঙ্গ
+C) Vestigial organs / অবলুপ্তপ্ৰায় অঙ্গ
+D) Essential organs / অপৰিহাৰ্য অঙ্গ
+Ans: C

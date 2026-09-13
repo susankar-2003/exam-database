@@ -1,0 +1,224 @@
+1. Human ABO blood grouping is an example of which genetic principle?
+
+মানুহৰ ABO ৰক্ত গোট নিৰ্ধাৰণ কোনটো বংশগতি নীতিৰ উদাহৰণ?
+A) Multiple alleles / বহু-এলিল
+B) Incomplete dominance / অপূৰ্ণ প্ৰকটতা
+C) Pleiotropy / প্লীয়'ট্ৰ'পী
+D) Polygenic inheritance / পলিজেনিক বংশগতি
+Ans: A
+
+2. Red-green flower color inheritance in Snapdragon (Antirrhinum) shows which type of inheritance?
+
+স্নেপড্ৰেগন উদ্ভিদত ফুলৰ ৰঙৰ বংশগতিয়ে কোনটো প্ৰকাৰ দেখুৱায়?
+A) Incomplete dominance / অপূৰ্ণ প্ৰকটতা
+B) Complete dominance / পূৰ্ণ প্ৰকটতা
+C) Codominance / সহ-প্ৰকটতা
+D) Epistasis / এপিষ্টেছিছ
+Ans: A
+
+3. Expression of both alleles equally in a heterozygous condition is called what?
+
+হেটেৰ'জাইগাছ অৱস্থাত দুয়োটা এলিল সমানভাৱে প্ৰকাশ পোৱা কাৰ্যক কি বোলা হয়?
+A) Codominance / সহ-প্ৰকটতা
+B) Incomplete dominance / অপূৰ্ণ প্ৰকটতা
+C) Recessiveness / প্ৰচ্ছন্নতা
+D) Epistasis / এপিষ্টেছিছ
+Ans: A
+
+4. The process by which new species arise from existing ones is called what?
+
+পূৰ্বৱৰ্তী প্ৰজাতিৰ পৰা নতুন প্ৰজাতি সৃষ্টি হোৱা প্ৰক্ৰিয়াক কি বোলা হয়?
+A) Speciation / প্ৰজাতিজনন
+B) Adaptation / অভিযোজন
+C) Hybridization / সং কৰণ
+D) Mutation / মিউটেচন
+Ans: A
+
+5. Fossil age can be determined by which general method?
+
+জীৱাশ্মৰ বয়স সাধাৰণতে কোনটো পদ্ধতিৰে নিৰ্ধাৰণ কৰিব পাৰি?
+A) Radiometric dating / ৰেডিঅ'মেট্ৰিক ডেটিং
+B) Spectrophotometry / স্পেক্ট্ৰ'ফ'ট'মেট্ৰী
+C) Electrophoresis / ই্ৰেক্ট্ৰ'ফ'ৰেছিছ
+D) Chromatography / ক্ৰ'মেট'গ্ৰাফী
+Ans: A
+
+6. Identify the scientist who proposed the Chromosomal Theory of Inheritance.
+
+বংশগতিৰ ক্ৰ'ম'জ'ম তত্ত্ব প্ৰস্তাৱ কৰা বিজ্ঞানীদ্বয়ক চিনাক্ত কৰা।
+A) Sutton and Boveri / ছাটন আৰু ব'ভেৰী
+B) Watson and Crick / ৱাটছন আৰু ক্ৰিক
+C) Jacob and Monod / জেকব আৰু মন'ড
+D) Darwin and Wallace / ডাৰৱিন আৰু ৱালেছ
+Ans: A
+
+7. When a single gene controls multiple phenotypic traits, it is called what?
+
+যেতিয়া এটা জিনে একাধিক ফিন'টাইপীয় বৈশিষ্ট্য নিয়ন্ত্ৰণ কৰে, তাক কি বোলা হয়?
+A) Pleiotropy / প্লীয়'ট্ৰ'পী
+B) Polygeny / পলিজেনি
+C) Epistasis / এপিষ্টেছিছ
+D) Dominance / প্ৰকটতা
+Ans: A
+
+8. Human skin color inheritance is an example of what type of inheritance?
+
+মানুহৰ ছালৰ ৰঙৰ বংশগতি কি প্ৰকাৰৰ উদাহৰণ?
+A) Polygenic inheritance / পলিজেনিক বংশগতি
+B) Monogenic inheritance / মন'জেনিক বংশগতি
+C) Sex-linked inheritance / লিঙ্গ-সংলগ্ন বংশগতি
+D) Maternal inheritance / মাতৃক বংশগতি
+Ans: A
+
+9. Which gas was absent in the atmosphere of primitive Earth?
+
+আদিম পৃথিৱীৰ বায়ুমণ্ডলত কোনটো গেছ অনুপস্থিত আছিল?
+A) Free Oxygen / মুক্ত অক্সিজেন
+B) Methane / মিথেন
+C) Ammonia / এমনিয়া
+D) Water vapor / জলীয় বাষ্প
+Ans: A
+
+10. Industrial melanism observed in peppered moths in England is an evidence for what?
+
+ইংলেণ্ডৰ পেপাৰ্ড মথত দেখা উদ্যোগিক মেলানিজম কিহৰ প্ৰমাণ?
+A) Natural selection / প্ৰাকৃতিক নিৰ্বাচন
+B) Mutation / মিউটেচন
+C) Genetic drift / জেনেটিক ড্ৰিফ্ট
+D) Inheritance of acquired characters / অৰ্জিত লক্ষণৰ বংশানুক্ৰম
+Ans: A
+
+11. What are the nitrogenous bases belonging to Purines?
+
+প্ৰিউৰিন শ্ৰেণীৰ অন্তৰ্ভুক্ত নাইট্ৰ'জেন ঘাটিবোৰ কি কি?
+A) Adenine and Guanine / এডেনিন আৰু গুৱানিন
+B) Cytosine and Thymine / চাইট'ছিন আৰু থাইমিন
+C) Thymine and Uracil / থাইমিন আৰু ইউৰেছিল
+D) Cytosine and Uracil / চাইট'ছিন আৰু ইউৰেছিল
+Ans: A
+
+12. What are the nitrogenous bases belonging to Pyrimidines in DNA?
+
+ডি.এন.এ. ত পাইৰিমাইডিন শ্ৰেণীৰ অন্তৰ্ভুক্ত নাইট্ৰ'জেন ঘাটিবোৰ কি কি?
+A) Cytosine and Thymine / চাইট'ছিন আৰু থাইমিন
+B) Adenine and Guanine / এডেনিন আৰু গুৱানিন
+C) Adenine and Thymine / এডেনিন আৰু থাইমিন
+D) Guanine and Cytosine / গুৱানিন আৰু চাইট'ছিন
+Ans: A
+
+13. Which law of Mendel states that alleles separate during gamete formation?
+
+মেণ্ডেলৰ কোনটো নিয়মে কয় যে জননকোষ গঠনৰ সময়ত এলিলবোৰ পৃথক হয়?
+A) Law of Segregation / পৃথকীকৰণ সূত্ৰ
+B) Law of Independent Assortment / স্বাতন্ত্ৰ্য প্ৰকাশৰ সূত্ৰ
+C) Law of Dominance / প্ৰকটতা সূত্ৰ
+D) Law of Linkage / লিংকেজ সূত্ৰ
+Ans: A
+
+14. Mendel's Law of Independent Assortment can be demonstrated by which cross?
+
+মেণ্ডেলৰ স্বাতন্ত্ৰ্য প্ৰকাশৰ সূত্ৰ কোনটো সং কৰণৰ দ্বাৰা প্ৰমাণ কৰিব পাৰি?
+A) Dihybrid cross / দ্বিসংকৰ প্ৰজনন
+B) Monohybrid cross / একসংকৰ প্ৰজনন
+C) Test cross / টেষ্ট ক্ৰছ
+D) Back cross / বেক ক্ৰছ
+Ans: A
+
+15. A cross between an F1 hybrid and its recessive parent is called what?
+
+F1 সং কৰ আৰু তাৰ প্ৰচ্ছন্ন পিতৃ-মাতৃৰ মাজত কৰা ক্ৰছক কি বোলা হয়?
+A) Test cross / টেষ্ট ক্ৰছ
+B) Monohybrid cross / একসংকৰ ক্ৰছ
+C) Reciprocal cross / ৰেচিপ্ৰ'কেল ক্ৰছ
+D) Dihybrid cross / দ্বিসংকৰ ক্ৰছ
+Ans: A
+
+16. What is the phenotypic ratio of a test cross in a monohybrid trait?
+
+একসংকৰ বৈশিষ্ট্যৰ টেষ্ট ক্ৰছৰ ফিন'টাইপীয় অনুপাত কিমান?
+A) 1:1 / ১:১
+B) 3:1 / ৩:১
+C) 9:3:3:1 / ৯:৩:৩:১
+D) 1:2:1 / ১:২:১
+Ans: A
+
+17. What is the phenotypic ratio of a test cross in a dihybrid trait?
+
+দ্বিসংকৰ বৈশিষ্ট্যৰ টেষ্ট ক্ৰছৰ ফিন'টাইপীয় অনুপাত কিমান?
+A) 1:1:1:1 / ১:১:১:১
+B) 9:3:3:1 / ৯:৩:৩:১
+C) 3:1 / ৩:১
+D) 1:2:1:2 / ১:২:১:২
+Ans: A
+
+18. Tendency of genes on the same chromosome to remain inherited together is called what?
+
+একেটা ক্ৰ'ম'জ'মত থকা জিনবোৰ একেলগে বংশানুক্ৰমে সঞ্চাৰিত হোৱাৰ প্ৰৱণতাক কি বোলা হয়?
+A) Linkage / লিংকেজ
+B) Crossing over / ক্ৰছিং অভাৰ
+C) Segregation / পৃথকীকৰণ
+D) Mutation / মিউটেচন
+Ans: A
+
+19. Who discovered the phenomenon of genetic linkage?
+
+জেনেটিক লিংকেজ পৰিঘটনা কোনে আৱিষ্কাৰ কৰিছিল?
+A) Thomas Hunt Morgan / থমাছ হান্ট মৰ্গান
+B) Gregor Mendel / গ্ৰেগৰ মেণ্ডেল
+C) Hugo de Vries / হিউগ' ডি ভ্ৰীছ
+D) Henking / হেনকিং
+Ans: A
+
+20. The unit of distance between genes on a chromosome is measured in what?
+
+ক্ৰ'ম'জ'মত জিনৰ মাজৰ দূৰত্বৰ একক কিহৰ দ্বাৰা জোখা হয়?
+A) Centimorgan (cM) / সেণ্টিমৰ্গান
+B) Nanometer / নেন'মিটাৰ
+C) Angstrom / এংষ্ট্ৰম
+D) Millimeter / মিলিমিটাৰ
+Ans: A
+
+21. Genetic information flows from DNA to RNA to Protein. What is this concept called?
+
+জিনীয় তথ্য ডি.এন.এ. ৰ পৰা আৰ.এন.এ. আৰু তাৰ পৰা প্ৰ'টিনলৈ প্ৰবাহিত হয়। এই ধাৰণাটোক কি বোলা হয়?
+A) Central Dogma / চেণ্ট্ৰেল ডগমা
+B) Genetic Code / জেনেটিক ক'ড
+C) Transcription unit / ট্ৰান্সক্ৰিপশ্বন গোট
+D) Operon concept / অপাৰন ধাৰণা
+Ans: A
+
+22. Who proposed the Central Dogma of molecular biology?
+
+আণৱিক জীৱবিজ্ঞানৰ 'চেণ্ট্ৰেল ডগমা' ধাৰণাটো কোনে আগবঢ়াইছিল?
+A) Francis Crick / ফ্ৰান্সিছ ক্ৰিক
+B) James Watson / জেমেছ ৱাটছন
+C) Rosalind Franklin / ৰ'জালিণ্ড ফ্ৰেন্কলিন
+D) Erwin Chargaff / এৰৱিন চাৰগাফ
+Ans: A
+
+23. According to Chargaff's rule, in DNA the amount of Adenine is always equal to what?
+
+চাৰগাফৰ নিয়ম অনুসৰি, ডি.এন.এ. ত এডেনিনৰ পৰিমাণ সদায় কিহৰ সমান?
+A) Thymine / থাইমিন
+B) Guanine / গুৱানিন
+C) Cytosine / চাইট'ছিন
+D) Uracil / ইউৰেছিল
+Ans: A
+
+24. According to Chargaff's rule, the ratio of (A+G) to (T+C) is equal to what value?
+
+চাৰগাফৰ নিয়ম অনুসৰি, (A+G) আৰু (T+C) ৰ অনুপাত কিমানৰ সমান?
+A) 1 / ১
+B) 2 / ২
+C) 0.5 / ০.৫
+D) 3 / ৩
+Ans: A
+
+25. What is the start codon in protein synthesis?
+
+প্ৰ'টিন সংশ্লেষণত আৰম্ভণি ক'ডন (Start codon) টো কি?
+A) AUG / এ.ইউ.জি.
+B) UAA / ইউ.এ.এ.
+C) UAG / ইউ.এ.জি.
+D) UGA / ইউ.জি.এ.
+Ans: A

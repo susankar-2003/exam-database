@@ -1,0 +1,224 @@
+1. Which of the following is a stop codon (nonsense codon)?
+
+তলৰ কোনটো এটা সমাপ্তি ক'ডন (Stop codon)?
+A) UAA / ইউ.এ.এ.
+B) AUG / এ.ইউ.জি.
+C) UUU / ইউ.ইউ.ইউ.
+D) GUG / জি.ইউ.জি.
+Ans: A
+
+2. How many total codons exist in the genetic code dictionary?
+
+জেনেটিক ক'ড তালিকাত মুঠ কেইটা ক'ডন থাকে?
+A) 64 / ৬৪
+B) 20 / ২০
+C) 61 / ৬১
+D) 32 / ৩২
+Ans: A
+
+3. How many codons actually code for amino acids?
+
+কেইটা ক'ডনে আচলতে এমিঅ' এছিডৰ সংকেত বহন কৰে?
+A) 61 / ৬১
+B) 64 / ৬৪
+C) 20 / ২০
+D) 3 / ৩
+Ans: A
+
+4. The operon model for gene regulation in bacteria was proposed by whom?
+
+বেক্টেৰিয়াত জিন নিয়ন্ত্ৰণৰ অপাৰন আৰ্হি কোনে প্ৰস্তাৱ কৰিছিল?
+A) Jacob and Monod / জেকব আৰু মন'ড
+B) Watson and Crick / ৱাটছন আৰু ক্ৰিক
+C) Avery and McCarty / এভাৰী আৰু মেকাৰ্টী
+D) Khorana and Nirenberg / খুৰানা আৰু নিৰেনবাৰ্গ
+Ans: A
+
+5. Who synthesized the first artificial gene in the laboratory?
+
+প্ৰয়োগশালাত প্ৰথমটো কৃত্ৰিম জিন কোনে সংশ্লেষণ কৰিছিল?
+A) Har Gobind Khorana / হৰ গবিন্দ খুৰানা
+B) Marshall Nirenberg / মাৰ্শাল নিৰেনবাৰ্গ
+C) Arthur Kornberg / আৰ্থাৰ ক'ৰ্নবাৰ্গ
+D) Severo Ochoa / ছেভেৰ' ওচোৱা
+Ans: A
+
+6. Human Genome Project (HGP) was officially launched in which year?
+
+মানৱ জিন'ম প্ৰকল্প (HGP) আনুষ্ঠানিকভাৱে কোন বছৰত আৰম্ভ কৰা হৈছিল?
+A) 1990 / ১৯৯০
+B) 2000 / ২০০০
+C) 1985 / ১৯৮৫
+D) 2003 / ২০০৩
+Ans: A
+
+7. Human Genome Project was completed in which year?
+
+মানৱ জিন'ম প্ৰকল্প কোন বছৰত সম্পূৰ্ণ হৈছিল?
+A) 2003 / ২০০৩
+B) 1995 / ১৯৯৫
+C) 2010 / ২০১০
+D) 2000 / ২০০০
+Ans: A
+
+8. DNA fingerprinting technique was originally developed by whom?
+
+ডি.এন.এ. ফিঙ্গাৰপ্ৰিন্টিং কৌশল প্ৰথম কোনে বিকাশ কৰিছিল?
+A) Alec Jeffreys / এলে ক জেফ্ৰীছ
+B) Lalji Singh / লালজী ছিং
+C) Kary Mullis / কেৰী মুলিস
+D) Frederick Sanger / ফ্ৰেডেৰিক ছেঙ্গাৰ
+Ans: A
+
+9. Who is known as the Father of DNA Fingerprinting in India?
+
+ভাৰতত ডি.এন.এ. ফিঙ্গাৰপ্ৰিন্টিংৰ পিতৃ বুলি কাক জনা যায়?
+A) Lalji Singh / লালজী ছিং
+B) M S Swaminathan / এম. এছ. স্বামীনাথন
+C) H G Khorana / এইচ. জি. খুৰানা
+D) C N R Rao / চি. এন. আৰ. ৰাও
+Ans: A
+
+10. Polymerase Chain Reaction (PCR) technique was invented by whom?
+
+পলিমাৰেছ চেইন ৰিএকশ্বন (PCR) কৌশল কোনে আৱিষ্কাৰ কৰিছিল?
+A) Kary Mullis / কেৰী মুলিস
+B) Alec Jeffreys / এলে ক জেফ্ৰীছ
+C) Paul Berg / পল বাৰ্গ
+D) David Baltimore / ডেভিড বাল্টিম'ৰ
+Ans: A
+
+11. Which enzyme is used to join DNA fragments together?
+
+ডি.এন.এ. ৰ খণ্ডবোৰ সংযোগ কৰিবলৈ কোনটো এনজাইম ব্যৱহাৰ কৰা হয়?
+A) DNA Ligase / ডি.এন.এ. লাইগেছ
+B) DNA Polymerase / ডি.এন.এ. পলিমাৰেছ
+C) Restriction endonuclease / ৰেষ্ট্ৰিকশ্বন এণ্ড'নিউক্লিয়েজ
+D) Helicase / হেলিকেছ
+Ans: A
+
+12. Which enzyme is known as molecular scissors in biotechnology?
+
+জৈৱ প্ৰযুক্তিত কোনটো এনজাইমক আণৱিক কেঁচি বোলা হয়?
+A) Restriction endonuclease / ৰেষ্ট্ৰিকশ্বন এণ্ড'নিউক্লিয়েজ
+B) DNA Ligase / ডি.এন.এ. লাইগেছ
+C) RNA Polymerase / আৰ.এন.এ. পলিমাৰেছ
+D) Protease / প্ৰ'টিয়েজ
+Ans: A
+
+13. Small circular extra-chromosomal DNA found in bacteria is called what?
+
+বেক্টেৰিয়াত পোৱা সৰু বৃত্তাকাৰ অতিৰিক্ত ক্ৰ'ম'জ'মীয় ডি.এন.এ. ক কি বোলা হয়?
+A) Plasmid / প্লাজমাপ্ত
+B) Cosmid / ক'ছমিড
+C) Vector / ভেক্টৰ
+D) Phagmid / ফেগমাপ্ত
+Ans: A
+
+14. The term 'Genetics' was coined by which scientist?
+
+'জেনেটিক্স' শব্দটো প্ৰথম কোন বিজ্ঞানীয়ে ব্যৱহাৰ কৰিছিল?
+A) William Bateson / ৱিলিয়াম বেটছন
+B) Gregor Mendel / গ্ৰেগৰ মেণ্ডেল
+C) Wilhelm Johannsen / ৱিলহেল্ম জোহানছেন
+D) Hugo de Vries / হিউগ' ডি ভ্ৰীছ
+Ans: A
+
+15. The term 'Gene' was coined by whom?
+
+'জিন' শব্দটো কোনে পোনপ্ৰথমবাৰৰ বাবে দিছিল?
+A) Wilhelm Johannsen / ৱিলহেল্ম জোহানছেন
+B) Bateson / বেটছন
+C) Morgan / মৰ্গান
+D) De Vries / ডি ভ্ৰীছ
+Ans: A
+
+16. What is the phenotypic manifestation of Down Syndrome?
+
+ডাউন ছিন্ড্ৰ'মৰ বাহ্যিক লক্ষণ কি?
+A) Mental retardation and folded eyelids / মানসিক মন্থৰতা আৰু ভাঁজ লগা চকুৰ পতা
+B) Tall stature and sterility / ওখ শৰীৰ আৰু বন্ধ্যাকৰণ
+C) Excessive bleeding / অত্যধিক ৰক্তক্ষৰণ
+D) Red-green blindness / ৰঙা-সেউজীয়া বৰ্ণান্ধতা
+Ans: A
+
+17. Phenylketonuria (PKU) is an inborn error of metabolism caused by deficiency of which enzyme?
+
+ফিনাইলকিট'নিউৰিয়া ৰোগ কোনটো এনজাইমৰ অভাৱৰ বাবে হয়?
+A) Phenylalanine hydroxylase / ফিনাইলএলানিন হাইড্ৰ'ক্সিলেজ
+B) Tyrosinase / টাইৰ'ছিনেজ
+C) Homogentisic acid oxidase / হ'ম'জেন্টিছিক এছিড অক্সিডেজ
+D) Lactase / লেক্টেজ
+Ans: A
+
+18. Albinism in humans is caused due to lack of which pigment?
+
+মানুহৰ শৰীৰত কোনটো ৰঞ্জক পদাৰ্থৰ অভাৱৰ বাবে শেঁতা পৰা (এলবিনিজম) ৰোগ হয়?
+A) Melanin / মেলানিন
+B) Hemoglobin / হিম'গ্ল'বিন
+C) Carotene / কেৰ'টিন
+D) Bilirubin / বিলিৰুবিন
+Ans: A
+
+19. Which disease is also known as Royal Disease?
+
+কোনটো ৰোগক 'ৰাজকীয় ৰোগ' (Royal Disease) বুলিও জনা যায়?
+A) Hemophilia / হিম'ফিলিয়া
+B) Thalassemia / থেলাছেমিয়া
+C) Sickle cell anemia / ছিকল সেল এনিমিয়া
+D) Leukemia / লিউকেমিয়া
+Ans: A
+
+20. Identify the scientist who carried out transforming principle experiment on Pneumococcus bacteria ?
+
+নিউম'ককাছ বেক্টেৰিয়াত সংক্ৰমণশীল নীতি পৰীক্ষা কৰা বিজ্ঞানীজনক চিনাক্ত কৰা।
+A) Frederick Griffith / ফ্ৰেডেৰিক গ্ৰিফিথ
+B) Avery, MacLeod, McCarty / এভাৰী, মেকলিয়ড, মেকাৰ্টী
+C) Hershey and Chase / হাৰ্ছি আৰু চেছ
+D) Watson and Crick / ৱাটছন আৰু ক্ৰিক
+Ans: A
+
+21. Who unequivocally proved that DNA is the genetic material using bacteriophages?
+
+বেক্টেৰিয়'ফেজ ব্যৱহাৰ কৰি ডি.এন.এ. ই যে জিনীয় পদাৰ্থ তাক স্পষ্টভাৱে কোনে প্ৰমাণ কৰিছিল?
+A) Hershey and Chase / হাৰ্ছি আৰু চেছ
+B) Griffith / গ্ৰিফিথ
+C) Avery and MacLeod / এভাৰী আৰু মেকলিয়ড
+D) Meselson and Stahl / মেচেলছন আৰু ষ্টাল
+Ans: A
+
+22. Semiconservative replication of DNA was experimentally proven by whom?
+
+ডি.এন.এ. ৰ অৰ্ধ-সংৰক্ষণশীল প্ৰতিৰূপণ কোনে পৰীক্ষামূলকভাৱে প্ৰমাণ কৰিছিল?
+A) Meselson and Stahl / মেচেলছন আৰু ষ্টাল
+B) Watson and Crick / ৱাটছন আৰু ক্ৰিক
+C) Taylor / টেলৰ
+D) Jacob and Monod / জেকব আৰু মন'ড
+Ans: A
+
+23. Taylor proved semiconservative replication of DNA in plant chromosomes using which plant?
+
+টেলৰে কোনটো উদ্ভিদৰ ক্ৰ'ম'জ'মত ডি.এন.এ. ৰ অৰ্ধ-সংৰক্ষণশীল প্ৰতিৰূপণ প্ৰমাণ কৰিছিল?
+A) Vicia faba (Faba bean) / ভিচিয়া ফাবা (উৰহী)
+B) Pisum sativum / মটৰ মাহ
+C) Neurospora crassa / নিউৰ'স্প'ৰা
+D) Arabidopsis thaliana / এৰাবিড'পছিছ
+Ans: A
+
+24. Modern Synthetic Theory of Evolution is a combination of Darwinism and which concept?
+
+বিৱৰ্তনৰ আধুনিক সংশ্লেষণাত্মক তত্ত্ব ডাৰৱিনবাদ আৰু কোনটো ধাৰণাৰ সংমিশ্ৰণ?
+A) Mendelian Genetics / মেণ্ডেলীয় বংশগতিবিদ্যা
+B) Lamarckism / লেমাৰ্কবাদ
+C) Spontaneous Generation / স্বতঃস্ফূৰ্ত উৎপত্তি
+D) Vitalism / প্ৰাণবাদ
+Ans: A
+
+25. Which era is known as the Age of Reptiles?
+
+কোনটো যুগক 'সৰীসৃপৰ যুগ' বুলি জনা যায়?
+A) Mesozoic era / মেছ'যইক যুগ
+B) Cenozoic era / ছেন'যইক যুগ
+C) Paleozoic era / পেলিয়'যইক যুগ
+D) Proterozoic era / প্ৰ'টেৰ'যইক যুগ
+Ans: A

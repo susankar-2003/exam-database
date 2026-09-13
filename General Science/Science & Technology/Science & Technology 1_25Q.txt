@@ -1,0 +1,224 @@
+1. India's Cartosat series of satellites are mainly used for what application?
+
+ভাৰতৰ কাৰ্টোছেট (Cartosat) শৃংখলাৰ উপগ্ৰহসমূহ মূলতঃ কি কামত ব্যৱহাৰ কৰা হয়?
+A) Earth observation and mapping / পৃথিৱী নিৰীক্ষণ আৰু মানচিত্ৰ প্ৰস্তুতকৰণ
+B) Direct to home TV broadcast / ডি.টি.এইচ. টিভি সম্প্ৰচাৰ
+C) Deep space radio communication / গভীৰ মহাকাশ ৰেডিঅ' যোগাযোগ
+D) Weather forecast strictly / কেৱল বতৰৰ পূৰ্বাভাস
+Ans: A
+
+2. ASTROSAT is India's first dedicated mission for what scientific purpose?
+
+ASTROSAT কি বৈজ্ঞানিক উদ্দেশ্যৰ বাবে ভাৰতৰ প্ৰথমটো উৎসৰ্গিত অভিযান?
+A) Space Astronomy Observatory / মহাকাশ জ্যোতিৰ্বিজ্ঞান পৰ্যবেক্ষণাগাৰ
+B) Lunar rover mission / চন্দ্ৰৰ ৰভাৰ অভিযান
+C) Solar flare monitoring / সূৰ্যৰ শিখা নিৰীক্ষণ
+D) Mars sample return / মঙ্গল গ্ৰহৰ নমূনা সংগ্ৰহ
+Ans: A
+
+3. What is 'XPoSat' launched by ISRO in 2024?
+
+২০২৪ চনত ইছৰোৱে উৎক্ষেপণ কৰা 'XPoSat' কি?
+A) X-ray Polarimeter Satellite / এক্স-ৰে মেৰুকৰণ মাপক উপগ্ৰহ
+B) Solar Radiation Satellite / ছ'লাৰ ৰেডিয়েশ্বন চেটেলাইট
+C) Weather Forecasting Satellite / বতৰৰ পূৰ্বাভাস উপগ্ৰহ
+D) Military Communication Satellite / সামৰিক যোগাযোগ উপগ্ৰহ
+Ans: A
+
+4. What is the name of ISRO's commercial arm established to handle space commercialization?
+
+মহাকাশ বাণিজ্যকৰণ পৰিচালনাৰ বাবে স্থাপন কৰা ইছৰোৰ বাণিজ্যিক শাখাৰ নাম কি?
+A) Antrix Corporation Limited / এন্ট্ৰিক্স কৰ্প'ৰেশ্বন লিমিটেড
+B) ISRO Commercial Ltd / ইছৰো কমাৰ্চিয়েল লিঃ
+C) Space India Ltd / স্পেছ ইণ্ডিয়া লিঃ
+D) BHEL / ভেল
+Ans: A
+
+5. What is the full form of NSIL created under Department of Space?
+
+মহাকাশ বিভাগৰ অধীনত গঠন কৰা NSIL ৰ সম্পূৰ্ণ ৰূপ কি?
+A) NewSpace India Limited / নিউস্পেছ ইণ্ডিয়া লিমিটেড
+B) National Space Infrastructure Limited / নেচনেল স্পেছ ইনফ্ৰাষ্ট্ৰাকচাৰ লিমিটেড
+C) Next Space Integration Limited / নেক্সট স্পেছ ইন্টিগ্ৰেশ্বন লিমিটেড
+D) National Satellite Industry Limited / নেচনেল চেটেলাইট ইণ্ডাষ্ট্ৰী লিমিটেড
+Ans: A
+
+6. IN-SPACe was established by Government of India to promote what sector?
+
+ভাৰত চৰকাৰে IN-SPACe কি খণ্ডৰ প্ৰসাৰৰ বাবে স্থাপন কৰিছিল?
+A) Private sector participation in space activities / মহাকাশ কাৰ্যসূচীত ব্যক্তিগত খণ্ডৰ অংশগ্ৰহণ
+B) Atomic energy generation / পাৰমাণৱিক শক্তি উৎপাদন
+C) Deep sea mining / গভীৰ সাগৰৰ খনন
+D) Defense aircraft export / প্ৰতিৰক্ষা বিমান ৰপ্তানি
+Ans: A
+
+7. India's Deep Ocean Mission is spearheaded by which Ministry?
+
+ভাৰতৰ 'ডিপ অ'সেন মিছন' (Deep Ocean Mission) কোনটো মন্ত্ৰালয়ৰ নেতৃত্বত চলিছে?
+A) Ministry of Earth Sciences / ভূ-বিজ্ঞান মন্ত্ৰালয়
+B) Ministry of Defense / প্ৰতিৰক্ষা মন্ত্ৰালয়
+C) Ministry of Science and Technology / বিজ্ঞান আৰু প্ৰযুক্তি মন্ত্ৰালয়
+D) Ministry of Environment / পৰিৱেশ মন্ত্ৰালয়
+Ans: A
+
+8. What is the name of the manned submersible vehicle developed under India's Deep Ocean Mission?
+
+ভাৰতৰ ডিপ অ'সেন মিছনৰ অধীনত নিৰ্মিত মানৱযুক্ত ছাবমাৰ্চিবল যানখনৰ নাম কি?
+A) Samudrayaan (MATSYA 6000) / সমুদ্রযান (মৎস্য ৬০০০)
+B) Jalyaan / জলযান
+C) Varun 3000 / বৰুণ ৩০০০
+D) OceanSat / অ'সেনচেট
+Ans: A
+
+9. Superconductivity is a phenomenon where electrical resistance becomes what value?
+
+অতিপৰিবাহিতা (Superconductivity) এনে এক পৰিঘটনা য’ত বৈদ্যুতিক ৰোধৰ মান কিমান হয়?
+A) Exactly Zero / সম্পূৰ্ণ শূন্য
+B) Infinite / অসীম
+C) Equal to 1 Ohm / ১ ওমৰ সমান
+D) Extremely high / অতি উচ্চ
+Ans: A
+
+10. The expulsion of magnetic field from a superconductor during its transition to superconducting state is called what effect?
+
+অতিপৰিবাহী অৱস্থালৈ ৰূপান্তৰিত হওঁতে মেগনেটিক ফিল্ড বাহিৰ কৰি দিয়া ক্ৰিয়াক কি প্ৰভাৱ বোলা হয়?
+A) Meissner effect / মাইছনাৰ প্ৰভাৱ
+B) Doppler effect / ডপলাৰ প্ৰভাৱ
+C) Raman effect / ৰামন প্ৰভাৱ
+D) Photoelectric effect / আলোক-বৈদ্যুতিক প্ৰভাৱ
+Ans: A
+
+11. Scattering of light by molecules of a medium causing change in wavelength is known as what?
+
+মাধ্যমত পোহৰৰ অণুৰ দ্বাৰা প্ৰকীৰ্ণন হৈ তৰংগদৈৰ্ঘ্যৰ পৰিৱৰ্তন হোৱা পৰিঘটনাক কি বোলা হয়?
+A) Raman Effect / ৰামন প্ৰভাৱ
+B) Tyndall Effect / টিণ্ডেল প্ৰভাৱ
+C) Compton Effect / কম্পটন প্ৰভাৱ
+D) Zeeman Effect / জিমান প্ৰভাৱ
+Ans: A
+
+12. National Science Day in India is celebrated on February 28 to mark which discovery?
+
+২৮ ফেব্ৰুৱাৰীত ভাৰতত ৰাষ্ট্ৰীয় বিজ্ঞান দিৱস কি আৱিষ্কাৰৰ স্মৰণত পালন কৰা হয়?
+A) Discovery of Raman Effect by C V Raman / চি. ভি. ৰামনৰ ৰামন প্ৰভাৱ আৱিষ্কাৰ
+B) Launch of Aryabhata / আৰ্যভট্ট উৎক্ষেপণ
+C) Pokhran nuclear test / পোখৰান পাৰমাণৱিক পৰীক্ষা
+D) Establishment of ISRO / ইছৰো স্থাপন
+Ans: A
+
+13. Who was the first Indian scientist to win Nobel Prize in Physics?
+
+পদাৰ্থ বিজ্ঞানত নোবেল বঁটা লাভ কৰা প্ৰথমগৰাকী ভাৰতীয় বিজ্ঞানী কোন আছিল?
+A) C V Raman / চি. ভি. ৰামন
+B) Subrahmanyan Chandrasekhar / সুব্ৰহ্মণ্যন চন্দ্ৰশেখৰ
+C) Homi J Bhabha / হোমি জে. ভাবা
+D) J C Bose / জে. চি. বোছ
+Ans: A
+
+14. Which Indian scientist invented the Crescograph to measure growth in plants?
+
+উদ্ভিদৰ বৃদ্ধি জুখিবলৈ ক্ৰেছক’গ্ৰাফ (Crescograph) নামৰ সঁজুলিটো কোনগৰাকী ভাৰতীয় বিজ্ঞানীয়ে আৱিষ্কাৰ কৰিছিল?
+A) Jagadish Chandra Bose / জগদীশ চন্দ্ৰ বোছ
+B) Prafulla Chandra Ray / প্ৰফুল্ল চন্দ্ৰ ৰায়
+C) Birbal Sahni / বীৰবল সাহানী
+D) Satyendra Nath Bose / সত্যেন্দ্ৰ নাথ বোছ
+Ans: A
+
+15. Boson subatomic particles are named after which Indian scientist?
+
+ব'ছন (Boson) উপ-পাৰমাণৱিক কণিকাবোৰ কোনগৰাকী ভাৰতীয় বিজ্ঞানীৰ নামেৰে নামাকৰণ কৰা হৈছে?
+A) Satyendra Nath Bose / সত্যেন্দ্ৰ নাথ বোছ
+B) J C Bose / জে. চি. বোছ
+C) S N Banerjee / এছ. এন. বেনাৰ্জী
+D) Meghnad Saha / মেঘনাদ সাহা
+Ans: A
+
+16. What is the Higgs Boson particle popularly known as in media?
+
+হিগছ ব'ছন কণিকাক জনপ্ৰিয়ভাৱে মিডিয়াত কি বুলি জনা যায়?
+A) God Particle / ঈশ্বৰ কণা (God Particle)
+B) Alpha Particle / আলফা কণা
+C) Ghost Particle / ভূতুৰে কণা
+D) Dark Particle / অন্ধকাৰ কণা
+Ans: A
+
+17. World's largest particle physics laboratory CERN operates Large Hadron Collider (LHC) near which city?
+
+বিশ্বৰ আটাইতকৈ ডাঙৰ কণা পদাৰ্থ বিজ্ঞান প্ৰয়োগশালা CERN ৰ লাৰ্জ হেড্ৰন কলাইডাৰ (LHC) কোনখন ছহৰৰ ওচৰত অৱস্থিত?
+A) Geneva, Switzerland / জেনেভা, চুইজাৰলেণ্ড
+B) Paris, France / পেৰিছ, ফ্ৰান্স
+C) London, UK / লণ্ডন, যুক্তৰাজ্য
+D) New York, USA / নিউয়ৰ্ক, আমেৰিকা
+Ans: A
+
+18. Neutrino Observatory (INO) project in India is proposed to be built in which state?
+
+ভাৰতীয় নিউট্ৰিন' পৰ্যবেক্ষণাগাৰ (INO) প্ৰকল্পটো কোনখন ৰাজ্যত নিৰ্মাণৰ প্ৰস্তাৱ দিয়া হৈছে?
+A) Tamil Nadu / তামিলনাডু
+B) Karnataka / কৰ্ণাটক
+C) Kerala / কেৰালা
+D) Andhra Pradesh / অন্ধ্ৰ প্ৰদেশ
+Ans: A
+
+19. What are Neutrinos in particle physics?
+
+কণা পদাৰ্থ বিজ্ঞানত নিউট্ৰিন' (Neutrino) বোৰ কি?
+A) Subatomic particles with almost zero mass and neutral charge / প্ৰায় শূন্য ভৰ আৰু নিৰপেক্ষ আধানযুক্ত উপ-পাৰমাণৱিক কণা
+B) Positively charged heavy ions / ধনাত্মক আধানযুক্ত গধুৰ আয়ন
+C) Negatively charged atomic nuclei / ঋণাত্মক আধানযুক্ত পাৰমাণৱিক নিউক্লিয়াছ
+D) High energy photons / উচ্চ শক্তিৰ ফ'টন
+Ans: A
+
+20. What is the full form of ITER, the world's largest magnetic confinement plasma physics experiment?
+
+বিশ্বৰ সৰ্ববৃহৎ চুম্বকীয় প্লাজমা পৰীক্ষা ITER ৰ সম্পূৰ্ণ ৰূপ কি?
+A) International Thermonuclear Experimental Reactor / ইনটাৰনেচনেল থাৰ্ম'নিউক্লিয়াৰ এক্সপেৰিমেণ্টেল ৰিয়েক্টৰ
+B) International Thermal Energy Research / ইনটাৰনেচনেল থাৰ্মেল এনাৰ্জী ৰিচাৰ্ছ
+C) Integrated Thermonuclear Energy Reactor / ইণ্টেগ্ৰেটেড থাৰ্ম'নিউক্লিয়াৰ এনাৰ্জী ৰিয়েক্টৰ
+D) International Technology for Energy Research / ইনটাৰনেচনেল টেকন'লজী ফৰ এনাৰ্জী ৰিচাৰ্ছ
+Ans: A
+
+21. Nuclear Fusion is the energy source process powering what cosmic bodies?
+
+পাৰমাণৱিক সংযোজন (Nuclear Fusion) কোনবোৰ মহাজাগতিক পিন্ডৰ শক্তিৰ মূল উৎস?
+A) Stars and the Sun / তৰা আৰু সূৰ্য
+B) Earth and Moon / পৃথিৱী আৰু চন্দ্ৰ
+C) Asteroids / গ্ৰহাণুপুঞ্জ
+D) Comets / ধূমকেতু
+Ans: A
+
+22. Tokamak device design is used to achieve controlled nuclear fusion using what state of matter?
+
+টোকা মাক (Tokamak) সঁজুলিৰ ডিজাইন পদাৰ্থৰ কোনটো অৱস্থা ব্যৱহাৰ কৰি নিয়ন্ত্ৰিত পাৰমাণৱিক সংযোজন কৰিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Plasma state / প্লাজমা অৱস্থা
+B) Solid state / কঠিন অৱস্থা
+C) Liquid state / তৰল অৱস্থা
+D) Gas state / গেছীয় অৱস্থা
+Ans: A
+
+23. What is the full form of Remote Sensing technology?
+
+ৰিম'ট চেন্চিং প্ৰযুক্তি মানে কি?
+A) Acquiring data about an object without physical contact / ভৌতিক স্পৰ্শ নোহোৱাকৈ কোনো বস্তুৰ তথ্য সংগ্ৰহ কৰা
+B) Controlling machines from long distance / দূৰৰ পৰা মেচিন নিয়ন্ত্ৰণ কৰা
+C) Transmission of sound through space / মহাকাশেৰে শব্দ প্ৰেৰণ কৰা
+D) Deep sea sonar exploration / গভীৰ সাগৰত সোণাৰ অন্বেষণ
+Ans: A
+
+24. NISAR satellite is a joint earth-observing mission between ISRO and which foreign space agency?
+
+নিছাৰ (NISAR) উপগ্ৰহটো ইছৰো আৰু কোনটো বিদেশী মহাকাশ সংস্থাৰ যৌথ পৃথিৱী-নিৰীক্ষণ অভিযান?
+A) NASA (USA) / নাছা (আমেৰিকা)
+B) ESA (Europe) / ই.এছ.এ. (ইউৰোপ)
+C) JAXA (Japan) / জাক্সা (জাপান)
+D) Roscosmos (Russia) / ৰছকছমছ (ৰাছিয়া)
+Ans: A
+
+25. What is the full form of NISAR in satellite radar technology?
+
+উপগ্ৰহ ৰাডাৰ প্ৰযুক্তিত NISAR ৰ সম্পূৰ্ণ ৰূপ কি?
+A) NASA-ISRO Synthetic Aperture Radar / নাছা-ইছৰো ছিন্থেটিক এপাৰচাৰ ৰাডাৰ
+B) National ISRO Advanced Radar / নেচনেল ইছৰো এডভাঞ্চড ৰাডাৰ
+C) NASA-ISRO Space Altitude Radar / নাছা-ইছৰো স্পেছ অলটিটিউড ৰাডাৰ
+D) New ISRO Satellite Aperture Radar / নিউ ইছৰো চেটেলাইট এপাৰচাৰ ৰাডাৰ
+Ans: A

@@ -1,0 +1,224 @@
+1. What is the full form of NFC in smartphone features?
+
+স্মাৰ্টফোনৰ সুবিধাসমূহত NFC ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Near Field Communication / নিয়াৰ ফিল্ড কম্যুনিকেশ্বন
+B) New Frequency Control / নিউ ফ্ৰিকুৱেন্সি কণ্ট্ৰ'ল
+C) Network Fast Connection / নেটৱৰ্ক ফাষ্ট কানেকশ্বন
+D) National Fiber Cable / নেচনেল ফাইবাৰ কেবল
+Ans: A
+
+2. What is the full form of LED?
+
+LED ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Light Emitting Diode / লাইট এমিটিং ডায়'ড
+B) Light Energy Device / লাইট এনাৰ্জী ডিভাইছ
+C) Low Emission Diode / ল' এমিশ্বন ডায়'ড
+D) Linear Electron Device / লিনিয়াৰ ইলেকট্রন ডিভাইছ
+Ans: A
+
+3. What is the full form of OLED in display technology?
+
+ডিছপ্লে প্ৰযুক্তিত OLED ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Organic Light Emitting Diode / অৰ্গেনিক লাইট এমিটিং ডায়'ড
+B) Optical Light Emitting Diode / অপটিকেল লাইট এমিটিং ডায়'ড
+C) Operational LED / অপাৰেচনেল এল.ই.ডি.
+D) Optimized Light Emitting Device / অপটিমাইজড লাইট এমিটিং ডিভাইছ
+Ans: A
+
+4. What is the full form of LASER?
+
+LASER ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Light Amplification by Stimulated Emission of Radiation / লাইট এম্প্লিফিকেশ্বন বাই ষ্টীমুলৈটেড এমিশ্বন অৱ ৰেডিয়েশ্বন
+B) Light Absorption by Stimulated Emission of Rays / লাইট এবছৰ্পশ্বন বাই ষ্টীমুলৈটেড এমিশ্বন অৱ ৰে'জ
+C) Light Amplification by Synchronized Emission of Radiation / লাইট এম্প্লিফিকেশ্বন বাই ছিংক্ৰ'নাইজড এমিশ্বন অৱ ৰেডিয়েশ্বন
+D) Laser Amplified Stimulated Energy Ray / লেজাৰ এম্প্লিফাইড ষ্টীমুলৈটেড এনাৰ্জী ৰে'
+Ans: A
+
+5. Who invented the first working LASER in 1960?
+
+১৯৬০ চনত কোনে প্ৰথমটো কাৰ্যকৰী লেজাৰ (LASER) আৱিষ্কাৰ কৰিছিল?
+A) Theodore Maiman / থিয়'ড'ৰ মাইমেন
+B) Charles Townes / চাৰ্লছ টাউনছ
+C) Albert Einstein / আলবাৰ্ট আইনষ্টাইন
+D) Arthur Schawlow / আৰ্থাৰ শ্বাল'
+Ans: A
+
+6. What is the full form of RADAR?
+
+RADAR ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Radio Detection and Ranging / ৰেডিঅ' ডিটেকশ্বন এণ্ড ৰেঞ্জিং
+B) Radio Direction and Radiation / ৰেডিঅ' ডাইৰেকশ্বন এণ্ড ৰেডিয়েশ্বন
+C) Rapid Detection and Ranging / ৰেপিড ডিটেকশ্বন এণ্ড ৰেঞ্জিং
+D) Radar Distance and Range / ৰাডাৰ ডিষ্টেন্স এণ্ড ৰেঞ্জ
+Ans: A
+
+7. What is the full form of SONAR?
+
+SONAR ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Sound Navigation and Ranging / ছাউণ্ড নেভিগেচন এণ্ড ৰেঞ্জিং
+B) Sound Output Navigation and Radar / ছাউণ্ড আউটপুট নেভিগেচন এণ্ড ৰাডাৰ
+C) Sonic Navigation and Ranging / ছনিক নেভিগেচন এণ্ড ৰেঞ্জিং
+D) Solar and Navigation Range / ছ'লাৰ এণ্ড নেভিগেচন ৰেঞ্জ
+Ans: A
+
+8. Which sound waves are used in SONAR devices to measure ocean depth?
+
+মহাসাগৰৰ গভীৰতা জোখিবলৈ সোণাৰ (SONAR) সঁজুলিত কোনটো শব্দ তৰংগ ব্যৱহাৰ কৰা হয়?
+A) Ultrasonic waves / আল্ট্ৰাছনিক (অতিস্বনক) তৰংগ
+B) Infrasonic waves / ইনফ্ৰাছনিক (অৱস্বনক) তৰংগ
+C) Radio waves / ৰেডিঅ' তৰংগ
+D) Electromagnetic waves / বিদ্যুৎ-চুম্বকীয় তৰংগ
+Ans: A
+
+9. What is the full form of MRI in medical imaging technology?
+
+চিকিৎসা ইমেজিং প্ৰযুক্তিত MRI ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Magnetic Resonance Imaging / মেগনেটিক ৰিজ'নেন্স ইমেজিং
+B) Medical Radio Imaging / মেডিকেল ৰেডিঅ' ইমেজিং
+C) Molecular Resonance Inspection / মলিকিউলাৰ ৰিজ'নেন্স ইনস্পেকশ্বন
+D) Magnetic Radiation Instrument / মেগনেটিক ৰেডিয়েশ্বন ইনষ্ট্ৰুমেণ্ট
+Ans: A
+
+10. What is the full form of CT scan in medical diagnosis?
+
+চিকিৎসা নিদানত CT scan ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Computed Tomography scan / কম্পিউটেড ট'ম'গ্ৰাফী স্কেন
+B) Computer Tech scan / কম্পিউটাৰ টেক স্কেন
+C) Cellular Tomography scan / সেলুলাৰ ট'ম'গ্ৰাফী স্কেন
+D) Central Testing scan / সেন্ট্ৰেল টেষ্টিং স্কেন
+Ans: A
+
+11. CT Scan machine uses which type of electromagnetic radiation to create cross-sectional images?
+
+চিটি স্কেন মেচিনে ক্ৰছ-ছেকচনেল ছবি তুলিবলৈ কোন বিধ বিদ্যুৎ-চুম্বকীয় বিকিৰণ ব্যৱহাৰ কৰে?
+A) X-rays / এক্স-ৰে
+B) Gamma rays / গামা ৰশ্মি
+C) Infrared rays / ইনফ্ৰাৰেড ৰশ্মি
+D) Microwaves / মাইক্ৰ'ৱেভ
+Ans: A
+
+12. PET scan used in medicine stands for what?
+
+চিকিৎসাত ব্যৱহৃত PET scan ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Positron Emission Tomography / পজিট্ৰন এমিশ্বন ট'ম'গ্ৰাফী
+B) Proton Emission Technology / প্ৰ'টন এমিশ্বন টেকন'লজী
+C) Photonic Emission Testing / ফ'টনিক এমিশ্বন টেষ্টিং
+D) Plasma Energy Tomography / প্লাজমা এনাৰ্জী ট'ম'গ্ৰাফী
+Ans: A
+
+13. What is the main principle behind Optical Fiber communication?
+
+অপটিকেল ফাইবাৰ যোগাযোগৰ মুখ্য মূলনীতিটো কি?
+A) Total Internal Reflection / পূৰ্ণ আভ্যন্তৰীণ প্ৰতিফলন
+B) Refraction / প্ৰতিসৰণ
+C) Diffraction / অপৱৰ্তন
+D) Interference / ব্যতিচাৰ
+Ans: A
+
+14. Who is widely regarded as the Father of Fiber Optics?
+
+কাক ফাইবাৰ অপটিক্সৰ পিতৃ বুলি গণ্য কৰা হয়?
+A) Narinder Singh Kapany / নৰিন্দৰ ছিং কাপানী
+B) Charles Kao / চাৰ্লছ কাও
+C) Robert Noyce / ৰবাৰ্ট নয়েছ
+D) Gordon Moore / গৰ্ডন মূৰ
+Ans: A
+
+15. What is the full form of SIM card used in mobile phones?
+
+মোবাইল ফোনত ব্যৱহৃত SIM কাৰ্ডৰ সম্পূৰ্ণ ৰূপ কি?
+A) Subscriber Identity Module / ছাবস্ক্ৰাইবাৰ আইডেণ্টিটি মডিউল
+B) System Identity Module / চিষ্টেম আইডেণ্টিটি মডিউল
+C) Single Identity Memory / ছিংগল আইডেণ্টিটি মেম'ৰী
+D) Secure Internet Module / ছিকিউৰ ইন্টাৰনেট মডিউল
+Ans: A
+
+16. What is the full form of VoLTE technology in mobile networks?
+
+মোবাইল নেটৱৰ্কত VoLTE প্ৰযুক্তিৰ সম্পূৰ্ণ ৰূপ কি?
+A) Voice over Long Term Evolution / ভয়ছ অভাৰ লং টাৰ্ম ইভলিউশ্বন
+B) Voice over Local Transmission Line / ভয়ছ অভাৰ ল'কেল ট্রান্সমিশ্বন লাইন
+C) Visual Output Long Term Engine / ভিছুৱেল আউটপুট লং টাৰ্ম ইঞ্জিন
+D) Variable Output LTE / ভেলিয়েবল আউটপুট এল.টি.ই.
+Ans: A
+
+17. 5G networks operate primarily in which frequency ranges?
+
+৫জি (5G) নেটৱৰ্কসমূহ মূলতঃ কোনবোৰ কম্পাঙ্ক পৰিসৰত পৰিচালিত হয়?
+A) Sub-6 GHz and Millimeter Wave (mmWave) / ছাব-৬ গিগাহাৰ্টজ আৰু মিলিমিটাৰ ৱেভ
+B) Kilohertz range / কিলোহাৰ্টজ পৰিসৰ
+C) Megahertz AM radio band / মেগাহাৰ্টজ এ.এম. ৰেডিঅ' বেণ্ড
+D) Optical spectrum / আলোকীয় বৰ্ণালী
+Ans: A
+
+18. What is the full form of HTTP in web address?
+
+ৱেব ঠিকনাত HTTP ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Hypertext Transfer Protocol / হাইপাৰটেক্সট ট্রান্সফাৰ প্ৰ'ট'কল
+B) High Transfer Text Protocol / হাই ট্রান্সফাৰ টেক্সট প্ৰ'ট'কল
+C) Hyperlink Text Process / হাইপাৰলিংক টেক্সট প্ৰচেছ
+D) Hypertext Technical Program / হাইপাৰটেক্সট টেকনিকেল প্ৰগ্ৰেম
+Ans: A
+
+19. What is the 'S' in HTTPS web protocol?
+
+HTTPS ৱেব প্ৰ'ট'কলত 'S' আখৰটোৱে কি বুজায়?
+A) Secure / ছিকিউৰ
+B) Server / ছাৰ্ভাৰ
+C) System / চিষ্টেম
+D) Service / ছাৰ্ভিছ
+Ans: A
+
+20. What is the full form of URL in internet terminology?
+
+ইন্টাৰনেটৰ পৰিভাষাত URL ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Uniform Resource Locator / ইউনিফৰ্ম ৰিচৰ্চ ল'কেটৰ
+B) Universal Resource Link / ইউনিভাৰ্ছেল ৰিচৰ্চ লিংক
+C) Unified Resource Language / ইউনিফাইড ৰিচৰ্চ লেংগুৱেজ
+D) User Resource Location / ইউজাৰ ৰিচৰ্চ ল'কেশ্বন
+Ans: A
+
+21. Who invented the World Wide Web (WWW) in 1989?
+
+১৯৮৯ চনত ৱৰ্ল্ড ৱাইড ৱেব (WWW) কোনে আৱিষ্কাৰ কৰিছিল?
+A) Tim Berners-Lee / টিম বাৰ্নাৰ্ছ-লী
+B) Bill Gates / বিল গেটছ
+C) Steve Jobs / ষ্টীভ জবছ
+D) Vint Cerf / ভিণ্ট ছাৰ্ফ
+Ans: A
+
+22. Who are considered the Fathers of the Internet?
+
+কাক ইন্টাৰনেটৰ পিতৃ বুলি গণ্য কৰা হয়?
+A) Vint Cerf and Bob Kahn / ভিণ্ট ছাৰ্ফ আৰু বব কান
+B) Tim Berners-Lee / টিম বাৰ্নাৰ্ছ-লী
+C) Alan Turing / এলান ট্যুৰং
+D) Steve Wozniak / ষ্টীভ ৱজনিয়াক
+Ans: A
+
+23. What is the full form of PDF file format?
+
+PDF ফাইল ফৰ্মেটৰ সম্পূৰ্ণ ৰূপ কি?
+A) Portable Document Format / প'ৰ্টেবল ডক্যুমেন্ট ফৰ্মেট
+B) Printable Document File / প্ৰিণ্টেব'ল ডক্যুমেন্ট ফাইল
+C) Program Data File / প্ৰগ্ৰেম ডাটা ফাইল
+D) Personal Document Format / পার্চনেল ডক্যুমেন্ট ফৰ্মেট
+Ans: A
+
+24. What is the full form of USB in computer hardware?
+
+কম্পিউটাৰ হাৰ্ডৱেৰত USB ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Universal Serial Bus / ইউনিভাৰ্ছেল চিৰিয়েল বাছ
+B) United System Bus / ইউনাইটেড চিষ্টেম বাছ
+C) Universal Service Buffer / ইউনিভাৰ্ছেল ছাৰ্ভিছ বাফাৰ
+D) Universal Signal Board / ইউনিভাৰ্ছেল ছিগনেল ব'ৰ্ড
+Ans: A
+
+25. Who invented the Universal Serial Bus (USB)?
+
+ইউনিভাৰ্ছেল চিৰিয়েল বাছ (USB) কোনে আৱিষ্কাৰ কৰিছিল?
+A) Ajay Bhatt / অজয় ভাট
+B) Vinod Dham / বিনোদ ধাম
+C) Sabir Bhatia / সাবীৰ ভাটিয়া
+D) Sundar Pichai / সুন্দৰ পিচাই
+Ans: A

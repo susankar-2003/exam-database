@@ -1,0 +1,206 @@
+1. What is the full form of RAM in computer memory?
+
+কম্পিউটাৰ মেম'ৰীত RAM ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Random Access Memory / ৰেনডম একচেছ মেম'ৰী
+B) Read Access Memory / ৰীড একচেছ মেম'ৰী
+C) Rapid Access Module / ৰেপিড একচেছ মডিউল
+D) Run Access Memory / ৰান একচেছ মেম'ৰী
+Ans: A
+
+2. What is the full form of ROM?
+
+ROM ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Read Only Memory / ৰীড অনলি মেম'ৰী
+B) Random Operational Memory / ৰেনডম অপাৰেচনেল মেম'ৰী
+C) Rapid Open Memory / ৰেপিড অপেন মেম'ৰী
+D) Run Only Module / ৰান অনলি মডিউল
+Ans: A
+
+3. Which memory acts as a high-speed buffer between CPU and main RAM?
+
+চি.পি.ইউ. (CPU) আৰু মূল RAM ৰ মাজত কোনটো মেম'ৰীয়ে উচ্চ গতিৰ বাফাৰ হিচাপে কাম কৰে?
+A) Cache memory / ক্যাছ মেম'ৰী
+B) Secondary memory / গৌণ মেম'ৰী
+C) Virtual memory / ভাৰ্চুৱেল মেম'ৰী
+D) Flash memory / ফ্লেছ মেম'ৰী
+Ans: A
+
+4. What is the full form of CPU?
+
+CPU ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Central Processing Unit / চেণ্ট্ৰেল প্ৰচেছিং ইউৰ্নিট
+B) Computer Processing Unit / কম্পিউটাৰ প্ৰচেছিং ইউৰ্নিট
+C) Central Performance Unit / চেণ্ট্ৰেল পাৰফৰমেন্স ইউৰ্নিট
+D) Control Program Unit / কণ্ট্ৰ'ল প্ৰগ্ৰেম ইউৰ্নিট
+Ans: A
+
+5. What is the full form of GPU used in graphics processing?
+
+গ্ৰাফিক্স প্ৰচেছিঙত ব্যৱহৃত GPU ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Graphics Processing Unit / গ্ৰাফিক্স প্ৰচেছিং ইউৰ্নিট
+B) General Processing Unit / জেনেৰেল প্ৰচেছিং ইউৰ্নিট
+C) Graphical Performance Unit / গ্ৰাফিকেল পাৰফৰমেন্স ইউৰ্নিট
+D) Grid Power Unit / গ্ৰিড পাৱাৰ ইউৰ্নিট
+Ans: A
+
+6. What is the binary representation of decimal number 10?
+
+দশবিন্দু সংখ্যা ১০ ৰ দ্বিমিক (Binary) ৰূপ কি?
+A) 1010 / ১০১০
+B) 1001 / ১০০১
+C) 1100 / ১১০০
+D) 1110 / ১১১০
+Ans: A
+
+7. 1 Byte is equal to how many bits?
+
+১ বাইট (Byte) কেইটা বিট (Bits) ৰ সমান?
+A) 8 bits / ৮ বিট
+B) 4 bits / ৪ বিট
+C) 16 bits / ১৬ বিট
+D) 1024 bits / ১০২৪ বিট
+Ans: A
+
+8. 1 Nibble is equal to how many bits?
+
+১ নিবল (Nibble) কেইটা বিটৰ সমান?
+A) 4 bits / ৪ বিট
+B) 8 bits / ৮ বিট
+C) 2 bits / ২ বিট
+D) 16 bits / ১৬ বিট
+Ans: A
+
+9. 1 Kilobyte (KB) is equal to how many bytes in binary system?
+
+দ্বিমিক ব্যৱস্থাত ১ কিলোবাইট (KB) কেইটা বাইটৰ সমান?
+A) 1024 bytes / ১০২৪ বাইট
+B) 1000 bytes / ১০০০ বাইট
+C) 512 bytes / ৫১২ বাইট
+D) 2048 bytes / ২০৪৮ বাইট
+Ans: A
+
+10. 1 Gigabyte (GB) equals how many Megabytes (MB)?
+
+১ গিগাবাইট (GB) কেইটা মেগাবাইট (MB) ৰ সমান?
+A) 1024 MB / ১০২৪ মেগাবাইট
+B) 1000 MB / ১০০০ মেগাবাইট
+C) 512 MB / ৫১২ মেগাবাইট
+D) 2048 MB / ২০৪৮ মেগাবাইট
+Ans: A
+
+11. What is the technology used to build integrated circuits (ICs) in microprocessors?
+
+মাইক্ৰ'প্ৰচেছৰত সংহত বৰ্তনী (IC) নিৰ্মাণ কৰিবলৈ ব্যৱহৃত প্ৰযুক্তিটো কি?
+A) Semiconductor technology (Silicon) / অৰ্ধপৰিবাহী প্ৰযুক্তি (ছিলিকন)
+B) Superconductor technology / অতিপৰিবাহী প্ৰযুক্তি
+C) Vacuum tube technology / ভেকুৱাম টিউব প্ৰযুক্তি
+D) Optoelectronic liquid technology / অপ্টোই্ৰেক্ট্ৰনিক তৰল প্ৰযুক্তি
+Ans: A
+
+12. India's first indigenously designed microprocessor developed by IIT Madras is named what?
+
+আই.আই.টি. মাদ্ৰাছে বিকাশ কৰা ভাৰতৰ প্ৰথমটো স্বদেশীভাৱে ডিজাইন কৰা মাইক্ৰ'প্ৰচেছৰটোৰ নাম কি?
+A) Shakti / শক্তি
+B) Vikram / বিক্ৰম
+C) PARAM / পৰম
+D) AJIT / অজিত
+Ans: A
+
+13. Microprocessor 'AJIT' was developed indigenously by which institution?
+
+মাইক্ৰ'প্ৰচেছৰ 'AJIT' স্বদেশীভাৱে কোনটো প্ৰতিষ্ঠানে বিকাশ কৰিছিল?
+A) IIT Bombay / আই.আই.টি. বোম্বে
+B) IIT Madras / আই.আই.টি. মাদ্ৰাছ
+C) IISc Bengaluru / আই.আই.এছ.চি. বেংগালুৰু
+D) IIT Delhi / আই.আই.টি. দিল্লী
+Ans: A
+
+14. What is the main component used in First Generation Computers?
+
+প্ৰথম প্ৰজন্মৰ কম্পিউটাৰত ব্যৱহৃত মূল উপাদানটো কি আছিল?
+A) Vacuum Tubes / ভেকুৱাম টিউব
+B) Transistors / ট্রানজিষ্টৰ
+C) Integrated Circuits / ইণ্টেগ্ৰেটেড ছাৰ্কিট
+D) Microprocessors / মাইক্ৰ'প্ৰচেছৰ
+Ans: A
+
+15. Second generation computers replaced vacuum tubes with what component?
+
+দ্বিতীয় প্ৰজন্মৰ কম্পিউটাৰত ভেকুৱাম টিউবৰ সলনি কোনটো উপাদান ব্যৱহাৰ কৰা হৈছিল?
+A) Transistors / ট্রানজিষ্টৰ
+B) Integrated Circuits / সংহত বৰ্তনী
+C) Microprocessors / মাইক্ৰ'প্ৰচেছৰ
+D) Vacuum Valves / ভেকুৱাম ভাল্ভ
+Ans: A
+
+16. Third generation computers used which breakthrough electronic technology?
+
+তৃতীয় প্ৰজন্মৰ কম্পিউটাৰত কোনটো যুগান্তকাৰী ইলেক্ট্ৰনিক প্ৰযুক্তি ব্যৱহাৰ কৰা হৈছিল?
+A) Integrated Circuits (ICs) / সংহত বৰ্তনী (IC)
+B) Transistors / ট্রানজিষ্টৰ
+C) Microprocessors / মাইক্ৰ'প্ৰচেছৰ
+D) Vacuum tubes / ভেকুৱাম টিউব
+Ans: A
+
+17. Fourth generation computers are characterized by the use of what?
+
+চতুৰ্থ প্ৰজন্মৰ কম্পিউটাৰৰ বৈশিষ্ট্য কিহৰ ব্যৱহাৰ?
+A) Very Large Scale Integration (VLSI) Microprocessors / মাইক্ৰ'প্ৰচেছৰ (VLSI)
+B) Vacuum tubes / ভেকুৱাম টিউব
+C) Magnetic drums / মেগনেটিক ড্ৰাম
+D) Discrete transistors / ডিছক্ৰীট ট্ৰানজিষ্টৰ
+Ans: A
+
+18. What is the full form of UPI in Indian digital payment system?
+
+ভাৰতীয় ডিজিটেল পৰিশোধ ব্যৱস্থাত UPI ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Unified Payments Interface / ইউনিফাইড পেমেন্টছ ইন্টাৰফেছ
+B) Universal Payment Integration / ইউনিভাৰ্ছেল পেমেন্ট ইন্টিগ্ৰেশ্বন
+C) Unique Payment Identifier / ইউনিক পেমেন্ট আইডেণ্টিফায়াৰ
+D) Union Payment Interface / ইউনিয়ন পেমেন্ট ইন্টাৰফেছ
+Ans: A
+
+19. Which organization launched UPI in India?
+
+ভাৰতত UPI কোনটো প্ৰতিষ্ঠানে মুকলি কৰিছিল?
+A) NPCI / এন.পি.চি.আই.
+B) RBI / আৰ.বি.আই.
+C) SEBI / ছেবী
+D) NITI Aayog / নীতি আয়োগ
+Ans: A
+
+20. What is the full form of NPCI?
+
+NPCI ৰ সম্পূৰ্ণ ৰূপ কি?
+A) National Payments Corporation of India / নেচনেল পেমেন্টছ কৰ্প'ৰেশ্বন অৱ ইণ্ডিয়া
+B) National Payment Clearing Institute / নেচনেল পেমেন্ট ক্লিয়ৰিং ইনষ্টিটিউট
+C) National Public Commerce Integration / নেচনেল পাব্লিক কমাৰ্চ ইন্টিগ্ৰেশ্বন
+D) National Petroleum Corporation of India / নেচনেল পেট্ৰ'লিয়াম কৰ্প'ৰেশ্বন অৱ ইণ্ডিয়া
+Ans: A
+
+21. What is the full form of BHIM app?
+
+BHIM এপৰ সম্পূৰ্ণ ৰূপ কি?
+A) Bharat Interface for Money / ভাৰত ইন্টাৰফেছ ফৰ মানি
+B) Bharat Integrated Money system / ভাৰত ইণ্টেগ্ৰেটেড মানি চিষ্টেম
+C) Bharat Instant Money transfer / ভাৰত ইনষ্টেণ্ট মানি ট্রান্সফাৰ
+D) Bank Interface for Money / বেংক ইন্টাৰফেছ ফৰ মানি
+Ans: A
+
+22. Blockchain technology is the underlying architecture behind what?
+
+ব্লকচেইন (Blockchain) প্ৰযুক্তি কোনটো ব্যৱস্থাৰ মূল ভেটি?
+A) Cryptocurrencies (e.g. Bitcoin) / ক্ৰিপ্টোকাৰেন্সী (যেনে- বিটকইন)
+B) Traditional landline telephone / পৰম্পৰাগত লেণ্ডলাইন টেলিফোন
+C) Analog television broadcast / এনাৰ্লগ টেলিভিছন সম্প্ৰচাৰ
+D) Magnetic floppy disks / মেগনেটিক ফ্লপি ডিস্ক
+Ans: A
+
+23. Who is the anonymous creator of Bitcoin?
+
+বিটকইন (Bitcoin) ৰ বেনামী স্ৰষ্টা কোন?
+A) Satoshi Nakamoto / ছাতোশী নাকামোতো
+B) Vitalik Buterin / ভিটালিক বুটেৰিন
+C) Elon Musk / ইলন মাস্ক
+D) Mark Zuckerberg / মাৰ্ক জুকাবাৰ্গ
+Ans: A

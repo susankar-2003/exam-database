@@ -1,5 +1,5 @@
 {
-    "last_serial": 447,
+    "last_serial": 453,
     "papers": {
         "1": {
             "id": "1",
@@ -3127,6 +3127,48 @@
             "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%202_25Q.txt",
             "hash": "3f7c0a1aa56c6d983e9805a204a43dce"
+        },
+        "448": {
+            "id": "448",
+            "name": "Electricity & Electronics 4_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%204_25Q.txt",
+            "hash": "7b4afd2cdd0a129775149cfb69e41d31"
+        },
+        "449": {
+            "id": "449",
+            "name": "Electricity & Electronics 1_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%201_25Q.txt",
+            "hash": "7c7ceb31cb48c4ed148cc230d0c17153"
+        },
+        "450": {
+            "id": "450",
+            "name": "Electricity & Electronics 6_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%206_25Q.txt",
+            "hash": "88b35266a0d1b13020c39ed7e9ae685c"
+        },
+        "451": {
+            "id": "451",
+            "name": "Electricity & Electronics 3_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%203_25Q.txt",
+            "hash": "372c00f711a957ecfae17758dd252b57"
+        },
+        "452": {
+            "id": "452",
+            "name": "Electricity & Electronics 2_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%202_25Q.txt",
+            "hash": "6d975fb73e0222f442439dfdf9ce3916"
+        },
+        "453": {
+            "id": "453",
+            "name": "Electricity & Electronics 5_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%205_25Q.txt",
+            "hash": "5138c26da049e5e8c292ce0e6043cb71"
         }
     }
 }

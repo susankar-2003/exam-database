@@ -1,0 +1,224 @@
+1. What is the normal body temperature of a healthy human in Celsius?
+
+এজন সুস্থ মানুহৰ শৰীৰৰ স্বাভাৱিক উত্তাপ চেলচিয়াছত কিমান?
+A) 35 degree C / ৩৫ ডিগ্ৰী ছে.
+B) 37 degree C / ৩৭ ডিগ্ৰী ছে.
+C) 98.6 degree C / ৯৮.৬ ডিগ্ৰী ছে.
+D) 40 degree C / ৪০ ডিগ্ৰী ছে.
+Ans: B
+
+2. What is the average pulse rate of an adult human at rest per minute?
+
+বিশ্ৰামৰ সময়ত এজন প্ৰাপ্তবয়স্ক মানুহৰ নাড়ীৰ স্পন্দন প্রতি মিনিটত গড়ে কিমান?
+A) 50-60 times / ৫০-৬০ বাৰ
+B) 72 times / ৭২ বাৰ
+C) 100 times / ১০০ বাৰ
+D) 120 times / ১২০ বাৰ
+Ans: B
+
+3. Which artery carries deoxygenated blood from the heart to the lungs?
+
+কোনটো ধমনীয়ে হৃদপিণ্ডৰ পৰা অক্সিজেনহীন তেজ হাওঁফাওঁলৈ কঢ়িয়াই নিয়ে?
+A) Aorta / মহাধমনী
+B) Pulmonary Artery / ফুফুছীয় ধমনী
+C) Coronary Artery / কৰ'নাৰী ধমনী
+D) Renal Artery / ৰেনাল ধমনী
+Ans: B
+
+4. Which vein carries oxygenated blood from the lungs back to the heart?
+
+কোনটো সিৰাই হাওঁফাওঁৰ পৰা অক্সিজেনযুক্ত তেজ হৃদপিণ্ডলৈ ওভটাই আনে?
+A) Vena Cava / মহাশিৰা
+B) Pulmonary Vein / ফুফুছীয় সিৰা
+C) Jugular Vein / জুগুলাৰ সিৰা
+D) Renal Vein / ৰেনাল সিৰা
+Ans: B
+
+5. What is the valve present between the left atrium and left ventricle of the human heart?
+
+মানুহৰ হৃদপিণ্ডৰ বাঁও অলিন্দ আৰু বাঁও নিলয়ৰ মাজত থকা কপাটিকাখন কি?
+A) Tricuspid Valve / ত্রিপত্ৰক কপাটিকা
+B) Bicuspid (Mitral) Valve / দ্বিপত্ৰক (মাইট্ৰেল) কপাটিকা
+C) Semilunar Valve / অৰ্ধচন্দ্ৰাকাৰ কপাটিকা
+D) Eustachian Valve / ইউষ্টেচিয়ান কপাটিকা
+Ans: B
+
+6. What is the instrument used to measure human blood pressure?
+
+মানুহৰ ৰক্তচাপ জুখিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰটোৰ নাম কি?
+A) Thermometer / থাৰ্মোমিটাৰ
+B) Sphygmomanometer / স্ফিগমোমেনোমিটাৰ
+C) Stethoscope / ষ্টেথ'স্কোপ
+D) Barometer / বেৰ'মিটাৰ
+Ans: B
+
+7. Which instrumental device is used by doctors to listen to heartbeats?
+
+হৃদস্পন্দন শুনিবলৈ চিকিৎসকে কোনটো যন্ত্ৰ ব্যৱহাৰ কৰে?
+A) Stethoscope / ষ্টেথ'স্কোপ
+B) Electrocardiograph / ইলেক্ট্ৰ'কাৰ্ডিয়োগ্ৰাফ
+C) Endoscope / এণ্ড'স্কোপ
+D) Microscope / অণুবীক্ষণ যন্ত্ৰ
+Ans: A
+
+8. Which type of tissue covers the outer surfaces of organs and the body?
+
+কোন ধৰণৰ কলাই অংগবোৰৰ আৰু শৰীৰৰ বাহ্যিক আৱৰণ গঠন কৰে?
+A) Muscle Tissue / পেশী কলা
+B) Epithelial Tissue / এপিথেলেমেট বা আৱৰণী কলা
+C) Connective Tissue / সংযোগী কলা
+D) Nervous Tissue / স্নায়ু কলা
+Ans: B
+
+9. Which blood group lacks both A and B antigens on red blood cells?
+
+কোনটো ৰক্ত গোটৰ লোহিত ৰক্ত কণিকাত A আৰু B দুয়োটা এণ্টিজেনেই নাথাকে?
+A) Group A / গোট A
+B) Group B / গোট B
+C) Group AB / গোট AB
+D) Group O / গোট O
+Ans: D
+
+10. Which blood group has both A and B antigens?
+
+কোনটো ৰক্ত গোটত A আৰু B দুয়োটা এণ্টিজেন থাকে?
+A) Group A / গোট A
+B) Group B / গোট B
+C) Group AB / গোট AB
+D) Group O / গোট O
+Ans: C
+
+11. What is the functional unit of the human nervous system?
+
+মানুহৰ স্নায়ুতন্ত্ৰৰ কাৰ্য্যকৰী একক কি?
+A) Nephron / নেফ্ৰন
+B) Neuron / নিউৰন
+C) Alveoli / এলভিঅ'লাই
+D) Axon / এক্সন
+Ans: B
+
+12. What is the soft tissue inside bones where blood cells are made?
+
+হাড়ৰ ভিতৰত থকা কোমল কলা বিধ কি য'ত ৰক্তকোষ তৈয়াৰ হয়?
+A) Cartilage / উপাস্থি
+B) Bone Marrow / অস্থিমজ্জা
+C) Tendon / টেণ্ডন
+D) Collagen / ক'লাজেন
+Ans: B
+
+13. Which muscle in the human body is under voluntary control?
+
+মানুহৰ শৰীৰৰ কোনটো পেশী ইচ্ছাধীন নিয়ন্ত্ৰণত থাকে?
+A) Cardiac Muscle / হৃদ পেশী
+B) Smooth Muscle / মৈণাম পেশী
+C) Skeletal Muscle / কংকালী বা জঁকা পেশী
+D) Involuntary Muscle / অনিচ্ছাকৃত পেশী
+Ans: C
+
+14. What is the process of intake of oxygen and release of carbon dioxide called?
+
+অক্সিজেন গ্ৰহণ আৰু কাৰ্বন ডাই অক্সাইড এৰি দিয়া প্ৰক্ৰিয়াটোক কি বুলি কোৱা হয়?
+A) Digestion / পৰিপাক
+B) Excretion / ৰেচন
+C) Respiration / শ্বসন
+D) Circulation / সংবহন
+Ans: C
+
+15. Which organ is responsible for filtering toxic substances and detoxifying chemicals in the body?
+
+শৰীৰৰ বিষাক্ত পদাৰ্থ আৰু ৰাসায়নিক পদাৰ্থ মুক্ত কৰাৰ বাবে কোনটো অংগ দায়বদ্ধ?
+A) Liver / যকৃৎ
+B) Spleen / প্লীহা
+C) Stomach / পাকস্থলী
+D) Pancreas / অগ্ন্যাশয়
+Ans: A
+
+16. What is the main nitrogenous waste excreted in human urine?
+
+মানুহৰ প্ৰস্ৰাৱত নিৰ্গমন হোৱা মূল নাইট্ৰ'জেনযুক্ত বৰ্জিত পদাৰ্থ কি?
+A) Ammonia / এমনিয়া
+B) Urea / ইউৰিয়া
+C) Uric Acid / ইউৰিক এচিড
+D) Creatinine / ক্ৰিয়েটিনিন
+Ans: B
+
+17. Which vitamin is also known as Ascorbic Acid?
+
+কোনটো ভিটামিনক এস্কৰ্বিক এচিড বুলিও জনা যায়?
+A) Vitamin A / ভিটামিন A
+B) Vitamin B12 / ভিটামিন B12
+C) Vitamin C / ভিটামিন C
+D) Vitamin D / ভিটামিন D
+Ans: C
+
+18. Deficiency of Vitamin D in children causes which disease?
+
+শিশুসকলৰ ভিটামিন D ৰ অভাৱত কোনটো ৰোগ হয়?
+A) Scurvy / স্কৰ্ভি
+B) Rickets / ৰিকেটছ
+C) Beriberi / বেৰিবেৰি
+D) Pellagra / পেলাগ্ৰা
+Ans: B
+
+19. Which vitamin is soluble in water?
+
+কোনটো ভিটামিন পানীত দ্ৰৱণীয়?
+A) Vitamin A / ভিটামিন A
+B) Vitamin C / ভিটামিন C
+C) Vitamin D / ভিটামিন D
+D) Vitamin K / ভিটামিন K
+Ans: B
+
+20. Which of the following is a fat-soluble vitamin?
+
+তলৰ কোনটো চর্বিত দ্রৱণীয় ভিটামিন?
+A) Vitamin B / ভিটামিন B
+B) Vitamin C / ভিটামিন C
+C) Vitamin A / ভিটামিন A
+D) Vitamin B12 / ভিটামিন B12
+Ans: C
+
+21. What is the name of the fluid part of blood without cells?
+
+কোষবিহীন তেজৰ জুলীয়া অংশটোৰ নাম কি?
+A) Serum / চিৰাম
+B) Plasma / প্লাজমা
+C) Lymph / লসীকা
+D) Water / পানী
+Ans: B
+
+22. Which lens is used in spectacles to correct Myopia (Nearsightedness)?
+
+মাইঅ'পিয়া (হ্ৰস্বদৃষ্টি) সংশোধনৰ বাবে চশমাত কোনটো লেনছ ব্যৱহাৰ কৰা হয়?
+A) Convex Lens / উত্তল লেনছ
+B) Concave Lens / অৱতল লেনছ
+C) Cylindrical Lens / চুঙাকৃতি লেনছ
+D) Bifocal Lens / দ্বিনাভি লেনছ
+Ans: B
+
+23. Which lens is used to correct Hypermetropia (Farsightedness)?
+
+হাইপাৰমেট্ৰ'পিয়া (দূৰদৃষ্টি) সংশোধন কৰিবলৈ কোনটো লেনছ ব্যৱহাৰ কৰা হয়?
+A) Concave Lens / অৱতল লেনছ
+B) Convex Lens / উত্তল লেনছ
+C) Cylindrical Lens / চুঙাকৃতি লেনছ
+D) Plane Lens / সমতল লেনছ
+Ans: B
+
+24. On which part of the human eye is an image normally formed?
+
+মানুহৰ চকুৰ কোনটো অংশত স্বাভাৱিকতে প্ৰতিবিম্ব গঠিত হয়?
+A) Cornea / কৰ্নিয়া
+B) Iris / আইৰিছ
+C) Pupil / পুপিল
+D) Retina / ৰেটিনা
+Ans: D
+
+25. What type of image is formed on the human retina?
+
+মানুহৰ ৰেটিনাত কেনে ধৰণৰ প্ৰতিবিম্ব গঠিত হয়?
+A) Real and Inverted / সৎ আৰু ওলোটা
+B) Virtual and Erect / অসৎ আৰু থিয়
+C) Real and Erect / সৎ আৰু থিয়
+D) Virtual and Inverted / অসৎ আৰু ওলোটা
+Ans: A

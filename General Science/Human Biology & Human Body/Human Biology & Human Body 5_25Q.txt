@@ -1,0 +1,224 @@
+1. Which organ system in the human body is primarily responsible for producing hormones?
+
+মানুহৰ শৰীৰৰ কোনটো অঙ্গ তন্ত্ৰই প্ৰধানকৈ হৰমোন উৎপন্ন কৰে?
+A) Digestive System / পাচন তন্ত্ৰ
+B) Endocrine System / অন্তঃস্ৰাৱী তন্ত্ৰ
+C) Excretory System / ৰেচন তন্ত্ৰ
+D) Respiratory System / শ্বসন তন্ত্ৰ
+Ans: B
+
+2. Which part of the human eye contains light-sensitive cells known as rods and cones?
+
+মানুহৰ চকুৰ কোনটো অংশত ৰড (Rods) আৰু ক'ন (Cones) নামৰ পোহৰ সংবেদনশীল কোষ থাকে?
+A) Cornea / কৰ্নিয়া
+B) Iris / আইৰিছ
+C) Sclera / স্ক্লেৰা
+D) Retina / ৰেটিনা
+Ans: D
+
+3. Which gas is mainly transported bound to hemoglobin in human blood?
+
+মানুহৰ তেজত হিম'গ্লবিনৰ সৈতে আবদ্ধ হৈ মূলতঃ কোনটো গেছ পৰিবহণ হয়?
+A) Nitrogen / নাইট্ৰ'জেন
+B) Oxygen / অক্সিজেন
+C) Carbon Dioxide / কাৰ্বন ডাই অক্সাইড
+D) Hydrogen / হাইড্ৰ'জেন
+Ans: B
+
+4. What is the longest muscle in the human body?
+
+মানুহৰ শৰীৰৰ আটাইতকৈ দীঘল পেশীটো কি?
+A) Sartorius / চাৰ্টোৰিয়াছ
+B) Latissimus Dorsi / লেটিচিমাছ ডৰ্চি
+C) Gluteus Maximus / গ্লুটিয়াছ মেক্সিমাছ
+D) Stapedius / স্টেপেডিয়াছ
+Ans: A
+
+5. What is the strongest muscle in the human body based on its weight?
+
+ওজনৰ ভিত্তি সংগতি ৰাখি মানুহৰ শৰীৰৰ আটাইতকৈ শক্তিশালী পেশীটো কি?
+A) Masseter / মেছেটাৰ (চৱোৱা পেশী)
+B) Biceps / বাইচেপছ
+C) Quadriceps / কুৱাড্ৰিচেপছ
+D) Tongue / জিভা
+Ans: A
+
+6. Which gland produces tears in the human eye?
+
+মানুহৰ চকুত চকুলো কোনটো গ্ৰন্থিয়ে উৎপন্ন কৰে?
+A) Sebaceous Gland / চেবেচিয়াছ গ্ৰন্থি
+B) Lacrimal Gland / লেক্ৰিমেল গ্ৰন্থি
+C) Salivary Gland / লালটি গ্ৰন্থি
+D) Thyroid Gland / থাইৰয়ড গ্ৰন্থি
+Ans: B
+
+7. What is the liquid matrix of human cartilage composed mainly of?
+
+মানুহৰ উপাস্থিৰ তৰল মেট্ৰিস্ক মূলতঃ কিহেৰে গঠিত?
+A) Chondroitin and Proteins / কন্ড্ৰইটিন আৰু প্ৰ'টিন
+B) Calcium Phosphate / কেলচিয়াম ফছফেট
+C) Sodium Chloride / ছ'ডিয়াম ক্ল'ৰাইড
+D) Pure Iron / বিশুদ্ধ লোহা
+Ans: A
+
+8. Which enzyme in the stomach breaks down proteins into peptones?
+
+পাকস্থলীৰ কোনটো এঞ্জাইমে প্ৰ'টিনক পেপ্টনলৈ ৰূপান্তৰ কৰে?
+A) Salivary Amylase / লালটি এমিলেজ
+B) Pepsin / পেপচিন
+C) Lipase / লাইপেজ
+D) Maltase / মল্টেজ
+Ans: B
+
+9. What is the hardest substance in the human body?
+
+মানুহৰ শৰীৰৰ আটাইতকৈ কঠিন পদাৰ্থবিধ কি?
+A) Bone / হাড়
+B) Enamel / এনামেল
+C) Dentin / ডেন্টিন
+D) Cartilage / উপাস্থি
+Ans: B
+
+10. Which section of the human brain is responsible for high-level thinking, memory, and reasoning?
+
+মগজুৰ কোনটো অংশ উচ্চ পৰ্যায়ৰ চিন্তা, স্মৃতিশক্তি আৰু যুক্তিৰ বাবে দায়বদ্ধ?
+A) Cerebellum / চেৰেবেলাম
+B) Cerebrum / চেৰেব্ৰাম
+C) Pons / পনছ
+D) Medulla / মেডুলা
+Ans: B
+
+11. Which enzyme digests dietary fats into fatty acids and glycerol?
+
+খোৱা চৰ্বিক ফেটি এচিড আৰু গ্লিচেৰললৈ ৰূপান্তৰ কৰা এঞ্জাইমটো কি?
+A) Amylase / এমিলেজ
+B) Lipase / লাইপেজ
+C) Pepsin / পেপচিন
+D) Trypsin / ট্রিপচিন
+Ans: B
+
+12. Which blood vessels have the thinnest walls to allow diffusion of gases and nutrients?
+
+গেছ আৰু পুষ্টিৰ ব্যাপন ঘটিবলৈ কোনবোৰ ৰক্তনালীৰ বেৰ আটাইতকৈ পাতল হয়?
+A) Arteries / ধমনী
+B) Veins / সিৰা
+C) Capillaries / কৈশিক নালী
+D) Venules / ভেনিউল
+Ans: C
+
+13. What is the structural connection between two neurons called?
+
+দুটা নিউৰনৰ মাজৰ গঠনাত্মক সংযোগস্থলক কি বোলা হয়?
+A) Axon / এক্সন
+B) Dendrite / ডেনড্ৰাইট
+C) Synapse / চাইনেপছ
+D) Myelin Sheath / মায়েলিন আৱৰণ
+Ans: C
+
+14. Which hormone controls the secondary sexual characteristics in human males?
+
+মানুহ পুৰুষৰ গৌণ যৌন লক্ষণবোৰ কোনটো হৰমোনে নিয়ন্ত্ৰণ কৰে?
+A) Estrogen / এষ্ট্ৰ'জেন
+B) Progesterone / প্ৰ'জেষ্টেৰন
+C) Testosterone / টেষ্ট'ষ্টেৰন
+D) Insulin / ইনচুলিন
+Ans: C
+
+15. Which hormone plays a primary role in regulating the female menstrual cycle?
+
+মহিলাই ঋতুচক্ৰ নিয়ন্ত্ৰণত কোনটো হৰমোনে মুখ্য ভূমিকা পালন কৰে?
+A) Testosterone / টেষ্ট'ষ্টেৰন
+B) Estrogen / এষ্ট্ৰ'জেন
+C) Adrenaline / এড্ৰিনালিন
+D) Thyroxine / থাইৰক্সিন
+Ans: B
+
+16. Which part of the ear is responsible for maintaining body balance?
+
+কাণৰ কোনটো অংশ শৰীৰৰ ভাৰসাম্য ৰক্ষাৰ বাবে দায়বদ্ধ?
+A) Tympanic Membrane / কাণৰ পেহা (টিম্পেনিক আৱৰণ)
+B) Semicircular Canals / অৰ্ধবৃত্তাকাৰ নালী
+C) Pinna / কাণৰ লতি (পিন্না)
+D) Eustachian Tube / ইউষ্টেচিয়ান নালী
+Ans: B
+
+17. What is the scientific name for the human voice box?
+
+মানুহৰ স্বৰযন্ত্ৰৰ বৈজ্ঞানিক নাম কি?
+A) Pharynx / গলবিল (ফেৰিংস্ক)
+B) Larynx / স্বৰযন্ত্ৰ (লেৰিংস্ক)
+C) Trachea / শ্বাসনালী (ট্ৰেকিয়া)
+D) Esophagus / গ্ৰাসনালী
+Ans: B
+
+18. Which structural element prevents food from entering the trachea during swallowing?
+
+কি হৰণ কৰাৰ সময়ত খাদ্যক শ্বাসনালীত সোমোৱাত কোনটো অংশই বাধা দিয়ে?
+A) Epiglottis / এপিগ্লটিছ
+B) Pharynx / ফেৰিংস্ক
+C) Larynx / লেৰিংস্ক
+D) Uvula / ইউভিউলা
+Ans: A
+
+19. What type of joint is found at the human shoulder and hip?
+
+মানুহৰ কান্ধ আৰু কঁকালৰ জোৰাত কোন ধৰণৰ জোৰা পোৱা যায়?
+A) Hinge Joint / হিংজোৰা
+B) Pivot Joint / পিভট জোৰা
+C) Ball and Socket Joint / বল আৰু চকেট জোৰা
+D) Fixed Joint / স্থিৰ জোৰা
+Ans: C
+
+20. Which type of joint is present in the human knee and elbow?
+
+মানুহৰ আঁঠু আৰু কিলাকুটিত কোন ধৰণৰ জোৰা থাকে?
+A) Ball and Socket Joint / বল আৰু চকেট জোৰা
+B) Hinge Joint / কৱজা জোৰা (হিংজোৰা)
+C) Gliding Joint / গ্লাইডিং জোৰা
+D) Pivot Joint / পিভট জোৰা
+Ans: B
+
+21. What is the total length of the human small intestine approximately?
+
+মানুহৰ ক্ষুদ্ৰান্ত্ৰৰ মুঠ আনুমানিক দৈঘ্য কিমান?
+A) 1.5 meters / ১.৫ মিটাৰ
+B) 6 to 7 meters / ৬ ৰ পৰা ৭ মিটাৰ
+C) 10 to 12 meters / ১০ ৰ পৰা ১২ মিটাৰ
+D) 3 meters / ৩ মিটাৰ
+Ans: B
+
+22. Which part of the digestive system absorbs water from indigestible food residues?
+
+পাচন তন্ত্ৰৰ কোনটো অংশে হজম নোহোৱা খাদ্যৰ অৱশিষ্টৰ পৰা পানী শোষণ কৰে?
+A) Stomach / পাকস্থলী
+B) Small Intestine / ক্ষুদ্ৰান্ত্ৰ
+C) Large Intestine / বৃহদান্ত্ৰ
+D) Duodenum / ডুঅ’ডে নাম
+Ans: C
+
+23. What is the process of cell division that produces sex cells (sperm and egg) called?
+
+জননকোষ (শুক্ৰাণু আৰু ডিম্বাণু) উৎপন্ন কৰা কোষ বিভাজন প্ৰক্ৰিয়াক কি বোলা হয়?
+A) Mitosis / মাইট'ছিছ
+B) Meiosis / মিঅ'ছিছ
+C) Amitosis / এমািট'ছিছ
+D) Binary Fission / দ্বিখণ্ডন
+Ans: B
+
+24. What is the process of cell division responsible for growth and repair of body tissues?
+
+শৰীৰৰ কলাৰ বৃদ্ধি আৰু মেৰামতিৰ বাবে দায়বদ্ধ কোষ বিভাজন প্ৰক্ৰিয়াটোক কি বোলা হয়?
+A) Mitosis / মাইট'ছিছ
+B) Meiosis / মিঅ'ছিছ
+C) Budding / মুকুলোদ্গম
+D) Regeneration / পুনৰু উৎপত্তি
+Ans: A
+
+25. How many total pairs of chromosomes are present in a normal human cell?
+
+এটা স্বাভাৱিক মানুহৰ কোষত মুঠ কেইজোৰা ক্ৰম'জ'ম থাকে?
+A) 22 pairs / ২২ জোৰা
+B) 23 pairs / ২৩ জোৰা
+C) 24 pairs / ২৪ জোৰা
+D) 46 pairs / ৪৬ জোৰা
+Ans: B

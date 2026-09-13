@@ -1,0 +1,224 @@
+1. Which organelle is known as the powerhouse of the cell?
+
+এইটো কোনটো অঙ্গাণুক কোষৰ শক্তিঘৰ বুলি কোৱা হয়?
+A) Ribosome / ৰাইবোজোম
+B) Mitochondria / মাইট'কন্ড্ৰিয়া
+C) Lysosome / লাইছ'জোম
+D) Golgi apparatus / গলগি যন্ত্ৰ
+Ans: B
+
+2. Which structure is present in plant cells but absent in animal cells?
+
+উদ্ভিদ কোষত থকা কিন্তু প্ৰাণী কোষত নথকা গঠনটো কি?
+A) Cell membrane / কোষ আৱৰণ
+B) Cell wall / কোষ বেৰ
+C) Nucleus / নিউক্লিয়াছ
+D) Cytoplasm / চাইট'প্লাজম
+Ans: B
+
+3. Which organelle is called the suicide bag of the cell?
+
+কোনটো অঙ্গাণুক কোষৰ আত্মঘাতী থলী বুলি কোৱা হয়?
+A) Lysosome / লাইছ'জোম
+B) Centrosome / চেণ্ট্ৰ'জোম
+C) Vacuole / ৰসধানী
+D) Plastid / প্লাষ্টিড
+Ans: A
+
+4. Who discovered the cell for the first time?
+
+কোনে প্ৰথমবাৰৰ বাবে কোষ আৱিষ্কাৰ কৰিছিল?
+A) Robert Brown / ৰবাৰ্ট ব্ৰাউন
+B) Robert Hooke / ৰবাৰ্ট হুক
+C) Anton van Leeuwenhoek / এণ্টন ভান লিউৱেনহুক
+D) Theodor Schwann / থিয়'ডৰ শ্বৱান
+Ans: B
+
+5. Which organelle is known as the protein factory of the cell?
+
+কোনটো অঙ্গাণুক কোষৰ প্ৰ'টিন কাৰখানা বুলি কোৱা হয়?
+A) Ribosome / ৰাইবোজোম
+B) Mitochondria / মাইট'কন্ড্ৰিয়া
+C) Endoplasmic reticulum / এণ্ড'প্লাজমিক ৰেটিকুলাম
+D) Chloroplast / ক্ল'ৰ'প্লাষ্ট
+Ans: A
+
+6. Who discovered the nucleus in the cell?
+
+কোষত নিউক্লিয়াছ কোনে আৱিষ্কাৰ কৰিছিল?
+A) Robert Hooke / ৰবাৰ্ট হুক
+B) Robert Brown / ৰবাৰ্ট ব্ৰাউন
+C) Matthias Schleiden / ম্যাথিয়াছ শ্লেইডেন
+D) Rudolf Virchow / ৰুডলফ বিৰচ'
+Ans: B
+
+7. What is the main component of the plant cell wall?
+
+উদ্ভিদৰ কোষ বেৰৰ মুখ্য উপাদান কি?
+A) Chitin / কাইটিন
+B) Cellulose / চেলুলোজ
+C) Peptidoglycan / পেপটিড'গ্লাইকেন
+D) Lignin / লিগ্নিন
+Ans: B
+
+8. Which organelle controls all the activities of the cell?
+
+কোনটো অঙ্গাণুৱে কোষৰ সকলো কাৰ্যকলাপ নিয়ন্ত্ৰণ কৰে?
+A) Cytoplasm / চাইট'প্লাজম
+B) Nucleus / নিউক্লিয়াছ
+C) Mitochondria / মাইট'কন্ড্ৰিয়া
+D) Ribosome / ৰাইবোজোম
+Ans: B
+
+9. Fluid mosaic model of plasma membrane was proposed by whom?
+
+প্লাজমা আৱৰণৰ ফ্লুইড মোজাইক মডেল কোনে প্ৰস্তাৱ কৰিছিল?
+A) Watson and Crick / ৱাটছন আৰু ক্ৰিক
+B) Singer and Nicolson / ছিংগাৰ আৰু নিকলছন
+C) Schleiden and Schwann / শ্লেইডেন আৰু শ্বৱান
+D) Camillo Golgi / কেমিলো গলগি
+Ans: B
+
+10. Which organelle is involved in lipid synthesis?
+
+কোনটো অঙ্গাণু লিপিড সংশ্লেষণত জৰিত?
+A) Rough endoplasmic reticulum / খহটা এণ্ড'প্লাজমিক ৰেটিকুলাম
+B) Smooth endoplasmic reticulum / মসৃণ এণ্ড'প্লাজমিক ৰেটিকুলাম
+C) Ribosome / ৰাইবোজোম
+D) Lysosome / লাইছ'জোম
+Ans: B
+
+11. What is the site of photosynthesis in plant cells?
+
+উদ্ভিদ কোষত সালোক সংশ্লেষণৰ স্থান কি?
+A) Mitochondria / মাইট'কন্ড্ৰিয়া
+B) Chloroplast / ক্ল'ৰ'প্লাষ্ট
+C) Chromoplast / ক্ৰ'ম'প্লাষ্ট
+D) Leucoplast / লিউক'প্লাষ্ট
+Ans: B
+
+12. Which cellular component is responsible for spindle formation during cell division?
+
+কোষ বিভাজনৰ সময়ত স্ফিণ্ডেল গঠণৰ বাবে কোনটো কোষীয় উপাদান দায়বদ্ধ?
+A) Centrosome / চেণ্ট্ৰ'জোম
+B) Lysosome / লাইছ'জোম
+C) Peroxisome / পেৰক্সিজোম
+D) Ribosome / ৰাইবোজোম
+Ans: A
+
+13. What is the outer boundary of an animal cell called?
+
+প্ৰাণী কোষৰ বহিঃসীমাকে কি বোলা হয়?
+A) Cell wall / কোষ বেৰ
+B) Plasma membrane / প্লাজমা আৱৰণ
+C) Nuclear membrane / নিউক্লীয় আৱৰণ
+D) Tonoplast / টন'প্লাষ্ট
+Ans: B
+
+14. Which organelle packages and dispatches cellular materials?
+
+কোনটো অঙ্গাণুৱে কোষীয় সামগ্ৰী পেকেজিং আৰু প্ৰেৰণ কৰে?
+A) Endoplasmic reticulum / এণ্ড'প্লাজমিক ৰেটিকুলাম
+B) Golgi apparatus / গলগি যন্ত্ৰ
+C) Lysosome / লাইছ'জোম
+D) Vacuole / ৰসধানী
+Ans: B
+
+15. Genetic material in prokaryotic cells is present in which region?
+
+প্ৰ'কেৰিয়'টিক কোষত জিনীয় পদাৰ্থ কোনটো অঞ্চলত থাকে?
+A) Nucleus / নিউক্লিয়াছ
+B) Nucleolus / নিউক্লিঅ'লাছ
+C) Nucleoid / নিউক্লিঅইড
+D) Cytoplasm / চাইট'প্লাজম
+Ans: C
+
+16. What is the primary function of lysosomes?
+
+লাইছ'জোমৰ প্ৰাথমিক কাম কি?
+A) Protein synthesis / প্ৰ'টিন সংশ্লেষণ
+B) Intracellular digestion / আন্তঃকোষীয় হজম
+C) Energy production / শক্তি উৎপাদন
+D) Photosynthesis / সালোক সংশ্লেষণ
+Ans: B
+
+17. Which organism is an example of a prokaryote?
+
+কোনটো জীৱ প্ৰ'কেৰিয়'টৰ উদাহৰণ?
+A) Amoeba / এমিবা
+B) Bacteria / বেক্টেৰিয়া
+C) Paramecium / পেৰামেচিয়াম
+D) Yeast / ইষ্ট
+Ans: B
+
+18. What is the membrane surrounding the vacuole called?
+
+ৰসধানীক ঘেৰি থকা আৱৰণটোক কি বোলা হয়?
+A) Plasma membrane / প্লাজমা আৱৰণ
+B) Tonoplast / টন'প্লাষ্ট
+C) Cytoplast / চাইট'প্লাষ্ট
+D) Cell wall / কোষ বেৰ
+Ans: B
+
+19. Which movement of water molecules occurs through a selectively permeable membrane?
+
+প্ৰভেদক ভেদ্য আৱৰণৰ মাধ্যমেৰে পানীৰ অণুৰ গতিবিধি কি বোলা হয়?
+A) Diffusion / ব্যাপন
+B) Osmosis / পৰাস্ৰৱণ
+C) Active transport / সক্ৰিয় পৰিবহন
+D) Imbibition / অন্তঃশোষণ
+Ans: B
+
+20. What is the liquid matrix inside the chloroplast called?
+
+ক্ল'ৰ'প্লাষ্টৰ ভিতৰৰ তৰল মেট্ৰিক্সক কি বোলা হয়?
+A) Stroma / ষ্ট্ৰ'মা
+B) Grana / গ্ৰানা
+C) Thylakoid / থাইলাকইড
+D) Matrix / মেট্ৰিক্স
+Ans: A
+
+21. Which organelle contains its own DNA and ribosomes?
+
+কোনটো অঙ্গাণুৰ নিজা ডি.এন.এ. আৰু ৰাইবোজোম থাকে?
+A) Lysosome / লাইছ'জোম
+B) Mitochondria / মাইট'কন্ড্ৰিয়া
+C) Golgi body / গলগি বডি
+D) Endoplasmic reticulum / এণ্ড'প্লাজমিক ৰেটিকুলাম
+Ans: B
+
+22. What type of cell division leads to the growth of tissue in multicellular organisms?
+
+বহুকোষী জীৱত কোন প্ৰকাৰৰ কোষ বিভাজনে কলাৰ বৃদ্ধি কৰে?
+A) Mitosis / মাইট'ছিছ
+B) Meiosis / মিঅ'ছিছ
+C) Binary fission / দ্বিখণ্ডন
+D) Budding / মুকুলোদগম
+Ans: A
+
+23. How many daughter cells are produced in meiosis?
+
+মিঅ'ছিছ বিভাজনত কেইটা অপত্য কোষ উৎপন্ন হয়?
+A) 2 / ২
+B) 4 / ৪
+C) 8 / ৮
+D) 1 / ১
+Ans: B
+
+24. What is the power of movement in chromosomes during cell division provided by?
+
+কোষ বিভাজনৰ সময়ত ক্ৰ'ম'জ'মৰ গতিৰ শক্তি কোনে প্ৰদান কৰে?
+A) Centromere / চেণ্ট্ৰ'মিয়াৰ
+B) Spindle fibers / স্ফিণ্ডেল তন্তু
+C) Chromatid / ক্ৰ'মেটিড
+D) Telomere / টেল'মিয়াৰ
+Ans: B
+
+25. Chromosomes are made up of which substances?
+
+ক্ৰ'ম'জ'মবোৰ কিহেৰে গঠিত?
+A) DNA and Carbohydrates / ডি.এন.এ. আৰু কাৰ্ব'হাইড্ৰেট
+B) DNA and Proteins / ডি.এন.এ. আৰু প্ৰ'টিন
+C) RNA and Lipids / আৰ.এন.এ. আৰু লিপিড
+D) Lipids and Proteins / লিপিড আৰু প্ৰ'টিন
+Ans: B

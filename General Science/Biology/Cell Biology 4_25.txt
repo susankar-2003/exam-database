@@ -1,0 +1,224 @@
+1. Fungal cell walls can be digested by which enzyme?
+
+ভেঁকূৰৰ কোষ বেৰ কোনটো এনজাইমৰ দ্বাৰা হজম হয়?
+A) Cellulase / চেলুলেজ
+B) Chitinase / কাইটিনেজ
+C) Amylase / এไม'লেজ
+D) Pectinase / পেকটিনেজ
+Ans: B
+
+2. What is the shrinking of cytoplasm away from cell wall in hypertonic solution called?
+
+হাইপাৰট'নিক দ্ৰৱত প্লাজমা চাইট'প্লাজম কোষ বেৰৰ পৰা সংকুচিত হোৱা কাৰ্যক কি বোলা হয়?
+A) Plasmolysis / প্লাজম'লাইছিছ
+B) Deplasmolysis / ডিপ্লাজম'লাইছিছ
+C) Imbibition / অন্তঃশোষণ
+D) Diffusion / ব্যাপন
+Ans: A
+
+3. Cell wall of plant cells is permeable or impermeable?
+
+উদ্ভিদ কোষৰ কোষ বেৰ ভেদ্য নে অভেদ্য?
+A) Impermeable / অভেদ্য
+B) Fully permeable / সম্পূৰ্ণ ভেদ্য
+C) Selectively permeable / প্ৰভেদক ভেদ্য
+D) Semi-permeable / অৰ্ধ-ভেদ্য
+Ans: B
+
+4. Plasma membrane is permeable in nature as what type?
+
+প্লাজমা আৱৰণ প্ৰকৃতিগতভাৱে কেনেকুৱা?
+A) Fully permeable / সম্পূৰ্ণ ভেদ্য
+B) Selectively permeable / প্ৰভেদক ভেদ্য
+C) Impermeable / অভেদ্য
+D) Non-permeable / অ-ভেদ্য
+Ans: B
+
+5. What is the largest cell in the human body?
+
+মানুহৰ শৰীৰৰ আটাইতকৈ ডাঙৰ কোষ কোনটো?
+A) Ovum (Egg cell) / ডিম্বাণু
+B) Nerve cell / স্নায়ুকোষ
+C) Muscle cell / পেশী কোষ
+D) Red blood cell / লোহিত ৰক্ত কণিকা
+Ans: A
+
+6. What is the longest cell in the human body?
+
+মানুহৰ শৰীৰৰ আটাইতকৈ দীঘল কোষ কোনটো?
+A) Muscle cell / পেশী কোষ
+B) Neuron (Nerve cell) / নিউৰন (স্নায়ুকোষ)
+C) Bone cell / অস্থি কোষ
+D) Liver cell / যকৃৎ কোষ
+Ans: B
+
+7. What is the smallest known living cell/organism?
+
+আটাইতকৈ সৰু জনাজাত জীৱন্ত কোষ/জীৱ কি?
+A) Amoeba / এমিবা
+B) Mycoplasma (PPLO) / মাইক'প্লাজমা
+C) Bacteria / বেক্টেৰিয়া
+D) Yeast / ইষ্ট
+Ans: B
+
+8. What is the largest single cell in the world?
+
+পৃথিৱীৰ আটাইতকৈ ডাঙৰ একক কোষ কি?
+A) Ostrich egg / উটপক্ষীৰ কণী
+B) Human ovum / মানুহৰ ডিম্বাণু
+C) Elephant nerve cell / হাতীৰ স্নায়ুকোষ
+D) Acetabularia / এচেটাবুলেৰিয়া
+Ans: A
+
+9. Red blood cells placed in isotonic solution will undergo what change?
+
+লোহিত ৰক্ত কণিকাক আইছ'ট'নিক দ্ৰৱত ৰাখিলে কি পৰিৱৰ্তন হ'ব?
+A) Remain unchanged / অপৰিৱৰ্তিত থাকিব
+B) Shrink / সংকুচিত হ'ব
+C) Burst / ফাটি যাব
+D) Coagulate / গোট মাৰিব
+Ans: A
+
+10. Chromatin network condenses to form what structure during cell division?
+
+কোষ বিভাজনৰ সময়ত ক্ৰ'মেটিন জালিকা ঘন হৈ কি গঠন কৰে?
+A) Genes / জিন
+B) Chromosomes / ক্ৰ'ম'জ'ম
+C) Centrosomes / চেণ্ট্ৰ'জোম
+D) Nucleoli / নিউক্লিঅ'লাই
+Ans: B
+
+11. Histone proteins are associated with which molecule?
+
+হিষ্ট'ন প্ৰ'টিন কোনটো অণুৰ সৈতে জৰিত?
+A) RNA / আৰ.এন.এ.
+B) DNA / ডি.এন.এ.
+C) Lipids / লিপিড
+D) Carbohydrates / কাৰ্ব'হাইড্ৰেট
+Ans: B
+
+12. Where does glycolysis take place in a eukaryotic cell?
+
+ইউকেৰিয়'টিক কোষত গ্লাইক'লাইছিছ ক'ত ঘটে?
+A) Mitochondria / মাইট'কন্ড্ৰিয়া
+B) Cytoplasm / চাইট'প্লাজম
+C) Nucleus / নিউক্লিয়াছ
+D) Ribosome / ৰাইবোজোম
+Ans: B
+
+13. Where does the Krebs cycle take place in a eukaryotic cell?
+
+ইউকেৰিয়'টিক কোষত ক্ৰেবছ চক্ৰ ক'ত ঘটে?
+A) Cytoplasm / চাইট'প্লাজম
+B) Mitochondrial matrix / মাইট'কন্ড্ৰিয়েল মেট্ৰিক্স
+C) Chloroplast stroma / ক্ল'ৰ'প্লাষ্ট ষ্ট্ৰ'মা
+D) Inner membrane of ER / ই.আৰ.ৰ ভিতৰৰ আৱৰণ
+Ans: B
+
+14. Which enzyme is responsible for synthesizing ATP in mitochondria?
+
+মাইট'কন্ড্ৰিয়াত এ.টি.পি. সংশ্লেষণৰ বাবে কোনটো এনজাইম দায়বদ্ধ?
+A) ATP synthase / এ.টি.পি. ছিনথেজ
+B) DNA polymerase / ডি.এন.এ. পলিমাৰেছ
+C) Amylase / এไม'লেজ
+D) Lipase / লাইপেজ
+Ans: A
+
+15. Cell wall is absent in which kingdom of life?
+
+জীৱৰ কোনটো ৰাজ্যত কোষ বেৰ নাথাকে?
+A) Plantae / উদ্ভিদ ৰাজ্য
+B) Fungi / ভেঁকূৰ ৰাজ্য
+C) Animalia / প্ৰাণী ৰাজ্য
+D) Monera / ম'নেৰা
+Ans: C
+
+16. Which cellular organelle contains catalase enzyme?
+
+কোনটো কোষ অঙ্গাণুত কেটালেজ এনজাইম থাকে?
+A) Peroxisome / পেৰক্সিজোম
+B) Lysosome / লাইছ'জোম
+C) Centrosome / চেণ্ট্ৰ'জোম
+D) Ribosome / ৰাইবোজোম
+Ans: A
+
+17. Which organelle regulates calcium ion storage in muscle cells?
+
+পেশী কোষত কেলছিয়াম আয়ন সঞ্চয় কোনটো অঙ্গাণুৱে নিয়ন্ত্ৰণ কৰে?
+A) Sarcoplasmic reticulum / ছাৰ্ক'প্লাজমিক ৰেটিকুলাম
+B) Golgi apparatus / গলগি যন্ত্ৰ
+C) Lysosome / লাইছ'জোম
+D) Nucleolus / নিউক্লিঅ'লাছ
+Ans: A
+
+18. The Golgi apparatus was first observed by which scientist?
+
+গলগি যন্ত্ৰ প্ৰথমবাৰৰ বাবে কোন বিজ্ঞানীয়ে প্ৰত্যক্ষ কৰিছিল?
+A) Robert Brown / ৰবাৰ্ট ব্ৰাউন
+B) Camillo Golgi / কেমিলো গলগি
+C) Christian de Duve / ক্ৰিষ্টিয়ান ডি ড্যুভ
+D) George Palade / জৰ্জ পাল্যাডে
+Ans: B
+
+19. Who discovered lysosomes?
+
+লাইছ'জোম কোনে আৱিষ্কাৰ কৰিছিল?
+A) Camillo Golgi / কেমিলো গলগি
+B) Christian de Duve / ক্ৰিষ্টিয়ান ডি ড্যুভ
+C) Robert Hooke / ৰবাৰ্ট হুক
+D) Keith Porter / কিথ পোৰ্টাৰ
+Ans: B
+
+20. Who discovered ribosomes?
+
+ৰাইবোজোম কোনে আৱিষ্কাৰ কৰিছিল?
+A) George Palade / জৰ্জ পাল্যাডে
+B) Robert Brown / ৰবাৰ্ট ব্ৰাউন
+C) Altmann / আল্টমেন
+D) Boveri / ব'ভেৰী
+Ans: A
+
+21. Which organelle is referred to as the cell engine?
+
+কোনটো অঙ্গাণুক কোষৰ ইঞ্জিন বুলি কোৱা হয়?
+A) Ribosome / ৰাইবোজোম
+B) Mitochondria / মাইট'কন্ড্ৰিয়া
+C) Nucleus / নিউক্লিয়াছ
+D) Lysosome / লাইছ'জোম
+Ans: B
+
+22. Plant cell vacuole contains what substance?
+
+উদ্ভিদ কোষৰ ৰসধানীত কি পদাৰ্থ থাকে?
+A) Water and excretory products / পানী আৰু ৰেচন পদাৰ্থ
+B) Pure air / বিশুদ্ধ বায়ু
+C) Only DNA / কেৱল ডি.এন.এ.
+D) Starch grains only / কেৱল শ্বেতসাৰ
+Ans: A
+
+23. Middle lamella in plant cells is mainly composed of what?
+
+উদ্ভিদ কোষৰ মধ্য লেমেলা মূলতঃ কিহেৰে গঠিত?
+A) Calcium pectate / কেলছিয়াম পেকটেট
+B) Cellulose / চেলুলোজ
+C) Lignin / লিগ্নিন
+D) Suberin / সুবেৰিন
+Ans: A
+
+24. Plasmodesmata serve what function in plant cells?
+
+উদ্ভিদ কোষত প্লাজম'ডেছমাটাৰ কাম কি?
+A) Cell division / কোষ বিভাজন
+B) Cytoplasmic connections between cells / কোষৰ মাজত চাইট'প্লাজমীয় সংযোগ
+C) Protein synthesis / প্ৰ'টিন সংশ্লেষণ
+D) Photosynthesis / সালোক সংশ্লেষণ
+Ans: B
+
+25. Which pigment gives green color to plants?
+
+কোনটো ৰঞ্জক পদাৰ্থই উদ্ভিদক সেউজীয়া ৰং প্ৰদান কৰে?
+A) Carotene / কেৰ'টিন
+B) Xanthophyll / জেন্থ'ফিল
+C) Chlorophyll / ক্ল'ৰ'ফিল
+D) Anthocyanin / এন্থ'ছায়ানিন
+Ans: C

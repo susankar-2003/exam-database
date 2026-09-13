@@ -1,0 +1,188 @@
+1. Light reaction of photosynthesis takes place in which region?
+
+সালোক সংশ্লেষণৰ পোহৰ বিক্ৰিয়া কোনটো অঞ্চলত ঘটে?
+A) Grana / গ্ৰানা
+B) Stroma / ষ্ট্ৰ'মা
+C) Cytoplasm / চাইট'প্লাজম
+D) Inner membrane / ভিতৰৰ আৱৰণ
+Ans: A
+
+2. Dark reaction (Calvin cycle) of photosynthesis takes place in which region?
+
+সালোক সংশ্লেষণৰ অন্ধকাৰ বিক্ৰিয়া ক'ত ঘটে?
+A) Stroma / ষ্ট্ৰ'মা
+B) Grana / গ্ৰানা
+C) Thylakoid / থাইলাকইড
+D) Outer membrane / বাহ্যিক আৱৰণ
+Ans: A
+
+3. What is a stack of thylakoids called?
+
+থাইলাকইডৰ মৰাক কি বোলা হয়?
+A) Granum / গ্ৰানাম
+B) Stroma / ষ্ট্ৰ'মা
+C) Cristae / ক্ৰিষ্টি
+D) Cisternae / চিষ্টাৰনি
+Ans: A
+
+4. What is the resting phase between two successive cell divisions called?
+
+দুটা ক্ৰমাগত কোষ বিভাজনৰ মাজৰ বিশ্ৰাম পৰ্যায়ক কি বোলা হয়?
+A) Interphase / ইণ্টাৰফেজ
+B) M-phase / এম-পৰ্যায়
+C) Cytokinesis / চাইট'কাইনেছিছ
+D) Karyokinesis / ক্যেৰিয়'কাইনেছিছ
+Ans: A
+
+5. Division of the cell nucleus is termed as what?
+
+কোষৰ নিউক্লিয়াছৰ বিভাজনক কি বোলা হয়?
+A) Karyokinesis / ক্যেৰিয়'কাইনেছিছ
+B) Cytokinesis / চাইট'কাইনেছিছ
+C) Interkinesis / ইণ্টাৰকাইনেছিছ
+D) Diakinesis / ডায়াকাইনেছিছ
+Ans: A
+
+6. Division of the cytoplasm is termed as what?
+
+চাইট'প্লাজমৰ বিভাজনক কি বোলা হয়?
+A) Cytokinesis / চাইট'কাইনেছিছ
+B) Karyokinesis / ক্যেৰিয়'কাইনেছিছ
+C) Synapsis / ছিন্যাপছিছ
+D) Apoptosis / এপ্ট'ছিছ
+Ans: A
+
+7. Plant cells divide cytoplasm by which method?
+
+উদ্ভিদ কোষে কোন পদ্ধতিৰে চাইট'প্লাজম বিভাজন কৰে?
+A) Cell plate formation / কোষ পটি গঠন
+B) Cleavage furrow / ক্লিভেজ ভাজ
+C) Budding / মুকুলোদগম
+D) Binary fission / দ্বিখণ্ডন
+Ans: A
+
+8. Animal cells divide cytoplasm by which method?
+
+প্ৰাণী কোষে কোন পদ্ধতিৰে চাইট'প্লাজম বিভাজন কৰে?
+A) Cleavage furrow / ক্লিভেজ ভাজ
+B) Cell plate formation / কোষ পটি গঠন
+C) Spore formation / ৰেণু গঠন
+D) Fragmentation / খণ্ডীভৱন
+Ans: A
+
+9. Pairing of homologous chromosomes forms what complex structure?
+
+সমসংস্থ ক্ৰ'ম'জ'মৰ জোৰ বন্ধাই কি জটিল গঠন প্ৰস্তুত কৰে?
+A) Synaptonemal complex / ছিন্যাপ্ট'নিমেল কমপ্লেক্স
+B) Centromere / চেণ্ট্ৰ'মিয়াৰ
+C) Aster / এষ্টাৰ
+D) Spindle / স্ফিণ্ডেল
+Ans: A
+
+10. Which type of RNA carries genetic information from DNA to ribosome?
+
+কোন প্ৰকাৰৰ আৰ.এন.এ. এ ডি.এন.এ. ৰ পৰা ৰাইবোজোমলৈ জিনীয় বাৰ্তা কঢ়িয়াই আনে?
+A) mRNA (Messenger RNA) / এম.আৰ.এন.এ.
+B) tRNA (Transfer RNA) / টি.আৰ.এন.এ.
+C) rRNA (Ribosomal RNA) / আৰ.আৰ.এন.এ.
+D) snRNA / এছ.এন.আৰ.এন.এ.
+Ans: A
+
+11. Which type of RNA brings amino acids to ribosome during protein synthesis?
+
+প্ৰ'টিন সংশ্লেষণৰ সময়ত কোনটো আৰ.এন.এ. এ এমিঅ' এছিড কঢ়িয়াই আনে?
+A) tRNA / টি.আৰ.এন.এ.
+B) mRNA / এম.আৰ.এন.এ.
+C) rRNA / আৰ.আৰ.এন.এ.
+D) cRNA / চি.আৰ.এন.এ.
+Ans: A
+
+12. Which type of RNA forms the structural component of ribosomes?
+
+কোন প্ৰকাৰৰ আৰ.এন.এ. এ ৰাইবোজোমৰ গঠনমূলক অংশ গঠন কৰে?
+A) rRNA / আৰ.আৰ.এন.এ.
+B) mRNA / এম.আৰ.এন.এ.
+C) tRNA / টি.আৰ.এন.এ.
+D) siRNA / এছ.আই.আৰ.এন.এ.
+Ans: A
+
+13. Protein synthesis process is also known as what?
+
+প্ৰ'টিন সংশ্লেষণ প্ৰক্ৰিয়াক আন কি নামেৰে জনা যায়?
+A) Translation / ট্ৰান্সলেশন
+B) Transcription / ট্ৰান্সক্ৰিপশ্বন
+C) Replication / ৰেপ্লিকেশ্বন
+D) Reverse transcription / ৰিভাৰ্ছ ট্ৰান্সক্ৰিপশ্বন
+Ans: A
+
+14. Synthesis of RNA from DNA template is called what?
+
+ডি.এন.এ. ৰ পৰা আৰ.এন.এ. সংশ্লেষণ কৰা প্ৰক্ৰিয়াক কি বোলা হয়?
+A) Transcription / ট্ৰান্সক্ৰিপশ্বন
+B) Translation / ট্ৰান্সলেশন
+C) Transduction / ট্ৰান্সডাকশ্বন
+D) Transformation / ট্ৰান্সফৰ্মেশ্বন
+Ans: A
+
+15. Synthesis of DNA from DNA is called what?
+
+ডি.এন.এ. ৰ পৰা ডি.এন.এ. সংশ্লেষণ কৰা কাৰ্যক কি বোলা হয়?
+A) Replication / ৰেপ্লিকেশ্বন
+B) Transcription / ট্ৰান্সক্ৰিপশ্বন
+C) Translation / ট্ৰান্সলেশন
+D) Mutation / মিউটেblings
+Ans: A
+
+16. What is the basic unit of heredity?
+
+বংশগতিৰ মৌলিক একক কি?
+A) Gene / জিন
+B) Chromosome / ক্ৰ'ম'জ'ম
+C) Nucleus / নিউক্লিয়াছ
+D) Cell / কোষ
+Ans: A
+
+17. Alternate forms of a gene are called what?
+
+জিনৰ বিকল্প ৰূপবোৰক কি বোলা হয়?
+A) Alleles / এلیل
+B) Genotype / জেন'টাইপ
+C) Phenotype / ফিন'টাইপ
+D) Mutants / মিউটেন্ট
+Ans: A
+
+18. Which technique is used to amplify DNA fragments in laboratory?
+
+প্ৰয়োগশালাত ডি.এন.এ. ৰ অংশ বৃদ্ধি কৰিবলৈ কোনটো পদ্ধতি ব্যৱহাৰ কৰা হয়?
+A) PCR (Polymerase Chain Reaction) / পি.চি.আৰ.
+B) ELISA / এলিজা
+C) Chromatography / ক্ৰ'মেট'গ্ৰাফী
+D) Western blotting / ৱেষ্টাৰ্ন ব্লটিং
+Ans: A
+
+19. Which scientist named the organelle Mitochondria?
+
+কোন বিজ্ঞানীয়ে মাইট'কন্ড্ৰিয়া অঙ্গাণুৰ নামকৰণ কৰিছিল?
+A) Carl Benda / কাৰ্ল বেণ্ডা
+B) Richard Altmann / ৰিচাৰ্ড আল্টমেন
+C) Camillo Golgi / কেমিলো গলগি
+D) De Duve / ডি ড্যুভ
+Ans: A
+
+20. What is the net movement of solvent molecules from dilute solution to concentrated solution called?
+
+লঘু দ্ৰৱৰ পৰা গাঢ় দ্ৰৱলৈ দ্ৰাৱকৰ গতিবিধিক কি বোলা হয়?
+A) Osmosis / পৰাস্ৰৱণ
+B) Diffusion / ব্যাপন
+C) Active transport / সক্ৰিয় পৰিবহন
+D) Filtration / পৰিশ্ৰৱণ
+Ans: A
+
+21. Red blood cells placed in hypertonic solution will undergo what change?
+
+লোহিত ৰক্ত কণিকাক হাইপাৰট'নিক দ্ৰৱত ৰাখিলে কি পৰিৱৰ্তন হ'ব?
+A) Shrink (Crenation) / সংকুচিত হ'ব
+B) Swell and burst / ফুলি ফাটি যাব
+C) Remain unchanged / অপৰিৱৰ্তিত থাকিব
+D) Dissolve completely / সম্পূৰ্ণ মিহলি হ'ব
+Ans: A

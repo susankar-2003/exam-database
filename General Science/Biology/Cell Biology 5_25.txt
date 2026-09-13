@@ -1,0 +1,224 @@
+1. Which mineral element is present at the center of the chlorophyll molecule?
+
+ক্ল'ৰ'ফিল অণুৰ কেন্দ্ৰত কোনটো খনিজ উপাদান থাকে?
+A) Iron / লোহা
+B) Magnesium / মেগনেছিয়াম
+C) Calcium / কেলছিয়াম
+D) Zinc / জিংক
+Ans: B
+
+2. What is the programmed cell death mechanism called?
+
+সুনিয়ন্ত্ৰিত কোষ মৃত্যুৰ প্ৰক্ৰিয়াটোক কি বোলা হয়?
+A) Necrosis / নেক্ৰ'ছিছ
+B) Apoptosis / এপ্ট'ছিছ
+C) Lysis / লাইছিছ
+D) Ligation / লাইগেছিন
+Ans: B
+
+3. Uncontrolled mitosis division of cells leads to what condition?
+
+কোষৰ অনিঅন্ত্ৰিত মাইট'ছিছ বিভাজনে কি অৱস্থাৰ সৃষ্টি কৰে?
+A) Diabetes / বহুমূত্ৰ
+B) Cancer / কেন্সাৰ
+C) AIDS / এয়ডছ
+D) Anemia / ৰক্তহীনতা
+Ans: B
+
+4. Chromatin material is composed of what components?
+
+ক্ৰ'মেটিন পদাৰ্থ কিহেৰে গঠিত?
+A) DNA and Histones / ডি.এন.এ. আৰু হিষ্ট'ন
+B) RNA and Lipids / আৰ.এন.এ. আৰু লিপিড
+C) Only RNA / কেৱল আৰ.এন.এ.
+D) Carbohydrates / কাৰ্ব'হাইড্ৰেট
+Ans: A
+
+5. What is the subunit of DNA called?
+
+ডি.এন.এ. ৰ একক গঠনক কি বোলা হয়?
+A) Nucleoside / নিউক্লিঅ'ছাইড
+B) Nucleotide / নিউক্লিঅ'টাইড
+C) Amino acid / এমিঅ' এছিড
+D) Fatty acid / ফেটি এছিড
+Ans: B
+
+6. A nucleotide consists of which three components?
+
+নিউক্লিঅ'টাইড কি তিনিটা উপাদানেৰে গঠিত?
+A) Nitrogenous base, Sugar, Phosphate group / নাইট্ৰ'জেন ঘাটি, শৰ্কৰা, ফছফেক্ট গ্ৰুপ
+B) Amino acid, Sugar, Lipid / এমিঅ' এছিড, শৰ্কৰা, লিপিড
+C) Base, Protein, Water / ঘাটি, প্ৰ'টিন, পানী
+D) Sugar, Fatty acid, Glycerol / শৰ্কৰা, ফেটি এছিড, গ্লিচাৰল
+Ans: A
+
+7. Which purine bases are found in DNA?
+
+ডি.এন.এ. ত কোনবোৰ প্ৰিউৰিন ঘাটি পোৱা যায়?
+A) Adenine and Guanine / এডেনিন আৰু গুৱানিন
+B) Cytosine and Thymine / চাইট'ছিন আৰু থাইমিন
+C) Thymine and Uracil / থাইমিন আৰু ইউৰেছিল
+D) Guanine and Cytosine / গুৱানিন আৰু চাইট'ছিন
+Ans: A
+
+8. Which pyrimidine bases are found in DNA?
+
+ডি.এন.এ. ত কোনবোৰ পাইৰিমাইডিন ঘাটি পোৱা যায়?
+A) Adenine and Guanine / এডেনিন আৰু গুৱানিন
+B) Cytosine and Thymine / চাইট'ছিন আৰু থাইমিন
+C) Adenine and Uracil / এডেনিন আৰু ইউৰেছিল
+D) Guanine and Thymine / গুৱানিন আৰু থাইমিন
+Ans: B
+
+9. How many hydrogen bonds join Adenine and Thymine in DNA?
+
+ডি.এন.এ. ত এডেনিন আৰু থাইমিনৰ মাজত কেইটা হাইড্ৰ'জেন বান্ধনি থাকে?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: B
+
+10. How many hydrogen bonds join Guanine and Cytosine in DNA?
+
+ডি.এন.এ. ত গুৱানিন আৰু চাইট'ছিনৰ মাজত কেইটা হাইড্ৰ'জেন বান্ধনি থাকে?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: C
+
+11. Which organelle is responsible for spindle fiber formation in animal cells?
+
+প্ৰাণী কোষত স্ফিণ্ডেল তন্তু গঠনৰ বাবে কোনটো অঙ্গাণু দায়বদ্ধ?
+A) Centrosome / চেণ্ট্ৰ'জোম
+B) Lysosome / লাইছ'জোম
+C) Peroxisome / পেৰক্সিজোম
+D) Endoplasmic reticulum / এণ্ড'প্লাজমিক ৰেটিকুলাম
+Ans: A
+
+12. Which organelle is known as the traffic police of the cell?
+
+কোনটো অঙ্গাণুক কোষৰ ট্ৰাফিক পুলিচ বুলি কোৱা হয়?
+A) Golgi body / গলগি বডি
+B) Mitochondria / মাইট'কন্ড্ৰিয়া
+C) Endoplasmic reticulum / এণ্ড'প্লাজমিক ৰেটিকুলাম
+D) Ribosome / ৰাইবোজোম
+Ans: A
+
+13. Nuclear membrane is absent in which type of organisms?
+
+কোন প্ৰকাৰৰ জীৱত নিউক্লীয় আৱৰণ নাথাকে?
+A) Prokaryotes / প্ৰ'কেৰিয়'ট
+B) Eukaryotes / ইউকেৰিয়'ট
+C) Fungi / ভেঁকূৰ
+D) Animals / প্ৰাণী
+Ans: A
+
+14. Which structure allows transportation of materials between nucleus and cytoplasm?
+
+নিউক্লিয়াছ আৰু চাইট'প্লাজমৰ মাজত পদাৰ্থৰ পৰিবহন কোনটো গঠনে কৰে?
+A) Nuclear pore / নিউক্লীয় ৰন্ধ্ৰ
+B) Nucleolus / নিউক্লিঅ'লাছ
+C) Chromatin / ক্ৰ'মেটিন
+D) Tonoplast / টন'প্লাষ্ট
+Ans: A
+
+15. What are organelles present inside cytoplasm called collectively?
+
+চাইট'প্লাজমৰ ভিতৰত থকা অঙ্গাণুবোৰক একত্ৰিতভাৱে কি বোলা হয়?
+A) Organelles / কোষ অঙ্গাণু
+B) Inclusions / অন্তঃপদাৰ্থ
+C) Tissues / কলা
+D) Organs / অঙ্গ
+Ans: A
+
+16. Cytoplasm and Nucleus together form what?
+
+চাইট'প্লাজম আৰু নিউক্লিয়াছ একত্ৰিত হৈ কি গঠন কৰে?
+A) Protoplasm / প্ৰ'ট'প্লাজম
+B) Cytosol / চাইট'চল
+C) Nucleoplasm / নিউক্লিঅ'প্লাজম
+D) Ectoplasm / এক্স'প্লাজম
+Ans: A
+
+17. Who coined the term protoplasm?
+
+প্ৰ'ট'প্লাজম শব্দটো কোনে ব্যৱহাৰ কৰিছিল?
+A) Purkinje / পুৰকিনজে
+B) Robert Hooke / ৰবাৰ্ট হুক
+C) Schwann / শ্বৱান
+D) Mendel / মেণ্ডেল
+Ans: A
+
+18. Which statement is correct about cell wall?
+
+কোষ বেৰৰ বিষয়ে কোনটো বাক্য শুদ্ধ?
+A) Non-living and rigid / অজৈৱ আৰু দৃঢ়
+B) Living and flexible / জৈৱ আৰু নমনীয়
+C) Living and semi-permeable / জৈৱ আৰু অৰ্ধ-ভেদ্য
+D) Absent in plants / উদ্ভিদত নাথাকে
+Ans: A
+
+19. Peroxisomes contain enzymes that break down what substance?
+
+পেৰক্সিজোম থকা এনজাইমে কোনটো পদাৰ্থ ভাঙি পেলায়?
+A) Hydrogen peroxide / হাইড্ৰ'জেন পেৰক্সাইড
+B) Glucose / গ্লুকোজ
+C) Proteins / প্ৰ'টিন
+D) Starch / শ্বেতসাৰ
+Ans: A
+
+20. Cell division in human red blood cells occurs in what manner?
+
+মানুহৰ লোহিত ৰক্ত কণিকাৰ কোষ বিভাজন কেনেকৈ হয়?
+A) Does not divide / বিভাজিত নহয়
+B) Mitosis / মাইট'ছিছ
+C) Meiosis / মিঅ'ছিছ
+D) Binary fission / দ্বিখণ্ডন
+Ans: A
+
+21. What is the average lifespan of a human Red Blood Cell?
+
+মানুহৰ লোহিত ৰক্ত কণিকাৰ গড় আয়ুস কিমান?
+A) 120 days / ১২০ দিন
+B) 10 days / ১০ দিন
+C) 30 days / ৩০ দিন
+D) 365 days / ৩৬৫ দিন
+Ans: A
+
+22. Which organelles are referred to as semi-autonomous organelles?
+
+কোনবোৰ অঙ্গাণুক অৰ্ধ-স্বায়ত্বশাসিত অঙ্গাণু বুলি কোৱা হয়?
+A) Mitochondria and Chloroplasts / মাইট'কন্ড্ৰিয়া আৰু ক্ল'ৰ'প্লাষ্ট
+B) Lysosomes and Golgi apparatus / লাইছ'জোম আৰু গলগি যন্ত্ৰ
+C) Ribosomes and ER / ৰাইবোজোম আৰু ই.আৰ.
+D) Vacuoles and Centrosomes / ৰসধানী আৰু চেণ্ট্ৰ'জোম
+Ans: A
+
+23. Lysosomes contain which type of enzymes?
+
+লাইছ'জোমত কোন প্ৰকাৰৰ এনজাইম থাকে?
+A) Hydrolytic enzymes / হাইড্ৰ'লাইটিক এনজাইম
+B) Polymerase enzymes / পলিমাৰেছ এনজাইম
+C) Isomerase enzymes / আইছ'মাৰেছ এনজাইম
+D) Ligase enzymes / লাইগেছ এনজাইম
+Ans: A
+
+24. The pH inside a lysosome is typically of what nature?
+
+লাইছ'জোমৰ ভিতৰৰ pH সাধাৰণতে কেনেকুৱা?
+A) Acidic / অম্লীয়
+B) Basic / ক্ষাৰীয়
+C) Neutral / নিৰপেক্ষ
+D) Highly alkaline / অতি ক্ষাৰীয়
+Ans: A
+
+25. Photosynthetic pigments are located in which part of chloroplast?
+
+সালোক সংশ্লেষণৰ ৰঞ্জক পদাৰ্থ ক্ল'ৰ'প্লাষ্টৰ কোন অংশত থাকে?
+A) Thylakoid membrane / থাইলাকইড আৱৰণ
+B) Stroma / ষ্ট্ৰ'মা
+C) Outer membrane / বাহ্যিক আৱৰণ
+D) Matrix / মেট্ৰিক্স
+Ans: A

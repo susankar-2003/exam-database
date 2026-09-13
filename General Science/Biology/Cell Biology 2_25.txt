@@ -1,0 +1,224 @@
+1. What is the cell wall of fungi made up of?
+
+ভেঁকূৰৰ কোষ বেৰ কিহেৰে গঠিত?
+A) Cellulose / চেলুলোজ
+B) Chitin / কাইটিন
+C) Peptidoglycan / পেপটিড'গ্লাইকেন
+D) Suberin / সুবেৰিন
+Ans: B
+
+2. What is the cell wall of bacteria made up of?
+
+বেক্টেৰিয়াৰ কোষ বেৰ কিহেৰে গঠিত?
+A) Cellulose / চেলুলোজ
+B) Peptidoglycan / পেপটিড'গ্লাইকেন
+C) Chitin / কাইটিন
+D) Pectin / পেকটিন
+Ans: B
+
+3. Which cell organelle plays a crucial role in forming acrosome of sperm?
+
+শুক্ৰাণুৰ এক্ৰ'জম গঠনত কোনটো কোষ অঙ্গাণুৱে গুৰুত্বপূৰ্ণ ভূমিকা পালন কৰে?
+A) Mitochondria / মাইট'কন্ড্ৰিয়া
+B) Golgi body / গলগি বডি
+C) Centrosome / চেণ্ট্ৰ'জোম
+D) Lysosome / লাইছ'জোম
+Ans: B
+
+4. What are folds of the inner membrane of mitochondria called?
+
+মাইট'কন্ড্ৰিয়াৰ ভিতৰৰ আৱৰণৰ ভাঁজবোৰক কি বোলা হয়?
+A) Cristae / ক্ৰিষ্টি
+B) Thylakoids / থাইলাকইড
+C) Cisternae / চিষ্টাৰনি
+D) Stroma / ষ্ট্ৰ'মা
+Ans: A
+
+5. Flattened membrane sacs in the Golgi apparatus are called what?
+
+গলগি যন্ত্ৰত থকা চপটা আৱৰণযুক্ত থলীবোৰক কি বোলা হয়?
+A) Cristae / ক্ৰিষ্টি
+B) Cisternae / চিষ্টাৰনি
+C) Vacuoles / ৰসধানী
+D) Vesicles / ভেচিকল
+Ans: B
+
+6. What is the movement of molecules from higher to lower concentration without energy called?
+
+শক্তি প্ৰয়োগ নকৰাকৈ উচ্চ ঘনত্বৰ পৰা নিম্ন ঘনত্বলৈ অণুৰ গতিবিধি কি বোলা হয়?
+A) Passive transport / নিষ্ক্ৰিয় পৰিবহন
+B) Active transport / সক্ৰিয় পৰিবহন
+C) Endocytosis / এণ্ড'ছাইট'ছিছ
+D) Exocytosis / এক্স'ছাইট'ছিছ
+Ans: A
+
+7. Movement of molecules against concentration gradient using ATP is called what?
+
+এ.টি.পি. ব্যৱহাৰ কৰি ঘনত্বৰ বিপৰীতে অণুৰ গতিবিধিক কি বোলা হয়?
+A) Simple diffusion / সৰল ব্যাপন
+B) Osmosis / পৰাস্ৰৱণ
+C) Active transport / সক্ৰিয় পৰিবহন
+D) Passive transport / নিষ্ক্ৰিয় পৰিবহন
+Ans: C
+
+8. Which base is present in RNA but absent in DNA?
+
+আৰ.এন.এ. ত থকা কিন্তু ডি.এন.এ. ত নথকা নাইট্ৰ'জেন ঘাটিটো কি?
+A) Adenine / এডেনিন
+B) Guanine / গুৱানিন
+C) Thymine / থাইমিন
+D) Uracil / ইউৰেছিল
+Ans: D
+
+9. Which sugar is present in DNA?
+
+ডি.এন.এ. ত কোনবিধ শৰ্কৰা থাকে?
+A) Ribose / ৰাইবোজ
+B) Deoxyribose / ডি-অক্সিৰাইবোজ
+C) Glucose / গ্লুকোজ
+D) Fructose / ফ্রুক্টোজ
+Ans: B
+
+10. Which sugar is present in RNA?
+
+আৰ.এন.এ. ত কোনবিধ শৰ্কৰা থাকে?
+A) Deoxyribose / ডি-অক্সিৰাইবোজ
+B) Ribose / ৰাইবোজ
+C) Sucrose / চুক্ৰোজ
+D) Maltose / মেল্টোজ
+Ans: B
+
+11. What is the double helical model of DNA proposed by Watson and Crick based on?
+
+ৱাটছন আৰু ক্ৰিকৰ ডি.এন.এ. ৰ দ্বি-সূত্ৰকাৰ আৰ্হি কিহৰ ওপৰত আধাৰিত?
+A) X-ray diffraction / এক্স-ৰে ডিফ্ৰেক্সন
+B) Electron microscopy / ইলক ট্ৰন মাইক্ৰ'স্ক'পী
+C) Chromatography / ক্ৰ'মেট'গ্ৰাফী
+D) NMR spectroscopy / এন.এম.আৰ. স্পেক্ট্ৰ'স্ক'পী
+Ans: A
+
+12. What is the functional segment of DNA called?
+
+ডি.এন.এ. ৰ কাৰ্যকৰী অংশক কি বোলা হয়?
+A) Chromosome / ক্ৰ'ম'জ'ম
+B) Gene / জিন
+C) Nucleotide / নিউক্লিঅ'টাইড
+D) Codon / ক'ডন
+Ans: B
+
+13. How many autosomes are present in human normal somatic cells?
+
+মানুহৰ সাধাৰণ দৈহিক কোষত কেইটা অ'ট'জ'ম থাকে?
+A) 22 / ২২
+B) 44 / ৪৪
+C) 46 / ৪৬
+D) 23 / ২৩
+Ans: B
+
+14. How many sex chromosomes are present in a human gamete?
+
+মানুহৰ জনন কোষত কেইটা লিঙ্গ ক্ৰ'ম'জ'ম থাকে?
+A) 1 / ১
+B) 2 / ২
+C) 23 / ২৩
+D) 46 / ৪৬
+Ans: A
+
+15. Which type of cell division occurs in reproductive cells to form gametes?
+
+জনন কোষ গঠনৰ বাবে কোন প্ৰকাৰৰ কোষ বিভাজন হয়?
+A) Mitosis / মাইট'ছিছ
+B) Meiosis / মিঅ'ছিছ
+C) Amitosis / এমিট'ছিছ
+D) Cleavage / ক্লিভেজ
+Ans: B
+
+16. What is the process of crossing over during meiosis responsible for?
+
+মিঅ'ছিছৰ সময়ত ক্ৰছিং অভাৰ প্ৰক্ৰিয়া কিহৰ বাবে দায়বদ্ধ?
+A) Cell growth / কোষ বৃদ্ধি
+B) Genetic variation / জিনীয় প্ৰভেদ
+C) DNA repair / ডি.এন.এ. মেৰামতি
+D) Asexual reproduction / অজৈৱ প্ৰজনন
+Ans: B
+
+17. Crossing over occurs during which phase of meiosis?
+
+ক্ৰছিং অভাৰ মিঅ'ছিছৰ কোনটো পৰ্যায়ত ঘটে?
+A) Leptotene / লেপ্ট'টিন
+B) Zygotene / জাইগ'টিন
+C) Pachytene / পেকাইটিন
+D) Diplotene / ডিপ্ল'টিন
+Ans: C
+
+18. Pairing of homologous chromosomes is called what?
+
+সমসংস্থ ক্ৰ'ম'জ'মৰ জোৰ বন্ধা কাৰ্যক কি বোলা হয়?
+A) Synapsis / ছিন্যাপছিছ
+B) Crossing over / ক্ৰছিং অভাৰ
+C) Bivalent / বাইভেলেণ্ট
+D) Chiasmata / কায়াজমাটা
+Ans: A
+
+19. What is the point of contact between non-sister chromatids during crossing over called?
+
+ক্ৰছিং অভাৰৰ সময়ত নন-ছিষ্টাৰ ক্ৰ'মেটিডৰ সংযোগ স্থানক কি বোলা হয়?
+A) Centromere / চেণ্ট্ৰ'মিয়াৰ
+B) Chiasma / কায়াজমা
+C) Kinetochore / কাইনেট'ক'ৰ
+D) Chromocenter / ক্ৰ'ম'চেণ্টাৰ
+Ans: B
+
+20. Which cell organelle destroys old and worn-out cell parts?
+
+কোনটো কোষ অঙ্গাণুৱে পুৰণি আৰু নষ্ট হোৱা কোষৰ অংশ ধ্বংস কৰে?
+A) Peroxisome / পেৰক্সিজোম
+B) Lysosome / লাইছ'জোম
+C) Vacuole / ৰসধানী
+D) Glyoxysome / গ্লাইঅক্সি জোম
+Ans: B
+
+21. Ribosomes are chemically composed of which components?
+
+ৰাইবোজোম ৰাসায়নিকভাৱে কিহেৰে গঠিত?
+A) DNA and Protein / ডি.এন.এ. আৰু প্ৰ'টিন
+B) RNA and Protein / আৰ.এন.এ. আৰু প্ৰ'টিন
+C) RNA and Carbohydrate / আৰ.এন.এ. আৰু কাৰ্ব'হাইড্ৰেট
+D) DNA and Lipids / ডি.এন.এ. আৰু লিপিড
+Ans: B
+
+22. What is the eukaryotic ribosome sedimentation coefficient?
+
+ইউকেৰিয়'টিক ৰাইবোজোমৰ ছেডিমেন্টেশ্যন সহগ কিমান?
+A) 70S / ৭০S
+B) 80S / ৮০S
+C) 50S / ৫০S
+D) 60S / ৬০S
+Ans: B
+
+23. What is the prokaryotic ribosome sedimentation coefficient?
+
+প্ৰ'কেৰিয়'টিক ৰাইবোজোমৰ ছেডিমেন্টেশ্যন সহগ কিমান?
+A) 70S / ৭০S
+B) 80S / ৮০S
+C) 60S / ৬০S
+D) 40S / ৪০S
+Ans: A
+
+24. What is the main constituent of plant cell membranes?
+
+উদ্ভিদৰ প্লাজমা আৱৰণৰ মুখ্য উপাদান কি?
+A) Phospholipids and Proteins / ফছফ'লিপিড আৰু প্ৰ'টিন
+B) Carbohydrates and Cellulose / কাৰ্ব'হাইড্ৰেট আৰু চেলুলোজ
+C) Nucleic acid and Lipids / নিউক্লিক এছিড আৰু লিপিড
+D) Chitin and Proteins / কাইটিন আৰু প্ৰ'টিন
+Ans: A
+
+25. Plant cell walls can be dissolved by which enzyme?
+
+উদ্ভিদৰ কোষ বেৰ কোনটো এনজাইমৰ দ্বাৰা গলিব পাৰি?
+A) Cellulase / চেলুলেজ
+B) Chitinase / কাইটিনেজ
+C) Lipase / লাইপেজ
+D) Protease / প্ৰ'টিয়েজ
+Ans: A

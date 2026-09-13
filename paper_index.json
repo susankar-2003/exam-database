@@ -1,5 +1,5 @@
 {
-    "last_serial": 457,
+    "last_serial": 461,
     "papers": {
         "1": {
             "id": "1",
@@ -3197,6 +3197,34 @@
             "path": "General Science/Electricity & Electronics/Scientific Instruments/Scientific Instruments 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Scientific%20Instruments/Scientific%20Instruments%201_25Q.txt",
             "hash": "2be1a52338cb9afc42b3b07f778d895d"
+        },
+        "458": {
+            "id": "458",
+            "name": "Scientific Instruments 3_25Q.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%203_25Q.txt",
+            "hash": "0e35c9328bf90a0b5283cd1ee4baccaa"
+        },
+        "459": {
+            "id": "459",
+            "name": "Scientific Instruments 4_25Q.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%204_25Q.txt",
+            "hash": "a55bc3d3abee105f62b59fc214b1f384"
+        },
+        "460": {
+            "id": "460",
+            "name": "Scientific Instruments 2_25Q.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%202_25Q.txt",
+            "hash": "cae6295c114431e3fecaa07f1c1b19e6"
+        },
+        "461": {
+            "id": "461",
+            "name": "Scientific Instruments 1_25Q.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%201_25Q.txt",
+            "hash": "1d77745498a6519fea33153b26046353"
         }
     }
 }

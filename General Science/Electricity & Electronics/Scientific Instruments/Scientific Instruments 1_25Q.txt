@@ -1,0 +1,224 @@
+1. Which instrument is used to measure atmospheric pressure?
+
+বায়ুমণ্ডলীীয় চাপ জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Barometer / বাৰ'মিটাৰ
+B) Thermometer / থাৰ্মোমিটাৰ
+C) Hydrometer / হাইড্ৰ'মিটাৰ
+D) Hygrometer / হাইগ্ৰ'মিটাৰ
+Ans: A
+
+2. Which instrument is used to measure the purity of milk?
+
+গাখীৰৰ বিশুদ্ধতা জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Lactometer / লেক্টোমিটাৰ
+B) Barometer / বাৰ'মিটাৰ
+C) Salinometer / চেলিনোমিটাৰ
+D) Anemometer / এনিম'মিটাৰ
+Ans: A
+
+3. Anemometer is used to measure which of the following?
+
+এনিম'মিটাৰ তলৰ কোনটো জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Speed of wind / বতাহৰ বেগ
+B) Depth of ocean / মহাসাগৰৰ গভীৰতা
+C) Electric current / বৈদুতিক প্ৰবাহ
+D) Atmospheric pressure / বায়ুমণ্ডলীয় চাপ
+Ans: A
+
+4. Which instrument is used to detect and measure electric current?
+
+বৈদ্যুতিক প্ৰবাহ চিনাক্ত আৰু পৰিমাপ কৰিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Galvanometer / গালভানোমিটাৰ
+B) Ammeter / এমিটাৰ
+C) Voltmeter / ভোল্টমিটাৰ
+D) Photometer / ফটোমিটাৰ
+Ans: A
+
+5. Ammeter is used to measure:
+
+এমিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Electric current / বৈদ্যুতিক প্ৰবাহ
+B) Voltage / ভোল্টেজ
+C) Resistance / ৰোধ
+D) Power / ক্ষমতা
+Ans: A
+
+6. Which instrument is used to measure potential difference between two points?
+
+দুটা বিন্দুৰ মাজৰ বিভৱ পাৰ্থক্য জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Voltmeter / ভোল্টমিটাৰ
+B) Ammeter / এমিটাৰ
+C) Galvanometer / গালভানোমিটাৰ
+D) Wattmeter / ৱাটমিটাৰ
+Ans: A
+
+7. Which instrument is used to measure high temperatures?
+
+উচ্চ উষ্ণতা জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Pyrometer / পাইৰ'মিটাৰ
+B) Thermometer / থাৰ্মোমিটাৰ
+C) Calorimeter / কেলৰিমিটাৰ
+D) Barometer / বাৰ'মিটাৰ
+Ans: A
+
+8. Hygrometer is used to measure:
+
+হাইগ্ৰ'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Relative humidity / আপেক্ষিক আৰ্দ্ৰতা
+B) Specific gravity / আপেক্ষিক গুৰুত্ব
+C) Pressure / চাপ
+D) Density of liquid / তৰলৰ ঘনত্ব
+Ans: A
+
+9. Hydrometer is used to measure the relative density of:
+
+হাইড্ৰ'মিটাৰ কাৰ আপেক্ষিক ঘনত্ব জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Liquids / তৰল পদাৰ্থ
+B) Gases / গেছীয় পদাৰ্থ
+C) Solids / কঠিন পদাৰ্থ
+D) Atmospheric air / বায়ুমণ্ডলীয় বায়ু
+Ans: A
+
+10. Which instrument is used by doctors to listen to the heart and lung sounds?
+
+হৃদযন্ত্ৰ আৰু হাওঁফাওঁৰ শব্দ শুনিকলৈ চিকিৎসকে কি যন্ত্ৰ ব্যৱহাৰ কৰে?
+A) Stethoscope / ষ্টেথ'স্ক'প
+B) Sphygmomanometer / স্ফিগ্‌মোমেন'মিটাৰ
+C) Endoscope / এণ্ড'স্ক'প
+D) Otoscope / অ'ট'স্ক'প
+Ans: A
+
+11. Blood pressure is measured by which instrument?
+
+ৰক্তচাপ কি যন্ত্ৰৰ দ্বাৰা জোখা হয়?
+A) Sphygmomanometer / স্ফিগ্‌মোমেন'মিটাৰ
+B) Stethoscope / ষ্টেথ'স্ক'প
+C) Electrocardiograph / ইলেক্ট্ৰ'কাৰ্ডিয়োগ্ৰাফ
+D) Spirometer / স্পাইৰ'মিটাৰ
+Ans: A
+
+12. Which instrument is used to record the electrical activity of the heart?
+
+হৃদযন্ত্ৰৰ বৈদ্যুতিক ক্ৰিয়াকলাপ ৰেকৰ্ড কৰিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Electrocardiograph (ECG) / ইলেক্ট্ৰ'কাৰ্ডিয়োগ্ৰাফ (ECG)
+B) Electroencephalograph (EEG) / ইলেক্ট্ৰ'এনচেফাল'গ্ৰাফ (EEG)
+C) Endoscope / এণ্ড'স্ক'প
+D) Stethoscope / ষ্টেথ'স্ক'প
+Ans: A
+
+13. Which instrument is used to record electrical activity of the brain?
+
+মস্তিষ্কৰ বৈদ্যুতিক ক্ৰিয়াকলাপ ৰেকৰ্ড কৰিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Electroencephalograph (EEG) / ইলেক্ট্ৰ'এনচেফাল'গ্ৰাফ (EEG)
+B) Electrocardiograph (ECG) / ইলেক্ট্ৰ'কাৰ্ডিয়োগ্ৰাফ (ECG)
+C) CT Scanner / চিটি স্কেনাৰ
+D) MRI Machine / এম.আৰ.আই. মেছিন
+Ans: A
+
+14. Fathometer is used to measure:
+
+ফেড'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Ocean depth / মহাসাগৰৰ গভীৰতা
+B) Earthquake intensity / ভূcompৰ তীব্রতা
+C) Rainfall / বৰষুণৰ পৰিমাণ
+D) Sound intensity / শব্দৰ তীব্ৰতা
+Ans: A
+
+15. Seismograph is an instrument used to measure and record:
+
+চিছম'গ্ৰাফ কি জোখা আৰু ৰেকৰ্ড কৰা যন্ত্ৰ?
+A) Earthquakes / ভূমিকম্প
+B) Ocean waves / সাগৰীয় তৰংগ
+C) Atmospheric pressure / বায়ুমণ্ডলীয় চাপ
+D) Solar radiation / সৌৰ বিকিৰণ
+Ans: A
+
+16. Which instrument is used to measure the intensity of light?
+
+পোহৰৰ তীব্রতা জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Photometer / ফটোমিটাৰ
+B) Luxmeter / লাক্সমিটাৰ
+C) Colorimeter / কেলৰিমিটাৰ
+D) Spectrometer / স্পেক্ট্ৰ'মিটাৰ
+Ans: A
+
+17. Crescograph, an device for measuring growth in plants, was invented by:
+
+উদ্ভিদৰ বৃদ্ধি জোখা যন্ত্ৰ ক্ৰেছক'গ্ৰাফ কোনে আৱিষ্কাৰ কৰিছিল?
+A) Jagadish Chandra Bose / জগদীশ চন্দ্ৰ বসু
+B) C V Raman / চি. ভি. ৰমন
+C) Homi Bhabha / হোমি ভাবা
+D) Vikram Sarabhai / বিক্ৰম সাৰাভাই
+Ans: A
+
+18. Crescograph is used to measure:
+
+ক্ৰেছক'গ্ৰাফ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Growth of plants / উদ্ভিদৰ বৃদ্ধি
+B) Flow of liquid / তৰলৰ প্ৰবাহ
+C) Blood pressure / ৰক্তচাপ
+D) High temperature / উচ্চ উষ্ণতা
+Ans: A
+
+19. Which instrument is used to measure the altitude of aircrafts?
+
+বিমানৰ উচ্চতা জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Altimeter / আল্টিমিটাৰ
+B) Actinometer / এক্টিন'মিটাৰ
+C) Anemometer / এনিম'মিটাৰ
+D) Audiometer / অডিঅ'মিটাৰ
+Ans: A
+
+20. Audiometer is used to measure:
+
+অডিঅ'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Hearing acuity / শ্ৰৱণ ক্ষমতা
+B) Sound velocity / শব্দৰ বেগ
+C) Light intensity / পোহৰৰ তীব্ৰতা
+D) Distance / দূৰত্ব
+Ans: A
+
+21. Which instrument is used to measure the distance traveled by a wheeled vehicle?
+
+চকায়ুক্ত বাহনে অতিক্ৰম কৰা দূৰত্ব জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Odometer / অ'ড'মিটাৰ
+B) Speedometer / স্পীড'মিটাৰ
+C) Tachometer / টেকা'মিটাৰ
+D) Chronometer / ক্ৰ'ন'মিটাৰ
+Ans: A
+
+22. Speedometer in a vehicle measures:
+
+বাহনত থকা স্পীড'মিটাৰে কি জোখে?
+A) Instantaneous speed / তাৎক্ষণিক গতি
+B) Average speed / গড় গতি
+C) Total distance / মুঠ দূৰত্ব
+D) Acceleration / ত্বৰণ
+Ans: A
+
+23. Which instrument is used to measure rotation speed of a shaft or disk (e.g. engine RPM)?
+
+ইঞ্জিনৰ ৰোটেশ্যন স্পীড (RPM) জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Tachometer / টেকা'মিটাৰ
+B) Speedometer / স্পীড'মিটাৰ
+C) Odometer / অ'ড'মিটাৰ
+D) Dynamometer / ডাইনাম'মিটাৰ
+Ans: A
+
+24. Chronometer is an instrument used to keep accurate time at:
+
+ক্ৰ'ন'মিটাৰ সঠিক সময় ৰাখিবলৈ ক'ত ব্যৱহাৰ কৰা হয়?
+A) Sea / সাগৰত (জাহাজত)
+B) High altitude / উচ্চ স্থানত
+C) Underground / ভূগৰ্ভত
+D) Space / মহাকাশত
+Ans: A
+
+25. Periscope is used in submarines to view objects:
+
+চাবমেৰিনত বস্তু চাবলৈ পেৰিস্কোপ ব্যৱহাৰ কৰা হয়:
+A) Above sea level / সাগৰপৃষ্ঠৰ ওপৰত
+B) Under seabed / সাগৰৰ তলিত
+C) In dark night / অন্ধকাৰ নিশাত
+D) Inside the submarine / চাবমেৰিনৰ ভিতৰত
+Ans: A

@@ -1,5 +1,5 @@
 {
-    "last_serial": 492,
+    "last_serial": 493,
     "papers": {
         "1": {
             "id": "1",
@@ -3442,6 +3442,13 @@
             "path": "General Science/Genetics & Evolution/Genetics & Evolution 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%202_25Q.txt",
             "hash": "3788a80693d7997c6709a230aa093759"
+        },
+        "493": {
+            "id": "493",
+            "name": "Average 1_25Q.txt",
+            "path": "Reasoning/Average 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Average%201_25Q.txt",
+            "hash": "4bf8a2ecb07ee82eb68cbcb05a96ccca"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 493,
+    "last_serial": 519,
     "papers": {
         "1": {
             "id": "1",
@@ -3449,6 +3449,188 @@
             "path": "Reasoning/Average 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Average%201_25Q.txt",
             "hash": "4bf8a2ecb07ee82eb68cbcb05a96ccca"
+        },
+        "494": {
+            "id": "494",
+            "name": "Binary Logic Mock Test 4_25Q.txt",
+            "path": "Reasoning/Binary Logic/Binary Logic Mock Test 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%204_25Q.txt",
+            "hash": "eaa766e43053901534b8e2d8d4b155c8"
+        },
+        "495": {
+            "id": "495",
+            "name": "Binary Logic Mock Test 5_25Q.txt",
+            "path": "Reasoning/Binary Logic/Binary Logic Mock Test 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%205_25Q.txt",
+            "hash": "73f13329f3e73b9211f92e17c336870d"
+        },
+        "496": {
+            "id": "496",
+            "name": "Binary Logic Mock Test 8_25Q.txt",
+            "path": "Reasoning/Binary Logic/Binary Logic Mock Test 8_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%208_25Q.txt",
+            "hash": "e49155bd9b473e2e8c04b8b58f5ba40f"
+        },
+        "497": {
+            "id": "497",
+            "name": "Binary Logic Mock Test 6_25Q.txt",
+            "path": "Reasoning/Binary Logic/Binary Logic Mock Test 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%206_25Q.txt",
+            "hash": "63ad4934a708e431114f028d184973ee"
+        },
+        "498": {
+            "id": "498",
+            "name": "Binary Logic Mock Test 1_25Q.txt",
+            "path": "Reasoning/Binary Logic/Binary Logic Mock Test 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%201_25Q.txt",
+            "hash": "4c946d63386beb5f8e88dfd4ce33feca"
+        },
+        "499": {
+            "id": "499",
+            "name": "Binary Logic Mock Test 7_25Q.txt",
+            "path": "Reasoning/Binary Logic/Binary Logic Mock Test 7_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%207_25Q.txt",
+            "hash": "0143188d46663557c3df045dc92923cc"
+        },
+        "500": {
+            "id": "500",
+            "name": "Binary Logic Mock Test 2_25Q.txt",
+            "path": "Reasoning/Binary Logic/Binary Logic Mock Test 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%202_25Q.txt",
+            "hash": "ce9ecb8e00d013e21bc37ec70ae3ccd9"
+        },
+        "501": {
+            "id": "501",
+            "name": "Binary Logic Mock Test 3_25Q.txt",
+            "path": "Reasoning/Binary Logic/Binary Logic Mock Test 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%203_25Q.txt",
+            "hash": "648af9d39cff1f7ea6b8d493785a5fa6"
+        },
+        "502": {
+            "id": "502",
+            "name": "Blood Relation Test Paper 2.txt",
+            "path": "Reasoning/Blood Relations/Blood Relation Test Paper 2.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Blood%20Relation%20Test%20Paper%202.txt",
+            "hash": "7ebd7770c6d74d29d84c881ee960b50a"
+        },
+        "503": {
+            "id": "503",
+            "name": "Blood Relation Test Paper 1.txt",
+            "path": "Reasoning/Blood Relations/Blood Relation Test Paper 1.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Blood%20Relation%20Test%20Paper%201.txt",
+            "hash": "e1c52e315a376af04cf2b51a08886b1b"
+        },
+        "504": {
+            "id": "504",
+            "name": "Time, Speed & Distance 6_25Q.txt",
+            "path": "Reasoning/Time, Speed & Distance/Time, Speed & Distance 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%206_25Q.txt",
+            "hash": "5c0427ad046148e1a7e41f6642247acc"
+        },
+        "505": {
+            "id": "505",
+            "name": "Time, Speed & Distance 4_25Q.txt",
+            "path": "Reasoning/Time, Speed & Distance/Time, Speed & Distance 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%204_25Q.txt",
+            "hash": "6cc2115fbbee1a698d29f62e47ed778e"
+        },
+        "506": {
+            "id": "506",
+            "name": "Time, Speed & Distance 1_25Q.txt",
+            "path": "Reasoning/Time, Speed & Distance/Time, Speed & Distance 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%201_25Q.txt",
+            "hash": "c29badc868ea48f63cc4209ee3a3b3db"
+        },
+        "507": {
+            "id": "507",
+            "name": "Time, Speed & Distance 5_25Q.txt",
+            "path": "Reasoning/Time, Speed & Distance/Time, Speed & Distance 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%205_25Q.txt",
+            "hash": "6d903502058a82ac01569ecd6e538d69"
+        },
+        "508": {
+            "id": "508",
+            "name": "Time, Speed & Distance 3_25Q.txt",
+            "path": "Reasoning/Time, Speed & Distance/Time, Speed & Distance 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%203_25Q.txt",
+            "hash": "2a1c27081c4fc5bf030317f94531e06e"
+        },
+        "509": {
+            "id": "509",
+            "name": "Time, Speed & Distance 2_25Q.txt",
+            "path": "Reasoning/Time, Speed & Distance/Time, Speed & Distance 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%202_25Q.txt",
+            "hash": "bc3b38b5f1dbbe46eb25546f9d094af3"
+        },
+        "510": {
+            "id": "510",
+            "name": "Conditional Reasoning Mock Test 3_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%203_25Q.txt",
+            "hash": "e12494f0416a9e4ecbd017507a3df3d8"
+        },
+        "511": {
+            "id": "511",
+            "name": "Conditional Reasoning Mock Test 5_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%205_25Q.txt",
+            "hash": "b703356c4af2a7750975069844a962c6"
+        },
+        "512": {
+            "id": "512",
+            "name": "Conditional Reasoning Mock Test 4_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%204_25Q.txt",
+            "hash": "45422ba5ae7e8cdca6337578858ec286"
+        },
+        "513": {
+            "id": "513",
+            "name": "Conditional Reasoning Mock Test 7_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 7_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%207_25Q.txt",
+            "hash": "5bea4d2e012f96762ca78fea1b357667"
+        },
+        "514": {
+            "id": "514",
+            "name": "Conditional Reasoning Mock Test 6_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%206_25Q.txt",
+            "hash": "6791e79bf8ba43c509f076aac980b1b5"
+        },
+        "515": {
+            "id": "515",
+            "name": "Conditional Reasoning Mock Test 8_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 8_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%208_25Q.txt",
+            "hash": "438e8ec1da7f504f094a85adc5f5dc4e"
+        },
+        "516": {
+            "id": "516",
+            "name": "Conditional Reasoning Mock Test 1_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%201_25Q.txt",
+            "hash": "1d5e8be84a00e9f5ab127e7fec142fea"
+        },
+        "517": {
+            "id": "517",
+            "name": "Conditional Reasoning Mock Test 9_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 9_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%209_25Q.txt",
+            "hash": "6bc7bdb7e4ce81e7949fdeb4384ee5fd"
+        },
+        "518": {
+            "id": "518",
+            "name": "Conditional Reasoning Mock Test 2_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%202_25Q.txt",
+            "hash": "e12494f0416a9e4ecbd017507a3df3d8"
+        },
+        "519": {
+            "id": "519",
+            "name": "Conditional Reasoning Mock Test 10_25Q.txt",
+            "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 10_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%2010_25Q.txt",
+            "hash": "c685c5f2b8248cf47eeaa0f7250f7225"
         }
     }
 }

@@ -1,0 +1,175 @@
+1. If it is raining, then the ground is wet. It is raining. Therefore, the ground is wet. Which rule of inference is this?
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+2. If the battery is dead, the car will not start. The car starts. Therefore, the battery is not dead. Which rule is this?
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+3. If a person is a mother, then they are female. Maria is female. Therefore, Maria is a mother. This is an example of:
+A) Valid Modus Ponens
+B) Valid Modus Tollens
+C) Fallacy of Affirming the Consequent
+D) Fallacy of Denying the Antecedent
+Ans: C
+
+4. If you study hard, you will pass the exam. You did not study hard. Therefore, you will not pass the exam. This is an example of:
+A) Modus Ponens
+B) Modus Tollens
+C) Fallacy of Affirming the Consequent
+D) Fallacy of Denying the Antecedent
+Ans: D
+
+5. Identify the symbolic representation of the contrapositive for the statement: If P, then Q.
+A) If Q, then P
+B) If not P, then not Q
+C) If not Q, then not P
+D) If P, then not Q
+Ans: C
+
+6. Which statement is logically equivalent to: If you live in Paris, then you live in France?
+A) If you live in France, then you live in Paris.
+B) If you do not live in Paris, then you do not live in France.
+C) If you do not live in France, then you do not live in Paris.
+D) You live in Paris and you do not live in France.
+Ans: C
+
+7. If the alarm sounds, there is a fire. The alarm is not sounding. Therefore, there is no fire. This reasoning is:
+A) Valid
+B) Invalid
+C) Inductive
+D) Redundant
+Ans: B
+
+8. If a polygon is a square, then it has four sides. This polygon has four sides. Conclusion: It is a square. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+9. Given: P implies Q. We also know Q is false. What can we conclude?
+A) P is true
+B) P is false
+C) Q is true
+D) Nothing can be concluded
+Ans: B
+
+10. If it is a holiday, the bank is closed. Today is a holiday. Therefore, the bank is closed. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+11. A necessary condition is one that:
+A) Must be true for the consequent to be true
+B) Guarantees the consequent is true
+C) Is the same as a sufficient condition
+D) Is only used in inductive reasoning
+Ans: A
+
+12. A sufficient condition is one that:
+A) Must be true but does not guarantee the result
+B) Guarantees that the consequent is true
+C) Is always the "then" part of the statement
+D) Prevents the consequent from happening
+Ans: B
+
+13. In the statement If you are 18, you can vote, being 18 is:
+A) A necessary condition but not sufficient
+B) A sufficient condition but not necessary
+C) Both necessary and sufficient
+D) Neither necessary nor sufficient
+Ans: B
+
+14. In the statement If it is a triangle, it has three sides, having three sides is:
+A) A necessary condition
+B) A sufficient condition
+C) A fallacy
+D) An antecedent
+Ans: A
+
+15. Identify the antecedent in: If the whistle blows, the race starts.
+A) The whistle blows
+B) The race starts
+C) The whistle
+D) The race
+Ans: A
+
+16. Identify the consequent in: If the whistle blows, the race starts.
+A) The whistle blows
+B) The race starts
+C) The whistle
+D) The race
+Ans: B
+
+17. If you smoke, you damage your lungs. You do not smoke. Therefore, you do not damage your lungs. This error is:
+A) Affirming the Consequent
+B) Denying the Antecedent
+C) Modus Ponens
+D) Modus Tollens
+Ans: B
+
+18. If a number ends in 0, it is divisible by 5. The number 15 is divisible by 5. Therefore, it ends in 0. This is:
+A) Valid reasoning
+B) Modus Tollens
+C) Affirming the Consequent
+D) Modus Ponens
+Ans: C
+
+19. If you are a doctor, you have a medical degree. You do not have a medical degree. Therefore, you are not a doctor. This is:
+A) Valid Modus Ponens
+B) Valid Modus Tollens
+C) Invalid Affirming the Consequent
+D) Invalid Denying the Antecedent
+Ans: B
+
+20. Which of the following is the inverse of: If P, then Q?
+A) If Q, then P
+B) If not P, then not Q
+C) If not Q, then not P
+D) P and not Q
+Ans: B
+
+21. Which of the following is the converse of: If P, then Q?
+A) If Q, then P
+B) If not P, then not Q
+C) If not Q, then not P
+D) P and not Q
+Ans: A
+
+22. If the temperature is below freezing, the pond is frozen. The pond is frozen. Conclusion: The temperature is below freezing. This is:
+A) Valid
+B) Invalid (Affirming the Consequent)
+C) Invalid (Denying the Antecedent)
+D) Valid Modus Tollens
+Ans: B
+
+23. If you drink coffee, you stay awake. You did not stay awake. Conclusion: You did not drink coffee. This is:
+A) Valid Modus Ponens
+B) Valid Modus Tollens
+C) Fallacy
+D) Inverse reasoning
+Ans: B
+
+24. If the power goes out, the lights turn off. The lights are off. Conclusion: The power went out. This is:
+A) Valid
+B) Invalid
+C) Sufficient
+D) Necessary
+Ans: B
+
+25. If X is greater than 10, then X is greater than 5. X is 12. Conclusion: X is greater than 5. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+

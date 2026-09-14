@@ -1,0 +1,175 @@
+1. If you eat too much candy, you get a stomach ache. You have a stomach ache. Therefore, you ate too much candy. This is:
+A) Valid Modus Ponens
+B) Valid Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+2. If a fruit is an apple, it grows on a tree. This fruit is not an apple. Therefore, it does not grow on a tree. This is:
+A) Valid
+B) Denying the Antecedent
+C) Modus Tollens
+D) Affirming the Consequent
+Ans: B
+
+3. If you win the lottery, you are rich. You did not win the lottery. Conclusion: You are not rich. This is:
+A) Valid Modus Tollens
+B) Denying the Antecedent
+C) Modus Ponens
+D) Affirming the Consequent
+Ans: B
+
+4. If I am in London, I am in England. I am not in England. Conclusion: I am not in London. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+5. If it is 10:00 AM, the shop is open. The shop is open. Conclusion: It is 10:00 AM. This is:
+A) Valid
+B) Invalid
+C) Necessary
+D) Sufficient
+Ans: B
+
+6. If you have a passport, you can travel abroad. You do not have a passport. Conclusion: You cannot travel abroad. This is:
+A) Valid Modus Tollens
+B) Valid Modus Ponens
+C) Invalid Denying the Antecedent
+D) Invalid Affirming the Consequent
+Ans: C
+
+7. If a shape is a circle, it has no corners. A square has corners. Conclusion: A square is not a circle. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+8. If you exercise daily, you are healthy. You exercise daily. Conclusion: You are healthy. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+9. If the light is green, the cars move. The cars are moving. Conclusion: The light is green. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+10. If you are a bird, you have feathers. A dog does not have feathers. Conclusion: A dog is not a bird. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+11. If P then Q. P is false. Therefore Q is false. This logical form is:
+A) Modus Ponens
+B) Modus Tollens
+C) Denying the Antecedent
+D) Affirming the Consequent
+Ans: C
+
+12. If P then Q. Q is true. Therefore P is true. This logical form is:
+A) Modus Ponens
+B) Modus Tollens
+C) Denying the Antecedent
+D) Affirming the Consequent
+Ans: D
+
+13. If you break the law, you go to jail. You went to jail. Conclusion: You broke the law. This is:
+A) Valid
+B) Invalid
+C) Necessary
+D) Sufficient
+Ans: B
+
+14. If it is winter, it is cold. It is not winter. Conclusion: It is not cold. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+15. If you finish your dinner, you can have dessert. You finished your dinner. Conclusion: You can have dessert. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+16. Which of the following is equivalent to P implies Q?
+A) Not P implies not Q
+B) Not Q implies not P
+C) Q implies P
+D) P implies not Q
+Ans: B
+
+17. If you are in Tokyo, you are in Japan. You are in Tokyo. Conclusion: You are in Japan. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+18. If a car runs out of gas, it stops. The car has not stopped. Conclusion: It has not run out of gas. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+19. If it is Sunday, the library is closed. Today is Monday. Conclusion: The library is not closed. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+20. If you are a fish, you can swim. You can swim. Conclusion: You are a fish. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+21. If you push the button, the bell rings. You did not push the button. Conclusion: The bell does not ring. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: D
+
+22. If the team wins, they get a trophy. They did not get a trophy. Conclusion: They did not win. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: B
+
+23. If you plant seeds, flowers grow. Flowers are growing. Conclusion: You planted seeds. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+
+24. If it is noon, the sun is high. It is noon. Conclusion: The sun is high. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: A
+
+25. If the glass falls, it breaks. The glass is broken. Conclusion: It fell. This is:
+A) Modus Ponens
+B) Modus Tollens
+C) Affirming the Consequent
+D) Denying the Antecedent
+Ans: C
+

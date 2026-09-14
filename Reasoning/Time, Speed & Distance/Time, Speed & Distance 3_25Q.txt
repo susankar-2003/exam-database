@@ -1,0 +1,224 @@
+1. A boy walks to his school at 3 km/h and returns at 2 km/h. If he takes 5 hours in all, the distance between his village and the school is:
+
+এজন ল’ৰাই ৩ কিমি/ঘণ্টা বেগেৰে বিদ্যালয়লৈ খোজ কাঢ়ি যায় আৰু ২ কিমি/ঘণ্টা বেগেৰে ঘূৰি আহে। যদি তেওঁ মুঠ ৫ ঘণ্টা সময় লয়, তেন্তে গাঁও আৰু বিদ্যালয়ৰ মাজৰ দূৰত্ব হ’ল:
+A) 6 km / ৬ কিমি
+B) 5 km / ৫ কিমি
+C) 7 km / ৭ কিমি
+D) 8 km / ৮ কিমি
+Ans: A
+
+2. Two trains 140 m and 160 m long run at the speed of 60 km/h and 40 km/h respectively in opposite directions on parallel tracks. Time taken to cross each other is:
+
+১৪০ মিটাৰ আৰু ১৬০ মিটাৰ দীঘল দুখন ট্ৰেইন ক্ৰমে ৬০ কিমি/ঘণ্টা আৰু ৪০ কিমি/ঘণ্টা বেগেৰে সমান্তৰাল ৰেলপথত বিপৰীত দিশত চলে। ইজনে সিজনক অতিক্ৰম কৰিবলৈ সময় লাগে:
+A) 10.8 seconds / ১০.৮ ছেকেণ্ড
+B) 12 seconds / ১২ ছেকেণ্ড
+C) 15 seconds / ১৫ ছেকেণ্ড
+D) 9 seconds / ৯ ছেকেণ্ড
+Ans: A
+
+3. A train 100 m long moving at a speed of 50 km/h crosses a train 120 m long coming from opposite direction in 6 seconds. Speed of second train is:
+
+৫০ কিমি/ঘণ্টা বেগেৰে চলি থকা ১০০ মিটাৰ দীঘল এখন ট্ৰেইনে বিপৰীত দিশৰ পৰা অহা ১২০ মিটাৰ দীঘল ট্ৰেইন এখন ৬ ছেকেণ্ডত অতিক্ৰম কৰে। দ্বিতীয় ট্ৰেইনখনৰ বেগ হ’ল:
+A) 82 km/h / ৮২ কিমি/ঘণ্টা
+B) 70 km/h / ৭০ কিমি/ঘণ্টা
+C) 75 km/h / ৭৫ কিমি/ঘণ্টা
+D) 80 km/h / ৮০ কিমি/ঘণ্টা
+Ans: A
+
+4. A man covers 1/3rd of his journey at 20 km/h and the remaining at 40 km/h. His average speed for the entire journey is:
+
+এজন ব্যক্তিয়ে তেওঁৰ যাত্ৰাৰ ১/৩ অংশ ২০ কিমি/ঘণ্টা বেগেৰে আৰু বাকী অংশ ৪০ কিমি/ঘণ্টা বেগেৰে অতিক্ৰম কৰে। গোটেই যাত্ৰাৰ বাবে তেওঁৰ গড় বেগ হ’ল:
+A) 30 km/h / ৩০ কিমি/ঘণ্টা
+B) 28 km/h / ২৮ কিমি/ঘণ্টা
+C) 32 km/h / ৩২ কিমি/ঘণ্টা
+D) 25 km/h / ২৫ কিমি/ঘণ্টা
+Ans: A
+
+5. A train 125 m long passes a man, running at 5 km/h in the same direction in which the train is going, in 10 seconds. The speed of the train is:
+
+১২৫ মিটাৰ দীঘল এখন ট্ৰেইনে ১০ ছেকেণ্ডত ট্ৰেইন যোৱা দিশতে ৫ কিমি/ঘণ্টা বেগেৰে দৌৰি থকা এজন মানুহক অতিক্ৰম কৰে। ট্ৰেইনখনৰ বেগ হ’ল:
+A) 50 km/h / ৫০ কিমি/ঘণ্টা
+B) 45 km/h / ৪৫ কিমি/ঘণ্টা
+C) 55 km/h / ৫৫ কিমি/ঘণ্টা
+D) 40 km/h / ৪০ কিমি/ঘণ্টা
+Ans: A
+
+6. A car complete a journey in 10 hours. If it covers half of the journey at 40 km/h and the remaining half at 60 km/h, the distance is:
+
+এখন গাড়ীয়ে ১০ ঘণ্টাত এটা যাত্ৰা সম্পূৰ্ণ কৰে। যদি ই যাত্ৰাৰ আধা অংশ ৪০ কিমি/ঘণ্টা আৰু বাকী আধা অংশ ৬০ কিমি/ঘণ্টা বেগেৰে অতিক্ৰম কৰে, তেন্তে দূৰত্ব হ’ল:
+A) 480 km / ৪৮০ কিমি
+B) 400 km / ৪০০ কিমি
+C) 500 km / ৫০০ কিমি
+D) 450 km / ৪৫০ কিমি
+Ans: A
+
+7. A man can row 5 km/h in still water. If the velocity of current is 1 km/h and it takes him 1 hour to row to a place and come back, how far is the place?
+
+স্থিৰ পানীত এজন ব্যক্তিয়ে ৫ কিমি/ঘণ্টা বেগেৰে নাও চলাব পাৰে। যদি স্ৰোতৰ বেগ ১ কিমি/ঘণ্টা হয় আৰু কোনো স্থানলৈ গৈ ঘূৰি আহিবলৈ তেওঁৰ ১ ঘণ্টা সময় লাগে, তেন্তে স্থানটো কিমান আঁতৰত?
+A) 2.4 km / ২.৪ কিমি
+B) 2.5 km / ২.৫ কিমি
+C) 3 km / ৩ কিমি
+D) 2 km / ২ কিমি
+Ans: A
+
+8. Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 AM and travels towards B at 20 km/h. Another train starts from B at 8 AM and travels towards A at a speed of 25 km/h. At what time will they meet?
+
+এডাল সৰলৰেখাত A আৰু B দুটা ষ্টেচন ১১০ কিমি আঁতৰত অৱস্থিত। এখন ট্ৰেইন পুৱা ৭ বজাত A ৰ পৰা ২০ কিমি/ঘণ্টা বেগেৰে B ৰ দিশে যাত্ৰা কৰে। আন এখন ট্ৰেইন পুৱা ৮ বজাত B ৰ পৰা ২৫ কিমি/ঘণ্টা বেগেৰে A ৰ দিশে যাত্ৰা কৰে। তেওঁলোক কিমান বজাত লগ হ’ব?
+A) 10:00 AM / পুৱা ১০:০০
+B) 9:30 AM / পুৱা ৯:৩০
+C) 10:30 AM / পুৱা ১০:৩০
+D) 11:00 AM / পুৱা ১১:০০
+Ans: A
+
+9. A train 800 meters long is running at a speed of 78 km/h. If it crosses a tunnel in 1 minute, then the length of the tunnel is:
+
+৮০০ মিটাৰ দীঘল এখন ট্ৰেইন ৭৮ কিমি/ঘণ্টা বেগেৰে চলি আছে। যদি ই ১ মিনিটত এটা সুৰংগ অতিক্ৰম কৰে, তেন্তে সুৰংগটোৰ দৈৰ্ঘ্য হ’ল:
+A) 500 m / ৫০০ মিটাৰ
+B) 600 m / ৬০০ মিটাৰ
+C) 450 m / ৪৫০ মিটাৰ
+D) 550 m / ৫৫০ মিটাৰ
+Ans: A
+
+10. If speed is increased by 20%, time taken to cover the same distance will decrease by:
+
+যদি বেগ ২০% বৃদ্ধি কৰা হয়, তেন্তে একে দূৰত্ব অতিক্ৰম কৰিবলৈ লগা সময় কিমান হ্ৰাস পাব?
+A) 16.67% / ১৬.৬৭%
+B) 20% / ২০%
+C) 15% / ১৫%
+D) 25% / ২৫%
+Ans: A
+
+11. A man travels 600 km by train at 80 km/h, 800 km by ship at 40 km/h, 500 km by aeroplane at 400 km/h and 100 km by car at 50 km/h. What is the average speed for the entire distance?
+
+এজন ব্যক্তিয়ে ৮০০ কিমি/ঘণ্টা বেগেৰে ট্ৰেইনেৰে ৬০০ কিমি, ৪০ কিমি/ঘণ্টা বেগেৰে জাহাজেৰে ৮০০ কিমি, ৪০০ কিমি/ঘণ্টা বেগেৰে উৰাজাহাজেৰে ৫০০ কিমি আৰু ৫০ কিমি/ঘণ্টা বেগেৰে গাড়ীৰে ১০০ কিমি যাত্ৰা কৰে। সমগ্ৰ দূৰত্বৰ বাবে গড় বেগ কিমান?
+A) 62.5 km/h / ৬২.৫ কিমি/ঘণ্টা
+B) 60 km/h / ৬০ কিমি/ঘণ্টা
+C) 65 km/h / ৬৫ কিমি/ঘণ্টা
+D) 70 km/h / ৭০ কিমি/ঘণ্টা
+Ans: A
+
+12. A boat covers 24 km upstream and 36 km downstream in 6 hours, while it covers 36 km upstream and 24 km downstream in 6.5 hours. The velocity of current is:
+
+এখন নাৱে স্ৰোতৰ প্ৰতিকূলে ২৪ কিমি আৰু স্ৰোতৰ অনুকূলে ৩৬ কিমি ৬ ঘণ্টাত অতিক্ৰম কৰে, আনহাতে ই স্ৰোতৰ প্ৰতিকূলে ৩৬ কিমি আৰু স্ৰোতৰ অনুকূলে ২৪ কিমি ৬.৫ ঘণ্টাত অতিক্ৰম কৰে। স্ৰোতৰ বেগ হ’ল:
+A) 2 km/h / ২ কিমি/ঘণ্টা
+B) 1.5 km/h / ১.৫ কিমি/ঘণ্টা
+C) 2.5 km/h / ২.৫ কিমি/ঘণ্টা
+D) 3 km/h / ৩ কিমি/ঘণ্টা
+Ans: A
+
+13. The speed of a train is 90 km/h. Its speed in meters per second is:
+
+খন ট্ৰেইনৰ বেগ ৯০ কিমি/ঘণ্টা। মিটাৰ প্ৰতি ছেকেণ্ডত ইয়াৰ বেগ হ’ল:
+A) 25 m/s / ২৫ মি/ছে
+B) 20 m/s / ২০ মি/ছে
+C) 30 m/s / ৩০ মি/ছে
+D) 15 m/s / ১৫ মি/ছে
+Ans: A
+
+14. A 300 m long train crosses a platform thrice its length in 1 minute. What is the speed of the train?
+
+৩০০ মিটাৰ দীঘল এখন ট্ৰেইনে ইয়াৰ দৈৰ্ঘ্যৰ তিনিগুণ এখন প্লেটফৰ্ম ১ মিনিটত অতিক্ৰম কৰে। ট্ৰেইনখনৰ বেগ কিমান?
+A) 72 km/h / ৭২ কিমি/ঘণ্টা
+B) 60 km/h / ৬০ কিমি/ঘণ্টা
+C) 54 km/h / ৫৪ কিমি/ঘণ্টা
+D) 80 km/h / ৮০ কিমি/ঘণ্টা
+Ans: A
+
+15. Ratio of speeds of two trains is 7 : 8. If the second train runs 400 km in 4 hours, then the speed of the first train is:
+
+দুখন ট্ৰেইনৰ বেগৰ অনুপাত ৭ : ৮। যদি দ্বিতীয়খন ট্ৰেইনে ৪ ঘণ্টাত ৪০০ কিমি চলে, তেন্তে প্ৰথমখন ট্ৰেইনৰ বেগ হ’ল:
+A) 87.5 km/h / ৮৭.৫ কিমি/ঘণ্টা
+B) 80 km/h / ৮০ কিমি/ঘণ্টা
+C) 75 km/h / ৭৫ কিমি/ঘণ্টা
+D) 90 km/h / ৯০ কিমি/ঘণ্টা
+Ans: A
+
+16. A man rows to a place 48 km distant and come back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:
+
+এজন ব্যক্তিয়ে ৪৮ কিমি দূৰৈৰ স্থানলৈ নাও চলাই গৈ ১৪ ঘণ্টাত ঘূৰি আহে। তেওঁ দেখিলে যে তেওঁ স্ৰোতৰ অনুকূলে ৪ কিমি যাব পৰা সময়তে স্ৰোতৰ প্ৰতিকূলে ৩ কিমি যাব পাৰে। স্ৰোতৰ বেগ হ’ল:
+A) 1 km/h / ১ কিমি/ঘণ্টা
+B) 1.5 km/h / ১.৫ কিমি/ঘণ্টা
+C) 2 km/h / ২ কিমি/ঘণ্টা
+D) 2.5 km/h / ২.৫ কিমি/ঘণ্টা
+Ans: A
+
+17. Time taken by a train 180 m long moving at 72 km/h to cross an electric pole is:
+
+৭২ কিমি/ঘণ্টা বেগেৰে চলি থকা ১৮০ মিটাৰ দীঘল এখন ট্ৰেইনে এটা বৈদ্যুতিক খুঁটা অতিক্ৰম কৰিবলৈ লোৱা সময় হ’ল:
+A) 9 seconds / ৯ ছেকেণ্ড
+B) 8 seconds / ৮ ছেকেণ্ড
+C) 10 seconds / ১০ ছেকেণ্ড
+D) 12 seconds / ১২ ছেকেণ্ড
+Ans: A
+
+18. A passenger train takes 2 hours less for a journey of 300 km if its speed is increased by 5 km/h from its usual speed. What is its usual speed?
+
+এখন যাত্ৰীবাহী ট্ৰেইনে ৩০০ কিমি যাত্ৰাৰ বাবে ২ ঘণ্টা কম সময় লয় যদি ইয়াৰ বেগ স্বাভাৱিক বেগতকৈ ৫ কিমি/ঘণ্টা বৃদ্ধি কৰা হয়। ইয়াৰ স্বাভাৱিক বেগ কিমান?
+A) 25 km/h / ২৫ কিমি/ঘণ্টা
+B) 20 km/h / ২০ কিমি/ঘণ্টা
+C) 30 km/h / ৩০ কিমি/ঘণ্টা
+D) 15 km/h / ১৫ কিমি/ঘণ্টা
+Ans: A
+
+19. A train running at 54 km/h takes 20 seconds to pass a platform. Next it takes 12 seconds to pass a man walking at 6 km/h in the same direction. Length of train is:
+
+৫৪ কিমি/ঘণ্টা বেগেৰে চলি থকা এখন ট্ৰেইনে এটা প্লেটফৰ্ম অতিক্ৰম কৰিবলৈ ২০ ছেকেণ্ড সময় লয়। ইয়াৰ পিছত একে দিশতে ৬ কিমি/ঘণ্টা বেগেৰে খোজ কাঢ়ি থকা মানুহ এজন অতিক্ৰম কৰিবলৈ ১২ ছেকেণ্ড সময় লয়। ট্ৰেইনৰ দৈৰ্ঘ্য হ’ল:
+A) 160 m / ১৬০ মিটাৰ
+B) 150 m / ১৫০ মিটাৰ
+C) 140 m / ১৪০ মিটাৰ
+D) 180 m / ১৮০ মিটাৰ
+Ans: A
+
+20. If A walks at 4 km/h and B cycles at 12 km/h, in how much time will B cover the distance that A covers in 3 hours?
+
+যদি A ই ৪ কিমি/ঘণ্টা বেগেৰে খোজ কাঢ়ে আৰু B ই ১২ কিমি/ঘণ্টা বেগেৰে চাইকেল চলায়, তেন্তে A ই ৩ ঘণ্টাত অতিক্ৰম কৰা দূৰত্ব B ই কিমান সময়ত অতিক্ৰম কৰিব?
+A) 1 hour / ১ ঘণ্টা
+B) 1.5 hours / ১.৫ ঘণ্টা
+C) 2 hours / ২ ঘণ্টা
+D) 45 minutes / ৪৫ মিনিট
+Ans: A
+
+21. A man performs 3/5 of his total journey by rail, 7/20 by bus and the remaining 6.5 km on foot. His total journey is:
+
+এজন ব্যক্তিয়ে তেওঁৰ মুঠ যাত্ৰাৰ ৩/৫ অংশ ৰেলেৰে, ৭/২০ অংশ বাছেৰে আৰু বাকী ৬.৫ কিমি খোজেৰে অতিক্ৰম কৰে। তেওঁৰ মুঠ যাত্ৰা হ’ল:
+A) 130 km / ১৩০ কিমি
+B) 120 km / ১২০ কিমি
+C) 140 km / ১৪০ কিমি
+D) 100 km / ১০০ কিমি
+Ans: A
+
+22. Distance between two points A and B is 120 km. Two cars start from A and B simultaneously. If they move in same direction, they meet in 6 hours. If in opposite, in 2 hours. Find speed of faster car.
+
+A আৰু B দুটা বিন্দুৰ মাজৰ দূৰত্ব ১২০ কিমি। A আৰু B ৰ পৰা দুখন গাড়ী একেলগে ৰাওনা হয়। যদি তেওঁলোকে একে দিশত যায়, ৬ ঘণ্টাত লগ হয়। বিপৰীত দিশত গ’লে ২ ঘণ্টাত লগ হয়। দ্ৰুত গাড়ীখনৰ বেগ কিমান?
+A) 40 km/h / ৪০ কিমি/ঘণ্টা
+B) 35 km/h / ৩৫ কিমি/ঘণ্টা
+C) 45 km/h / ৪৫ কিমি/ঘণ্টা
+D) 30 km/h / ৩০ কিমি/ঘণ্টা
+Ans: A
+
+23. A person target to reach a city 180 km away in 3 hours. If he covers 1/3 of the distance in 1/2 of the time, what should be his speed for the remaining journey?
+
+এজন ব্যক্তিয়ে ৩ ঘণ্টাত ১৮০ কিমি আঁতৰৰ চহৰখনত উপনীত হোৱাৰ লক্ষ্য ৰাখিছে। যদি তেওঁ সময়ৰ ১/২ অংশত ১/৩ অংশ দূৰত্ব অতিক্ৰম কৰে, তেন্তে বাকী থকা যাত্ৰাৰ বাবে তেওঁৰ বেগ কিমান হ’ব লাগে?
+A) 80 km/h / ৮০ কিমি/ঘণ্টা
+B) 60 km/h / ৬০ কিমি/ঘণ্টা
+C) 70 km/h / ৭০ কিমি/ঘণ্টা
+D) 90 km/h / ৯০ কিমি/ঘণ্টা
+Ans: A
+
+24. A swimmer swims downstream 24 km in 2 hours and upstream 12 km in 2 hours. Speed of swimmer in quiet water:
+
+এজন সাঁতুৰৈয়ে স্ৰোতৰ অনুকূলে ২৪ কিমি ২ ঘণ্টাত আৰু স্ৰোতৰ প্ৰতিকূলে ১২ কিমি ২ ঘণ্টাত সাঁতুৰে। স্থিৰ পানীত সাঁতুৰৈজনৰ বেগ:
+A) 9 km/h / ৯ কিমি/ঘণ্টা
+B) 6 km/h / ৬ কিমি/ঘণ্টা
+C) 8 km/h / ৮ কিমি/ঘণ্টা
+D) 10 km/h / ১০ কিমি/ঘণ্টা
+Ans: A
+
+25. A train 110 m long travels at 60 km/h. How long does it take to cross a telegraph pole?
+
+১১০ মিটাৰ দীঘল এখন ট্ৰেইনে ৬০ কিমি/ঘণ্টা বেগেৰে যাত্ৰা কৰে। এটা টেলিগ্ৰাফ খুঁটা অতিক্ৰম কৰিবলৈ ইয়াৰ কিমান সময় লাগে?
+A) 6.6 seconds / ৬৬ ছেকেণ্ড
+B) 6 seconds / ৬ ছেকেণ্ড
+C) 7 seconds / ৭ ছেকেণ্ড
+D) 5.5 seconds / ৫.৫ ছেকেণ্ড
+Ans: A

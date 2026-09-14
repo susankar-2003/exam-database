@@ -1,0 +1,150 @@
+1. A unicorn lies on Thu/Fri/Sat. He says: "I told the truth yesterday and I will tell the truth tomorrow." What day is it?
+A) Thursday
+B) Friday
+C) Saturday
+D) Sunday
+Ans: B
+2. You meet three inhabitants, M, N, and O. M says, "N is a knave." N says, "O is a knave." O says, "Both M and N are knaves." How many are knaves?
+A) 1
+B) 2
+C) 3
+D) 0
+Ans: B
+3. Three suspects A, B, C are interrogated. Exactly one is guilty and always lies. The innocent ones always tell the truth. A says "B is guilty." B says "C is innocent." C says "A is innocent." Who is guilty?
+A) A
+B) B
+C) C
+D) None of them
+Ans: A
+4. Three suspects A, B, C. Exactly two are guilty and they always lie. The innocent always tells the truth. A says "B is innocent." B says "C is guilty." C says "A is guilty." Who is innocent?
+A) A
+B) B
+C) C
+D) Cannot be determined
+Ans: B
+5. You are in a maze with two talking statues. One always lies, one always tells the truth. You ask Statue 1: "If I ask you if the exit is left, will you say yes?" Statue 1 says "Yes." Which way is the exit?
+A) Left
+B) Right
+C) Straight
+D) Cannot be determined
+Ans: A
+6. You meet two islanders, P and Q. P says, "If Q is a knight, then I am a knave." What are they?
+A) P is a knight, Q is a knave
+B) P is a knave, Q is a knight
+C) Both are knights
+D) Both are knaves
+Ans: A
+7. You meet two islanders, R and S. R says, "S is a knight." S says, "R is a knave." What can you deduce?
+A) R is a knight, S is a knave
+B) R is a knave, S is a knight
+C) R is a knave, S is a knave
+D) R is a knight, S is a knight
+Ans: C
+8. You meet T and U. T says, "We are not both knaves." U says, "T is a knave." What are they?
+A) T is a knight, U is a knave
+B) T is a knave, U is a knight
+C) Both are knights
+D) Both are knaves
+Ans: B
+9. You meet V and W. V says, "At least one of us is a knight." W says, "V is a knave." What are they?
+A) V is a knight, W is a knave
+B) V is a knave, W is a knight
+C) Both are knights
+D) Both are knaves
+Ans: A
+10. You meet X and Y. X says, "Y is a knave." Y says, "X and I are different types." What are they?
+A) X is a knight, Y is a knave
+B) X is a knave, Y is a knight
+C) Both are knights
+D) Both are knaves
+Ans: A
+11. You meet Z and A. Z says, "Both of us are knights." A says, "Z is a knave." What are they?
+A) Z is a knight, A is a knave
+B) Z is a knave, A is a knight
+C) Both are knights
+D) Both are knaves
+Ans: B
+12. You meet B and C. B says, "I am a knave and C is a knave." What are they?
+A) B is a knight, C is a knave
+B) B is a knave, C is a knight
+C) Both are knights
+D) Both are knaves
+Ans: B
+13. You meet D and E. D says, "If I am a knight, then two plus two equals five." What is D?
+A) Knight
+B) Knave
+C) Alternator
+D) Cannot exist
+Ans: B
+14. You meet F and G. F says, "If I am a knight, then G is a knight." What are they?
+A) F is a knight, G is a knave
+B) F is a knave, G is a knight
+C) Both are knights
+D) Both are knaves
+Ans: C
+15. You meet H and I. H says, "I is a knave." I says, "H is a knave." What can you deduce?
+A) Both are knights
+B) Both are knaves
+C) One is a knight and one is a knave
+D) Neither is a knight
+Ans: C
+16. You meet J and K. J says, "We are both knights or we are both knaves." K says, "J is a knave." What are they?
+A) J is a knight, K is a knave
+B) J is a knave, K is a knight
+C) Both are knights
+D) Both are knaves
+Ans: B
+17. You meet L and M. L says, "I am a knight or M is a knight." M says, "L is a knave." What are they?
+A) L is a knight, M is a knave
+B) L is a knave, M is a knight
+C) Both are knights
+D) Both are knaves
+Ans: A
+18. You meet N and O. N says, "O is a knight." O says, "We are both knights." What are they?
+A) N is a knight, O is a knave
+B) N is a knave, O is a knight
+C) Both are knights
+D) Both are knaves
+Ans: D
+19. You meet P, Q, and R. P says, "We are all knaves." Q says, "P is a knave." What is R?
+A) Knight
+B) Knave
+C) Spy
+D) Cannot be determined
+Ans: D
+20. You meet S, T, and U. S says, "Exactly one of us is a knight." T says, "Exactly two of us are knights." U says, "All of us are knights." How many are knights?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: B
+21. You meet V, W, and X. V says, "W is a knave." W says, "X is a knave." X says, "V and W are knaves." Who is the knight?
+A) V
+B) W
+C) X
+D) None
+Ans: B
+22. You meet Y, Z, and A. Y says, "Z and A are knights." Z says, "Y is a knight and A is a knave." What is A?
+A) Knight
+B) Knave
+C) Normal
+D) Cannot be determined
+Ans: B
+23. You meet B, C, and D. B says, "At least one of us is a knave." C says, "B is a knight." D says, "I am a knave." Who is a knight?
+A) B only
+B) C only
+C) B and C
+D) None
+Ans: C
+24. You meet E, F, and G. E says, "F is a knight." F says, "G is a knave." G says, "E is a knave." How many are knaves?
+A) 1
+B) 2
+C) 3
+D) 0
+Ans: B
+25. You meet H, I, and J. H says, "I and J are both knaves." I says, "H and J are both knaves." J says, "H and I are both knaves." How many are knights?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: B

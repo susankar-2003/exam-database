@@ -1,0 +1,150 @@
+1. S1 says, "S2 is a truth-teller." S2 says, "S3 is a truth-teller." S3 says, "S1 is a liar and S2 is a liar." How many truth-tellers are there?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: A
+2. T1 says, "If I am a truth-teller, then T2 is a truth-teller." What must T1 be?
+A) Truth-teller
+B) Liar
+C) Can be either
+D) This is a paradox
+Ans: C
+3. If T1 from the previous question is indeed a truth-teller, what is T2?
+A) Truth-teller
+B) Liar
+C) Unknown
+D) Paradox
+Ans: A
+4. U1 says, "I am a liar or U2 is a truth-teller." What are U1 and U2?
+A) Both are liars
+B) U1 is a liar, U2 is a truth-teller
+C) U1 is a truth-teller, U2 is a liar
+D) Both are truth-tellers
+Ans: D
+5. V1 says, "V2 is a liar." V2 says, "V3 is a liar." V3 says, "V1 is a liar." V4 says, "V1, V2, and V3 are all liars." How many are truth-tellers?
+A) 1
+B) 2
+C) 3
+D) 4
+Ans: A
+6. W1 says, "W2 is a truth-teller." W2 says, "W3 is a liar." W3 says, "W4 is a liar." W4 says, "W1 and W2 are liars." If W1 is a truth-teller, what is W4?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: A
+7. X1 says, "At least one of us (X1, X2) is a truth-teller." X2 says, "X1 is a liar." What are they?
+A) X1 is a truth-teller, X2 is a liar
+B) X1 is a liar, X2 is a truth-teller
+C) Both are truth-tellers
+D) Both are liars
+Ans: A
+8. Y1 says, "Y2 and Y3 are truth-tellers." Y2 says, "Y1 is a truth-teller and Y3 is a liar." Y3 says, "Y1 and Y2 are liars." Who is a truth-teller?
+A) Y1
+B) Y2
+C) Y3
+D) None
+Ans: C
+9. Z1 says, "Exactly one of us (Z1, Z2, Z3) is a liar." Z2 says, "Exactly two of us are liars." Z3 says, "All three of us are liars." What is Z2?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: A
+10. A king has two advisors, A and B. One always lies, one always tells the truth. Advisor A says, "If I am a truth-teller, then B is a truth-teller." What is B?
+A) Truth-teller
+B) Liar
+C) Depends on A
+D) Cannot be determined
+Ans: B
+11. Advisor C says, "Either D is a liar or I am a liar." Advisor D says, "C is a truth-teller." What is C?
+A) Truth-teller
+B) Liar
+C) Spy
+D) Cannot be determined
+Ans: B
+12. E says, "F is a liar." F says, "G is a liar." G says, "H is a liar." H says, "E is a liar." Which pair could both be truth-tellers?
+A) E and F
+B) F and H
+C) E and G
+D) G and H
+Ans: C
+13. I says, "J and K are the same type." J says, "I and K are the same type." K says, "I and J are different types." How many liars are there?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: C
+14. L says, "M is a truth-teller." M says, "N is a liar." N says, "L and M are different types." What is N?
+A) Truth-teller
+B) Liar
+C) Unknown
+D) Alternator
+Ans: A
+15. O says, "P is a liar." P says, "Q is a liar." Q says, "O is a liar." R says, "O, P, and Q are all liars." Who is a truth-teller?
+A) P
+B) Q
+C) R
+D) Cannot be determined
+Ans: D
+16. S says, "I am a truth-teller and T is a truth-teller." T says, "S is a liar." What is S?
+A) Truth-teller
+B) Liar
+C) Alternator
+D) Unknown
+Ans: B
+17. U says, "V is a truth-teller." V says, "W is a truth-teller." W says, "U is a liar." How many truth-tellers are there?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: A
+18. X says, "Y is a liar." Y says, "Z is a liar." Z says, "X is a truth-teller." What is the only logical possibility?
+A) X is a truth-teller, Y is a liar, Z is a truth-teller
+B) X is a liar, Y is a truth-teller, Z is a liar
+C) Both A and B are logically consistent
+D) The scenario is impossible
+Ans: C
+19. A software has three modules. M1 says, "M2 runs correctly." M2 says, "M3 fails." M3 says, "M1 and M2 both fail." If only one module runs correctly (tells truth), which one is it?
+A) M1
+B) M2
+C) M3
+D) None
+Ans: B
+20. Four prisoners, P1, P2, P3, P4. Exactly one has the key (truth-teller), others lie. P1: "P2 has it." P2: "P4 has it." P3: "I don't have it." P4: "P2 is lying." Who has the key?
+A) P1
+B) P2
+C) P3
+D) P4
+Ans: C
+21. Q1 says, "R1 is a liar." R1 says, "S1 is a liar." S1 says, "Q1 and R1 are liars." How many are liars?
+A) 1
+B) 2
+C) 3
+D) 0
+Ans: B
+22. A tribe member A says, "If B is a liar, then C is a liar." B says, "If C is a liar, then A is a liar." C says, "A and B are liars." What is C?
+A) Truth-teller
+B) Liar
+C) Either
+D) Neither
+Ans: B
+23. D says, "E is a truth-teller." E says, "F is a truth-teller." F says, "D and E are liars." Who is a truth-teller?
+A) D
+B) E
+C) F
+D) None
+Ans: D
+24. G says, "H is a liar." H says, "I is a truth-teller." I says, "G is a truth-teller." How many are truth-tellers?
+A) 0
+B) 1
+C) 2
+D) Cannot be determined
+Ans: D
+25. J says, "At least two of us (J, K, L) are liars." K says, "J is a liar." L says, "K is a liar." What is L?
+A) Truth-teller
+B) Liar
+C) Normal
+D) Cannot be determined
+Ans: B

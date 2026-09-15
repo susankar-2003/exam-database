@@ -1,5 +1,5 @@
 {
-    "last_serial": 519,
+    "last_serial": 525,
     "papers": {
         "1": {
             "id": "1",
@@ -3631,6 +3631,48 @@
             "path": "Reasoning/Conditional Reasoning/Conditional Reasoning Mock Test 10_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Conditional%20Reasoning/Conditional%20Reasoning%20Mock%20Test%2010_25Q.txt",
             "hash": "c685c5f2b8248cf47eeaa0f7250f7225"
+        },
+        "520": {
+            "id": "520",
+            "name": "Average 6_25Q.txt",
+            "path": "Mathematics/Average/Average 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%206_25Q.txt",
+            "hash": "4041a411d22c1ca604943879b0cc0842"
+        },
+        "521": {
+            "id": "521",
+            "name": "Average 2_25Q.txt",
+            "path": "Mathematics/Average/Average 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%202_25Q.txt",
+            "hash": "baf3db86ee8c2c412b3ddd96b9247027"
+        },
+        "522": {
+            "id": "522",
+            "name": "Average 1_25Q.txt",
+            "path": "Mathematics/Average/Average 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%201_25Q.txt",
+            "hash": "0b74cccbf0f212d232973daa29e40a58"
+        },
+        "523": {
+            "id": "523",
+            "name": "Average 3_25Q.txt",
+            "path": "Mathematics/Average/Average 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%203_25Q.txt",
+            "hash": "33b34ddadd1dc96ae6c8ef568e1cc480"
+        },
+        "524": {
+            "id": "524",
+            "name": "Average 4_25Q.txt",
+            "path": "Mathematics/Average/Average 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%204_25Q.txt",
+            "hash": "02026e8dc5b5e81f55929e73775d00ad"
+        },
+        "525": {
+            "id": "525",
+            "name": "Average 5_25Q.txt",
+            "path": "Mathematics/Average/Average 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%205_25Q.txt",
+            "hash": "dd321a9549aaebd51cf6588ccb086091"
         }
     }
 }

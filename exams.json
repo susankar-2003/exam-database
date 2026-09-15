@@ -1,5 +1,5 @@
 {
-  "_version": 19,
+  "_version": 20,
   "_banner_interval": 20000,
   "_category_descriptions": {
     "Dibrugarh University (DU B.Ed. CET)": "Previous year papers for DU B.Ed CET.",
@@ -20,7 +20,7 @@
     {
       "type": "custom",
       "imageUrl": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/banners/banner2.png",
-      "actionUrl": "https://play.google.com/store/apps/details?id=your.other.app"
+      "actionUrl": "https://play.google.com/store/apps/details?id=com.simulator.cbt"
     }
   ],
   "Dibrugarh University (DU B.Ed)": [],

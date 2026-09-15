@@ -1,0 +1,224 @@
+1. What is the sum of prime numbers between 80 and 90?
+
+৮০ আৰু ৯০ ৰ ভিতৰত থকা মৌলিক সংখ্যাবোৰৰ যোগফল কিমান?
+A) 168 / ১৬৮
+B) 172 / ১৭২
+C) 253 / ২৫৩
+D) 166 / ১৬৬
+Ans: D
+
+2. Which of the following fraction is recurring non-terminating decimal?
+
+তলৰ কোনটো ভগ্নাংশ পৌনঃপুনমিক অসীম দশমিক (Recurring non-terminating decimal)?
+A) 1/2 / ১/২
+B) 1/4 / ১/৪
+C) 1/3 / ১/৩
+D) 1/5 / ১/৫
+Ans: C
+
+3. What is the value of 0.999... equal to?
+
+০.৯৯৯... ৰ মান কাৰ সমান?
+A) 9/10 / ৯/১০
+B) 1 / ১
+C) 99/100 / ৯৯/১০০
+D) 0.9 / ০.৯
+Ans: B
+
+4. How many composite numbers are there from 1 to 20?
+
+১ ৰ পৰা ২০ লৈকে কিমানটা যৌগিক সংখ্যা আছে?
+A) 10 / ১০
+B) 11 / ১১
+C) 12 / ১২
+D) 8 / ৮
+Ans: B
+
+5. 1 is a:
+
+১ হ'ল এটা:
+A) Prime number / মৌলিক সংখ্যা
+B) Composite number / যৌগিক সংখ্যা
+C) Neither prime nor composite / মৌলিক বা যৌগিক এটাও নহয়
+D) Even number / যুগ্ম সংখ্যা
+Ans: C
+
+6. The product of any non-zero rational number and an irrational number is always:
+
+যিকোনো অ-শূন্য পৰিমেয় সংখ্যা আৰু এটা অপৰিমেয় সংখ্যাৰ গুণফল সদায়:
+A) Rational / পৰিমেয়
+B) Irrational / অপৰিমেয়
+C) Whole number / অখণ্ড সংখ্যা
+D) Natural number / স্বাভাৱিক সংখ্যা
+Ans: B
+
+7. Find the smallest 4-digit number formed using digits 0, 1, 2, 3 without repetition.
+
+পুনৰাবৃত্তি নকৰাকৈ ০, ১, ২, ৩ অংকবোৰ ব্যৱহাৰ কৰি গঠিত আটাইতকৈ সৰু ৪ অংকৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 0123 / ০১২৩
+B) 1023 / ১০২৩
+C) 1203 / ১২০৩
+D) 1032 / ১০৩২
+Ans: B
+
+8. Find the largest 4-digit number formed using digits 0, 1, 2, 3 without repetition.
+
+পুনৰাবৃত্তি নকৰাকৈ ০, ১, ২, ৩ অংকবোৰ ব্যৱহাৰ কৰি গঠিত আটাইতকৈ ডাঙৰ ৪ অংকৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 3210 / ৩২১০
+B) 3120 / ৩১২০
+C) 3201 / ৩২০১
+D) 3021 / ৩০২১
+Ans: A
+
+9. What is the place value of 0 in the number 5082?
+
+৫০৮২ সংখ্যাটোত ০ ৰ স্থানীয় মান কিমান?
+A) 0 / ০
+B) 100 / ১০০
+C) 10 / ১০
+D) 5000 / ৫০০০০
+Ans: A
+
+10. What is the difference between the greatest 4-digit number and the smallest 3-digit number?
+
+আটাইতকৈ ডাঙৰ ৪ অংকৰ সংখ্যা আৰু আটাইতকৈ সৰু ৩ অংকৰ সংখ্যাৰ পাৰ্থক্য কিমান?
+A) 9899 / ৯৮৯৯
+B) 9890 / ৯৮৯০
+C) 9900 / ৯৯০০
+D) 9000 / ৯০০০
+Ans: A
+
+11. What is the sum of place values of 5 in 5055?
+
+৫০৫৫ সংখ্যাটোত ৫ ৰ স্থানীয় মানবোৰৰ যোগফল কিমান?
+A) 5055 / ৫০৫৫
+B) 5550 / ৫৫৫০
+C) 5005 / ৫০০৫
+D) 555 / ৫৫৫
+Ans: A
+
+12. Which of the following is divisible by 6?
+
+তলৰ কোনটো ৬ ৰে বিভাজ্য?
+A) 1234 / ১২৩৪
+B) 1236 / ১২৩৬
+C) 1235 / ১২৩৫
+D) 1237 / ১২৩৭
+Ans: B
+
+13. If a number is divisible by 9, the sum of its digits must be divisible by:
+
+যদি এটা সংখ্যা ৯ ৰে বিভাজ্য হয়, ইয়াৰ অংকবোৰৰ যোগফল নিশ্চিতভাৱে কাৰ দ্বাৰা বিভাজ্য হ'ব?
+A) 3 only / কেৱল ৩
+B) 9 / ৯
+C) 27 / ২৭
+D) 6 / ৬
+Ans: B
+
+14. What is the HCF of two consecutive natural numbers?
+
+দুটা ক্ৰমাগত স্বাভাৱিক সংখ্যাৰ গ.সা.গু. কিমান?
+A) 0 / ০
+B) 1 / ১
+C) 2 / ২
+D) Product of numbers / সংখ্যা দুটাৰ গুণফল
+Ans: B
+
+15. What is the LCM of two co-prime numbers a and b?
+
+দুটা পৰস্পৰ মৌলিক সংখ্যা a আৰু b ৰ ল.সা.গু. কিমান?
+A) a + b / a + b
+B) a / b / a / b
+C) a * b / a * b
+D) 1 / ১
+Ans: C
+
+16. Find the remainder when 2^100 is divided by 3.
+
+২^১০০ ক ৩ ৰে ভাগ কৰিলে অৱশিষ্ট নিৰ্ণয় কৰা।
+A) 1 / ১
+B) 2 / ২
+C) 0 / ০
+D) 3 / ৩
+Ans: A
+
+17. Find the unit digit of 5^234 + 6^567.
+
+৫^২৩৪ + ৬^৫৬৭ ৰ এককৰ অংকটো নিৰ্ণয় কৰা।
+A) 1 / ১
+B) 5 / ৫
+C) 6 / ৬
+D) 0 / ০
+Ans: A
+
+18. If a number ends with 0, its square will end with how many zeros?
+
+যদি এটা সংখ্যাৰ শেষত ০ থাকে, ইয়াৰ বৰ্গৰ শেষত কিমানটা শূন্য থাকিব?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: B
+
+19. How many prime numbers are there between 1 and 100 that end with 3?
+
+১ আৰু ১০০ ৰ ভিতৰত ৩ ৰে শেষ হোৱা কিমানটা মৌলিক সংখ্যা আছে?
+A) 6 / ৬
+B) 7 / ৭
+C) 8 / ৮
+D) 9 / ৯
+Ans: B
+
+20. What is the smallest composite number?
+
+আটাইতকৈ সৰু যৌগিক সংখ্যাটো কি?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: D
+
+21. What is the predecessor of the smallest 5-digit number?
+
+আটাইতকৈ সৰু ৫ অংকৰ সংখ্যাটোৰ পূৰ্বৱৰ্তী (Predecessor) সংখ্যাটো কি?
+A) 9999 / ৯৯৯৯
+B) 10001 / ১০০০১
+C) 9990 / ৯৯৯০
+D) 9000 / ৯০০০
+Ans: A
+
+22. What is the successor of the largest 4-digit number?
+
+আটাইতকৈ ডাঙৰ ৪ অংকৰ সংখ্যাটোৰ উত্তৰৱৰ্তী (Successor) সংখ্যাটো কি?
+A) 10000 / ১০০০০
+B) 9998 / ৯৯৯৮
+C) 10001 / ১০০০১
+D) 99990 / ৯৯৯৯০
+Ans: A
+
+23. Which of the following is equal to (a + b)^2 - (a - b)^2?
+
+তলৰ কোনটো (a + b)^২ - (a - b)^২ ৰ সমান?
+A) 2(a^2 + b^2) / ২(a^২ + b^২)
+B) 4ab / ৪ab
+C) 2ab / ২ab
+D) a^2 - b^2 / a^২ - b^২
+Ans: B
+
+24. What is the total number of prime factors of 210?
+
+২১০ ৰ মুঠ মৌলিক উৎপাদকৰ সংখ্যা কিমান?
+A) 3 / ৩
+B) 4 / ৪
+C) 5 / ৫
+D) 6 / ৬
+Ans: B
+
+25. If 1/5th of a number is 20, what is 3/4th of that number?
+
+যদি এটা সংখ্যাৰ ১/৫ অংশ ২০ হয়, তেন্তে সেই সংখ্যাটোৰ ৩/৪ অংশ কিমান?
+A) 75 / ৭৫
+B) 60 / ৬০
+C) 80 / ৮০
+D) 100 / ১০০
+Ans: A

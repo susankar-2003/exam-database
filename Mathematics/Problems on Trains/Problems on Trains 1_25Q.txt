@@ -1,0 +1,224 @@
+1. A train 100 m long is running at a speed of 30 km/h. Find the time taken by it to pass a man standing near the railway line.
+
+১০০ মিটাৰ দীঘল ৰেলগাড়ী এখনে ৩০ কিমি/ঘণ্টা গতিত চলি আছে। ৰেলপথৰ কাষত থিয় হৈ থকা মানুহ এজনক অতিক্রম কৰিবলৈ কিমান সময় লাগিব?
+A) 12 sec / ১২ ছেকেণ্ড
+B) 15 sec / ১৫ ছেকেণ্ড
+C) 10 sec / ১০ ছেকেণ্ড
+D) 18 sec / ১৮ ছেকেণ্ড
+Ans: A
+
+2. A train 150 m long passes a platform 250 m long in 20 seconds. What is the speed of the train in km/h?
+
+১৫০ মিটাৰ দীঘল ৰেলগাড়ী এখনে ২৫০ মিটাৰ দীঘল প্লেটফৰ্ম এখন ২০ ছেকেণ্ডত অতিক্ৰম কৰে। ৰেলখনৰ গতি কিমি/ঘণ্টাত কিমান?
+A) 60 km/h / ৬০ কিমি/ঘণ্টা
+B) 72 km/h / ৭২ কিমি/ঘণ্টা
+C) 80 km/h / ৮০ কিমি/ঘণ্টা
+D) 90 km/h / ৯০ কিমি/ঘণ্টা
+Ans: B
+
+3. A train running at a speed of 60 km/h crosses a pole in 9 seconds. What is the length of the train?
+
+৬০ কিমি/ঘণ্টা গতিত চলি থকা ৰেলগাড়ী এখনে ৯ ছেকেণ্ডত এটা খুটা অতিক্ৰম কৰে। ৰেলখনৰ দৈৰ্ঘ্য কিমান?
+A) 120 m / ১২০ মিটাৰ
+B) 180 m / ১৮০ মিটাৰ
+C) 150 m / ১৫০ মিটাৰ
+D) 200 m / ২০০ মিটাৰ
+Ans: C
+
+4. A train 180 m long is running at 54 km/h. How much time will it take to pass a man running at 6 km/h in the same direction?
+
+১৮০ মিটাৰ দীঘল ৰেলগাড়ী এখন ৫৪ কিমি/ঘণ্টা গতিত চলি আছে। একে দিশতে ৬ কিমি/ঘণ্টা গতিত দৌৰি থকা মানুহ এজনক অতিক্ৰম কৰিবলৈ কিমান সময় লাগিব?
+A) 12 sec / ১২ ছেকেণ্ড
+B) 15 sec / ১৫ ছেকেণ্ড
+C) 10 sec / ১০ ছেকেণ্ড
+D) 13.5 sec / ১৩.৫ ছেকেণ্ড
+Ans: D
+
+5. Two trains 140 m and 160 m long are running in opposite directions at speeds of 60 km/h and 40 km/h respectively. Time taken to cross each other is:
+
+১৪০ মিটাৰ আৰু ১৬০ মিটাৰ দৈৰ্ঘ্যৰ দুখন ৰেলগাড়ী ক্ৰমে ৬০ কিমি/ঘণ্টা আৰু ৪০ কিমি/ঘণ্টা গতিত বিপৰীত দিশৰ পৰা আহি আছে। ইজনে সিজনক অতিক্ৰম কৰিবলৈ লগা সময় হ'ল:
+A) 10.8 sec / ১০.৮ ছেকেণ্ড
+B) 12 sec / ১২ ছেকেণ্ড
+C) 15 sec / ১৫ ছেকেণ্ড
+D) 9 sec / ৯ ছেকেণ্ড
+Ans: A
+
+6. A train passes a telegraph post in 8 seconds and a bridge 200 m long in 24 seconds. What is the length of the train?
+
+ৰেলগাড়ী এখনে ৮ ছেকেণ্ডত এটা টেলেগ্ৰাফ পোষ্ট আৰু ২৪ ছেকেণ্ডত ২০০ মিটাৰ দীঘল দলং এখন অতিক্ৰম কৰে। ৰেলখনৰ দৈৰ্ঘ্য কিমান?
+A) 80 m / ৮০ মিটাৰ
+B) 100 m / ১০০ মিটাৰ
+C) 120 m / ১২০ মিটাৰ
+D) 150 m / ১৫০ মিটাৰ
+Ans: B
+
+7. A train 240 m long crosses a platform of equal length in 27 seconds. What is the speed of the train in km/h?
+
+২৪০ মিটাৰ দীঘল ৰেলগাড়ী এখনে একে দৈৰ্ঘ্যৰ প্লেটফৰ্ম এখন ২৭ ছেকেণ্ডত অতিক্ৰম কৰে। ৰেলখনৰ গতি কিমি/ঘণ্টাত কিমান?
+A) 48 km/h / ৪৮ কিমি/ঘণ্টা
+B) 54 km/h / ৫৪ কিমি/ঘণ্টা
+C) 64 km/h / ৬৪ কিমি/ঘণ্টা
+D) 72 km/h / ৭২ কিমি/ঘণ্টা
+Ans: C
+
+8. How many seconds will a 500-meter-long train take to cross a man walking at 3 km/h in the direction opposite to the train, if the speed of the train is 63 km/h?
+
+৬৩ কিমি/ঘণ্টা গতিৰ ৫০০ মিটাৰ দীঘল ৰেলগাড়ী এখনে বিপৰীত দিশৰ পৰা ৩ কিমি/ঘণ্টা গতিত খোজকাঢ়ি অহা মানুহ এজনক অতিক্ৰম কৰিবলৈ কিমান ছেকেণ্ড ল’ব?
+A) 25 sec / ২৫ ছেকেণ্ড
+B) 30 sec / ৩০ ছেকেণ্ড
+C) 35 sec / ৩৫ ছেকেণ্ড
+D) 27.27 sec / ২৭.২৭ ছেকেণ্ড
+Ans: D
+
+9. Two trains of lengths 120 m and 80 m are running in the same direction at 42 km/h and 30 km/h. Time taken by the faster train to cross the slower train is:
+
+১২০ মিটাৰ আৰু ৮০ মিটাৰ দৈৰ্ঘ্যৰ দুখন ৰেলগাড়ী একে দিশতে ক্ৰমে ৪২ কিমি/ঘণ্টা আৰু ৩০ কিমি/ঘণ্টা গতিত চলি আছে। দ্ৰুতবেগী ৰেলখনে লেহেমিয়া ৰেলখন অতিক্ৰম কৰিবলৈ কিমান সময় ল’ব?
+A) 60 sec / ৬০ ছেকেণ্ড
+B) 50 sec / ৫০ ছেকেণ্ড
+C) 45 sec / ৪৫ ছেকেণ্ড
+D) 30 sec / ৩০ ছেকেণ্ড
+Ans: A
+
+10. A speed of 45 km/h is equal to:
+
+৪৫ কিমি/ঘণ্টা গতিবেগ তলৰ কোনটোৰ সমান?
+A) 10 m/s / ১০ মিটাৰ/ছেকেণ্ড
+B) 12.5 m/s / ১২.৫ মিটাৰ/ছেকেণ্ড
+C) 15 m/s / ১৫ মিটাৰ/ছেকেণ্ড
+D) 20 m/s / ২০ মিটাৰ/ছেকেণ্ড
+Ans: B
+
+11. A train travels at 90 km/h. How many meters does it cover in 12 seconds?
+
+ৰেলগাড়ী এখন ৯০ কিমি/ঘণ্টা গতিত চলি আছে। ১২ ছেকেণ্ডত ই কিমান মিটাৰ দূৰত্ব অতিক্ৰম কৰিব?
+A) 200 m / ২০০ মিটাৰ
+B) 250 m / ২৫০ মিটাৰ
+C) 300 m / ৩০০ মিটাৰ
+D) 350 m / ৩৫০ মিটাৰ
+Ans: C
+
+12. A train 125 m long passes a man running at 5 km/h in the same direction in 10 seconds. Find the speed of the train.
+
+১২৫ মিটাৰ দীঘল ৰেলগাড়ী এখনে ১০ ছেকেণ্ডত একে দিশত ৫ কিমি/ঘণ্টা গতিত দৌৰি থকা মানুহ এজনক অতিক্ৰম কৰে। ৰেলখনৰ গতি কিমান?
+A) 45 km/h / ৪৫ কিমি/ঘণ্টা
+B) 55 km/h / ৫৫ কিমি/ঘণ্টা
+C) 40 km/h / ৪০ কিমি/ঘণ্টা
+D) 50 km/h / ৫০ কিমি/ঘণ্টা
+Ans: D
+
+13. Two trains leave Guwahati for Dibrugarh at 6:00 AM and 6:30 AM and travel at 60 km/h and 75 km/h respectively. How many km from Guwahati will the two trains be together?
+
+দুখন ৰেলগাড়ী গুৱাহাটীৰ পৰা ডিব্ৰুগড়লৈ ৰাতিপুৱা ৬:০০ বজাত আৰু ৬:৩০ বজাত ক্ৰমে ৬০ কিমি/ঘণ্টা আৰু ৭৫ কিমি/ঘণ্টা গতিত ৰাওনা হয়। গুৱাহাটীৰ পৰা কিমান কিলোমিটাৰ দূৰত দুয়োখন ৰেল একেলগ হ’ব?
+A) 150 km / ১৫০ কিমি
+B) 120 km / ১২০ কিমি
+C) 180 km / ১৮০ কিমি
+D) 200 km / ২০০ কিমি
+Ans: A
+
+14. A train 110 meters long is running at a speed of 58 km/hr. In how much time will it pass a man who is running at 8 km/hr in the direction opposite to that in which the train is going?
+
+১১০ মিটাৰ দীঘল ৰেলগাড়ী এখন ৫৮ কিমি/ঘণ্টা গতিত চলি আছে। বিপৰীত দিশৰ পৰা ৮ কিমি/ঘণ্টা গতিত দৌৰি অহা মানুহ এজনক অতিক্ৰম কৰিবলৈ ৰেলখনক কিমান সময় লাগিব?
+A) 7 sec / ৭ ছেকেণ্ড
+B) 6 sec / ৬ ছেকেণ্ড
+C) 8 sec / ৮ ছেকেণ্ড
+D) 10 sec / ১০ ছেকেণ্ড
+Ans: B
+
+15. Two trains 100 m and 120 m long are running in opposite directions. They cross each other in 6 seconds. If the speed of the second train is 72 km/h, the speed of the first train is:
+
+১০০ মিটাৰ আৰু ১২০ মিটাৰ দীঘল দুখন ৰেল বিপৰীত দিশত চলি আছে। সিহঁতে ৬ ছেকেণ্ডত ইজনে সিজনক অতিক্ৰম কৰে। যদি দ্বিতীয় ৰেলখনৰ গতি ৭২ কিমি/ঘণ্টা হয়, তেন্তে প্ৰথম ৰেলখনৰ গতি কিমান?
+A) 50 km/h / ৫০ কিমি/ঘণ্টা
+B) 54 km/h / ৫৪ কিমি/ঘণ্টা
+C) 60 km/h / ৬০ কিমি/ঘণ্টা
+D) 66 km/h / ৬৬ কিমি/ঘণ্টা
+Ans: C
+
+16. A train 220 m long passes a signal post in 11 seconds. Find the time taken by it to cross a bridge 140 m long.
+
+২২০ মিটাৰ দীঘল ৰেলগাড়ী এখনে ১১ ছেকেণ্ডত এটা চিগনেল পোষ্ট অতিক্ৰম কৰে। ১৪০ মিটাৰ দীঘল দলং এখন অতিক্ৰম কৰিবলৈ কিমান সময় লাগিব?
+A) 15 sec / ১৫ ছেকেণ্ড
+B) 17 sec / ১৭ ছেকেণ্ড
+C) 20 sec / ২০ ছেকেণ্ড
+D) 18 sec / ১৮ ছেকেণ্ড
+Ans: D
+
+17. Two trains of equal length take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train is 120 m, in what time will they cross each other traveling in opposite directions?
+
+সমান দৈৰ্ঘ্যৰ দুখন ৰেলগাড়ীয়ে এটা টেলেগ্ৰাফ পোষ্ট অতিক্ৰম কৰিবলৈ ক্ৰমে ১০ ছেকেণ্ড আৰু ১৫ ছেকেণ্ড সময় লয়। যদি প্ৰতিখন ৰেলৰ দৈৰ্ঘ্য ১২০ মিটাৰ হয়, বিপৰীত দিশত গৈ থকা অৱস্থাত সিহঁতে ইজনে সিজনক অতিক্ৰম কৰিবলৈ কিমান সময় ল’ব?
+A) 12 sec / ১২ ছেকেণ্ড
+B) 10 sec / ১০ ছেকেণ্ড
+C) 14 sec / ১৪ ছেকেণ্ড
+D) 16 sec / ১৬ ছেকেণ্ড
+Ans: A
+
+18. A train takes 18 seconds to pass completely through a station 162 m long and 15 seconds through another station 120 m long. The length of the train is:
+
+ৰেলগাড়ী এখনে ১৬২ মিটাৰ দীঘল ষ্টেচন এখন সম্পূৰ্ণৰূপে অতিক্ৰম কৰিবলৈ ১৮ ছেকেণ্ড আৰু ১২০ মিটাৰ দীঘল আন এখন ষ্টেচন অতিক্ৰম কৰিবলৈ ১৫ ছেকেণ্ড সময় লয়। ৰেলখনৰ দৈৰ্ঘ্য কিমান?
+A) 70 m / ৭০ মিটাৰ
+B) 90 m / ৯০ মিটাৰ
+C) 80 m / ৮০ মিটাৰ
+D) 100 m / ১০০ মিটাৰ
+Ans: B
+
+19. A train 300 m long is moving at a speed of 90 km/h. How long will it take to cross a platform 200 m long?
+
+৩০০ মিটাৰ দীঘল ৰেলগাড়ী এখন ৯০ কিমি/ঘণ্টা গতিত চলি আছে। ২০০ মিটাৰ দীঘল প্লেটফৰ্ম এখন অতিক্ৰম কৰিবলৈ কিমান সময় লাগিব?
+A) 15 sec / ১৫ ছেকেণ্ড
+B) 18 sec / ১৮ ছেকেণ্ড
+C) 20 sec / ২০ ছেকেণ্ড
+D) 25 sec / ২৫ ছেকেণ্ড
+Ans: C
+
+20. A goods train runs at the speed of 72 km/h and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?
+
+মালবাহী ৰেল এখন ৭২ কিমি/ঘণ্টা গতিত চলে আৰু ২৬ ছেকেণ্ডত ২৫০ মিটাৰ দীঘল প্লেটফৰ্ম এখন অতিক্ৰম কৰে। মালবাহী ৰেলখনৰ দৈৰ্ঘ্য কিমান?
+A) 230 m / ২৩০ মিটাৰ
+B) 240 m / ২৪০ মিটাৰ
+C) 260 m / ২৬০ মিটাৰ
+D) 270 m / ২৭০ মিটাৰ
+Ans: D
+
+21. A train running at 54 km/h takes 20 seconds to cross a platform. Next, it takes 12 seconds to pass a man walking at 6 km/h in the same direction. Find the length of the platform.
+
+৫৪ কিমি/ঘণ্টা গতিত চলি থকা ৰেলগাড়ী এখন প্লেটফৰ্ম এখন অতিক্ৰম কৰিবলৈ ২০ ছেকেণ্ড লয়। তাৰ পিছত একে দিশত ৬ কিমি/ঘণ্টা গতিত খোজকাঢ়ি থকা মানুহ এজনক অতিক্ৰম কৰিবলৈ ১২ ছেকেণ্ড সময় লয়। প্লেটফৰ্মখনৰ দৈৰ্ঘ্য নিৰ্ণয় কৰক।
+A) 140 m / ১৪০ মিটাৰ
+B) 150 m / ১৫০ মিটাৰ
+C) 160 m / ১৬০ মিটাৰ
+D) 180 m / ১৮০ মিটাৰ
+Ans: A
+
+22. Two trains are moving in the same direction at 65 km/h and 45 km/h. The faster train crosses a man in the slower train in 18 seconds. The length of the faster train is:
+
+দুখন ৰেলগাড়ী একে দিশতে ৬৫ কিমি/ঘণ্টা আৰু ৪৫ কিমি/ঘণ্টা গতিত চলি আছে। দ্ৰুতবেগী ৰেলখনে লেহেমিয়া ৰেলখনত থকা মানুহ এজনক ১৮ ছেকেণ্ডত অতিক্ৰম কৰে। দ্ৰুতবেগী ৰেলখনৰ দৈৰ্ঘ্য হ’ল:
+A) 120 m / ১২০ মিটাৰ
+B) 100 m / ১০০ মিটাৰ
+C) 90 m / ৯০ মিটাৰ
+D) 110 m / ১১০ মিটাৰ
+Ans: B
+
+23. A train 150 m long crosses a standing man in 5 seconds. How long will it take to cross a 180 m long bridge?
+
+১৫০ মিটাৰ দীঘল ৰেলগাড়ী এখনে থিয় হৈ থকা মানুহ এজনক ৫ ছেকেণ্ডত অতিক্ৰম কৰে। ১৮০ মিটাৰ দীঘল দলং এখন অতিক্ৰম কৰিবলৈ কিমান সময় লাগিব?
+A) 10 sec / ১০ ছেকেণ্ড
+B) 12 sec / ১২ ছেকেণ্ড
+C) 11 sec / ১১ ছেকেণ্ড
+D) 13 sec / ১৩ ছেকেণ্ড
+Ans: C
+
+24. Two trains 130 m and 110 m long are going in the same direction. The faster train passes the slower train in 24 seconds. If the speed of the slower train is 36 km/h, find the speed of the faster train.
+
+১৩০ মিটাৰ আৰু ১১০ মিটাৰ দীঘল দুখন ৰেল একে দিশত গৈ আছে। দ্ৰুতবেগী ৰেলখনে ২৪ ছেকেণ্ডত লেহেমিয়া ৰেলখন অতিক্ৰম কৰে। যদি লেহেমিয়া ৰেলখনৰ গতি ৩৬ কিমি/ঘণ্টা হয়, তেন্তে দ্ৰুতবেগী ৰেলখনৰ গতি কিমান?
+A) 60 km/h / ৬০ কিমি/ঘণ্টা
+B) 66 km/h / ৬৬ কিমি/ঘণ্টা
+C) 70 km/h / ৭০ কিমি/ঘণ্টা
+D) 72 km/h / ৭২ কিমি/ঘণ্টা
+Ans: D
+
+25. A train 160 m long crosses a pole in 8 seconds. What is the speed of the train in m/s?
+
+১৬০ মিটাৰ দীঘল ৰেলগাড়ী এখনে ৮ ছেকেণ্ডত এটা খুটা অতিক্ৰম কৰে। ৰেলখনৰ গতি মিটাৰ/ছেকেণ্ডত কিমান?
+A) 20 m/s / ২০ মিটাৰ/ছেকেণ্ড
+B) 25 m/s / ২৫ মিটাৰ/ছেকেণ্ড
+C) 18 m/s / ১৮ মিটাৰ/ছেকেণ্ড
+D) 15 m/s / ১৫ মিটাৰ/ছেকেণ্ড
+Ans: A

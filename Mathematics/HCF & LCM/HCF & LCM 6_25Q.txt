@@ -1,0 +1,224 @@
+1. What is the LCM of 16, 28, 42, and 45?
+
+১৬, ২৮, ৪২, আৰু ৪৫ ৰ ল.সা.গু. কিমান?
+A) 2520 / ২৫২০
+B) 5040 / ৫০৪০
+C) 7560 / ৭৫৬০
+D) 10080 / ১০০৮০
+Ans: B
+
+2. Find the sum of HCF and LCM of 18 and 24.
+
+১৮ আৰু ২৪ ৰ গ.সা.গু. আৰু ল.সা.গু. ৰ যোগফল নিৰ্ণয় কৰা।
+A) 72 / ৭২
+B) 78 / ৭৮
+C) 84 / ৮৪
+D) 90 / ৯০
+Ans: B
+
+3. Find the difference between LCM and HCF of 20 and 30.
+
+২০ আৰু ৩০ ৰ ল.সা.গু. আৰু গ.সা.গু. ৰ পাৰ্থক্য নিৰ্ণয় কৰা।
+A) 40 / ৪০
+B) 50 / ৫০
+C) 60 / ৬০
+D) 70 / ৭০
+Ans: B
+
+4. The ratio of two numbers is 3:4 and their product is 432. Find their HCF.
+
+দুটা সংখ্যাৰ অনুপাত ৩:৪ আৰু সিহঁতৰ গুণফল ৪৩২। সিহঁতৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 4 / ৪
+B) 6 / ৬
+C) 8 / ৮
+D) 12 / ১২
+Ans: B
+
+5. Three circular wheels of diameters 60 cm, 90 cm, and 120 cm revolve. What is the minimum distance travelled so that each wheel makes complete revolutions?
+
+৬০ চেমি, ৯০ চেমি, আৰু ১২০ চেমি ব্যাসৰ তিনিটা বৃত্তাকাৰ চকাই ঘূৰে। প্ৰতিটো চকাই সম্পূৰ্ণ ঘূৰ্ণন সম্পন্ন কৰিবলৈ নূন্যতম কিমান দূৰত্ব অতিক্ৰম কৰিব লাগিব?
+A) 180 cm / ১৮০ চেমি
+B) 360 cm / ৩৬০ চেমি
+C) 540 cm / ৫৪০ চেমি
+D) 720 cm / ৭২০ চেমি
+Ans: B
+
+6. Find the HCF of 5/12, 10/18, and 25/24.
+
+৫/১২, ১০/১৮, আৰু ২৫/২৪ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 5/72 / ৫/৭২
+B) 5/36 / ৫/৩৬
+C) 25/72 / ২৫/৭২
+D) 5/144 / ৫/১৪৪
+Ans: A
+
+7. Find the LCM of 5/12, 10/18, and 25/24.
+
+৫/১২, ১০/১৮, আৰু ২৫/২৪ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 25/6 / ২৫/৬
+B) 25/3 / ২৫/৩
+C) 50/3 / ৫০/৩
+D) 100/3 / ১০০/৩
+Ans: B
+
+8. What is the smallest 3-digit number divisible by both 6 and 8?
+
+৬ আৰু ৮ দুয়োটাৰে বিভাজ্য ৩ টা অংকৰ আটাইতকৈ সৰু সংখ্যাটো কি?
+A) 108 / ১০৮
+B) 112 / ১১২
+C) 120 / ১২০
+D) 124 / ১২৪
+Ans: C
+
+9. What is the largest 3-digit number divisible by both 6 and 8?
+
+৬ আৰু ৮ দুয়োটাৰে বিভাজ্য ৩ টা অংকৰ আটাইতকৈ ডাঙৰ সংখ্যাটো কি?
+A) 960 / ৯৬০
+B) 984 / ৯৮৪
+C) 992 / ৯৯২
+D) 996 / ৯৯৬
+Ans: B
+
+10. Find the HCF of 105, 135, and 180.
+
+১০৫, ১৩৫, আৰু ১৮০ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 5 / ৫
+B) 15 / ১৫
+C) 30 / ৩০
+D) 45 / ৪৫
+Ans: B
+
+11. Find the LCM of 105, 135, and 180.
+
+১০৫, ১৩৫, আৰু ১৮০ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 1890 / ১৮৯০
+B) 3780 / ৩৭৮০
+C) 7560 / ৭৫৬০
+D) 11340 / ১১৩৪০
+Ans: B
+
+12. Two numbers are in the ratio 4:7 and their HCF is 15. Find the sum of the numbers.
+
+দুটা সংখ্যাৰ অনুপাত ৪:৭ আৰু সিহঁতৰ গ.সা.গু. ১৫। সংখ্যা দুটাৰ যোগফল নিৰ্ণয় কৰা।
+A) 135 / ১৩৫
+B) 150 / ১৫০
+C) 165 / ১৬৫
+D) 180 / ১৮০
+Ans: C
+
+13. The HCF of two numbers is 18 and their product is 12960. Find their LCM.
+
+দুটা সংখ্যাৰ গ.সা.গু. ১৮ আৰু সিহঁতৰ গুণফল ১২৯৬০। সিহঁতৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 640 / ৬৪০
+B) 720 / ৭২০
+C) 800 / ৮০০
+D) 860 / ৮৬০
+Ans: B
+
+14. Find the least number which when divided by 20, 25, and 30 leaves remainder 8 in each case.
+
+২০, ২৫, আৰু ৩০ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ৮ অৱশিষ্ট থকা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 292 / ২৯২
+B) 300 / ৩০০
+C) 308 / ৩০৮
+D) 316 / ৩১৬
+Ans: C
+
+15. A hall is 18 m 72 cm long and 13 m 20 cm broad. Find the least number of square tiles needed to pave its floor.
+
+এটা হ্ল ঘৰ ১৮ মিটাৰ ৭২ চেমি দীঘল আৰু ১৩ মিটাৰ ২০ চেমি বহল। ইয়াৰ চালিত লগাব পৰা নূন্যতম বৰ্গাকাৰ টাইলৰ সংখ্যা নিৰ্ণয় কৰা।
+A) 4120 / ৪১২০
+B) 4290 / ৪২৯০
+C) 4380 / ৪৩৮০
+D) 4500 / ৪৫০০
+Ans: B
+
+16. Find the HCF of 210, 315, 147, and 252.
+
+২১০, ৩১৫, ১৪৭, আৰু ২৫২ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 7 / ৭
+B) 14 / ১৪
+C) 21 / ২১
+D) 42 / ৪২
+Ans: C
+
+17. Find the least number which when divided by 12, 15, and 20 leaves remainder 4 in each case, but when divided by 7 leaves no remainder.
+
+১২, ১৫, আৰু ২০ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ৪ অৱশিষ্ট থকা, কিন্তু ৭ ৰে ভাগ কৰিলে কোনো অৱশিষ্ট নথকা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 124 / ১২৪
+B) 184 / ১৮৪
+C) 244 / ২৪৪
+D) 364 / ৩৬৪
+Ans: D
+
+18. Find the HCF of 1/2, 3/4, 5/6, and 7/8.
+
+১/২, ৩/৪, ৫/৬, আৰু ৭/৮ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 1/12 / ১/১২
+B) 1/24 / ১/২৪
+C) 1/48 / ১/৪৮
+D) 1/96 / ১/৯৬
+Ans: B
+
+19. Find the LCM of 1/2, 3/4, 5/6, and 7/8.
+
+১/২, ৩/৪, ৫/৬, আৰু ৭/৮ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 105/4 / ১০৫/৪
+B) 105/2 / ১০৫/২
+C) 105/8 / ১০৫/৮
+D) 210/3 / ২১০/৩
+Ans: B
+
+20. What is the smallest prime number?
+
+আটাইতকৈ সৰু মৌলিক সংখ্যাটো কি?
+A) 0 / ০
+B) 1 / ১
+C) 2 / ২
+D) 3 / ৩
+Ans: C
+
+21. If two positive integers x and y are written as x = p^3 * q^2 and y = p * q^3, where p and q are prime numbers, then HCF(x, y) is:
+
+যদি দুটা ধনাত্মক অখণ্ড সংখ্যা x আৰু y ক x = p^3 * q^2 আৰু y = p * q^3 ৰূপে লিখা হয়, য'ত p আৰু q মৌলিক সংখ্যা, তেন্তে HCF(x, y) হ'ব:
+A) p * q / p * q
+B) p * q^2 / p * q^2
+C) p^2 * q^2 / p^2 * q^2
+D) p^3 * q^3 / p^3 * q^3
+Ans: B
+
+22. For the same x and y as in question 146, LCM(x, y) is:
+
+প্ৰশ্ন ১৪৬ ৰ একে x আৰু y ৰ বাবে, LCM(x, y) হ'ব:
+A) p * q / p * q
+B) p * q^2 / p * q^2
+C) p^2 * q^2 / p^2 * q^2
+D) p^3 * q^3 / p^3 * q^3
+Ans: D
+
+23. The product of LCM and HCF of two numbers is 24. The difference of two numbers is 2. Find the numbers.
+
+দুটা সংখ্যাৰ ল.সা.গু. আৰু গ.সা.গু. ৰ গুণফল ২৪। সংখ্যা দুটাৰ পাৰ্থক্য ২। সংখ্যা দুটা নিৰ্ণয় কৰা।
+A) 2 and 4 / ২ আৰু ৪
+B) 6 and 4 / ৬ আৰু ৪
+C) 8 and 6 / ৮ আৰু ৬
+D) 12 and 10 / ১২ আৰু ১০
+Ans: B
+
+24. Find the greatest number of 3 digits which is exactly divisible by 6, 9, and 12.
+
+৬, ৯, আৰু ১২ ৰে সম্পূৰ্ণৰূপে বিভাজ্য ৩ টা অংকৰ আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 936 / ৯৩৬
+B) 972 / ৯৭২
+C) 984 / ৯৮৪
+D) 990 / ৯ ৯০
+Ans: B
+
+25. If the HCF of two numbers is 1, then the numbers are called:
+
+যদি দুটা সংখ্যাৰ গ.সা.গু. ১ হয়, তেন্তে সংখ্যা দুটাক কি বোলা হয়?
+A) Even numbers / যুগ্ম সংখ্যা
+B) Prime numbers / মৌলিক সংখ্যা
+C) Co-prime numbers / পৰস্পৰ মৌলিক সংখ্যা
+D) Composite numbers / যৌগিক সংখ্যা
+Ans: C

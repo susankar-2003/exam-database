@@ -1,0 +1,224 @@
+1. The product of two numbers is 2028 and their HCF is 13. How many such pairs of numbers are possible?
+
+দুটা সংখ্যাৰ গুণফল ২০২৮ আৰু সিহঁতৰ গ.সা.গু. ১৩। এনে ধৰণৰ কেইজোৰা সংখ্যা সম্ভৱ?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: B
+
+2. The sum of two numbers is 528 and their HCF is 33. How many such pairs of numbers are possible?
+
+দুটা সংখ্যাৰ যোগফল ৫২৮ আৰু সিহঁতৰ গ.সা.গু. ৩৩। এনে ধৰণৰ কেইজোৰা সংখ্যা সম্ভৱ?
+A) 2 / ২
+B) 3 / ৩
+C) 4 / ৪
+D) 5 / ৫
+Ans: C
+
+3. Four bells ring together at 12:00 PM. They ring at intervals of 6, 8, 12, and 18 seconds respectively. How many times will they ring together in 6 minutes?
+
+চাৰিখন ঘণ্টা দুপৰীয়া ১২:০০ বজাত একেলগে বাজে। সিহঁত ক্ৰমান্বয়ে ৬, ৮, ১২, আৰু ১৮ ছেকেণ্ডৰ ব্যৱধানত বাজে। ৬ মিনিটৰ ভিতৰত সিহঁত কেইবাৰ একেলগে বাজিব?
+A) 5 times / ৫ বার
+B) 6 times / ৬ বার
+C) 7 times / ৭ বার
+D) 8 times / ৮ বার
+Ans: B
+
+4. Three traffic signals change after 48 seconds, 72 seconds, and 108 seconds respectively. If they change simultaneously at 8:20:00 AM, at what time will they change together next?
+
+তিনিটা ট্ৰেফিক চিগনেল ক্ৰমান্বয়ে ৪৮ ছেকেণ্ড, ৭২ ছেকেণ্ড, আৰু ১০৮ ছেকেণ্ডৰ পিছত সলনি হয়। যদি সিহঁত ৰাতিপুৱা ৮:২০:০০ বজাত একেলগে সলনি হয়, তেন্তে পৰৱৰ্তী সময়ত কেইবজাত একেলগে সলনি হ'ব?
+A) 8:25:12 AM / ৰাতিপুৱা ৮:২৫:১২
+B) 8:27:12 AM / ৰাতিপুৱা ৮:২৭:১২
+C) 8:28:12 AM / ৰাতিপুৱা ৮:২৮:১২
+D) 8:30:00 AM / ৰাতিপুৱা ৮:৩০:০০
+Ans: B
+
+5. Find the greatest length which can be used to measure exactly the lengths 7 m, 3 m 85 cm, and 12 m 95 cm.
+
+৭ মিটাৰ, ৩ মিটাৰ ৮৫ চেমি, আৰু ১২ মিটাৰ ৯৫ চেমি দৈৰ্ঘ্যক সঠিকভাৱে জুখিব পৰা আটাইতকৈ ডাঙৰ দৈৰ্ঘ্যটো নিৰ্ণয় কৰা।
+A) 15 cm / ১৫ চেমি
+B) 25 cm / ২৫ চেমি
+C) 35 cm / ৩৫ চেমি
+D) 42 cm / ৪২ চেমি
+Ans: C
+
+6. A rectangular courtyard 3.78 m long and 5.25 m broad is to be paved exactly with square tiles, all of the same size. What is the largest possible size of each tile?
+
+৩.৭৮ মিটাৰ দীঘল আৰু ৫.২৫ মিটাৰ বহল এখন আয়তাকাৰ চোতালত একে জোখৰ বৰ্গাকাৰ টাইলেৰে ঢাকিব লাগে। প্ৰতিটো টাইলৰ সৰ্বোচ্চ সম্ভাৱ্য জোখ কিমান হ'ব?
+A) 14 cm / ১৪ চেমি
+B) 21 cm / ২১ চেমি
+C) 35 cm / ৩৫ চেমি
+D) 42 cm / ৪২ চেমি
+Ans: B
+
+7. Find the minimum number of square tiles required to pave a floor 15 m 17 cm long and 9 m 2 cm broad.
+
+১৫ মিটাৰ ১৭ চেমি দীঘল আৰু ৯ মিটাৰ ২ চেমি বহল চালি এখনত লগাব পৰা নূন্যতম বৰ্গাকাৰ টাইলৰ সংখ্যা নিৰ্ণয় কৰা।
+A) 814 / ৮১৪
+B) 840 / ৮৪০
+C) 820 / ৮২০
+D) 800 / ৮০০
+Ans: A
+
+8. Find the least number which when divided by 12, 16, 24, and 36 leaves remainders 7, 11, 19, and 31 respectively.
+
+১২, ১৬, ২৪, আৰু ৩৬ ৰে ভাগ কৰিলে ক্ৰমান্বয়ে ৭, ১১, ১৯, আৰু ৩১ অৱশিষ্ট থকা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 139 / ১৩৯
+B) 144 / ১৪৪
+C) 149 / ১৪৯
+D) 154 / ১৫৪
+Ans: A
+
+9. Find the greatest number which divides 62, 132, and 237 to leave the same remainder in each case.
+
+৬২, ১৩২, আৰু ২৩৭ ক ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে একে অৱশিষ্ট থকা আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 15 / ১৫
+B) 25 / ২৫
+C) 35 / ৩৫
+D) 45 / ৪৫
+Ans: C
+
+10. The HCF and LCM of two numbers are 11 and 385 respectively. If one number is 77, find the other number.
+
+দুটা সংখ্যাৰ গ.সা.গু. আৰু ল.সা.গু. ক্ৰমান্বয়ে ১১ আৰু ৩৮৫। যদি এটা সংখ্যা ৭৭ হয়, তেন্তে আনটো সংখ্যা নিৰ্ণয় কৰা।
+A) 45 / ৪৫
+B) 55 / ৫৫
+C) 65 / ৬৫
+D) 75 / ৭৫
+Ans: B
+
+11. The LCM of two numbers is 495 and their HCF is 5. If the sum of the numbers is 100, find their difference.
+
+দুটা সংখ্যাৰ ল.সা.গু. ৪৯৫ আৰু গ.সা.গু. ৫। যদি সংখ্যা দুটাৰ যোগফল ১০০ হয়, তেন্তে সিহঁতৰ পাৰ্থক্য নিৰ্ণয় কৰা।
+A) 10 / ১০
+B) 15 / ১৫
+C) 20 / ২০
+D) 25 / ২৫
+Ans: A
+
+12. Find the HCF of 1.2 and 0.12.
+
+১.২ আৰু ০.১২ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 0.012 / ০.০১২
+B) 0.12 / ০.১২
+C) 1.2 / ১.২
+D) 12 / ১২
+Ans: B
+
+13. Find the LCM of 0.6, 1.8, and 0.36.
+
+০.৬, ১.৮, আৰু ০.৩৬ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 1.8 / ১.৮
+B) 3.6 / ৩.৬
+C) 18 / ১৮
+D) 0.18 / ০.১৮
+Ans: A
+
+14. If the HCF of 65 and 117 is expressible in the form 65m - 117, then the value of m is:
+
+যদি ৬৫ আৰু ১১৭ ৰ গ.সা.গু. ক 65m - 117 ৰূপত প্ৰকাশ কৰিব পাৰি, তেন্তে m ৰ মান হ'ব:
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: B
+
+15. What is the smallest number which when increased by 5 is completely divisible by 12, 18, and 24?
+
+আটাইতকৈ সৰু সংখ্যাটো কি যাক ৫ যোগ কৰিলে ১২, ১৮, আৰু ২৪ ৰে সম্পূৰ্ণৰূপে বিভাজ্য হয়?
+A) 67 / ৬৭
+B) 72 / ৭২
+C) 77 / ৭৭
+D) 82 / ৮২
+Ans: A
+
+16. What is the smallest number which when diminished by 7 is divisible by 12, 16, 18, 21, and 28?
+
+আটাইতকৈ সৰু সংখ্যাটো কি যাৰ পৰা ৭ বিয়োগ কৰিলে ১২, ১৬, ১৮, ২১, আৰু ২৮ ৰে বিভাজ্য হয়?
+A) 1001 / ১০০১
+B) 1008 / ১০০৮
+C) 1015 / ১০১৫
+D) 1022 / ১০২২
+Ans: C
+
+17. Find the largest 3-digit number which leaves remainder 2 when divided by 4, 7, and 10.
+
+৪, ৭, আৰু ১০ ৰে ভাগ কৰিলে ২ অৱশিষ্ট থকা ৩ টা অংকৰ আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 978 / ৯৭৮
+B) 980 / ৯৮০
+C) 982 / ৯৮২
+D) 984 / ৯৮৪
+Ans: C
+
+18. Three runners run along a circular track of 12 km at speeds of 3 km/h, 7 km/h, and 13 km/h. After how much time will they meet at the starting point?
+
+তিনিজন দৌৰবিদ ১২ কিমিৰ এটা বৃত্তাকাৰ ট্ৰেকত ক্ৰমান্বয়ে ৩ কিমি/ঘণ্টা, ৭ কিমি/ঘণ্টা, আৰু ১৩ কিমি/ঘণ্টা বেগত দৌৰে। কেইঘণ্টাৰ পিছত সিহঁত যাত্ৰাৰ আৰম্ভণি স্থানত লগ হ'ব?
+A) 12 hours / ১২ ঘণ্টা
+B) 24 hours / ২৪ ঘণ্টা
+C) 36 hours / ৩৬ ঘণ্টা
+D) 48 hours / ৪৮ ঘণ্টা
+Ans: A
+
+19. Find the HCF of (2^3 * 3^2 * 5), (2^2 * 3^3 * 5^2), and (2^4 * 3 * 5^3 * 7).
+
+(২^৩ * ৩^২ * ৫), (২^২ * ৩^৩ * ৫^২), আৰু (২^৪ * ৩ * ৫^৩ * ৭) ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 30 / ৩০
+B) 60 / ৬০
+C) 120 / ১২০
+D) 180 / ১৮০
+Ans: B
+
+20. Two containers contain 145 litres and 203 litres of milk respectively. Find the maximum capacity of a container which can measure the milk of both containers in exact number of times.
+
+দুটা পাত্ৰত ক্ৰমান্বয়ে ১৪৫ লিটাৰ আৰু ২০৩ লিটাৰ গাখীৰ আছে। দুয়োটা পাত্ৰৰ গাখীৰ সম্পূৰ্ণ জোখত জুখিব পৰা পাত্ৰ এটাৰ সৰ্বোচ্চ ধাৰণ ক্ষমতা নিৰ্ণয় কৰা।
+A) 19 litres / ১৯ লিটাৰ
+B) 23 litres / ২৩ লিটাৰ
+C) 29 litres / ২৯ লিটাৰ
+D) 31 litres / ৩১ লিটাৰ
+Ans: C
+
+21. Find the HCF of 513, 1134, and 1215.
+
+৫১৩, ১১৩৪, আৰু ১২১৫ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 9 / ৯
+B) 18 / ১৮
+C) 27 / ২৭
+D) 36 / ৩৬
+Ans: C
+
+22. Find the LCM of 16, 24, 36, and 54.
+
+১৬, ২৪, ৩৬, আৰু ৫৪ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 216 / ২১৬
+B) 432 / ৪৩২
+C) 864 / ৮৬৪
+D) 1080 / ১০৮০
+Ans: B
+
+23. The product of two numbers is 4107. If the HCF of these numbers is 37, then the greater number is:
+
+দুটা সংখ্যাৰ গুণফল ৪১০৭। যদি এই সংখ্যা কেইটাৰ গ.সা.গু. ৩৭ হয়, তেন্তে ডাঙৰ সংখ্যাটো হ'ল:
+A) 111 / ১১১
+B) 185 / ১৮৫
+C) 259 / ২৫৯
+D) 333 / ৩ ৩৩
+Ans: A
+
+24. Three numbers are in the ratio 1:2:3 and their HCF is 12. The numbers are:
+
+তিনিটা সংখ্যাৰ অনুপাত ১:২:৩ আৰু সিহঁতৰ গ.সা.গু. ১২। সংখ্যা কেইটা হ'ল:
+A) 6, 12, 18 / ৬, ১২, ১৮
+B) 12, 24, 36 / ১২, ২৪, ৩৬
+C) 24, 48, 72 / ২৪, ৪৮, ৭২
+D) 12, 36, 48 / ১২, ৩৬, ৪৮
+Ans: B
+
+25. Find the greatest number that will divide 1305, 4665, and 6905, leaving the same remainder in each case.
+
+১৩০৫, ৪৬৬৫, আৰু ৬ ৯০৫ ক ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে একে অৱশিষ্ট থকা আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 1120 / ১১২০
+B) 1150 / ১১৫০
+C) 1200 / ১২০০
+D) 1220 / ১২২০
+Ans: A

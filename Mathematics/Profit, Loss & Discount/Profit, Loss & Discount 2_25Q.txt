@@ -1,0 +1,224 @@
+1. A vendor sells lemons at 5 for Rs. 1, gaining 20%. How many lemons did he buy for Rs. 1?
+
+এজন বিক্ৰেতাই ১ টকাত ৫ টা হিচাপত নেমু বিক্ৰী কৰি ২০% লাভ কৰে। তেওঁ ১ টকাত কিমানটা নেমু কিনিছিল?
+A) 6 / ৬
+B) 7 / ৭
+C) 8 / ৮
+D) 9 / ৯
+Ans: A
+
+2. If an article is sold at a gain of 5% instead of a loss of 5%, a man gets Rs. 5 more. What is the cost price of the article?
+
+যদি এটা বস্তু ৫% লোকচানৰ পৰিৱৰ্তে ৫% লাভত বিক্ৰী কৰা হয়, এজন মানুহে ৫ টকা বেছি পায়। বস্তুটোৰ ক্ৰয় মূল্য কিমান?
+A) Rs. 50 / ৫০ টকা
+B) Rs. 60 / ৬০ টকা
+C) Rs. 40 / ৪০ টকা
+D) Rs. 55 / ৫৫ টকা
+Ans: A
+
+3. The ratio of cost price and selling price of an article is 4:5. Find the profit percentage.
+
+এটা বস্তুৰ ক্ৰয় মূল্য আৰু বিক্ৰী মূল্যৰ অনুপাত ৪:৫। লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 30% / ৩০%
+D) 15% / ১৫%
+Ans: B
+
+4. If the ratio of cost price and selling price is 5:4, find the loss percentage.
+
+যদি ক্ৰয় মূল্য আৰু বিক্ৰী মূল্যৰ অনুপাত ৫:৪ হয়, তেন্তে লোকচানৰ শতাংশ নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 15% / ১৫%
+D) 10% / ১০%
+Ans: A
+
+5. By selling 100 pencils, a shopkeeper gains the selling price of 20 pencils. His gain percentage is:
+
+১০০ টা পেঞ্চিল বিক্ৰী কৰি এজন দোকানদাৰে ২০ টা পেঞ্চিলৰ বিক্ৰী মূল্যৰ সমান লাভ কৰে। তেওঁৰ লাভৰ শতাংশ হ'ল:
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 15% / ১৫%
+D) 30% / ৩০%
+Ans: B
+
+6. A man sold two steel chairs for Rs. 500 each. On one, he gains 20% and on the other, he loses 12%. How much does he gain or lose in the whole transaction?
+
+এজন মানুহে দুখন ষ্টীলৰ চকী প্ৰত্যেকটো ৫০০ টকাকৈ বিক্ৰী কৰিলে। এটাত তেওঁ ২০% লাভ কৰে আৰু আনটোত ১২% লোকচান কৰে। গোটেই লেনদেনত তেওঁ কিমান লাভ বা লোকচান কৰে?
+A) Gain of Rs. 15.15 / ১৫.১৫ টকা লাভ
+B) Loss of Rs. 15.15 / ১৫.১৫ টকা লোকচান
+C) Gain of Rs. 18.50 / ১৮.৫০ টকা লাভ
+D) Loss of Rs. 18.50 / ১৮.৫০ টকা লোকচান
+Ans: A
+
+7. If marked price is Rs. 500 and selling price is Rs. 420, find the discount percentage.
+
+যদি চিহ্নিত মূল্য ৫০০ টকা আৰু বিক্ৰী মূল্য ৪২০ টকা হয়, তেন্তে ৰেহাইৰ শতাংশ নিৰ্ণয় কৰক।
+A) 12% / ১২%
+B) 15% / ১৫%
+C) 16% / ১৬%
+D) 18% / ১৮%
+Ans: C
+
+8. A profit of 25% is made on selling an article. What is the ratio of cost price to selling price?
+
+এটা বস্তু বিক্ৰী কৰি ২৫% লাভ কৰা হয়। ক্ৰয় মূল্য আৰু বিক্ৰী মূল্যৰ অনুপাত কিমান?
+A) 4:5 / ৪:৫
+B) 5:4 / ৫:৪
+C) 3:4 / ৩:৪
+D) 4:3 / ৪:৩
+Ans: A
+
+9. Find the cost price of an article sold for Rs. 920 with a profit of 15%.
+
+১৫% লাভৰ সৈতে ৯২০ টকাত বিক্ৰী কৰা এটা বস্তুৰ ক্ৰয় মূল্য নিৰ্ণয় কৰক।
+A) Rs. 800 / ৮০০ টকা
+B) Rs. 820 / ৮২০ টকা
+C) Rs. 840 / ৮৪০ টকা
+D) Rs. 850 / ৮৫০ টকা
+Ans: A
+
+10. Successive discounts of 10%, 20%, and 25% are equivalent to a single discount of:
+
+১০%, ২০%, আৰু ২৫% ৰ ক্ৰমাগত ৰেহাইসমূহ তলৰ কোনটো একক ৰেহাইৰ সমান?
+A) 45% / ৪৫%
+B) 55% / ৫৫%
+C) 46% / ৪৬%
+D) 50% / ৫০%
+Ans: C
+
+11. An article is bought for Rs. 600 and Rs. 100 is spent on its transportation. If it is sold for Rs. 840, find the profit percentage.
+
+এটা বস্তু ৬০০ টকাত ক্ৰয় কৰা হয় আৰু ১০০ টকা পৰিবহনত খৰচ কৰা হয়। যদি ই ৮৪০ টকাত বিক্ৰী হয়, লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 18% / ১৮%
+D) 15% / ১৫%
+Ans: A
+
+12. If a milkman sells milk at cost price but mixes water and gains 20%, what is the ratio of water to milk?
+
+যদি এজন গোৱালে ক্ৰয় মূল্যত গাখীৰ বিক্ৰী কৰে কিন্তু পানী মিহলাই ২০% লাভ কৰে, তেন্তে পানী আৰু গাখীৰৰ অনুপাত কিমান?
+A) 1:5 / ১:৫
+B) 1:4 / ১:৪
+C) 1:6 / ১:৬
+D) 1:2 / ১:২
+Ans: A
+
+13. Selling price of an article is 4/3 times its cost price. Find the profit percentage.
+
+এটা বস্তুৰ বিক্ৰী মূল্য ইয়াৰ ক্ৰয় মূল্যৰ ৪/৩ গুণ। লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 33.33% / ৩৩.৩৩%
+B) 25% / ২৫%
+C) 20% / ২০%
+D) 30% / ৩০%
+Ans: A
+
+14. A sofa set costing Rs. 12000 is sold for Rs. 10800. What is the discount percentage?
+
+১২০০০ টকাৰ চফা ছেট এটা ১০৮০০ টকাত বিক্ৰী হয়। ৰেহাইৰ শতাংশ কিমান?
+A) 10% / ১০%
+B) 12% / ১২%
+C) 8% / ৮%
+D) 15% / ১৫%
+Ans: A
+
+15. If the cost price of 20 books is equal to the selling price of 25 books, find the loss percentage.
+
+যদি ২০ খন কিতাপৰ ক্ৰয় মূল্য ২৫ খন কিতাপৰ বিক্ৰী মূল্যৰ সমান হয়, তেন্তে লোকচানৰ শতাংশ নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 15% / ১৫%
+D) 10% / ১০%
+Ans: A
+
+16. By selling an article for Rs. 1920, the profit earned is 20%. What will be the profit/loss percentage if it is sold for Rs. 1280?
+
+এটা বস্তু ১৯২০ টকাত বিক্ৰী কৰিলে লাভ ২০% হয়। যদি ই ১২৮০ টকাত বিক্ৰী কৰা হয়, তেন্তে লাভ/লোকচানৰ শতাংশ কিমান হ'ব?
+A) 20% loss / ২০% লোকচান
+B) 10% loss / ১০% লোকচান
+C) 15% loss / ১৫% লোকচান
+D) 20% profit / ২০% লাভ
+Ans: A
+
+17. A shopkeeper offers 10% discount on marked price. What price should he mark on a goods costing Rs. 900 to gain 20%?
+
+এজন দোকানদাৰে চিহ্নিত মূল্যত ১০% ৰেহাই দিয়ে। ৯০০ টকা ক্ৰয় মূল্যৰ সামগ্ৰী এটাত ২০% লাভ কৰিবলৈ তেওঁ কিমান মূল্য চিহ্নিত কৰিব লাগিব?
+A) Rs. 1200 / ১২০০ টকা
+B) Rs. 1100 / ১১০০ টকা
+C) Rs. 1150 / ১১৫০ টকা
+D) Rs. 1250 / ১২৫০ টকা
+Ans: A
+
+18. A cloth merchant allows a discount of 20% on the marked price. How much above the cost price must he mark his goods to gain 10%?
+
+এজন কাপোৰৰ ব্যৱসায়ীয়ে চিহ্নিত মূল্যত ২০% ৰেহাই দিয়ে। ১০% লাভ কৰিবলৈ তেওঁ ক্ৰয় মূল্যতকৈ কিমান শতাংশ বেছি মূল্য চিহ্নিত কৰিব লাগিব?
+A) 37.5% / ৩৭.৫%
+B) 35% / ৩৫%
+C) 30% / ৩০%
+D) 40% / ৪০%
+Ans: A
+
+19. Cost price of 5 articles is equal to selling price of 4 articles. What is the gain percent?
+
+৫ টা বস্তুৰ ক্ৰয় মূল্য ৪ টা বস্তুৰ বিক্ৰী মূল্যৰ সমান। লাভৰ শতাংশ কিমান?
+A) 25% / ২৫%
+B) 20% / ২০%
+C) 30% / ৩০%
+D) 15% / ১৫%
+Ans: A
+
+20. An article is sold at 10% loss. If SP is increased by Rs. 90, there is a gain of 5%. Find CP.
+
+এটা বস্তু ১০% লোকচানত বিক্ৰী কৰা হয়। যদি বিক্ৰী মূল্য ৯০ টকা বৃদ্ধি কৰা হয়, ৫% লাভ হয়। ক্ৰয় মূল্য নিৰ্ণয় কৰক।
+A) Rs. 600 / ৬০০ টকা
+B) Rs. 500 / ৫০০ টকা
+C) Rs. 550 / ৫৫০ টকা
+D) Rs. 650 / ৬৫০ টকা
+Ans: A
+
+21. What is the marked price of an article sold for Rs. 810 after two successive discounts of 10% and 10%?
+
+১০% আৰু ১০% ৰ দুটা ক্ৰমাগত ৰেহাইৰ পিছত ৮১০ টকাত বিক্ৰী কৰা এটা বস্তুৰ চিহ্নিত মূল্য কিমান?
+A) Rs. 1000 / ১০০০ টকা
+B) Rs. 900 / ৯০০ টকা
+C) Rs. 950 / ৯৫০ টকা
+D) Rs. 1050 / ১০৫০ টকা
+Ans: A
+
+22. A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. Find his profit percentage.
+
+এজন ব্যৱসায়ীয়ে ২০ টকা প্ৰতি কেজির ২৬ কেজি চাউল, ৩৬ টকা প্ৰতি কেজিৰ ৩০ কেজি চাউলৰ সৈতে মিহলাই মিশ্ৰণটো ৩০ টকা প্ৰতি কেজিত বিক্ৰী কৰে। তেওঁৰ লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 5% / ৫%
+B) 8% / ৮%
+C) 10% / ১০%
+D) 12% / ১২%
+Ans: A
+
+23. By selling 33 meters of cloth, a person gains the cost price of 11 meters. Find the gain percentage.
+
+৩৩ মিটাৰ কাপোৰ বিক্ৰী কৰি এজন ব্যক্তিয়ে ১১ মিটাৰৰ ক্ৰয় মূল্যৰ সমান লাভ কৰে। লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 33.33% / ৩৩.৩৩%
+B) 25% / ২৫%
+C) 30% / ৩০%
+D) 50% / ৫০%
+Ans: A
+
+24. A device was bought for Rs. 4000 and sold at a loss of 8%. Find the selling price.
+
+এটা সঁজুলি ৪০০০ টকাত ক্ৰয় কৰা হৈছিল আৰু ৮% লোকচানত বিক্ৰী কৰা হৈছিল। বিক্ৰী মূল্য নিৰ্ণয় কৰক।
+A) Rs. 3680 / ৩৬৮০ টকা
+B) Rs. 3700 / ৩৭০০ টকা
+C) Rs. 3600 / ৩৬০০ টকা
+D) Rs. 3720 / ৩৭২০ টকা
+Ans: A
+
+25. Discount is always calculated on:
+
+ৰেহাই সদায় কিহৰ ওপৰত গণনা কৰা হয়?
+A) Cost Price / ক্ৰয় মূল্য
+B) Marked Price / চিহ্নিত মূল্য
+C) Selling Price / বিক্ৰী মূল্য
+D) Profit / লাভ
+Ans: B

@@ -1,0 +1,224 @@
+1. What is the total number of 4-digit natural numbers?
+
+মুঠ ৪ অংকৰ স্বাভাৱিক সংখ্যাৰ সংখ্যা কিমান?
+A) 8999 / ৮৯৯৯
+B) 9000 / ৯০০০
+C) 9001 / ৯০০১
+D) 9999 / ৯৯৯৯
+Ans: B
+
+2. What is the difference between the largest 5-digit number and the smallest 5-digit number?
+
+আটাইতকৈ ডাঙৰ ৫ অংকৰ সংখ্যা আৰু আটাইতকৈ সৰু ৫ অংকৰ সংখ্যাৰ পাৰ্থক্য কিমান?
+A) 89999 / ৮৯৯৯৯
+B) 88888 / ৮৮৮৮৮
+C) 90000 / ৯০০০০
+D) 89000 / ৮৯০০০
+Ans: A
+
+3. What is the sum of the prime numbers between 20 and 35?
+
+২০ আৰু ৩৫ ৰ ভিতৰত থকা মৌলিক সংখ্যাবোৰৰ যোগফল কিমান?
+A) 103 / ১০৩
+B) 112 / ১১২
+C) 83 / ৮৩
+D) 115 / ১১৫
+Ans: B
+
+4. What is the value of (100^2 - 99^2)?
+
+(১০০^২ - ৯৯^২) ৰ মান কিমান?
+A) 1 / ১
+B) 199 / ১৯৯
+C) 200 / ২০০
+D) 100 / ১০০
+Ans: B
+
+5. Simplify: (999 * 999 - 1) / 998.
+
+সৰল কৰা: (৯৯৯ * ৯৯৯ - ১) / ৯৯৮।
+A) 998 / ৯৯৮
+B) 999 / ৯৯৯
+C) 1000 / ১০০০০
+D) 1001 / ১০০১
+Ans: C
+
+6. If x + 1/x = 3, find the value of x^2 + 1/x^2.
+
+যদি x + ১/x = ৩ হয়, তেন্তে x^২ + ১/x^২ ৰ মান নিৰ্ণয় কৰা।
+A) 7 / ৭
+B) 9 / ৯
+C) 11 / ১১
+D) 6 / ৬
+Ans: A
+
+7. If x + 1/x = 4, find the value of x^3 + 1/x^3.
+
+যদি x + ১/x = ৪ হয়, তেন্তে x^৩ + ১/x^৩ ৰ মান নিৰ্ণয় কৰা।
+A) 52 / ৫২
+B) 64 / ৬৪
+C) 76 / ৭৬
+D) 48 / ৪৮
+Ans: A
+
+8. Which number should be added to 231228 to make it a perfect square?
+
+২৩১২২৮ ৰ লগত কি সংখ্যা যোগ কৰিলে ই এটা পূৰ্ণ বৰ্গ সংখ্যা হ'ব?
+A) 3 / ৩
+B) 4 / ৪
+C) 33 / ৩৩
+D) 21 / ২১
+Ans: C
+
+9. What is the smallest number that should be subtracted from 1000 to make it a perfect square?
+
+১০০০ ৰ পৰা আটাইতকৈ সৰু কি সংখ্যা বিয়োগ কৰিলে ই এটা পূৰ্ণ বৰ্গ সংখ্যা হ'ব?
+A) 36 / ৩৬
+B) 39 / ৩৯
+C) 24 / ২৪
+D) 19 / ১৯
+Ans: B
+
+10. Find the average of the first 10 prime numbers.
+
+প্ৰথম ১০ টা মৌলিক সংখ্যাৰ গড় নিৰ্ণয় কৰা।
+A) 12.9 / ১২.৯
+B) 13.1 / ১৩.১
+C) 12.5 / ১২.৫
+D) 13.5 / ১৩.৫
+Ans: A
+
+11. The product of two numbers is 120 and the sum of their squares is 289. The sum of the two numbers is:
+
+দুটা সংখ্যাৰ গুণফল ১২০ আৰু সিহঁতৰ বৰ্গৰ যোগফল ২৮৯। সংখ্যা দুটাৰ যোগফল হ'ল:
+A) 23 / ২৩
+B) 17 / ১৭
+C) 169 / ১৬৯
+D) 25 / ২৫
+Ans: A
+
+12. A boy was asked to multiply a number by 25. He instead multiplied the number by 52 and got the answer 324 more than the correct answer. The number to be multiplied was:
+
+এজন ল’ৰাক এটা সংখ্যা ২৫ ৰে গুণ কৰিবলৈ কোৱা হৈছিল। ইয়াৰ পৰিৱৰ্তে সি সংখ্যাটোক ৫২ ৰে গুণ কৰিলে আৰু শুদ্ধ উত্তৰতকৈ ৩২৪ বেছি পালে। গুণ কৰিবলগীয়া সংখ্যাটো আছিল:
+A) 12 / ১২
+B) 15 / ১৫
+C) 25 / ২৫
+D) 32 / ৩২
+Ans: A
+
+13. Find the value of 0.9 + 0.09 + 0.009 + 0.0009.
+
+০.৯ + ০.০৯ + ০.০০৯ + ০.০০০৯ ৰ মান নিৰ্ণয় কৰা।
+A) 0.9999 / ০.৯৯৯৯
+B) 0.999 / ০.৯৯৯
+C) 0.9909 / ০.৯৯০৯
+D) 1.0 / ১.০
+Ans: A
+
+14. The sum of three consecutive multiples of 3 is 90. What is the largest multiple?
+
+৩ ৰ তিনিটা ক্ৰমাগত গুণিতকৰ যোগফল ৯০। আটাইতকৈ ডাঙৰ গুণিতকটো কি?
+A) 27 / ২৭
+B) 30 / ৩০
+C) 33 / ৩৩
+D) 36 / ৩৬
+Ans: C
+
+15. How many factors of 2^4 * 3^3 * 5^2 are perfect squares?
+
+২^৪ * ৩^৩ * ৫^২ ৰ কিমানটা উৎপাদক পূৰ্ণ বৰ্গ সংখ্যা?
+A) 6 / ৬
+B) 12 / ১২
+C) 18 / ১৮
+D) 24 / ২৪
+Ans: B
+
+16. Find the number of factors of 100.
+
+১০০ ৰ উৎপাদকৰ সংখ্যা নিৰ্ণয় কৰা।
+A) 8 / ৮
+B) 9 / ৯
+C) 10 / ১০
+D) 12 / ১২
+Ans: B
+
+17. What is the sum of all factors of 12?
+
+১২ ৰ সকলো উৎপাদকৰ যোগফল কিমান?
+A) 28 / ২৮
+B) 24 / ২৪
+C) 27 / ২৭
+D) 12 / ১২
+Ans: A
+
+18. What is the arithmetic mean of first 100 natural numbers?
+
+প্ৰথম ১০০ টা স্বাভাৱিক সংখ্যাৰ গাণিতিক গড় কিমান?
+A) 50 / ৫০
+B) 50.5 / ৫০.৫
+C) 51 / ৫১
+D) 100 / ১০০
+Ans: B
+
+19. If a number is doubled and 9 is added, the result is 35. What is the number?
+
+যদি এটা সংখ্যা দুগুণ কৰি ৯ যোগ কৰা হয়, ফলাফল ৩৫ হয়। সংখ্যাটো কি?
+A) 13 / ১৩
+B) 14 / ১৪
+C) 15 / ১৫
+D) 16 / ১৬
+Ans: A
+
+20. Which of the following is divisible by 15?
+
+তলৰ কোনটো ১৫ ৰে বিভাজ্য?
+A) 3052 / ৩০৫২
+B) 2950 / ২৯৫০
+C) 1735 / ১৭৩৫
+D) 2250 / ২২৫০
+Ans: D
+
+21. What is the unit digit of (23)^21 * (24)^22 * (26)^23?
+
+(২৩)^২১ * (২৪)^২২ * (২৬)^২৩ ৰ এককৰ অংকটো কিমান?
+A) 2 / ২
+B) 4 / ৪
+C) 6 / ৬
+D) 8 / ৮
+Ans: C
+
+22. If a number is divided by 3, the remainder is 2. What is the remainder when the cube of this number is divided by 3?
+
+যদি এটা সংখ্যা ৩ ৰে ভাগ কৰিলে ভাগশেষ ২ থাকে, তেন্তে এই সংখ্যাটোৰ ঘনক ৩ ৰে ভাগ কৰিলে ভাগশেষ কিমান হ'ব?
+A) 0 / ০
+B) 1 / ১
+C) 2 / ২
+D) 3 / ৩
+Ans: C
+
+23. The ratio of two numbers is 3:4 and their HCF is 4. What is their LCM?
+
+দুটা সংখ্যাৰ অনুপাত ৩:৪ আৰু সিহঁতৰ গ.সা.গু. ৪। সিহঁতৰ ল.সা.গু. কিমান?
+A) 12 / ১২
+B) 16 / ১৬
+C) 24 / ২৪
+D) 48 / ৪৮
+Ans: D
+
+24. Find the largest 3-digit number which is divisible by 4, 5, and 6.
+
+৪, ৫ আৰু ৬ ৰে বিভাজ্য আটাইতকৈ ডাঙৰ ৩ অংকৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 960 / ৯৬০
+B) 980 / ৯৮০
+C) 900 / ৯০০
+D) 990 / ৯ ৯০
+Ans: A
+
+25. Which of the following numbers is a perfect square?
+
+তলৰ কোনটো সংখ্যা এটা পূৰ্ণ বৰ্গ সংখ্যা?
+A) 1225 / ১২২৫
+B) 1222 / ১২২২
+C) 1223 / ১২২৩
+D) 1227 / ১২২৭
+Ans: A

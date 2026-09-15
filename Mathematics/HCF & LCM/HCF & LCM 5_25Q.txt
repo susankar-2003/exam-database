@@ -1,0 +1,224 @@
+1. Find the LCM of 2/5, 6/25, and 8/15.
+
+২/৫, ৬/২৫, আৰু ৮/১৫ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 12/5 / ১২/৫
+B) 24/5 / ২৪/৫
+C) 48/5 / ৪৮/৫
+D) 24/25 / ২৪/২৫
+Ans: B
+
+2. If the product of two numbers is 845 and their HCF is 13, find their LCM.
+
+যদি দুটা সংখ্যাৰ গুণফল ৮৪৫ আৰু সিহঁতৰ গ.সা.গু. ১৩ হয়, তেন্তে সিহঁতৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 45 / ৪৫
+B) 55 / ৫৫
+C) 65 / ৬৫
+D) 75 / ৭৫
+Ans: C
+
+3. What is the side of the largest square tile that can pave a room 5 m 44 cm long and 3 m 74 cm broad?
+
+৫ মিটাৰ ৪৪ চেমি দীঘল আৰু ৩ মিটাৰ ৭৪ চেমি বহল কোঠা এটাত লগাব পৰা সৰ্বোচ্চ বৰ্গাকাৰ টাইলৰ বাহুৰ দৈৰ্ঘ্য কিমান?
+A) 17 cm / ১৭ চেমি
+B) 34 cm / ৩৪ চেমি
+C) 51 cm / ৫১ চেমি
+D) 68 cm / ৬৮ চেমি
+Ans: B
+
+4. Find the least number of five digits which is divisible by 12, 15, and 18.
+
+১২, ১৫, আৰু ১৮ ৰে বিভাজ্য ৫ টা অংকৰ আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 10020 / ১০০২০
+B) 10060 / ১০০৬০
+C) 10080 / ১০০৮০
+D) 10120 / ১০১২০
+Ans: C
+
+5. Find the HCF of 72, 108, and 210.
+
+৭২, ১০৮, আৰু ২১০ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 3 / ৩
+B) 6 / ৬
+C) 12 / ১২
+D) 18 / ১৮
+Ans: B
+
+6. Find the LCM of 15, 25, 35, and 45.
+
+১৫, ২৫, ৩৫, আৰু ৪৫ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 1225 / ১২২৫
+B) 1425 / ১৪২৫
+C) 1575 / ১৫৭৫
+D) 1675 / ১৬৭৫
+Ans: C
+
+7. The ratio of two numbers is 7:11 and their HCF is 13. Find the larger number.
+
+দুটা সংখ্যাৰ অনুপাত ৭:১১ আৰু সিহঁতৰ গ.সা.গু. ১৩। ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 91 / ৯১
+B) 117 / ১১৭
+C) 130 / ১৩০
+D) 143 / ১৪৩
+Ans: D
+
+8. Find the smallest number which when divided by 9, 12, 16, and 30 leaves remainder 3 in each case.
+
+৯, ১২, ১৬, আৰু ৩০ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ৩ অৱশিষ্ট থকা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 717 / ৭১৭
+B) 720 / ৭২০
+C) 723 / ৭২৩
+D) 726 / ৭২৬
+Ans: C
+
+9. Three milkmen have 120 litres, 180 litres, and 240 litres of milk respectively. What is the maximum capacity of a container that can measure the milk of any milkman in exact number of times?
+
+তিনিজন গাখীৰৱালাৰ ক্ৰমান্বয়ে ১২০ লিটাৰ, ১৮০ লিটাৰ, আৰু ২৪০ লিটাৰ গাখীৰ আছে। যিকোনো গাখীৰৱালাৰ গাখীৰ সম্পূৰ্ণ জোখত জুখিব পৰা পাত্ৰ এটাৰ সৰ্বোচ্চ ধাৰণ ক্ষমতা কিমান?
+A) 30 litres / ৩০ লিটাৰ
+B) 40 litres / ৪০ লিটাৰ
+C) 60 litres / ৬০ লিটাৰ
+D) 120 litres / ১২০ লিটাৰ
+Ans: C
+
+10. Find the HCF of 1.08, 0.36, and 0.9.
+
+১.০৮, ০.৩৬, আৰু ০.৯ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 0.09 / ০.০৯
+B) 0.18 / ০.১৮
+C) 0.27 / ০.২৭
+D) 0.36 / ০.৩৬
+Ans: B
+
+11. Find the LCM of 1.08, 0.36, and 0.9.
+
+১.০৮, ০.৩৬, আৰু ০.৯ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 2.7 / ২.৭
+B) 5.4 / ৫.৪
+C) 10.8 / ১০.৮
+D) 21.6 / ২১.৬
+Ans: B
+
+12. How many pairs of positive integers have an HCF of 20 and an LCM of 600?
+
+২০ গ.সা.গু. আৰু ৬০০ ল.সা.গু. থকা ধনাত্মক অখণ্ড সংখ্যাৰ কেইজোৰা সম্ভৱ?
+A) 2 / ২
+B) 3 / ৩
+C) 4 / ৪
+D) 5 / ৫
+Ans: C
+
+13. Find the greatest number of 4 digits which when divided by 18, 24, 30, and 42 leaves remainder 1 in each case.
+
+১৮, ২৪, ৩০, আৰু ৪২ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ১ অৱশিষ্ট থকা ৪ টা অংকৰ আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 7561 / ৭৫৬১
+B) 7560 / ৭৫৬০
+C) 7559 / ৭৫৫৯
+D) 7562 / ৭৫৬২
+Ans: A
+
+14. Find the HCF of 4^5, 4^8, 4^12, and 4^7.
+
+৪^৫, ৪^৮, ৪^১২, আৰু ৪^৭ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 4^5 / ৪^৫
+B) 4^7 / ৪^৭
+C) 4^8 / ৪^৮
+D) 4^12 / ৪^১২
+Ans: A
+
+15. Find the LCM of 4^5, 4^8, 4^12, and 4^7.
+
+৪^৫, ৪^৮, ৪^১২, আৰু ৪^৭ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 4^5 / ৪^৫
+B) 4^7 / ৪^৭
+C) 4^8 / ৪^৮
+D) 4^12 / ৪^১২
+Ans: D
+
+16. Find the HCF of 3^(-2), 3^(-5), 3^(-9), and 3^(-11).
+
+৩^(-২), ৩^(-৫), ৩^(-৯), আৰু ৩^(-১১) ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 3^(-2) / ৩^(-২)
+B) 3^(-5) / ৩^(-৫)
+C) 3^(-9) / ৩^(-৯)
+D) 3^(-11) / ৩^(-১১)
+Ans: D
+
+17. Find the LCM of 3^(-2), 3^(-5), 3^(-9), and 3^(-11).
+
+৩^(-২), ৩^(-৫), ৩^(-৯), আৰু ৩^(-১১) ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 3^(-2) / ৩^(-২)
+B) 3^(-5) / ৩^(-৫)
+C) 3^(-9) / ৩^(-৯)
+D) 3^(-11) / ৩^(-১১)
+Ans: A
+
+18. The HCF of two numbers is 11 and their sum is 132. How many pairs of such numbers exist?
+
+দুটা সংখ্যাৰ গ.সা.গু. ১১ আৰু সিহঁতৰ যোগফল ১৩২। এনে ধৰণৰ কেইজোৰা সংখ্যা সম্ভৱ?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: B
+
+19. Find the least number which when divided by 5, 6, 8, 9, and 12 leaves remainder 1 in each case.
+
+৫, ৬, ৮, ৯, আৰু ১২ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ১ অৱশিষ্ট থকা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 359 / ৩৫৯
+B) 360 / ৩৬০
+C) 361 / ৩৬১
+D) 362 / ৩৬২
+Ans: C
+
+20. Find the HCF of 143, 187, and 209.
+
+১৪৩, ১৮৭, আৰু ২০৯ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 11 / ১১
+B) 13 / ১৩
+C) 17 / ১৭
+D) 19 / ১৯
+Ans: A
+
+21. Find the LCM of 143 and 187.
+
+১৪৩ আৰু ১৮৭ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 2231 / ২২৩১
+B) 2431 / ২৪৩১
+C) 2631 / ২৬৩১
+D) 2831 / ২৮৩১
+Ans: B
+
+22. Find the least number which when doubled becomes exactly divisible by 12, 18, 21, and 30.
+
+দ্বিগুণ কৰিলে ১২, ১৮, ২১, আৰু ৩০ ৰে সম্পূৰ্ণৰূপে বিভাজ্য হোৱা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 315 / ৩ ১৫
+B) 630 / ৬৩০
+C) 1260 / ১২৬০
+D) 2520 / ২৫২০
+Ans: B
+
+23. What is the smallest number which when divided by 35, 45, and 55 leaves remainders 18, 28, and 38 respectively?
+
+৩৫, ৪৫, আৰু ৫৫ ৰে ভাগ কৰিলে ক্ৰমান্বয়ে ১৮, ২৮, আৰু ৩৮ অৱশিষ্ট থকা আটাইতকৈ সৰু সংখ্যাটো কি?
+A) 3448 / ৩৪৪৮
+B) 3465 / ৩৪৬৫
+C) 3482 / ৩৪৮২
+D) 3500 / ৩৫০০
+Ans: A
+
+24. The HCF and LCM of two numbers are 8 and 48 respectively. If one of the numbers is 24, then the other number is:
+
+দুটা সংখ্যাৰ গ.সা.গু. আৰু ল.সা.গু. ক্ৰমান্বয়ে ৮ আৰু ৪৮। যদি এটা সংখ্যা ২৪ হয়, তেন্তে আনটো সংখ্যা হ'ল:
+A) 12 / ১২
+B) 16 / ১৬
+C) 20 / ২০
+D) 28 / ২৮
+Ans: B
+
+25. Find the HCF of 96, 528, and 2160.
+
+৯৬, ৫২৮, আৰু ২১৬০ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 24 / ২৪
+B) 36 / ৩৬
+C) 48 / ৪৮
+D) 96 / ৯৬
+Ans: C

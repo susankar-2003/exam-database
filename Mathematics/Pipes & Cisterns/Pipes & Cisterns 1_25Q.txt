@@ -1,0 +1,224 @@
+1. Two pipes A and B can fill a tank in 20 minutes and 30 minutes respectively. If both pipes are opened together, how much time will it take to fill the tank?
+
+পাইপ A আৰু B এ এটা টেংক ক্ৰমে ২০ মিনিট আৰু ৩০ মিনিটত ভৰাব পাৰে। যদি দুয়োটা পাইপ একেলগে খোলা হয়, টেংকটো ভৰাবলৈ কিমান সময় লাগিব?
+A) 10 minutes / ১০ মিনিট
+B) 12 minutes / ১২ মিনিট
+C) 15 minutes / ১৫ মিনিট
+D) 25 minutes / ২৫ মিনিট
+Ans: B
+
+2. Pipe A can fill a tank in 10 hours and Pipe B can fill it in 15 hours. How much time will they take to fill the tank together?
+
+পাইপ A এ এটা টেংক ১০ ঘণ্টাত আৰু পাইপ B এ ১৫ ঘণ্টাত ভৰাব পাৰে। দুয়োটা পাইপে একেলগে টেংকটো ভৰাবলৈ কিমান সময় ল'ব?
+A) 6 hours / ৬ ঘণ্টা
+B) 8 hours / ৮ ঘণ্টা
+C) 5 hours / ৫ ঘণ্টা
+D) 12.5 hours / ১২.৫ ঘণ্টা
+Ans: A
+
+3. Pipe A can fill a cistern in 6 hours, while Pipe B can empty it in 8 hours. If both are opened together, in how many hours will the cistern be full?
+
+পাইপ A এ এটা চৌবাচ্চা ৬ ঘণ্টাত ভৰাব পাৰে, আনহাতে পাইপ B এ ৮ ঘণ্টাত খালী কৰিব পাৰে। দুয়োটা একেলগে খুলিলে চৌবাচ্চাটো কিমান ঘণ্টাত ভৰিব?
+A) 12 hours / ১২ ঘণ্টা
+B) 14 hours / ১৪ ঘণ্টা
+C) 24 hours / ২৪ ঘণ্টা
+D) 48 hours / ৪৮ ঘণ্টা
+Ans: C
+
+4. A tap can fill a tank in 8 hours. After half the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?
+
+এটা টেপে এটা টেংক ৮ ঘণ্টাত ভৰাব পাৰে। টেংকটোৰ আধা ভৰাৰ পিছত, একে ধৰণৰ আৰু তিনিটা টেপ খোলা হয়। টেংকটো সম্পূৰ্ণৰূপে ভৰাবলৈ মুঠ কিমান সময় লাগিব?
+A) 4 hours 30 minutes / ৪ ঘণ্টা ৩০ মিনিট
+B) 5 hours / ৫ ঘণ্টা
+C) 5 hours 30 minutes / ৫ ঘণ্টা ৩০ মিনিট
+D) 6 hours / ৬ ঘণ্টা
+Ans: B
+
+5. Pipe A can fill a tank in 12 hours and Pipe B can fill it in 18 hours. If both pipes are opened together, what fraction of the tank will be filled in 4 hours?
+
+পাইপ A এ এটা টেংক ১২ ঘণ্টাত আৰু পাইপ B এ ১৮ ঘণ্টাত ভৰাব পাৰে। দুয়োটা পাইপ একেলগে খুলিলে ৪ ঘণ্টাত টেংকটোৰ কিমান অংশ ভৰিব?
+A) 4/9 / ৪/৯
+B) 5/9 / ৫/৯
+C) 1/2 / ১/২
+D) 2/3 / ২/৩
+Ans: B
+
+6. Two pipes A and B can fill a cistern in 15 minutes and 20 minutes respectively. Both pipes are opened together, but after 4 minutes, pipe A is turned off. What is the total time required to fill the cistern?
+
+দুটা পাইপ A আৰু B এ এটা চৌবাচ্চা ক্ৰমে ১৫ মিনিট আৰু ২০ মিনিটত ভৰাব পাৰে। দুয়োটা পাইপ একেলগে খোলা হয়, কিন্তু ৪ মিনিটৰ পিছত A পাইপটো বন্ধ কৰি দিয়া হয়। চৌবাচ্চাটো ভৰাবলৈ মুঠ কিমান সময় লাগিব?
+A) 12 minutes / ১২ মিনিট
+B) 14 minutes 40 seconds / ১৪ মিনিট ৪০ ছেকেণ্ড
+C) 15 minutes 20 seconds / ১৫ মিনিট ২০ ছেকেণ্ড
+D) 16 minutes / ১৬ মিনিট
+Ans: B
+
+7. A pump can fill a tank with water in 2 hours. Because of a leak, it took 2 hours 20 minutes to fill the tank. The leak can drain all the water of the tank in:
+
+এটা পাম্পে ২ ঘণ্টাত পানীৰে টেংক এটা ভৰাব পাৰে। এটা লিক থকাৰ বাবে, টেংকটো ভৰাবলৈ ২ ঘণ্টা ২০ মিনিট সময় লাগে। লিকটোৱে টেংকটোৰ সকলো পানী কিমান সময়ত খালী কৰিব পাৰিব?
+A) 12 hours / ১২ ঘণ্টা
+B) 14 hours / ১৪ ঘণ্টা
+C) 16 hours / ১৬ ঘণ্টা
+D) 18 hours / ১৮ ঘণ্টা
+Ans: B
+
+8. Three pipes A, B and C can fill a tank in 6 hours. After working together for 2 hours, C is closed and A and B can fill the remaining part in 7 hours. The number of hours taken by C alone to fill the tank is:
+
+তিনিটা পাইপ A, B আৰু C এ ৬ ঘণ্টাত এটা টেংক ভৰাব পাৰে। ২ ঘণ্টা একেলগে কাম কৰাৰ পিছত, C বন্ধ কৰি দিয়া হয় আৰু A আৰু B এ বাকী অংশ ৭ ঘণ্টাত ভৰাব পাৰে। অকল C এ টেংকটো ভৰাবলৈ কিমান ঘণ্টা সময় ল'ব?
+A) 12 hours / ১২ ঘণ্টা
+B) 14 hours / ১৪ ঘণ্টা
+C) 16 hours / ১৬ ঘণ্টা
+D) 21 hours / ২১ ঘণ্টা
+Ans: B
+
+9. Two pipes A and B can fill a tank in 24 minutes and 32 minutes respectively. If both pipes are opened together, after how much time should B be closed so that the tank is full in 18 minutes?
+
+দুটা পাইপ A আৰু B এ ক্ৰমে ২৪ মিনিট আৰু ৩২ মিনিটত এটা টেংক ভৰাব পাৰে। যদি দুয়োটা পাইপ একেলগে খোলা হয়, তেন্তে B কত সময়ৰ পিছত বন্ধ কৰিব লাগে যাতে ১৮ মিনিটত টেংকটো পূৰ হয়?
+A) 6 minutes / ৬ মিনিট
+B) 8 minutes / ৮ মিনিট
+C) 10 minutes / ১০ মিনিট
+D) 12 minutes / ১২ মিনিট
+Ans: B
+
+10. Two pipes A and B can fill a cistern in 37.5 minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if pipe B is turned off after:
+
+দুটা পাইপ A আৰু B এ ক্ৰমে ৩৭.৫ মিনিট আৰু ৪৫ মিনিটত এটা চৌবাচ্চা ভৰাব পাৰে। দুয়োটা পাইপ খোলা হয়। পাইপ B কত সময়ৰ পিছত বন্ধ কৰিলে চৌবাচ্চাটো আধা ঘণ্টাত ভৰিব?
+A) 5 minutes / ৫ মিনিট
+B) 9 minutes / ৯ মিনিট
+C) 10 minutes / ১০ মিনিট
+D) 15 minutes / ১৫ মিনিট
+Ans: B
+
+11. Pipe A can fill a tank in 5 hours, pipe B in 10 hours, and pipe C in 30 hours. If all pipes are opened together, in how many hours will the tank be filled?
+
+পাইপ A এ এটা টেংক ৫ ঘণ্টাত, পাইপ B এ ১০ ঘণ্টাত আৰু পাইপ C এ ৩০ ঘণ্টাত ভৰাব পাৰে। যদি সকলো পাইপ একেলগে খোলা হয়, কিমান ঘণ্টাত টেংকটো ভৰিব?
+A) 2 hours / ২ ঘণ্টা
+B) 3 hours / ৩ ঘণ্টা
+C) 4 hours / ৪ ঘণ্টা
+D) 5 hours / ৫ ঘণ্টা
+Ans: B
+
+12. A cistern has two taps which fill it in 12 minutes and 15 minutes respectively. There is also a waste pipe. When all three are opened, the cistern is full in 20 minutes. How long will the waste pipe take to empty the full cistern?
+
+এটা চৌবাচ্চাত দুটা টেপ আছে যিয়ে ক্ৰমে ১২ মিনিট আৰু ১৫ মিনিটত ভৰায়। চৌবাচ্চাটোত এটা খালী কৰা পাইপো আছে। তিনিউটা খোলা থাকিলে ২০ মিনিটত চৌবাচ্চাটো ভৰে। খালী কৰা পাইপটোৱে সম্পূৰ্ণ চৌবাচ্চাটো খালী কৰিবলৈ কিমান সময় ল'ব?
+A) 8 minutes / ৮ মিনিট
+B) 10 minutes / ১০ মিনিট
+C) 12 minutes / ১২ মিনিট
+D) 15 minutes / ১৫ মিনিট
+Ans: B
+
+13. Two pipes can fill a tank in 20 hours and 30 hours respectively. If both pipes are opened together in an empty tank, how much time will it take to fill one-third of the tank?
+
+দুটা পাইপে ক্ৰমে ২০ ঘণ্টা আৰু ৩০ ঘণ্টাত এটা টেংক ভৰাব পাৰে। যদি দুয়োটা পাইপ খালি টেংক এটাত একেলগে খোলা হয়, টেংকটোৰ এক-তৃতীয়াংশ অংশ ভৰাবলৈ কিমান সময় লাগিব?
+A) 3 hours / ৩ ঘণ্টা
+B) 4 hours / ৪ ঘণ্টা
+C) 6 hours / ৬ ঘণ্টা
+D) 8 hours / ৮ ঘণ্টা
+Ans: B
+
+14. Pipe A is thrice as fast as Pipe B and takes 20 minutes less than Pipe B to fill a tank. Find the time taken by both pipes together to fill the tank.
+
+পাইপ A, পাইপ B তকৈ তিনিগুণ দ্ৰুত আৰু এটা টেংক ভৰাবলৈ B তকৈ ২০ মিনিট কম সময় লয়। দুয়োটা পাইপে একেলগে টেংকটো ভৰাবলৈ কিমান সময় ল'ব?
+A) 5 minutes / ৫ মিনিট
+B) 7.5 minutes / ৭.৫ মিনিট
+C) 8 minutes / ৮ মিনিট
+D) 10 minutes / ১০ মিনিট
+Ans: B
+
+15. A tank can be filled by pipe A in 2 hours and by pipe B in 6 hours. At 10:00 AM, pipe A was opened. At what time will the tank be filled if pipe B is opened at 11:00 AM?
+
+পাইপ A এ এটা টেংক ২ ঘণ্টাত আৰু পাইপ B এ ৬ ঘণ্টাত ভৰাব পাৰে। ৰাতিপুৱা ১০:০০ বজাত পাইপ A খোলা হৈছিল। যদি ১১:০০ বজাত পাইপ B খোলা হয়, তেন্তে টেংকটো কিমান বজাত ভৰিব?
+A) 11:30 AM / ১১:৩০ AM
+B) 11:45 AM / ১১:৪৫ AM
+C) 12:00 PM / ১২:০০ PM
+D) 12:15 PM / ১২:১৫ PM
+Ans: B
+
+16. A leak in the bottom of a tank can empty the full tank in 8 hours. An inlet pipe fills water at the rate of 6 liters per minute. When the tank is full, the inlet is opened and due to the leak, the tank is emptied in 12 hours. Find the capacity of the tank.
+
+টেংক এটাৰ তলৰ লিক এটাই সম্পূৰ্ণ টেংকটো ৮ ঘণ্টাত খালী কৰিব পাৰে। এটা সোমোৱা পাইপে প্ৰতি মিনিটত ৬ লিটাৰ পানী ভৰায়। টেংকটো পূৰ হৈ থাকোঁতে সোমোৱা পাইপটো খোলা হয় আৰু লিকৰ বাবে টেংকটো ১২ ঘণ্টাত খালী হয়। টেংকটোৰ ক্ষমতা নিৰ্ণয় কৰক।
+A) 7200 liters / ৭২০০ লিটাৰ
+B) 8640 liters / ৮৬৪০ লিটাৰ
+C) 9600 liters / ৯৬০০ লিটাৰ
+D) 10800 liters / ১০৮০০ লিটাৰ
+Ans: B
+
+17. Three pipes A, B and C can fill a cistern in 10, 12 and 15 hours respectively. If pipe A is open all the time and B and C are open for one hour each alternately, the cistern will be full in:
+
+তিনিটা পাইপ A, B আৰু C এ এটা চৌবাচ্চা ক্ৰমে ১০, ১২ আৰু ১৫ ঘণ্টাত ভৰাব পাৰে। যদি পাইপ A সদায় খোলা থাকে আৰু B আৰু C পালপাতি ১ ঘণ্টাকৈ খোলা হয়, তেন্তে চৌবাচ্চাটো কিমান সময়ত ভৰিব?
+A) 5 hours / ৫ ঘণ্টা
+B) 5 hours 42 minutes / ৫ ঘণ্টা ৪২ মিনিট
+C) 6 hours / ৬ ঘণ্টা
+D) 6 hours 15 minutes / ৬ ঘণ্টা ১৫ মিনিট
+Ans: B
+
+18. Pipe A can fill a tank in 16 minutes and pipe B can empty it in 24 minutes. If both pipes are opened together, in how many minutes will the tank be filled?
+
+পাইপ A এ এটা টেংক ১৬ মিনিটত ভৰাব পাৰে আৰু পাইপ B এ ২৪ মিনিটত খালী কৰিব পাৰে। দুয়োটা পাইপ একেলগে খুলিলে টেংকটো কিমান মিনিটত ভৰিব?
+A) 32 minutes / ৩২ মিনিট
+B) 40 minutes / ৪০ মিনিট
+C) 48 minutes / ৪৮ মিনিট
+D) 60 minutes / ৬০ মিনিট
+Ans: C
+
+19. Two pipes can fill a tank in 15 hours and 20 hours respectively, while a third pipe can empty it in 30 hours. If all three pipes are opened together, how long will it take to fill the tank?
+
+দুটা পাইপে এটা টেংক ক্ৰমে ১৫ ঘণ্টা আৰু ২০ ঘণ্টাত ভৰাব পাৰে, আনহাতে তৃতীয় এটা পাইপে ৩০ ঘণ্টাত খালী কৰিব পাৰে। যদি তিনিউটা পাইপ একেলগে খোলা হয়, টেংকটো ভৰাবলৈ কিমান সময় লাগিব?
+A) 10 hours / ১০ ঘণ্টা
+B) 12 hours / ১২ ঘণ্টা
+C) 15 hours / ১৫ ঘণ্টা
+D) 18 hours / ১৮ ঘণ্টা
+Ans: B
+
+20. A tap can fill a cistern in 4 hours, but due to a leak at the bottom, it takes 5 hours to fill it. If the cistern is full, how long will the leak take to empty it?
+
+এটা টেপে ৪ ঘণ্টাত এটা চৌবাচ্চা ভৰাব পাৰে, কিন্তু তলত লিক থকাৰ বাবে ৫ ঘণ্টা সময় লাগে। চৌবাচ্চাটো পূৰ হৈ থাকলে, লিকটোৱে খালী কৰিবলৈ কিমান সময় ল'ব?
+A) 15 hours / ১৫ ঘণ্টা
+B) 20 hours / ২০ ঘণ্টা
+C) 25 hours / ২৫ ঘণ্টা
+D) 30 hours / ৩০ ঘণ্টা
+Ans: B
+
+21. Pipe A can fill a tank in 25 minutes and Pipe B can fill it in 37.5 minutes. If both pipes are opened together, how long will it take to fill half of the tank?
+
+পাইপ A এ ২৫ মিনিটত আৰু পাইপ B এ ৩৭.৫ মিনিটত এটা টেংক ভৰাব পাৰে। দুয়োটা পাইপ একেলগে খুলিলে টেংকটোৰ আধা অংশ ভৰাবলৈ কিমান সময় লাগিব?
+A) 6 minutes / ৬ মিনিট
+B) 7.5 minutes / ৭.৫ মিনিট
+C) 10 minutes / ১০ মিনিট
+D) 12.5 minutes / ১২.৫ মিনিট
+Ans: B
+
+22. Two pipes A and B can fill a tank in 12 minutes and 15 minutes respectively. If both pipes are opened together and pipe A is closed after 3 minutes, how much more time will B take to fill the tank?
+
+দুটা পাইপ A আৰু B এ এটা টেংক ক্ৰমে ১২ মিনিট আৰু ১৫ মিনিটত ভৰাব পাৰে। যদি দুয়োটা পাইপ একেলগে খোলা হয় আৰু ৩ মিনিটৰ পিছত A বন্ধ কৰা হয়, তেন্তে B এ টেংকটো ভৰাবলৈ আৰু কিমান সময় ল'ব?
+A) 7 minutes 30 seconds / ৭ মিনিট ৩০ ছেকেণ্ড
+B) 8 minutes 15 seconds / ৮ মিনিট ১৫ ছেকেণ্ড
+C) 9 minutes / ৯ মিনিট
+D) 10 minutes 30 seconds / ১০ মিনিট ৩০ ছেকেণ্ড
+Ans: B
+
+23. Pipe A can fill a tank 4 times faster than Pipe B. If Pipe A takes 15 minutes to fill the tank alone, how long will both pipes take together to fill the tank?
+
+পাইপ A, পাইপ B তকৈ ৪ গুণ দ্ৰুতভাৱে এটা টেংক ভৰাব পাৰে। যদি পাইপ A এ অকলে টেংকটো ভৰাবলৈ ১৫ মিনিট সময় লয়, তেন্তে দুয়োটা পাইপে একেলগে টেংকটো ভৰাবলৈ কিমান সময় ল'ব?
+A) 10 minutes / ১০ মিনিট
+B) 12 minutes / ১২ মিনিট
+C) 14 minutes / ১৪ মিনিট
+D) 15 minutes / ১৫ মিনিট
+Ans: B
+
+24. A tank has three pipes A, B, and C. A and B can fill it in 3 hours and 4 hours respectively, while C can empty it in 1 hour. If the pipes are opened at 1 PM, 2 PM, and 3 PM respectively, at what time will the tank be emptied?
+
+এটা টেংকত A, B আৰু C নামৰ তিনিটা পাইপ আছে। A আৰু B এ ক্ৰমে ৩ ঘণ্টা আৰু ৪ ঘণ্টাত ভৰাব পাৰে, আনহাতে C এ ১ ঘণ্টাত খালী কৰিব পাৰে। যদি পাইপকেইটা ক্ৰমে আবেলি ১ বজাত, ২ বজাত আৰু ৩ বজাত খোলা হয়, তেন্তে কিমান বজাত টেংকটো খালী হ'ব?
+A) 4:40 PM / ৪:৪০ PM
+B) 5:12 PM / ৫:১২ PM
+C) 5:20 PM / ৫:২০ PM
+D) 6:00 PM / ৬:০০ PM
+Ans: B
+
+25. Pipe A can fill a tank in 10 hours and Pipe B in 12 hours. Pipe C can empty it in 20 hours. If all three pipes are opened at 7 AM, at what time will the tank be full?
+
+পাইপ A এ ১০ ঘণ্টাত আৰু পাইপ B এ ১২ ঘণ্টাত এটা টেংক ভৰাব পাৰে। পাইপ C এ ২০ ঘণ্টাত খালী কৰিব পাৰে। যদি তিনিউটা পাইপ পুৱা ৭ বজাত খোলা হয়, কিমান বজাত টেংকটো পূৰ হ'ব?
+A) 1:30 PM / ১:৩০ PM
+B) 2:30 PM / ২:৩০ PM
+C) 3:00 PM / ৩:০০ PM
+D) 3:30 PM / ৩:৩০ PM
+Ans: B

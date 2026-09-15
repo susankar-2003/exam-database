@@ -1,0 +1,224 @@
+1. Simple interest on a sum for 5 years is ₹400. If the principal is tripled after 3 years, what will be the total interest at the end of 5th year?
+
+কোনো ৰাশিৰ ৫ বছৰৰ সৰল সুত ৪০০ টকা। যদি ৩ বছৰৰ পিছত মূলধন তিনিগুণ কৰা হয়, তেন্তে ৫ বছৰৰ শেষত মুঠ সুত কিমান হ’ব?
+A) ₹640 / ৬৪০ টকা
+B) ₹720 / ৭২০ টকা
+C) ₹800 / ৮০০ টকা
+D) ₹560 / ৫৬০ টকা
+Ans: A
+
+2. A sum of money double itself at compound interest in 15 years. It will become 8 times of itself in:
+
+চক্রবৃদ্ধি সুতত কোনো ধন ১৫ বছৰত দ্বিগুণ হয়। ই ৮ গুণ হ’বলৈ কিমান সময় লাগিব?
+A) 30 years / ৩০ বছৰ
+B) 45 years / ৪৫ বছৰ
+C) 60 years / ৬০ বছৰ
+D) 40 years / ৪০ বছৰ
+Ans: B
+
+3. The difference between CI and SI on ₹2,500 for 2 years at 4% per annum is:
+
+২,৫০০ টকাৰ ৪% বার্ষিক হাৰত ২ বছৰৰ চক্রবৃদ্ধি সুত আৰু সৰল সুতৰ পাৰ্থক্য কিমান?
+A) ₹4 / ৪ টকা
+B) ₹5 / ৫ টকা
+C) ₹2 / ২ টকা
+D) ₹8 / ৮ টকা
+Ans: C
+
+4. A sum of ₹800 amounts to ₹920 in 3 years at simple interest. If the interest rate is increased by 3%, it would amount to how much?
+
+৮০০ টকা ৩ বছৰত সৰল সুতত ৯২০ টকা হয়। যদি সুতৰ হাৰ ৩% বৃদ্ধি কৰা হয়, তেন্তে ই কিমান হ’বগৈ?
+A) ₹992 / ৯৯২ টকা
+B) ₹960 / ৯৬০ টকা
+C) ₹1,000 / ১,০০০ টকা
+D) ₹980 / ৯৮০ টকা
+Ans: A
+
+5. Find the compound interest on ₹16,000 at 20% p.a. for 9 months compounded quarterly.
+
+১৬,০০০ টকাৰ ২০% বার্ষিক হাৰত ৯ মাহৰ ত্রৈমাসিকভাৱে (quarterly) প্ৰযোজ্য চক্রবৃদ্ধি সুত উলিওৱা।
+A) ₹2,522 / ২,৫২২ টকা
+B) ₹2,400 / ২,৪০০ টকা
+C) ₹2,500 / ২,৫০০ টকা
+D) ₹2,600 / ২,৬০০ টকা
+Ans: A
+
+6. If the ratio of principal and simple interest for 1 year is 25 : 1, then the rate of interest per annum is:
+
+যদি ১ বছৰৰ মূলধন আৰু সৰল সুতৰ অনুপাত ২৫ : ১ হয়, তেন্তে বার্ষিক সুতৰ হাৰ কিমান?
+A) 4% / ৪%
+B) 5% / ৫%
+C) 25% / ২৫%
+D) 20% / ২০%
+Ans: A
+
+7. The compound interest on a sum for 2 years is ₹832 and simple interest is ₹800. Find the rate of interest per annum.
+
+কোনো ৰাশিৰ ২ বছৰৰ চক্রবৃদ্ধি সুত ৮৩২ টকা আৰু সৰল সুত ৮০০ টকা। বার্ষিক সুতৰ হাৰ উলিওৱা।
+A) 10% / ১০%
+B) 8% / ৮%
+C) 12% / ১২%
+D) 6% / ৬%
+Ans: B
+
+8. How much time will it take for an amount of ₹450 to yield ₹81 as interest at 4.5% per annum of simple interest?
+
+৪.৫% বার্ষিক সৰল সুতৰ হাৰত ৪৫০ টকাৰ সুত ৮১ টকা হ’বলৈ কিমান সময় লাগিব?
+A) 3.5 years / ৩.৫ বছৰ
+B) 4 years / ৪ বছৰ
+C) 4.5 years / ৪.৫ বছৰ
+D) 5 years / ৫ বছৰ
+Ans: B
+
+9. A sum of money at simple interest amounts to ₹815 in 3 years and to ₹854 in 4 years. The sum is:
+
+সৰল সুতত কোনো ধন ৩ বছৰত ৮১৫ টকা আৰু ৪ বছৰত ৮৫৪ টকা হয়। মূলধন কিমান?
+A) ₹650 / ৬৫০ টকা
+B) ₹690 / ৬৯০ টকা
+C) ₹698 / ৬৯৮ টকা
+D) ₹700 / ৭০০ টকা
+Ans: C
+
+10. What is the ratio of compound interest to simple interest for 2 years at 5% per annum?
+
+৫% বার্ষিক হাৰত ২ বছৰৰ চক্রবৃদ্ধি সুত আৰু সৰল সুতৰ অনুপাত কিমান?
+A) 41 : 40 / ৪১ : ৪০
+B) 40 : 41 / ৪০ : ৪১
+C) 21 : 20 / ২১ : ২০
+D) 20 : 21 / ২০ : ২১
+Ans: A
+
+11. At a certain rate of simple interest, ₹400 amounts to ₹460 in 3 years. If the rate of interest is decreased by 3%, what will be the amount after 3 years?
+
+কোনো সৰল সুতৰ হাৰত ৪০০ টকা ৩ বছৰত ৪৬০ টকা হয়। যদি সুতৰ হাৰ ৩% কমোৱা হয়, তেন্তে ৩ বছৰৰ পিছত মুঠ টকা কিমান হ’ব?
+A) ₹424 / ৪২৪ টকা
+B) ₹430 / ৪৩০ টকা
+C) ₹420 / ৪২০ টকা
+D) ₹440 / ৪৪০ টকা
+Ans: A
+
+12. A sum of ₹3,000 yields ₹1,080 as simple interest in 3 years. What is the rate of interest per annum?
+
+৩,০০০ টকাৰ ৩ বছৰত সৰল সুত ১,০৮০ টকা হয়। বার্ষিক সুতৰ হাৰ কিমান?
+A) 10% / ১০%
+B) 12% / ১২%
+C) 8% / ৮%
+D) 15% / ১৫%
+Ans: B
+
+13. Find the compound interest on ₹6,250 at 8% per annum for 2 years compounded annually.
+
+৬,২৫০ টকাৰ ৮% বার্ষিক হাৰত ২ বছৰৰ চক্রবৃদ্ধি সুত উলিওৱা।
+A) ₹1,000 / ১,০০০ টকা
+B) ₹1,040 / ১,০৪০ টকা
+C) ₹1,080 / ১,০৮০ টকা
+D) ₹1,100 / ১,১০০ টকা
+Ans: B
+
+14. In how many years will ₹1,200 amount to ₹1,323 at 5% per annum compound interest?
+
+৫% বার্ষিক চক্রবৃদ্ধি সুতৰ হাৰত ১,২০০ টকা কিমান বছৰত ১,৩২৩ টকা হ'ব?
+A) 1 year / ১ বছৰ
+B) 2 years / ২ বছৰ
+C) 3 years / ৩ বছৰ
+D) 4 years / ৪ বছৰ
+Ans: B
+
+15. If the compound interest on a sum for 2 years at 12.5% per annum is ₹510, the simple interest on the same sum at the same rate for the same time is:
+
+যদি ১২.৫% বার্ষিক হাৰত ২ বছৰৰ চক্রবৃদ্ধি সুত ৫১০ টকা হয়, তেন্তে একে ৰাশিৰ একে হাৰ আৰু একে সময়ত সৰল সুত কিমান হ’ব?
+A) ₹480 / ৪৮০ টকা
+B) ₹450 / ৪৫০ টকা
+C) ₹460 / ৪৬০ টকা
+D) ₹500 / ৫০০ টকা
+Ans: A
+
+16. A principal amounts to ₹944 in 3 years and to ₹1,040 in 5 years at simple interest. Find the rate of interest.
+
+সৰল সুতত মূলধন ৩ বছৰত ৯৪৪ টকা আৰু ৫ বছৰত ১,০৪০ টকা হয়। সুতৰ হাৰ উলিওৱা।
+A) 5% / ৫%
+B) 6% / ৬%
+C) 8% / ৮%
+D) 4% / ৪%
+Ans: B
+
+17. What sum will lend at 5% per annum simple interest to produce ₹2 per day as interest? (Take 365 days in a year)
+
+দৈনিক ২ টকা সুত পাবলৈ ৫% বার্ষিক সৰল সুতৰ হাৰত কিমান টকা ঋণ দিব লাগিব? (১ বছৰ = ৩৬৫ দিন)
+A) ₹14,000 / ১৪,০০০ টকা
+B) ₹14,600 / ১৪,৬০০ টকা
+C) ₹15,000 / ১৫,০০০ টকা
+D) ₹13,500 / ১৩,৫০০ টকা
+Ans: B
+
+18. Find the difference between CI and SI on ₹10,000 for 3 years at 10% per annum.
+
+১০,০০০ টকাৰ ১০% বার্ষিক হাৰত ৩ বছৰৰ চক্রবৃদ্ধি সুত আৰু সৰল সুতৰ পাৰ্থক্য উলিওৱা।
+A) ₹300 / ৩০০ টকা
+B) ₹310 / ৩১০ টকা
+C) ₹320 / ৩২০ টকা
+D) ₹330 / ৩৩০ টকা
+Ans: B
+
+19. A sum borrowed at simple interest at 6% p.a. becomes ₹4,960 in 4 years. The sum borrowed was:
+
+৬% বার্ষিক সৰল সুতত ধাৰ কৰা কোনো ৰাশি ৪ বছৰত ৪,৯৬০ টকা হয়। ধাৰ কৰা মূলধন কিমান আছিল?
+A) ₹4,000 / ৪,০০০ টকা
+B) ₹3,800 / ৩,৮০০ টকা
+C) ₹4,200 / ৪,২০০ টকা
+D) ₹3,500 / ৩,৫০০ টকা
+Ans: A
+
+20. The present worth of ₹169 due in 2 years at 4% per annum compound interest is:
+
+৪% বার্ষিক চক্রবৃদ্ধি সুতৰ হাৰত ২ বছৰৰ পিছত পাবলগীয়া ১৬৯ টকাৰ বর্তমান মূল্য কিমান?
+A) ₹150 / ১৫০ টকা
+B) ₹156.25 / ১৫৬.২৫ টকা
+C) ₹160 / ১৬০ টকা
+D) ₹145 / ১৪৫ টকা
+Ans: B
+
+21. At what simple interest rate percent per annum will ₹3,000 yield ₹1,200 interest in 4 years?
+
+বার্ষিক কিমান সৰল সুতৰ হাৰত ৩,০০০ টকাৰ ৪ বছৰত ১,২০০ টকা সুত পাব?
+A) 8% / ৮%
+B) 10% / ১০%
+C) 12% / ১২%
+D) 15% / ১৫%
+Ans: B
+
+22. In what time will ₹1,000 become ₹1,331 at 10% per annum compounded annually?
+
+১০% বার্ষিক চক্রবৃদ্ধি সুতৰ হাৰত ১,০০০ টকা কিমান সময়ত ১,৩৩১ টকা হ'ব?
+A) 2 years / ২ বছৰ
+B) 3 years / ৩ বছৰ
+C) 4 years / ৪ বছৰ
+D) 2.5 years / ২.৫ বছৰ
+Ans: B
+
+23. A sum of money amounts to ₹5,200 in 2 years and ₹5,600 in 3 years at simple interest. Find the principal.
+
+সৰল সুতত কোনো ধন ২ বছৰত ৫,২০০ টকা আৰু ৩ বছৰত ৫,৬০০ টকা হয়। মূলধন উলিওৱা।
+A) ₹4,400 / ৪,৪০০ টকা
+B) ₹4,200 / ৪,২০০ টকা
+C) ₹4,000 / ৪,০০০ টকা
+D) ₹4,500 / ৪,৫০০ টকা
+Ans: A
+
+24. What is the compound interest on ₹5,000 for 2 years at 8% per annum, if interest is compounded annually?
+
+৫,০০০ টকাৰ ৮% বার্ষিক হাৰত ২ বছৰৰ চক্রবৃদ্ধি সুত কিমান, যদি সুত বার্ষিকভাৱে যোগ কৰা হয়?
+A) ₹800 / ৮০০ টকা
+B) ₹832 / ৮৩২ টকা
+C) ₹820 / ৮২০ টকা
+D) ₹850 / ৮৫০ টকা
+Ans: B
+
+25. Simple interest on a sum of money at 4% per annum for 2 years is ₹80. What is the sum?
+
+৪% বার্ষিক হাৰত ২ বছৰৰ সৰল সুত ৮০ টকা হ’লে মূলধন কিমান?
+A) ₹1,000 / ১,০০০ টকা
+B) ₹800 / ৮০০ টকা
+C) ₹1,200 / ১,২০০ টকা
+D) ₹1,500 / ১,৫০০ টকা
+Ans: A

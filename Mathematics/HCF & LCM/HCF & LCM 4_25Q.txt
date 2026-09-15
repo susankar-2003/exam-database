@@ -1,0 +1,224 @@
+1. Find the LCM of 3/16, 5/12, and 7/18.
+
+৩/১৬, ৫/১২, আৰু ৭/১৮ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 105/4 / ১০৫/৪
+B) 105/2 / ১০৫/২
+C) 35/2 / ৩৫/২
+D) 210/3 / ২১০/৩
+Ans: B
+
+2. The HCF of two numbers is 24 and their LCM is 1080. If one number is 120, find the other number.
+
+দুটা সংখ্যাৰ গ.সা.গু. ২৪ আৰু ল.সা.গু. ১০৮০। যদি এটা সংখ্যা ১২০ হয়, তেন্তে আনটো সংখ্যা নিৰ্ণয় কৰা।
+A) 180 / ১৮০
+B) 200 / ২০০
+C) 216 / ২১৬
+D) 240 / ২৪০
+Ans: C
+
+3. Find the largest 4-digit number divisible by 15, 18, 21, and 24.
+
+১৫, ১৮, ২১, আৰু ২৪ ৰে বিভাজ্য ৪ টা অংকৰ আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 7560 / ৭৫৬০
+B) 7800 / ৭৮০০
+C) 8400 / ৮৪০০
+D) 9000 / ৯০০০
+Ans: A
+
+4. Find the least number of 4 digits which when divided by 4, 6, 8, and 10 leaves remainder 2 in each case.
+
+৪, ৬, ৮, আৰু ১০ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ২ অৱশিষ্ট থকা ৪ টা অংকৰ আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 1022 / ১০২২
+B) 1082 / ১০৮২
+C) 1102 / ১১০২
+D) 1142 / ১১৪২
+Ans: B
+
+5. A bell rings every 18 minutes, a second bell rings every 24 minutes, and a third bell rings every 32 minutes. If all three ring together at 6:00 AM, when will they ring together next?
+
+এখন ঘণ্টা প্ৰতি ১৮ মিনিটৰ মূৰে মূৰে, দ্বিতীয়খন ঘণ্টা প্ৰতি ২৪ মিনিটৰ মূৰে মূৰে, আৰু তৃতীয়খন ঘণ্টা প্ৰতি ৩২ মিনিটৰ মূৰে মূৰে বাজে। যদি আটাইকেইখন ৰাতিপুৱা ৬:০০ বজাত একেলগে বাজে, তেন্তে পৰৱৰ্তী সময়ত কেইবজাত একেলগে বাজিব?
+A) 10:12 AM / ৰাতিপুৱা ১০:১২
+B) 10:24 AM / ৰাতিপুৱা ১০:২৪
+C) 10:48 AM / ৰাতিপুৱা ১০:৪৮
+D) 11:00 AM / ৰাতিপুৱা ১১:০০
+Ans: C
+
+6. Find the HCF of 0.54, 1.8, and 7.2.
+
+০.৫৪, ১.৮, আৰু ৭.২ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 0.09 / ০.০৯
+B) 0.18 / ০.১৮
+C) 0.36 / ০.৩৬
+D) 0.54 / ০.৫৪
+Ans: B
+
+7. Find the LCM of 0.54, 1.8, and 7.2.
+
+০.৫৪, ১.৮, আৰু ৭.২ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 10.8 / ১০.৮
+B) 21.6 / ২১.৬
+C) 43.2 / ৪৩.২
+D) 54.0 / ৫৪.০
+Ans: B
+
+8. Find the greatest number that divides 260, 1314, and 1331 leaving remainder 5 in each case.
+
+২৬০, ১৩১৪, আৰু ১৩৩১ ক ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ৫ অৱশিষ্ট থকা আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 13 / ১৩
+B) 17 / ১৭
+C) 19 / ১৯
+D) 23 / ২৩
+Ans: B
+
+9. What is the ratio between the LCM and HCF of 5, 15, and 20?
+
+৫, ১৫, আৰু ২০ ৰ ল.সা.গু. আৰু গ.সা.গু. ৰ অনুপাত কিমান?
+A) 8 : 1 / ৮ : ১
+B) 10 : 1 / ১০ : ১
+C) 12 : 1 / ১২ : ১
+D) 14 : 1 / ১৪ : ১
+Ans: C
+
+10. The sum of two numbers is 216 and their HCF is 27. The numbers are:
+
+দুটা সংখ্যাৰ যোগফল ২১৬ আৰু সিহঁতৰ গ.সা.গু. ২৭। সংখ্যা দুটা হ'ল:
+A) 27, 189 / ২৭, ১৮৯
+B) 54, 162 / ৫৪, ১৬২
+C) 108, 108 / ১০৮, ১০৮
+D) 80, 136 / ৮০, ১৩৬
+Ans: A
+
+11. Find the smallest number which when divided by 5, 6, 7, and 8 leaves remainder 3, but when divided by 9 leaves no remainder.
+
+৫, ৬, ৭, আৰু ৮ ৰে ভাগ কৰিলে ৩ অৱশিষ্ট থকা কিন্তু ৯ ৰে ভাগ কৰিলে কোনো অৱশিষ্ট নথকা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 1677 / ১৬৭৭
+B) 1680 / ১৬৮০
+C) 1683 / ১৬৮৩
+D) 1686 / ১৬৮৬
+Ans: C
+
+12. Two numbers are in the ratio 3:5. If their HCF is 8, find the difference between the two numbers.
+
+দুটা সংখ্যাৰ অনুপাত ৩:৫। যদি সিহঁতৰ গ.সা.গু. ৮ হয়, তেন্তে সংখ্যা দুটাৰ পাৰ্থক্য নিৰ্ণয় কৰা।
+A) 8 / ৮
+B) 12 / ১২
+C) 16 / ১৬
+D) 24 / ২৪
+Ans: C
+
+13. The HCF of two numbers is 9 and their LCM is 270. If the sum of the numbers is 99, find their difference.
+
+দুটা সংখ্যাৰ গ.সা.গু. ৯ আৰু ল.সা.গু. ২৭০। যদি সংখ্যা দুটাৰ যোগফল ৯৯ হয়, তেন্তে সিহঁতৰ পাৰ্থক্য নিৰ্ণয় কৰা।
+A) 9 / ৯
+B) 18 / ১৮
+C) 27 / ২৭
+D) 36 / ৩৬
+Ans: A
+
+14. What is the greatest common divisor of 3^30 + 1 and 3^30 + 11?
+
+3^30 + 1 আৰু 3^30 + 11 ৰ গৰিষ্ঠ সাধাৰণ গুণনীয়ক কি?
+A) 1 / ১
+B) 2 / ২
+C) 5 / ৫
+D) 10 / ১০
+Ans: D
+
+15. Find the HCF of 2^100 - 1 and 2^120 - 1.
+
+2^100 - 1 আৰু 2^120 - 1 ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 2^10 - 1 / ২^১০ - ১
+B) 2^20 - 1 / ২^২০ - ১
+C) 2^40 - 1 / ২^৪০ - ১
+D) 2^60 - 1 / ২^৬০ - ১
+Ans: B
+
+16. The least number which when divided by 15, 27, 35, and 42 leaves in each case a remainder of 7 is:
+
+১৫, ২৭, ৩৫, আৰু ৪২ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ৭ অৱশিষ্ট থকা আটাইতকৈ সৰু সংখ্যাটো হ'ল:
+A) 1883 / ১৮৮৩
+B) 1890 / ১৮৯০
+C) 1897 / ১৮৯৭
+D) 1904 / ১৯০৪
+Ans: C
+
+17. Find the maximum length of a tape that can measure 5 m 25 cm, 7 m 35 cm, and 4 m 20 cm exactly.
+
+৫ মিটাৰ ২৫ চেমি, ৭ মিটাৰ ৩৫ চেমি, আৰু ৪ মিটাৰ ২০ চেমি দৈৰ্ঘ্যক সঠিকভাৱে জুখিব পৰা ফিটা এডালৰ সৰ্বোচ্চ দৈৰ্ঘ্য নিৰ্ণয় কৰা।
+A) 85 cm / ৮৫ চেমি
+B) 95 cm / ৯৫ চেমি
+C) 105 cm / ১০৫ চেমি
+D) 115 cm / ১১৫ চেমি
+Ans: C
+
+18. Find the LCM of 14, 21, 28, and 35.
+
+১৪, ২১, ২৮, আৰু ৩৫ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 210 / ২১০
+B) 420 / ৪২০
+C) 630 / ৬৩০
+D) 840 / ৮৪০
+Ans: B
+
+19. The sum of HCF and LCM of two numbers is 403 and their LCM is 12 times their HCF. If one number is 93, find the other number.
+
+দুটা সংখ্যাৰ গ.সা.গু. আৰু ল.সা.গু. ৰ যোগফল ৪০৩ আৰু সিহঁতৰ ল.সা.গু. গ.সা.গু. ৰ ১২ গুণ। যদি এটা সংখ্যা ৯৩ হয়, তেন্তে আনটো সংখ্যা নিৰ্ণয় কৰা।
+A) 62 / ৬২
+B) 93 / ৯৩
+C) 124 / ১২৪
+D) 155 / ১৫৫
+Ans: C
+
+20. Three sets of English, Mathematics, and Science books containing 336, 240, and 96 books respectively have to be stacked in such a way that all the books are stored subject wise and the height of each stack is the same. Total number of stacks will be:
+
+ইংৰাজী, গণিত, আৰু বিজ্ঞানৰ ক্ৰমান্বয়ে ৩৩৬, ২৪০, আৰু ৯৬ খন গ্ৰন্থৰ তিনিটা ছেট এনেদৰে জাপি থব লাগে যাতে সকলো গ্ৰন্থ বিষয়বস্তু অনুসৰি ৰখা হয় আৰু প্ৰতিটো জাপৰ উচ্চতা একে হয়। মুঠ জাপৰ সংখ্যা হ'ব:
+A) 12 / ১২
+B) 14 / ১৪
+C) 16 / ১৬
+D) 18 / ১৮
+Ans: B
+
+21. What is the least number which when divided by 2, 3, 4, 5, and 6 leaves remainder 1, but by 7 leaves no remainder?
+
+২, ৩, ৪, ৫, আৰু ৬ ৰে ভাগ কৰিলে ১ অৱশিষ্ট থকা কিন্তু ৭ ৰে ভাগ কৰিলে কোনো অৱশিষ্ট নথকা আটাইতকৈ সৰু সংখ্যাটো কি?
+A) 61 / ৬১
+B) 121 / ১২১
+C) 241 / ২৪১
+D) 301 / ৩০১
+Ans: D
+
+22. Find the HCF of 165, 285, and 345.
+
+১৬৫, ২৮৫, আৰু ৩৪৫ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 5 / ৫
+B) 15 / ১৫
+C) 25 / ২৫
+D) 35 / ৩৫
+Ans: B
+
+23. Two numbers both greater than 29, have HCF = 29 and LCM = 4147. The sum of the numbers is:
+
+২৯ তকৈ ডাঙৰ দুটা সংখ্যাৰ গ.সা.গু. = ২৯ আৰু ল.সা.গু. = ৪১৪৭। সংখ্যা দুটাৰ যোগফল হ'ল:
+A) 666 / ৬৬৬
+B) 696 / ৬৯৬
+C) 726 / ৭২৬
+D) 756 / ৭৫৬
+Ans: B
+
+24. The greatest number which can divide 1356, 1868, and 2764 leaving same remainder 12 in each case is:
+
+১৩৫৬, ১৮৬৮, আৰু ২৭৬৪ ক ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ১২ অৱশিষ্ট থকা আটাইতকৈ ডাঙৰ সংখ্যাটো হ'ল:
+A) 32 / ৩২
+B) 64 / ৬৪
+C) 128 / ১২৮
+D) 256 / ২৫৬
+Ans: B
+
+25. Find the HCF of 2/5, 6/25, and 8/15.
+
+২/৫, ৬/২৫, আৰু ৮/১৫ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 2/75 / ২/৭৫
+B) 4/75 / ৪/৭৫
+C) 2/25 / ২/২৫
+D) 8/75 / ৮/৭৫
+Ans: A

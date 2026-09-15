@@ -1,0 +1,224 @@
+1. Profit percentage is calculated on:
+
+লাভৰ শতাংশ কিহৰ ওপৰত গণনা কৰা হয়?
+A) Selling Price / বিক্ৰী মূল্য
+B) Cost Price / ক্ৰয় মূল্য
+C) Marked Price / চিহ্নিত মূল্য
+D) Discount / ৰেহাই
+Ans: B
+
+2. If SP = Rs. 840 and Profit = Rs. 140, find Profit %.
+
+যদি বিক্ৰী মূল্য = ৮৪০ টকা আৰু লাভ = ১৪০ টকা হয়, তেন্তে লাভ % নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 16.67% / ১৬.৬৭%
+D) 15% / ১৫%
+Ans: A
+
+3. If SP = Rs. 400 and Loss = Rs. 100, find Loss %.
+
+যদি বিক্ৰী মূল্য = ৪০০ টকা আৰু লোকচান = ১০০ টকা হয়, তেন্তে লোকচান % নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 15% / ১৫%
+D) 30% / ৩০%
+Ans: A
+
+4. If CP = Rs. 200 and SP = Rs. 180, find the loss percentage.
+
+যদি ক্ৰয় মূল্য = ২০০ টকা আৰু বিক্ৰী মূল্য = ১৮০ টকা হয়, তেন্তে লোকচানৰ শতাংশ নিৰ্ণয় কৰক।
+A) 10% / ১০%
+B) 20% / ২০%
+C) 15% / ১৫%
+D) 5% / ৫%
+Ans: A
+
+5. Find the effective discount of "Buy 2 Get 2 Free".
+
+"২ টা কিনিলে ২ টা বিনামূলীয়া" অফাৰৰ ফলপ্ৰসূ ৰেহাই নিৰ্ণয় কৰক।
+A) 50% / ৫০%
+B) 100% / ১০০%
+C) 25% / ২৫%
+D) 33.33% / ৩৩.৩৩%
+Ans: A
+
+6. A merchant marks goods 20% above CP and gives 20% discount. What is his net profit or loss %?
+
+এজন ব্যৱসায়ীয়ে ক্ৰয় মূল্যতকৈ ২০% বেছি মূল্য চিহ্নিত কৰে আৰু ২০% ৰেহাই দিয়ে। তেওঁৰ মুঠ লাভ বা লোকচান % কিমান?
+A) 4% loss / ৪% লোকচান
+B) 4% profit / ৪% লাভ
+C) No profit no loss / লাভ বা লোকচান একো নাই
+D) 2% loss / ২% লোকচান
+Ans: A
+
+7. An article listed at Rs. 800 is sold at two successive discounts of 25% and 15%. Find its SP.
+
+৮০০ টকা তালিকাভুক্ত এটা বস্তু ২৫% আৰু ১৫% ৰ দুটা ক্ৰমাগত ৰেহাইত বিক্ৰী হয়। ইয়াৰ বিক্ৰী মূল্য নিৰ্ণয় কৰক।
+A) Rs. 510 / ৫১০ টকা
+B) Rs. 500 / ৫০০ টকা
+C) Rs. 520 / ৫২০ টকা
+D) Rs. 480 / ৪৮০ টকা
+Ans: A
+
+8. On selling an item for Rs. 160, a shopkeeper loses 20%. At what price must he sell it to gain 10%?
+
+১৬০ টকাত এটা বস্তু বিক্ৰী কৰি এজন দোকানদাৰৰ ২০% লোকচান হয়। ১০% লাভ কৰিবলৈ তেওঁ কিমান দামত বিক্ৰী কৰিব লাগিব?
+A) Rs. 220 / ২২০ টকা
+B) Rs. 200 / ২০০ টকা
+C) Rs. 210 / ২১০ টকা
+D) Rs. 240 / ২৪০ টকা
+Ans: A
+
+9. Loss percentage is calculated as:
+
+লোকচানৰ শতাংশ কেনেকৈ গণনা কৰা হয়?
+A) (Loss/CP) * 100 / (লোকচান/ক্ৰয় মূল্য) * ১০০
+B) (Loss/SP) * 100 / (লোকচান/বিক্ৰী মূল্য) * ১০০
+C) (CP/Loss) * 100 / (ক্ৰয় মূল্য/লোকচান) * ১০০
+D) (Loss/MP) * 100 / (লোকচান/চিহ্নিত মূল্য) * ১০০
+Ans: A
+
+10. Profit percentage is calculated as:
+
+লাভৰ শতাংশ কেনেকৈ গণনা কৰা হয়?
+A) (Profit/CP) * 100 / (লাভ/ক্ৰয় মূল্য) * ১০০
+B) (Profit/SP) * 100 / (লাভ/বিক্ৰী মূল্য) * ১০০
+C) (CP/Profit) * 100 / (ক্ৰয় মূল্য/লাভ) * ১০০
+D) (Profit/MP) * 100 / (লাভ/চিহ্নিত মূল্য) * ১০০
+Ans: A
+
+11. If CP = Rs. 150 and profit = Rs. 30, find SP.
+
+যদি ক্ৰয় মূল্য = ১৫০ টকা আৰু লাভ = ৩০ টকা হয়, তেন্তে বিক্ৰী মূল্য নিৰ্ণয় কৰক।
+A) Rs. 180 / ১৮০ টকা
+B) Rs. 120 / ১২০ টকা
+C) Rs. 200 / ২০০ টকা
+D) Rs. 160 / ১৬০ টকা
+Ans: A
+
+12. If SP = Rs. 250 and loss = Rs. 50, find CP.
+
+যদি বিক্ৰী মূল্য = ২৫০ টকা আৰু লোকচান = ৫০ টকা হয়, তেন্তে ক্ৰয় মূল্য নিৰ্ণয় কৰক।
+A) Rs. 300 / ৩০০ টকা
+B) Rs. 200 / ২০০ টকা
+C) Rs. 350 / ৩৫০ টকা
+D) Rs. 220 / ২২০ টকা
+Ans: A
+
+13. If MP = Rs. 600 and discount = 15%, find SP.
+
+যদি চিহ্নিত মূল্য = ৬০০ টকা আৰু ৰেহাই = ১৫% হয়, তেন্তে বিক্ৰী মূল্য নিৰ্ণয় কৰক।
+A) Rs. 510 / ৫১০ টকা
+B) Rs. 500 / ৫০০ টকা
+C) Rs. 520 / ৫২০ টকা
+D) Rs. 490 / ৪৯০ টকা
+Ans: A
+
+14. By selling a pen for Rs. 48, a man loses 20%. What is the cost price?
+
+৪৮ টকাত এটা কলম বিক্ৰী কৰি এজন মানুহৰ ২০% লোকচান হয়। ক্ৰয় মূল্য কিমান?
+A) Rs. 60 / ৬০ টকা
+B) Rs. 55 / ৫৫ টকা
+C) Rs. 50 / ৫০ টকা
+D) Rs. 65 / ৬৫ টকা
+Ans: A
+
+15. Two successive discounts of 10% and 5% are equal to a single discount of:
+
+১০% আৰু ৫% ৰ দুটা ক্ৰমাগত ৰেহাই তলৰ কোনটো একক ৰেহাইৰ সমান?
+A) 14.5% / ১৪.৫%
+B) 15% / ১৫%
+C) 14% / ১৪%
+D) 15.5% / ১৫.৫%
+Ans: A
+
+16. Cost price of 8 pens is equal to selling price of 6 pens. Profit percentage is:
+
+৮ টা কলমৰ ক্ৰয় মূল্য ৬ টা কলমৰ বিক্ৰী মূল্যৰ সমান। লাভৰ শতাংশ হ'ল:
+A) 33.33% / ৩৩.৩৩%
+B) 25% / ২৫%
+C) 20% / ২০%
+D) 30% / ৩০%
+Ans: A
+
+17. A toy bought for Rs. 180 is sold for Rs. 216. Find profit percentage.
+
+১৮০ টকাত কিনা খেলনা এটা ২১৬ টকাত বিক্ৰী কৰা হয়। লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 15% / ১৫%
+C) 18% / ১৮%
+D) 25% / ২৫%
+Ans: A
+
+18. If a shopkeeper sells an article at Rs. 330 and earns a profit of 10%, find CP.
+
+যদি এজন দোকানদাৰে ৩৩০ টকাত এটা বস্তু বিক্ৰী কৰি ১০% লাভ কৰে, ক্ৰয় মূল্য নিৰ্ণয় কৰক।
+A) Rs. 300 / ৩০০ টকা
+B) Rs. 290 / ২৯০ টকা
+C) Rs. 310 / ৩১০ টকা
+D) Rs. 320 / ৩২০ টকা
+Ans: A
+
+19. A table bought for Rs. 1500 was sold at a loss of 10%. Find SP.
+
+১৫০০ টকাত কিনা মেজ এখন ১০% লোকচানত বিক্ৰী কৰা হৈছিল। বিক্ৰী মূল্য নিৰ্ণয় কৰক।
+A) Rs. 1350 / ১৩৫০ টকা
+B) Rs. 1400 / ১৪০০ টকা
+C) Rs. 1300 / ১৩০০ টকা
+D) Rs. 1380 / ১৩৮০ টকা
+Ans: A
+
+20. Find marked price when SP = Rs. 360 and Discount = 10%.
+
+বিক্ৰী মূল্য = ৩৬০ টকা আৰু ৰেহাই = ১০% হ'লে চিহ্নিত মূল্য নিৰ্ণয় কৰক।
+A) Rs. 400 / ৪০০ টকা
+B) Rs. 390 / ৩৯০ টকা
+C) Rs. 410 / ৪১০ টকা
+D) Rs. 420 / ৪২০ টকা
+Ans: A
+
+21. A dealer buys an article for Rs. 380 and spends Rs. 20 on repairs. He sells it for Rs. 440. Profit % is:
+
+এজন ব্যৱসায়ীয়ে ৩৮০ টকাত এটা বস্তু কিনি মেৰামতত ২০ টকা খৰচ কৰে। তেওঁ ই ৪৪০ টকাত বিক্ৰী কৰে। লাভ % হ'ল:
+A) 10% / ১০%
+B) 12% / ১২%
+C) 15% / ১৫%
+D) 8% / ৮%
+Ans: A
+
+22. If SP of 5 objects = CP of 6 objects, find profit %.
+
+যদি ৫ টা বস্তুৰ বিক্ৰী মূল্য = ৬ টা বস্তুৰ ক্ৰয় মূল্য হয়, লাভ % নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 16.66% / ১৬.৬৬%
+D) 30% / ৩০%
+Ans: A
+
+23. Cost price of 15 articles is equal to selling price of 20 articles. Find loss percentage.
+
+১৫ টা বস্তুৰ ক্ৰয় মূল্য ২০ টা বস্তুৰ বিক্ৰী মূল্যৰ সমান। লোকচানৰ শতাংশ নিৰ্ণয় কৰক।
+A) 25% / ২৫%
+B) 20% / ২০%
+C) 30% / ৩০%
+D) 15% / ১৫%
+Ans: A
+
+24. If the cost price is Rs. 80 and selling price is Rs. 100, find profit percentage.
+
+যদি ক্ৰয় মূল্য ৮০ টকা আৰু বিক্ৰী মূল্য ১০০ টকা হয়, তেন্তে লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 25% / ২৫%
+B) 20% / ২০%
+C) 15% / ১৫%
+D) 30% / ৩০%
+Ans: A
+
+25. If CP is Rs. 100 and loss is 20%, find SP.
+
+যদি ক্ৰয় মূল্য ১০০ টকা আৰু লোকচান ২০% হয়, তেন্তে বিক্ৰী মূল্য নিৰ্ণয় কৰক।
+A) Rs. 80 / ৮০ টকা
+B) Rs. 85 / ৮৫ টকা
+C) Rs. 90 / ৯০ টকা
+D) Rs. 75 / ৭৫ টকা
+Ans: A

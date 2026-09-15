@@ -1,0 +1,224 @@
+1. A coin is tossed once. What is the probability of getting a head?
+
+এটা মুদ্ৰা এবাৰ টছ কৰা হয়। মূৰ (Head) পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/2 / ১/২
+B) 1/4 / ১/৪
+C) 1/3 / ১/৩
+D) 3/4 / ৩/৪
+Ans: A
+
+2. A fair die is thrown. What is the probability of getting an even number?
+
+এটা নিৰপেক্ষ পাশাগুটি মৰা হয়। এটা যোৰ সংখ্যা পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/6 / ১/৬
+B) 1/2 / ১/২
+C) 1/3 / ১/৩
+D) 2/3 / ২/৩
+Ans: B
+
+3. Two unbiased coins are tossed. What is the probability of getting at most one head?
+
+দুটা পক্ষপাতহীন মুদ্ৰা টছ কৰা হয়। সৰ্বাধিক এটা মূৰ (Head) পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/4 / ১/৪
+B) 1/2 / ১/২
+C) 3/4 / ৩/৪
+D) 1 / ১
+Ans: C
+
+4. A card is drawn from a well-shuffled pack of 52 cards. What is the probability of getting a king?
+
+৫২ খন তাছৰ এটা ভালদৰে মিহলোৱা পেকেটৰ পৰা এখন তাছ টানি উলিওৱা হয়। ৰজা (King) পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/13 / ১/১৩
+B) 1/26 / ১/২৬
+C) 1/52 / ১/৫২
+D) 4/13 / ৪/১৩
+Ans: A
+
+5. From a pack of 52 cards, one card is drawn at random. What is the probability that the card drawn is a face card?
+
+৫২ খন তাছৰ পেকেটৰ পৰা যাদৃচ্ছিকভাৱে এখন তাছ উলিওৱা হয়। তাছখন মুখমণ্ডল থকা তাছ (Face card) হোৱাৰ সম্ভাৱনা কিমান?
+A) 1/13 / ১/১৩
+B) 4/13 / ৪/১৩
+C) 3/13 / ৩/১৩
+D) 9/52 / ৯/৫২
+Ans: C
+
+6. A bag contains 6 black and 8 white balls. One ball is drawn at random. What is the probability that the ball drawn is white?
+
+এটা মোনাত ৬ টা ক'লা আৰু ৮ টা বগা বল আছে। যাদৃচ্ছিকভাৱে এটা বল উলিওৱা হয়। বলটো বগা হোৱাৰ সম্ভাৱনা কিমান?
+A) 3/7 / ৩/৭
+B) 4/7 / ৪/৭
+C) 1/8 / ১/৮
+D) 3/4 / ৩/৪
+Ans: B
+
+7. Two dice are thrown simultaneously. What is the probability of getting two numbers whose sum is 8?
+
+দুটা পাশাগুটি একেলগে মৰা হয়। যোৰা দুটাৰ যোগফল ৮ হোৱাৰ সম্ভাৱনা কিমান?
+A) 5/36 / ৫/৩৬
+B) 1/6 / ১/৬
+C) 7/36 / ৭/৩৬
+D) 1/9 / ১/৯
+Ans: A
+
+8. What is the probability that a leap year selected at random will contain 53 Sundays?
+
+যাদৃচ্ছিকভাৱে বাছি লোৱা এটা অধিবৰ্ষত (Leap year) ৫৩ টা দেওবাৰ থকাৰ সম্ভাৱনা কিমান?
+A) 1/7 / ১/৭
+B) 2/7 / ২/৭
+C) 3/7 / ৩/৭
+D) 53/366 / ৫৩/৩৬৬
+Ans: B
+
+9. What is the probability that a non-leap year contains 53 Mondays?
+
+এটা সাধাৰণ বৰ্ষত (Non-leap year) ৫৩ টা সোমবাৰ থকাৰ সম্ভাৱনা কিমান?
+A) 1/7 / ১/৭
+B) 2/7 / ২/৭
+C) 53/365 / ৫৩/৩৬৫
+D) 3/7 / ৩/৭
+Ans: A
+
+10. Two cards are drawn together from a pack of 52 cards. The probability that one is a spade and one is a heart is:
+
+৫২ খন তাছৰ পেকেটৰ পৰা একেলগে দুখন তাছ উলিওৱা হয়। এখন ইস্কাপন (Spade) আৰু এখন হৰ্তন (Heart) হোৱাৰ সম্ভাৱনা হৈছে:
+A) 13/102 / ১৩/১০২
+B) 26/51 / ২৬/৫১
+C) 1/4 / ১/৪
+D) 1/13 / ১/১৩
+Ans: A
+
+11. A letter is chosen at random from the word PROBABILITY. What is the probability that it is a vowel?
+
+PROBABILITY শব্দটোৰ পৰা যাদৃচ্ছিকভাৱে এটা আখৰ বাছি লোৱা হয়। আখৰটো স্বৰবৰ্ণ (Vowel) হোৱাৰ সম্ভাৱনা কিমান?
+A) 3/11 / ৩/১১
+B) 4/11 / ৪/১১
+C) 5/11 / ৫/১১
+D) 2/11 / ২/১১
+Ans: B
+
+12. Three unbiased coins are tossed. What is the probability of getting at least two heads?
+
+তিনিটা পক্ষপাতহীন মুদ্ৰা টছ কৰা হয়। কমেও দুটা মূৰ (Head) পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/4 / ১/৪
+B) 1/2 / ১/২
+C) 3/8 / ৩/৮
+D) 5/8 / ৫/৮
+Ans: B
+
+13. In a single throw of two dice, what is the probability of getting a doublet (same number on both)?
+
+দুটা পাশাগুটি এবাৰ মাৰিলে, এটা জোৰা (দুয়োটাতে একে সংখ্যা) পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/6 / ১/৬
+B) 1/12 / ১/১২
+C) 1/36 / ১/৩৬
+D) 5/36 / ৫/৩৬
+Ans: A
+
+14. Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?
+
+১ ৰ পৰা ২০ লৈ ক্ৰমিক নম্বৰ থকা টিকট মিহলি কৰা হয় আৰু তাৰ পিছত যাদৃচ্ছিকভাৱে এটা টিকট উলিওৱা হয়। টিকটটোৰ নম্বৰ ৩ বা ৫ ৰ গুণিতক হোৱাৰ সম্ভাৱনা কিমান?
+A) 8/20 / ৮/২০
+B) 9/20 / ৯/২০
+C) 1/2 / ১/২
+D) 2/5 / ২/৫
+Ans: B
+
+15. A and B try to solve a problem independently. The probability that A solves it is 1/3 and B solves it is 1/4. What is the probability that the problem is solved?
+
+A আৰু B এ স্বাতন্ত্ৰভাৱে এটা সমস্যা সমাধান কৰিবলৈ চেষ্টা কৰে। A এ সমাধান কৰাৰ সম্ভাৱনা ১/৩ আৰু B এ সমাধান কৰাৰ সম্ভাৱনা ১/৪। সমস্যাটো সমাধান হোৱাৰ সম্ভাৱনা কিমান?
+A) 1/2 / ১/২
+B) 7/12 / ৭/১২
+C) 1/12 / ১/১২
+D) 5/12 / ৫/১২
+Ans: A
+
+16. A box contains 5 red, 4 green and 3 blue balls. If three balls are drawn at random, what is the probability that all three are red?
+
+এটা বাকচত ৫ টা ৰঙা, ৪ টা সেউজীয়া আৰু ৩ টা নীলা বল আছে। যদি যাদৃচ্ছিকভাৱে ৩ টা বল উলিওৱা হয়, তেন্তে তিনিওটা ৰঙা হোৱাৰ সম্ভাৱনা কিমান?
+A) 1/22 / ১/২২
+B) 3/22 / ৩/২২
+C) 5/22 / ৫/২২
+D) 1/11 / ১/১১
+Ans: A
+
+17. In a single draw from a pack of 52 cards, what is the probability of getting an Ace or a King?
+
+৫২ খন তাছৰ পেকেটৰ পৰা এবাৰ টানি উলিওৱাত টেক্কা (Ace) বা ৰজা (King) পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/13 / ১/১৩
+B) 2/13 / ২/১৩
+C) 4/13 / ৪/১৩
+D) 1/26 / ১/২৬
+Ans: B
+
+18. A die is rolled. What is the probability of getting a number greater than 4?
+
+এটা পাশাগুটি মৰা হয়। ৪ তকৈ ডাঙৰ সংখ্যা পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/3 / ১/৩
+B) 1/2 / ১/২
+C) 2/3 / ২/৩
+D) 1/6 / ১/৬
+Ans: A
+
+19. Two dice are thrown together. What is the probability that the sum of the numbers on the two faces is at least 10?
+
+দুটা পাশাগুটি একেলগে মৰা হয়। দুয়োটা পিঠিৰ সংখ্যাৰ যোগফল কমেও ১০ হোৱাৰ সম্ভাৱনা কিমান?
+A) 1/6 / ১/৬
+B) 5/36 / ৫/৩৬
+C) 1/12 / ১/১২
+D) 1/4 / ১/৪
+Ans: A
+
+20. In a class, there are 15 boys and 10 girls. Three students are selected at random. The probability that 1 girl and 2 boys are selected is:
+
+এটা শ্ৰেণীত ১৫ জন ল'ৰা আৰু ১০ জনী ছোৱালী আছে। যাদৃচ্ছিকভাৱে ৩ জন ছাত্ৰ-ছাত্ৰী বাছি লোৱা হয়। ১ জনী ছোৱালী আৰু ২ জন ল'ৰা বাছনি হোৱাৰ সম্ভাৱনা হৈছে:
+A) 21/46 / ২১/৪৬
+B) 25/117 / ২৫/১১৭
+C) 1/5 / ১/৫
+D) 3/25 / ৩/২৫
+Ans: A
+
+21. A card is drawn from a pack of 52 cards. What is the probability that the card drawn is not an Ace?
+
+৫২ খন তাছৰ পেকেটৰ পৰা এখন তাছ টানি উলিওৱা হয়। তাছখন টেক্কা (Ace) নহোৱাৰ সম্ভাৱনা কিমান?
+A) 1/13 / ১/১৩
+B) 12/13 / ১২/১৩
+C) 4/13 / ৪/১৩
+D) 11/13 / ১১/১৩
+Ans: B
+
+22. A single die is thrown. What is the probability of getting an odd number?
+
+এটা পাশাগুটি এবাৰ মৰা হয়। এটা অযুক্ত/বিষম সংখ্যা পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/3 / ১/৩
+B) 1/6 / ১/৬
+C) 1/2 / ১/২
+D) 2/3 / ২/৩
+Ans: C
+
+23. A bag contains 4 red, 5 blue and 6 green balls. One ball is drawn at random. What is the probability that the ball drawn is not red?
+
+এটা মোনাত ৪ টা ৰঙা, ৫ টা নীলা আৰু ৬ টা সেউজীয়া বল আছে। যাদৃচ্ছিকভাৱে এটা বল উলিওৱা হয়। বলটো ৰঙা নহোৱাৰ সম্ভাৱনা কিমান?
+A) 4/15 / ৪/১৫
+B) 11/15 / ১১/১৫
+C) 2/5 / ২/৫
+D) 3/5 / ৩/৫
+Ans: B
+
+24. In a single throw of two dice, what is the probability of getting a sum of 7?
+
+দুটা পাশাগুটি এবাৰ মাৰিলে, যোগফল ৭ পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/6 / ১/৬
+B) 5/36 / ৫/৩৬
+C) 1/12 / ১/১২
+D) 1/9 / ১/৯
+Ans: A
+
+25. Three unbiased coins are tossed. What is the probability of getting all tails?
+
+তিনিটা পক্ষপাতহীন মুদ্ৰা টছ কৰা হয়। আটাইকেইটা পুচ্ছ (Tail) পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/2 / ১/২
+B) 1/4 / ১/৪
+C) 1/8 / ১/৮
+D) 3/8 / ৩/৮
+Ans: C

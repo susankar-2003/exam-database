@@ -1,0 +1,224 @@
+1. If (x + y) : (x - y) = 4:1, then (x^2 + y^2) : (x^2 - y^2) is:
+
+যদি (x + y) : (x - y) = 4:1 হয়, তেন্তে (x^2 + y^2) : (x^2 - y^2) ৰ মান কিমান?
+A) 25:16 / ২৫:১৬
+B) 17:15 / ১৭:১৫
+C) 8:17 / ৮:১৭
+D) 16:9 / ১৬:৯
+Ans: B
+
+2. What number must be added to each of 6, 14, 18, 38 so that the resulting numbers are in proportion?
+
+৬, ১৪, ১৮, ৩৮ ৰ প্ৰত্যেকৰে সৈতে কি সংখ্যা যোগ কৰিলে নতুন সংখ্যাবোৰ সমানুপাতত থাকিব?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: B
+
+3. The ratio of boys to girls in a school is 7:5. If total students are 720, find the number of girls.
+
+এখন বিদ্যালয়ত ল'ৰা আৰু ছোৱালীৰ অনুপাত ৭:৫। যদি মুঠ ছাত্ৰ-ছাত্ৰীৰ সংখ্যা ৭২০ হয়, তেন্তে ছোৱালীৰ সংখ্যা নিৰ্ণয় কৰক।
+A) 300 / ৩০০
+B) 420 / ৪২০
+C) 360 / ৩৬০
+D) 280 / ২৮০
+Ans: A
+
+4. Three numbers are in the ratio 1:2:3 and the sum of their cubes is 4500. Find the numbers.
+
+তিনিটা সংখ্যা ১:২:৩ অনুপাতত আছে আৰু সিহঁতৰ ঘনৰ যোগফল ৪৫০০। সংখ্যাকেইটা নিৰ্ণয় কৰক।
+A) 5, 10, 15 / ৫, ১০, ১৫
+B) 4, 8, 12 / ৪, ৮, ১২
+C) 3, 6, 9 / ৩, ৬, ৯
+D) 6, 12, 18 / ৬, ১২, ১৮
+Ans: A
+
+5. If A/3 = B/4 = C/5, then A:B:C is:
+
+যদি A/3 = B/4 = C/5 হয়, তেন্তে A:B:C ৰ মান কিমান?
+A) 4:3:5 / ৪:৩:৫
+B) 5:4:3 / ৫:৪:৩
+C) 3:4:5 / ৩:৪:৫
+D) 20:15:12 / ২০:১৫:১২
+Ans: C
+
+6. A fraction bearing the same ratio to 1/27 as 3/11 does to 5/9 is:
+
+১/২৭ ৰ সৈতে একে অনুপাত থকা ভগ্নাংশটো কিমান যিদৰে ৩/১১ ৰ অনুপাত ৫/৯ ৰ সৈতে?
+A) 1/55 / ১/৫৫
+B) 55 / ৫৫
+C) 3/11 / ৩/১১
+D) 1/11 / ১/১১
+Ans: A
+
+7. The salaries of A, B, and C are in the ratio 2:3:5. If increments of 15%, 10%, and 20% are allowed, then what will be the new ratio of their salaries?
+
+A, B, আৰু C ৰ দৰমহা ২:৩:৫ অনুপাতত আছে। যদি ক্ৰমে ১৫%, ১০%, আৰু ২০% দৰমহা বৃদ্ধি কৰা হয়, তেন্তে সিহঁতৰ নতুন দৰমহাৰ অনুপাত কি হ'ব?
+A) 23:33:60 / ২৩:৩৩:৬০
+B) 33:23:60 / ৩৩:২৩:৬০
+C) 23:60:33 / ২৩:৬০:৩৩
+D) 26:33:60 / ২৬:৩৩:৬০
+Ans: A
+
+8. Two numbers are respectively 20% and 50% more than a third number. The ratio of the two numbers is:
+
+দুটা সংখ্যা তৃতীয় এটা সংখ্যাতকৈ ক্ৰমে ২০% আৰু ৫০% বেছি। সংখ্যা দুটাৰ অনুপাত কিমান?
+A) 2:5 / ২:৫
+B) 3:5 / ৩:৫
+C) 4:5 / ৪:৫
+D) 6:7 / ৬:৭
+Ans: C
+
+9. A mixture contains alcohol and water in the ratio 4:3. If 5 liters of water is added to the mixture, the ratio becomes 4:5. Find the quantity of alcohol in the mixture.
+
+এটা মিশ্ৰণত এলকহল আৰু পানী ৪:৩ অনুপাতত আছে। যদি মিশ্ৰণটোত ৫ লিটাৰ পানী যোগ কৰা হয়, অনুপাতটো ৪:৫ হয়। মিশ্ৰণটোত এলকহলৰ পৰিমাণ নিৰ্ণয় কৰক।
+A) 10 liters / ১০ লিটাৰ
+B) 12 liters / ১২ লিটাৰ
+C) 15 liters / ১৫ লিটাৰ
+D) 20 liters / ২০ লিটাৰ
+Ans: A
+
+10. The ratio of sides of a triangle is 1/2 : 1/3 : 1/4 and its perimeter is 104 cm. The longest side is:
+
+এটা ত্ৰিভুজৰ বাহুৰ অনুপাত ১/২ : ১/৩ : ১/৪ আৰু ইয়াৰ পৰিসীমা ১০৪ চে.মি.। আটাইতকৈ দীঘল বাহুটো কিমান?
+A) 52 cm / ৫২ চে.মি.
+B) 48 cm / ৪৮ চে.মি.
+C) 32 cm / ৩২ চে.মি.
+D) 24 cm / ২৪ চে.মি.
+Ans: B
+
+11. If A is 20% more than B, and B is 30% less than C, find A:C.
+
+যদি A, B তকৈ ২০% বেছি আৰু B, C তকৈ ৩০% কম হয়, তেন্তে A:C নিৰ্ণয় কৰক।
+A) 21:25 / ২১:২৫
+B) 42:50 / ৪২:৫০
+C) 12:25 / ১২:২৫
+D) 84:100 / ৮৪: ১০০
+Ans: A
+
+12. A gold ingot was broken into three pieces in the weight ratio 2:3:4. If the value of gold is directly proportional to the square of its weight, find the loss percentage if the original ingot was worth Rs. 8100.
+
+এটা সোণৰ বাৰ ভৰৰ অনুপাত ২:৩:৪ ত তিনিটা টুকুৰাত ভাঙি গ'ল। যদি সোণৰ মূল্য ইয়াৰ ভৰৰ বৰ্গৰ সৈতে পোনপটীয়া সমানুপাতিক হয়, তেন্তে মূল বাৰটোৰ মূল্য ৮১০০ টকা হ'লে লোকচানৰ শতাংশ নিৰ্ণয় কৰক।
+A) 64.2% / ৬৪.২%
+B) 64.20% / ৬৪.২০%
+C) 60.5% / ৬০.৫%
+D) 64.19% / ৬৪.১৯%
+Ans: A
+
+13. The mean proportional between (3 + sqrt(2)) and (12 - sqrt(32)) is:
+
+(3 + sqrt(2)) আৰু (12 - sqrt(32)) ৰ মধ্য সমানুপাতী কিমান?
+A) 2 / ২
+B) 7 / ৭
+C) 6 / ৬
+D) sqrt(7) / sqrt(৭)
+Ans: C
+
+14. In a regiment, the ratio of officers to soldiers was 3:31 before a battle. In the battle, 6 officers and 22 soldiers were killed and the ratio became 1:13. Find the number of officers before the battle.
+
+যুদ্ধৰ আগতে এটা ৰেজিমেণ্টত বিষয়া আৰু সৈনিকৰ অনুপাত আছিল ৩:৩১। যুদ্ধত ৬ জন বিষয়া আৰু ২২ জন সৈনিক নিহত হৈছিল আৰু অনুপাতটো ১:১৩ হৈ পৰিছিল। যুদ্ধৰ আগতে বিষয়াৰ সংখ্যা কিমান আছিল?
+A) 21 / ২১
+B) 18 / ১৮
+C) 31 / ৩১
+D) 15 / ১৫
+Ans: A
+
+15. If (a + b) : (b + c) : (c + a) = 6:7:8 and a + b + c = 14, then the value of c is:
+
+যদি (a + b) : (b + c) : (c + a) = 6:7:8 আৰু a + b + c = 14 হয়, তেন্তে c ৰ মান কিমান?
+A) 6 / ৬
+B) 7 / ৭
+C) 8 / ৮
+D) 14 / ১৪
+Ans: A
+
+16. Divide Rs. 1050 among A, B, and C such that A's share is 2/5 of the combined share of B and C. Find A's share.
+
+১০৫০ টকা A, B, আৰু C ৰ মাজত এনেদৰে ভাগ কৰক যাতে A ৰ অংশ B আৰু C ৰ একত্ৰিত অংশৰ ২/৫ হয়। A ৰ অংশ নিৰ্ণয় কৰক।
+A) Rs. 300 / ৩০০ টকা
+B) Rs. 200 / ২০০ টকা
+C) Rs. 400 / ৪০০ টকা
+D) Rs. 250 / ২৫০ টকা
+Ans: A
+
+17. If 15% of A = 20% of B, then A:B is equal to:
+
+যদি A ৰ ১৫% = B ৰ ২০% হয়, তেন্তে A:B ৰ মান কিমান?
+A) 3:4 / ৩:৪
+B) 4:3 / ৪:৩
+C) 17:16 / ১৭:১৬
+D) 16:17 / ১৬:১৭
+Ans: B
+
+18. The speed of three cars are in the ratio 2:3:4. The ratio of the time taken by these cars to travel the same distance is:
+
+তিনিখন গাড়ীৰ গতিৰ অনুপাত ২:৩:৪। একে দূৰত্ব অতিক্ৰম কৰিবলৈ গাড়ীকেইখনে লোৱা সময়ৰ অনুপাত কি হ'ব?
+A) 2:3:4 / ২:৩:৪
+B) 4:3:2 / ৪:৩:২
+C) 6:4:3 / ৬:৪:৩
+D) 3:4:6 / ৩:৪:৬
+Ans: C
+
+19. A bag contains Rs. 1, 50p and 25p coins in the ratio 2:3:4. If the total amount is Rs. 216, find the number of 50p coins.
+
+এটা মোনাত ১ টকা, ৫০ পৈচা আৰু ২৫ পৈচাৰ মুদ্ৰা ২:৩:৪ অনুপাতত আছে। যদি মুঠ মূল্য ২১৬ টকা হয়, ৫০ পৈচাৰ মুদ্ৰাৰ সংখ্যা নিৰ্ণয় কৰক।
+A) 144 / ১৪৪
+B) 120 / ১২০
+C) 96 / ৯৬
+D) 180 / ১৮০
+Ans: A
+
+20. Ratio of income of A to B is 5:4 and ratio of their expenditure is 3:2. If both save Rs. 800 each, find A's income.
+
+A আৰু B ৰ আয়ৰ অনুপাত ৫:৪ আৰু সিহঁতৰ ব্যয়ৰ অনুপাত ৩:২। যদি দুয়োজনে ৮০০ টকাকৈ সঞ্চয় কৰে, A ৰ আয় নিৰ্ণয় কৰক।
+A) Rs. 2000 / ২০০০ টকা
+B) Rs. 1600 / ১৬০০ টকা
+C) Rs. 2400 / ২৪০০ টকা
+D) Rs. 3000 / ৩০০০ টকা
+Ans: A
+
+21. What is the sub-duplicate ratio of 81:100?
+
+৮১:১০০ ৰ বৰ্গমূলীয় অনুপাত কিমান?
+A) 9:10 / ৯:১০
+B) 10:9 / ১০:৯
+C) 3:5 / ৩:৫
+D) 810:1000 / ৮১০:১০০০
+Ans: A
+
+22. The ratio of male to female employees in an office is 8:7. If 10 females leave, the ratio becomes 4:3. Find total employees initially.
+
+এটা কাৰ্যালয়ত পুৰুষ আৰু মহিলা কৰ্মচাৰীৰ অনুপাত ৮:৭। যদি ১০ গৰাকী মহিলাই চাকৰি এৰে, অনুপাতটো ৪:৩ হয়। প্ৰাৰম্ভিক মুঠ কৰ্মচাৰীৰ সংখ্যা নিৰ্ণয় কৰক।
+A) 150 / ১৫০
+B) 120 / ১২০
+C) 135 / ১৩৫
+D) 160 / ১৬০
+Ans: A
+
+23. If x:y = 5:2, then find (8x + 9y) : (8x + 2y).
+
+যদি x:y = 5:2 হয়, তেন্তে (8x + 9y) : (8x + 2y) নিৰ্ণয় কৰক।
+A) 58:44 / ৫৮:৪৪
+B) 29:22 / ২৯:২২
+C) 27:22 / ২৭:২২
+D) 29:24 / ২৯:২৪
+Ans: B
+
+24. Two whole numbers whose sum is 72 cannot be in the ratio:
+
+যি দুটা পূৰ্ণসংখ্যাৰ যোগফল ৭২, সেই সংখ্যা দুটা তলৰ কোনটো অনুপাতত থাকিব নোৱাৰে?
+A) 5:7 / ৫:৭
+B) 3:5 / ৩:৫
+C) 3:4 / ৩:৪
+D) 2:3 / ২:৩
+Ans: D
+
+25. If A:B = 2:3, B:C = 4:5, C:D = 6:7, find A:B:C:D.
+
+যদি A:B = 2:3, B:C = 4:5, C:D = 6:7 হয়, তেন্তে A:B:C:D নিৰ্ণয় কৰক।
+A) 16:24:30:35 / ১৬:২৪:৩০:৩৫
+B) 8:12:15:18 / ৮:১২:১৫:১৮
+C) 16:24:35:30 / ১৬:২৪:৩৫:৩০
+D) 4:6:10:14 / ৪:৬:১০:১৪
+Ans: A

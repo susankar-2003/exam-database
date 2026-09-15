@@ -1,0 +1,224 @@
+1. A man buys an article for Rs. 500 and sells it for Rs. 600. Find his profit percentage.
+
+এজন মানুহে এটা বস্তু ৫০০ টকাত কিনি ৬০০ টকাত বিক্ৰী কৰে। তেওঁৰ লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 10% / ১০%
+B) 20% / ২০%
+C) 15% / ১৫%
+D) 25% / ২৫%
+Ans: B
+
+2. A person bought a watch for Rs. 800 and sold it for Rs. 680. Find the loss percentage.
+
+এজন ব্যক্তিয়ে এটা ঘড়ী ৮০০ টকাত কিনি ৬৮০ টকাত বিক্ৰী কৰিলে। লোকচানৰ শতাংশ নিৰ্ণয় কৰক।
+A) 10% / ১০%
+B) 12% / ১২%
+C) 15% / ১৫%
+D) 20% / ২০%
+Ans: C
+
+3. Find the selling price of an article purchased for Rs. 450 and sold at a profit of 20%.
+
+৪৫০ টকাত ক্ৰয় কৰি ২০% লাভত বিক্ৰী কৰা এটা বস্তুৰ বিক্ৰী মূল্য নিৰ্ণয় কৰক।
+A) Rs. 540 / ৫৪০ টকা
+B) Rs. 520 / ৫২০ টকা
+C) Rs. 500 / ৫০০ টকা
+D) Rs. 560 / ৫৬০ টকা
+Ans: A
+
+4. By selling an article for Rs. 720, a man loses 10%. Find the cost price of the article.
+
+এটা বস্তু ৭২০ টকাত বিক্ৰী কৰি এজন মানুহৰ ১০% লোকচান হয়। বস্তুটোৰ ক্ৰয় মূল্য নিৰ্ণয় কৰক।
+A) Rs. 750 / ৭৫০ টকা
+B) Rs. 780 / ৭৮০ টকা
+C) Rs. 820 / ৮২০ টকা
+D) Rs. 800 / ৮০০ টকা
+Ans: D
+
+5. A trader marks his goods 30% above the cost price and allows a discount of 10%. Find his gain percentage.
+
+এজন ব্যৱসায়ীয়ে তেওঁৰ সামগ্ৰীৰ মূল্য ক্ৰয় মূল্যতকৈ ৩০% বেছি চিহ্নিত কৰে আৰু ১০% ৰেহাই দিয়ে। তেওঁৰ লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 17% / ১৭%
+B) 20% / ২০%
+C) 18% / ১৮%
+D) 15% / ১৫%
+Ans: A
+
+6. If the cost price of 10 articles is equal to the selling price of 8 articles, find the profit percentage.
+
+যদি ১০ টা বস্তুৰ ক্ৰয় মূল্য ৮ টা বস্তুৰ বিক্ৰী মূল্যৰ সমান হয়, তেন্তে লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 30% / ৩০%
+D) 15% / ১৫%
+Ans: B
+
+7. A single discount equivalent to two successive discounts of 20% and 10% is:
+
+২০% আৰু ১০% ৰ দুটা ক্ৰমাগত ৰেহাইৰ সমান একক ৰেহাই কিমান?
+A) 30% / ৩০%
+B) 25% / ২৫%
+C) 28% / ২৮%
+D) 22% / ২২%
+Ans: C
+
+8. By selling a chair for Rs. 1440, a shopkeeper gains 20%. What was the cost price?
+
+এখন চকী ১৪৪০ টকাত বিক্ৰী কৰি এজন দোকানদাৰে ২০% লাভ কৰে। ক্ৰয় মূল্য কিমান আছিল?
+A) Rs. 1200 / ১২০০ টকা
+B) Rs. 1250 / ১২৫০ টকা
+C) Rs. 1300 / ১৩০০ টকা
+D) Rs. 1150 / ১১৫০ টকা
+Ans: A
+
+9. Find the marked price of an article which is sold for Rs. 450 after giving a discount of 10%.
+
+১০% ৰেহাই দিয়াৰ পিছত ৪৫০ টকাত বিক্ৰী কৰা এটা বস্তুৰ চিহ্নিত মূল্য নিৰ্ণয় কৰক।
+A) Rs. 480 / ৪৮০ টকা
+B) Rs. 490 / ৪৯০ টকা
+C) Rs. 500 / ৫০০ টকা
+D) Rs. 520 / ৫২০ টকা
+Ans: C
+
+10. A dishonest dealer professes to sell his goods at cost price, but uses a weight of 900 grams for 1 kg. Find his gain percentage.
+
+এজন অসাধু ব্যৱসায়ীয়ে নিজৰ সামগ্ৰী ক্ৰয় মূল্যত বিক্ৰী কৰা বুলি কয়, কিন্তু ১ কেজিৰ সলনি ৯০০ গ্ৰামৰ ওজন ব্যৱহাৰ কৰে। তেওঁৰ লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 10% / ১০%
+B) 11.11% / ১১.১১%
+C) 12.5% / ১২.৫%
+D) 9.09% / ৯.০৯%
+Ans: B
+
+11. Two items are sold for Rs. 990 each. On one the seller gains 10% and on the other he loses 10%. What is his overall gain or loss percentage?
+
+দুটা বস্তু প্ৰত্যেকটো ৯৯০ টকাকৈ বিক্ৰী কৰা হয়। এটাত বিক্ৰেতাই ১০% লাভ কৰে আৰু আনটোত ১০% লোকচান কৰে। তেওঁৰ মুঠ লাভ বা লোকচানৰ শতাংশ কিমান?
+A) 1% profit / ১% লাভ
+B) No profit no loss / লাভ বা লোকচান একো নাই
+C) 1% loss / ১% লোকচান
+D) 2% loss / ২% লোকচান
+Ans: C
+
+12. A shopkeeper offers 'Buy 3 Get 1 Free'. What is the effective discount percentage?
+
+এজন দোকানদাৰে '৩ টা কিনিলে ১ টা বিনামূলীয়া' অফাৰ দিয়ে। ফলপ্ৰসূ ৰেহাই শতাংশ কিমান?
+A) 33.33% / ৩৩.৩৩%
+B) 25% / ২৫%
+C) 20% / ২০%
+D) 30% / ৩০%
+Ans: B
+
+13. If a man reduces the selling price of an article by Rs. 40, his profit changes from 15% to 10%. Find the cost price.
+
+যদি এজন মানুহে এটা বস্তুৰ বিক্ৰী মূল্য ৪০ টকা হ্ৰাস কৰে, তেওঁৰ লাভ ১৫% ৰ পৰা ১০% লৈ পৰিবৰ্তন হয়। ক্ৰয় মূল্য নিৰ্ণয় কৰক।
+A) Rs. 800 / ৮০০ টকা
+B) Rs. 600 / ৬০০ টকা
+C) Rs. 750 / ৭৫০ টকা
+D) Rs. 850 / ৮৫০ টকা
+Ans: A
+
+14. The cost price of an article is Rs. 250. If it is sold at a loss of 12%, find the selling price.
+
+এটা বস্তুৰ ক্ৰয় মূল্য ২৫০ টকা। যদি ই ১২% লোকচানত বিক্ৰী হয়, বিক্ৰী মূল্য নিৰ্ণয় কৰক।
+A) Rs. 210 / ২১০ টকা
+B) Rs. 220 / ২২০ টকা
+C) Rs. 230 / ২৩০ টকা
+D) Rs. 225 / ২২৫ টকা
+Ans: B
+
+15. Find the single discount equivalent to three successive discounts of 10%, 20%, and 30%.
+
+১০%, ২০%, আৰু ৩০% ৰ তিনিটা ক্ৰমাগত ৰেহাইৰ সমান একক ৰেহাই নিৰ্ণয় কৰক।
+A) 60% / ৬০%
+B) 50% / ৫০%
+C) 49.6% / ৪৯.৬%
+D) 50.4% / ৫০.৪%
+Ans: C
+
+16. On selling an article for Rs. 240, a man incurs a loss of 20%. At what price should he sell it to gain 20%?
+
+২৪০ টকাত এটা বস্তু বিক্ৰী কৰাত এজন মানুহৰ ২০% লোকচান হয়। ২০% লাভ কৰিবলৈ তেওঁ বস্তুটো কিমান দামত বিক্ৰী কৰিব লাগিব?
+A) Rs. 360 / ৩৬০ টকা
+B) Rs. 320 / ৩২০ টকা
+C) Rs. 300 / ৩০০ টকা
+D) Rs. 380 / ৩৮০ টকা
+Ans: A
+
+17. If cost price is Rs. 120 and profit is 25%, what is the selling price?
+
+যদি ক্ৰয় মূল্য ১২০ টকা আৰু লাভ ২৫% হয়, তেন্তে বিক্ৰী মূল্য কিমান?
+A) Rs. 140 / ১৪০ টকা
+B) Rs. 145 / ১৪৫ টকা
+C) Rs. 150 / ১৫০ টকা
+D) Rs. 160 / ১৬০ টকা
+Ans: C
+
+18. A bicycle was bought for Rs. 2500 and sold for Rs. 2700. What is the profit percentage?
+
+এটা চাইকেল ২৫০০ টকাত কিনি ২৭০০ টকাত বিক্ৰী কৰা হৈছিল। লাভৰ শতাংশ কিমান?
+A) 8% / ৮%
+B) 10% / ১০%
+C) 7.5% / ৭.৫%
+D) 8.5% / ৮.৫%
+Ans: A
+
+19. A merchant earns a profit of 20% by selling an article for Rs. 720. Find its cost price.
+
+এজন ব্যৱসায়ীয়ে এটা বস্তু ৭২০ টকাত বিক্ৰী কৰি ২০% লাভ কৰে। ইয়াৰ ক্ৰয় মূল্য নিৰ্ণয় কৰক।
+A) Rs. 600 / ৬০০ টকা
+B) Rs. 580 / ৫৮০ টকা
+C) Rs. 620 / ৬২০ টকা
+D) Rs. 650 / ৬৫০ টকা
+Ans: A
+
+20. What is the loss percentage if a radio bought for Rs. 1500 is sold for Rs. 1200?
+
+১৫০০ টকাত কিনা ৰেডিঅ' এটা ১২০০ টকাত বিক্ৰী কৰিলে লোকচানৰ শতাংশ কিমান?
+A) 15% / ১৫%
+B) 20% / ২০%
+C) 25% / ২৫%
+D) 18% / ১৮%
+Ans: B
+
+21. An article is sold at a loss of 15%. If the cost price is Rs. 400, find the loss amount.
+
+এটা বস্তু ১৫% লোকচানত বিক্ৰী কৰা হয়। যদি ক্ৰয় মূল্য ৪০০ টকা হয়, লোকচানৰ পৰিমাণ নিৰ্ণয় কৰক।
+A) Rs. 50 / ৫০ টকা
+B) Rs. 60 / ৬০ টকা
+C) Rs. 70 / ৭০ টকা
+D) Rs. 80 / ৮০ টকা
+Ans: B
+
+22. A shopkeeper marks an item at Rs. 1000 and allows two successive discounts of 10% and 5%. Find the selling price.
+
+এজন দোকানদাৰে এটা বস্তু ১০০০ টকাত চিহ্নিত কৰে আৰু ১০% আৰু ৫% ৰ দুটা ক্ৰমাগত ৰেহাই দিয়ে। বিক্ৰী মূল্য নিৰ্ণয় কৰক।
+A) Rs. 855 / ৮৫৫ টকা
+B) Rs. 850 / ৮৫০ টকা
+C) Rs. 860 / ৮৬০ টকা
+D) Rs. 845 / ৮৪৫ টকা
+Ans: A
+
+23. If the selling price of 12 pens is equal to the cost price of 15 pens, find the profit percentage.
+
+যদি ১২ টা কলমৰ বিক্ৰী মূল্য ১৫ টা কলমৰ ক্ৰয় মূল্যৰ সমান হয়, তেন্তে লাভৰ শতাংশ নিৰ্ণয় কৰক।
+A) 20% / ২০%
+B) 25% / ২৫%
+C) 30% / ৩০%
+D) 15% / ১৫%
+Ans: B
+
+24. Profit earned by selling an article for Rs. 832 is equal to the loss incurred when the same article is sold for Rs. 448. What is the cost price?
+
+এটা বস্তু ৮৩২ টকাত বিক্ৰী কৰি লাভ কৰা পৰিমাণ একেটা বস্তু ৪৪৮ টকাত বিক্ৰী কৰোঁতে হোৱা লোকচানৰ সমান। ক্ৰয় মূল্য কিমান?
+A) Rs. 640 / ৬৪০ টকা
+B) Rs. 620 / ৬২০ টকা
+C) Rs. 650 / ৬৫০ টকা
+D) Rs. 600 / ৬০০ টকা
+Ans: A
+
+25. A fan is listed at Rs. 1500 with a discount of 20%. What additional discount must be offered to bring the net price to Rs. 1104?
+
+এটা ফেনৰ তালিকাভুক্ত মূল্য ১৫০০ টকা আৰু ২০% ৰেহাই আছে। নিখুঁত মূল্য ১১০৪ টকালৈ আনিবলৈ আৰু কিমান অতিৰিক্ত ৰেহাই দিব লাগিব?
+A) 8% / ৮%
+B) 10% / ১০%
+C) 12% / ১২%
+D) 15% / ১৫%
+Ans: A

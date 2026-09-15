@@ -1,0 +1,224 @@
+1. Find the mean of the prime numbers between 20 and 30.
+
+২০ আৰু ৩০ ৰ মাজৰ মৌলিক সংখ্যাবোৰৰ গড় নিৰ্ণয় কৰক।
+A) 24 / ২৪
+B) 25 / ২৫
+C) 26 / ২৬
+D) 27 / ২৭
+Ans: C
+
+2. Find the mean of all factors of 12.
+
+১২ ৰ সকলো উৎপাদকৰ গড় নিৰ্ণয় কৰক।
+A) 4.0 / ৪.০
+B) 4.67 / ৪.৬৭
+C) 5.0 / ৫.০
+D) 4.33 / ৪.৩৩
+Ans: B
+
+3. Which measure of central tendency utilizes all values of a data set in its calculation?
+
+কেন্দ্ৰীয় প্ৰৱণতাৰ কোনটো মাপে গণনাৰ সময়ত তথ্য ৰাশিৰ সকলো মান ব্যৱহাৰ কৰে?
+A) Arithmetic Mean / গাণিতিক গড়
+B) Median / মধ্যমা
+C) Mode / বহুলক
+D) Range / পৰিসৰ
+Ans: A
+
+4. Find the mode of the dataset: 12, 15, 12, 18, 15, 12, 20, 15, 12.
+
+তথ্য ৰাশিটোৰ বহুলক নিৰ্ণয় কৰক: ১২, ১৫, ১২, ১৮, ১৫, ১২, ২০, ১৫, ১২।
+A) 15 / ১৫
+B) 12 / ১২
+C) 18 / ১৮
+D) 20 / ২০
+Ans: B
+
+5. Which curve is drawn using cumulative frequencies?
+
+ক্ৰমযোজিত বাৰংবাৰতা ব্যৱহাৰ কৰি কোনটো বক্ৰ ৰেখা অংকন কৰা হয়?
+A) Histogram / স্তম্ভলেখ
+B) Frequency Polygon / বাৰংবাৰতা বহুভুজ
+C) Ogive / অ'জিভ
+D) Pie chart / পাই চিত্ৰ
+Ans: C
+
+6. What is the variance of the first n natural numbers?
+
+প্ৰথম n টা স্বাভাৱিক সংখ্যাৰ প্ৰসৰণ কিমান?
+A) (n^2 - 1) / 12 / (n^২ - ১) / ১২
+B) (n^2 + 1) / 12 / (n^২ + ১) / ১২
+C) (n - 1) / 12 / (n - ১) / ১২
+D) (n^2 - 1) / 6 / (n^২ - ১) / ৬
+Ans: A
+
+7. Find the variance of the first 10 natural numbers.
+
+প্ৰথম ১০ টা স্বাভাৱিক সংখ্যাৰ প্ৰসৰণ নিৰ্ণয় কৰক।
+A) 8.25 / ৮.২৫
+B) 8.50 / ৮.৫০
+C) 9.25 / ৯.২৫
+D) 7.75 / ৭.৭৫
+Ans: A
+
+8. The mean of 10 numbers is 15. If each number is multiplied by 2 and then 3 is added to it, find the new mean.
+
+১০ টা সংখ্যাৰ গড় ১৫। যদি প্ৰতিটো সংখ্যা ২ ৰে পূৰণ কৰি তাত ৩ যোগ কৰা হয়, নতুন গড়টো কিমান হ'ব?
+A) 30 / ৩০
+B) 33 / ৩৩
+C) 35 / ৩৫
+D) 28 / ২৮
+Ans: B
+
+9. Percentiles divide a dataset into how many equal parts?
+
+শতাংশকে তথ্য ৰাশিক কেইটা সমান ভাগত বিভক্ত কৰে?
+A) 4 / ৪
+B) 10 / ১০
+C) 100 / ১০০
+D) 50 / ৫০
+Ans: C
+
+10. Quartiles divide an ordered dataset into how many equal parts?
+
+চতুৰ্থকে ক্ৰমানুসাৰে থকা তথ্য ৰাশিক কেইটা সমান ভাগত বিভক্ত কৰে?
+A) 2 / ২
+B) 4 / ৪
+C) 8 / ৮
+D) 10 / ১০
+Ans: B
+
+11. Deciles divide a dataset into how many equal parts?
+
+দশমকে তথ্য ৰাশিক কেইটা সমান ভাগত বিভক্ত কৰে?
+A) 5 / ৫
+B) 10 / ১০
+C) 100 / ১০০
+D) 4 / ৪
+Ans: B
+
+12. The 50th percentile is equivalent to which measure?
+
+৫০ তম শতাংশক কোনটো মাপৰ সমান?
+A) Mean / গড়
+B) Median / মধ্যমা
+C) Mode / বহুলক
+D) Upper quartile / উচ্চ চতুৰ্থক
+Ans: B
+
+13. Find the mean of: 0, 2, 4, 6, 8, 10.
+
+০, ২, ৪, ৬, ৮, ১০ ৰ গড় নিৰ্ণয় কৰক।
+A) 4 / ৪
+B) 5 / ৫
+C) 6 / ৬
+D) 4.5 / ৪.৫
+Ans: B
+
+14. If Mode = 3 Median - 2 Mean, and Median = 12, Mean = 15, what is Mode?
+
+যদি বহুলক = ৩ মধ্যমা - ২ গড়, আৰু মধ্যমা = ১২, গড় = ১৫ হয়, তেন্তে বহুলক কিমান?
+A) 6 / ৬
+B) 9 / ৯
+C) 10 / ১০
+D) 8 / ৮
+Ans: A
+
+15. If the mean of 6 observations is 12, what is the sum of all observations?
+
+যদি ৬ টা পৰ্যবেক্ষণৰ গড় ১২ হয়, তেন্তে সকলো পৰ্যবেক্ষণৰ যোগফল কিমান?
+A) 60 / ৬০
+B) 66 / ৬৬
+C) 72 / ৭২
+D) 84 / ৮৪
+Ans: C
+
+16. Find the geometric mean of 2, 4, and 8.
+
+২, ৪, আৰু ৮ ৰ জ্যামিতিক গড় নিৰ্ণয় কৰক।
+A) 4 / ৪
+B) 3 / ৩
+C) 5 / ৫
+D) 6 / ৬
+Ans: A
+
+17. Harmonic mean is the reciprocal of the arithmetic mean of:
+
+হৰাত্মক গড় হ'ল মানসমূহৰ কিহৰ গাণিতিক গড়ৰ বিপৰীত?
+A) Squares of values / মানবোৰৰ বৰ্গ
+B) Reciprocals of values / মানবোৰৰ বিপৰীত মান
+C) Cubes of values / মানবোৰৰ ঘন
+D) Square roots of values / মানবোৰৰ বৰ্গমূল
+Ans: B
+
+18. The sum of absolute deviations of observations is minimum when measured from:
+
+মানসমূহৰ নিৰপেক্ষ বিচ্যুতিৰ যোগফল কিহৰ সাপেক্ষে জোখিলে সৰ্বনিম্ন হয়?
+A) Mean / গড়
+B) Median / মধ্যমা
+C) Mode / বহুলক
+D) Zero / শূন্য
+Ans: B
+
+19. If all observations in a dataset are identical and equal to k, what is its standard deviation?
+
+যদি তথ্য ৰাশিৰ সকলো পৰ্যবেক্ষণ সমান আৰু k ৰ সমান হয়, তেন্তে ইয়াৰ মানক বিচ্যুতি কিমান?
+A) k
+B) k / 2
+C) 0
+D) 1
+Ans: C
+
+20. Find the mean of 1, 4, 9, 16, and 25.
+
+১, ৪, ৯, ১৬, আৰু ২৫ ৰ গড় নিৰ্ণয় কৰক।
+A) 11 / ১১
+B) 10 / ১০
+C) 12 / ১২
+D) 13 / ১৩
+Ans: A
+
+21. The mean of 5 numbers is 10. If each number is divided by 2, what is the new mean?
+
+৫ টা সংখ্যাৰ গড় ১০। যদি প্ৰতিটো সংখ্যা ২ ৰে ভাগ কৰা হয়, নতুন গড়টো কিমান হ'ব?
+A) 2.5 / ২.৫
+B) 5.0 / ৫.০
+C) 7.5 / ৭.৫
+D) 10.0 / ১০.০
+Ans: B
+
+22. Find the mode of the dataset: 3, 5, 7, 3, 5, 7, 3, 8.
+
+তথ্য ৰাশিটোৰ বহুলক নিৰ্ণয় কৰক: ৩, ৫, ৭, ৩, ৫, ৭, ৩, ৮।
+A) 3 / ৩
+B) 5 / ৫
+C) 7 / ৭
+D) 8 / ৮
+Ans: A
+
+23. The intersection point of 'less than ogive' and 'more than ogive' gives which value?
+
+'তাতকৈ কম' আৰু 'তাতকৈ বেছি' অ'জিভ বক্ৰৰ ছেদ বিন্দুৱে কোনটো মান প্ৰদান কৰে?
+A) Mean / গড়
+B) Median / মধ্যমা
+C) Mode / বহুলক
+D) Variance / প্ৰসৰণ
+Ans: B
+
+24. Find the mean of the first 7 prime numbers.
+
+প্ৰথম ৭ টা মৌলিক সংখ্যাৰ গড় নিৰ্ণয় কৰক।
+A) 8.29 / ৮.২৯
+B) 8.43 / ৮.৪৩
+C) 8.57 / ৮.৫৭
+D) 9.00 / ৯.০০
+Ans: A
+
+25. If the sum of squared deviations from the mean for 10 observations is 250, find the standard deviation.
+
+যদি ১০ টা পৰ্যবেক্ষণৰ গড়ৰ পৰা লোৱা বৰ্গ বিচ্যুতিৰ যোগফল ২৫০ হয়, তেন্তে মানক বিচ্যুতি নিৰ্ণয় কৰক।
+A) 5 / ৫
+B) 25 / ২৫
+C) 10 / ১০
+D) 15 / ১৫
+Ans: A

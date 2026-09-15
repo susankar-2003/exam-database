@@ -1,0 +1,224 @@
+1. Find the mean of the first 10 natural numbers.
+
+প্ৰথম ১০ টা স্বাভাৱিক সংখ্যাৰ গড় নিৰ্ণয় কৰক।
+A) 5.0 / ৫.০
+B) 5.5 / ৫.৫
+C) 6.0 / ৬.০
+D) 6.5 / ৬.৫
+Ans: B
+
+2. Find the mode of the dataset: 4, 7, 6, 8, 7, 5, 7, 3, 7.
+
+তালিকাখনৰ বহুলক নিৰ্ণয় কৰক: ৪, ৭, ৬, ৮, ৭, ৫, ৭, ৩, ৭।
+A) 4 / ৪
+B) 5 / ৫
+C) 7 / ৭
+D) 8 / ৮
+Ans: C
+
+3. Find the median of the numbers: 12, 15, 11, 19, 17, 21, 14.
+
+সংখ্যাকেইটাৰ মধ্যমা নিৰ্ণয় কৰক: ১২, ১৫, ১১, ১৯, ১৭, ২১, ১৪।
+A) 15 / ১৫
+B) 14 / ১৪
+C) 17 / ১৭
+D) 16 / ১৬
+Ans: A
+
+4. Find the median of the numbers: 8, 10, 15, 12, 18, 20.
+
+সংখ্যাকেইটাৰ মধ্যমা নিৰ্ণয় কৰক: ৮, ১০, ১৫, ১২, ১৮, ২০।
+A) 13 / ১৩
+B) 13.5 / ১৩.৫
+C) 14 / ১৪
+D) 14.5 / ১৪.৫
+Ans: B
+
+5. What is the empirical relationship between Mean, Median, and Mode?
+
+গড়, মধ্যমা আৰু বহুলকৰ মাজৰ প্ৰায়ে ব্যৱহৃত সম্পৰ্কটো কি?
+A) Mode = 3 Median - 2 Mean / বহুলক = ৩ মধ্যমা - ২ গড়
+B) Mode = 2 Median - 3 Mean / বহুলক = ২ মধ্যমা - ৩ গড়
+C) Mean = 3 Median - 2 Mode / গড় = ৩ মধ্যমা - ২ বহুলক
+D) Median = 3 Mode - 2 Mean / মধ্যমা = ৩ বহুলক - ২ গড়
+Ans: A
+
+6. If the mean of a distribution is 25 and the median is 23, find the mode.
+
+যদি এটা বিভাজনৰ গড় ২৫ আৰু মধ্যমা ২৩ হয়, তেন্তে বহুলক নিৰ্ণয় কৰক।
+A) 21 / ২১
+B) 20 / ২০
+C) 22 / ২২
+D) 19 / ১৯
+Ans: D
+
+7. Find the range of the data set: 15, 22, 8, 35, 19, 42, 11.
+
+তথ্যৰ ৰাশিটোৰ পৰিসৰ নিৰ্ণয় কৰক: ১৫, ২২, ৮, ৩৫, ১৯, ৪২, ১১।
+A) 34 / ৩৪
+B) 35 / ৩৫
+C) 32 / ৩২
+D) 30 / ৩০
+Ans: A
+
+8. The algebraic sum of deviations of a set of values from their arithmetic mean is always:
+
+গাণিতিক গড়ৰ পৰা মানসমূহৰ বিচ্যুতিক বাৰাংবাৰতাৰে পূৰণ কৰি পোৱা বিজগণিতীয় যোগফল সদায়:
+A) Positive / ধনাত্মক
+B) Negative / ঋণাত্মক
+C) Zero / শূন্য
+D) One / এক
+Ans: C
+
+9. Find the mean of the first 5 prime numbers.
+
+প্ৰথম ৫ টা মৌলিক সংখ্যাৰ গড় নিৰ্ণয় কৰক।
+A) 5.2 / ৫.২
+B) 5.6 / ৫.৬
+C) 5.4 / ৫.৪
+D) 6.0 / ৬.০
+Ans: B
+
+10. If the mean of 5 observations x, x+2, x+4, x+6, x+8 is 11, find x.
+
+যদি ৫ টা পৰ্যবেক্ষণ x, x+2, x+4, x+6, x+8 ৰ গড় ১১ হয়, তেন্তে x ৰ মান নিৰ্ণয় কৰক।
+A) 7 / ৭
+B) 6 / ৬
+C) 8 / ৮
+D) 9 / ৯
+Ans: A
+
+11. Variance is the square of which statistical measure?
+
+প্ৰসৰণ (Variance) কোনটো পৰিসাংখ্যিক মাপৰ বৰ্গ?
+A) Mean Deviation / গড় বিচ্যুতি
+B) Range / পৰিসৰ
+C) Standard Deviation / মানক বিচ্যুতি
+D) Mode / বহুলক
+Ans: C
+
+12. If the standard deviation of a dataset is 6, what is its variance?
+
+যদি এটা তথ্য ৰাশিৰ মানক বিচ্যুতি ৬ হয়, তেন্তে ইয়াৰ প্ৰসৰণ কিমান?
+A) 12 / ১২
+B) 18 / ১৮
+C) 24 / ২৪
+D) 36 / ৩৬
+Ans: D
+
+13. If the variance of a dataset is 81, what is its standard deviation?
+
+যদি এটা তথ্য ৰাশিৰ প্ৰসৰণ ৮১ হয়, তেন্তে ইয়াৰ মানক বিচ্যুতি কিমান?
+A) 81 / ৮১
+B) 9 / ৯
+C) 18 / ১৮
+D) 27 / ২৭
+Ans: B
+
+14. Find the mean of 10, 20, 30, 40, and 50.
+
+১০, ২০, ৩০, ৪০, আৰু ৫০ ৰ গড় নিৰ্ণয় কৰক।
+A) 30 / ৩০
+B) 25 / ২৫
+C) 35 / ৩৫
+D) 40 / ৪০
+Ans: A
+
+15. Which measure of central tendency is affected most by extreme values (outliers)?
+
+অতি চৰম মানৰ (Outliers) দ্বাৰা কেন্দ্ৰীয় প্ৰৱণতাৰ কোনটো মাপ আটাইতকৈ বেছি প্ৰভাৱিত হয়?
+A) Mean / গড়
+B) Median / মধ্যমা
+C) Mode / বহুলক
+D) Range / পৰিসৰ
+Ans: A
+
+16. The mode of a frequency distribution can be obtained graphically from which chart?
+
+বাৰংবাৰতা বিভাজনৰ বহুলক কোনটো লেখ চিত্ৰৰ পৰা ৰেখাচিত্ৰীয়ভাৱে পাব পাৰি?
+A) Histogram / স্তম্ভলেখ
+B) Ogive / অ'জিভ
+C) Frequency polygon / বাৰংবাৰতা বহুভুজ
+D) Pie chart / পাই চিত্ৰ
+Ans: A
+
+17. The middle value of an ordered data set is known as:
+
+ক্ৰমানুসাৰে সজোৱা তথ্য ৰাশিৰ মধ্যবৰ্তী মানটোক কি বোলা হয়?
+A) Mean / গড়
+B) Median / মধ্যমা
+C) Mode / বহুলক
+D) Variance / প্ৰসৰণ
+Ans: B
+
+18. What is the mean of the first 8 whole numbers?
+
+প্ৰথম ৮ টা অখণ্ড সংখ্যাৰ (Whole numbers) গড় কিমান?
+A) 3.5 / ৩.৫
+B) 4.0 / ৪.০
+C) 4.5 / ৪.৫
+D) 3.0 / ৩.০
+Ans: A
+
+19. Find the median of the observations: 25, 34, 31, 23, 22, 26, 35, 28, 20, 32.
+
+পৰ্যবেক্ষণসমূহৰ মধ্যমা নিৰ্ণয় কৰক: ২৫, ৩৪, ৩১, ২৩, ২২, ২৬, ৩৫, ২৮, ২০, ৩২।
+A) 26 / ২৬
+B) 28 / ২৮
+C) 27 / ২৭
+D) 26.5 / ২৬.৫
+Ans: C
+
+20. Coefficient of variation is calculated using which formula?
+
+প্ৰভেদাংক (Coefficient of variation) কোনটো সূত্ৰ ব্যৱহাৰ কৰি গণনা কৰা হয়?
+A) (Standard Deviation / Mean) * 100 / (মানক বিচ্যুতি / গড়) * ১০০
+B) (Mean / Standard Deviation) * 100 / (গড় / মানক বিচ্যুতি) * ১০০
+C) (Standard Deviation / Median) * 100 / (মানক বিচ্যুতি / মধ্যমা) * ১০০
+D) (Variance / Mean) * 100 / (প্ৰসৰণ / গড়) * ১০০
+Ans: A
+
+21. If the mean of a distribution is 40 and standard deviation is 8, what is the coefficient of variation?
+
+যদি এটা বিভাজনৰ গড় ৪০ আৰু মানক বিচ্যুতি ৮ হয়, তেন্তে প্ৰভেদাংক কিমান?
+A) 15% / ১৫%
+B) 20% / ২০%
+C) 25% / ২৫%
+D) 30% / ৩০%
+Ans: B
+
+22. The class mark of the class interval 20 - 30 is:
+
+২০ - ৩০ শ্ৰেণী অন্তৰালৰ শ্ৰেণী চিহ্ন (Class mark) কিমান?
+A) 20 / ২০
+B) 30 / ৩০
+C) 25 / ২৫
+D) 10 / ১০
+Ans: C
+
+23. The difference between the upper class limit and lower class limit is called:
+
+উচ্চ শ্ৰেণী সীমা আৰু নিম্ন শ্ৰেণী সীমাৰ পাৰ্থক্যক কি বোলা হয়?
+A) Class size / শ্ৰেণী আকাৰ
+B) Class mark / শ্ৰেণী চিহ্ন
+C) Range / পৰিসৰ
+D) Frequency / বাৰংবাৰতা
+Ans: A
+
+24. What is the mode of 2, 3, 4, 5, 6, 7?
+
+২, ৩, ৪, ৫, ৬, ৭ ৰ বহুলক কিমান?
+A) 2 / ২
+B) 4.5 / ৪.৫
+C) 7 / ৭
+D) No mode / কোনো বহুলক নাই
+Ans: D
+
+25. Find the mean deviation about mean for the data: 3, 6, 6, 7, 8, 11, 15, 16.
+
+তথ্য ৰাশিটোৰ গড়ৰ সাপেক্ষে গড় বিচ্যুতি নিৰ্ণয় কৰক: ৩, ৬, ৬, ৭, ৮, ১১, ১৫, ১৬।
+A) 3.25 / ৩.২৫
+B) 3.75 / ৩.৭৫
+C) 4.00 / ৪.০০
+D) 3.50 / ৩.৫০
+Ans: B

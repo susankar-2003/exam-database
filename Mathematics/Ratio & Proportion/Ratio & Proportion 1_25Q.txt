@@ -1,0 +1,224 @@
+1. If A:B = 2:3 and B:C = 4:5, then find A:C.
+
+যদি A:B = 2:3 আৰু B:C = 4:5 হয়, তেন্তে A:C নিৰ্ণয় কৰক।
+A) 8:15 / ৮:১৫
+B) 2:5 / ২:৫
+C) 6:15 / ৬:১৫
+D) 8:5 / ৮:৫
+Ans: A
+
+2. If A:B = 3:4 and B:C = 8:9, then find A:B:C.
+
+যদি A:B = 3:4 আৰু B:C = 8:9 হয়, তেন্তে A:B:C নিৰ্ণয় কৰক।
+A) 3:4:9 / ৩:৪:৯
+B) 3:8:9 / ৩:৮:৯
+C) 6:8:9 / ৬:৮:৯
+D) 6:8:7 / ৬:৮:৭
+Ans: C
+
+3. Find the fourth proportional to 4, 9, 12.
+
+৪, ৯, ১২ ৰ চতুৰ্থ সমানুপাতী নিৰ্ণয় কৰক।
+A) 18 / ১৮
+B) 27 / ২৭
+C) 36 / ৩৬
+D) 24 / ২৪
+Ans: B
+
+4. Find the third proportional to 16 and 36.
+
+১৬ আৰু ৩৬ ৰ তৃতীয় সমানুপাতী নিৰ্ণয় কৰক।
+A) 54 / ৫৪
+B) 72 / ৭২
+C) 64 / ৬৪
+D) 81 / ৮১
+Ans: D
+
+5. Find the mean proportional between 9 and 25.
+
+৯ আৰু ২৫ ৰ মধ্য সমানুপাতী নিৰ্ণয় কৰক।
+A) 15 / ১৫
+B) 16 / ১৬
+C) 20 / ২০
+D) 12 / ১২
+Ans: A
+
+6. Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new ratio is 12:23. Find the smaller number.
+
+দুটা সংখ্যা ৩:৫ অনুপাতত আছে। যদি প্ৰতিটোৰ পৰা ৯ বিয়োগ কৰা হয়, নতুন অনুপাত ১২:২৩ হয়। সৰু সংখ্যাটো নিৰ্ণয় কৰক।
+A) 27 / ২৭
+B) 33 / ৩৩
+C) 49 / ৪৯
+D) 55 / ৫৫
+Ans: B
+
+7. A sum of Rs. 1200 is divided among A, B, and C in the ratio 2:3:5. Find the share of B.
+
+১২০০ টকা A, B, আৰু C ৰ মাজত ২:৩:৫ অনুপাতত ভাগ কৰা হৈছে। B ৰ অংশ নিৰ্ণয় কৰক।
+A) Rs. 240 / ২৪০ টকা
+B) Rs. 360 / ৩৬০ টকা
+C) Rs. 600 / ৬০০ টকা
+D) Rs. 300 / ৩০০ টকা
+Ans: B
+
+8. If 2A = 3B = 4C, then A:B:C is equal to:
+
+যদি 2A = 3B = 4C হয়, তেন্তে A:B:C ৰ মান কিমান?
+A) 2:3:4 / ২:৩:৪
+B) 4:3:2 / ৪:৩:২
+C) 6:4:3 / ৬:৪:৩
+D) 3:4:6 / ৩:৪:৬
+Ans: C
+
+9. The ratio of two numbers is 4:5 and their LCM is 180. Find the smaller number.
+
+দুটা সংখ্যাৰ অনুপাত ৪:৫ আৰু সিহঁতৰ ল.সা.গু. ১৮০। সৰু সংখ্যাটো নিৰ্ণয় কৰক।
+A) 36 / ৩৬
+B) 45 / ৪৫
+C) 18 / ১৮
+D) 27 / ২৭
+Ans: A
+
+10. What is the duplicate ratio of 3:4?
+
+৩:৪ ৰ দ্বিগুণ অনুপাত (বৰ্গানুপাত) কিমান?
+A) 6:8 / ৬:৮
+B) 9:16 / ৯:১৬
+C) 27:64 / ২৭:৬৪
+D) 4:3 / ৪:৩
+Ans: B
+
+11. What is the sub-duplicate ratio of 25:36?
+
+২৫:৩৬ ৰ বৰ্গমূলীয় অনুপাত কিমান?
+A) 5:6 / ৫:৬
+B) 6:5 / ৬:৫
+C) 125:216 / ১২৫:২১৬
+D) 50:72 / ৫০:৭২
+Ans: A
+
+12. What is the triplicate ratio of 2:3?
+
+২:৩ ৰ ত্ৰিগুণ অনুপাত (ঘনানুপাত) কিমান?
+A) 4:9 / ৪:৯
+B) 6:9 / ৬:৯
+C) 8:27 / ৮:২৭
+D) 16:81 / ১৬:৮১
+Ans: C
+
+13. What is the sub-triplicate ratio of 27:125?
+
+২৭:১২৫ ৰ ঘনমূলীয় অনুপাত কিমান?
+A) 3:5 / ৩:৫
+B) 9:25 / ৯:২৫
+C) 5:3 / ৫:৩
+D) 1:5 / ১:৫
+Ans: A
+
+14. What is the inverse ratio of 4:5?
+
+৪:৫ ৰ বিপৰীত অনুপাত কিমান?
+A) 5:4 / ৫:৪
+B) 16:25 / ১৬:২৫
+C) 1:4 / ১:৪
+D) 25:16 / ২৫:১৬
+Ans: A
+
+15. If A:B = 1:2, B:C = 3:4, C:D = 5:6, find A:D.
+
+যদি A:B = 1:2, B:C = 3:4, আৰু C:D = 5:6 হয়, তেন্তে A:D নিৰ্ণয় কৰক।
+A) 5:16 / ৫:১৬
+B) 15:32 / ১৫:৩২
+C) 1:4 / ১:৪
+D) 3:8 / ৩:৮
+Ans: A
+
+16. The seats in a college for Arts, Science, and Commerce are in the ratio 5:7:8. There is a proposal to increase these seats by 40%, 50%, and 75% respectively. What will be the ratio of increased seats?
+
+এখন মহাবিদ্যালয়ত কলা, বিজ্ঞান, আৰু বাণিজ্য শাখাৰ আসনৰ অনুপাত ৫:৭:৮। এই আসনসমূহ ক্ৰমে ৪০%, ৫০%, আৰু ৭৫% বৃদ্ধি কৰাৰ প্ৰস্তাৱ আছে। বৃদ্ধি পোৱা আসনসমূহৰ অনুপাত কি হ'ব?
+A) 2:3:4 / ২:৩:৪
+B) 6:7:8 / ৬:৭:৮
+C) 1:1:2 / ১:১:২
+D) 2:3:5 / ২:৩:৫
+Ans: A
+
+17. A bag contains 50p, 25p and 10p coins in the ratio 5:9:4, amounting to Rs. 206. Find the number of 50p coins.
+
+এটা মোনাত ৫০ পৈচা, ২৫ পৈচা আৰু ১০ পৈচাৰ মুদ্ৰা ৫:৯:৪ অনুপাতত আছে, যাৰ মুঠ মূল্য ২০৬ টকা। ৫০ পৈচাৰ মুদ্ৰাৰ সংখ্যা নিৰ্ণয় কৰক।
+A) 200 / ২০০
+B) 360 / ৩৬০
+C) 160 / ১৬০
+D) 240 / ২৪০
+Ans: A
+
+18. The ratio of ages of A and B is 4:5. After 6 years, the ratio becomes 5:6. Find the present age of A.
+
+A আৰু B ৰ বয়সৰ অনুপাত ৪:৫। ৬ বছৰৰ পিছত এই অনুপাত ৫:৬ হয়। A ৰ বৰ্তমান বয়স নিৰ্ণয় কৰক।
+A) 24 years / ২৪ বছৰ
+B) 30 years / ৩০ বছৰ
+C) 20 years / ২০ বছৰ
+D) 18 years / ১৮ বছৰ
+Ans: A
+
+19. The annual income of A and B are in the ratio 4:3 and their annual expenses are in the ratio 3:2. If each saves Rs. 6000 at the end of the year, find the annual income of A.
+
+A আৰু B ৰ বাৰ্ষিক আয়ৰ অনুপাত ৪:৩ আৰু সিহঁতৰ বাৰ্ষিক ব্যয়ৰ অনুপাত ৩:২। যদি প্ৰত্যেকে বছৰৰ শেষত ৬০০০ টকা সঞ্চয় কৰে, তেন্তে A ৰ বাৰ্ষিক আয় নিৰ্ণয় কৰক।
+A) Rs. 18000 / ১৮০০০ টকা
+B) Rs. 24000 / ২৪০০০ টকা
+C) Rs. 12000 / ১২০০০ টকা
+D) Rs. 30000 / ৩০০০০ টকা
+Ans: B
+
+20. In a mixture of 60 liters, the ratio of milk and water is 2:1. How much water should be added to make the ratio 1:2?
+
+৬০ লিটাৰৰ মিশ্ৰণ এটাত গাখীৰ আৰু পানীৰ অনুপাত ২:১। অনুপাতটো ১:২ কৰিবলৈ কিমান পানী যোগ কৰিব লাগিব?
+A) 40 liters / ৪০ লিটাৰ
+B) 60 liters / ৬০ লিটাৰ
+C) 30 liters / ৩০ লিটাৰ
+D) 20 liters / ২০ লিটাৰ
+Ans: B
+
+21. If 0.75:x :: 5:8, then x is equal to:
+
+যদি 0.75:x :: 5:8 হয়, তেন্তে x ৰ মান কিমান?
+A) 1.12 / ১.১২
+B) 1.2 / ১.২
+C) 1.25 / ১.২৫
+D) 1.30 / ১.৩০
+Ans: B
+
+22. Find the compound ratio of 2:3, 6:7, and 14:15.
+
+২:৩, ৬:৭, আৰু ১৪:১৫ ৰ যৌগিক অনুপাত নিৰ্ণয় কৰক।
+A) 4:5 / ৪:৫
+B) 8:15 / ৮:১৫
+C) 2:5 / ২:৫
+D) 3:5 / ৩:৫
+Ans: B
+
+23. The ratio of two numbers is 3:8 and their difference is 115. Find the smaller number.
+
+দুটা সংখ্যাৰ অনুপাত ৩:৮ আৰু সিহঁতৰ পাৰ্থক্য ১১৫। সৰু সংখ্যাটো নিৰ্ণয় কৰক।
+A) 69 / ৬৯
+B) 115 / ১১৫
+C) 184 / ১৮৪
+D) 46 / ৪৬
+Ans: A
+
+24. Divide Rs. 675 among A, B, and C in the ratio 1:2:3.
+
+৬৭৫ টকা A, B, আৰু C ৰ মাজত ১:২:৩ অনুপাতত ভাগ কৰক।
+A) Rs. 112.5, 225, 337.5 / ১১২.৫, ২২৫, ৩৩৭.৫ টকা
+B) Rs. 100, 200, 375 / ১০০, ২০০, ৩৭৫ টকা
+C) Rs. 150, 225, 300 / ১৫০, ২২৫, ৩০০ টকা
+D) Rs. 120, 240, 315 / ১২০, ২৪০, ৩১৫ টকা
+Ans: A
+
+25. If x:y = 3:4, find (2x + 3y) : (3x + 4y).
+
+যদি x:y = 3:4 হয়, তেন্তে (2x + 3y) : (3x + 4y) নিৰ্ণয় কৰক।
+A) 18:25 / ১৮:২৫
+B) 17:25 / ১৭:২৫
+C) 18:24 / ১৮:২৪
+D) 12:25 / ১২:২৫
+Ans: A

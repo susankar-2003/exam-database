@@ -1,0 +1,224 @@
+1. A, B, and C invested Rs. 25,600, Rs. 20,000, and Rs. 28,400 respectively. Find the ratio of their investments in simplest form.
+
+A, B, আৰু C এ ক্ৰমে ২৫,৬০০ টকা, ২০,০০০ টকা, আৰু ২৮,৪০০ টকা বিনিয়োগ কৰে। তেওঁলোকৰ বিনিয়োগৰ সৰলতম অনুপাত নিৰ্ণয় কৰক।
+A) 64 : 50 : 71 / ৬৪ : ৫০ : ৭১
+B) 32 : 25 : 35 / ৩২ : ২৫ : ৩৫
+C) 64 : 50 : 70 / ৬৪ : ৫০ : ৭০
+D) 60 : 50 : 71 / ৬০ : ৫০ : ৭১
+Ans: A
+
+2. A, B, and C invested capital in ratio 3 : 4 : 5 and received profits in ratio 6 : 8 : 15. Find the ratio of time for which capitals were invested.
+
+A, B, আৰু C এ ৩ : ৪ : ৫ অনুপাতত মূলধন বিনিয়োগ কৰি ৬ : ৮ : ১৫ অনুপাতত লাভ পালে। সময়ৰ অনুপাত নিৰ্ণয় কৰক।
+A) 2 : 2 : 3 / ২ : ২ : ৩
+B) 3 : 4 : 5 / ৩ : ৪ : ৫
+C) 1 : 2 : 3 / ১ : ২ : ৩
+D) 6 : 8 : 15 / ৬ : ৮ : ১৫
+Ans: A
+
+3. Three partners shared profit in ratio 5 : 7 : 8 for periods 14 months, 8 months and 7 months respectively. What was the ratio of their investments?
+
+তিনিজন অংশীদাৰে ক্ৰমে ১৪ মাহ, ৮ মাহ আৰু ৭ মাহৰ বাবে ৫ : ৭ : ৮ অনুপাতত লাভ পালে। তেওঁলোকৰ বিনিয়োগৰ অনুপাত কিমান আছিল?
+A) 20 : 49 : 64 / ২০ : ৪৯ : ৬৪
+B) 10 : 28 : 32 / ১০ : ২৮ : ৩২
+C) 5 : 7 : 8 / ৫ : ৭ : ৮
+D) 14 : 8 : 7 / ১৪ : ৮ : ৭
+Ans: A
+
+4. A puts in Rs. 2,000 and B puts in Rs. 3,000. At 4 months end, A advances Rs. 1,000 more and B withdraws Rs. 1,000. Find profit ratio at year end.
+
+A এ ২,০০০ টকা আৰু B এ ৩,০০০ টকা দিয়ে। ৪ মাহৰ পাছত A এ ১,০০০ টকা বঢ়ায় আৰু B এ ১,০০০ টকা তোলে। বছৰৰ অন্তত লাভৰ অনুপাত নিৰ্ণয় কৰক।
+A) 8 : 7 / ৮ : ৭
+B) 7 : 8 / ৭ : ৮
+C) 4 : 3 / ৪ : ৩
+D) 1 : 1 / ১ : ১
+Ans: A
+
+5. A and B invest Rs. 14,000 and Rs. 18,000. At end of 8 months, C joins with Rs. 24,000. If total annual profit is Rs. 25,200, find C's share.
+
+A আৰু B এ ১৪,০০০ আৰু ১৮,০০০ টকা বিনিয়োগ কৰে। ৮ মাহৰ পাছত C এ ২৪,০০০ টকাৰে যোগ দিয়ে। বাৰ্ষিক মুঠ লাভ ২৫,২০০ টকা হ'লে C ৰ অংশ কিমান?
+A) Rs. 5,040 / ৫,০৪০ টকা
+B) Rs. 8,820 / ৮,৮২০ টকা
+C) Rs. 11,340 / ১১,৩৪০ টকা
+D) Rs. 6,000 / ৬,০০০ টকা
+Ans: A
+
+6. A and B invested Rs. 12,000 and Rs. 16,000. A gets 15% of total profit as salary. If total profit is Rs. 14,000, find A's total share.
+
+A আৰু B এ ১২,০০০ আৰু ১৬,০০০ টকা বিনিয়োগ কৰে। A এ ১৫% দৰমহা পায়। মুঠ লাভ ১৪,০০০ টকা হ'লে A ৰ মুঠ অংশ কিমান?
+A) Rs. 7,200 / ৭,২০০ টকা
+B) Rs. 6,800 / ৬,৮০০ টকা
+C) Rs. 5,100 / ৫,১০০ টকা
+D) Rs. 8,000 / ৮,০০০ টকা
+Ans: A
+
+7. A puts 12 cows for 6 months, B 15 cows for 4 months, and C 20 cows for 3 months. In what ratio should they split rent?
+
+A এ ৬ মাহৰ বাবে ১২ টা গৰু, B এ ৪ মাহৰ বাবে ১৫ টা, আৰু C এ ৩ মাহৰ বাবে ২০ টা গৰু ৰাখে। ভাড়াটো কি অনুপাতত ভাগ কৰিব লাগিব?
+A) 6 : 5 : 5 / ৬ : ৫ : ৫
+B) 12 : 15 : 20 / ১২ : ১৫ : ২০
+C) 3 : 2 : 1 / ৩ : ২ : ১
+D) 4 : 5 : 6 / ৪ : ৫ : ৬
+Ans: A
+
+8. A started business with Rs. 40,000. After 3 months B joined with Rs. 60,000 and after another 3 months C joined with Rs. 80,000. Find profit ratio at year end.
+
+A এ ৪০,০০০ টকাৰে ব্যৱসায় আৰম্ভ কৰে। ৩ মাহ পাছত B এ ৬০,০০০ টকা আৰু পৰৱৰ্তী ৩ মাহ পাছত C এ ৮০,০০০ টকাৰে যোগ দিয়ে। বছৰৰ অন্তত লাভৰ অনুপাত কিমান?
+A) 8 : 9 : 8 / ৮ : ৯ : ৮
+B) 2 : 3 : 4 / ২ : ৩ : ৪
+C) 4 : 3 : 4 / ৪ : ৩ : ৪
+D) 8 : 8 : 9 / ৮ : ৮ : ৯
+Ans: A
+
+9. A, B, C started business with capitals in ratio 1/2 : 1/3 : 1/4. After 4 months, A withdraws half capital. If total profit is Rs. 13,200, find B's share.
+
+A, B, C এ ১/২ : ১/৩ : ১/৪ অনুপাতত মূলধন বিনিয়োগ কৰে। ৪ মাহ পাছত A এ আধা মূলধন তোলে। মুঠ লাভ ১৩,২০০ টকা হ'লে B ৰ অংশ নিৰ্ণয় কৰক।
+A) Rs. 4,800 / ৪,৮০০ টকা
+B) Rs. 3,600 / ৩,৬০০ টকা
+C) Rs. 5,200 / ৫,২০০ টকা
+D) Rs. 4,000 / ৪,০০০ টকা
+Ans: A
+
+10. A invested Rs. 5,000 for 8 months and B invested some amount for 6 months. If B got 3/5 of total profit, how much did B invest?
+
+A এ ৮ মাহৰ বাবে ৫,০০০ টকা বিনিয়োগ কৰে আৰু B এ ৬ মাহৰ বাবে কিছু ধন বিনিয়োগ কৰে। B এ ৩/৫ অংশ লাভ পালে B ৰ বিনিয়োগ কিমান আছিল?
+A) Rs. 8,000 / ৮,০০০ টকা
+B) Rs. 10,000 / ১০,০০০ টকা
+C) Rs. 12,000 / ১২,০০০ টকা
+D) Rs. 15,000 / ১৫,০০০ টকা
+Ans: B
+
+11. Capital of A is double that of B and capital of B is triple that of C. If annual profit is Rs. 20,000, find B's share.
+
+A ৰ মূলধন B ৰ দুগুণ আৰু B ৰ মূলধন C ৰ তিনিগুণ। বাৰ্ষিক লাভ ২০,০০০ টকা হ'লে B ৰ অংশ নিৰ্ণয় কৰক।
+A) Rs. 6,000 / ৬,০০০ টকা
+B) Rs. 12,000 / ১২,০০০ টকা
+C) Rs. 2,000 / ২,০০০ টকা
+D) Rs. 4,000 / ৪,০০০ টকা
+Ans: A
+
+12. A invested Rs. 32,000 for 4 months and B remained for 8 months. Total profit Rs. 7,000, B received Rs. 5,000. How much did B invest?
+
+A এ ৪ মাহৰ বাবে ৩২,০০০ টকা বিনিয়োগ কৰে আৰু B ৮ মাহ থাকে। মুঠ লাভ ৭,০০০ টকাৰ ভিতৰত B এ ৫,০০০ টকা পালে B এ কিমান বিনিয়োগ কৰিছিল?
+A) Rs. 40,000 / ৪০,০০০ টকা
+B) Rs. 35,000 / ৩৫,০০০ টকা
+C) Rs. 30,000 / ৩০,০০০ টকা
+D) Rs. 45,000 / ৪৫,০০০ টকা
+Ans: A
+
+13. Three partners A, B, and C put Rs. 8,000, Rs. 10,000 and Rs. 12,000 in a business. If A gets Rs. 1,600 as profit, find total profit.
+
+তিনিজন অংশীদাৰ A, B, C এ ৮,০০০ টকা, ১০,০০০ টকা আৰু ১২,০০০ টকা বিনিয়োগ কৰে। A এ ১,৬০০ টকা লাভ পালে মুঠ লাভ নিৰ্ণয় কৰক।
+A) Rs. 6,000 / ৬,০০০ টকা
+B) Rs. 5,000 / ৫,০০০ টকা
+C) Rs. 7,500 / ৭,৫০০ টকা
+D) Rs. 4,800 / ৪,৮০০ টকা
+Ans: A
+
+14. A puts Rs. 1000 and B puts Rs. 2000. At 6 months end, A withdraws half his capital. Find ratio of profits at end of year.
+
+A এ ১০০০ টকা আৰু B এ ২০০০ টকা বিনিয়োগ কৰে। ৬ মাহৰ পাছত A এ আধা মূলধন তোলে। বছৰৰ অন্তত লাভৰ অনুপাত নিৰ্ণয় কৰক।
+A) 1 : 2 / ১ : ২
+B) 3 : 8 / ৩ : ৮
+C) 3 : 4 / ৩ : ৪
+D) 1 : 4 / ১ : ৪
+Ans: B
+
+15. A's capital is Rs. 10,000. Out of total profit of Rs. 1,000, A gets Rs. 500 and B gets Rs. 300. Find C's capital.
+
+A ৰ মূলধন ১০,০০০ টকা। ১,০০০ টকা মুঠ লাভৰ ভিতৰত A এ ৫০০ টকা আৰু B এ ৩০০ টকা পালে C ৰ মূলধন কিমান?
+A) Rs. 4,000 / ৪,০০০ টকা
+B) Rs. 6,000 / ৬,০০০ টকা
+C) Rs. 2,000 / ২,০০০ টকা
+D) Rs. 5,000 / ৫,০০০ টকা
+Ans: A
+
+16. Check the investment pie chart provided for Q66. What is the ratio of A's investment to C's investment? [IMG: investment_q66.png]
+
+প্রশ্ন ৬৬ ৰ বাবে দিয়া বিনিয়োগ পাই চার্টটো চাওক। A ৰ বিনিয়োগ আৰু C ৰ বিনিয়োগৰ অনুপাত কিমান? [IMG: investment_q66.png]
+A) 3 : 2 / ৩ : ২
+B) 5 : 2 / ৫ : ২
+C) 3 : 5 / ৩ : ৫
+D) 2 : 3 / ২ : ৩
+Ans: A
+
+17. A and B start business with Rs. 50,000 and Rs. 60,000. After 6 months B leaves and C joins with Rs. 70,000. Find profit ratio A : B : C at year end.
+
+A আৰু B এ ৫০,০০০ আৰু ৬০,০০০ টকাৰে ব্যৱসায় আৰম্ভ কৰে। ৬ মাহ পাছত B এৰে আৰু C এ ৭০,০০০ টকাৰে যোগ দিয়ে। বছৰৰ অন্তত লাভৰ অনুপাত কিমান?
+A) 10 : 6 : 7 / ১০ : ৬ : ৭
+B) 5 : 6 : 7 / ৫ : ৬ : ৭
+C) 12 : 6 : 7 / ১২ : ৬ : ৭
+D) 10 : 7 : 6 / ১০ : ৭ : ৬
+Ans: A
+
+18. A, B and C share profits in ratio 1/3 : 1/4 : 5/12. If C's share is Rs. 2,500, find total profit.
+
+A, B আৰু C এ ১/৩ : ১/৪ : ৫/১২ অনুপাতত লাভ ভাগ কৰে। C ৰ অংশ ২, ৫০০ টকা হ'লে মুঠ লাভ নিৰ্ণয় কৰক।
+A) Rs. 6,000 / ৬,০০০ টকা
+B) Rs. 5,000 / ৫,০০০ টকা
+C) Rs. 7,200 / ৭,২০০ টকা
+D) Rs. 4,800 / ৪,৮০০ টকা
+Ans: A
+
+19. A and B start business investing Rs. 15,000 and Rs. 20,000. If B's share in profit is Rs. 4,000, find total profit.
+
+A আৰু B এ ১৫,০০০ আৰু ২০,০০০ টকা বিনিয়োগ কৰে। লাভত B ৰ অংশ ৪,০০০ টকা হ'লে মুঠ লাভ নিৰ্ণয় কৰক।
+A) Rs. 7,000 / ৭,০০০ টকা
+B) Rs. 6,000 / ৬,০০০ টকা
+C) Rs. 8,000 / ৮,০০০ টকা
+D) Rs. 7,500 / ৭,৫০০ টকা
+Ans: A
+
+20. A invests Rs. 8,000 for 8 months and B invests Rs. 6,000 for 12 months. Ratio of their profit is:
+
+A এ ৮ মাহৰ বাবে ৮,০০০ টকা আৰু B এ ১২ মাহৰ বাবে ৬,০০০ টকা বিনিয়োগ কৰে। তেওঁলোকৰ লাভৰ অনুপাত:
+A) 8 : 9 / ৮ : ৯
+B) 4 : 3 / ৪ : ৩
+C) 1 : 1 / ১ : ১
+D) 9 : 8 / ৯ : ৮
+Ans: A
+
+21. A's capital is 1/3 of total capital, B's capital equals A's and C's capital together. What is the ratio of capitals of A, B, and C?
+
+A ৰ মূলধন মুঠ মূলধনৰ ১/৩, B ৰ মূলধন A আৰু C ৰ মূলধনৰ সমষ্টিৰ সমান। A, B, C ৰ মূলধনৰ অনুপাত কিমান?
+A) 2 : 3 : 1 / ২ : ৩ : ১
+B) 1 : 2 : 3 / ১ : ২ : ৩
+C) 3 : 2 : 1 / ৩ : ২ : ১
+D) 2 : 1 : 3 / ২ : ১ : ৩
+Ans: A
+
+22. A and B enter partnership with Rs. 9,000 and Rs. 12,000. After 6 months C joins with Rs. 18,000. What is C's share in total profit Rs. 27,000?
+
+A আৰু B এ ৯,০০০ আৰু ১২,০০০ টকা বিনিয়োগ কৰে। ৬ মাহ পাছত C এ ১৮,০০০ টকাৰে যোগ দিয়ে। ২৭,০০০ টকা মুঠ লাভত C ৰ অংশ কিমান?
+A) Rs. 8,100 / ৮,১০০ টকা
+B) Rs. 10,800 / ১০,৮০০ টকা
+C) Rs. 9,000 / ৯,০০০ টকা
+D) Rs. 7,500 / ৭,৫০০ টকা
+Ans: A
+
+23. Three partners A, B, C invested Rs. 40,000, Rs. 38,000 and Rs. 42,000 respectively. Out of total profit Rs. 60,000, find B's share.
+
+তিনিজন অংশীদাৰ A, B, C এ ক্ৰমে ৪০,০০০, ৩৮,০০০ আৰু ৪২,০০০ টকা বিনিয়োগ কৰে। ৬০,০০০ টকা মুঠ লাভৰ ভিতৰত B ৰ অংশ নিৰ্ণয় কৰক।
+A) Rs. 19,000 / ১৯,০০০ টকা
+B) Rs. 20,000 / ২০,০০০ টকা
+C) Rs. 21,000 / ২১,০০০ টকা
+D) Rs. 18,000 / ১৮,০০০ টকা
+Ans: A
+
+24. A invests Rs. 20,000 and B Rs. 30,000. A gets 15% profit for management, rest divided in capital ratio. Total profit Rs. 10,000, find A's share.
+
+A এ ২০,০০০ আৰু B এ ৩০,০০০ টকা বিনিয়োগ কৰে। A এ পৰিচালনাৰ বাবে ১৫% লাভ পায়, বাকী মূলধন অনুপাতত ভাগ হয়। মুঠ লাভ ১০,০০০ টকা হ'লে A ৰ অংশ কিমান?
+A) Rs. 4,900 / ৪,৯০০ টকা
+B) Rs. 5,100 / ৫,১০০ টকা
+C) Rs. 3,400 / ৩,৪০০ টকা
+D) Rs. 4,500 / ৪,৫০০ টকা
+Ans: A
+
+25. A's capital share is 1/4th and B's share is 1/3rd. Remaining belongs to C. Find ratio of profit shares of A, B, and C.
+
+A ৰ মূলধন ১/৪ আৰু B ৰ ১/৩ অংশ। বাকী মূলধন C ৰ। A, B, আৰু C ৰ লাভৰ অংশৰ অনুপাত নিৰ্ণয় কৰক।
+A) 3 : 4 : 5 / ৩ : ৪ : ৫
+B) 4 : 3 : 5 / ৪ : ৩ : ৫
+C) 1 : 2 : 3 / ১ : ২ : ৩
+D) 2 : 3 : 4 / ২ : ৩ : ৪
+Ans: A

@@ -1,0 +1,224 @@
+1. How many digits are used in numbering a book containing 100 pages?
+
+১০০ পৃষ্ঠা থকা এখন কিতাপত পৃষ্ঠা নম্বৰ লিখিবলৈ মুঠ কিমানটা অংক ব্যৱহাৰ কৰা হয়?
+A) 189 / ১৮৯
+B) 192 / ১৯২
+C) 200 / ২০০
+D) 195 / ১৯৫
+Ans: B
+
+2. The product of two consecutive positive integers is always divisible by:
+
+দুটা ক্ৰমাগত ধনাত্নক অখণ্ড সংখ্যাৰ গুণফল সদায় কাৰ দ্বাৰা বিভাজ্য?
+A) 2 / ২
+B) 3 / ৩
+C) 4 / ৪
+D) 6 / ৬
+Ans: A
+
+3. The product of three consecutive positive integers is always divisible by:
+
+তিনিটা ক্ৰমাগত ধনাত্নক অখণ্ড সংখ্যাৰ গুণফল সদায় কাৰ দ্বাৰা বিভাজ্য?
+A) 4 / ৪
+B) 6 / ৬
+C) 8 / ৮
+D) 12 / ১২
+Ans: B
+
+4. If 1^3 + 2^3 + ... + 10^3 = 3025, then what is the value of 2^3 + 4^3 + ... + 20^3?
+
+যদি ১^৩ + ২^৩ + ... + ১০^৩ = ৩০২৫ হয়, তেন্তে ২^৩ + ৪^৩ + ... + ২০^৩ ৰ মান কিমান?
+A) 6050 / ৬০৫০
+B) 12100 / ১২১০০
+C) 24200 / ২৪২০০
+D) 48400 / ৪৮৪০০
+Ans: C
+
+5. Find the maximum value of n such that 2^n divides 20! completely.
+
+n ৰ সৰ্বোচ্চ মান নিৰ্ণয় কৰা যাতে ২^n এ ২০! ক সম্পূৰ্ণৰূপে ভাগ কৰিব পাৰে।
+A) 18 / ১৮
+B) 15 / ১৫
+C) 12 / ১২
+D) 10 / ১০
+Ans: A
+
+6. What is the remainder when (2^31) is divided by 5?
+
+(২^৩১) ক ৫ ৰে ভাগ কৰিলে ভাগশেষ কিমান হ’ব?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: C
+
+7. Which of the following numbers is divisible by 11?
+
+তলৰ কোনটো সংখ্যা ১১ ৰে বিভাজ্য?
+A) 2865423 / ২৮৬৫৪২৩
+B) 2865425 / ২৮৬৫৪২৫
+C) 1331000 / ১৩৩১০০০
+D) 9081726 / ৯০৮১৭২৬
+Ans: C
+
+8. What is the smallest number by which 1800 must be multiplied to make it a perfect cube?
+
+১৮০০ ক এটা পূৰ্ণ ঘন সংখ্যা কৰিবলৈ আটাইতকৈ সৰু কি সংখ্যাৰে গুণ কৰিব লাগিব?
+A) 2 / ২
+B) 3 / ৩
+C) 12 / ১২
+D) 15 / ১৫
+Ans: D
+
+9. What is the smallest number by which 3600 must be divided to make it a perfect cube?
+
+৩৬০০ ক এটা পূৰ্ণ ঘন সংখ্যা কৰিবলৈ আটাইতকৈ সৰু কি সংখ্যাৰে ভাগ কৰিব লাগিব?
+A) 9 / ৯
+B) 45 / ৪৫
+C) 50 / ৫০
+D) 450 / ৪৫০
+Ans: D
+
+10. Find the least number which when divided by 6, 7, 8, 9 and 12 leaves the remainder 1 in each case.
+
+আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা যিটোক ৬, ৭, ৮, ৯ আৰু ১২ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ১ ভাগশেষ থাকে।
+A) 504 / ৫০৪
+B) 505 / ৫০৫
+C) 503 / ৫০৩
+D) 1009 / ১০০৯
+Ans: B
+
+11. What is the unit digit of (1234)^102 + (1234)^103?
+
+(১২৩৪)^১০২ + (১২৩৪)^১০৩ ৰ এককৰ অংকটো কিমান?
+A) 0 / ০
+B) 2 / ২
+C) 4 / ৪
+D) 6 / ৬
+Ans: A
+
+12. How many numbers between 1 and 100 are divisible by both 3 and 4?
+
+১ আৰু ১০০ ৰ ভিতৰত কিমানটা সংখ্যা ৩ আৰু ৪ দুয়োৰে দ্বাৰা বিভাজ্য?
+A) 8 / ৮
+B) 7 / ৭
+C) 9 / ৯
+D) 10 / ১০
+Ans: A
+
+13. The sum of two numbers is 25 and their difference is 13. Find their product.
+
+দুটা সংখ্যাৰ যোগফল ২৫ আৰু সিহঁতৰ পাৰ্থক্য ১৩। সিহঁতৰ গুণফল নিৰ্ণয় কৰা।
+A) 114 / ১১৪
+B) 124 / ১২৪
+C) 104 / ১০৪
+D) 118 / ১১৮
+Ans: C
+
+14. What is the average of the first 50 natural numbers?
+
+প্ৰথম ৫০ টা স্বাভাৱিক সংখ্যাৰ গড় কিমান?
+A) 25 / ২৫
+B) 25.5 / ২৫.৫
+C) 26 / ২৬
+D) 26.5 / ২৬.৫
+Ans: B
+
+15. What is the average of all even numbers up to 100?
+
+১০০ লৈকে থকা সকলো যুগ্ম সংখ্যাৰ গড় কিমান?
+A) 50 / ৫০
+B) 50.5 / ৫০.৫
+C) 51 / ৫১
+D) 52 / ৫২
+Ans: C
+
+16. What is the average of all odd numbers up to 100?
+
+১০০ লৈকে থকা সকলো অযুগ্ম সংখ্যাৰ গড় কিমান?
+A) 49 / ৪৯
+B) 49.5 / ৪৯.৫
+C) 50 / ৫০
+D) 50.5 / ৫০.৫
+Ans: C
+
+17. If a number x is divided by 289, the remainder is 18. What will be the remainder if the same number is divided by 17?
+
+যদি এটা সংখ্যা x ক ২৮৯ ৰে ভাগ কৰিলে অৱশিষ্ট ১৮ থাকে, তেন্তে একেটা সংখ্যাকে ১৭ ৰে ভাগ কৰিলে অৱশিষ্ট কিমান হ’ব?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 5 / ৫
+Ans: A
+
+18. What is the total number of prime factors of (6)^10 * (7)^17 * (11)^27?
+
+(৬)^১০ * (৭)^১৭ * (১১)^২৭ ৰ মুঠ মৌলিক উৎপাদকৰ সংখ্যা কিমান?
+A) 54 / ৫৪
+B) 64 / ৬৪
+C) 74 / ৭৪
+D) 84 / ৮৪
+Ans: B
+
+19. Which of the following is a rational number?
+
+তলৰ কোনটো এটা পৰিমেয় সংখ্যা?
+A) sqrt(2) / √২
+B) sqrt(3) / √৩
+C) sqrt(4) / √৪
+D) pi / π
+Ans: C
+
+20. Which of the following is an irrational number?
+
+তলৰ কোনটো এটা অপৰিমেয় সংখ্যা?
+A) 22/7 / ২২/৭
+B) 3.14159... (pi) / ৩.১৪১৫৯... (পাই)
+C) 0 / ০
+D) 0.666... / ০.৬৬৬...
+Ans: B
+
+21. Find the value of 1/(1*2) + 1/(2*3) + 1/(3*4) + ... + 1/(99*100).
+
+১/(১*২) + ১/(২*৩) + ১/(৩*৪) + ... + ১/(৯৯*১০০) ৰ মান নিৰ্ণয় কৰা।
+A) 1/100 / ১/১০০
+B) 99/100 / ৯৯/১০০
+C) 100/99 / ১০০/৯৯
+D) 1 / ১
+Ans: B
+
+22. What is the HCF of 2/3, 8/9, 64/81 and 10/27?
+
+২/৩, ৮/৯, ৬৪/৮১ আৰু ১০/২৭ ৰ গ.সা.গু. (HCF) কিমান?
+A) 2/81 / ২/৮১
+B) 160/3 / ১৬০/৩
+C) 160/81 / ১৬০/৮১
+D) 2/3 / ২/৩
+Ans: A
+
+23. What is the LCM of 2/3, 4/9 and 5/6?
+
+২/৩, ৪/৯ আৰু ৫/৬ ৰ ল.সা.গু. (LCM) কিমান?
+A) 8/3 / ৮/৩
+B) 20/3 / ২০/৩
+C) 10/3 / ১০/৩
+D) 20/9 / ২০/৯
+Ans: B
+
+24. If the number 97215*6 is completely divisible by 11, then the digit in place of * is:
+
+যদি ৯৭২১৫*৬ সংখ্যাটো ১১ ৰে সম্পূৰ্ণৰূপে বিভাজ্য হয়, তেন্তে * ৰ স্থানত থকা অংকটো হ'ল:
+A) 3 / ৩
+B) 2 / ২
+C) 1 / ১
+D) 5 / ৫
+Ans: A
+
+25. What is the simplified value of (0.2 * 0.2 + 0.01 * 0.01) / (0.0401)?
+
+(০.২ * ০.২ + ০.০১ * ০.০১) / (০.০৪০১) ৰ সৰলীকৃত মান কিমান?
+A) 0.1 / ০.১
+B) 1 / ১
+C) 10 / ১০
+D) 100 / ১০০
+Ans: B

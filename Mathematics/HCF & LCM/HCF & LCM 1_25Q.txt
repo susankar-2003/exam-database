@@ -1,0 +1,224 @@
+1. Find the HCF of 24 and 36.
+
+২৪ আৰু ৩৬ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 6 / ৬
+B) 12 / ১২
+C) 18 / ১৮
+D) 24 / ২৪
+Ans: B
+
+2. Find the LCM of 12, 15, and 20.
+
+১২, ১৫, আৰু ২০ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 30 / ৩০
+B) 60 / ৬০
+C) 90 / ৯০
+D) 120 / ১২০
+Ans: B
+
+3. The HCF of two numbers is 16 and their product is 3072. Find their LCM.
+
+দুটা সংখ্যাৰ গ.সা.গু. ১৬ আৰু সিহঁতৰ গুণফল ৩০৭২। সিহঁতৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 180 / ১৮০
+B) 192 / ১৯২
+C) 204 / ২০৪
+D) 216 / ২১৬
+Ans: B
+
+4. The ratio of two numbers is 3:4 and their HCF is 4. Find their LCM.
+
+দুটা সংখ্যাৰ অনুপাত ৩:৪ আৰু সিহঁতৰ গ.সা.গু. ৪। সিহঁতৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 36 / ৩৬
+B) 48 / ৪৮
+C) 60 / ৬০
+D) 72 / ৭২
+Ans: B
+
+5. Find the greatest number that divides 140, 170, and 155 leaving remainder 5 in each case.
+
+১৪০, ১৭০, আৰু ১৫৫ ক ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ৫ অৱশিষ্ট থকা আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 10 / ১০
+B) 15 / ১৫
+C) 20 / ২০
+D) 25 / ২৫
+Ans: B
+
+6. Find the least number which when divided by 6, 9, 12, and 15 leaves remainder 3 in each case.
+
+৬, ৯, ১২, আৰু ১৫ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ৩ অৱশিষ্ট থকা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 177 / ১৭৭
+B) 180 / ১৮০
+C) 183 / ১৮৩
+D) 186 / ১৮৬
+Ans: C
+
+7. Three bells toll together at intervals of 9, 12, and 15 minutes respectively. If they toll together now, after how many hours will they toll together next?
+
+তিনিখন ঘণ্টা ক্ৰমান্বয়ে ৯, ১২, আৰু ১৫ মিনিটৰ ব্যৱধানত বাজে। যদি সিহঁত এতিয়া একেলগে বাজে, তেন্তে কেইঘণ্টাৰ পিছত সিহঁত পুনৰ একেলগে বাজিব?
+A) 2 hours / ২ ঘণ্টা
+B) 3 hours / ৩ ঘণ্টা
+C) 4 hours / ৪ ঘণ্টা
+D) 5 hours / ৫ ঘণ্টা
+Ans: B
+
+8. Find the HCF of fractions 2/3, 8/9, and 16/81.
+
+২/৩, ৮/৯, আৰু ১৬/৮১ ভগ্নাংশ কেইটাৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 2/81 / ২/৮১
+B) 8/3 / ৮/৩
+C) 16/3 / ১৬/৩
+D) 2/3 / ২/৩
+Ans: A
+
+9. Find the LCM of fractions 2/3, 4/9, and 5/6.
+
+২/৩, ৪/৯, আৰু ৫/৬ ভগ্নাংশ কেইটাৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 10/3 / ১০/৩
+B) 20/3 / ২০/৩
+C) 20/9 / ২০/৯
+D) 40/9 / ৪০/৯
+Ans: B
+
+10. Find the HCF of 0.63, 1.05, and 2.1.
+
+০.৬৩, ১.০৫, আৰু ২.১ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 0.07 / ০.০৭
+B) 0.21 / ০.২১
+C) 0.63 / ০.৬৩
+D) 2.1 / ২.১
+Ans: B
+
+11. What is the HCF of two consecutive even numbers?
+
+দুটা ক্ৰমাগত যুগ্ম সংখ্যাৰ গ.সা.গু. কিমান?
+A) 1 / ১
+B) 2 / ২
+C) 4 / ৪
+D) 0 / ০
+Ans: B
+
+12. What is the HCF of two consecutive odd numbers?
+
+দুটা ক্ৰমাগত অযুগ্ম সংখ্যাৰ গ.সা.গু. কিমান?
+A) 1 / ১
+B) 2 / ২
+C) 3 / ৩
+D) 4 / ৪
+Ans: A
+
+13. What is the HCF of two co-prime numbers?
+
+দুটা পৰস্পৰ মৌলিক সংখ্যাৰ গ.সা.গু. কিমান?
+A) 0 / ০
+B) 1 / ১
+C) Their product / সিহঁতৰ গুণফল
+D) Their sum / সিহঁতৰ যোগফল
+Ans: B
+
+14. What is the LCM of two co-prime numbers a and b?
+
+দুটা পৰস্পৰ মৌলিক সংখ্যা a আৰু b ৰ ল.সা.গু. কিমান?
+A) a + b / a + b
+B) a - b / a - b
+C) a * b / a * b
+D) a / b / a / b
+Ans: C
+
+15. Find the HCF of 108, 288, and 360.
+
+১০৮, ২৮৮, আৰু ৩৬০ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 18 / ১৮
+B) 36 / ৩৬
+C) 54 / ৫৪
+D) 72 / ৭২
+Ans: B
+
+16. Find the LCM of 24, 36, and 40.
+
+২৪, ৩৬, আৰু ৪০ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 120 / ১২০
+B) 240 / ২৪০
+C) 360 / ৩৬০
+D) 480 / ৪৮০
+Ans: C
+
+17. Two numbers are in the ratio 5:6 and their LCM is 480. Find their HCF.
+
+দুটা সংখ্যাৰ অনুপাত ৫:৬ আৰু সিহঁতৰ ল.সা.গু. ৪৮০। সিহঁতৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 12 / ১২
+B) 16 / ১৬
+C) 20 / ২০
+D) 24 / ২৪
+Ans: B
+
+18. Two numbers are in the ratio 2:3 and their HCF is 15. Find the sum of the two numbers.
+
+দুটা সংখ্যাৰ অনুপাত ২:৩ আৰু সিহঁতৰ গ.সা.গু. ১৫। সংখ্যা দুটাৰ যোগফল নিৰ্ণয় কৰা।
+A) 60 / ৬০
+B) 75 / ৭৫
+C) 90 / ৯০
+D) 105 / ১০৫
+Ans: B
+
+19. The LCM of two numbers is 120 and their HCF is 10. Which of the following CANNOT be the sum of the two numbers?
+
+দুটা সংখ্যাৰ ল.সা.গু. ১২০ আৰু গ.সা.গু. ১০। তলৰ কোনটো সংখ্যা দুটাৰ যোগফল হ'ব নোৱাৰে?
+A) 70 / ৭০
+B) 130 / ১৩০
+C) 90 / ৯০
+D) 50 / ৫০
+Ans: C
+
+20. The greatest number of 4 digits which is exactly divisible by 12, 15, 18, and 27 is:
+
+১২, ১৫, ১৮, আৰু ২৭ ৰে সম্পূৰ্ণৰূপে বিভাজ্য ৪ টা অংকৰ আটাইতকৈ ডাঙৰ সংখ্যাটো হ'ল:
+A) 9600 / ৯৬০০
+B) 9720 / ৯৭২০
+C) 9840 / ৯৮৪০
+D) 9960 / ৯৯৬০
+Ans: B
+
+21. The smallest 4-digit number which is divisible by 12, 18, 21, and 28 is:
+
+১২, ১৮, ২১, আৰু ২৮ ৰে বিভাজ্য ৪ টা অংকৰ আটাইতকৈ সৰু সংখ্যাটো হ'ল:
+A) 1008 / ১০০৮
+B) 1028 / ১০২৮
+C) 1048 / ১০৪৮
+D) 1080 / ১০৮০
+Ans: A
+
+22. Find the least number which when divided by 8, 12, 16, and 20 leaves remainder 5 in each case.
+
+৮, ১২, ১৬, আৰু ২০ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ৫ অৱশিষ্ট থকা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
+A) 235 / ২৩৫
+B) 240 / ২৪০
+C) 245 / ২৪৫
+D) 250 / ২৫০
+Ans: C
+
+23. Find the greatest number that will divide 43, 91, and 183 so as to leave the same remainder in each case.
+
+৪৩, ৯১, আৰু ১৮৩ ক ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে একে অৱশিষ্ট থকা আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+A) 4 / ৪
+B) 7 / ৭
+C) 9 / ৯
+D) 13 / ১৩
+Ans: A
+
+24. Find the HCF of 2^3 * 3^2, 2^2 * 3^3 * 5, and 2^4 * 3 * 5^2.
+
+২^৩ * ৩^২, ২^২ * ৩^৩ * ৫, আৰু ২^৪ * ৩ * ৫^২ ৰ গ.সা.গু. নিৰ্ণয় কৰা।
+A) 6 / ৬
+B) 12 / ১২
+C) 36 / ৩৬
+D) 72 / ৭২
+Ans: B
+
+25. Find the LCM of 2^3 * 3^2, 2^2 * 3^3 * 5, and 2^4 * 3 * 5^2.
+
+২^৩ * ৩^২, ২^২ * ৩^৩ * ৫, আৰু ২^৪ * ৩ * ৫^২ ৰ ল.সা.গু. নিৰ্ণয় কৰা।
+A) 5400 / ৫৪০০
+B) 10800 / ১০৮০০
+C) 21600 / ২১৬০০
+D) 43200 / ৪৩২০০
+Ans: B

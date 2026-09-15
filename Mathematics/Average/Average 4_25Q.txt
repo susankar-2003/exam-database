@@ -1,224 +1,224 @@
 1. The average age of 3 boys is 25 years and their ages are in the ratio 3 : 5 : 7. What is the age of the youngest boy?
 
-৩ জন ল'ৰাৰ গড় বয়স ২৫ বছৰ আৰু তেওঁলোকৰ বয়সৰ অনুপাত ৩ : ৫ : ৭। আটাইতকৈ সৰু ল'ৰাজনৰ বয়স কিমান?
-A) 9 years / ৯ বছৰ
-B) 15 years / ১৫ বছৰ
-C) 21 years / ২১ বছৰ
-D) 18 years / ১৮ বছৰ
+3 জন ল'ৰাৰ গড় বয়স 25 বছৰ আৰু তেওঁলোকৰ বয়সৰ অনুপাত 3 : 5 : 7। আটাইতকৈ সৰু ল'ৰাজনৰ বয়স কিমান?
+A) 9 years / 9 বছৰ
+B) 15 years / 15 বছৰ
+C) 21 years / 21 বছৰ
+D) 18 years / 18 বছৰ
 Ans: B
 
 2. The average temperature of Monday, Tuesday, Wednesday, and Thursday is 38 degrees Celsius. That of Tuesday, Wednesday, Thursday, and Friday is 40 degrees Celsius. If the temperature on Monday was 35 degrees Celsius, what was it on Friday?
 
-সোম, মঙল, বুধ আৰু বৃহস্পতিবাৰৰ গড় উত্তাপ ৩৮ ডিগ্ৰী চেলচিয়াছ। মঙল, বুধ, বৃহস্পতি আৰু শুক্ৰবাৰৰ ৪০ ডিগ্ৰী চেলচিয়াছ। যদি সোমবাৰে ৩৫ ডিগ্ৰী চেলচিয়াছ আছিল, তেন্তে শুক্ৰবাৰে কিমান আছিল?
-A) 40 degrees Celsius / ৪০ ডিগ্ৰী চেলচিয়াছ
-B) 43 degrees Celsius / ৪৩ ডিগ্ৰী চেলচিয়াছ
-C) 45 degrees Celsius / ৪৫ ডিগ্ৰী চেলচিয়াছ
-D) 42 degrees Celsius / ৪২ ডিগ্ৰী চেলচিয়াছ
+সোম, মঙল, বুধ আৰু বৃহস্পতিবাৰৰ গড় উত্তাপ 38 ডিগ্ৰী চেলচিয়াছ। মঙল, বুধ, বৃহস্পতি আৰু শুক্ৰবাৰৰ 40 ডিগ্ৰী চেলচিয়াছ। যদি সোমবাৰে 35 ডিগ্ৰী চেলচিয়াছ আছিল, তেন্তে শুক্ৰবাৰে কিমান আছিল?
+A) 40 degrees Celsius / 40 ডিগ্ৰী চেলচিয়াছ
+B) 43 degrees Celsius / 43 ডিগ্ৰী চেলচিয়াছ
+C) 45 degrees Celsius / 45 ডিগ্ৰী চেলচিয়াছ
+D) 42 degrees Celsius / 42 ডিগ্ৰী চেলচিয়াছ
 Ans: B
 
 3. The average score of 50 students in a test is 80. If 10 top scorers with an average of 95 are excluded, what is the average of the remaining students?
 
-এখন পৰীক্ষাত ৫০ জন ছাত্ৰৰ গড় নম্বৰ ৮০। যদি ৯৫ গড় নম্বৰ পোৱা প্ৰথম ১০ জন ছাত্ৰক বাদ দিয়া হয়, তেন্তে বাকী ছাত্ৰসকলৰ গড় নম্বৰ কিমান?
-A) 76.25 / ৭৬.২৫
-B) 75 / ৭৫
-C) 77 / ৭৭
-D) 78.5 / ৭৮.৫
+এখন পৰীক্ষাত 50 জন ছাত্ৰৰ গড় নম্বৰ 80। যদি 95 গড় নম্বৰ পোৱা প্ৰথম 10 জন ছাত্ৰক বাদ দিয়া হয়, তেন্তে বাকী ছাত্ৰসকলৰ গড় নম্বৰ কিমান?
+A) 76.25
+B) 75
+C) 77
+D) 78.5
 Ans: A
 
 4. What is the average of the first 20 positive integers?
 
-প্ৰথম ২০টা ধনামক অখণ্ড সংখ্যাৰ গড় কিমান?
-A) 10 / ১০
-B) 10.5 / ১০.৫
-C) 11 / ১১
-D) 11.5 / ১১.৫
+প্ৰথম 20টা ধনামক অখণ্ড সংখ্যাৰ গড় কিমান?
+A) 10
+B) 10.5
+C) 11
+D) 11.5
 Ans: B
 
 5. A person travels 60 km at 30 km/h and returns at 20 km/h. What is the average speed for the round trip?
 
-এজন ব্যক্তিয়ে ৩০ কিমি/ঘণ্টা বেগেৰে ৬০ কিমি যাত্ৰা কৰে আৰু ২০ কিমি/ঘণ্টা বেগেৰে ঘূৰি আহে। যাত্ৰাটোৰ গড় বেগ কিমান?
-A) 24 km/h / ২৪ কিমি/ঘণ্টা
-B) 25 km/h / ২৫ কিমি/ঘণ্টা
-C) 26 km/h / ২৬ কিমি/ঘণ্টা
-D) 22 km/h / ২২ কিমি/ঘণ্টা
+এজন ব্যক্তিয়ে 30 কিমি/ঘণ্টা বেগেৰে 60 কিমি যাত্ৰা কৰে আৰু 20 কিমি/ঘণ্টা বেগেৰে ঘূৰি আহে। যাত্ৰাটোৰ গড় বেগ কিমান?
+A) 24 km/h / 24 কিমি/ঘণ্টা
+B) 25 km/h / 25 কিমি/ঘণ্টা
+C) 26 km/h / 26 কিমি/ঘণ্টা
+D) 22 km/h / 22 কিমি/ঘণ্টা
 Ans: A
 
 6. Average age of 5 members is 21 years. If the youngest member is 5 years old, find the average age of the family at the birth of the youngest member.
 
-৫ জন সদস্যৰ গড় বয়স ২১ বছৰ। যদি আটাইতকৈ সৰু সদস্যজনৰ বয়স ৫ বছৰ হয়, তেন্তে সৰু সদস্যজনৰ জন্মৰ সময়ত পৰিয়ালটোৰ গড় বয়স কিমান আছিল?
-A) 20 years / ২০ বছৰ
-B) 16 years / ১৬ বছৰ
-C) 18 years / ১৮ বছৰ
-D) 15 years / ১৫ বছৰ
+5 জন সদস্যৰ গড় বয়স 21 বছৰ। যদি আটাইতকৈ সৰু সদস্যজনৰ বয়স 5 বছৰ হয়, তেন্তে সৰু সদস্যজনৰ জন্মৰ সময়ত পৰিয়ালটোৰ গড় বয়স কিমান আছিল?
+A) 20 years / 20 বছৰ
+B) 16 years / 16 বছৰ
+C) 18 years / 18 বছৰ
+D) 15 years / 15 বছৰ
 Ans: A
 
 7. The average of 10 numbers is 20. If each number is multiplied by 2, what will be the new average?
 
-১০টা সংখ্যাৰ গড় ২০। যদি প্ৰতিটো সংখ্যা ২ ৰে গুণ কৰা হয়, তেন্তে নতুন গড় কিমান হ'ব?
-A) 20 / ২০
-B) 30 / ৩০
-C) 40 / ৪০
-D) 10 / ১০
+10টা সংখ্যাৰ গড় 20। যদি প্ৰতিটো সংখ্যা 2 ৰে গুণ কৰা হয়, তেন্তে নতুন গড় কিমান হ'ব?
+A) 20
+B) 30
+C) 40
+D) 10
 Ans: C
 
 8. What is the average of first 15 multiples of 4?
 
-৪ ৰ প্ৰথম ১৫টা গুণিতকৰ গড় কিমান?
-A) 30 / ৩০
-B) 32 / ৩২
-C) 34 / ৩৪
-D) 36 / ৩৬
+4 ৰ প্ৰথম 15টা গুণিতকৰ গড় কিমান?
+A) 30
+B) 32
+C) 34
+D) 36
 Ans: B
 
 9. The average age of a husband and wife at the time of marriage was 25 years. After 2 years, they have a child. What is the average age of the family now when the child is 2 years old?
 
-বিবাহৰ সময়ত স্বামী-পত্নীৰ গড় বয়স ২৫ বছৰ আছিল। ২ বছৰ পিছত তেওঁলোকৰ এটা সন্তান জন্ম হয়। সন্তানটোৰ বয়স ২ বছৰ হ'লে এতিয়া পৰিয়ালটোৰ গড় বয়স কিমান?
-A) 20 years / ২০ বছৰ
-B) 19 years / ১৯ বছৰ
-C) 18 years / ১৮ বছৰ
-D) 21 years / ২১ বছৰ
+বিবাহৰ সময়ত স্বামী-পত্নীৰ গড় বয়স 25 বছৰ আছিল। 2 বছৰ পিছত তেওঁলোকৰ এটা সন্তান জন্ম হয়। সন্তানটোৰ বয়স 2 বছৰ হ'লে এতিয়া পৰিয়ালটোৰ গড় বয়স কিমান?
+A) 20 years / 20 বছৰ
+B) 19 years / 19 বছৰ
+C) 18 years / 18 বছৰ
+D) 21 years / 21 বছৰ
 Ans: A
 
 10. Average of 11 numbers is 60. If the average of first 6 is 58 and last 6 is 63, find the 6th number.
 
-১১টা সংখ্যাৰ গড় ৬০। যদি প্ৰথম ৬টাৰ গড় ৫৮ আৰু শেষৰ ৬টাৰ গড় ৬৩ হয়, তেন্তে ৬ষ্ঠ সংখ্যাটো উলিওৱা।
-A) 66 / ৬৬
-B) 65 / ৬৫
-C) 64 / ৬৪
-D) 62 / ৬২
+11টা সংখ্যাৰ গড় 60। যদি প্ৰথম 6টাৰ গড় 58 আৰু শেষৰ 6টাৰ গড় 63 হয়, তেন্তে 6ষ্ঠ সংখ্যাটো উলিওৱা।
+A) 66
+B) 65
+C) 64
+D) 62
 Ans: A
 
 11. Find the average of all 2-digit numbers.
 
-সকলো ২-সংখ্যাত গঠিত সংখ্যাৰ (10 to 99) গড় উলিওৱা।
-A) 54.5 / ৫৪.৫
-B) 55 / ৫৫
-C) 50 / ৫০
-D) 52.5 / ৫২.৫
+সকলো 2-সংখ্যাত গঠিত সংখ্যাৰ (10 to 99) গড় উলিওৱা।
+A) 54.5
+B) 55
+C) 50
+D) 52.5
 Ans: A
 
 12. A batsman played 15 innings and his average score was 40. In the 16th inning he scored 88 runs. What is his new average?
 
-এজন বেটছমেনে ১৫টা ইনিংছ খেলিছিল আৰু তেওঁৰ গড় ৰাণ আছিল ৪০। ১৬ নম্বৰ ইনিংছত তেওঁ ৮৮ ৰাণ সংগ্ৰহ কৰে। তেওঁৰ নতুন গড় কিমান?
-A) 43 / ৪৩
-B) 42 / ৪২
-C) 44 / ৪৪
-D) 45 / ৪৫
+এজন বেটছমেনে 15টা ইনিংছ খেলিছিল আৰু তেওঁৰ গড় ৰাণ আছিল 40। 16 নম্বৰ ইনিংছত তেওঁ 88 ৰাণ সংগ্ৰহ কৰে। তেওঁৰ নতুন গড় কিমান?
+A) 43
+B) 42
+C) 44
+D) 45
 Ans: A
 
 13. The average weight of 12 items is 18 kg. If one item weighing 29 kg is removed, find the average weight of the remaining items.
 
-১২টা বস্তুর গড় ওজন ১৮ কেজি। যদি ২৯ কেজি ওজনৰ এটা বস্তু আঁতৰাই দিয়া হয়, তেন্তে বাকী বস্তুৰ গড় ওজন উলিওৱা।
-A) 17 kg / ১৭ কেজি
-B) 16.5 kg / ১৬.৫ কেজি
-C) 17.5 kg / ১৭.৫ কেজি
-D) 16 kg / ১৬ কেজি
+12টা বস্তুর গড় ওজন 18 কেজি। যদি 29 কেজি ওজনৰ এটা বস্তু আঁতৰাই দিয়া হয়, তেন্তে বাকী বস্তুৰ গড় ওজন উলিওৱা।
+A) 17 kg / 17 কেজি
+B) 16.5 kg / 16.5 কেজি
+C) 17.5 kg / 17.5 কেজি
+D) 16 kg / 16 কেজি
 Ans: A
 
 14. Average of 4 numbers is 15. If the sum of first 3 numbers is 42, find the 4th number.
 
-৪টা সংখ্যাৰ গড় ১৫। যদি প্ৰথম ৩টা সংখ্যাৰ যোগফল ৪২ হয়, তেন্তে ৪ৰ্থ সংখ্যাটো উলিওৱা।
-A) 18 / ১৮
-B) 16 / ১৬
-C) 20 / ২০
-D) 15 / ১৫
+4টা সংখ্যাৰ গড় 15। যদি প্ৰথম 3টা সংখ্যাৰ যোগফল 42 হয়, তেন্তে 4ৰ্থ সংখ্যাটো উলিওৱা।
+A) 18
+B) 16
+C) 20
+D) 15
 Ans: A
 
 15. Find the average of squares of first 7 natural numbers.
 
-প্ৰথম ৭টা স্বাভাৱিক সংখ্যাৰ বৰ্গৰ গড় উলিওৱা।
-A) 20 / ২০
-B) 18 / ১৮
-C) 22 / ২২
-D) 25 / ২৫
+প্ৰথম 7টা স্বাভাৱিক সংখ্যাৰ বৰ্গৰ গড় উলিওৱা।
+A) 20
+B) 18
+C) 22
+D) 25
 Ans: A
 
 16. The average score of 20 boys is 60 and 30 girls is 70 in a test. What is the average score of all students combined?
 
-এখন পৰীক্ষাত ২০ জন ল'ৰাৰ গড় নম্বৰ ৬০ আৰু ৩০ গৰাকী ছোৱালীৰ ৭০। সকলো ছাত্ৰ-ছাত্ৰীৰ একত্ৰিত গড় নম্বৰ কিমান?
-A) 66 / ৬৬
-B) 65 / ৬৫
-C) 64 / ৬৪
-D) 67 / ৬৭
+এখন পৰীক্ষাত 20 জন ল'ৰাৰ গড় নম্বৰ 60 আৰু 30 গৰাকী ছোৱালীৰ 70। সকলো ছাত্ৰ-ছাত্ৰীৰ একত্ৰিত গড় নম্বৰ কিমান?
+A) 66
+B) 65
+C) 64
+D) 67
 Ans: A
 
 17. The average age of 5 friends is 22 years. If a new friend joins, the average age becomes 23 years. Find the age of the new friend.
 
-৫ জন বন্ধুৰ গড় বয়স ২২ বছৰ। এজন নতুন বন্ধু যোগ দিলে গড় বয়স ২৩ বছৰ হয়। নতুন বন্ধুজনৰ বয়স উলিওৱা।
-A) 28 years / ২৮ বছৰ
-B) 26 years / ২৬ বছৰ
-C) 27 years / ২৭ বছৰ
-D) 30 years / ৩০ বছৰ
+5 জন বন্ধুৰ গড় বয়স 22 বছৰ। এজন নতুন বন্ধু যোগ দিলে গড় বয়স 23 বছৰ হয়। নতুন বন্ধুজনৰ বয়স উলিওৱা।
+A) 28 years / 28 বছৰ
+B) 26 years / 26 বছৰ
+C) 27 years / 27 বছৰ
+D) 30 years / 30 বছৰ
 Ans: A
 
 18. Find the average of first 6 prime numbers.
 
-প্ৰথম ৬টা মৌলিক সংখ্যাৰ গড় উলিওৱা।
-A) 6.83 / ৬.৮৩
-B) 7 / ৭
-C) 7.16 / ৭.১৬
-D) 6.5 / ৬.৫
+প্ৰথম 6টা মৌলিক সংখ্যাৰ গড় উলিওৱা।
+A) 6.83
+B) 7
+C) 7.16
+D) 6.5
 Ans: A
 
 19. The average of 5 consecutive even numbers is 34. What is the sum of these numbers?
 
-৫টা ক্ৰমিক যোৰ সংখ্যাৰ গড় ৩৪। এই সংখ্যাবোৰৰ যোগফল কিমান?
-A) 170 / ১৭০
-B) 160 / ১৬০
-C) 180 / ১৮০
-D) 150 / ১৫০
+5টা ক্ৰমিক যোৰ সংখ্যাৰ গড় 34। এই সংখ্যাবোৰৰ যোগফল কিমান?
+A) 170
+B) 160
+C) 180
+D) 150
 Ans: A
 
 20. Average speed of a car for a journey of 3 hours is 45 km/h. Distance covered in first hour is 40 km and second hour is 50 km. How much distance is covered in the third hour?
 
-৩ ঘণ্টাৰ যাত্ৰাত এখন কাৰৰ গড় বেগ ৪৫ কিমি/ঘণ্টা। প্ৰথম ঘণ্টাত ৪০ কিমি আৰু দ্বিতীয় ঘণ্টাত ৫০ কিমি দূৰত্ব অতিক্ৰম কৰিলে। তৃতীয় ঘণ্টাত কিমান দূৰত্ব অতিক্ৰম কৰিব?
-A) 45 km / ৪৫ কিমি
-B) 40 km / ৪০ কিমি
-C) 50 km / ৫০ কিমি
-D) 55 km / ৫৫ কিমি
+3 ঘণ্টাৰ যাত্ৰাত এখন কাৰৰ গড় বেগ 45 কিমি/ঘণ্টা। প্ৰথম ঘণ্টাত 40 কিমি আৰু দ্বিতীয় ঘণ্টাত 50 কিমি দূৰত্ব অতিক্ৰম কৰিলে। তৃতীয় ঘণ্টাত কিমান দূৰত্ব অতিক্ৰম কৰিব?
+A) 45 km / 45 কিমি
+B) 40 km / 40 কিমি
+C) 50 km / 50 কিমি
+D) 55 km / 55 কিমি
 Ans: A
 
 21. If 5 is added to each of 10 numbers whose average is 15, what is the new average?
 
-১৫ গড় থকা ১০টা সংখ্যাৰ প্ৰতিটোৰ লগত ৫ যোগ কৰিলে নতুন গড় কিমান হ'ব?
-A) 20 / ২০
-B) 15 / ১৫
-C) 25 / ২৫
-D) 30 / ৩০
+15 গড় থকা 10টা সংখ্যাৰ প্ৰতিটোৰ লগত 5 যোগ কৰিলে নতুন গড় কিমান হ'ব?
+A) 20
+B) 15
+C) 25
+D) 30
 Ans: A
 
 22. The average of 8 numbers is 25. If two numbers 10 and 14 are discarded, find the average of remaining numbers.
 
-৮টা সংখ্যাৰ গড় ২৫। যদি ১০ আৰু ১৪ সংখ্যা দুটা বাদ দিয়া হয়, তেন্তে বাকী থকা সংখ্যাবোৰৰ গড় উলিওৱা।
-A) 29 / ২৯
-B) 28 / ২৮
-C) 30 / ৩০
-D) 27 / ২৭
+8টা সংখ্যাৰ গড় 25। যদি 10 আৰু 14 সংখ্যা দুটা বাদ দিয়া হয়, তেন্তে বাকী থকা সংখ্যাবোৰৰ গড় উলিওৱা।
+A) 29
+B) 28
+C) 30
+D) 27
 Ans: A
 
 23. The average height of 6 basketball players is 190 cm. If a player of height 200 cm is replaced by another player of height 182 cm, find the new average height.
 
-৬ জন বাস্কেটবল খেলুৱৈৰ গড় উচ্চতা ১৯০ ছেমি। যদি ২০০ ছেমি উচ্চতাৰ খেলুৱৈ এজনৰ সলনি ১৮২ ছেমি উচ্চতাৰ আন এজন খেলুৱৈ আহে, তেন্তে নতুন গড় উচ্চতা উলিওৱা।
-A) 187 cm / ১৮৭ ছেমি
-B) 188 cm / ১৮৮ ছেমি
-C) 189 cm / ১৮৯ ছেমি
-D) 186 cm / ১৮৬ ছেমি
+6 জন বাস্কেটবল খেলুৱৈৰ গড় উচ্চতা 190 ছেমি। যদি 200 ছেমি উচ্চতাৰ খেলুৱৈ এজনৰ সলনি 182 ছেমি উচ্চতাৰ আন এজন খেলুৱৈ আহে, তেন্তে নতুন গড় উচ্চতা উলিওৱা।
+A) 187 cm / 187 ছেমি
+B) 188 cm / 188 ছেমি
+C) 189 cm / 189 ছেমি
+D) 186 cm / 186 ছেমি
 Ans: A
 
 24. Find the average of all odd numbers between 20 and 40.
 
-২০ আৰু ৪০ ৰ মাজৰ সকলো অযোৰ সংখ্যাৰ গড় উলিওৱা।
-A) 30 / ৩০
-B) 29 / ২৯
-C) 31 / ৩১
-D) 28 / ২৮
+20 আৰু 40 ৰ মাজৰ সকলো অযোৰ সংখ্যাৰ গড় উলিওৱা।
+A) 30
+B) 29
+C) 31
+D) 28
 Ans: A
 
 25. Average of 4 consecutive numbers is 10.5. Find the largest number.
 
-৪টা ক্ৰমিক সংখ্যাৰ গড় ১০.৫। আটাইতকৈ ডাঙৰ সংখ্যাটো উলিওৱা।
-A) 12 / ১২
-B) 11 / ১১
-C) 13 / ১৩
-D) 10 / ১০
+4টা ক্ৰমিক সংখ্যাৰ গড় 10.5। আটাইতকৈ ডাঙৰ সংখ্যাটো উলিওৱা।
+A) 12
+B) 11
+C) 13
+D) 10
 Ans: A

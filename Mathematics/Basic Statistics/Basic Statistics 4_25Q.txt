@@ -9,29 +9,29 @@ Ans: B
 
 2. If mode is 12 and mean is 12, then the median is:
 
-যদি বহুলক ১২ আৰু গড় ১২ হয়, তেন্তে মধ্যমা কিমান?
-A) 12 / ১২
-B) 24 / ২৪
-C) 6 / ৬
-D) 18 / ১৮
+যদি বহুলক 12 আৰু গড় 12 হয়, তেন্তে মধ্যমা কিমান?
+A) 12
+B) 24
+C) 6
+D) 18
 Ans: A
 
 3. Find the mean of the first 6 multiples of 5.
 
-৫ ৰ প্ৰথম ৬ টা গুণিতকৰ গড় নিৰ্ণয় কৰক।
-A) 15 / ১৫
-B) 16.5 / ১৬.৫
-C) 17.5 / ১৭.৫
-D) 20 / ২০
+5 ৰ প্ৰথম 6 টা গুণিতকৰ গড় নিৰ্ণয় কৰক।
+A) 15
+B) 16.5
+C) 17.5
+D) 20
 Ans: C
 
 4. The standard deviation of the numbers 2, 2, 2, 2, 2 is:
 
-২, ২, ২, ২, ২ সংখ্যাকেইটাৰ মানক বিচ্যুতি কিমান?
-A) 0 / ০
-B) 2 / ২
-C) 1 / ১
-D) 4 / ৪
+2, 2, 2, 2, 2 সংখ্যাকেইটাৰ মানক বিচ্যুতি কিমান?
+A) 0
+B) 2
+C) 1
+D) 4
 Ans: A
 
 5. An Ogive is a graphical representation of:
@@ -46,10 +46,10 @@ Ans: D
 6. In a pie chart, the sum of central angles of all sectors is:
 
 এটা পাই চিত্ৰত (Pie chart) সকলো খণ্ডৰ কেন্দ্ৰীয় কোণৰ যোগফল কিমান?
-A) 90° / ৯০°
-B) 180° / ১৮০°
-C) 360° / ৩৬০°
-D) 270° / ২৭০°
+A) 90°
+B) 180°
+C) 360°
+D) 270°
 Ans: C
 
 7. A histogram is used to represent which type of data?
@@ -63,38 +63,38 @@ Ans: A
 
 8. Find the median of prime numbers between 1 and 20.
 
-১ ৰ পৰা ২০ ৰ মাজৰ মৌলিক সংখ্যাবোৰৰ মধ্যমা নিৰ্ণয় কৰক।
-A) 8 / ৮
-B) 9 / ৯
-C) 10 / ১০
-D) 11 / ১১
+1 ৰ পৰা 20 ৰ মাজৰ মৌলিক সংখ্যাবোৰৰ মধ্যমা নিৰ্ণয় কৰক।
+A) 8
+B) 9
+C) 10
+D) 11
 Ans: B
 
 9. Find the mean of the squares of first 5 natural numbers.
 
-প্ৰথম ৫ টা স্বাভাৱিক সংখ্যাৰ বৰ্গৰ গড় নিৰ্ণয় কৰক।
-A) 10 / ১০
-B) 11 / ১১
-C) 12 / ১২
-D) 15 / ১৫
+প্ৰথম 5 টা স্বাভাৱিক সংখ্যাৰ বৰ্গৰ গড় নিৰ্ণয় কৰক।
+A) 10
+B) 11
+C) 12
+D) 15
 Ans: B
 
 10. Mean of 100 items was found to be 50. If one item 60 was misread as 10, find the correct mean.
 
-১০০ টা পদৰ গড় ৫০ পোৱা গ’ল। যদি এটা পদ ৬০ ৰ সলনি ১০ বুলি ভুলকৈ পঢ়া হৈছিল, তেন্তে শুদ্ধ গড়টো নিৰ্ণয় কৰক।
-A) 50.5 / ৫০.৫
-B) 51.0 / ৫১.০
-C) 49.5 / ৪৯.৫
-D) 50.0 / ৫০.০
+100 টা পদৰ গড় 50 পোৱা গ’ল। যদি এটা পদ 60 ৰ সলনি 10 বুলি ভুলকৈ পঢ়া হৈছিল, তেন্তে শুদ্ধ গড়টো নিৰ্ণয় কৰক।
+A) 50.5
+B) 51.0
+C) 49.5
+D) 50.0
 Ans: A
 
 11. If each observation of a dataset is multiplied by 3, the new mean becomes:
 
-যদি এটা তথ্য ৰাশিৰ প্ৰতিটো পৰ্যবেক্ষণক ৩ ৰে পূৰণ কৰা হয়, তেন্তে নতুন গড়টো হ'ব:
+যদি এটা তথ্য ৰাশিৰ প্ৰতিটো পৰ্যবেক্ষণক 3 ৰে পূৰণ কৰা হয়, তেন্তে নতুন গড়টো হ'ব:
 A) Same as original mean / মূল গড়ৰ সমান
-B) 3 times the original mean / মূল গড়ৰ ৩ গুণ
-C) 3 more than original mean / মূল গড়তকৈ ৩ বেছি
-D) 9 times original mean / মূল গড়ৰ ৯ গুণ
+B) 3 times the original mean / মূল গড়ৰ 3 গুণ
+C) 3 more than original mean / মূল গড়তকৈ 3 বেছি
+D) 9 times original mean / মূল গড়ৰ 9 গুণ
 Ans: B
 
 12. The measure of central tendency which lies exactly in the middle when data is arranged in order:
@@ -108,47 +108,47 @@ Ans: B
 
 13. Sum of 5 observations is 120. What is their arithmetic mean?
 
-৫ টা পৰ্যবেক্ষণৰ যোগফল ১২০। সিহঁতৰ গাণিতিক গড় কিমান?
-A) 20 / ২০
-B) 22 / ২২
-C) 25 / ২৫
-D) 24 / ২৪
+5 টা পৰ্যবেক্ষণৰ যোগফল 120। সিহঁতৰ গাণিতিক গড় কিমান?
+A) 20
+B) 22
+C) 25
+D) 24
 Ans: D
 
 14. The variance of 10 numbers is 4. If each number is increased by 2, the new variance will be:
 
-১০ টা সংখ্যাৰ প্ৰসৰণ ৪। যদি প্ৰতিটো সংখ্যা ২ বৃদ্ধি কৰা হয়, তেন্তে নতুন প্ৰসৰণ হ'ব:
-A) 4 / ৪
-B) 6 / ৬
-C) 8 / ৮
-D) 16 / ১৬
+10 টা সংখ্যাৰ প্ৰসৰণ 4। যদি প্ৰতিটো সংখ্যা 2 বৃদ্ধি কৰা হয়, তেন্তে নতুন প্ৰসৰণ হ'ব:
+A) 4
+B) 6
+C) 8
+D) 16
 Ans: A
 
 15. Find the mode of the dataset: 14, 19, 14, 15, 16, 14, 18, 19, 14.
 
-তথ্য ৰাশিটোৰ বহুলক নিৰ্ণয় কৰক: ১৪, ১৯, ১৪, ১৫, ১৬, ১৪, ১৮, ১৯, ১৪।
-A) 19 / ১৯
-B) 15 / ১৫
-C) 14 / ১৪
-D) 16 / ১৬
+তথ্য ৰাশিটোৰ বহুলক নিৰ্ণয় কৰক: 14, 19, 14, 15, 16, 14, 18, 19, 14।
+A) 19
+B) 15
+C) 14
+D) 16
 Ans: C
 
 16. What is the geometric mean of 4 and 16?
 
-৪ আৰু ১৬ ৰ জ্যামিতিক গড় কিমান?
-A) 8 / ৮
-B) 10 / ১০
-C) 6 / ৬
-D) 12 / ১২
+4 আৰু 16 ৰ জ্যামিতিক গড় কিমান?
+A) 8
+B) 10
+C) 6
+D) 12
 Ans: A
 
 17. What is the harmonic mean of 2 and 4?
 
-২ আৰু ৪ ৰ হৰাত্মক গড় (Harmonic mean) কিমান?
-A) 3.0 / ৩.০
-B) 2.67 / ২.৬৭
-C) 3.25 / ৩.২৫
-D) 2.5 / ২.৫
+2 আৰু 4 ৰ হৰাত্মক গড় (Harmonic mean) কিমান?
+A) 3.0
+B) 2.67
+C) 3.25
+D) 2.5
 Ans: B
 
 18. Which inequality represents the relation between AM, GM, and HM for distinct positive numbers?
@@ -180,9 +180,9 @@ Ans: C
 
 21. If the mean is 15 and standard deviation is 3, what is the variance?
 
-যদি গড় ১৫ আৰু মানক বিচ্যুতি ৩ হয়, তেন্তে প্ৰসৰণ কিমান?
-A) 3 / ৩
-B) 5 / ৫
-C) 6 / ৬
-D) 9 / ৯
+যদি গড় 15 আৰু মানক বিচ্যুতি 3 হয়, তেন্তে প্ৰসৰণ কিমান?
+A) 3
+B) 5
+C) 6
+D) 9
 Ans: D

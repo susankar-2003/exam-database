@@ -1,46 +1,46 @@
 1. Find the mean of the first 20 natural numbers.
 
-প্ৰথম ২০ টা স্বাভাৱিক সংখ্যাৰ গড় নিৰ্ণয় কৰক।
-A) 10.0 / ১০.০
-B) 10.5 / ১০.৫
-C) 11.0 / ১১.০
-D) 11.5 / ১১.৫
+প্ৰথম 20 টা স্বাভাৱিক সংখ্যাৰ গড় নিৰ্ণয় কৰক।
+A) 10.0
+B) 10.5
+C) 11.0
+D) 11.5
 Ans: B
 
 2. What is the mean of the first 10 odd natural numbers?
 
-প্ৰথম ১০ টা অযুগ্ম স্বাভাৱিক সংখ্যাৰ গড় কিমান?
-A) 9 / ৯
-B) 10 / ১০
-C) 11 / ১১
-D) 12 / ১২
+প্ৰথম 10 টা অযুগ্ম স্বাভাৱিক সংখ্যাৰ গড় কিমান?
+A) 9
+B) 10
+C) 11
+D) 12
 Ans: B
 
 3. Find the mean of the first 10 even natural numbers.
 
-প্ৰথম ১০ টা যুগ্ম স্বাভাৱিক সংখ্যাৰ গড় নিৰ্ণয় কৰক।
-A) 10 / ১০
-B) 11 / ১১
-C) 12 / ১২
-D) 13 / ১৩
+প্ৰথম 10 টা যুগ্ম স্বাভাৱিক সংখ্যাৰ গড় নিৰ্ণয় কৰক।
+A) 10
+B) 11
+C) 12
+D) 13
 Ans: B
 
 4. What is the formula for the standard deviation of the first n natural numbers?
 
 প্ৰথম n টা স্বাভাৱিক সংখ্যাৰ মানক বিচ্যুতিৰ সূত্ৰটো কি?
-A) √((n^2 - 1) / 12) / √((n^২ - ১) / ১২)
-B) √((n^2 + 1) / 12) / √((n^২ + ১) / ১২)
-C) (n^2 - 1) / 12 / (n^২ - ১) / ১২
-D) √((n - 1) / 12) / √((n - ১) / ১২)
+A) √((n^2 - 1) / 12) / √((n^2 - 1) / 12)
+B) √((n^2 + 1) / 12) / √((n^2 + 1) / 12)
+C) (n^2 - 1) / 12 / (n^2 - 1) / 12
+D) √((n - 1) / 12) / √((n - 1) / 12)
 Ans: A
 
 5. Calculate the standard deviation of the first 5 natural numbers.
 
-প্ৰথম ৫ টা স্বাভাৱিক সংখ্যাৰ মানক বিচ্যুতি গণনা কৰক।
-A) √2 / √২
-B) √3 / √৩
-C) 2 / ২
-D) √5 / √৫
+প্ৰথম 5 টা স্বাভাৱিক সংখ্যাৰ মানক বিচ্যুতি গণনা কৰক।
+A) √2
+B) √3
+C) 2
+D) √5
 Ans: A
 
 6. The sum of the absolute deviations is minimum when taken about which central measure?
@@ -54,11 +54,11 @@ Ans: B
 
 7. If the mode of a dataset is 15 and the mean is 18, find the median using the empirical formula.
 
-যদি এটা তথ্য ৰাশিৰ বহুলক ১৫ আৰু গড় ১৮ হয়, তেন্তে কায়িক সূত্ৰ ব্যৱহাৰ কৰি মধ্যমা নিৰ্ণয় কৰক।
-A) 16 / ১৬
-B) 17 / ১৭
-C) 18 / ১৮
-D) 19 / ১৯
+যদি এটা তথ্য ৰাশিৰ বহুলক 15 আৰু গড় 18 হয়, তেন্তে কায়িক সূত্ৰ ব্যৱহাৰ কৰি মধ্যমা নিৰ্ণয় কৰক।
+A) 16
+B) 17
+C) 18
+D) 19
 Ans: B
 
 8. Which graphical tool represents frequency distribution of a continuous variable using contiguous rectangles?
@@ -72,38 +72,38 @@ Ans: B
 
 9. If weights 1, 2, 3, 4 are assigned to values 10, 20, 30, 40 respectively, what is the weighted mean?
 
-যদি ১০, ২০, ৩০, ৪০ মানকেইটাৰ ভাৰ ক্ৰমে ১, ২, ৩, ৪ হয়, তেন্তে ভাৰযুক্ত গড় কিমান?
-A) 25 / ২৫
-B) 30 / ৩০
-C) 32 / ৩২
-D) 28 / ২৮
+যদি 10, 20, 30, 40 মানকেইটাৰ ভাৰ ক্ৰমে 1, 2, 3, 4 হয়, তেন্তে ভাৰযুক্ত গড় কিমান?
+A) 25
+B) 30
+C) 32
+D) 28
 Ans: B
 
 10. What is the variance of the numbers 5, 5, 5, 5, 5?
 
-৫, ৫, ৫, ৫, ৫ সংখ্যাকেইটাৰ প্ৰসৰণ কিমান?
-A) 5 / ৫
-B) 1 / ১
-C) 0 / ০
-D) 25 / ২৫
+5, 5, 5, 5, 5 সংখ্যাকেইটাৰ প্ৰসৰণ কিমান?
+A) 5
+B) 1
+C) 0
+D) 25
 Ans: C
 
 11. Find the range of the first 10 natural numbers.
 
-প্ৰথম ১০ টা স্বাভাৱিক সংখ্যাৰ পৰিসৰ নিৰ্ণয় কৰক।
-A) 10 / ১০
-B) 9 / ৯
-C) 8 / ৮
-D) 11 / ১১
+প্ৰথম 10 টা স্বাভাৱিক সংখ্যাৰ পৰিসৰ নিৰ্ণয় কৰক।
+A) 10
+B) 9
+C) 8
+D) 11
 Ans: B
 
 12. Find the geometric mean of 3, 9, and 27.
 
-৩, ৯, আৰু ২৭ ৰ জ্যামিতিক গড় নিৰ্ণয় কৰক।
-A) 6 / ৬
-B) 9 / ৯
-C) 12 / ১২
-D) 15 / ১৫
+3, 9, আৰু 27 ৰ জ্যামিতিক গড় নিৰ্ণয় কৰক।
+A) 6
+B) 9
+C) 12
+D) 15
 Ans: B
 
 13. The difference between the maximum and minimum value in a dataset is known as:
@@ -117,38 +117,38 @@ Ans: C
 
 14. What is the harmonic mean of 1 and 2?
 
-১ আৰু ২ ৰ হৰাত্মক গড় কিমান?
-A) 1.33 / ১.৩৩
-B) 1.50 / ১.৫০
-C) 1.25 / ১.২৫
-D) 1.67 / ১.৬৭
+1 আৰু 2 ৰ হৰাত্মক গড় কিমান?
+A) 1.33
+B) 1.50
+C) 1.25
+D) 1.67
 Ans: A
 
 15. The mean of 5 numbers is 20, If one number is excluded, the mean becomes 18, What is the excluded number?
 
-৫ টা সংখ্যাৰ গড় ২০। যদি এটা সংখ্যা বাদ দিয়া হয়, তেন্তে গড় ১৮ হয়। বাদ দিয়া সংখ্যাটো কিমান?
-A) 24 / ২৪
-B) 26 / ২৬
-C) 28 / ২৮
-D) 30 / ৩০
+5 টা সংখ্যাৰ গড় 20। যদি এটা সংখ্যা বাদ দিয়া হয়, তেন্তে গড় 18 হয়। বাদ দিয়া সংখ্যাটো কিমান?
+A) 24
+B) 26
+C) 28
+D) 30
 Ans: C
 
 16. The mean of 4 numbers is 15, If a new number 25 is added to the data, find the new mean.
 
-৪ টা সংখ্যাৰ গড় ১৫। যদি ২৫ সংখ্যাটো যোগ কৰা হয়, তেন্তে নতুন গড়টো কি হ'ব?
-A) 16 / ১৬
-B) 17 / ১৭
-C) 18 / ১৮
-D) 19 / ১৯
+4 টা সংখ্যাৰ গড় 15। যদি 25 সংখ্যাটো যোগ কৰা হয়, তেন্তে নতুন গড়টো কি হ'ব?
+A) 16
+B) 17
+C) 18
+D) 19
 Ans: B
 
 17. What is the formula for the Interquartile Range (IQR)?
 
 আন্তঃচতুৰ্থক পৰিসৰ (IQR) ৰ সূত্ৰটো কি?
-A) Q3 - Q1 / Q৩ - Q১
-B) Q3 + Q1 / Q৩ + Q১
-C) (Q3 - Q1) / 2 / (Q৩ - Q১) / ২
-D) (Q3 + Q1) / 2 / (Q৩ + Q১) / ২
+A) Q3 - Q1
+B) Q3 + Q1
+C) (Q3 - Q1) / 2 / (Q3 - Q1) / 2
+D) (Q3 + Q1) / 2 / (Q3 + Q1) / 2
 Ans: A
 
 18. Semi-interquartile range is also known as:
@@ -171,29 +171,29 @@ Ans: A
 
 20. If 5 is added to each value of a data set, the standard deviation will:
 
-যদি তথ্য ৰাশিৰ প্ৰতিটো মানত ৫ যোগ কৰা হয়, তেন্তে মানক বিচ্যুতিৰ কি পৰিৱৰ্তন হ'ব?
-A) Increase by 5 / ৫ বৃদ্ধি পাব
-B) Decrease by 5 / ৫ হ্ৰাস পাব
+যদি তথ্য ৰাশিৰ প্ৰতিটো মানত 5 যোগ কৰা হয়, তেন্তে মানক বিচ্যুতিৰ কি পৰিৱৰ্তন হ'ব?
+A) Increase by 5 / 5 বৃদ্ধি পাব
+B) Decrease by 5 / 5 হ্ৰাস পাব
 C) Remain unchanged / অপৰিৱৰ্তিত থাকিব
-D) Become 5 times / ৫ গুণ হ'ব
+D) Become 5 times / 5 গুণ হ'ব
 Ans: C
 
 21. Find the mean of the first 5 multiples of 3
 
-৩ ৰ প্ৰথম ৫ টা গুণিতকৰ গড় নিৰ্ণয় কৰক।
-A) 6 / ৬
-B) 9 / ৯
-C) 12 / ১২
-D) 15 / ১৫
+3 ৰ প্ৰথম 5 টা গুণিতকৰ গড় নিৰ্ণয় কৰক।
+A) 6
+B) 9
+C) 12
+D) 15
 Ans: B
 
 22. What is the median of the data set: 10, 12, 14, 16, 18, 20, 22?
 
-তথ্য ৰাশিটোৰ মধ্যমা কিমান: ১০, ১২, ১৪, ১৬, ১৮, ২০, ২২?
-A) 14 / ১৪
-B) 16 / ১৬
-C) 18 / ১৮
-D) 15 / ১৫
+তথ্য ৰাশিটোৰ মধ্যমা কিমান: 10, 12, 14, 16, 18, 20, 22?
+A) 14
+B) 16
+C) 18
+D) 15
 Ans: B
 
 23. A distribution is said to be symmetrical if:

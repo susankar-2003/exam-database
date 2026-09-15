@@ -1,224 +1,224 @@
 1. In what ratio must a solution containing 10% acid be mixed with a solution containing 30% acid to obtain a 25% acid solution?
 
-২৫% এচিড দ্ৰৱ পাবলৈ ১০% এচিড থকা দ্ৰৱ এটা ৩০% এচিড থকা দ্ৰৱৰ সৈতে কি অনুপাতত মিহলাব লাগিব?
-A) 1 : 3 / ১ : ৩
-B) 3 : 1 / ৩ : ১
-C) 2 : 3 / ২ : ৩
-D) 1 : 2 / ১ : ২
+25% এচিড দ্ৰৱ পাবলৈ 10% এচিড থকা দ্ৰৱ এটা 30% এচিড থকা দ্ৰৱৰ সৈতে কি অনুপাতত মিহলাব লাগিব?
+A) 1 : 3
+B) 3 : 1
+C) 2 : 3
+D) 1 : 2
 Ans: A
 
 2. A can contains a mixture of two liquids A and B in the ratio 7 : 5. When 9 liters of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many liters of liquid A was contained by the can initially?
 
-এটা কেনত A আৰু B নামৰ দুটা তৰল ৭ : ৫ অনুপাতত মিহলি হৈ থাকে। যেতিয়া ৯ লিটাৰ মিশ্ৰণ উলিয়াই লোৱা হয় আৰু কেনটো B ৰে পূৰণ কৰা হয়, তেতিয়া A আৰু B ৰ অনুপাত ৭ : ৯ হয়। কেনটোত প্ৰথমতে কিমান লিটাৰ তৰল A আছিল?
-A) 10 liters / ১০ লিটাৰ
-B) 21 liters / ২১ লিটাৰ
-C) 25 liters / ২৫ লিটাৰ
-D) 36 liters / ৩৬ লিটাৰ
+এটা কেনত A আৰু B নামৰ দুটা তৰল 7 : 5 অনুপাতত মিহলি হৈ থাকে। যেতিয়া 9 লিটাৰ মিশ্ৰণ উলিয়াই লোৱা হয় আৰু কেনটো B ৰে পূৰণ কৰা হয়, তেতিয়া A আৰু B ৰ অনুপাত 7 : 9 হয়। কেনটোত প্ৰথমতে কিমান লিটাৰ তৰল A আছিল?
+A) 10 liters / 10 লিটাৰ
+B) 21 liters / 21 লিটাৰ
+C) 25 liters / 25 লিটাৰ
+D) 36 liters / 36 লিটাৰ
 Ans: B
 
 3. In 50 grams alloy of gold and silver, the gold is 80% by weight. How much gold should be added to this alloy so that the percentage of gold is increased to 90%?
 
-সোণ আৰু ৰূপৰ ৫০ গ্ৰাম সংকৰ ধাতুত ওজন অনুসৰি সোণ ৮০%। এই সংকৰ ধাতুটোত কিমান সোণ যোগ কৰিব লাগে যাতে সোণৰ শতাংশ ৯০% লৈ বৃদ্ধি পায়?
-A) 30 grams / ৩০ গ্ৰাম
-B) 40 grams / ৪০ গ্ৰাম
-C) 50 grams / ৫০ গ্ৰাম
-D) 60 grams / ৬০ গ্ৰাম
+সোণ আৰু ৰূপৰ 50 গ্ৰাম সংকৰ ধাতুত ওজন অনুসৰি সোণ 80%। এই সংকৰ ধাতুটোত কিমান সোণ যোগ কৰিব লাগে যাতে সোণৰ শতাংশ 90% লৈ বৃদ্ধি পায়?
+A) 30 grams / 30 গ্ৰাম
+B) 40 grams / 40 গ্ৰাম
+C) 50 grams / 50 গ্ৰাম
+D) 60 grams / 60 গ্ৰাম
 Ans: C
 
 4. Milk and water are in the ratio 3 : 2 in a mixture of 80 liters. How much water should be added so that the ratio becomes 2 : 3?
 
-৮০ লিটাৰৰ এটা মিশ্ৰণত গাখীৰ আৰু পানী ৩ : ২ অনুপাতত থাকে। কিমান পানী যোগ কৰিব লাগে যাতে অনুপাত ২ : ৩ হয়?
-A) 20 liters / ২০ লিটাৰ
-B) 30 liters / ৩০ লিটাৰ
-C) 40 liters / ৪০ লিটাৰ
-D) 50 liters / ৫০ লিটাৰ
+80 লিটাৰৰ এটা মিশ্ৰণত গাখীৰ আৰু পানী 3 : 2 অনুপাতত থাকে। কিমান পানী যোগ কৰিব লাগে যাতে অনুপাত 2 : 3 হয়?
+A) 20 liters / 20 লিটাৰ
+B) 30 liters / 30 লিটাৰ
+C) 40 liters / 40 লিটাৰ
+D) 50 liters / 50 লিটাৰ
 Ans: C
 
 5. A sum of Rs. 312 was divided among 100 boys and girls in such a way that each boy gets Rs. 3.60 and each girl gets Rs. 2.40. The number of girls is:
 
-৩১২ টকা ১০০ জন ল’ৰা-ছোৱালীৰ মাজত এনেদৰে ভাগ কৰা হ’ল যাতে প্ৰতিজন ল’ৰাই ৩.৬০ টকা আৰু প্ৰতিজনী ছোৱালীয়ে ২.৪০ টকা পায়। ছোৱালীৰ সংখ্যা হৈছে:
-A) 40 / ৪০
-B) 60 / ৬০
-C) 35 / ৩৫
-D) 65 / ৬৫
+312 টকা 100 জন ল’ৰা-ছোৱালীৰ মাজত এনেদৰে ভাগ কৰা হ’ল যাতে প্ৰতিজন ল’ৰাই 3.60 টকা আৰু প্ৰতিজনী ছোৱালীয়ে 2.40 টকা পায়। ছোৱালীৰ সংখ্যা হৈছে:
+A) 40
+B) 60
+C) 35
+D) 65
 Ans: A
 
 6. In what ratio must water be mixed with alcohol to gain 20% by selling the mixture at cost price?
 
-মিশ্ৰণটো ক্ৰয় মূল্যত বিক্ৰী কৰি ২০% লাভ কৰিবলৈ পানীৰ সৈতে এলকহল কি অনুপাতত মিহলাব লাগিব?
-A) 1 : 5 / ১ : ৫
-B) 5 : 1 / ৫ : ১
-C) 1 : 4 / ১ : ৪
-D) 4 : 1 / ৪ : ১
+মিশ্ৰণটো ক্ৰয় মূল্যত বিক্ৰী কৰি 20% লাভ কৰিবলৈ পানীৰ সৈতে এলকহল কি অনুপাতত মিহলাব লাগিব?
+A) 1 : 5
+B) 5 : 1
+C) 1 : 4
+D) 4 : 1
 Ans: A
 
 7. The ratio of petrol and kerosene in a container is 3 : 2. When 10 liters of the mixture is taken out and replaced by kerosene, the ratio becomes 2 : 3. Total quantity of the container is:
 
-এটা পাত্ৰত পেট্ৰ’ল আৰু কেৰাচিনৰ অনুপাত ৩ : ২। যেতিয়া ১০ লিটাৰ মিশ্ৰণ উলিয়াই কেৰাচিনেৰে প্ৰতিস্থাপন কৰা হয়, তেতিয়া অনুপাত ২ : ৩ হয়। পাত্ৰটোৰ মুঠ পৰিমাণ হৈছে:
-A) 25 liters / ২৫ লিটাৰ
-B) 30 liters / ৩০ লিটাৰ
-C) 35 liters / ৩৫ লিটাৰ
-D) 40 liters / ৪০ লিটাৰ
+এটা পাত্ৰত পেট্ৰ’ল আৰু কেৰাচিনৰ অনুপাত 3 : 2। যেতিয়া 10 লিটাৰ মিশ্ৰণ উলিয়াই কেৰাচিনেৰে প্ৰতিস্থাপন কৰা হয়, তেতিয়া অনুপাত 2 : 3 হয়। পাত্ৰটোৰ মুঠ পৰিমাণ হৈছে:
+A) 25 liters / 25 লিটাৰ
+B) 30 liters / 30 লিটাৰ
+C) 35 liters / 35 লিটাৰ
+D) 40 liters / 40 লিটাৰ
 Ans: B
 
 8. How many liters of water must be added to 30 liters of a mixture of milk and water containing milk and water in the ratio 7 : 3 so that the resulting mixture has 40% water?
 
-গাখীৰ আৰু পানী ৭ : ৩ অনুপাতত থকা ৩০ লিটাৰ মিশ্ৰণত কিমান লিটাৰ পানী যোগ কৰিব লাগিব যাতে পৰিণামস্বৰূপ মিশ্ৰণটোত ৪০% পানী থাকে?
-A) 5 liters / ৫ লিটাৰ
-B) 6 liters / ৬ লিটাৰ
-C) 7 liters / ৭ লিটাৰ
-D) 8 liters / ৮ লিটাৰ
+গাখীৰ আৰু পানী 7 : 3 অনুপাতত থকা 30 লিটাৰ মিশ্ৰণত কিমান লিটাৰ পানী যোগ কৰিব লাগিব যাতে পৰিণামস্বৰূপ মিশ্ৰণটোত 40% পানী থাকে?
+A) 5 liters / 5 লিটাৰ
+B) 6 liters / 6 লিটাৰ
+C) 7 liters / 7 লিটাৰ
+D) 8 liters / 8 লিটাৰ
 Ans: A
 
 9. A mixture of 20 kg of spirit and water contains 10% water. How much water must be added to this mixture to raise the percentage of water to 25%?
 
-২০ কেজি স্পিৰিট আৰু পানীৰ মিশ্ৰণত ১০% পানী থাকে। পানীৰ শতাংশ ২৫% লৈ বৃদ্ধি কৰিবলৈ এই মিশ্ৰণটোত কিমান পানী যোগ কৰিব লাগিব?
-A) 4 kg / ৪ কেজি
-B) 5 kg / ৫ কেজি
-C) 8 kg / ৮ কেজি
-D) 30 kg / ৩০ কেজি
+20 কেজি স্পিৰিট আৰু পানীৰ মিশ্ৰণত 10% পানী থাকে। পানীৰ শতাংশ 25% লৈ বৃদ্ধি কৰিবলৈ এই মিশ্ৰণটোত কিমান পানী যোগ কৰিব লাগিব?
+A) 4 kg / 4 কেজি
+B) 5 kg / 5 কেজি
+C) 8 kg / 8 কেজি
+D) 30 kg / 30 কেজি
 Ans: A
 
 10. Pure milk costs Rs. 20 per liter. After adding water, a milkman sells the mixture at Rs. 18 per liter and thereby makes a profit of 20%. In what ratio does he mix milk and water?
 
-বিশুদ্ধ গাখীৰৰ মূল্য ২০ টকা প্ৰতি লিটাৰ। পানী যোগ কৰাৰ পিছত এজন গাখীৰৱালাই মিশ্ৰণটো ১৮ টকা প্ৰতি লিটাৰত বিক্ৰী কৰে আৰু যাৰ ফলত ২০% লাভ হয়। তেওঁ কি অনুপাতত গাখীৰ আৰু পানী মিহলায়?
-A) 3 : 1 / ৩ : ১
-B) 4 : 1 / ৪ : ১
-C) 3 : 2 / ৩ : ২
-D) 2 : 3 / ২ : ৩
+বিশুদ্ধ গাখীৰৰ মূল্য 20 টকা প্ৰতি লিটাৰ। পানী যোগ কৰাৰ পিছত এজন গাখীৰৱালাই মিশ্ৰণটো 18 টকা প্ৰতি লিটাৰত বিক্ৰী কৰে আৰু যাৰ ফলত 20% লাভ হয়। তেওঁ কি অনুপাতত গাখীৰ আৰু পানী মিহলায়?
+A) 3 : 1
+B) 4 : 1
+C) 3 : 2
+D) 2 : 3
 Ans: A
 
 11. An alloy contains 80% copper and 20% tin. Another alloy contains 85% copper and 12% tin. In what ratio should these two alloys be mixed so that the new mixture has 15% tin?
 
-এটা সংকৰ ধাতুত ৮০% তাম আৰু ২০% টিন থাকে। আন এটা সংকৰ ধাতুত ৮৫% তাম আৰু ১২% টিন থাকে। এই দুটা সংকৰ ধাতু কি অনুপাতত মিহলাব লাগে যাতে নতুন মিশ্ৰণটোত ১৫% টিন থাকে?
-A) 3 : 5 / ৩ : ৫
-B) 5 : 3 / ৫ : ৩
-C) 2 : 3 / ২ : ৩
-D) 3 : 2 / ৩ : ২
+এটা সংকৰ ধাতুত 80% তাম আৰু 20% টিন থাকে। আন এটা সংকৰ ধাতুত 85% তাম আৰু 12% টিন থাকে। এই দুটা সংকৰ ধাতু কি অনুপাতত মিহলাব লাগে যাতে নতুন মিশ্ৰণটোত 15% টিন থাকে?
+A) 3 : 5
+B) 5 : 3
+C) 2 : 3
+D) 3 : 2
 Ans: A
 
 12. A vessel contains 60 liters of milk. 12 liters of milk is taken out and replaced by water. Then 12 liters of the mixture is taken out and replaced by water. The ratio of milk and water in the resultant mixture is:
 
-এটা পাত্ৰত ৬০ লিটাৰ গাখীৰ থাকে। ১২ লিটাৰ গাখীৰ উলিয়াই পানীৰে প্ৰতিস্থাপন কৰা হয়। ইয়াৰ পিছত ১২ লিটাৰ মিশ্ৰণ উলিয়াই পানীৰে প্ৰতিস্থাপন কৰা হয়। পৰিণামস্বৰূপ মিশ্ৰণটোত গাখীৰ আৰু পানীৰ অনুপাত হৈছে:
-A) 16 : 9 / ১৬ : ৯
-B) 16 : 25 / ১৬ : ২৫
-C) 25 : 16 / ২৫ : ১৬
-D) 9 : 16 / ৯ : ১৬
+এটা পাত্ৰত 60 লিটাৰ গাখীৰ থাকে। 12 লিটাৰ গাখীৰ উলিয়াই পানীৰে প্ৰতিস্থাপন কৰা হয়। ইয়াৰ পিছত 12 লিটাৰ মিশ্ৰণ উলিয়াই পানীৰে প্ৰতিস্থাপন কৰা হয়। পৰিণামস্বৰূপ মিশ্ৰণটোত গাখীৰ আৰু পানীৰ অনুপাত হৈছে:
+A) 16 : 9
+B) 16 : 25
+C) 25 : 16
+D) 9 : 16
 Ans: A
 
 13. Find the ratio in which rice at Rs. 7.20 a kg be mixed with rice at Rs. 5.70 a kg to produce a mixture worth Rs. 6.30 a kg.
 
-৭.২০ টকা প্ৰতি কেজি মূল্যৰ চাউল ৫.৭০ টকা প্ৰতি কেজি মূল্যৰ চাউলৰ সৈতে কি অনুপাতত মিহলালে ৬.৩০ টকা প্ৰতি কেজি মূল্যৰ মিশ্ৰণ পোৱা যাব নিৰ্ণয় কৰক।
-A) 1 : 3 / ১ : ৩
-B) 2 : 3 / ২ : ৩
-C) 3 : 4 / ৩ : ৪
-D) 2 : 5 / ২ : ৫
+7.20 টকা প্ৰতি কেজি মূল্যৰ চাউল 5.70 টকা প্ৰতি কেজি মূল্যৰ চাউলৰ সৈতে কি অনুপাতত মিহলালে 6.30 টকা প্ৰতি কেজি মূল্যৰ মিশ্ৰণ পোৱা যাব নিৰ্ণয় কৰক।
+A) 1 : 3
+B) 2 : 3
+C) 3 : 4
+D) 2 : 5
 Ans: B
 
 14. The average salary of all workers in a workshop is Rs. 8000. The average salary of 7 technicians is Rs. 12000 and the average salary of the rest is Rs. 6000. The total number of workers in the workshop is:
 
-এটা কৰ্মশালাৰ সকলো শ্ৰমিকৰ গড় দৰমহা ৮০০০ টকা। ৭ জন টেকনিচিয়ানৰ গড় দৰমহা ১২০০০ টকা আৰু বাকীসকলৰ গড় দৰমহা ৬০০০ টকা। কৰ্মশালাটোত মুঠ শ্ৰমিকৰ সংখ্যা হৈছে:
-A) 20 / ২০
-B) 21 / ২১
-C) 22 / ২২
-D) 23 / ২৩
+এটা কৰ্মশালাৰ সকলো শ্ৰমিকৰ গড় দৰমহা 8000 টকা। 7 জন টেকনিচিয়ানৰ গড় দৰমহা 12000 টকা আৰু বাকীসকলৰ গড় দৰমহা 6000 টকা। কৰ্মশালাটোত মুঠ শ্ৰমিকৰ সংখ্যা হৈছে:
+A) 20
+B) 21
+C) 22
+D) 23
 Ans: B
 
 15. Two vessels A and B contain acid and water in the ratio 4 : 3 and 5 : 3 respectively. In what ratio should the liquids be mixed from both vessels to get a new mixture containing acid and water in the ratio 3 : 2?
 
-দুটা পাত্ৰ A আৰু B ত ক্ৰমান্বয়ে ৪ : ৩ আৰু ৫ : ৩ অনুপাতত এচিড আৰু পানী থাকে। এচিড আৰু পানী ৩ : ২ অনুপাতত থকা নতুন মিশ্ৰণ পাবলৈ দুয়োটা পাত্ৰৰ পৰা তৰল পদাৰ্থসমূহ কি অনুপাতত মিহলাব লাগিব?
-A) 7 : 8 / ৭ : ৮
-B) 7 : 5 / ৭ : ৫
-C) 4 : 7 / ৪ : ৭
-D) 5 : 7 / ৫ : ৭
+দুটা পাত্ৰ A আৰু B ত ক্ৰমান্বয়ে 4 : 3 আৰু 5 : 3 অনুপাতত এচিড আৰু পানী থাকে। এচিড আৰু পানী 3 : 2 অনুপাতত থকা নতুন মিশ্ৰণ পাবলৈ দুয়োটা পাত্ৰৰ পৰা তৰল পদাৰ্থসমূহ কি অনুপাতত মিহলাব লাগিব?
+A) 7 : 8
+B) 7 : 5
+C) 4 : 7
+D) 5 : 7
 Ans: A
 
 16. A trader has 50 kg of pulses, part of which he sells at 8% profit and the rest at 18% profit. He gains 14% on the whole. What is the quantity sold at 18% profit?
 
-এজন ব্যৱসায়ীৰ ওচৰত ৫০ কেজি দাইল আছে, তাৰে কিছু অংশ ৮% লাভত আৰু বাকী অংশ ১৮% লাভত বিক্ৰী কৰে। সমগ্ৰ বিক্ৰীত তেওঁ ১৪% লাভ কৰে। ১৮% লাভত বিক্ৰী কৰা পৰিমাণ কিমান?
-A) 30 kg / ৩০ কেজি
-B) 20 kg / ২০ কেজি
-C) 25 kg / ২৫ কেজি
-D) 35 kg / ৩৫ কেজি
+এজন ব্যৱসায়ীৰ ওচৰত 50 কেজি দাইল আছে, তাৰে কিছু অংশ 8% লাভত আৰু বাকী অংশ 18% লাভত বিক্ৰী কৰে। সমগ্ৰ বিক্ৰীত তেওঁ 14% লাভ কৰে। 18% লাভত বিক্ৰী কৰা পৰিমাণ কিমান?
+A) 30 kg / 30 কেজি
+B) 20 kg / 20 কেজি
+C) 25 kg / 25 কেজি
+D) 35 kg / 35 কেজি
 Ans: A
 
 17. How much pure alcohol must be added to 400 ml of a solution containing 15% alcohol to change the concentration to 32%?
 
-১৫% এলকহল থকা ৪০০ মিলি দ্ৰৱত কিমান বিশুদ্ধ এলকহল যোগ কৰিব লাগিব যাতে গাঢ়তা ৩২% লৈ পৰিৱৰ্তিত হয়?
-A) 100 ml / ১০০ মিলি
-B) 80 ml / ৮০ মিলি
-C) 120 ml / ১২০ মিলি
-D) 60 ml / ৬০ মিলি
+15% এলকহল থকা 400 মিলি দ্ৰৱত কিমান বিশুদ্ধ এলকহল যোগ কৰিব লাগিব যাতে গাঢ়তা 32% লৈ পৰিৱৰ্তিত হয়?
+A) 100 ml / 100 মিলি
+B) 80 ml / 80 মিলি
+C) 120 ml / 120 মিলি
+D) 60 ml / 60 মিলি
 Ans: A
 
 18. A mixture of 150 liters of wine and water contains 20% water. How much more water should be added so that water becomes 25% of the new mixture?
 
-১৫০ লিটাৰ মদ আৰু পানীৰ মিশ্ৰণত ২০% পানী থাকে। আৰু কিমান পানী যোগ কৰিব লাগে যাতে নতুন মিশ্ৰণটোত পানী ২৫% হয়?
-A) 10 liters / ১০ লিটাৰ
-B) 20 liters / ২০ লিটাৰ
-C) 30 liters / ৩০ লিটাৰ
-D) 40 liters / ৪০ লিটাৰ
+150 লিটাৰ মদ আৰু পানীৰ মিশ্ৰণত 20% পানী থাকে। আৰু কিমান পানী যোগ কৰিব লাগে যাতে নতুন মিশ্ৰণটোত পানী 25% হয়?
+A) 10 liters / 10 লিটাৰ
+B) 20 liters / 20 লিটাৰ
+C) 30 liters / 30 লিটাৰ
+D) 40 liters / 40 লিটাৰ
 Ans: A
 
 19. In a zoo, there are rabbits and pigeons. If heads are counted, there are 200 and if legs are counted, there are 580. How many pigeons are there?
 
-এটা চিৰিয়াখানাত চৰাই (পাৰো) আৰু শহাপহু আছে। যদি মূৰ গণনা কৰা হয়, ২০০ টা আৰু যদি ভৰি গণনা কৰা হয়, ৫৮০ টা। চিৰিয়াখানাখনত কিমান পাৰো চৰাই আছে?
-A) 110 / ১১০
-B) 90 / ৯০
-C) 120 / ১২০
-D) 80 / ৮০
+এটা চিৰিয়াখানাত চৰাই (পাৰো) আৰু শহাপহু আছে। যদি মূৰ গণনা কৰা হয়, 200 টা আৰু যদি ভৰি গণনা কৰা হয়, 580 টা। চিৰিয়াখানাখনত কিমান পাৰো চৰাই আছে?
+A) 110
+B) 90
+C) 120
+D) 80
 Ans: A
 
 20. Milk and water are mixed in a vessel A in the ratio 5 : 2 and in vessel B in the ratio 8 : 5. In what ratio should quantities be taken from A and B so as to form a mixture in which milk and water will be in the ratio 9 : 4?
 
-পাত্ৰ A ত ৫ : ২ অনুপাতত আৰু পাত্ৰ B ত ৮ : ৫ অনুপাতত গাখীৰ আৰু পানী মিহলি কৰা হয়। A আৰু B ৰ পৰা কি অনুপাতত পৰিমাণ লব লাগিব যাতে গঠন হোৱা মিশ্ৰণত গাখীৰ আৰু পানী ৯ : ৪ অনুপাতত থাকে?
-A) 7 : 2 / ৭ : ২
-B) 2 : 7 / ২ : ৭
-C) 3 : 5 / ৩ : ৫
-D) 5 : 3 / ৫ : ৩
+পাত্ৰ A ত 5 : 2 অনুপাতত আৰু পাত্ৰ B ত 8 : 5 অনুপাতত গাখীৰ আৰু পানী মিহলি কৰা হয়। A আৰু B ৰ পৰা কি অনুপাতত পৰিমাণ লব লাগিব যাতে গঠন হোৱা মিশ্ৰণত গাখীৰ আৰু পানী 9 : 4 অনুপাতত থাকে?
+A) 7 : 2
+B) 2 : 7
+C) 3 : 5
+D) 5 : 3
 Ans: A
 
 21. A bucket contains a mixture of two liquids A and B in the ratio 7 : 5. If 9 liters of the mixture is replaced by 9 liters of liquid B, the ratio becomes 7 : 9. How many liters of liquid A was present initially?
 
-এটা বাল্টিত A আৰু B নামৰ দুটা তৰল ৭ : ৫ অনুপাতত থাকে। যদি ৯ লিটাৰ মিশ্ৰণ ৯ লিটাৰ তৰল B ৰে প্ৰতিস্থাপন কৰা হয়, তেন্তে অনুপাত ৭ : ৯ হয়। প্ৰথমতে কিমান লিটাৰ তৰল A উপস্থিত আছিল?
-A) 21 liters / ২১ লিটাৰ
-B) 20 liters / ২০ লিটাৰ
-C) 18 liters / ১৮ লিটাৰ
-D) 24 liters / ২৪ কেজি
+এটা বাল্টিত A আৰু B নামৰ দুটা তৰল 7 : 5 অনুপাতত থাকে। যদি 9 লিটাৰ মিশ্ৰণ 9 লিটাৰ তৰল B ৰে প্ৰতিস্থাপন কৰা হয়, তেন্তে অনুপাত 7 : 9 হয়। প্ৰথমতে কিমান লিটাৰ তৰল A উপস্থিত আছিল?
+A) 21 liters / 21 লিটাৰ
+B) 20 liters / 20 লিটাৰ
+C) 18 liters / 18 লিটাৰ
+D) 24 liters / 24 কেজি
 Ans: A
 
 22. A sum of Rs. 1000 is lent out in two parts, one at 8% simple interest and the other at 10% simple interest. If the average annual rate of interest is 9.2%, the two parts are:
 
-১০০০ টকাৰ এটা ধন ৰাশি দুটা অংশত ধাৰে দিয়া হয়, এটা ৮% সৰল সুতত আৰু আনটো ১০% সৰল সুতত। যদি গড় বাৰ্ষিক সুতৰ হাৰ ৯.২% হয়, তেন্তে অংশ দুটা হৈছে:
-A) Rs. 400, Rs. 600 / ৪০০ টকা, ৬০০ টকা
-B) Rs. 500, Rs. 500 / ৫০০ টকা, ৫০০ টকা
-C) Rs. 300, Rs. 700 / ৩০০ টকা, ৭০০ টকা
-D) Rs. 450, Rs. 550 / ৪৫০ টকা, ৫৫০ টকা
+1000 টকাৰ এটা ধন ৰাশি দুটা অংশত ধাৰে দিয়া হয়, এটা 8% সৰল সুতত আৰু আনটো 10% সৰল সুতত। যদি গড় বাৰ্ষিক সুতৰ হাৰ 9.2% হয়, তেন্তে অংশ দুটা হৈছে:
+A) Rs. 400, Rs. 600 / 400 টকা, 600 টকা
+B) Rs. 500, Rs. 500 / 500 টকা, 500 টকা
+C) Rs. 300, Rs. 700 / 300 টকা, 700 টকা
+D) Rs. 450, Rs. 550 / 450 টকা, 550 টকা
 Ans: A
 
 23. Water is mixed with milk to gain 16.66% by selling the mixture at cost price. What is the ratio of water to milk in the mixture?
 
-মিশ্ৰণটো ক্ৰয় মূল্যত বিক্ৰী কৰি ১৬.৬৬% লাভ কৰিবলৈ গাখীৰৰ সৈতে পানী মিহলোৱা হয়। মিশ্ৰণটোত পানী আৰু গাখীৰৰ অনুপাত কিমান?
-A) 1 : 6 / ১ : ৬
-B) 6 : 1 / ৬ : ১
-C) 1 : 5 / ১ : ৫
-D) 5 : 1 / ৫ : ১
+মিশ্ৰণটো ক্ৰয় মূল্যত বিক্ৰী কৰি 16.66% লাভ কৰিবলৈ গাখীৰৰ সৈতে পানী মিহলোৱা হয়। মিশ্ৰণটোত পানী আৰু গাখীৰৰ অনুপাত কিমান?
+A) 1 : 6
+B) 6 : 1
+C) 1 : 5
+D) 5 : 1
 Ans: A
 
 24. How many liters of a 12% solution of acid must be added to 20 liters of a 30% solution of acid to decrease the concentration to 20%?
 
-গাঢ়তা ২০% লৈ হ্ৰাস কৰিবলৈ ৩০% এচিড দ্ৰৱৰ ২০ লিটাৰত ১২% এচিড দ্ৰৱৰ কিমান লিটাৰ যোগ কৰিব লাগিব?
-A) 25 liters / ২৫ লিটাৰ
-B) 20 liters / ২০ লিটাৰ
-C) 30 liters / ৩০ লিটাৰ
-D) 15 liters / ১৫ লিটাৰ
+গাঢ়তা 20% লৈ হ্ৰাস কৰিবলৈ 30% এচিড দ্ৰৱৰ 20 লিটাৰত 12% এচিড দ্ৰৱৰ কিমান লিটাৰ যোগ কৰিব লাগিব?
+A) 25 liters / 25 লিটাৰ
+B) 20 liters / 20 লিটাৰ
+C) 30 liters / 30 লিটাৰ
+D) 15 liters / 15 লিটাৰ
 Ans: A
 
 25. Three containers have capacities in the ratio 2 : 3 : 4. They are filled with mixtures of milk and water in the ratios 4 : 1, 3 : 1 and 5 : 2 respectively. The contents of all three containers are poured into a fourth container. The ratio of milk and water in the fourth container is:
 
-তিনিটা পাত্ৰৰ ধাৰণক্ষমতা ২ : ৩ : ৪ অনুপাতত। এইবোৰ ক্ৰমান্বয়ে ৪ : ১, ৩ : ১ আৰু ৫ : ২ অনুপাতত গাখীৰ আৰু পানীৰ মিশ্ৰণেৰে ভৰোৱা হয়। তিনিওটা পাত্ৰৰ উপাদান চতুৰ্থ পাত্ৰত ঢালি দিয়া হয়। চতুৰ্থ পাত্ৰটোত গাখীৰ আৰু পানীৰ অনুপাত হৈছে:
-A) 157 : 53 / ১৫৭ : ৫৩
-B) 140 : 41 / ১৪০ : ৪১
-C) 120 : 35 / ১২০ : ৩৫
-D) 150 : 50 / ১৫০ : ৫০
+তিনিটা পাত্ৰৰ ধাৰণক্ষমতা 2 : 3 : 4 অনুপাতত। এইবোৰ ক্ৰমান্বয়ে 4 : 1, 3 : 1 আৰু 5 : 2 অনুপাতত গাখীৰ আৰু পানীৰ মিশ্ৰণেৰে ভৰোৱা হয়। তিনিওটা পাত্ৰৰ উপাদান চতুৰ্থ পাত্ৰত ঢালি দিয়া হয়। চতুৰ্থ পাত্ৰটোত গাখীৰ আৰু পানীৰ অনুপাত হৈছে:
+A) 157 : 53
+B) 140 : 41
+C) 120 : 35
+D) 150 : 50
 Ans: A

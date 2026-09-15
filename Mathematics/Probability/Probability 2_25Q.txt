@@ -1,224 +1,224 @@
 1. A card is drawn from a pack of 52 cards. What is the probability of getting a red card?
 
-৫২ খন তাছৰ পেকেটৰ পৰা এখন তাছ উলিওৱা হয়। ৰঙা ৰঙৰ তাছ পোৱাৰ সম্ভাৱনা কিমান?
-A) 1/4 / ১/৪
-B) 1/2 / ১/২
-C) 1/13 / ১/১৩
-D) 3/4 / ৩/৪
+52 খন তাছৰ পেকেটৰ পৰা এখন তাছ উলিওৱা হয়। ৰঙা ৰঙৰ তাছ পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/4 / 1/4
+B) 1/2 / 1/2
+C) 1/13 / 1/13
+D) 3/4 / 3/4
 Ans: B
 
 2. Two dice are thrown simultaneously. What is the probability that the sum of the numbers appearing on them is a prime number?
 
 দুটা পাশাগুটি একেলগে মৰা হয়। তাত ওলোৱা সংখ্যা দুটাৰ যোগফল এটা মৌলিক সংখ্যা হোৱাৰ সম্ভাৱনা কিমান?
-A) 5/12 / ৫/১২
-B) 1/2 / ১/২
-C) 7/36 / ৭/৩৬
-D) 5/18 / ৫/১৮
+A) 5/12 / 5/12
+B) 1/2 / 1/2
+C) 7/36 / 7/36
+D) 5/18 / 5/18
 Ans: A
 
 3. A letter is chosen at random from the word ASSAM. What is the probability that it is 'A'?
 
 ASSAM শব্দটোৰ পৰা যাদৃচ্ছিকভাৱে এটা আখৰ বাছি লোৱা হয়। আখৰটো 'A' হোৱাৰ সম্ভাৱনা কিমান?
-A) 1/5 / ১/৫
-B) 2/5 / ২/৫
-C) 3/5 / ৩/৫
-D) 1/2 / ১/২
+A) 1/5 / 1/5
+B) 2/5 / 2/5
+C) 3/5 / 3/5
+D) 1/2 / 1/2
 Ans: B
 
 4. A bag contains 3 red and 7 black balls. Two balls are drawn at random without replacement. What is the probability that both are black?
 
-এটা মোনাত ৩ টা ৰঙা আৰু ৭ টা ক'লা বল আছে। প্ৰতিস্থাপন নকৰাকৈ যাদৃচ্ছিকভাৱে দুটা বল উলিওৱা হয়। দুয়োটা ক'লা হোৱাৰ সম্ভাৱনা কিমান?
-A) 7/15 / ৭/১৫
-B) 21/50 / ২১/৫০
-C) 7/10 / ৭/১০
-D) 14/45 / ১৪/৪৫
+এটা মোনাত 3 টা ৰঙা আৰু 7 টা ক'লা বল আছে। প্ৰতিস্থাপন নকৰাকৈ যাদৃচ্ছিকভাৱে দুটা বল উলিওৱা হয়। দুয়োটা ক'লা হোৱাৰ সম্ভাৱনা কিমান?
+A) 7/15 / 7/15
+B) 21/50 / 21/50
+C) 7/10 / 7/10
+D) 14/45 / 14/45
 Ans: A
 
 5. Two cards are drawn at random from a pack of 52 cards. What is the probability that both are kings?
 
-৫২ খন তাছৰ পেকেটৰ পৰা যাদৃচ্ছিকভাৱে দুখন তাছ উলিওৱা হয়। দুয়োখন ৰজা (King) হোৱাৰ সম্ভাৱনা কিমান?
-A) 1/221 / ১/২২১
-B) 2/221 / ২/২২১
-C) 1/169 / ১/১৬৯
-D) 1/13 / ১/১৩
+52 খন তাছৰ পেকেটৰ পৰা যাদৃচ্ছিকভাৱে দুখন তাছ উলিওৱা হয়। দুয়োখন ৰজা (King) হোৱাৰ সম্ভাৱনা কিমান?
+A) 1/221 / 1/221
+B) 2/221 / 2/221
+C) 1/169 / 1/169
+D) 1/13 / 1/13
 Ans: A
 
 6. A number is selected at random from 1 to 50. What is the probability that it is divisible by 7?
 
-১ ৰ পৰা ৫০ লৈ যাদৃচ্ছিকভাৱে এটা সংখ্যা বাছি লোৱা হয়। সংখ্যাটো ৭ ৰে বিভাজ্য হোৱাৰ সম্ভাৱনা কিমান?
-A) 7/50 / ৭/৫০
-B) 1/7 / ১/৭
-C) 8/50 / ৮/৫০
-D) 3/25 / ৩/২৫
+1 ৰ পৰা 50 লৈ যাদৃচ্ছিকভাৱে এটা সংখ্যা বাছি লোৱা হয়। সংখ্যাটো 7 ৰে বিভাজ্য হোৱাৰ সম্ভাৱনা কিমান?
+A) 7/50 / 7/50
+B) 1/7 / 1/7
+C) 8/50 / 8/50
+D) 3/25 / 3/25
 Ans: A
 
 7. Two coins are tossed. What is the probability of getting both heads?
 
 দুটা মুদ্ৰা টছ কৰা হয়। দুয়োটাতে মূৰ (Head) পোৱাৰ সম্ভাৱনা কিমান?
-A) 1/2 / ১/২
-B) 1/4 / ১/৪
-C) 3/4 / ৩/৪
-D) 1/8 / ১/৮
+A) 1/2 / 1/2
+B) 1/4 / 1/4
+C) 3/4 / 3/4
+D) 1/8 / 1/8
 Ans: B
 
 8. In a single throw of a die, what is the probability of getting a multiple of 3?
 
-এটা পাশাগুটি এবাৰ মাৰিলে, ৩ ৰ গুণিতক পোৱাৰ সম্ভাৱনা কিমান?
-A) 1/6 / ১/৬
-B) 1/3 / ১/৩
-C) 1/2 / ১/২
-D) 2/3 / ২/৩
+এটা পাশাগুটি এবাৰ মাৰিলে, 3 ৰ গুণিতক পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/6 / 1/6
+B) 1/3 / 1/3
+C) 1/2 / 1/2
+D) 2/3 / 2/3
 Ans: B
 
 9. A bag contains 5 red and 3 white balls. Two balls are drawn at random. What is the probability that one is red and one is white?
 
-এটা মোনাত ৫ টা ৰঙা আৰু ৩ টা বগা বল আছে। যাদৃচ্ছিকভাৱে দুটা বল উলিওৱা হয়। এটা ৰঙা আৰু এটা বগা হোৱাৰ সম্ভাৱনা কিমান?
-A) 15/28 / ১৫/২৮
-B) 5/14 / ৫/১৪
-C) 3/28 / ৩/২৮
-D) 15/56 / ১৫/৫৬
+এটা মোনাত 5 টা ৰঙা আৰু 3 টা বগা বল আছে। যাদৃচ্ছিকভাৱে দুটা বল উলিওৱা হয়। এটা ৰঙা আৰু এটা বগা হোৱাৰ সম্ভাৱনা কিমান?
+A) 15/28 / 15/28
+B) 5/14 / 5/14
+C) 3/28 / 3/28
+D) 15/56 / 15/56
 Ans: A
 
 10. A card is drawn from a pack of 52 cards. What is the probability of getting a red king?
 
-৫২ খন তাছৰ পেকেটৰ পৰা এখন তাছ উলিওৱা হয়। ৰঙা ৰঙৰ ৰজা (Red King) পোৱাৰ সম্ভাৱনা কিমান?
-A) 1/13 / ১/১৩
-B) 1/26 / ১/২৬
-C) 1/52 / ১/৫২
-D) 2/13 / ২/১৩
+52 খন তাছৰ পেকেটৰ পৰা এখন তাছ উলিওৱা হয়। ৰঙা ৰঙৰ ৰজা (Red King) পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/13 / 1/13
+B) 1/26 / 1/26
+C) 1/52 / 1/52
+D) 2/13 / 2/13
 Ans: B
 
 11. Four unbiased coins are tossed. What is the probability of getting at least one head?
 
 চাৰিটা পক্ষপাতহীন মুদ্ৰা টছ কৰা হয়। কমেও এটা মূৰ (Head) পোৱাৰ সম্ভাৱনা কিমান?
-A) 1/16 / ১/১৬
-B) 15/16 / ১৫/১৬
-C) 7/8 / ৭/৮
-D) 3/4 / ৩/৪
+A) 1/16 / 1/16
+B) 15/16 / 15/16
+C) 7/8 / 7/8
+D) 3/4 / 3/4
 Ans: B
 
 12. What is the probability of an impossible event?
 
 এটা অসম্ভব ঘটনাৰ সম্ভাৱনা কিমান?
-A) 1 / ১
-B) 0 / ০
-C) 0.5 / ০.৫
-D) -1 / -১
+A) 1
+B) 0
+C) 0.5
+D) -1
 Ans: B
 
 13. What is the probability of a sure event?
 
 এটা নিশ্চিত ঘটনাৰ সম্ভাৱনা কিমান?
-A) 0 / ০
-B) 1 / ১
-C) 100 / ১০০
-D) 0.5 / ০.৫
+A) 0
+B) 1
+C) 100
+D) 0.5
 Ans: B
 
 14. If P(E) = 0.05, what is the probability of 'not E'?
 
-যদি P(E) = ০.০৫ হয়, তেন্তে 'E নহয়' (not E) ৰ সম্ভাৱনা কিমান?
-A) 0.95 / ০.৯৫
-B) 0.05 / ০.০৫
-C) 1.05 / ১.০৫
-D) 0.50 / ০.৫০
+যদি P(E) = 0.05 হয়, তেন্তে 'E নহয়' (not E) ৰ সম্ভাৱনা কিমান?
+A) 0.95
+B) 0.05
+C) 1.05
+D) 0.50
 Ans: A
 
 15. Two dice are thrown. What is the probability of getting a sum of 12?
 
-দুটা পাশাগুটি মৰা হয়। যোগফল ১২ পোৱাৰ সম্ভাৱনা কিমান?
-A) 1/36 / ১/৩৬
-B) 1/12 / ১/১২
-C) 1/18 / ১/১৮
-D) 1/6 / ১/৬
+দুটা পাশাগুটি মৰা হয়। যোগফল 12 পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/36 / 1/36
+B) 1/12 / 1/12
+C) 1/18 / 1/18
+D) 1/6 / 1/6
 Ans: A
 
 16. One card is drawn from a pack of 52 cards. What is the probability of getting a black queen?
 
-৫২ খন তাছৰ পেকেটৰ পৰা এখন তাছ উলিওৱা হয়। ক'লা ৰঙৰ ৰাণী (Black Queen) পোৱাৰ সম্ভাৱনা কিমান?
-A) 1/26 / ১/২৬
-B) 1/13 / ১/১৩
-C) 1/52 / ১/৫২
-D) 2/13 / ২/১৩
+52 খন তাছৰ পেকেটৰ পৰা এখন তাছ উলিওৱা হয়। ক'লা ৰঙৰ ৰাণী (Black Queen) পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/26 / 1/26
+B) 1/13 / 1/13
+C) 1/52 / 1/52
+D) 2/13 / 2/13
 Ans: A
 
 17. A die is thrown once. What is the probability of getting a composite number?
 
 এটা পাশাগুটি এবাৰ মৰা হয়। এটা যৌগিক সংখ্যা পোৱাৰ সম্ভাৱনা কিমান?
-A) 1/3 / ১/৩
-B) 1/2 / ১/২
-C) 2/3 / ২/৩
-D) 1/6 / ১/৬
+A) 1/3 / 1/3
+B) 1/2 / 1/2
+C) 2/3 / 2/3
+D) 1/6 / 1/6
 Ans: A
 
 18. A box contains 6 red and 4 yellow balls. Two balls are drawn at random without replacement. The probability that both are yellow is:
 
-এটা বাকচত ৬ টা ৰঙা আৰু ৪ টা হালধীয়া বল আছে। প্ৰতিস্থাপন নকৰাকৈ যাদৃচ্ছিকভাৱে দুটা বল উলিওৱা হয়। দুয়োটা হালধীয়া হোৱাৰ সম্ভাৱনা হৈছে:
-A) 2/15 / ২/১৫
-B) 4/25 / ৪/২৫
-C) 1/15 / ১/১৫
-D) 2/5 / ২/৫
+এটা বাকচত 6 টা ৰঙা আৰু 4 টা হালধীয়া বল আছে। প্ৰতিস্থাপন নকৰাকৈ যাদৃচ্ছিকভাৱে দুটা বল উলিওৱা হয়। দুয়োটা হালধীয়া হোৱাৰ সম্ভাৱনা হৈছে:
+A) 2/15 / 2/15
+B) 4/25 / 4/25
+C) 1/15 / 1/15
+D) 2/5 / 2/5
 Ans: A
 
 19. A letter is chosen at random from the word MATHEMATICS. What is the probability that it is a vowel?
 
 MATHEMATICS শব্দটোৰ পৰা যাদৃচ্ছিকভাৱে এটা আখৰ বাছি লোৱা হয়। আখৰটো স্বৰবৰ্ণ (Vowel) হোৱাৰ সম্ভাৱনা কিমান?
-A) 4/11 / ৪/১১
-B) 7/11 / ৭/১১
-C) 3/11 / ৩/১১
-D) 5/11 / ৫/১১
+A) 4/11 / 4/11
+B) 7/11 / 7/11
+C) 3/11 / 3/11
+D) 5/11 / 5/11
 Ans: A
 
 20. A card is drawn from cards numbered 1 to 13. What is the probability that the number on the card is a prime number?
 
-১ ৰ পৰা ১৩ নম্বৰালৈ থকা কাৰ্ডৰ পৰা এখন কাৰ্ড উলিওৱা হয়। কাৰ্ডখনৰ নম্বৰটো এটা মৌলিক সংখ্যা হোৱাৰ সম্ভাৱনা কিমান?
-A) 6/13 / ৬/১৩
-B) 5/13 / ৫/১৩
-C) 7/13 / ৭/১৩
-D) 4/13 / ৪/১৩
+1 ৰ পৰা 13 নম্বৰালৈ থকা কাৰ্ডৰ পৰা এখন কাৰ্ড উলিওৱা হয়। কাৰ্ডখনৰ নম্বৰটো এটা মৌলিক সংখ্যা হোৱাৰ সম্ভাৱনা কিমান?
+A) 6/13 / 6/13
+B) 5/13 / 5/13
+C) 7/13 / 7/13
+D) 4/13 / 4/13
 Ans: A
 
 21. Two dice are thrown together. What is the probability that the product of the numbers on the top faces is 12?
 
-দুটা পাশাগুটি একেলগে মৰা হয়। ওপৰৰ পিঠিৰ সংখ্যা দুটাৰ গুণফল ১২ হোৱাৰ সম্ভাৱনা কিমান?
-A) 1/9 / ১/৯
-B) 1/6 / ১/৬
-C) 5/36 / ৫/৩৬
-D) 1/12 / ১/১২
+দুটা পাশাগুটি একেলগে মৰা হয়। ওপৰৰ পিঠিৰ সংখ্যা দুটাৰ গুণফল 12 হোৱাৰ সম্ভাৱনা কিমান?
+A) 1/9 / 1/9
+B) 1/6 / 1/6
+C) 5/36 / 5/36
+D) 1/12 / 1/12
 Ans: A
 
 22. Three unbiased coins are tossed. What is the probability of getting exactly two tails?
 
 তিনিটা পক্ষপাতহীন মুদ্ৰা টছ কৰা হয়। ঠিক দুটা পুচ্ছ (Tail) পোৱাৰ সম্ভাৱনা কিমান?
-A) 3/8 / ৩/৮
-B) 1/2 / ১/২
-C) 1/4 / ১/৪
-D) 5/8 / ৫/৮
+A) 3/8 / 3/8
+B) 1/2 / 1/2
+C) 1/4 / 1/4
+D) 5/8 / 5/8
 Ans: A
 
 23. A month is selected at random in a year. What is the probability that it starts with the letter 'J'?
 
 এটা বছৰৰ এটা মাহ যাদৃচ্ছিকভাৱে বাছি লোৱা হয়। মাহটো 'J' আখৰটোৰে আৰম্ভ হোৱাৰ সম্ভাৱনা কিমান?
-A) 1/4 / ১/৪
-B) 1/3 / ১/৩
-C) 1/6 / ১/৬
-D) 5/12 / ৫/১২
+A) 1/4 / 1/4
+B) 1/3 / 1/3
+C) 1/6 / 1/6
+D) 5/12 / 5/12
 Ans: A
 
 24. A bag contains 8 red balls and 2 black balls. A ball is drawn at random. The probability that it is a red ball is:
 
-এটা মোনাত ৮ টা ৰঙা বল আৰু ২ টা ক'লা বল আছে। যাদৃচ্ছিকভাৱে এটা বল উলিওৱা হয়। বলটো ৰঙা বল হোৱাৰ সম্ভাৱনা হৈছে:
-A) 4/5 / ৪/৫
-B) 1/5 / ১/৫
-C) 2/5 / ২/৫
-D) 3/5 / ৩/৫
+এটা মোনাত 8 টা ৰঙা বল আৰু 2 টা ক'লা বল আছে। যাদৃচ্ছিকভাৱে এটা বল উলিওৱা হয়। বলটো ৰঙা বল হোৱাৰ সম্ভাৱনা হৈছে:
+A) 4/5 / 4/5
+B) 1/5 / 1/5
+C) 2/5 / 2/5
+D) 3/5 / 3/5
 Ans: A
 
 25. Two dice are thrown simultaneously. What is the probability of getting a sum less than 4?
 
-দুটা পাশাগুটি একেলগে মৰা হয়। ৪ তকৈ সৰু যোগফল পোৱাৰ সম্ভাৱনা কিমান?
-A) 1/12 / ১/১২
-B) 1/18 / ১/১৮
-C) 1/36 / ১/৩৬
-D) 1/6 / ১/৬
+দুটা পাশাগুটি একেলগে মৰা হয়। 4 তকৈ সৰু যোগফল পোৱাৰ সম্ভাৱনা কিমান?
+A) 1/12 / 1/12
+B) 1/18 / 1/18
+C) 1/36 / 1/36
+D) 1/6 / 1/6
 Ans: A

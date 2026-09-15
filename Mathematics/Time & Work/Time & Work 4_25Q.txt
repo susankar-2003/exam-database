@@ -1,224 +1,224 @@
 1. If 15 men take 20 days to complete a job, how many days will 25 men take?
 
-যদি ১৫ জন মানুহে এটা কাম সম্পূৰ্ণ কৰিবলৈ ২০ দিন সময় লয়, তেন্তে ২৫ জন মানুহে কিমান দিন ল’ব?
-A) 12 days / ১২ দিন
-B) 10 days / ১০ দিন
-C) 14 days / ১৪ দিন
-D) 15 days / ১৫ দিন
+যদি 15 জন মানুহে এটা কাম সম্পূৰ্ণ কৰিবলৈ 20 দিন সময় লয়, তেন্তে 25 জন মানুহে কিমান দিন ল’ব?
+A) 12 days / 12 দিন
+B) 10 days / 10 দিন
+C) 14 days / 14 দিন
+D) 15 days / 15 দিন
 Ans: A
 
 2. A and B together can build a wall in 10 days. B and C together in 12 days, and C and A together in 15 days. How long will all three take together?
 
-A আৰু B এ একেলগে ১০ দিনত, B আৰু C এ একেলগে ১২ দিনত, আৰু C আৰু A ই একেলগে ১৫ দিনত এখন দেৱাল সাজিব পাৰে। তিনিউজনে একেলগে কিমান সময় ল’ব?
-A) 8 days / ৮ দিন
-B) 10 days / ১০ দিন
-C) 9 days / ৯ দিন
-D) 7.5 days / ৭.৫ দিন
+A আৰু B এ একেলগে 10 দিনত, B আৰু C এ একেলগে 12 দিনত, আৰু C আৰু A ই একেলগে 15 দিনত এখন দেৱাল সাজিব পাৰে। তিনিউজনে একেলগে কিমান সময় ল’ব?
+A) 8 days / 8 দিন
+B) 10 days / 10 দিন
+C) 9 days / 9 দিন
+D) 7.5 days / 7.5 দিন
 Ans: A
 
 3. A is twice as fast as B. If A and B together can complete a work in 8 days, in how many days can B alone complete it?
 
-A, B তকৈ দুগুণ দ্ৰুত। যদি A আৰু B এ একেলগে ৮ দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে, B ই অকলে কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
-A) 24 days / ২৪ দিন
-B) 16 days / ১৬ দিন
-C) 12 days / ১২ দিন
-D) 20 days / ২০ দিন
+A, B তকৈ দুগুণ দ্ৰুত। যদি A আৰু B এ একেলগে 8 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে, B ই অকলে কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
+A) 24 days / 24 দিন
+B) 16 days / 16 দিন
+C) 12 days / 12 দিন
+D) 20 days / 20 দিন
 Ans: A
 
 4. 14 men can complete a project in 15 days. In how many days can 21 men complete it?
 
-১৪ জন মানুহে ১৫ দিনত এটা প্ৰকল্প সম্পূৰ্ণ কৰিব পাৰে। ২১ জন মানুহে কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
-A) 10 days / ১০ দিন
-B) 12 days / ১২ দিন
-C) 9 days / ৯ দিন
-D) 11 days / ১১ দিন
+14 জন মানুহে 15 দিনত এটা প্ৰকল্প সম্পূৰ্ণ কৰিব পাৰে। 21 জন মানুহে কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
+A) 10 days / 10 দিন
+B) 12 days / 12 দিন
+C) 9 days / 9 দিন
+D) 11 days / 11 দিন
 Ans: A
 
 5. A can complete a work in 40 days and B in 60 days. Working together, how many days will they take?
 
-A ই ৪০ দিনত আৰু B ই ৬০ দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। একেলগে কাম কৰিলে তেওঁলোকৰ কিমান দিন লাগিব?
-A) 24 days / ২৪ দিন
-B) 25 days / ২৫ দিন
-C) 30 days / ৩০ দিন
-D) 20 days / ২০ দিন
+A ই 40 দিনত আৰু B ই 60 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। একেলগে কাম কৰিলে তেওঁলোকৰ কিমান দিন লাগিব?
+A) 24 days / 24 দিন
+B) 25 days / 25 দিন
+C) 30 days / 30 দিন
+D) 20 days / 20 দিন
 Ans: A
 
 6. 3 men and 4 boys can complete a work in 10 days, while 4 men and 3 boys can do it in 9 days. In how many days can 2 men and 1 boy complete it?
 
-৩ জন পুৰুষ আৰু ৪ জন ল’ৰাই ১০ দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে, আনহাতে ৪ জন পুৰুষ আৰু ৩ জন ল’ৰাই ৯ দিনত কৰিব পাৰে। ২ জন পুৰুষ আৰু ১ জন ল’ৰাই কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
-A) 20 days / ২০ দিন
-B) 18 days / ১৮ দিন
-C) 15 days / ১৫ দিন
-D) 22 days / ২২ দিন
+3 জন পুৰুষ আৰু 4 জন ল’ৰাই 10 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে, আনহাতে 4 জন পুৰুষ আৰু 3 জন ল’ৰাই 9 দিনত কৰিব পাৰে। 2 জন পুৰুষ আৰু 1 জন ল’ৰাই কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
+A) 20 days / 20 দিন
+B) 18 days / 18 দিন
+C) 15 days / 15 দিন
+D) 22 days / 22 দিন
 Ans: A
 
 7. A and B can complete a work in 20 days and 30 days respectively. They worked together for some days and then B left. If A completed the remaining work in 10 days, for how many days did B work?
 
-A আৰু B এ ক্ৰমে ২০ দিন আৰু ৩০ দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। তেওঁলোকে কিছু দিন একেলগে কাম কৰিছিল আৰু তাৰ পিছত B ই এৰি দিলে। যদি A ই অৱশিষ্ট কাম ১০ দিনত সম্পূৰ্ণ কৰে, B ই কিমান দিন কাম কৰিছিল?
-A) 6 days / ৬ দিন
-B) 5 days / ৫ দিন
-C) 8 days / ৮ দিন
-D) 7 days / ৭ দিন
+A আৰু B এ ক্ৰমে 20 দিন আৰু 30 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। তেওঁলোকে কিছু দিন একেলগে কাম কৰিছিল আৰু তাৰ পিছত B ই এৰি দিলে। যদি A ই অৱশিষ্ট কাম 10 দিনত সম্পূৰ্ণ কৰে, B ই কিমান দিন কাম কৰিছিল?
+A) 6 days / 6 দিন
+B) 5 days / 5 দিন
+C) 8 days / 8 দিন
+D) 7 days / 7 দিন
 Ans: A
 
 8. If 12 men can weave 120 meters of cloth in 6 days, how many meters of cloth can 10 men weave in 8 days?
 
-যদি ১২ জন মানুহে ৬ দিনত ১২০ মিটাৰ কাপোৰ বব পাৰে, তেন্তে ১০ জন মানুহে ৮ দিনত কিমান মিটাৰ কাপোৰ বব পাৰিব?
-A) 133.33 meters / ১৩৩.৩৩ মিটাৰ
-B) 140 meters / ১৪০ মিটাৰ
-C) 120 meters / ১২০ মিটাৰ
-D) 150 meters / ১৫০ মিটাৰ
+যদি 12 জন মানুহে 6 দিনত 120 মিটাৰ কাপোৰ বব পাৰে, তেন্তে 10 জন মানুহে 8 দিনত কিমান মিটাৰ কাপোৰ বব পাৰিব?
+A) 133.33 meters / 133.33 মিটাৰ
+B) 140 meters / 140 মিটাৰ
+C) 120 meters / 120 মিটাৰ
+D) 150 meters / 150 মিটাৰ
 Ans: A
 
 9. A is thrice as efficient as B and takes 40 days less than B to complete a work. In how many days can B alone complete the work?
 
-A, B তকৈ তিনিগুণ কাৰ্যক্ষম আৰু এটা কাম সম্পূৰ্ণ কৰিবলৈ B তকৈ ৪০ দিন কম সময় লয়। B ই অকলে কিমান দিনত কামটো সম্পূৰ্ণ কৰিব পাৰিব?
-A) 60 days / ৬০ দিন
-B) 20 days / ২০ দিন
-C) 40 days / ৪০ দিন
-D) 30 days / ৩০ দিন
+A, B তকৈ তিনিগুণ কাৰ্যক্ষম আৰু এটা কাম সম্পূৰ্ণ কৰিবলৈ B তকৈ 40 দিন কম সময় লয়। B ই অকলে কিমান দিনত কামটো সম্পূৰ্ণ কৰিব পাৰিব?
+A) 60 days / 60 দিন
+B) 20 days / 20 দিন
+C) 40 days / 40 দিন
+D) 30 days / 30 দিন
 Ans: A
 
 10. A can do a work in 18 days and B in 24 days. They started together, but B left 3 days before completion. The total time taken to complete the work is:
 
-A ই ১৮ দিনত আৰু B ই ২৪ দিনত এটা কাম কৰিব পাৰে। তেওঁলোকে একেলগে আৰম্ভ কৰিছিল, কিন্তু কাম সম্পূৰ্ণ হোৱাৰ ৩ দিন আগতে B ই এৰি যায়। কামটো সম্পূৰ্ণ কৰিবলৈ মুঠ লোৱা সময়:
-A) 11.57 days / ১১.৫৭ দিন
-B) 12 days / ১২ দিন
-C) 10 days / ১০ দিন
-D) 13 days / ১৩ দিন
+A ই 18 দিনত আৰু B ই 24 দিনত এটা কাম কৰিব পাৰে। তেওঁলোকে একেলগে আৰম্ভ কৰিছিল, কিন্তু কাম সম্পূৰ্ণ হোৱাৰ 3 দিন আগতে B ই এৰি যায়। কামটো সম্পূৰ্ণ কৰিবলৈ মুঠ লোৱা সময়:
+A) 11.57 days / 11.57 দিন
+B) 12 days / 12 দিন
+C) 10 days / 10 দিন
+D) 13 days / 13 দিন
 Ans: A
 
 11. A tap fills a tank in 4 hours and a leak empties it in 6 hours. If both are open, how long will it take to fill the tank?
 
-এটা টেপে ৪ ঘণ্টাত এটা টেংক ভৰ্তি কৰে আৰু এটা লিক-এ ৬ ঘণ্টাত খালী কৰে। দুয়োটা খোলা থাকিলে টেংকটো ভৰ্তি হ’বলৈ কিমান সময় লাগিব?
-A) 12 hours / ১২ ঘণ্টা
-B) 10 hours / ১০ ঘণ্টা
-C) 8 hours / ৮ ঘণ্টা
-D) 14 hours / ১৪ ঘণ্টা
+এটা টেপে 4 ঘণ্টাত এটা টেংক ভৰ্তি কৰে আৰু এটা লিক-এ 6 ঘণ্টাত খালী কৰে। দুয়োটা খোলা থাকিলে টেংকটো ভৰ্তি হ’বলৈ কিমান সময় লাগিব?
+A) 12 hours / 12 ঘণ্টা
+B) 10 hours / 10 ঘণ্টা
+C) 8 hours / 8 ঘণ্টা
+D) 14 hours / 14 ঘণ্টা
 Ans: A
 
 12. 25 men can finish a job in 20 days. How many days will 20 men take to finish 80% of the same job?
 
-২৫ জন মানুহে ২০ দিনত এটা কাম শেষ কৰিব পাৰে। ২০ জন মানুহে একেটা কামৰ ৮০% শেষ কৰিবলৈ কিমান দিন ল’ব?
-A) 20 days / ২০ দিন
-B) 16 days / ১৬ দিন
-C) 25 days / ২৫ দিন
-D) 18 days / ১৮ দিন
+25 জন মানুহে 20 দিনত এটা কাম শেষ কৰিব পাৰে। 20 জন মানুহে একেটা কামৰ 80% শেষ কৰিবলৈ কিমান দিন ল’ব?
+A) 20 days / 20 দিন
+B) 16 days / 16 দিন
+C) 25 days / 25 দিন
+D) 18 days / 18 দিন
 Ans: A
 
 13. A can do a piece of work in 12 days and B in 16 days. With the help of C, they finish it in 4 days. Ratio of efficiencies of A, B, and C is:
 
-A ই ১২ দিনত আৰু B ই ১৬ দিনত এটা কাম কৰিব পাৰে। C ৰ সহায়ত তেওঁলোকে ৪ দিনত শেষ কৰে। A, B, আৰু C ৰ কাৰ্যক্ষমতাৰ অনুপাত:
-A) 4 : 3 : 5 / ৪ : ৩ : ৫
-B) 3 : 4 : 5 / ৩ : ৪ : ৫
-C) 5 : 4 : 3 / ৫ : ৪ : ৩
-D) 4 : 5 : 3 / ৪ : ৫ : ৩
+A ই 12 দিনত আৰু B ই 16 দিনত এটা কাম কৰিব পাৰে। C ৰ সহায়ত তেওঁলোকে 4 দিনত শেষ কৰে। A, B, আৰু C ৰ কাৰ্যক্ষমতাৰ অনুপাত:
+A) 4 : 3 : 5
+B) 3 : 4 : 5
+C) 5 : 4 : 3
+D) 4 : 5 : 3
 Ans: A
 
 14. 10 men working 6 hours a day can complete a work in 18 days. In how many days can 15 men working 8 hours a day complete it?
 
-১০ জন মানুহে দিনে ৬ ঘণ্টা কাম কৰি ১৮ দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। ১৫ জন মানুহে দিনে ৮ ঘণ্টা কাম কৰি কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
-A) 9 days / ৯ দিন
-B) 10 days / ১০ দিন
-C) 8 days / ৮ দিন
-D) 12 days / ১২ দিন
+10 জন মানুহে দিনে 6 ঘণ্টা কাম কৰি 18 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। 15 জন মানুহে দিনে 8 ঘণ্টা কাম কৰি কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
+A) 9 days / 9 দিন
+B) 10 days / 10 দিন
+C) 8 days / 8 দিন
+D) 12 days / 12 দিন
 Ans: A
 
 15. A can complete a work in 15 days, B in 20 days, and C in 30 days. All three work together for 2 days, then A and B leave. How long will C take to finish remaining work?
 
-A ই ১৫ দিনত, B ই ২০ দিনত, আৰু C ই ৩০ দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। তিনিউজনে ২ দিন একেলগে কাম কৰাৰ পিছত A আৰু B ই এৰে। C ই অৱশিষ্ট কাম শেষ কৰিবলৈ কিমান সময় ল’ব?
-A) 20 days / ২০ দিন
-B) 18 days / ১৮ দিন
-C) 22 days / ২২ দিন
-D) 15 days / ১৫ দিন
+A ই 15 দিনত, B ই 20 দিনত, আৰু C ই 30 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। তিনিউজনে 2 দিন একেলগে কাম কৰাৰ পিছত A আৰু B ই এৰে। C ই অৱশিষ্ট কাম শেষ কৰিবলৈ কিমান সময় ল’ব?
+A) 20 days / 20 দিন
+B) 18 days / 18 দিন
+C) 22 days / 22 দিন
+D) 15 days / 15 দিন
 Ans: A
 
 16. 2 men or 3 women can do a work in 16 days. How many days will 4 men and 6 women take to complete the work?
 
-২ জন পুৰুষ বা ৩ গৰাকী মহিলাই ১৬ দিনত এটা কাম কৰিব পাৰে। ৪ জন পুৰুষ আৰু ৬ গৰাকী মহিলাই কামটো সম্পূৰ্ণ কৰিবলৈ কিমান দিন ল’ব?
-A) 4 days / ৪ দিন
-B) 6 days / ৬ দিন
-C) 8 days / ৮ দিন
-D) 5 days / ৫ দিন
+2 জন পুৰুষ বা 3 গৰাকী মহিলাই 16 দিনত এটা কাম কৰিব পাৰে। 4 জন পুৰুষ আৰু 6 গৰাকী মহিলাই কামটো সম্পূৰ্ণ কৰিবলৈ কিমান দিন ল’ব?
+A) 4 days / 4 দিন
+B) 6 days / 6 দিন
+C) 8 days / 8 দিন
+D) 5 days / 5 দিন
 Ans: A
 
 17. A and B together can complete a work in 10 days. If A works at twice his speed and B at half his speed, they complete it in 8 days. A alone can complete it in:
 
-A আৰু B এ একেলগে ১০ দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। যদি A ই নিজৰ দুগুণ গতিত আৰু B ই আধাসংক্ৰান্ত গতিত কাম কৰে, তেওঁলোকে ৮ দিনত সম্পূৰ্ণ কৰে। A ই অকলে কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
-A) 13.33 days / ১৩.৩৩ দিন
-B) 15 days / ১৫ দিন
-C) 12 days / ১২ দিন
-D) 16 days / ১৬ দিন
+A আৰু B এ একেলগে 10 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। যদি A ই নিজৰ দুগুণ গতিত আৰু B ই আধাসংক্ৰান্ত গতিত কাম কৰে, তেওঁলোকে 8 দিনত সম্পূৰ্ণ কৰে। A ই অকলে কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
+A) 13.33 days / 13.33 দিন
+B) 15 days / 15 দিন
+C) 12 days / 12 দিন
+D) 16 days / 16 দিন
 Ans: A
 
 18. A can complete a job in 24 days. B is 20% more efficient than A. C is 25% more efficient than B. How many days will B and C together take to finish the job?
 
-A ই ২৪ দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। B, A তকৈ ২০% বেছি কাৰ্যক্ষম। C, B তকৈ ২৫% বেছি কাৰ্যক্ষম। B আৰু C এ একেলগে কামটো শেষ কৰিবলৈ কিমান দিন ল’ব?
-A) 8.89 days / ৮.৮৯ দিন
-B) 10 days / ১০ দিন
-C) 9 days / ৯ দিন
-D) 8 days / ৮ দিন
+A ই 24 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। B, A তকৈ 20% বেছি কাৰ্যক্ষম। C, B তকৈ 25% বেছি কাৰ্যক্ষম। B আৰু C এ একেলগে কামটো শেষ কৰিবলৈ কিমান দিন ল’ব?
+A) 8.89 days / 8.89 দিন
+B) 10 days / 10 দিন
+C) 9 days / 9 দিন
+D) 8 days / 8 দিন
 Ans: A
 
 19. Pipe A can fill a tank in 15 minutes, Pipe B in 20 minutes. If both are opened together and Pipe A is closed after 6 minutes, total time to fill the tank is:
 
-পাইপ A ই ১৫ মিনিটত, পাইপ B ই ২০ মিনিটত এটা টেংক ভৰ্তি কৰিব পাৰে। যদি দুয়োটা একেলগে খোলা হয় আৰু ৬ মিনিটৰ পিছত পাইপ A বন্ধ কৰা হয়, টেংকটো ভৰ্তি হ’বলৈ মুঠ সময়:
-A) 12 minutes / ১২ মিনিট
-B) 10 minutes / ১০ মিনিট
-C) 14 minutes / ১৪ মিনিট
-D) 15 minutes / ১৫ মিনিট
+পাইপ A ই 15 মিনিটত, পাইপ B ই 20 মিনিটত এটা টেংক ভৰ্তি কৰিব পাৰে। যদি দুয়োটা একেলগে খোলা হয় আৰু 6 মিনিটৰ পিছত পাইপ A বন্ধ কৰা হয়, টেংকটো ভৰ্তি হ’বলৈ মুঠ সময়:
+A) 12 minutes / 12 মিনিট
+B) 10 minutes / 10 মিনিট
+C) 14 minutes / 14 মিনিট
+D) 15 minutes / 15 মিনিট
 Ans: A
 
 20. 12 men can finish a work in 15 days. 20 women can finish the same work in 12 days. What is the ratio of efficiency of a man to a woman?
 
-১২ জন মানুহে ১৫ দিনত এটা কাম শেষ কৰিব পাৰে। ২০ গৰাকী মহিলাই ১২ দিনত একেটা কাম শেষ কৰিব পাৰে। এজন পুৰুষ আৰু এগৰাকী মহিলাৰ কাৰ্যক্ষমতাৰ অনুপাত কিমান?
-A) 4 : 3 / ৪ : ৩
-B) 3 : 4 / ৩ : ৪
-C) 1 : 1 / ১ : ১
-D) 5 : 4 / ৫ : ৪
+12 জন মানুহে 15 দিনত এটা কাম শেষ কৰিব পাৰে। 20 গৰাকী মহিলাই 12 দিনত একেটা কাম শেষ কৰিব পাৰে। এজন পুৰুষ আৰু এগৰাকী মহিলাৰ কাৰ্যক্ষমতাৰ অনুপাত কিমান?
+A) 4 : 3
+B) 3 : 4
+C) 1 : 1
+D) 5 : 4
 Ans: A
 
 21. A and B can do a work in 12 days, B and C in 15 days. If A is twice as efficient as C, in how many days can B alone complete the work?
 
-A আৰু B এ ১২ দিনত, B আৰু C এ ১৫ দিনত এটা কাম কৰিব পাৰে। যদি A, C তকৈ দুগুণ কাৰ্যক্ষম হয়, B ই অকলে কিমান দিনত কামটো সম্পূৰ্ণ কৰিব পাৰিব?
-A) 20 days / ২০ দিন
-B) 30 days / ৩০ দিন
-C) 18 days / ১৮ দিন
-D) 24 days / ২৪ দিন
+A আৰু B এ 12 দিনত, B আৰু C এ 15 দিনত এটা কাম কৰিব পাৰে। যদি A, C তকৈ দুগুণ কাৰ্যক্ষম হয়, B ই অকলে কিমান দিনত কামটো সম্পূৰ্ণ কৰিব পাৰিব?
+A) 20 days / 20 দিন
+B) 30 days / 30 দিন
+C) 18 days / 18 দিন
+D) 24 days / 24 দিন
 Ans: A
 
 22. 8 men can complete a piece of work in 20 days. How many extra men are needed to complete the work in 10 days?
 
-৮ জন মানুহে ২০ দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। ১০ দিনত কামটো সম্পূৰ্ণ কৰিবলৈ আৰু কিমানজন অতিৰিক্ত মানুহৰ প্ৰয়োজন?
-A) 8 men / ৮ জন
-B) 10 men / ১০ জন
-C) 12 men / ১২ জন
-D) 6 men / ৬ জন
+8 জন মানুহে 20 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে। 10 দিনত কামটো সম্পূৰ্ণ কৰিবলৈ আৰু কিমানজন অতিৰিক্ত মানুহৰ প্ৰয়োজন?
+A) 8 men / 8 জন
+B) 10 men / 10 জন
+C) 12 men / 12 জন
+D) 6 men / 6 জন
 Ans: A
 
 23. A can do a work in 16 days. B can do it in 20 days. They work together for 4 days, then A leaves. B works for 3 more days, then C joins and they finish in 2 days. C alone takes:
 
-A ই ১৬ দিনত, B ই ২০ দিনত এটা কাম কৰিব পাৰে। তেওঁলোকে ৪ দিন একেলগে কাম কৰে, তাৰ পিছত A ই এৰে। B ই আৰু ৩ দিন কাম কৰে, তাৰ পিছত C যোগ হয় আৰু ২ দিনত শেষ কৰে। C ক অকলে কিমান দিন লাগিব?
-A) 16 days / ১৬ দিন
-B) 20 days / ২০ দিন
-C) 15 days / ১৫ দিন
-D) 18 days / ১৮ দিন
+A ই 16 দিনত, B ই 20 দিনত এটা কাম কৰিব পাৰে। তেওঁলোকে 4 দিন একেলগে কাম কৰে, তাৰ পিছত A ই এৰে। B ই আৰু 3 দিন কাম কৰে, তাৰ পিছত C যোগ হয় আৰু 2 দিনত শেষ কৰে। C ক অকলে কিমান দিন লাগিব?
+A) 16 days / 16 দিন
+B) 20 days / 20 দিন
+C) 15 days / 15 দিন
+D) 18 days / 18 দিন
 Ans: A
 
 24. 30 men can complete a road construction in 12 days. If they work for 8 days, what fraction of work is completed?
 
-৩০ জন মানুহে ১২ দিনত এটা পথ নিৰ্মাণ সম্পূৰ্ণ কৰিব পাৰে। যদি তেওঁলোকে ৮ দিন কাম কৰে, তেন্তে কামৰ কত অংশ সম্পূৰ্ণ হ’ব?
-A) 2/3 / ২/৩
-B) 3/4 / ৩/৪
-C) 1/2 / ১/২
-D) 4/5 / ৪/৫
+30 জন মানুহে 12 দিনত এটা পথ নিৰ্মাণ সম্পূৰ্ণ কৰিব পাৰে। যদি তেওঁলোকে 8 দিন কাম কৰে, তেন্তে কামৰ কত অংশ সম্পূৰ্ণ হ’ব?
+A) 2/3 / 2/3
+B) 3/4 / 3/4
+C) 1/2 / 1/2
+D) 4/5 / 4/5
 Ans: A
 
 25. A and B together can do a piece of work in 6 days. A alone can do it in 9 days. In how many days can B alone do it?
 
-A আৰু B এ একেলগে ৬ দিনত এটা কাম কৰিব পাৰে। A ই অকলে ৯ দিনত কৰিব পাৰে। B ই অকলে কিমান দিনত কৰিব পাৰিব?
-A) 18 days / ১৮ দিন
-B) 15 days / ১৫ দিন
-C) 12 days / ১২ দিন
-D) 20 days / ২০ দিন
+A আৰু B এ একেলগে 6 দিনত এটা কাম কৰিব পাৰে। A ই অকলে 9 দিনত কৰিব পাৰে। B ই অকলে কিমান দিনত কৰিব পাৰিব?
+A) 18 days / 18 দিন
+B) 15 days / 15 দিন
+C) 12 days / 12 দিন
+D) 20 days / 20 দিন
 Ans: A

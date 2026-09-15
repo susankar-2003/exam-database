@@ -1,5 +1,5 @@
 {
-    "last_serial": 525,
+    "last_serial": 585,
     "papers": {
         "1": {
             "id": "1",
@@ -3673,6 +3673,426 @@
             "path": "Mathematics/Average/Average 5_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%205_25Q.txt",
             "hash": "dd321a9549aaebd51cf6588ccb086091"
+        },
+        "526": {
+            "id": "526",
+            "name": "HCF & LCM 1_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%201_25Q.txt",
+            "hash": "7af5ae0ec63db07972a83e66784fa1f5"
+        },
+        "527": {
+            "id": "527",
+            "name": "HCF & LCM 4_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%204_25Q.txt",
+            "hash": "108d3c5553661dbe3f10149db5dba284"
+        },
+        "528": {
+            "id": "528",
+            "name": "HCF & LCM 5_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%205_25Q.txt",
+            "hash": "b327b386fae999e561358b931807e25a"
+        },
+        "529": {
+            "id": "529",
+            "name": "HCF & LCM 3_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%203_25Q.txt",
+            "hash": "b80df3f484c262c4e9a04b59c406a29a"
+        },
+        "530": {
+            "id": "530",
+            "name": "HCF & LCM 6_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%206_25Q.txt",
+            "hash": "ad2e0ddd243e635ad7e1411e95e68d37"
+        },
+        "531": {
+            "id": "531",
+            "name": "HCF & LCM 2_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%202_25Q.txt",
+            "hash": "c8f44fda0a810ae6b101a4f699b478d6"
+        },
+        "532": {
+            "id": "532",
+            "name": "Time & Work 5_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%205_25Q.txt",
+            "hash": "2554ff5f17cc2007d1df325ef2ab7879"
+        },
+        "533": {
+            "id": "533",
+            "name": "Time & Work 6_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%206_25Q.txt",
+            "hash": "18c3f3ad5f21a45aef62b43a5f800128"
+        },
+        "534": {
+            "id": "534",
+            "name": "Time & Work 3_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%203_25Q.txt",
+            "hash": "7c3f77e042d285daeccaafe3d890dfc2"
+        },
+        "535": {
+            "id": "535",
+            "name": "Time & Work 1_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%201_25Q.txt",
+            "hash": "c0e08c780719179eed403a62d9a3c8d5"
+        },
+        "536": {
+            "id": "536",
+            "name": "Time & Work 2_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%202_25Q.txt",
+            "hash": "8ccf2c6fd854a59b1a702b1067a1e87e"
+        },
+        "537": {
+            "id": "537",
+            "name": "Time & Work 4_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%204_25Q.txt",
+            "hash": "5c8b3d8a8b8ddb09b6ce31bb7ac86294"
+        },
+        "538": {
+            "id": "538",
+            "name": "Probability 2_25Q.txt",
+            "path": "Mathematics/Probability/Probability 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Probability/Probability%202_25Q.txt",
+            "hash": "d36ab1615b2c2f9ea3d540abd76676c6"
+        },
+        "539": {
+            "id": "539",
+            "name": "Probability 1_25Q.txt",
+            "path": "Mathematics/Probability/Probability 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Probability/Probability%201_25Q.txt",
+            "hash": "ad38f516e9e571f44cd17cef6e9ac582"
+        },
+        "540": {
+            "id": "540",
+            "name": "SI & CI 2_25Q.txt",
+            "path": "Mathematics/SI & CI/SI & CI 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/SI%20%26%20CI/SI%20%26%20CI%202_25Q.txt",
+            "hash": "2a6f9ee2e1cb2f0e5d34ab122b58f4e2"
+        },
+        "541": {
+            "id": "541",
+            "name": "SI & CI 3_25Q.txt",
+            "path": "Mathematics/SI & CI/SI & CI 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/SI%20%26%20CI/SI%20%26%20CI%203_25Q.txt",
+            "hash": "5cfd95754c1c16d819c739ca162279fb"
+        },
+        "542": {
+            "id": "542",
+            "name": "SI & CI 5_25Q.txt",
+            "path": "Mathematics/SI & CI/SI & CI 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/SI%20%26%20CI/SI%20%26%20CI%205_25Q.txt",
+            "hash": "a8db086c4b55dc7e0d9f65b209186c6e"
+        },
+        "543": {
+            "id": "543",
+            "name": "SI & CI 1_25Q.txt",
+            "path": "Mathematics/SI & CI/SI & CI 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/SI%20%26%20CI/SI%20%26%20CI%201_25Q.txt",
+            "hash": "347f0668249372f959e1655732676f89"
+        },
+        "544": {
+            "id": "544",
+            "name": "SI & CI 6_25Q.txt",
+            "path": "Mathematics/SI & CI/SI & CI 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/SI%20%26%20CI/SI%20%26%20CI%206_25Q.txt",
+            "hash": "41641612ee074d7a6613b8708c5c4205"
+        },
+        "545": {
+            "id": "545",
+            "name": "SI & CI 4_25Q.txt",
+            "path": "Mathematics/SI & CI/SI & CI 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/SI%20%26%20CI/SI%20%26%20CI%204_25Q.txt",
+            "hash": "929eae7263041f526a61701f5750d7f3"
+        },
+        "546": {
+            "id": "546",
+            "name": "Basic Statistics 4_25Q.txt",
+            "path": "Mathematics/Basic Statistics/Basic Statistics 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%204_25Q.txt",
+            "hash": "69b8cccb6f4882e19d652121102ca148"
+        },
+        "547": {
+            "id": "547",
+            "name": "Basic Statistics 1_25Q.txt",
+            "path": "Mathematics/Basic Statistics/Basic Statistics 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%201_25Q.txt",
+            "hash": "ad003de3966e6f0e50453a73252e11b8"
+        },
+        "548": {
+            "id": "548",
+            "name": "Basic Statistics 2_25Q.txt",
+            "path": "Mathematics/Basic Statistics/Basic Statistics 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%202_25Q.txt",
+            "hash": "d9381db2967007a8fddb2602bfface79"
+        },
+        "549": {
+            "id": "549",
+            "name": "Basic Statistics 3_25Q.txt",
+            "path": "Mathematics/Basic Statistics/Basic Statistics 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%203_25Q.txt",
+            "hash": "aa834ebf0a43bd193099c0eb4f6f167e"
+        },
+        "550": {
+            "id": "550",
+            "name": "Ratio & Proportion 3_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%203_25Q.txt",
+            "hash": "5e1ccfd2e2277a78b340583c102924a9"
+        },
+        "551": {
+            "id": "551",
+            "name": "Ratio & Proportion 4_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%204_25Q.txt",
+            "hash": "a7fdd0914005d49594657392d68b4950"
+        },
+        "552": {
+            "id": "552",
+            "name": "Ratio & Proportion 6_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%206_25Q.txt",
+            "hash": "618381e213275e53fe418383bfb39469"
+        },
+        "553": {
+            "id": "553",
+            "name": "Ratio & Proportion 2_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%202_25Q.txt",
+            "hash": "2af87eec5d750cfb7becc8d9c8204631"
+        },
+        "554": {
+            "id": "554",
+            "name": "Ratio & Proportion 1_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%201_25Q.txt",
+            "hash": "45c3b5753358780b3a939d4870044d80"
+        },
+        "555": {
+            "id": "555",
+            "name": "Ratio & Proportion 5_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%205_25Q.txt",
+            "hash": "30e44b56ca50ef93f946f0fc7b177efd"
+        },
+        "556": {
+            "id": "556",
+            "name": "Problems on Trains 2_25Q.txt",
+            "path": "Mathematics/Problems on Trains/Problems on Trains 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%202_25Q.txt",
+            "hash": "ad425d37a2f1ca2d5953404673a3bcc8"
+        },
+        "557": {
+            "id": "557",
+            "name": "Problems on Trains 3_25Q.txt",
+            "path": "Mathematics/Problems on Trains/Problems on Trains 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%203_25Q.txt",
+            "hash": "0b491c5fdf44f8dc5e8e86405a610602"
+        },
+        "558": {
+            "id": "558",
+            "name": "Problems on Trains 4_25Q.txt",
+            "path": "Mathematics/Problems on Trains/Problems on Trains 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%204_25Q.txt",
+            "hash": "f61ac58855247882b4d258da29dd102d"
+        },
+        "559": {
+            "id": "559",
+            "name": "Problems on Trains 1_25Q.txt",
+            "path": "Mathematics/Problems on Trains/Problems on Trains 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%201_25Q.txt",
+            "hash": "d4315904a4c81972230857afa369301b"
+        },
+        "560": {
+            "id": "560",
+            "name": "Pipes & Cisterns 1_25Q.txt",
+            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%201_25Q.txt",
+            "hash": "9efee2fad5b94bfd7033eae56ea43de1"
+        },
+        "561": {
+            "id": "561",
+            "name": "Pipes & Cisterns 2_25Q.txt",
+            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%202_25Q.txt",
+            "hash": "dbf51b54f98f94fdba19b7593efd39ad"
+        },
+        "562": {
+            "id": "562",
+            "name": "Pipes & Cisterns 4_25Q.txt",
+            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%204_25Q.txt",
+            "hash": "8779cdf5351145a262eab9c0eacff43c"
+        },
+        "563": {
+            "id": "563",
+            "name": "Pipes & Cisterns 3_25Q.txt",
+            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%203_25Q.txt",
+            "hash": "2724ce07c7d395ce1d2747d451ca9094"
+        },
+        "564": {
+            "id": "564",
+            "name": "Mixture & Alligation 2_25Q.txt",
+            "path": "Mathematics/Mixture & Alligation/Mixture & Alligation 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Mixture%20%26%20Alligation/Mixture%20%26%20Alligation%202_25Q.txt",
+            "hash": "36d8c63c03481b794bddc3548d91e2ca"
+        },
+        "565": {
+            "id": "565",
+            "name": "Mixture & Alligation 1_25Q.txt",
+            "path": "Mathematics/Mixture & Alligation/Mixture & Alligation 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Mixture%20%26%20Alligation/Mixture%20%26%20Alligation%201_25Q.txt",
+            "hash": "7be729bd99447f1d705e0c718ffa8560"
+        },
+        "566": {
+            "id": "566",
+            "name": "Profit, Loss & Discount 3_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%203_25Q.txt",
+            "hash": "4aad1bc886812ff7c332504f026059ab"
+        },
+        "567": {
+            "id": "567",
+            "name": "Profit, Loss & Discount 5_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%205_25Q.txt",
+            "hash": "cd0a3a3bfb11dbc44f6dbab27ca17a2e"
+        },
+        "568": {
+            "id": "568",
+            "name": "Profit, Loss & Discount 1_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%201_25Q.txt",
+            "hash": "2416e25f94414e475644c9618f205a50"
+        },
+        "569": {
+            "id": "569",
+            "name": "Profit, Loss & Discount 2_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%202_25Q.txt",
+            "hash": "fa150fbcc752b1d17ec55cb77e89fc3f"
+        },
+        "570": {
+            "id": "570",
+            "name": "Profit, Loss & Discount 4_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%204_25Q.txt",
+            "hash": "5bd6a380b5b56c33eb7fb918f744b4ba"
+        },
+        "571": {
+            "id": "571",
+            "name": "Profit, Loss & Discount 6_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%206_25Q.txt",
+            "hash": "30aae362293195e78cea1f0c4a5553ff"
+        },
+        "572": {
+            "id": "572",
+            "name": "Partnership 1_25Q.txt",
+            "path": "Mathematics/Partnership/Partnership 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%201_25Q.txt",
+            "hash": "dfe835f272a3330b18969c4514eef870"
+        },
+        "573": {
+            "id": "573",
+            "name": "Partnership 3_25Q.txt",
+            "path": "Mathematics/Partnership/Partnership 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%203_25Q.txt",
+            "hash": "7a186646f1befd9b8c31a1657638d90a"
+        },
+        "574": {
+            "id": "574",
+            "name": "Partnership 2_25Q.txt",
+            "path": "Mathematics/Partnership/Partnership 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%202_25Q.txt",
+            "hash": "8428f0213d10f9c2f9826bf8ec16d323"
+        },
+        "575": {
+            "id": "575",
+            "name": "Partnership 4_25Q.txt",
+            "path": "Mathematics/Partnership/Partnership 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%204_25Q.txt",
+            "hash": "53b8780e8419644461f31b38a9aa1062"
+        },
+        "576": {
+            "id": "576",
+            "name": "Number System 6_25Q.txt",
+            "path": "Mathematics/Number System/Number System 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%206_25Q.txt",
+            "hash": "f8bfe36652c026e7abbb43c65f0ca810"
+        },
+        "577": {
+            "id": "577",
+            "name": "Number System 2_25Q.txt",
+            "path": "Mathematics/Number System/Number System 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%202_25Q.txt",
+            "hash": "e5980ba001e8e887e50bd8270a696c3a"
+        },
+        "578": {
+            "id": "578",
+            "name": "Number System 5_25Q.txt",
+            "path": "Mathematics/Number System/Number System 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%205_25Q.txt",
+            "hash": "2e6e18aef58641cba1f64a75cf9484c5"
+        },
+        "579": {
+            "id": "579",
+            "name": "Number System 3_25Q.txt",
+            "path": "Mathematics/Number System/Number System 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%203_25Q.txt",
+            "hash": "6dd6ebbea71c913a56b1fe4c70f0b8fd"
+        },
+        "580": {
+            "id": "580",
+            "name": "Number System 1_25Q.txt",
+            "path": "Mathematics/Number System/Number System 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%201_25Q.txt",
+            "hash": "a73e31b556e4ad789f6686e56c167107"
+        },
+        "581": {
+            "id": "581",
+            "name": "Number System 4_25Q.txt",
+            "path": "Mathematics/Number System/Number System 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%204_25Q.txt",
+            "hash": "3c9750c96c93b784889ad28bc4b4abd9"
+        },
+        "582": {
+            "id": "582",
+            "name": "Boats & Streams 2_25Q.txt",
+            "path": "Mathematics/Boats & Streams/Boats & Streams 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%202_25Q.txt",
+            "hash": "755faff8172e4b607b080eae74fc3833"
+        },
+        "583": {
+            "id": "583",
+            "name": "Boats & Streams 3_25Q.txt",
+            "path": "Mathematics/Boats & Streams/Boats & Streams 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%203_25Q.txt",
+            "hash": "bae6d842bc4b2a16b6fee0dd84142f40"
+        },
+        "584": {
+            "id": "584",
+            "name": "Boats & Streams 4_25Q.txt",
+            "path": "Mathematics/Boats & Streams/Boats & Streams 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%204_25Q.txt",
+            "hash": "f021bc0af76ab17b6514e32cd7a13d1a"
+        },
+        "585": {
+            "id": "585",
+            "name": "Boats & Streams 1_25Q.txt",
+            "path": "Mathematics/Boats & Streams/Boats & Streams 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%201_25Q.txt",
+            "hash": "af381b59cb23707efffb54c650bf5543"
         }
     }
 }

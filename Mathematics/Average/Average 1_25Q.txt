@@ -1,0 +1,224 @@
+1. What is the average of the first 50 natural numbers?
+
+প্ৰথম ৫০টা স্বাভাৱিক সংখ্যাৰ গড় কিমান?
+A) 25 / ২৫
+B) 25.5 / ২৫.৫
+C) 26 / ২৬
+D) 26.5 / ২৬.৫
+Ans: B
+
+2. What is the average of the first 10 prime numbers?
+
+প্ৰথম ১০টা মৌলিক সংখ্যাৰ গড় কিমান?
+A) 12.9 / ১২.৯
+B) 11.5 / ১১.৫
+C) 13.1 / ১৩.১
+D) 12.5 / ১২.৫
+Ans: A
+
+3. Find the average of the first 5 multiples of 3
+
+৩ ৰ প্ৰথম ৫টা গুণিতকৰ গড় উলিওৱা।
+A) 6 / ৬
+B) 9 / ৯
+C) 12 / ১২
+D) 15 / ১৫
+Ans: B
+
+4. The average of 5 consecutive numbers is 20, What is the largest of these numbers?
+
+৫টা ক্ৰমিক সংখ্যাৰ গড় ২০। এই সংখ্যাবোৰৰ ভিতৰত আটাইতকৈ ডাঙৰ সংখ্যাটো কি?
+A) 21 / ২১
+B) 22 / ২২
+C) 23 / ২৩
+D) 24 / ২৪
+Ans: B
+
+5. The average age of a class of 30 students is 12 years. If the teacher's age is included, the average increases by 1 year. What is the age of the teacher?
+
+৩০ জন ছাত্ৰ-ছাত্ৰী থকা এটা শ্ৰেণীৰ গড় বয়স ১২ বছৰ। যদি শিক্ষকজনৰ বয়স যোগ কৰা হয়, তেন্তে গড় বয়স ১ বছৰ বৃদ্ধি পায়। শিক্ষকজনৰ বয়স কিমান?
+A) 40 years / ৪০ বছৰ
+B) 42 years / ৪২ বছৰ
+C) 43 years / ৪৩ বছৰ
+D) 45 years / ৪৫ বছৰ
+Ans: C
+
+6. The average of 10 numbers is 7, If each number is multiplied by 12, what will be the average of the new set of numbers?
+
+১০টা সংখ্যাৰ গড় ৭। যদি প্ৰতিটো সংখ্যাকে ১২ ৰে গুণ কৰা হয়, তেন্তে নতুন সংখ্যাবোৰৰ গড় কিমান হ'ব?
+A) 7 / ৭
+B) 19 / ১৯
+C) 70 / ৭০
+D) 84 / ৮৪
+Ans: D
+
+7. The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one weighing 65 kg. What is the weight of the new person?
+
+৮ জন ব্যক্তিৰ গড় ওজন ২.৫ কেজি বৃদ্ধি পায় যেতিয়া ৬৫ কেজি ওজনৰ এজন ব্যক্তিৰ সলনি এজন নতুন ব্যক্তি আহে। নতুন ব্যক্তিজনৰ ওজন কিমান?
+A) 76 kg / ৭৬ কেজি
+B) 85 kg / ৮৫ কেজি
+C) 80 kg / ৮০ কেজি
+D) 82 kg / ৮২ কেজি
+Ans: B
+
+8. Find the average of all even numbers from 1 to 30
+
+১ ৰ পৰা ৩০ লৈকে সকলো যোৰ সংখ্যাৰ গড় উলিওৱা।
+A) 15 / ১৫
+B) 16 / ১৬
+C) 17 / ১৭
+D) 18 / ১৮
+Ans: B
+
+9. The average of 11 results is 50, If the average of the first 6 results is 49 and that of the last 6 results is 52, find the 6th result.
+
+১১টা ফলাফলৰ গড় ৫০। যদি প্ৰথম ৬টা ফলাফলৰ গড় ৪৯ আৰু শেষৰ ৬টা ফলাফলৰ গড় ৫২ হয়, তেন্তে ৬ষ্ঠ ফলাফলটো উলিওৱা।
+A) 52 / ৫২
+B) 54 / ৫৪
+C) 56 / ৫৬
+D) 58 / ৫৮
+Ans: C
+
+10. A batsman makes a score of 87 runs in the 17th inning and thereby increases his average by 3, What is his average after the 17th inning?
+
+এজন বেটছমেন ১৭ নম্বৰ ইনিংছত ৮৭ ৰাণ সংগ্ৰহ কৰে আৰু ইয়াৰ ফলত তেওঁৰ গড় ৩ বৃদ্ধি পায়। ১৭ নম্বৰ ইনিংছৰ পিছত তেওঁৰ গড় ৰাণ কিমান?
+A) 36 / ৩৬
+B) 39 / ৩৯
+C) 42 / ৪২
+D) 33 / ৩৩
+Ans: B
+
+11. The average temperature for Monday, Tuesday, and Wednesday was 40 degrees Celsius, The average for Tuesday, Wednesday, and Thursday was 41 degrees Celsius. If the temperature on Thursday was 42 degrees Celsius, what was the temperature on Monday?
+
+সোমবাৰ, মঙলবাৰ আৰু বুধবাৰৰ গড় উত্তাপ ৪০ ডিগ্ৰী চেলচিয়াছ আছিল। মঙলবাৰ, বুধবাৰ আৰু বৃহস্পতিবাৰৰ গড় উত্তাপ ৪১ ডিগ্ৰী চেলচিয়াছ আছিল। যদি বৃহস্পতিবাৰে উত্তাপ ৪২ ডিগ্ৰী চেলচিয়াছ আছিল, তেন্তে সোমবাৰে উত্তাপ কিমান আছিল?
+A) 38 degrees Celsius / ৩৮ ডিগ্ৰী চেলচিয়াছ
+B) 39 degrees Celsius / ৩৯ ডিগ্ৰী চেলচিয়াছ
+C) 40 degrees Celsius / ৪০ ডিগ্ৰী চেলচিয়াছ
+D) 41 degrees Celsius / ৪১ ডিগ্ৰী চেলচিয়াছ
+Ans: B
+
+12. The average marks of 40 students in an examination were 45, Later, it was found that the marks of one student were wrongly entered as 85 instead of 45, What is the correct average?
+
+এখন পৰীক্ষাত ৪০ জন ছাত্ৰ-ছাত্ৰীৰ গড় নম্বৰ আছিল ৪৫। পিছত দেখা গ'ল যে এজন ছাত্ৰৰ নম্বৰ ৪৫ ৰ সলনি ভুলতে ৮৫ বুলি লিখা হৈছিল। শুদ্ধ গড় নম্বৰ কিমান?
+A) 44 / ৪৪
+B) 43.5 / ৪৩.৫
+C) 44.5 / ৪৪.৫
+D) 46 / ৪৬
+Ans: A
+
+13. A train travels from A to B at a speed of 40 km/h and returns from B to A at a speed of 60 km/h. What is the average speed of the train for the whole journey?
+
+এখন ৰে’লে A ৰ পৰা B লৈ ঘণ্টাত ৪০ কিমি বেগেৰে যায় আৰু B ৰ পৰা A লৈ ঘণ্টাত ৬০ কিমি বেগেৰে ঘূৰি আহে। সমগ্ৰ যাত্ৰাৰ বাবে ৰে’লখনৰ গড় বেগ কিমান?
+A) 48 km/h / ৪৮ কিমি/ঘণ্টা
+B) 50 km/h / ৫০ কিমি/ঘণ্টা
+C) 45 km/h / ৪৫ কিমি/ঘণ্টা
+D) 52 km/h / ৫২ কিমি/ঘণ্টা
+Ans: A
+
+14. The average of 4 consecutive even numbers is 27, Find the largest of these numbers.
+
+৪টা ক্ৰমিক যোৰ সংখ্যাৰ গড় ২৭। এই সংখ্যাবোৰৰ ভিতৰত আটাইতকৈ ডাঙৰ সংখ্যাটো কি?
+A) 28 / ২৮
+B) 30 / ৩০
+C) 32 / ৩২
+D) 26 / ২৬
+Ans: B
+
+15. The average of 5 numbers is 27, If one number is excluded, the average becomes 25, What is the excluded number?
+
+৫টা সংখ্যাৰ গড় ২৭। যদি এটা সংখ্যা বাদ দিয়া হয়, তেন্তে গড় ২৫ হয়। বাদ দিয়া সংখ্যাটো কি?
+A) 30 / ৩০
+B) 35 / ৩৫
+C) 40 / ৪০
+D) 25 / ২৫
+Ans: B
+
+16. The average age of a husband and wife was 23 years at the time of their marriage 5 years ago. The average age of the family including husband, wife, and a child born during the interval is 20 years now. How old is the child?
+
+৫ বছৰ আগতে বিবাহৰ সময়ত এজন স্বামী আৰু পত্নীৰ গড় বয়স ২৩ বছৰ আছিল। বৰ্তমান স্বামী, পত্নী আৰু এই সময়ছোৱাত জন্ম হোৱা সন্তান সহ পৰিয়ালটোৰ গড় বয়স ২০ বছৰ। সন্তানটোৰ বয়স কিমান?
+A) 2 years / ২ বছৰ
+B) 3 years / ৩ বছৰ
+C) 4 years / ৪ বছৰ
+D) 1 year / ১ বছৰ
+Ans: C
+
+17. The average of 3 numbers is 28, The first number is half of the second and the third number is double of the second, What is the third number?
+
+৩টা সংখ্যাৰ গড় ২৮। প্ৰথম সংখ্যাটো দ্বিতীয়টোৰ আধা আৰু তৃতীয় সংখ্যাটো দ্বিতীয়টোৰ গুণ। তৃতীয় সংখ্যাটো কিমান?
+A) 24 / ২৪
+B) 36 / ৩৬
+C) 48 / ৪৮
+D) 12 / ১২
+Ans: C
+
+18. The average height of 25 boys is 150 cm. If 5 boys leave the group, the average height increases by 2 cm. What is the average height of the 5 boys who left?
+
+২৫ জন ল'ৰাৰ গড় উচ্চতা ১৫০ ছেমি। যদি ৫ জন ল'ৰাই দলটো এৰি যায়, তেন্তে গড় উচ্চতা ২ ছেমি বৃদ্ধি পায়। এৰি যোৱা ৫ জন ল'ৰাৰ গড় উচ্চতা কিমান?
+A) 140 cm / ১৪০ ছেমি
+B) 142 cm / ১৪২ ছেমি
+C) 145 cm / ১৪৫ ছেমি
+D) 148 cm / ১৪৮ ছেমি
+Ans: B
+
+19. What is the average of the squares of the first 5 natural numbers?
+
+প্ৰথম ৫টা স্বাভাৱিক সংখ্যাৰ বৰ্গৰ গড় কিমান?
+A) 11 / ১১
+B) 10 / ১০
+C) 12 / ১২
+D) 55 / ৫৫
+Ans: A
+
+20. The average weight of A, B, and C is 84 kg. Another man D joins the group and the average becomes 80 kg. If another man E, whose weight is 3 kg more than D, replaces A, the average weight of B, C, D, and E becomes 79 kg. What is the weight of A?
+
+A, B আৰু C ৰ গড় ওজন ৮৪ কেজি। D নামৰ আন এজন মানুহ দলটোট যোগ দিলে গড় ওজন ৮০ কেজি হয়। যদি D তকৈ ৩ কেজি বেছি ওজনৰ E নামৰ আন এজন মানুহে A ৰ স্থান লয়, তেন্তে B, C, D আৰু E ৰ গড় ওজন ৭৯ কেজি হয়। A ৰ ওজন কিমান?
+A) 70 kg / ৭০ কেজি
+B) 72 kg / ৭২ কেজি
+C) 75 kg / ৭৫ কেজি
+D) 80 kg / ৮০ কেজি
+Ans: C
+
+21. The average of 5 consecutive odd numbers is 61, What is the difference between the highest and lowest numbers?
+
+৫টা ক্ৰমিক অযোৰ সংখ্যাৰ গড় ৬১। সৰ্বোচ্চ আৰু সৰ্বনিম্ন সংখ্যাৰ ব্যৱধান কিমান?
+A) 4 / ৪
+B) 8 / ৮
+C) 12 / ১২
+D) 6 / ৬
+Ans: B
+
+22. Out of 4 numbers, the average of the first 3 is 16 and that of the last 3 is 15, If the last number is 20, what is the first number?
+
+৪টা সংখ্যাৰ ভিতৰত প্ৰথম ৩টাৰ গড় ১৬ আৰু শেষৰ ৩টাৰ গড় ১৫। যদি শেষৰ সংখ্যাটো ২০ হয়, তেন্তে প্ৰথম সংখ্যাটো কি?
+A) 21 / ২১
+B) 23 / ২৩
+C) 25 / ২৫
+D) 18 / ১৮
+Ans: B
+
+23. A library has an average of 510 visitors on Sundays and 240 on other days. What is the average number of visitors per day in a month of 30 days beginning with a Sunday?
+
+এটা পুথিভঁৰালত দেওবাৰে গড়ে ৫১০ জন আৰু অন্যান্য দিনত ২৪০ জন দৰ্শকমণ্ডলী আহে। দেওবাৰে আৰম্ভ হোৱা ৩০ দিনৰ মাহ এটাত প্ৰতিদিনে দৰ্শকমণ্ডলীৰ গড় সংখ্যা কিমান?
+A) 275 / ২৭৫
+B) 285 / ২৮৫
+C) 290 / ২৯০
+D) 300 / ৩০০
+Ans: B
+
+24. The average monthly salary of 20 employees in an organization is Rs. 1500, If the manager's salary is added, the average increases by Rs. 100, What is the manager's monthly salary?
+
+এটা প্ৰতিষ্ঠানৰ ২০ জন কৰ্মচাৰীৰ গড় মাহেকীয়া দৰমহা ১৫০০ টকা। যদি মেনেজাৰজনৰ দৰমহা যোগ কৰা হয়, তেন্তে গড় ১০০ টকা বৃদ্ধি পায়। মেনেজাৰজনৰ মাহেকীয়া দৰমহা কিমান?
+A) Rs. 3500 / ৩৫০০ টকা
+B) Rs. 3600 / ৩৬০০ টকা
+C) Rs. 3800 / ৩৮০০ টকা
+D) Rs. 4000 / ৪০০০ টকা
+Ans: B
+
+25. The average of 9 numbers is 11, If each number is increased by 2, what will be the new average?
+
+৯টা সংখ্যাৰ গড় ১১। যদি প্ৰতিটো সংখ্যা ২ কে বৃদ্ধি কৰা হয়, তেন্তে নতুন গড় কিমান হ'ব?
+A) 11 / ১১
+B) 13 / ১৩
+C) 15 / ১৫
+D) 22 / ২২
+Ans: B

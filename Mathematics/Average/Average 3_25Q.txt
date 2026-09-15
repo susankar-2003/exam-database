@@ -1,0 +1,224 @@
+1. Find the average of odd numbers from 1 to 40.
+
+১ ৰ পৰা ৪০ লৈকে অযোৰ সংখ্যাৰ গড় উলিওৱা।
+A) 20 / ২০
+B) 21 / ২১
+C) 19.5 / ১৯.৫
+D) 20.5 / ২০.৫
+Ans: A
+
+2. The average weight of 6 men decreases by 3 kg when a man weighing 80 kg is replaced by a new man. What is the weight of the new man?
+
+৮০ কেজি ওজনৰ এজন মানুহৰ সলনি এজন নতুন মানুহ অহাত ৬ জন মানুহৰ গড় ওজন ৩ কেজি হ্ৰাস পায়। নতুন মানুহজনৰ ওজন কিমান?
+A) 62 kg / ৬২ কেজি
+B) 65 kg / ৬৫ কেজি
+C) 68 kg / ৬৮ কেজি
+D) 70 kg / ৭০ কেজি
+Ans: A
+
+3. Three years ago, the average age of a family of 5 members was 17 years. A baby having been born, the average age of the family is the same today. Find the age of the baby.
+
+তিনি বছৰ আগতে ৫ জনীয়া পৰিয়াল এটাৰ গড় বয়স আছিল ১৭ বছৰ। এটা শিশু জন্ম হোৱাৰ পিছতো আজিও পৰিয়ালটোৰ গড় বয়স একেই আছে। শিশুটোৰ বয়স উলিওৱা।
+A) 1 year / ১ বছৰ
+B) 2 years / ২ বছৰ
+C) 1.5 years / ১.৫ বছৰ
+D) 3 years / ৩ বছৰ
+Ans: A
+
+4. The average of 5 numbers is 18. If one number is removed, the average becomes 16. What is the removed number?
+
+৫টা সংখ্যাৰ গড় ১৮। যদি এটা সংখ্যা আঁতৰাই দিয়া হয়, তেন্তে গড় ১৬ হয়। আঁতৰোৱা সংখ্যাটো কি?
+A) 26 / ২৬
+B) 24 / ২৪
+C) 22 / ২২
+D) 20 / ২০
+Ans: A
+
+5. Find the average of the cubes of the first 4 natural numbers.
+
+প্ৰথম ৪টা স্বাভাৱিক সংখ্যাৰ ঘনফলৰ (cubes) গড় উলিওৱা।
+A) 25 / ২৫
+B) 20 / ২০
+C) 30 / ৩০
+D) 100 / ১০০
+Ans: A
+
+6. The average salary of all workers in a workshop is Rs. 8000. The average salary of 7 technicians is Rs. 12000 and the average salary of the rest is Rs. 6000. Find the total number of workers.
+
+এটা কৰ্মশালাৰ সকলো কৰ্মীৰ গড় দৰমহা ৮০০০ টকা। ৭ জন টেকনিচিয়ানৰ গড় দৰমহা ১২০০০ টকা আৰু বাকীসকলৰ গড় দৰমহা ৬০০০ টকা। মুঠ কৰ্মীৰ সংখ্যা উলিওৱা।
+A) 20 / ২০
+B) 21 / ২১
+C) 22 / ২২
+D) 23 / ২৩
+Ans: B
+
+7. The average of 10 numbers is 15. If each number is divided by 3, what will be the new average?
+
+১০টা সংখ্যাৰ গড় ১৫। যদি প্ৰতিটো সংখ্যা ৩ ৰে হৰণ কৰা হয়, তেন্তে নতুন গড় কিমান হ'ব?
+A) 5 / ৫
+B) 10 / ১০
+C) 12 / ১২
+D) 45 / ৪৫
+Ans: A
+
+8. Average expenditure of a man for the first 5 months is Rs. 1200 and for the next 7 months is Rs. 1300. Find his average monthly expenditure.
+
+এজন মানুহৰ প্ৰথম ৫ মাহৰ গড় খৰচ ১২০০ টকা আৰু পৰৱৰ্তী ৭ মাহৰ ১৩০০ টকা। তেওঁৰ মাহেকীয়া গড় খৰচ উলিওৱা।
+A) Rs. 1258.33 / ১২৫৮.৩৩ টকা
+B) Rs. 1250 / ১২৫০ টকা
+C) Rs. 1260 / ১২৬০ টকা
+D) Rs. 1270 / ১২৭০ টকা
+Ans: A
+
+9. The average speed of a car during a journey of 4 hours is 60 km/h. If it covers 50 km in the first hour, 70 km in the second, and 80 km in the third, how much distance does it cover in the 4th hour?
+
+৪ ঘণ্টাৰ যাত্ৰাত এখন কাৰৰ গড় বেগ ৬০ কিমি/ঘণ্টা। যদি প্ৰথম ঘণ্টাত ৫০ কিমি, দ্বিতীয় ঘণ্টাত ৭০ কিমি, আৰু তৃতীয় ঘণ্টাত ৮০ কিমি যায়, তেন্তে চতুৰ্থ ঘণ্টাত কিমান দূৰত্ব অতিক্ৰম কৰিব?
+A) 40 km / ৪০ কিমি
+B) 50 km / ৫০ কিমি
+C) 60 km / ৬০ কিমি
+D) 30 km / ৩০ কিমি
+Ans: A
+
+10. The average of 5 numbers is 60. The average of the first two is 50 and the average of the last two is 70. Find the third number.
+
+৫টা সংখ্যাৰ গড় ৬০। প্ৰথম দুটাৰ গড় ৫০ আৰু শেষৰ দুটাৰ গড় ৭০। তৃতীয় সংখ্যাটো উলিওৱা।
+A) 60 / ৬০
+B) 50 / ৫০
+C) 70 / ৭০
+D) 40 / ৪০
+Ans: A
+
+11. If the average of 8, 12, 15, x, and 20 is 14, find x.
+
+যদি ৮, ১২, ১৫, x, আৰু ২০ ৰ গড় ১৪ হয়, তেন্তে x ৰ মান উলিওৱা।
+A) 15 / ১৫
+B) 16 / ১৬
+C) 17 / ১৭
+D) 18 / ১৮
+Ans: A
+
+12. The average age of 20 students in a class is 15 years. Five new students join whose average age is 10 years. What is the average age of all students now?
+
+এটা শ্ৰেণীৰ ২০ জন ছাত্ৰৰ গড় বয়স ১৫ বছৰ। ১০ বছৰ গড় বয়সৰ ৫ জন নতুন ছাত্ৰ যোগ দিলে। এতিয়া সকলো ছাত্ৰৰ গড় বয়স কিমান?
+A) 14 years / ১৪ বছৰ
+B) 13.5 years / ১৩.৫ বছৰ
+C) 14.5 years / ১৪.৫ বছৰ
+D) 12 years / ১২ বছৰ
+Ans: A
+
+13. The mean of 50 observations was 36. It was found later that an observation 48 was wrongly taken as 23. Find the corrected new mean.
+
+৫০টা পৰ্যবেক্ষণৰ মাধ্য (গড়) আছিল ৩৬। পিছত দেখা গ'ল যে ৪৮ ৰ সলনি ভুলতে ২৩ লোৱা হৈছিল। শুদ্ধ মাধ্য উলিওৱা।
+A) 36.5 / ৩৬.৫
+B) 35.5 / ৩৫.৫
+C) 36.1 / ৩৬.১
+D) 37 / ৩৭
+Ans: A
+
+14. Find the average of all multiples of 3 between 10 and 40.
+
+১০ আৰু ৪০ ৰ মাজৰ ৩ ৰ সকলো গুণিতকৰ গড় উলিওৱা।
+A) 24 / ২৪
+B) 25.5 / ২৫.৫
+C) 27 / ২৭
+D) 28.5 / ২৮.৫
+Ans: B
+
+15. A student obtained 60, 70, 80, 90, and 100 marks in 5 subjects. Find his average marks.
+
+এজন ছাত্ৰই ৫টা বিষয়ত ৬০, ৭০, ৮০, ৯০, আৰু ১০০ নম্বৰ পালে। তেওঁৰ গড় নম্বৰ কিমান?
+A) 75 / ৭৫
+B) 80 / ৮০
+C) 85 / ৮৫
+D) 90 / ৯০
+Ans: B
+
+16. What is the average of the prime numbers between 20 and 40?
+
+২০ আৰু ৪০ ৰ মাজৰ মৌলিক সংখ্যাবোৰৰ গড় কিমান?
+A) 30 / ৩০
+B) 31 / ৩১
+C) 29 / ২৯
+D) 32 / ৩২
+Ans: B
+
+17. Average weight of 4 boys is 45 kg. A fifth boy joins and the average becomes 43 kg. Find the weight of the fifth boy.
+
+৪ জন ল'ৰাৰ গড় ওজন ৪৫ কেজি। পঞ্চম ল'ৰা এজন যোগ দিয়াত গড় ৪৩ কেজি হয়। পঞ্চম ল'ৰাজনৰ ওজন উলিওৱা।
+A) 35 kg / ৩৫ কেজি
+B) 37 kg / ৩৭ কেজি
+C) 40 kg / ৪০ কেজি
+D) 42 kg / ৪২ কেজি
+Ans: A
+
+18. The average of 4 numbers is 20. If 5 is added to each number, what will be the new average?
+
+৪টা সংখ্যাৰ গড় ২০। যদি প্ৰতিটো সংখ্যাৰ লগত ৫ যোগ কৰা হয়, তেন্তে নতুন গড় কিমান হ'ব?
+A) 20 / ২০
+B) 25 / ২৫
+C) 30 / ৩০
+D) 100 / ১০০
+Ans: B
+
+19. In a series of 9 consecutive numbers, the average is 15. What is the average of the last 3 numbers?
+
+৯টা ক্ৰমিক সংখ্যাৰ শ্ৰেণী এটাৰ গড় ১৫। শেষৰ ৩টা সংখ্যাৰ গড় কিমান?
+A) 18 / ১৮
+B) 17 / ১৭
+C) 19 / ১৯
+D) 16 / ১৬
+Ans: A
+
+20. Find the average of first 8 natural numbers.
+
+প্ৰথম ৮টা স্বাভাৱিক সংখ্যাৰ গড় উলিওৱা।
+A) 4 / ৪
+B) 4.5 / ৪.৫
+C) 5 / ৫
+D) 5.5 / ৫.৫
+Ans: B
+
+21. The average height of 10 girls is 140 cm. If two girls of heights 130 cm and 150 cm leave, what is the average height of remaining girls?
+
+১০ গৰাকী ছোৱালীৰ গড় উচ্চতা ১৪০ ছেমি। যদি ১৩০ ছেমি আৰু ১৫০ ছেমি উচ্চতাৰ দুগৰাকী ছোৱালীয়ে দল এৰে, তেন্তে বাকী ছোৱালীসকলৰ গড় উচ্চতা কিমান?
+A) 140 cm / ১৪০ ছেমি
+B) 138 cm / ১৩৮ ছেমি
+C) 142 cm / ১৪২ ছেমি
+D) 145 cm / ১৪৫ ছেমি
+Ans: A
+
+22. Average runs scored by a batsman in 4 matches is 50. How many runs must he score in the 5th match to make the overall average 55?
+
+৪খন মেচত এজন বেটছমেনে সংগ্ৰহ কৰা গড় ৰাণ ৫০। মুঠ গড় ৫৫ কৰিবলৈ তেওঁ ৫ম মেচত কিমান ৰাণ সংগ্ৰহ কৰিব লাগিব?
+A) 70 / ৭০
+B) 75 / ৭৫
+C) 80 / ৮০
+D) 85 / ৮৫
+Ans: B
+
+23. The average of three numbers is 40. The first number is twice the second, and the second is twice the third. Find the smallest number.
+
+তিনিটা সংখ্যাৰ গড় ৪০। প্ৰথম সংখ্যাটো দ্বিতীয়টোৰ দুগুণ, আৰু দ্বিতীয়টো তৃতীয়টোৰ দুগুণ। আটাইতকৈ সৰু সংখ্যাটো উলিওৱা।
+A) 12 / ১২
+B) 15 / ১৫
+C) 18 / ১৮
+D) 20 / ২০
+Ans: C
+
+24. If the average of 6, 8, 10, 12, and x is 10, find x.
+
+যদি ৬, ৮, ১০, ১২, আৰু x ৰ গড় ১০ হয়, তেন্তে x ৰ মান উলিওৱা।
+A) 10 / ১০
+B) 12 / ১২
+C) 14 / ১৪
+D) 16 / ১৬
+Ans: A
+
+25. Find the average of all multiples of 4 between 1 and 25.
+
+১ আৰু ২৫ ৰ মাজৰ ৪ ৰ সকলো গুণিতকৰ গড় উলিওৱা।
+A) 12 / ১২
+B) 14 / ১৪
+C) 16 / ১৬
+D) 10 / ১০
+Ans: B

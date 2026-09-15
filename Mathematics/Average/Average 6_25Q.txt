@@ -1,0 +1,224 @@
+1. Find the average of 2.5, 3.5, 4.5, and 5.5.
+
+২.৫, ৩.৫, ৪.৫, আৰু ৫.৫ ৰ গড় উলিওৱা।
+A) 4 / ৪
+B) 3.5 / ৩.৫
+C) 4.5 / ৪.৫
+D) 5 / ৫
+Ans: A
+
+2. Average of 10 numbers is 5. If each number is increased by 10%, what is new average?
+
+১০টা সংখ্যাৰ গড় ৫। যদি প্ৰতিটো সংখ্যা ১০% বৃদ্ধি কৰা হয়, তেন্তে নতুন গড় কিমান?
+A) 5.5 / ৫.৫
+B) 5 / ৫০
+C) 6 / ৬
+D) 5.1 / ৫.১
+Ans: A
+
+3. Average score of 4 tests is 85. What score is required on 5th test to get an average of 88?
+
+৪খন পৰীক্ষাৰ গড় নম্বৰ ৮৫। ৮৮ গড় পাবলৈ ৫ম পৰীক্ষাত কিমান নম্বৰ লাগিব?
+A) 100 / ১০০
+B) 95 / ৯৫
+C) 98 / ৯৮
+D) 92 / ৯২
+Ans: A
+
+4. The average of 4 consecutive even numbers is 15. What is the smallest number?
+
+৪টা ক্ৰমিক যোৰ সংখ্যাৰ গড় ১৫। আটাইতকৈ সৰু সংখ্যাটো কি?
+A) 12 / ১২
+B) 10 / ১০
+C) 14 / ১৪
+D) 16 / ১৬
+Ans: A
+
+5. Average daily attendance of a school for 5 days was 400. On Saturday attendance was 300. Find average daily attendance for 6 days.
+
+এটা বিদ্যালয়ৰ ৫ দিনৰ গড় দৈনিক উপস্থিতি আছিল ৪০০। শনিবাৰে উপস্থিতি আছিল ৩০০। ৬ দিনৰ গড় দৈনিক উপস্থিতি উলিওৱা।
+A) 383.33 / ৩৮৩.৩৩
+B) 380 / ৩৮০
+C) 390 / ৩৯০
+D) 375 / ৩৭৫
+Ans: A
+
+6. Find the average of first 3 multiples of 12.
+
+১২ ৰ প্ৰথম ৩টা গুণিতকৰ গড় উলিওৱা।
+A) 24 / ২৪
+B) 12 / ১২
+C) 36 / ৩৬
+D) 18 / ১৮
+Ans: A
+
+7. The average weight of a class of 20 students is 30 kg. If two students weighing 20 kg and 40 kg leave, find new average.
+
+২০ জন ছাত্ৰৰ শ্ৰেণী এটাৰ গড় ওজন ৩০ কেজি। যদি ২০ কেজি আৰু ৪০ কেজি ওজনৰ দুজন ছাত্ৰই দল এৰে, তেন্তে নতুন গড় উলিওৱা।
+A) 30 kg / ৩০ কেজি
+B) 29 kg / ২৯ কেজি
+C) 31 kg / ৩১ কেজি
+D) 28 kg / ২৮ কেজি
+Ans: A
+
+8. Find the average of all numbers from 1 to 9.
+
+১ ৰ পৰা ৯ লৈকে সকলো সংখ্যাৰ গড় উলিওৱা।
+A) 5 / ৫
+B) 4.5 / ৪.৫
+C) 5.5 / ৫.৫
+D) 6 / ৬
+Ans: A
+
+9. If average of x and y is 10 and average of y and z is 12, find (z - x).
+
+যদি x আৰু y ৰ গড় ১০ আৰু y আৰু z ৰ গড় ১২ হয়, তেন্তে (z - x) উলিওৱা।
+A) 4 / ৪
+B) 2 / ২
+C) 6 / ৬
+D) 8 / ৮
+Ans: A
+
+10. Average age of 3 people is 30 years. If ratio of their ages is 1 : 2 : 3, find age of oldest person.
+
+৩ জন মানুহৰ গড় বয়স ৩০ বছৰ। যদি তেওঁলোকৰ বয়সৰ অনুপাত ১ : ২ : ৩ হয়, তেন্তে বয়স্ক মানুহজনৰ বয়স উলিওৱা।
+A) 45 years / ৪৫ বছৰ
+B) 30 years / ৩০ বছৰ
+C) 15 years / ১৫ বছৰ
+D) 60 years / ৬০ বছৰ
+Ans: A
+
+11. What is the average of 0, 10, 20, 30, 40, and 50?
+
+০, ১০, ২০, ৩০, ৪০, আৰু ৫০ ৰ গড় কিমান?
+A) 25 / ২৫
+B) 20 / ২০
+C) 30 / ৩০
+D) 15 / ১৫
+Ans: A
+
+12. Average temperature of a city for 4 days was 30 degrees Celsius, If it rained on 5th day and temp dropped to 25 degrees Celsius on that day, find 5-day average.
+
+এখন চহৰৰ ৪ দিনৰ গড় উত্তাপ ৩০ ডিগ্ৰী চেলচিয়াছ আছিল। ৫ম দিনা বৰষুণ হোৱাত সেইদিনা উত্তাপ ২৫ ডিগ্ৰী চেলচিয়াছলৈ হ্ৰাস পালে। ৫ দিনৰ গড় উত্তাপ উলিওৱা।
+A) 29 degrees Celsius / ২৯ ডিগ্ৰী চেলচিয়াছ
+B) 28 degrees Celsius / ২৮ ডিগ্ৰী চেলচিয়াছ
+C) 27.5 degrees Celsius / ২৭.৫ ডিগ্ৰী চেলচিয়াছ
+D) 28.5 degrees Celsius / ২৮.৫ ডিগ্ৰী চেলচিয়াছ
+Ans: A
+
+13. The average of 5 numbers is 50. If each number is decreased by 5, what is the new average?
+
+৫টা সংখ্যাৰ গড় ৫০। যদি প্ৰতিটো সংখ্যা ৫ হ্ৰাস কৰা হয়, তেন্তে নতুন গড় কিমান?
+A) 45 / ৪৫
+B) 50 / ৫০
+C) 40 / ৪০
+D) 55 / ৫৫
+Ans: A
+
+14. Find the average of 10, 20, 30, and 40.
+
+১০, ২০, ৩০, আৰু ৪০ ৰ গড় উলিওৱা।
+A) 25 / ২৫
+B) 20 / ২০
+C) 30 / ৩০
+D) 35 / ৩৫
+Ans: A
+
+15. Average score of 10 boys is 70 and 10 girls is 80. Find overall average.
+
+১০ জন ল'ৰাৰ গড় নম্বৰ ৭০ আৰু ১০ গৰাকী ছোৱালীৰ ৮০। সমগ্ৰ গড় উলিওৱা।
+A) 75 / ৭৫
+B) 70 / ৭০
+C) 80 / ৮০
+D) 72 / ৭২
+Ans: A
+
+16. Find the average of first 4 multiples of 9.
+
+৯ ৰ প্ৰথম ৪টা গুণিতকৰ গড় উলিওৱা।
+A) 22.5 / ২২.৫
+B) 18 / ১৮
+C) 27 / ২৭
+D) 20 / ২০
+Ans: A
+
+17. If sum of 8 numbers is 160, what is their average?
+
+যদি ৮টা সংখ্যাৰ যোগফল ১৬০ হয়, তেন্তে সিহঁতৰ গড় কিমান?
+A) 20 / ২০
+B) 15 / ১৫
+C) 25 / ২৫
+D) 30 / ৩০
+Ans: A
+
+18. Average age of 5 employees is 40 years. Manager of age 60 years joins. Find new average.
+
+৫ জন কৰ্মচাৰীৰ গড় বয়স ৪০ বছৰ। ৬০ বছৰ বয়সৰ মেনেজাৰজন যোগ দিলে। নতুন গড় উলিওৱা।
+A) 43.33 years / ৪৩.৩৩ বছৰ
+B) 42 years / ৪২ বছৰ
+C) 45 years / ৪৫ বছৰ
+D) 44 years / ৪৪ বছৰ
+Ans: A
+
+19. Find the average of prime numbers less than 10.
+
+১০ তকৈ সৰু মৌলিক সংখ্যাবোৰৰ গড় উলিওৱা।
+A) 4.25 / ৪.২৫
+B) 4.5 / ৪.৫
+C) 5 / ৫
+D) 3.75 / ৩.৭৫
+Ans: A
+
+20. Average of 3 consecutive odd numbers is 27. Find highest number.
+
+৩টা ক্ৰমিক অযোৰ সংখ্যাৰ গড় ২৭। সৰ্বোচ্চ সংখ্যাটো উলিওৱা।
+A) 29 / ২৯
+B) 27 / ২৭
+C) 31 / ৩১
+D) 25 / ২৫
+Ans: A
+
+21. What is the average of 100, 200, 300, and 400?
+
+১০০, ২০০, ৩০০, আৰু ৪০০ ৰ গড় কিমান?
+A) 250 / ২৫০
+B) 200 / ২০০
+C) ৩০০ / 300
+D) 350 / ৩৫০
+Ans: A
+
+22. A batsman scored 0 in 1st inning and 100 in 2nd inning. What is his average?
+
+এজন বেটছমেনে ১ম ইনিংছত ০ আৰু ২য় ইনিংছত ১০০ ৰাণ সংগ্ৰহ কৰিলে। তেওঁৰ গড় কিমান?
+A) 50 / ৫০
+B) 100 / ১০০
+C) 0 / ০
+D) 25 / ২৫
+Ans: A
+
+23. Average height of 4 boys is 150 cm. If 5th boy of 150 cm joins, what is new average?
+
+৪ জন ল'ৰাৰ গড় উচ্চতা ১৫০ ছেমি। যদি ১৫০ ছেমিৰ ৫ম ল'ৰাজন যোগ দিয়ে, তেন্তে নতুন গড় কিমান?
+A) 150 cm / ১৫০ ছেমি
+B) 152 cm / ১৫২ ছেমি
+C) 148 cm / ১৪৮ ছেমি
+D) 155 cm / ১৫৫ ছেমি
+Ans: A
+
+24. Find the average of numbers 5, 10, 15, 20, 25, 30.
+
+৫, ১০, ১৫, ২০, ২৫, ৩০ সংখ্যাবোৰৰ গড় উলিওৱা।
+A) 17.5 / ১৭.৫
+B) 15 / ১৫
+C) 20 / ২০
+D) 18 / ১৮
+Ans: A
+
+25. If average of 4, 8, 12, and x is 8, find x.
+
+যদি ৪, ৮, ১২, আৰু x ৰ গড় ৮ হয়, তেন্তে x ৰ মান উলিওৱা।
+A) 6 / ৬
+B) 4 / ৪
+C) 8 / ৮
+D) 10 / ১০
+Ans: A

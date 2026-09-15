@@ -1,0 +1,224 @@
+1. Find the average of the first 9 multiples of 5.
+
+৫ ৰ প্ৰথম ৯টা গুণিতকৰ গড় উলিওৱা।
+A) 20 / ২০
+B) 25 / ২৫
+C) 30 / ৩০
+D) 35 / ৩৫
+Ans: B
+
+2. The average marks obtained by 120 candidates was 35. If the average marks of passed candidates was 39 and failed candidates was 15, how many candidates passed?
+
+১২০ জন পৰীক্ষাৰ্থীৰ গড় নম্বৰ আছিল ৩৫। যদি উত্তীৰ্ণ পৰীক্ষাৰ্থীৰ গড় নম্বৰ ৩৯ আৰু অনুত্তীৰ্ণ পৰীক্ষাৰ্থীৰ ১৫ আছিল, তেন্তে কিমানজন পৰীক্ষাৰ্থী উত্তীৰ্ণ হৈছিল?
+A) 100 / ১০০
+B) 110 / ১১০
+C) 90 / ৯০
+D) 80 / ৮০
+Ans: A
+
+3. A cricketer has a certain average of runs for 10 innings. In the 11th inning, he scores 100 runs, thereby increasing his average by 9 runs. What is his new average?
+
+এজন ক্ৰিকেটাৰৰ ১০টা ইনিংছৰ ৰাণৰ এটা নিৰ্দিষ্ট গড় আছিল। ১১ নম্বৰ ইনিংছত তেওঁ ১০০ ৰাণ সংগ্ৰহ কৰে, যাৰ ফলত তেওঁৰ গড় ৯ ৰাণ বৃদ্ধি পায়। তেওঁৰ নতুন গড় কিমান?
+A) 1 / ১
+B) 10 / ১০
+C) 11 / ১১
+D) 9 / ৯
+Ans: B
+
+4. The average of six numbers is 30. If the average of the first four is 25 and that of the last three is 35, find the fourth number.
+
+ছয়টা সংখ্যাৰ গড় ৩০। যদি প্ৰথম চাৰিটাৰ গড় ২৫ আৰু শেষৰ তিনিটাৰ গড় ৩৫ হয়, তেন্তে চতুৰ্থ সংখ্যাটো উলিওৱা।
+A) 20 / ২০
+B) 25 / ২৫
+C) 30 / ৩০
+D) 35 / ৩৫
+Ans: B
+
+5. The average age of 8 men is increased by 2 years when two of them whose ages are 21 years and 23 years are replaced by two new men. What is the average age of the two new men?
+
+৮ জন মানুহৰ গড় বয়স ২ বছৰ বৃদ্ধি পায় যেতিয়া ২১ বছৰ আৰু ২৩ বছৰ বয়সৰ দুজন মানুহৰ সলনি দুজন নতুন মানুহ আহে। নতুন মানুহ দুজনৰ গড় বয়স কিমান?
+A) 28 years / ২৮ বছৰ
+B) 30 years / ৩০ বছৰ
+C) 32 years / ৩২ বছৰ
+D) 25 years / ২৫ বছৰ
+Ans: B
+
+6. If the sum of 5 numbers is 240, what is their average?
+
+যদি ৫টা সংখ্যাৰ যোগফল ২৪০ হয়, তেন্তে সিহঁতৰ গড় কিমান?
+A) 40 / ৪০
+B) 48 / ৪৮
+C) 50 / ৫০
+D) 52 / ৫২
+Ans: B
+
+7. The average of 3 numbers is 15. If two of the numbers are 10 and 18, find the third number.
+
+৩টা সংখ্যাৰ গড় ১৫। যদি দুটা সংখ্যা ১০ আৰু ১৮ হয়, তেন্তে তৃতীয় সংখ্যাটো উলিওৱা।
+A) 17 / ১৭
+B) 15 / ১৫
+C) 20 / ২০
+D) 12 / ১২
+Ans: A
+
+8. What is the average of all prime numbers between 10 and 20?
+
+১০ আৰু ২০ ৰ মাজৰ সকলো মৌলিক সংখ্যাৰ গড় কিমান?
+A) 15 / ১৫
+B) 15.25 / ১৫.২৫
+C) 15.5 / ১৫.৫
+D) 16 / ১৬
+Ans: B
+
+9. The average age of 4 sisters is 7 years. If the age of their mother is included, the average age increases by 6 years. Find the age of the mother.
+
+৪ গৰাকী ভনীয়েকৰ গড় বয়স ৭ বছৰ। যদি তেওঁলোকৰ মাৰ বয়স যোগ কৰা হয়, তেন্তে গড় বয়স ৬ বছৰ বৃদ্ধি পায়। মাৰ বয়স কিমান?
+A) 37 years / ৩৭ বছৰ
+B) 35 years / ৩৫ বছৰ
+C) 39 years / ৩৯ বছৰ
+D) 40 years / ৪০ বছৰ
+Ans: A
+
+10. The average of 7 consecutive numbers is 20. Find the smallest number.
+
+৭টা ক্ৰমিক সংখ্যাৰ গড় ২০। আটাইতকৈ সৰু সংখ্যাটো উলিওৱা।
+A) 16 / ১৬
+B) 17 / ১৭
+C) 18 / ১৮
+D) 19 / ১৯
+Ans: B
+
+11. Find the average of first 10 multiples of 7.
+
+৭ ৰ প্ৰথম ১০টা গুণিতকৰ গড় উলিওৱা।
+A) 38.5 / ৩৮.৫
+B) 35 / ৩৫
+C) 42 / ৪২
+D) 37.5 / ৩৭.৫
+Ans: A
+
+12. If the average of a, b, and c is 20 and that of b, c, and d is 25, find the difference between d and a.
+
+যদি a, b আৰু c ৰ গড় ২০ আৰু b, c আৰু d ৰ গড় ২৫ হয়, তেন্তে d আৰু a ৰ ব্যৱধান কিমান?
+A) 5 / ৫
+B) 10 / ১০
+C) 15 / ১৫
+D) 20 / ২০
+Ans: C
+
+13. A car covers 100 km at 50 km/h and another 100 km at 25 km/h. What is the average speed for the total journey?
+
+এখন কাৰে ৫০ কিমি/ঘণ্টা বেগেৰে ১০০ কিমি আৰু ২৫ কিমি/ঘণ্টা বেগেৰে আন ১০০ কিমি অতিক্ৰম কৰে। সমগ্ৰ যাত্ৰাৰ গড় বেগ কিমান?
+A) 33.33 km/h / ৩৩.৩৩ কিমি/ঘণ্টা
+B) 37.5 km/h / ৩৭.৫ কিমি/ঘণ্টা
+C) 40 km/h / ৪০ কিমি/ঘণ্টা
+D) 35 km/h / ৩৫ কিমি/ঘণ্টা
+Ans: A
+
+14. The average of 8 numbers is 12. If 2 is subtracted from each number, what will be the new average?
+
+৮টা সংখ্যাৰ গড় ১২। যদি প্ৰতিটো সংখ্যাৰ পৰা ২ বিয়োগ কৰা হয়, তেন্তে নতুন গড় কিমান হ'ব?
+A) 10 / ১০
+B) 14 / ১৪
+C) 24 / ২৪
+D) 6 / ৬
+Ans: A
+
+15. In the first 10 overs of a cricket game, the run rate was only 3.2 , What should be the run rate in the remaining 40 overs to reach the target of 282 runs?
+
+ক্ৰিকেট খেল এখনৰ প্ৰথম ১০ অভাৰত ৰাণ ৰেট আছিল কেৱল ৩.২। ২৮২ ৰাণৰ লক্ষ্যত উপনীত হ'বলৈ বাকী থকা ৪০ অভাৰত ৰাণ ৰেট কিমান হ'ব লাগিব?
+A) 6.25 / ৬.২৫
+B) 6.5 / ৬.৫
+C) 6.75 / ৬.৭৫
+D) 7 / ৭
+Ans: A
+
+16. The average score of 3 boys in a test is 18. If their scores are in the ratio 2 : 3 : 4, find the highest score.
+
+এখন পৰীক্ষাত ৩ জন ল'ৰাৰ গড় নম্বৰ ১৮। যদি তেওঁলোকৰ নম্বৰ ২ : ৩ : ৪ অনুপাতত থাকে, তেন্তে সৰ্বোচ্চ নম্বৰ উলিওৱা।
+A) 18 / ১৮
+B) 24 / ২৪
+C) 12 / ১২
+D) 30 / ৩০
+Ans: B
+
+17. The average weight of 10 students is 40 kg. If a student weighing 50 kg leaves, what is the new average weight of the remaining students?
+
+১০ জন ছাত্ৰৰ গড় ওজন ৪০ কেজি। যদি ৫০ কেজি ওজনৰ এজন ছাত্ৰই দল এৰি যায়, তেন্তে বাকী থকা ছাত্ৰসকলৰ নতুন গড় ওজন কিমান?
+A) 38.88 kg / ৩৮.৮৮ কেজি
+B) 39 kg / ৩৯ কেজি
+C) 38.5 kg / ৩৮.৫ কেজি
+D) 37 kg / ৩৭ কেজি
+Ans: A
+
+18. The average of 5 consecutive odd numbers is 25. Find the product of the lowest and highest numbers.
+
+৫টা ক্ৰমিক অযোৰ সংখ্যাৰ গড় ২৫। আটাইতকৈ সৰু আৰু আটাইতকৈ ডাঙৰ সংখ্যাৰ গুণফল উলিওৱা।
+A) 609 / ৬০৯
+B) 525 / ৫২৫
+C) 621 / ৬২১
+D) 589 / ৫৮৯
+Ans: A
+
+19. The average temperature of the first three days of a week is 27 degrees C and of the next three days is 29 degrees C, If the average for the whole week is 28.5 degrees C, find the temperature of the last day.
+
+সপ্তাহটোৰ প্ৰথম তিনি দিনৰ গড় উত্তাপ ২৭ ডিগ্ৰী চেলচিয়াছ আৰু পৰৱৰ্তী তিনি দিনৰ ২৯ ডিগ্ৰী চেলচিয়াছ। যদি গোটেই সপ্তাহটোৰ গড় উত্তাপ ২৮.৫ ডিগ্ৰী চেলচিয়াছ হয়, তেন্তে শেষৰ দিনটোৰ উত্তাপ উলিওৱা।
+A) 31.5 degrees C / ৩১.৫ ডিগ্ৰী চেলচিয়াছ
+B) 30.5 degrees C / ৩০.৫ ডিগ্ৰী চেলচিয়াছ
+C) 32 degrees C / ৩২ ডিগ্ৰী চেলচিয়াছ
+D) 33 degrees C / ৩৩ ডিগ্ৰী চেলচিয়াছ
+Ans: A
+
+20. Average of 20 numbers is zero. At most, how many of them may be greater than zero?
+
+২০টা সংখ্যাৰ গড় শূন্য। সৰ্বাধিক কিমানটা সংখ্যা শূন্যতকৈ ডাঙৰ হ'ব পাৰে?
+A) 0 / ০
+B) 1 / ১
+C) 10 / ১০
+D) 19 / ১৯
+Ans: D
+
+21. Find the average of all numbers between 6 and 34 which are divisible by 5.
+
+৬ আৰু ৩৪ ৰ মাজৰ ৫ ৰে বিভাজ্য সকলো সংখ্যাৰ গড় উলিওৱা।
+A) 15 / ১৫
+B) 20 / ২০
+C) 22.5 / ২২.৫
+D) 25 / ২৫
+Ans: B
+
+22. The average age of a family of 6 members is 22 years. If the age of the youngest member is 7 years, what was the average age of the family at the birth of the youngest member?
+
+৬ জন সদস্য থকা এটা পৰিয়ালৰ গড় বয়স ২২ বছৰ। যদি আটাইতকৈ সৰু সদস্যজনৰ বয়স ৭ বছৰ হয়, তেন্তে আটাইতকৈ সৰু সদস্যজনৰ জন্মৰ সময়ত পৰিয়ালটোৰ গড় বয়স কিমান আছিল?
+A) 15 years / ১৫ বছৰ
+B) 18 years / ১৮ বছৰ
+C) 17.5 years / ১৭.৫ বছৰ
+D) 16 years / ১৬ বছৰ
+Ans: B
+
+23. A batsman scores 35, 45, 37, 28, and 50 in five matches. What is his average score?
+
+এজন বেটছমেনে পাঁচখন মেচত ৩৫, ৪৫, ৩৭, ২৮, আৰু ৫০ ৰাণ সংগ্ৰহ কৰে। তেওঁৰ গড় ৰাণ কিমান?
+A) 38 / ৩৮
+B) 39 / ৩৯
+C) 40 / ৪০
+D) 37 / ৩৭
+Ans: B
+
+24. If the average of x, x+2, x+4, x+6, and x+8 is 11, find the value of x.
+
+যদি x, x+2, x+4, x+6, আৰু x+8 ৰ গড় ১১ হয়, তেন্তে x ৰ মান উলিওৱা।
+A) 5 / ৫
+B) 7 / ৭
+C) 9 / ৯
+D) 6 / ৬
+Ans: B
+
+25. The average age of 15 students is 15 years. Out of these, the average age of 5 students is 14 years and that of another 9 students is 16 years. What is the age of the 15th student?
+
+১৫ জন ছাত্ৰৰ গড় বয়স ১৫ বছৰ। ইয়াৰে ৫ জন ছাত্ৰৰ গড় বয়স ১৪ বছৰ আৰু আন ৯ জন ছাত্ৰৰ ১৬ বছৰ। ১৫ নম্বৰ ছাত্ৰজনৰ বয়স কিমান?
+A) 11 years / ১১ বছৰ
+B) 14 years / ১৪ বছৰ
+C) 15 years / ১৫ বছৰ
+D) 12 years / ১২ বছৰ
+Ans: A

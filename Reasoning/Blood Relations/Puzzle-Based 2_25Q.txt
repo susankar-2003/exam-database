@@ -1,0 +1,224 @@
+1. A is the son of B. C, B's sister, has a son D and a daughter E. F is the maternal uncle of D. How is A related to D?
+
+A হ'ল B ৰ পুত্ৰ। C, B ৰ ভনীয়েক, যিজনীৰ এজন পুত্ৰ D আৰু এজনী জীয়ৰী E আছে। F হ'ল D ৰ মোমাই। A, D ৰ কি হয়?
+A) Cousin / সম্পৰ্কীয় ভাই
+B) Uncle / খুৰাক
+C) Brother / ককাই-ভাই
+D) Nephew / ভাগিন
+Ans: A
+
+2. D is the brother of K. M is the sister of K. R is the father of D and S is the mother of M. How is K related to R?
+
+D হ'ল K ৰ ককাই-ভাই। M হ'ল K ৰ ভনী। R হ'ল D ৰ দেউতাক আৰু S হ'ল M ৰ মাতৃ। K, R ৰ কি হয়?
+A) Son / পুত্ৰ
+B) Daughter / জীয়ৰী
+C) Son or Daughter / পুত্ৰ বা জীয়ৰী
+D) Nephew / ভাগিন
+Ans: C
+
+3. A is father of X, B is mother of Y. The sister of X and Z is Y. Which of the following statements is definitely FALSE?
+
+A হ'ল X ৰ দেউতাক, B হ'ল Y ৰ মাতৃ। X আৰু Z ৰ ভনীয়েক হ'ল Y। তলৰ কোনটো বাক্য নিশ্চিতভাৱে ভুল?
+A) B is the wife of A / B, A ৰ পত্নী
+B) A has three children / A ৰ তিনিজন সন্তান আছে
+C) X is the sister of Z / X, Z ৰ ভনী
+D) Y is the daughter of A / Y, A ৰ জীয়ৰী
+Ans: C
+
+4. In a family, there are six members A, B, C, D, E and F. A and B are a married couple, A being the male member. D is the only son of C, who is the brother of A. E is the sister of D. B is the daughter-in-law of F, whose husband has died. How is E related to C?
+
+এটা পৰিয়ালত ছয়জন সদস্য A, B, C, D, E আৰু F আছে। A আৰু B বিবাহিত দম্পতি, A পুৰুষ সদস্য। D হ'ল C ৰ একমাত্ৰ পুত্ৰ, যি A ৰ ককাই-ভাই। E হ'ল D ৰ ভনী। B হ'ল F ৰ বোৱাৰী, যাৰ স্বামীৰ মৃত্যু হৈছে। E, C ৰ কি হয়?
+A) Daughter / জীয়ৰী
+B) Sister / ভনী
+C) Mother / মাতৃ
+D) Niece / ভাতিজী
+Ans: A
+
+5. A, B, C, D and E are five members of a family. A is father of B. C is mother of D. D is sister of E. E is son of A. How is B related to D?
+
+A, B, C, D আৰু E এটা পৰিয়ালৰ পাঁচজন সদস্য। A হ'ল B ৰ দেউতাক। C হ'ল D ৰ মাতৃ। D হ'ল E ৰ ভনী। E হ'ল A ৰ পুত্ৰ। B, D ৰ কি হয়?
+A) Brother or Sister / ককাই-ভাই বা ভনী
+B) Mother / মাতৃ
+C) Father / পিতৃ
+D) Uncle / খুৰাক
+Ans: A
+
+6. There are 6 members in a family P, Q, R, S, T and U. P and Q are a married couple. P is a male member. S is the only son of R, who is the brother of P. T is the sister of S. Q is the daughter-in-law of U, whose husband has died. How is U related to P?
+
+এটা পৰিয়ালত 6 জন সদস্য P, Q, R, S, T আৰু U আছে। P আৰু Q বিবাহিত দম্পতি। P পুৰুষ সদস্য। S হ'ল R ৰ একমাত্ৰ পুত্ৰ, যি P ৰ ককাই-ভাই। T হ'ল S ৰ ভনী। Q হ'ল U ৰ বোৱাৰী, যাৰ স্বামীৰ মৃত্যু হৈছে। U, P ৰ কি হয়?
+A) Mother / মাতৃ
+B) Sister / ভনী
+C) Aunt / পেহী
+D) Grandmother / আইতা
+Ans: A
+
+7. Read the information carefully: A + B means A is the father of B; A - B means A is the wife of B; A × B means A is the brother of B. What does P × R - Q mean?
+
+তথ্যখিনি মনোযোগেৰে পঢ়ক: A + B মানে A, B ৰ দেউতাক; A - B মানে A, B ৰ পত্নী; A × B মানে A, B ৰ ককাই-ভাই। P × R - Q ৰ অৰ্থ কি?
+A) P is the brother-in-law of Q / P, Q ৰ বৰজনা/দেৱৰ
+B) P is the father of Q / P, Q ৰ দেউতাক
+C) P is the uncle of Q / P, Q ৰ খুৰাক
+D) P is the brother of Q / P, Q ৰ ককাই-ভাই
+Ans: A
+
+8. A is the brother of B. B is the brother of C. C is the husband of D. E is the father of A. How is D related to E?
+
+A হ'ল B ৰ ককাই-ভাই। B হ'ল C ৰ ককাই-ভাই। C হ'ল D ৰ স্বামী। E হ'ল A ৰ দেউতাক। D, E ৰ কি হয়?
+A) Daughter-in-law / বোৱাৰী
+B) Daughter / জীয়ৰী
+C) Sister / ভনী
+D) Mother / মাতৃ
+Ans: A
+
+9. In a family, there are two married couples. T is a doctor and father of R. U is grandfather of P and is a contractor. S is grandmother of R and is a housewife. There is one doctor, one contractor, one nurse, one housewife and two students. If P is a student, how is R related to U?
+
+এটা পৰিয়ালত দুযোৰ বিবাহিত দম্পতি আছে। T এজন ডাক্তৰ আৰু R ৰ দেউতাক। U হ'ল P ৰ ককা আৰু এজন ঠিকাদাৰ। S হ'ল R ৰ আইতা আৰু এগৰাকী গৃহিণী। পৰিয়ালটোত এজন ডাক্তৰ, এজন ঠিকাদাৰ, এগৰাকী নাৰ্ছ, এগৰাকী গৃহিণী আৰু দুজন ছাত্ৰ/ছাত্ৰী আছে। যদি P এজন ছাত্ৰ হয়, R, U ৰ কি হয়?
+A) Grandson or Granddaughter / নাতি বা নাতিনি
+B) Son / পুত্ৰ
+C) Daughter / জীয়ৰী
+D) Brother / ককাই-ভাই
+Ans: A
+
+10. B is the mother of D and C is the brother of D. H is the daughter of E while D is the wife of E. How is E related to C?
+
+B হ'ল D ৰ মাতৃ আৰু C হ'ল D ৰ ককাই-ভাই। H হ'ল E ৰ জীয়ৰী আনহাতে D হ'ল E ৰ পত্নী। E, C ৰ কি হয়?
+A) Brother-in-law / ভিনিহী/জোঁৱাই
+B) Father / দেউতাক
+C) Uncle / খুৰাক
+D) Brother / ককাই-ভাই
+Ans: A
+
+11. A is B's wife and C is A's sister. D is C's mother, while E is D's mother. How is B related to D?
+
+A হ'ল B ৰ পত্নী আৰু C হ'ল A ৰ ভনী। D হ'ল C ৰ মাতৃ, আনহাতে E হ'ল D ৰ মাতৃ। B, D ৰ কি হয়?
+A) Son-in-law / জোৱাঁই
+B) Brother / ককাই-ভাই
+C) Father / দেউতাক
+D) Uncle / খুৰাক
+Ans: A
+
+12. P, Q, R, S, T, U and V are seven members of a family. R is the mother of V and S. Q is the spouse of R. T is the brother of Q. P is the father-in-law of Q. U is the daughter of T. How is P related to V?
+
+P, Q, R, S, T, U আৰু V এটা পৰিয়ালৰ সাতজন সদস্য। R হ'ল V আৰু S ৰ মাতৃ। Q হ'ল R ৰ স্বামী/পত্নী। T হ'ল Q ৰ ককাই-ভাই। P হ'ল Q ৰ শশূৰ। U হ'ল T ৰ জীয়ৰী। P, V ৰ কি হয়?
+A) Paternal Grandfather / ককা (দেউতাকৰ ফালৰ)
+B) Father / দেউতাক
+C) Uncle / খুৰাক
+D) Brother / ককাই-ভাই
+Ans: A
+
+13. A is father of C, but C is not his son. E is the daughter of C. F is the spouse of A. B is the brother of C. D is the son of B. G is the spouse of B. H is the father of G. Who is the paternal grandmother of D?
+
+A হ'ল C ৰ দেউতাক, কিন্তু C তেওঁৰ পুত্ৰ নহয়। E হ'ল C ৰ জীয়ৰী। F হ'ল A ৰ পত্নী। B হ'ল C ৰ ককাই-ভাই। D হ'ল B ৰ পুত্ৰ। G হ'ল B ৰ পত্নী। H হ'ল G ৰ দেউতাক। D ৰ আইতা (Paternal grandmother) কোন?
+A) F
+B) C
+C) E
+D) G
+Ans: A
+
+14. In a family of 8 persons, there are two married couples. A is the son of B and brother of C. D is the mother of C and married to B. E is the sister of B. F is the daughter of D. G is the father of B. How is E related to A?
+
+8 জন ব্যক্তিৰ এটা পৰিয়ালত দুযোৰ বিবাহিত দম্পতি আছে। A হ'ল B ৰ পুত্ৰ আৰু C ৰ ককাই-ভাই। D হ'ল C ৰ মাতৃ আৰু B ৰ সৈতে বিবাহিত। E হ'ল B ৰ ভনী। F হ'ল D ৰ জীয়ৰী। G হ'ল B ৰ দেউতাক। E, A ৰ কি হয়?
+A) Aunt / পেহী
+B) Sister / ভনী
+C) Mother / মাতৃ
+D) Grandmother / আইতা
+Ans: A
+
+15. M, N, O, P, Q, R are six members of a family. N is the son of O, but O is not the mother of N. M and O are a married couple. R is the brother of O. P is the daughter of M. Q is the brother of N. How many male members are there in the family?
+
+M, N, O, P, Q, R এটা পৰিয়ালৰ 6 জন সদস্য। N হ'ল O ৰ পুত্ৰ, কিন্তু O, N ৰ মা নহয়। M আৰু O বিবাহিত দম্পতি। R হ'ল O ৰ ককাই-ভাই। P হ'ল M ৰ জীয়ৰী। Q হ'ল N ৰ ককাই-ভাই। পৰিয়ালটোত মুঠ কেইজন পুৰুষ সদস্য আছে?
+A) 4
+B) 3
+C) 2
+D) 5
+Ans: A
+
+16. A, B, C, D, E and F are six members of a family. A and B are a married couple. A is a male member. D is the only son of C, who is the brother of A. E is the sister of D. B is the daughter-in-law of F. How is F related to A?
+
+A, B, C, D, E আৰু F এটা পৰিয়ালৰ 6 জন সদস্য। A আৰু B বিবাহিত দম্পতি। A এজন পুৰুষ সদস্য। D হ'ল C ৰ একমাত্ৰ পুত্ৰ, যি A ৰ ককাই-ভাই। E হ'ল D ৰ ভনী। B হ'ল F ৰ বোৱাৰী। F, A ৰ কি হয়?
+A) Father or Mother / দেউতাক বা মা
+B) Sister / ভনী
+C) Brother / ককাই-ভাই
+D) Aunt / পেহী
+Ans: A
+
+17. C is the wife of B. E is the son of C. A is the brother of B and father of D. What is the relationship of E to D?
+
+C হ'ল B ৰ পত্নী। E হ'ল C ৰ পুত্ৰ। A হ'ল B ৰ ককাই-ভাই আৰু D ৰ দেউতাক। E, D ৰ কি হয়?
+A) Cousin / সম্পৰ্কীয় ভাই
+B) Brother / ককাই-ভাই
+C) Uncle / খুৰাক
+D) Nephew / ভাগিন
+Ans: A
+
+18. A and B are brothers. C and D are sisters. A's son is D's brother. How is B related to C?
+
+A আৰু B ককাই-ভাই। C আৰু D ভনীয়েক। A ৰ পুত্ৰ D ৰ ককাই-ভাই। B, C ৰ কি হয়?
+A) Uncle / খুৰাক/বৰদেউতা
+B) Father / দেউতাক
+C) Brother / ককাই-ভাই
+D) Grandfather / ককা
+Ans: A
+
+19. A is the father of B and C. B is the son of A, but C is not the son of A. How is C related to A?
+
+A হ'ল B আৰু C ৰ দেউতাক। B, A ৰ পুত্ৰ, কিন্তু C, A ৰ পুত্ৰ নহয়। C, A ৰ কি হয়?
+A) Daughter / জীয়ৰী
+B) Niece / ভাতিজী
+C) Sister / ভনী
+D) Mother / মাতৃ
+Ans: A
+
+20. A, B, C, D, E and F are members of a family. A and B are a married couple. C is the brother of A. D is the son of C. E is the sister of D. F is the wife of C. How is E related to F?
+
+A, B, C, D, E আৰু F এটা পৰিয়ালৰ সদস্য। A আৰু B বিবাহিত দম্পতি। C হ'ল A ৰ ককাই-ভাই। D হ'ল C ৰ পুত্ৰ। E হ'ল D ৰ ভনী। F হ'ল C ৰ পত্নী। E, F ৰ কি হয়?
+A) Daughter / জীয়ৰী
+B) Sister / ভনী
+C) Mother / মাতৃ
+D) Niece / ভাতিজী
+Ans: A
+
+21. P is the father of Q. Q is the mother of R. R is the sister of S. S is the son of T. How is T related to P?
+
+P হ'ল Q ৰ দেউতাক। Q হ'ল R ৰ মাতৃ। R হ'ল S ৰ ভনী। S হ'ল T ৰ পুত্ৰ। T, P ৰ কি হয়?
+A) Son-in-law / জোৱাঁই
+B) Brother / ককাই-ভাই
+C) Son / পুত্ৰ
+D) Father / দেউতাক
+Ans: A
+
+22. A is B's brother, C is A's mother, D is C's father, F is A's son. How is F related to D?
+
+A হ'ল B ৰ ককাই-ভাই, C হ'ল A ৰ মাতৃ, D হ'ল C ৰ দেউতাক, F হ'ল A ৰ পুত্ৰ। F, D ৰ কি হয়?
+A) Great Grandson / পৰ-নাতি
+B) Grandson / নাতি
+C) Son / পুত্ৰ
+D) Nephew / ভাগিন
+Ans: A
+
+23. X is the brother of Y. Y is the wife of Z. Z is the son of W. W is the wife of V. How is V related to Z?
+
+X হ'ল Y ৰ ককাই-ভাই। Y হ'ল Z ৰ পত্নী। Z হ'ল W ৰ পুত্ৰ। W হ'ল V ৰ পত্নী। V, Z ৰ কি হয়?
+A) Father / দেউতাক
+B) Mother / মাতৃ
+C) Brother / ককাই-ভাই
+D) Uncle / খুৰাক
+Ans: A
+
+24. In a family of six members P, Q, R, S, T and U, there are two married couples. S is the grandmother of P and mother of Q. R is the wife of Q and mother of T. U is the granddaughter of S. How is P related to T?
+
+P, Q, R, S, T আৰু U সদস্য থকা 6 জনীয়া পৰিয়ালটোত দুযোৰ বিবাহিত দম্পতি আছে। S হ'ল P ৰ আইতা আৰু Q ৰ মাতৃ। R হ'ল Q ৰ পত্নী আৰু T ৰ মাতৃ। U হ'ল S ৰ নাতিনি। P, T ৰ কি হয়?
+A) Brother or Sister / ককাই-ভাই বা ভনী
+B) Cousin / সম্পৰ্কীয় ভাই
+C) Father / দেউতাক
+D) Uncle / খুৰাক
+Ans: A
+
+25. A, B, C, D, E, F are six members of a family. B is the son of C, but C is not the mother of B. A and C are a married couple. E is the brother of C. D is the daughter of A. F is the brother of A. How many children does A have?
+
+A, B, C, D, E, F এটা পৰিয়ালৰ 6 জন সদস্য। B হ'ল C ৰ পুত্ৰ, কিন্তু C, B ৰ মা নহয়। A আৰু C বিবাহিত দম্পতি। E হ'ল C ৰ ককাই-ভাই। D হ'ল A ৰ জীয়ৰী। F হ'ল A ৰ ককাই-ভাই। A ৰ কেইজন সন্তান আছে?
+A) 2
+B) 3
+C) 1
+D) 4
+Ans: A

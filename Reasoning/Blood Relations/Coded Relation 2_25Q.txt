@@ -1,0 +1,224 @@
+1. If 'A * B' means 'A is the husband of B' and 'B + C' means 'B is the mother of C', how is A related to C?
+
+যদি 'A * B' ৰ অৰ্থ 'A, B ৰ স্বামী' আৰু 'B + C' ৰ অৰ্থ 'B, C ৰ মাতৃ', A, C ৰ কি হয়?
+A) Uncle / খুৰাক
+B) Father / দেউতাক
+C) Brother / ককাই-ভাই
+D) Son / পুত্ৰ
+Ans: B
+
+2. If 'X & Y' means 'X is the daughter of Y' and 'Y & Z' means 'Y is the daughter of Z', how is Z related to X?
+
+যদি 'X & Y' ৰ অৰ্থ 'X, Y ৰ জীয়ৰী' আৰু 'Y & Z' ৰ অৰ্থ 'Y, Z ৰ জীয়ৰী', Z, X ৰ কি হয়?
+A) Mother / মাতৃ
+B) Daughter / জীয়ৰী
+C) Grandfather or Grandmother / ককা বা আইতা
+D) Sister / ভনী
+Ans: C
+
+3. If 'P $ Q' means 'P is the father of Q' and 'Q @ R' means 'Q is the son of R', how is P related to R?
+
+যদি 'P $ Q' ৰ অৰ্থ 'P, Q ৰ দেউতাক' আৰু 'Q @ R' ৰ অৰ্থ 'Q, R ৰ পুত্ৰ', P, R ৰ কি হয়?
+A) Brother / ককাই-ভাই
+B) Father-in-law / শহুৰ
+C) Son / পুত্ৰ
+D) Husband / স্বামী
+Ans: D
+
+4. If 'A + B' means 'A is the brother of B' and 'B ÷ C' means 'B is the father of C', how is A related to C?
+
+যদি 'A + B' ৰ অৰ্থ 'A, B ৰ ককাই-ভাই' আৰু 'B ÷ C' ৰ অৰ্থ 'B, C ৰ দেউতাক', A, C ৰ কি হয়?
+A) Paternal Uncle / খুৰাক/বৰদেউতা
+B) Father / দেউতাক
+C) Brother / ককাই-ভাই
+D) Grandfather / ককা
+Ans: A
+
+5. If 'M - N' means 'M is the sister of N' and 'N × O' means 'N is the mother of O', how is M related to O?
+
+যদি 'M - N' ৰ অৰ্থ 'M, N ৰ ভনী' আৰু 'N × O' ৰ অৰ্থ 'N, O ৰ মাতৃ', M, O ৰ কি হয়?
+A) Mother / মাতৃ
+B) Maternal Aunt / মাঁহী
+C) Sister / ভনী
+D) Grandmother / আইতা
+Ans: B
+
+6. If 'P % Q' means 'P is the son of Q' and 'Q % R' means 'Q is the son of R', how is P related to R?
+
+যদি 'P % Q' ৰ অৰ্থ 'P, Q ৰ পুত্ৰ' আৰু 'Q % R' ৰ অৰ্থ 'Q, R ৰ পুত্ৰ', P, R ৰ কি হয়?
+A) Son / পুত্ৰ
+B) Father / দেউতাক
+C) Grandson / নাতি
+D) Brother / ককাই-ভাই
+Ans: C
+
+7. If 'A ! B' means 'A is the wife of B' and 'B # C' means 'B is the brother of C', how is A related to C?
+
+যদি 'A ! B' ৰ অৰ্থ 'A, B ৰ পত্নী' আৰু 'B # C' ৰ অৰ্থ 'B, C ৰ ককাই-ভাই', A, C ৰ কি হয়?
+A) Sister / ভনী
+B) Mother / মাতৃ
+C) Aunt / পেহী
+D) Sister-in-law / বৌ/বৌৱেক
+Ans: D
+
+8. If 'X @ Y' means 'X is the mother of Y' and 'Y + Z' means 'Y is the sister of Z', how is X related to Z?
+
+যদি 'X @ Y' ৰ অৰ্থ 'X, Y ৰ মাতৃ' আৰু 'Y + Z' ৰ অৰ্থ 'Y, Z ৰ ভনী', X, Z ৰ কি হয়?
+A) Mother / মাতৃ
+B) Sister / ভনী
+C) Aunt / পেহী/মাঁহী
+D) Daughter / জীয়ৰী
+Ans: A
+
+9. If 'P * Q' means 'P is the brother of Q' and 'Q * R' means 'Q is the brother of R', how is P related to R?
+
+যদি 'P * Q' ৰ অৰ্থ 'P, Q ৰ ককাই-ভাই' আৰু 'Q * R' ৰ অৰ্থ 'Q, R ৰ ককাই-ভাই', P, R ৰ কি হয়?
+A) Father / দেউতাক
+B) Brother / ককাই-ভাই
+C) Uncle / খুৰাক
+D) Son / পুত্ৰ
+Ans: B
+
+10. If 'A $B' means 'A is the daughter of B' and 'B$ C' means 'B is the daughter of C', how is C related to A?
+
+যদি 'A $ B' ৰ অৰ্থ 'A, B ৰ জীয়ৰী' আৰু 'B $ C' ৰ অৰ্থ 'B, C ৰ জীয়ৰী', C, A ৰ কি হয়?
+A) Mother / মাতৃ
+B) Daughter / জীয়ৰী
+C) Grandmother / আইতা
+D) Sister / ভনী
+Ans: C
+
+11. If 'M # N' means 'M is the father of N' and 'N % O' means 'N is the wife of O', how is M related to O?
+
+যদি 'M # N' ৰ অৰ্থ 'M, N ৰ দেউতাক' আৰু 'N % O' ৰ অৰ্থ 'N, O ৰ পত্নী', M, O ৰ কি হয়?
+A) Father / দেউতাক
+B) Uncle / খুৰাক
+C) Brother-in-law / ভিনিহী
+D) Father-in-law / শহুৰ
+Ans: D
+
+12. If 'P + Q' means 'P is the husband of Q' and 'Q - R' means 'Q is the sister of R', how is P related to R?
+
+যদি 'P + Q' ৰ অৰ্থ 'P, Q ৰ স্বামী' আৰু 'Q - R' ৰ অৰ্থ 'Q, R ৰ ভনী', P, R ৰ কি হয়?
+A) Brother-in-law / ভিনিহী/জোঁৱাই
+B) Brother / ককাই-ভাই
+C) Father / দেউতাক
+D) Uncle / খুৰাক
+Ans: A
+
+13. If 'A ÷ B' means 'A is the mother of B' and 'B + C' means 'B is the son of C', how is A related to C?
+
+যদি 'A ÷ B' ৰ অৰ্থ 'A, B ৰ মাতৃ' আৰু 'B + C' ৰ অৰ্থ 'B, C ৰ পুত্ৰ', A, C ৰ কি হয়?
+A) Sister / ভনী
+B) Wife / পত্নী
+C) Mother / মাতৃ
+D) Daughter / জীয়ৰী
+Ans: B
+
+14. If 'X * Y' means 'X is the sister of Y' and 'Y $ Z' means 'Y is the father of Z', how is X related to Z?
+
+যদি 'X * Y' ৰ অৰ্থ 'X, Y ৰ ভনী' আৰু 'Y $ Z' ৰ অৰ্থ 'Y, Z ৰ দেউতাক', X, Z ৰ কি হয়?
+A) Mother / মাতৃ
+B) Sister / ভনী
+C) Paternal Aunt / পেহী
+D) Grandmother / আইতা
+Ans: C
+
+15. If 'P - Q' means 'P is the son of Q' and 'Q * R' means 'Q is the wife of R', how is P related to R?
+
+যদি 'P - Q' ৰ অৰ্থ 'P, Q ৰ পুত্ৰ' আৰু 'Q * R' ৰ অৰ্থ 'Q, R ৰ পত্নী', P, R ৰ কি হয়?
+A) Father / দেউতাক
+B) Brother / ককাই-ভাই
+C) Uncle / খুৰাক
+D) Son / পুত্ৰ
+Ans: D
+
+16. If 'A @ B' means 'A is the brother of B' and 'B @ C' means 'B is the brother of C', how is A related to C?
+
+যদি 'A @ B' ৰ অৰ্থ 'A, B ৰ ককাই-ভাই' আৰু 'B @ C' ৰ অৰ্থ 'B, C ৰ ককাই-ভাই', A, C ৰ কি হয়?
+A) Brother / ককাই-ভাই
+B) Father / দেউতাক
+C) Uncle / খুৰাক
+D) Son / পুত্ৰ
+Ans: A
+
+17. If 'M % N' means 'M is the daughter of N' and 'N - O' means 'N is the husband of O', how is M related to O?
+
+যদি 'M % N' ৰ অৰ্থ 'M, N ৰ জীয়ৰী' আৰু 'N - O' ৰ অৰ্থ 'N, O ৰ স্বামী', M, O ৰ কি হয়?
+A) Sister / ভনী
+B) Daughter / জীয়ৰী
+C) Mother / মাতৃ
+D) Aunt / পেহী
+Ans: B
+
+18. If 'P $ Q' means 'P is the mother of Q' and 'Q + R' means 'Q is the brother of R', how is P related to R?
+
+যদি 'P $ Q' ৰ অৰ্থ 'P, Q ৰ মাতৃ' আৰু 'Q + R' ৰ অৰ্থ 'Q, R ৰ ককাই-ভাই', P, R ৰ কি হয়?
+A) Sister / ভনী
+B) Aunt / পেহী/মাঁহী
+C) Mother / মাতৃ
+D) Grandmother / আইতা
+Ans: C
+
+19. If 'A # B' means 'A is the father of B' and 'B ÷ C' means 'B is the sister of C', how is A related to C?
+
+যদি 'A # B' ৰ অৰ্থ 'A, B ৰ দেউতাক' আৰু 'B ÷ C' ৰ অৰ্থ 'B, C ৰ ভনী', A, C ৰ কি হয়?
+A) Uncle / খুৰাক
+B) Brother / ককাই-ভাই
+C) Grandfather / ককা
+D) Father / দেউতাক
+Ans: D
+
+20. If 'X & Y' means 'X is the husband of Y' and 'Y & Z' means 'Y is the mother of Z', how is X related to Z?
+
+যদি 'X & Y' ৰ অৰ্থ 'X, Y ৰ স্বামী' আৰু 'Y & Z' ৰ অৰ্থ 'Y, Z ৰ মাতৃ', X, Z ৰ কি হয়?
+A) Father / দেউতাক
+B) Uncle / খুৰাক
+C) Brother / ককাই-ভাই
+D) Grandfather / ককা
+Ans: A
+
+21. If 'P ! Q' means 'P is the sister of Q' and 'Q ! R' means 'Q is the sister of R', how is P related to R?
+
+যদি 'P ! Q' ৰ অৰ্থ 'P, Q ৰ ভনী' আৰু 'Q ! R' ৰ অৰ্থ 'Q, R ৰ ভনী', P, R ৰ কি হয়?
+A) Mother / মাতৃ
+B) Sister / ভনী
+C) Daughter / জীয়ৰী
+D) Aunt / পেহী
+Ans: B
+
+22. If 'A + B' means 'A is the son of B' and 'B * C' means 'B is the father of C', how is A related to C?
+
+যদি 'A + B' ৰ অৰ্থ 'A, B ৰ পুত্ৰ' আৰু 'B * C' ৰ অৰ্থ 'B, C ৰ দেউতাক', A, C ৰ কি হয়?
+A) Father / দেউতাক
+B) Uncle / খুৰাক
+C) Brother / ককাই-ভাই
+D) Son / পুত্ৰ
+Ans: C
+
+23. If 'M - N' means 'M is the wife of N' and 'N $ O' means 'N is the father of O', how is M related to O?
+
+যদি 'M - N' ৰ অৰ্থ 'M, N ৰ পত্নী' আৰু 'N $ O' ৰ অৰ্থ 'N, O ৰ দেউতাক', M, O ৰ কি হয়?
+A) Sister / ভনী
+B) Daughter / জীয়ৰী
+C) Aunt / পেহী
+D) Mother / মাতৃ
+Ans: D
+
+24. If 'P ÷ Q' means 'P is the daughter of Q' and 'Q ÷ R' means 'Q is the daughter of R', how is P related to R?
+
+যদি 'P ÷ Q' ৰ অৰ্থ 'P, Q ৰ জীয়ৰী' আৰু 'Q ÷ R' ৰ অৰ্থ 'Q, R ৰ জীয়ৰী', P, R ৰ কি হয়?
+A) Granddaughter / নাতিনি
+B) Daughter / জীয়ৰী
+C) Sister / ভনী
+D) Mother / মাতৃ
+Ans: A
+
+25. If 'A * B' means 'A is the brother of B' and 'B - C' means 'B is the wife of C', how is A related to C?
+
+যদি 'A * B' ৰ অৰ্থ 'A, B ৰ ককাই-ভাই' আৰু 'B - C' ৰ অৰ্থ 'B, C ৰ পত্নী', A, C ৰ কি হয়?
+A) Brother / ককাই-ভাই
+B) Brother-in-law / বৰজনা/দাদা/দেৱৰ/খুলশালী
+C) Father / দেউতাক
+D) Uncle / খুৰাক
+Ans: B

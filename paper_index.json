@@ -1,5 +1,5 @@
 {
-    "last_serial": 625,
+    "last_serial": 655,
     "papers": {
         "1": {
             "id": "1",
@@ -4373,6 +4373,216 @@
             "path": "Reasoning/Alphabet Reasoning/Alphabet Series 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Alphabet%20Series%202_20Q.txt",
             "hash": "7dbbde42b7d0a8b6a918fb3c50b464d9"
+        },
+        "626": {
+            "id": "626",
+            "name": "Cardinal Directions 1_30Q.txt",
+            "path": "Reasoning/Direction & Distance/Cardinal Directions 1_30Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Direction%20%26%20Distance/Cardinal%20Directions%201_30Q.txt",
+            "hash": "d68ad7c172411ae128c0b8cf7456eb64"
+        },
+        "627": {
+            "id": "627",
+            "name": "Shadow-based questions 1_25Q.txt",
+            "path": "Reasoning/Direction & Distance/Shadow-based questions 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Direction%20%26%20Distance/Shadow-based%20questions%201_25Q.txt",
+            "hash": "13ef7174a97d91432b46695f5f842cc0"
+        },
+        "628": {
+            "id": "628",
+            "name": "Final direction 1_25Q.txt",
+            "path": "Reasoning/Direction & Distance/Final direction 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Direction%20%26%20Distance/Final%20direction%201_25Q.txt",
+            "hash": "7f8aa2ce81b1678be7a6550762152501"
+        },
+        "629": {
+            "id": "629",
+            "name": "Shortest distance 1_25Q.txt",
+            "path": "Reasoning/Direction & Distance/Shortest distance 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Direction%20%26%20Distance/Shortest%20distance%201_25Q.txt",
+            "hash": "4234bd44643d7dccceee9c5f53363e5c"
+        },
+        "630": {
+            "id": "630",
+            "name": "North South East West 1_25Q.txt",
+            "path": "Reasoning/Direction & Distance/North South East West 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Direction%20%26%20Distance/North%20South%20East%20West%201_25Q.txt",
+            "hash": "48409ca34468ed892dcd53eaebecb67f"
+        },
+        "631": {
+            "id": "631",
+            "name": "Total number of persons.txt",
+            "path": "Reasoning/Rankings & Order/Total number of persons.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Rankings%20%26%20Order/Total%20number%20of%20persons.txt",
+            "hash": "677944cae5b188099a5e517101a0b6e1"
+        },
+        "632": {
+            "id": "632",
+            "name": "Position-based questions.txt",
+            "path": "Reasoning/Rankings & Order/Position-based questions.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Rankings%20%26%20Order/Position-based%20questions.txt",
+            "hash": "07123f43bc92965c897003f448c402f3"
+        },
+        "633": {
+            "id": "633",
+            "name": "Rank from top bottom.txt",
+            "path": "Reasoning/Rankings & Order/Rank from top bottom.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Rankings%20%26%20Order/Rank%20from%20top%20bottom.txt",
+            "hash": "24fbe8dba9487b967bf824295f1c6b76"
+        },
+        "634": {
+            "id": "634",
+            "name": "Rank from left right.txt",
+            "path": "Reasoning/Rankings & Order/Rank from left right.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Rankings%20%26%20Order/Rank%20from%20left%20right.txt",
+            "hash": "acb6b37a03611ac0d109cb75cf704e51"
+        },
+        "635": {
+            "id": "635",
+            "name": "Wrong Number Series 1_25Q.txt",
+            "path": "Reasoning/Number Series/Wrong Number Series 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Wrong%20Number%20Series%201_25Q.txt",
+            "hash": "d50b32167f199fb4f185ccf180a2a626"
+        },
+        "636": {
+            "id": "636",
+            "name": "Number Series 1_25Q.txt",
+            "path": "Reasoning/Number Series/Number Series 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Number%20Series%201_25Q.txt",
+            "hash": "0760d0b94b0760d68f8c08baca838249"
+        },
+        "637": {
+            "id": "637",
+            "name": "Multiplication Division Series 1_25Q.txt",
+            "path": "Reasoning/Number Series/Multiplication Division Series 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Multiplication%20Division%20Series%201_25Q.txt",
+            "hash": "1e238dd7b484e23a3430cfb4691d6c89"
+        },
+        "638": {
+            "id": "638",
+            "name": "Mixed Patterns 1_25Q.txt",
+            "path": "Reasoning/Number Series/Mixed Patterns 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Mixed%20Patterns%201_25Q.txt",
+            "hash": "b9e8f9c61e02e70eaf2eb5fdf74f07ab"
+        },
+        "639": {
+            "id": "639",
+            "name": "Number Series 2_25Q.txt",
+            "path": "Reasoning/Number Series/Number Series 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Number%20Series%202_25Q.txt",
+            "hash": "795009985fcad6540203f5933e7ede24"
+        },
+        "640": {
+            "id": "640",
+            "name": "Difference Series 1_25Q.txt",
+            "path": "Reasoning/Number Series/Difference Series 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Difference%20Series%201_25Q.txt",
+            "hash": "273faefb37e281396b349fb3e9500a2a"
+        },
+        "641": {
+            "id": "641",
+            "name": "Number Series 4_25Q.txt",
+            "path": "Reasoning/Number Series/Number Series 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Number%20Series%204_25Q.txt",
+            "hash": "ce9b32ccb404ae0006a15f011cf41d11"
+        },
+        "642": {
+            "id": "642",
+            "name": "Missing Number 1_25Q.txt",
+            "path": "Reasoning/Number Series/Missing Number 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Missing%20Number%201_25Q.txt",
+            "hash": "38608747901138abe0f60d8eaf4ad5fa"
+        },
+        "643": {
+            "id": "643",
+            "name": "Square Cube-based Series 1_25Q.txt",
+            "path": "Reasoning/Number Series/Square Cube-based Series 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Square%20Cube-based%20Series%201_25Q.txt",
+            "hash": "1dad62d7157749469201528485298d66"
+        },
+        "644": {
+            "id": "644",
+            "name": "Number Series 3_25Q.txt",
+            "path": "Reasoning/Number Series/Number Series 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Number%20Series%203_25Q.txt",
+            "hash": "4497442630810e4e9f9e8f8dfff0ec7b"
+        },
+        "645": {
+            "id": "645",
+            "name": "Statement & Conclusion 1_25Q.txt",
+            "path": "Reasoning/Statement & Conclusion/Statement & Conclusion 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Statement%20%26%20Conclusion/Statement%20%26%20Conclusion%201_25Q.txt",
+            "hash": "8b7d03d1004856b5cd054483b1d2d21e"
+        },
+        "646": {
+            "id": "646",
+            "name": "Statement & Conclusion 4_25Q.txt",
+            "path": "Reasoning/Statement & Conclusion/Statement & Conclusion 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Statement%20%26%20Conclusion/Statement%20%26%20Conclusion%204_25Q.txt",
+            "hash": "9725e15f264ccdc221194d05250573ac"
+        },
+        "647": {
+            "id": "647",
+            "name": "Statement & Conclusion 2_25Q.txt",
+            "path": "Reasoning/Statement & Conclusion/Statement & Conclusion 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Statement%20%26%20Conclusion/Statement%20%26%20Conclusion%202_25Q.txt",
+            "hash": "8c005ec84128065dac012da17a757831"
+        },
+        "648": {
+            "id": "648",
+            "name": "Statement & Conclusion 5_20Q.txt",
+            "path": "Reasoning/Statement & Conclusion/Statement & Conclusion 5_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Statement%20%26%20Conclusion/Statement%20%26%20Conclusion%205_20Q.txt",
+            "hash": "550be2ea6cde28c8f65005091b2582b0"
+        },
+        "649": {
+            "id": "649",
+            "name": "Statement & Conclusion 3_25Q.txt",
+            "path": "Reasoning/Statement & Conclusion/Statement & Conclusion 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Statement%20%26%20Conclusion/Statement%20%26%20Conclusion%203_25Q.txt",
+            "hash": "9653e7739dd23d683de7fea8fde2597c"
+        },
+        "650": {
+            "id": "650",
+            "name": "Position-based Questions 1_30Q.txt",
+            "path": "Reasoning/Seating Arrangement/Position-based Questions 1_30Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Seating%20Arrangement/Position-based%20Questions%201_30Q.txt",
+            "hash": "ca92049245ae5e0a75ccd43a297dae28"
+        },
+        "651": {
+            "id": "651",
+            "name": "Linear Arrangement 1_25Q.txt",
+            "path": "Reasoning/Seating Arrangement/Linear Arrangement 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Seating%20Arrangement/Linear%20Arrangement%201_25Q.txt",
+            "hash": "ae4302b22db011ad0da86401c1584028"
+        },
+        "652": {
+            "id": "652",
+            "name": "Circular Arrangement 1_35Q.txt",
+            "path": "Reasoning/Seating Arrangement/Circular Arrangement 1_35Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Seating%20Arrangement/Circular%20Arrangement%201_35Q.txt",
+            "hash": "3b0adf0f23f1190fbddfc4dfef1c1f1c"
+        },
+        "653": {
+            "id": "653",
+            "name": "Linear Arrangement 2_20Q.txt",
+            "path": "Reasoning/Seating Arrangement/Linear Arrangement 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Seating%20Arrangement/Linear%20Arrangement%202_20Q.txt",
+            "hash": "fbcbe076d5beb2d7d20fb5f722fadd57"
+        },
+        "654": {
+            "id": "654",
+            "name": "Facing North-South 1_30Q.txt",
+            "path": "Reasoning/Seating Arrangement/Facing North-South 1_30Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Seating%20Arrangement/Facing%20North-South%201_30Q.txt",
+            "hash": "5ddb448333643751b70c90c6cff0c0ff"
+        },
+        "655": {
+            "id": "655",
+            "name": "Facing Centre-Outside 1_30Q.txt",
+            "path": "Reasoning/Seating Arrangement/Facing Centre-Outside 1_30Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Seating%20Arrangement/Facing%20Centre-Outside%201_30Q.txt",
+            "hash": "41a1ad768fee46a0547ba7ca2fe7ab96"
         }
     }
 }

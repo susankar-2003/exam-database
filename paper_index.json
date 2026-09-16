@@ -1,5 +1,5 @@
 {
-    "last_serial": 591,
+    "last_serial": 625,
     "papers": {
         "1": {
             "id": "1",
@@ -4135,6 +4135,244 @@
             "path": "Reasoning/Blood Relations/Coded Relation 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Coded%20Relation%201_25Q.txt",
             "hash": "d675c094aef326301dcee77d998db092"
+        },
+        "592": {
+            "id": "592",
+            "name": "Mathematical Reasoning 3_25Q.txt",
+            "path": "Reasoning/Mathematical Reasoning/Mathematical Reasoning 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Mathematical%20Reasoning%203_25Q.txt",
+            "hash": "c1b12871b4bfab1ca7e4920edc737d25"
+        },
+        "593": {
+            "id": "593",
+            "name": "Mathematical Reasoning 1_25Q.txt",
+            "path": "Reasoning/Mathematical Reasoning/Mathematical Reasoning 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Mathematical%20Reasoning%201_25Q.txt",
+            "hash": "8124d5fcf01c8fdb0fbd78e5c54954e9"
+        },
+        "594": {
+            "id": "594",
+            "name": "Mathematical Reasoning 4_25Q.txt",
+            "path": "Reasoning/Mathematical Reasoning/Mathematical Reasoning 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Mathematical%20Reasoning%204_25Q.txt",
+            "hash": "c3feed58896b78d92342fd21e89efe5e"
+        },
+        "595": {
+            "id": "595",
+            "name": "Mathematical Reasoning 5_25Q.txt",
+            "path": "Reasoning/Mathematical Reasoning/Mathematical Reasoning 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Mathematical%20Reasoning%205_25Q.txt",
+            "hash": "105af3559b9b524b91d64f61c6d067f2"
+        },
+        "596": {
+            "id": "596",
+            "name": "Mathematical Reasoning 2_25Q.txt",
+            "path": "Reasoning/Mathematical Reasoning/Mathematical Reasoning 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Mathematical%20Reasoning/Mathematical%20Reasoning%202_25Q.txt",
+            "hash": "526f989823d6154b9173810ad527500d"
+        },
+        "597": {
+            "id": "597",
+            "name": "Age Problems 5_25Q.txt",
+            "path": "Reasoning/Age Problems/Age Problems 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%205_25Q.txt",
+            "hash": "7e40306e3763f644bd57481cc334394d"
+        },
+        "598": {
+            "id": "598",
+            "name": "Age Problems 1_25Q.txt",
+            "path": "Reasoning/Age Problems/Age Problems 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%201_25Q.txt",
+            "hash": "3d6778f6964b8140b5350a03f6a1ffc6"
+        },
+        "599": {
+            "id": "599",
+            "name": "Age Problems 3_25Q.txt",
+            "path": "Reasoning/Age Problems/Age Problems 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%203_25Q.txt",
+            "hash": "731bd00410b5c125fb4724d022251863"
+        },
+        "600": {
+            "id": "600",
+            "name": "Age Problems 2_25Q.txt",
+            "path": "Reasoning/Age Problems/Age Problems 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%202_25Q.txt",
+            "hash": "96ded5ab704dff4fc79e8a1c603c5c9b"
+        },
+        "601": {
+            "id": "601",
+            "name": "Age Problems 6_25Q.txt",
+            "path": "Reasoning/Age Problems/Age Problems 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%206_25Q.txt",
+            "hash": "c917aba18ae8e2445ae3f129b04d1fb9"
+        },
+        "602": {
+            "id": "602",
+            "name": "Age Problems 4_25Q.txt",
+            "path": "Reasoning/Age Problems/Age Problems 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%204_25Q.txt",
+            "hash": "e6c032f2c90ef422b1de4f09b034ea72"
+        },
+        "603": {
+            "id": "603",
+            "name": "Number Analogy_25Q.txt",
+            "path": "Reasoning/Analogy/Number Analogy_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analogy/Number%20Analogy_25Q.txt",
+            "hash": "621e5c814357467606e91a9d16acc6f9"
+        },
+        "604": {
+            "id": "604",
+            "name": "Alphabet Analogy_25Q.txt",
+            "path": "Reasoning/Analogy/Alphabet Analogy_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analogy/Alphabet%20Analogy_25Q.txt",
+            "hash": "548bad6b6aef8c0498e990ed8b00a60d"
+        },
+        "605": {
+            "id": "605",
+            "name": "Relationship Analogy_25Q.txt",
+            "path": "Reasoning/Analogy/Relationship Analogy_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analogy/Relationship%20Analogy_25Q.txt",
+            "hash": "bd9b6be703413a5a148df58d73643281"
+        },
+        "606": {
+            "id": "606",
+            "name": "Meaning-based Analogy_25Q.txt",
+            "path": "Reasoning/Analogy/Meaning-based Analogy_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analogy/Meaning-based%20Analogy_25Q.txt",
+            "hash": "8cd3a2efb279c4e2e785115a482d5c73"
+        },
+        "607": {
+            "id": "607",
+            "name": "Word Analogy_25Q.txt",
+            "path": "Reasoning/Analogy/Word Analogy_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analogy/Word%20Analogy_25Q.txt",
+            "hash": "ac296b8d56f91497461ab1cbf847db66"
+        },
+        "608": {
+            "id": "608",
+            "name": "Calendar 2_25Q.txt",
+            "path": "Reasoning/Calendar/Calendar 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Calendar/Calendar%202_25Q.txt",
+            "hash": "98a09ea744fee17f3b176263a5c4c227"
+        },
+        "609": {
+            "id": "609",
+            "name": "Calendar 5_25Q.txt",
+            "path": "Reasoning/Calendar/Calendar 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Calendar/Calendar%205_25Q.txt",
+            "hash": "e9bcc377aaeec63459e445d619351875"
+        },
+        "610": {
+            "id": "610",
+            "name": "Calendar 3_25Q.txt",
+            "path": "Reasoning/Calendar/Calendar 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Calendar/Calendar%203_25Q.txt",
+            "hash": "2684979d50cf02951e3ef1c7a1b8609c"
+        },
+        "611": {
+            "id": "611",
+            "name": "Calendar 1_25Q.txt",
+            "path": "Reasoning/Calendar/Calendar 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Calendar/Calendar%201_25Q.txt",
+            "hash": "e6a5d199abaa3a975fb425b4bdd36e61"
+        },
+        "612": {
+            "id": "612",
+            "name": "Calendar 4_25Q.txt",
+            "path": "Reasoning/Calendar/Calendar 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Calendar/Calendar%204_25Q.txt",
+            "hash": "7a028bb59bc861b6a24e1cbb6eef0ad1"
+        },
+        "613": {
+            "id": "613",
+            "name": "Substitution Coding_25Q.txt",
+            "path": "Reasoning/Coding - Decoding/Substitution Coding_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Coding%20-%20Decoding/Substitution%20Coding_25Q.txt",
+            "hash": "5a29731beccc626a89e96e1d89f9634c"
+        },
+        "614": {
+            "id": "614",
+            "name": "Position-based Coding_25Q.txt",
+            "path": "Reasoning/Coding - Decoding/Position-based Coding_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Coding%20-%20Decoding/Position-based%20Coding_25Q.txt",
+            "hash": "190d50a04e93b6cf81ff6e2ab4d8e5fa"
+        },
+        "615": {
+            "id": "615",
+            "name": "Word Coding_25Q.txt",
+            "path": "Reasoning/Coding - Decoding/Word Coding_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Coding%20-%20Decoding/Word%20Coding_25Q.txt",
+            "hash": "4bc7aa642619b45d9aadf755a767c52d"
+        },
+        "616": {
+            "id": "616",
+            "name": "Letter Coding_25Q.txt",
+            "path": "Reasoning/Coding - Decoding/Letter Coding_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Coding%20-%20Decoding/Letter%20Coding_25Q.txt",
+            "hash": "254c77d02cb24a6a284bff7311677ba0"
+        },
+        "617": {
+            "id": "617",
+            "name": "Mixed Coding_25Q.txt",
+            "path": "Reasoning/Coding - Decoding/Mixed Coding_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Coding%20-%20Decoding/Mixed%20Coding_25Q.txt",
+            "hash": "842b9d7a77cb5a4799dfe5351a810a06"
+        },
+        "618": {
+            "id": "618",
+            "name": "Number Coding_25Q.txt",
+            "path": "Reasoning/Coding - Decoding/Number Coding_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Coding%20-%20Decoding/Number%20Coding_25Q.txt",
+            "hash": "caddac29d46b1c12ed59e18ec95d7ade"
+        },
+        "619": {
+            "id": "619",
+            "name": "Letter-Word Problems 1_20Q.txt",
+            "path": "Reasoning/Alphabet Reasoning/Letter-Word Problems 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Letter-Word%20Problems%201_20Q.txt",
+            "hash": "d6dd746fe98695d14a7715ed0bf35389"
+        },
+        "620": {
+            "id": "620",
+            "name": "Jumbled Letters_25Q.txt",
+            "path": "Reasoning/Alphabet Reasoning/Jumbled Letters_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Jumbled%20Letters_25Q.txt",
+            "hash": "8489e0194d1a87f1aaf21b7b42b9b34e"
+        },
+        "621": {
+            "id": "621",
+            "name": "Alphabetical Order 1_20Q.txt",
+            "path": "Reasoning/Alphabet Reasoning/Alphabetical Order 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Alphabetical%20Order%201_20Q.txt",
+            "hash": "f9ff2b39ac72c307dd9ed61e8381709a"
+        },
+        "622": {
+            "id": "622",
+            "name": "Letter-Word Problems 2_20Q.txt",
+            "path": "Reasoning/Alphabet Reasoning/Letter-Word Problems 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Letter-Word%20Problems%202_20Q.txt",
+            "hash": "c150eed70faa3f7efc333d36181a2bc4"
+        },
+        "623": {
+            "id": "623",
+            "name": "Alphabet Series 1_20Q.txt",
+            "path": "Reasoning/Alphabet Reasoning/Alphabet Series 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Alphabet%20Series%201_20Q.txt",
+            "hash": "84d649a9264316b66418e218abc84eca"
+        },
+        "624": {
+            "id": "624",
+            "name": "Alphabetical Order 2_20Q.txt",
+            "path": "Reasoning/Alphabet Reasoning/Alphabetical Order 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Alphabetical%20Order%202_20Q.txt",
+            "hash": "a8a4b3d503b1ceeab802331670aa2a99"
+        },
+        "625": {
+            "id": "625",
+            "name": "Alphabet Series 2_20Q.txt",
+            "path": "Reasoning/Alphabet Reasoning/Alphabet Series 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Alphabet%20Series%202_20Q.txt",
+            "hash": "7dbbde42b7d0a8b6a918fb3c50b464d9"
         }
     }
 }

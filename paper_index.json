@@ -1,5 +1,5 @@
 {
-    "last_serial": 585,
+    "last_serial": 591,
     "papers": {
         "1": {
             "id": "1",
@@ -4093,6 +4093,48 @@
             "path": "Mathematics/Boats & Streams/Boats & Streams 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%201_25Q.txt",
             "hash": "533c553e6609827045aabb726c43a435"
+        },
+        "586": {
+            "id": "586",
+            "name": "Conversational Indicative 1_25Q.txt",
+            "path": "Reasoning/Blood Relations/Conversational Indicative 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Conversational%20Indicative%201_25Q.txt",
+            "hash": "af6e0e6e827733740b3fa28846ed6c23"
+        },
+        "587": {
+            "id": "587",
+            "name": "Puzzle-Based 1_25Q.txt",
+            "path": "Reasoning/Blood Relations/Puzzle-Based 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Puzzle-Based%201_25Q.txt",
+            "hash": "364925bf93268bd94bc8cc28d39344e1"
+        },
+        "588": {
+            "id": "588",
+            "name": "Conversational Indicative 2_25Q.txt",
+            "path": "Reasoning/Blood Relations/Conversational Indicative 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Conversational%20Indicative%202_25Q.txt",
+            "hash": "83a27d0384378774bab8f8411eed70f5"
+        },
+        "589": {
+            "id": "589",
+            "name": "Coded Relation 2_25Q.txt",
+            "path": "Reasoning/Blood Relations/Coded Relation 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Coded%20Relation%202_25Q.txt",
+            "hash": "233f36fd95718ac8f7623ab01e812ce6"
+        },
+        "590": {
+            "id": "590",
+            "name": "Puzzle-Based 2_25Q.txt",
+            "path": "Reasoning/Blood Relations/Puzzle-Based 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Puzzle-Based%202_25Q.txt",
+            "hash": "6e0f6a412d776d63ead661f2207ae66e"
+        },
+        "591": {
+            "id": "591",
+            "name": "Coded Relation 1_25Q.txt",
+            "path": "Reasoning/Blood Relations/Coded Relation 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Coded%20Relation%201_25Q.txt",
+            "hash": "d675c094aef326301dcee77d998db092"
         }
     }
 }

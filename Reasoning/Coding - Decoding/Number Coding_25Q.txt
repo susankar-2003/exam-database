@@ -1,0 +1,224 @@
+1. If A = 1 and PAT = 37, then TAP = ?
+
+যদি A = 1 আৰু PAT = 37 হয়, তেন্তে TAP = ?
+A) 37
+B) 38
+C) 39
+D) 40
+Ans: A
+
+2. If CAT = 24 and SAD = 24, then SHE = ?
+
+যদি CAT = 24 আৰু SAD = 24 হয়, তেন্তে SHE = ?
+A) 32
+B) 31
+C) 34
+D) 28
+Ans: A
+
+3. If A = 2, M = 26, and Z = 52, then BET = ?
+
+যদি A = 2, M = 26, আৰু Z = 52 হয়, তেন্তে BET = ?
+A) 44
+B) 54
+C) 64
+D) 74
+Ans: B
+
+4. If BAT = 23 and CAT = 24, then BALL = ?
+
+যদি BAT = 23 আৰু CAT = 24 হয়, তেন্তে BALL = ?
+A) 27
+B) 28
+C) 32
+D) 120
+Ans: A
+
+5. If GO = 32 and SHE = 49, then SOME = ?
+
+যদি GO = 32 আৰু SHE = 49 হয়, তেন্তে SOME = ?
+A) 56
+B) 58
+C) 62
+D) 64
+Ans: A
+
+6. If AT = 20 and BAT = 40, then CAT = ?
+
+যদি AT = 20 আৰু BAT = 40 হয়, তেন্তে CAT = ?
+A) 30
+B) 50
+C) 60
+D) 70
+Ans: C
+
+7. If MOBILITY is coded as 46293927, then EXAMINATION is coded as?
+
+যদি MOBILITY ৰ ক'ড 46293927 হয়, তেন্তে EXAMINATION ৰ ক'ড কি হ'ব?
+A) 56149512965
+B) 56149512956
+C) 56149512966
+D) 56149512955
+Ans: A
+
+8. If DEEP = 30 and BIT = 31, then HAIR = ?
+
+যদি DEEP = 30 আৰু BIT = 31 হয়, তেন্তে HAIR = ?
+A) 35
+B) 36
+C) 37
+D) 38
+Ans: B
+
+9. If E = 5 and HOTEL = 12, then LAMB = ?
+
+যদি E = 5 আৰু HOTEL = 12 হয়, তেন্তে LAMB = ?
+A) 7
+B) 10
+C) 14
+D) 28
+Ans: A
+
+10. If REASON is coded as 5 and BELIEVED as 7, then GOVERNMENT = ?
+
+যদি REASON ৰ ক'ড 5 আৰু BELIEVED ৰ ক'ড 7 হয়, তেন্তে GOVERNMENT = ?
+A) 8
+B) 9
+C) 10
+D) 11
+Ans: B
+
+11. If MASTER is coded as 682145, how is STREAM coded?
+
+যদি MASTER ৰ ক'ড 682145 হয়, তেন্তে STREAM ৰ ক'ড কি হ'ব?
+A) 215486
+B) 215468
+C) 215846
+D) 214586
+Ans: A
+
+12. If C = 3 and FEAR = 30, then HAIR = ?
+
+যদি C = 3 আৰু FEAR = 30 হয়, তেন্তে HAIR = ?
+A) 36
+B) 38
+C) 30
+D) 34
+Ans: A
+
+13. If WORK is coded as 412916, then WOMAN is coded as?
+
+যদি WORK ৰ ক'ড 412916 হয়, তেন্তে WOMAN ৰ ক'ড কি হ'ব?
+A) 412142613
+B) 412142614
+C) 412142612
+D) 412132613
+Ans: A
+
+14. If DELHI is coded as 73541 and CALCUTTA as 82589662, how is CALICUT coded?
+
+যদি DELHI ৰ ক'ড 73541 আৰু CALCUTTA ৰ ক'ড 82589662 হয়, তেন্তে CALICUT ৰ ক'ড কি হ'ব?
+A) 8251896
+B) 8251869
+C) 8521896
+D) 8251986
+Ans: A
+
+15. If D = 4 and COVER = 63, then BASIS = ?
+
+যদি D = 4 আৰু COVER = 63 হয়, তেন্তে BASIS = ?
+A) 45
+B) 50
+C) 55
+D) 60
+Ans: B
+
+16. If RAMAN is coded as 12325 and DINESH as 674890, how is HAMAM coded?
+
+যদি RAMAN ৰ ক'ড 12325 আৰু DINESH ৰ ক'ড 674890 হয়, তেন্তে HAMAM ৰ ক'ড কি হ'ব?
+A) 02233
+B) 02323
+C) 03232
+D) 20323 / 202323
+Ans: B
+
+17. If MAN = 28, then RAN = ?
+
+যদি MAN = 28 হয়, তেন্তে RAN = ?
+A) 30
+B) 32
+C) 33
+D) 35
+Ans: C
+
+18. If ROSE is coded as 6821, CHAIR as 73456, and PREACH as 961473, how is SEARCH coded?
+
+যদি ROSE ৰ ক'ড 6821, CHAIR ৰ ক'ড 73456, আৰু PREACH ৰ ক'ড 961473 হয়, তেন্তে SEARCH ৰ ক'ড কি হ'ব?
+A) 214673
+B) 214763
+C) 216473
+D) 214637
+Ans: A
+
+19. If B = 2 and BAG = 10, then BOX = ?
+
+যদি B = 2 আৰু BAG = 10 হয়, তেন্তে BOX = ?
+A) 39
+B) 40
+C) 41
+D) 42
+Ans: C
+
+20. If SUN = 54, then MOON = ?
+
+যদি SUN = 54 হয়, তেন্তে MOON = ?
+A) 53
+B) 55
+C) 57
+D) 59
+Ans: C
+
+21. If LEAD is coded as 12514, then LIGHT is coded as?
+
+যদি LEAD ৰ ক'ড 12514 হয়, তেন্তে LIGHT ৰ ক'ড কি হ'ব?
+A) 1297820
+B) 1297802
+C) 1298720
+D) 1297720
+Ans: A
+
+22. If Z = 26 and NET = 39, then NUT = ?
+
+যদি Z = 26 আৰু NET = 39 হয়, তেন্তে NUT = ?
+A) 50
+B) 53
+C) 55
+D) 57
+Ans: C
+
+23. If PEN = 35, then PAPER = ?
+
+যদি PEN = 35 হয়, তেন্তে PAPER = ?
+A) 52
+B) 54
+C) 56
+D) 58
+Ans: C
+
+24. If A = 2, B = 4, and C = 6, then DOG = ?
+
+যদি A = 2, B = 4, আৰু C = 6 হয়, তেন্তে DOG = ?
+A) 50
+B) 52
+C) 54
+D) 56
+Ans: B
+
+25. If RED is coded as 6720, then GREEN is coded as?
+
+যদি RED ৰ ক'ড 6720 হয়, তেন্তে GREEN ৰ ক'ড কি হ'ব?
+A) 1677209
+B) 1677208
+C) 1677200
+D) 1677210
+Ans: A

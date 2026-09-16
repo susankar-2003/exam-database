@@ -1,0 +1,224 @@
+1. If 1st January 2006 was Sunday, what was the day of the week on 1st January 2010?
+
+যদি 2006 চনৰ 1 জানুৱাৰী দেওবাৰ আছিল, তেন্তে 2010 চনৰ 1 জানুৱাৰী কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Sunday / দেওবাৰ
+Ans: C
+
+2. What was the day of the week on 15th August 1947?
+
+1947 চনৰ 15 আগষ্টত কি বাৰ আছিল?
+A) Thursday / বৃহস্পতিবাৰ
+B) Friday / শুক্ৰবাৰ
+C) Saturday / শনিবাৰ
+D) Sunday / দেওবাৰ
+Ans: B
+
+3. How many leap years are there in 100 years?
+
+100 বছৰত কেইটা অধিবৰ্ষ (Leap year) থাকে?
+A) 24
+B) 25
+C) 26
+D) 23
+Ans: A
+
+4. Which of the following is a leap year?
+
+তলৰ কোনটো অধিবৰ্ষ (Leap year)?
+A) 1900
+B) 1800
+C) 2000
+D) 2100
+Ans: C
+
+5. Today is Monday. After 61 days, it will be:
+
+আজি সোমবাৰ। 61 দিনৰ পিছত কি বাৰ হ’ব?
+A) Wednesday / বুধবাৰ
+B) Saturday / শনিবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: B
+
+6. What was the day of the week on 26th January 1950?
+
+1950 চনৰ 26 জানুৱাৰীত কি বাৰ আছিল?
+A) Monday / সোমবাৰ
+B) Wednesday / বুধবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Friday / শুক্ৰবাৰ
+Ans: C
+
+7. The calendar for the year 2007 will be the same for the year:
+
+2007 চনৰ কেলেণ্ডাৰখন তলৰ কোনটো বছৰৰ সৈতে একে হ’ব?
+A) 2014
+B) 2016
+C) 2017
+D) 2018
+Ans: D
+
+8. Which day of the week can never be the last day of a century?
+
+কোনটো বাৰ কেতিয়াও এটা শতিকাৰ অন্তিম দিন হ’ব নোৱাৰে?
+A) Monday / সোমবাৰ
+B) Wednesday / বুধবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Friday / শুক্ৰবাৰ
+Ans: C
+
+9. Which day of the week can be the first day of a century?
+
+কোনটো বাৰ এটা শতিকাৰ প্ৰথম দিন হ’ব পাৰে?
+A) Tuesday / মঙ্গলবাৰ
+B) Wednesday / বুধবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Sunday / দেওবাৰ
+Ans: A
+
+10. On 8th Feb 2005 it was Tuesday. What was the day of the week on 8th Feb 2004?
+
+2005 চনৰ 8 ফেব্ৰুৱাৰীত মঙ্গলবাৰ আছিল। 2004 চনৰ 8 ফেব্ৰুৱাৰীত কি বাৰ আছিল?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Wednesday / বুধবাৰ
+Ans: A
+
+11. January 1, 2001 was Monday. What day of the week was January 1, 2002?
+
+2001 চনৰ 1 জানুৱাৰী সোমবাৰ আছিল। 2002 চনৰ 1 জানুৱাৰী কি বাৰ আছিল?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Wednesday / বুধবাৰ
+Ans: C
+
+12. How many days are there in x weeks x days?
+
+x সপ্তাহ x দিনত মুঠ কেইদিন থাকে?
+A) 7x
+B) 8x
+C) 14x
+D) 7
+Ans: B
+
+13. The last day of a century cannot be:
+
+এটা শতিকাৰ শেষৰ দিনটো কি বাৰ হ’ব নোৱাৰে?
+A) Monday / সোমবাৰ
+B) Wednesday / বুধবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Sunday / দেওবাৰ
+Ans: C
+
+14. On what dates of April 2001 did Wednesday fall?
+
+2001 চনৰ এপ্ৰিল মাহৰ কোন কেইটা তাৰিখে বুধবাৰ পৰিছিল?
+A) 1st, 8th, 15th, 22nd, 29th / 1, 8, 15, 22, 29
+B) 2nd, 9th, 16th, 23rd, 30th / 2, 9, 16, 23, 30
+C) 3rd, 10th, 17th, 24th / 3, 10, 17, 24
+D) 4th, 11th, 18th, 25th / 4, 11, 18, 25
+Ans: D
+
+15. What was the day of the week on 2nd October 1869?
+
+1869 চনৰ 2 অক্টোবৰত কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Monday / সোমবাৰ
+Ans: B
+
+16. How many leap years are there in 400 consecutive years?
+
+ধাৰাবাহিক 400 বছৰত কেইটা অধিবৰ্ষ (Leap year) থাকে?
+A) 96
+B) 97
+C) 100
+D) 98
+Ans: B
+
+17. If today is Sunday, what day will it be on the 35th day from today?
+
+যদি আজি দেওবাৰ, তেন্তে আজিৰ পৰা 35 নম্বর দিনটো কি বাৰ হ’ব?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Saturday / শনিবাৰ
+Ans: A
+
+18. What was the day on 1st January 1 AD?
+
+1 খ্ৰীষ্টাব্দৰ 1 জানুৱাৰীত কি বাৰ আছিল?
+A) Monday / সোমবাৰ
+B) Sunday / দেওবাৰ
+C) Saturday / শনিবাৰ
+D) Tuesday / মঙ্গলবাৰ
+Ans: A
+
+19. The calendar for the year 2020 will repeat in which year?
+
+2020 চনৰ কেলেণ্ডাৰখন কোনটো বছৰত পুনৰাবৃত্তি হ’ব?
+A) 2044
+B) 2048
+C) 2036
+D) 2040
+Ans: B
+
+20. If 1st March of a non-leap year is Wednesday, what day will be 1st November of the same year?
+
+অধিবৰ্ষ নোহোৱা এটা বছৰৰ 1 মাৰ্চ যদি বুধবাৰ হয়, তেন্তে সেই একে বছৰৰ 1 নৱেম্বৰ কি বাৰ হ’ব?
+A) Tuesday / মঙ্গলবাৰ
+B) Wednesday / বুধবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Friday / শুক্ৰবাৰ
+Ans: B
+
+21. What is the number of odd days in a leap year?
+
+এটা অধিবৰ্ষত (Leap year) অতিৰিক্ত দিন (Odd days) ৰ সংখ্যা কিমান?
+A) 1
+B) 2
+C) 3
+D) 0
+Ans: B
+
+22. What is the number of odd days in an ordinary year?
+
+এটা সাধাৰণ বছৰত অতিৰিক্ত দিন (Odd days) ৰ সংখ্যা কিমান?
+A) 1
+B) 2
+C) 3
+D) 0
+Ans: A
+
+23. If 6th March 2005 was Monday, what was the day of the week on 6th March 2004?
+
+2005 চনৰ 6 মাৰ্চ যদি সোমবাৰ আছিল, তেন্তে 2004 চনৰ 6 মাৰ্চ কি বাৰ আছিল?
+A) Sunday / দেওবাৰ
+B) Saturday / শনিবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Wednesday / বুধবাৰ
+Ans: A
+
+24. If 1st January 2004 was Thursday, what was the day of the week on 1st January 2005?
+
+2004 চনৰ 1 জানুৱাৰী যদি বৃহস্পতিবাৰ আছিল, তেন্তে 2005 চনৰ 1 জানুৱাৰী কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Monday / সোমবাৰ
+Ans: B
+
+25. The calendar for the year 2024 will be the same as that for the year:
+
+2024 চনৰ কেলেণ্ডাৰখন তলৰ কোনটো বছৰৰ সৈতে একে হ’ব?
+A) 2050
+B) 2052
+C) 2048
+D) 2056
+Ans: B

@@ -1,0 +1,224 @@
+1. Doctor : Hospital :: Teacher : ?
+
+ডাক্তাৰ : চিকিৎসালয় :: শিক্ষক : ?
+A) Office / কাৰ্যালয়
+B) School / বিদ্যালয়
+C) Market / বজাৰ
+D) Field / পথাৰ
+Ans: B
+
+2. Dog : Bark :: Cat : ?
+
+কুকুৰ : ভুকিব :: মেকুৰী : ?
+A) Roar / গৰ্জন
+B) Meow / মিঞাও
+C) Bleat / বে-বে
+D) Hiss / ফোঁফোৱা
+Ans: B
+
+3. Cow : Calf :: Hen : ?
+
+গৰু : পোৱালি গৰু :: কুকুৰা : ?
+A) Chick / কুকুৰা পোৱালি
+B) Cub / বাঘৰ পোৱালি
+C) Kitten / মেকুৰী পোৱালি
+D) Duckling / হাঁহ পোৱালি
+Ans: A
+
+4. India : New Delhi :: Japan : ?
+
+ভাৰত : নতুন দিল্লী :: জাপান : ?
+A) Beijing / বেইজিং
+B) Seoul / সিউল
+C) Tokyo / টকিঅ'
+D) Bangkok / বেংকক
+Ans: C
+
+5. Author : Book :: Sculptor : ?
+
+লেখক : গ্ৰন্থ :: ভাস্কৰ : ?
+A) Canvas / কেনভাছ
+B) Statue / মূৰ্তি
+C) Poem / কবিতা
+D) Song / গান
+Ans: B
+
+6. Eye : Myopia :: Teeth : ?
+
+চকুত : মাইঅ'পিয়া :: দাঁত : ?
+A) Cataract / কেটাৰেক্ট
+B) Pyorrhea / পাইঅ'ৰিয়া
+C) Trachoma / ট্রাকোমা
+D) Eczema / একজিমা
+Ans: B
+
+7. Thermometer : Temperature :: Barometer : ?
+
+থার্মোমিটাৰ : উষ্ণতা :: বেৰোমিটাৰ : ?
+A) Humidity / আৰ্দ্ৰতা
+B) Pressure / চাপ
+C) Current / বিদ্যুৎ প্ৰবাহ
+D) Wind Speed / বতাহৰ গতি
+Ans: B
+
+8. Clock : Time :: Thermometer : ?
+
+ঘড়ী : সময় :: থাৰ্মোমিটাৰ : ?
+A) Heat / উত্তাপ
+B) Temperature / উষ্ণতা
+C) Energy / শক্তি
+D) Radiation / বিকিৰণ
+Ans: B
+
+9. Carpenter : Saw :: Tailor : ?
+
+কাঠমিস্ত্রী : কৰাত :: দৰ্জী : ?
+A) Needle / বেজী
+B) Hammer / হাতুৰী
+C) Pen / কলম
+D) Sword / তৰোৱাল
+Ans: A
+
+10. Ocean : Water :: Glacier : ?
+
+মহাসাগৰ : পানী :: হিমবাহ : ?
+A) Mountain / পৰ্বত
+B) Ice / বৰফ
+C) Cave / গুহা
+D) River / নদী
+Ans: B
+
+11. France : Euro :: USA : ?
+
+ফ্ৰান্স : ইউৰো :: আমেৰিকা যুক্তৰাষ্ট্ৰ : ?
+A) Pound / পাউণ্ড
+B) Yen / য়েন
+C) Dollar / ডলাৰ
+D) Franc / ফ্ৰাংক
+Ans: C
+
+12. Bird : Nest :: Bee : ?
+
+চৰাই : বাহ :: মৌমাখি : ?
+A) Kennel / কুকুৰৰ ঘৰ
+B) Hive / মৌচাক
+C) Stable / ঘোঁৰাশাল
+D) Burrow / গাঁত
+Ans: B
+
+13. Lion : Pride :: Wolf : ?
+
+সিংহ : প্ৰাইড :: নেকড়ে বাঘ : ?
+A) Herd / জাক
+B) Pack / পেক
+C) Flock / দল
+D) Swarm / জাঁক
+Ans: B
+
+14. Chef : Restaurant :: Actor : ?
+
+ৰান্ধনী : ৰেষ্টুৰেণ্ট :: অভিনেতা : ?
+A) Stage / মঞ্চ
+B) Office / কাৰ্যালয়
+C) Laboratory / পৰীক্ষাগাৰ
+D) Field / পথাৰ
+Ans: A
+
+15. Pen : Write :: Knife : ?
+
+কলম : লিখা :: ছুৰী : ?
+A) Cut / কটা
+B) Cook / ৰন্ধা
+C) Read / পঢ়া
+D) Sew / চিওৱা
+Ans: A
+
+16. Fish : Scales :: Bear : ?
+
+মাছ : বাকলি :: ভালুক : ?
+A) Feathers / পাখি
+B) Fur / নোম
+C) Skin / ছাল
+D) Shell / খোলা
+Ans: B
+
+17. Mason : Wall :: Cobbler : ?
+
+ৰাজমিস্ত্ৰী : দেৱাল :: মুচি : ?
+A) Furniture / আচবাব
+B) Shoes / জোতা
+C) Clothes / কাপোৰ
+D) House / ঘৰ
+Ans: B
+
+18. Seismograph : Earthquake :: Anemometer : ?
+
+ছিছম'গ্ৰাফ : ভূমিকম্প :: এনিমোমিটাৰ : ?
+A) Rainfall / বৰষুণ
+B) Wind Speed / বতাহৰ গতি
+C) Temperature / উষ্ণতা
+D) Blood Pressure / ৰক্তচাপ
+Ans: B
+
+19. Chapter : Book :: Page : ?
+
+অধ্যায় : গ্ৰন্থ :: পৃষ্ঠা : ?
+A) Cover / বেটুপাত
+B) Binding / বন্ধন
+C) Book / গ্ৰন্থ
+D) Library / পুথিভঁৰাল
+Ans: C
+
+20. Heart : Circulation :: Kidney : ?
+
+হৃদযন্ত্ৰ : ৰক্ত সঞ্চালন :: বৃক্ক : ?
+A) Respiration / শ্বাস-প্ৰশ্বাস
+B) Excretion / ৰেচন
+C) Digestion / পৰিপাক
+D) Thinking / চিন্তা
+Ans: B
+
+21. Cattle : Herd :: Sheep : ?
+
+গৰু-মহ : জাক :: ভেড়া : ?
+A) Flock / জাক
+B) Pack / পেক
+C) Swarm / জাঁক
+D) Pride / প্ৰাইড
+Ans: A
+
+22. Newspaper : Press :: Cloth : ?
+
+সংবাদপত্ৰ : প্ৰেছ :: কাপোৰ : ?
+A) Tailor / দৰ্জী
+B) Mill / মিল
+C) Fiber / আঁহ
+D) Dye / ৰং
+Ans: B
+
+23. Cricket : Bat :: Badminton : ?
+
+ক্ৰিকেট : বেট :: বেডমিণ্টন : ?
+A) Court / ক'ৰ্ট
+B) Racket / ৰেকেট
+C) Pitch / পিচ
+D) Net / নেট
+Ans: B
+
+24. Botany : Plants :: Zoology : ?
+
+উদ্ভিদবিজ্ঞান : উদ্ভিদ :: প্ৰাণীবিজ্ঞান : ?
+A) Animals / প্ৰাণী
+B) Rocks / শিলা
+C) Stars / তৰা
+D) Fossils / জীৱাশ্ম
+Ans: A
+
+25. Spider : Web :: Bee : ?
+
+মকৰা : জাল :: মৌমাখি : ?
+A) Hole / গাত
+B) Hive / মৌচাক
+C) Nest / বাহ
+D) Cave / গুহা
+Ans: B

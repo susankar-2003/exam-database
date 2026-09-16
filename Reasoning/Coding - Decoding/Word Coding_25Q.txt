@@ -1,0 +1,224 @@
+1. If 'cook' is called 'butler', 'butler' is called 'manager', 'manager' is called 'teacher', 'teacher' is called 'clerk', and 'clerk' is called 'principal', who will teach in a class?
+
+যদি 'ৰান্ধনী'ক 'বাটলাৰ' বলা হয়, 'বাটলাৰ'ক 'প্ৰবন্ধক' বলা হয়, 'প্ৰবন্ধক'ক 'শিক্ষক' বলা হয়, 'শিক্ষক'ক 'কেৰাণী' বলা হয়, আৰু 'কেৰাণী'ক 'অধ্যক্ষ' বলা হয়, তেন্তে শ্ৰেণীকোঠাত কোনে পঢ়ুৱাব?
+A) Cook / ৰান্ধনী
+B) Teacher / শিক্ষক
+C) Clerk / কেৰাণী
+D) Manager / প্ৰবন্ধক
+Ans: C
+
+2. If 'white' is called 'blue', 'blue' is called 'red', 'red' is called 'yellow', 'yellow' is called 'green', and 'green' is called 'black', what is the color of clear sky?
+
+যদি 'বগা'ক 'নীলা' বলা হয়, 'নীলা'ক 'ৰঙা' বলা হয়, 'ৰঙা'ক 'হলধীয়া' বলা হয়, 'হলধীয়া'ক 'সেউজীয়া' বলা হয়, আৰু 'সেউজীয়া'ক 'কলা' বলা হয়, তেন্তে পৰিষ্কাৰ আকাশৰ ৰং কি?
+A) Blue / নীলা
+B) Red / ৰঙা
+C) Yellow / হলধীয়া
+D) Green / সেউজীয়া
+Ans: B
+
+3. If 'water' is called 'food', 'food' is called 'tree', 'tree' is called 'sky', and 'sky' is called 'wall', on which of the following grows a fruit?
+
+যদি 'পানী'ক 'খাদ্য' বলা হয়, 'খাদ্য'ক 'গছ' বলা হয়, 'গছ'ক 'আকাশ' বলা হয়, আৰু 'আকাশ'ক 'বেৰ' বলা হয়, তেন্তে তলৰ কোনটোত ফল ধৰে?
+A) Water / পানী
+B) Food / খাদ্য
+C) Tree / গছ
+D) Sky / আকাশ
+Ans: D
+
+4. If 'book' is called 'watch', 'watch' is called 'bag', 'bag' is called 'dictionary', and 'dictionary' is called 'window', which is used to carry books?
+
+যদি 'কিতাপ'ক 'ঘড়ী' বলা হয়, 'ঘড়ী'ক 'বেগ' বলা হয়, 'বেগ'ক 'অভিধান' বলা হয়, আৰু 'অভিধান'ক 'খিৰিকী' বলা হয়, তেন্তে কিতাপ কঢ়িয়াবলৈ কি ব্যৱহাৰ কৰা হয়?
+A) Dictionary / অভিধান
+B) Bag / বেগ
+C) Watch / ঘড়ী
+D) Window / খিৰিকী
+Ans: A
+
+5. If 'pen' is 'table', 'table' is 'fan', 'fan' is 'chair', and 'chair' is 'roof', on which of the following will a person sit?
+
+যদি 'কলম'ক 'মেজ' বলা হয়, 'মেজ'ক 'পাখা' বলা হয়, 'পাখা'ক 'চকী' বলা হয়, আৰু 'চকী'ক 'ছাদ' বলা হয়, তেন্তে মানুহে তলৰ কোনটোত বহিব?
+A) Chair / চকী
+B) Fan / পাখা
+C) Roof / ছাদ
+D) Table / মেজ
+Ans: C
+
+6. If 'eye' is called 'hand', 'hand' is called 'mouth', 'mouth' is called 'ear', 'ear' is called 'nose', and 'nose' is called 'tongue', with which of the following would a person hear?
+
+যদি 'চকুক' 'হাত' বলা হয়, 'হাত'ক 'মুখ' বলা হয়, 'মুখ'ক 'কাণ' বলা হয়, 'কাণ'ক 'নাক' বলা হয়, আৰু 'নাক'ক 'জিভা' বলা হয়, তেন্তে মানুহে তলৰ কোনটোৰে শুনিব?
+A) Nose / নাক
+B) Ear / কাণ
+C) Mouth / মুখ
+D) Tongue / জিভা
+Ans: A
+
+7. If 'diamond' is called 'gold', 'gold' is called 'silver', 'silver' is called 'ruby', and 'ruby' is called 'emerald', which is the cheapest precious metal mentioned?
+
+যদি 'হীৰা'ক 'সোণ' বলা হয়, 'সোণ'ক 'ৰূপ' বলা হয়, 'ৰূপ'ক 'ৰুবি' বলা হয়, আৰু 'ৰুবি'ক 'মৰকত' বলা হয়, তেন্তে ইয়াত উল্লেখ কৰা আটাইতকৈ সুলভ মূল্যৰ ধাতু/ৰত্ন কোনটো হ'ব?
+A) Gold / সোণ
+B) Silver / ৰূপ
+C) Ruby / ৰুবি
+D) Emerald / মৰকত
+Ans: C
+
+8. In a certain code language, 'nee tim see' means 'how are you', and 'ble tim nee' means 'where are you'. Which word in that language means 'where'?
+
+এটা নিৰ্দিষ্ট ক'ড ভাষাত, 'nee tim see' মানে 'how are you', আৰু 'ble tim nee' মানে 'where are you'। সেই ভাষাত 'where' শব্দটোৰ অৰ্থ কি?
+A) nee
+B) tim
+C) see
+D) ble
+Ans: D
+
+9. In a certain code language, 'po ki top' means 'Usha is playing', and 'ki top ma' means 'Asha is playing'. Which word stands for 'Usha'?
+
+এটা নিৰ্দিষ্ট ক'ড ভাষাত, 'po ki top' মানে 'Usha is playing', আৰু 'ki top ma' মানে 'Asha is playing'। 'Usha' শব্দটোৰ বাবে কোনটো ক'ড ব্যৱহাৰ কৰা হৈছে?
+A) ki
+B) top
+C) po
+D) ma
+Ans: C
+
+10. If 'air' is called 'green', 'green' is called 'blue', 'blue' is called 'sky', 'sky' is called 'yellow', and 'yellow' is called 'water', what is the color of clear sky?
+
+যদি 'বতাহ'ক 'সেউজীয়া' বলা হয়, 'সেউজীয়া'ক 'নীলা' বলা হয়, 'নীলা'ক 'আকাশ' বলা হয়, 'আকাশ'ক 'হলধীয়া' বলা হয়, আৰু 'হলধীয়া'ক 'পানী' বলা হয়, তেন্তে পৰিষ্কাৰ আকাশৰ ৰং কি?
+A) Blue / নীলা
+B) Sky / আকাশ
+C) Yellow / হলধীয়া
+D) Water / পানী
+Ans: B
+
+11. If 'sand' is called 'air', 'air' is called 'plateau', 'plateau' is called 'well', 'well' is called 'island', and 'island' is called 'sky', then from where will a person draw water?
+
+যদি 'বালি'ক 'বতাহ' বলা হয়, 'বতাহ'ক 'মালভূমি' বলা হয়, 'মালভূমি'ক 'কুঁৱা' বলা হয়, 'কুঁৱা'ক 'দ্বীপ' বলা হয়, আৰু 'দ্বীপ'ক 'আকাশ' বলা হয়, তেন্তে মানুহে ক'ৰ পৰা পানী তুলিব?
+A) Well / কুঁৱা
+B) Island / দ্বীপ
+C) Sky / আকাশ
+D) Air / বতাহ
+Ans: B
+
+12. If 'finger' is called 'toe', 'toe' is called 'foot', 'foot' is called 'thumb', 'thumb' is called 'ankle', and 'ankle' is called 'palm', then what is used to wear a ring?
+
+যদি 'হাতৰ আঙুলি'ক 'ভৰিৰ আঙুলি' বলা হয়, 'ভৰিৰ আঙুলি'ক 'ভৰি' বলা হয়, 'ভৰি'ক 'বৃদ্ধাঙ্গুলি' বলা হয়, 'বৃদ্ধাঙ্গুলি'ক 'গোৰোহা' বলা হয়, আৰু 'গোৰোহা'ক 'হাতৰ তলুৱা' বলা হয়, তেন্তে আঙুঠি পিন্ধিবলৈ কি ব্যৱহাৰ কৰা হয়?
+A) Toe / ভৰিৰ আঙুলি
+B) Foot / ভৰি
+C) Thumb / বৃদ্ধাঙ্গুলি
+D) Finger / হাতৰ আঙুলি
+Ans: A
+
+13. In a code language, 'pao ka jo' means 'reading book now', and 'ka ma jo' means 'book is now'. What is the code for 'reading'?
+
+এটা ক'ড ভাষাত, 'pao ka jo' মানে 'reading book now', আৰু 'ka ma jo' মানে 'book is now'। 'reading' ৰ ক'ড কি?
+A) ka
+B) jo
+C) pao
+D) ma
+Ans: C
+
+14. If 'light' is called 'morning', 'morning' is called 'dark', 'dark' is called 'night', 'night' is called 'sunshine', and 'sunshine' is called 'dusk', when do we sleep?
+
+যদি 'পোহৰ'ক 'পুৱা' বলা হয়, 'পুৱা'ক 'আন্ধাৰ' বলা হয়, 'আন্ধাৰ'ক 'ৰাতি' বলা হয়, 'ৰাতি'ক 'ৰ'দ' বলা হয়, আৰু 'ৰ'দ'ক 'গোধূলি' বলা হয়, তেন্তে আমি কেতিয়া শোওঁ?
+A) Night / ৰাতি
+B) Dark / আন্ধাৰ
+C) Sunshine / ৰ'দ
+D) Dusk / গোধূলি
+Ans: C
+
+15. If 'room' is called 'bed', 'bed' is called 'window', 'window' is called 'flower', and 'flower' is called 'cooler', on what will a man sleep?
+
+যদি 'কোঠা'ক 'বিচনা' বলা হয়, 'বিচনা'ক 'খিৰিকী' বলা হয়, 'খিৰিকী'ক 'ফুল' বলা হয়, আৰু 'ফুল'ক 'কুলাৰ' বলা হয়, তেন্তে মানুহে ক'ত শুব?
+A) Bed / বিচনা
+B) Window / খিৰিকী
+C) Flower / ফুল
+D) Cooler / কুলাৰ
+Ans: B
+
+16. In a certain code, 'pit na som' means 'bring me water', and 'na jo tod' means 'water is life'. Which word in that language means 'water'?
+
+এটা নিৰ্দিষ্ট ক'ডত, 'pit na som' মানে 'bring me water', আৰু 'na jo tod' মানে 'water is life'। সেই ভাষাত 'water' ৰ ক'ড কি?
+A) pit
+B) na
+C) som
+D) tod
+Ans: B
+
+17. If 'cloud' is called 'white', 'white' is called 'rain', 'rain' is called 'green', 'green' is called 'air', 'air' is called 'blue', and 'blue' is called 'water', where do birds fly?
+
+যদি 'ডাৱৰ'ক 'বগা' বলা হয়, 'বগা'ক 'বৰষুণ' বলা হয়, 'বৰষুণ'ক 'সেউজীয়া' বলা হয়, 'সেউজীয়া'ক 'বতাহ' বলা হয়, 'বতাহ'ক 'নীলা' বলা হয়, আৰু 'নীলা'ক 'পানী' বলা হয়, তেন্তে চৰাই ক'ত উৰে?
+A) Air / বতাহ
+B) Green / সেউজীয়া
+C) Blue / নীলা
+D) Water / পানী
+Ans: C
+
+18. If 'man' is called 'girl', 'girl' is called 'woman', 'woman' is called 'boy', 'boy' is called 'butler', and 'butler' is called 'rogue', who among these is a female adult?
+
+যদি 'পুৰুষ'ক 'ছোৱালী' বলা হয়, 'ছোৱালী'ক 'মহিলা' বলা হয়, 'মহিলা'ক 'ল'ৰা' বলা হয়, 'ল'ৰা'ক 'বাটলাৰ' বলা হয়, আৰু 'বাটলাৰ'ক 'দুষ্ট' বলা হয়, তেন্তে মহিলা প্ৰাপ্তবয়স্কজনক কি বোলা হ'ব?
+A) Girl / ছোৱালী
+B) Woman / মহিলা
+C) Boy / ল'ৰা
+D) Butler / বাটলাৰ
+Ans: C
+
+19. In a certain code language, 'tik jha mho' means 'good sweet mango', and 'jha pit mho' means 'mango is sweet'. Which word means 'good'?
+
+এটা নিৰ্দিষ্ট ক'ড ভাষাত, 'tik jha mho' মানে 'good sweet mango', আৰু 'jha pit mho' মানে 'mango is sweet'। 'good' শব্দটোৰ ক'ড কি?
+A) tik
+B) jha
+C) mho
+D) pit
+Ans: A
+
+20. If 'paper' is called 'wood', 'wood' is called 'straw', 'straw' is called 'grass', 'grass' is called 'rubber', and 'rubber' is called 'cloth', what is furniture made of?
+
+যদি 'কাগজ'ক 'কাঠ' বলা হয়, 'কাঠ'ক 'খেৰ' বলা হয়, 'খেৰ'ক 'ঘাঁহ' বলা হয়, 'ঘাঁহ'ক 'ৰবাৰ' বলা হয়, আৰু 'ৰবাৰ'ক 'কাপোৰ' বলা হয়, তেন্তে আচবাব কিহেৰে তৈয়াৰ কৰা হয়?
+A) Wood / কাঠ
+B) Straw / খেৰ
+C) Grass / ঘাঁহ
+D) Paper / কাগজ
+Ans: B
+
+21. If 'lead' is called 'stick', 'stick' is called 'nib', 'nib' is called 'needle', 'needle' is called 'rope', and 'rope' is called 'thread', what is fitted in a pen to write?
+
+যদি 'সীসা'ক 'লাঠি' বলা হয়, 'লাঠি'ক 'নিব' বলা হয়, 'নিব'ক 'বেজী' বলা হয়, 'বেজী'ক 'ৰচী' বলা হয়, আৰু 'ৰচী'ক 'সূতা' বলা হয়, তেন্তে কলমত লিখিবলৈ কি লগোৱা হয়?
+A) Stick / লাঠি
+B) Nib / নিব
+C) Needle / বেজী
+D) Rope / ৰচী
+Ans: C
+
+22. In a certain code language, '743' means 'mangoes are ripe', '867' means 'ripe green fruit', and '395' means 'mangoes are sweet'. Which digit stands for 'ripe'?
+
+এটা নিৰ্দিষ্ট ক'ড ভাষাত, '743' মানে 'mangoes are ripe', '867' মানে 'ripe green fruit', আৰু '395' মানে 'mangoes are sweet'। 'ripe' শব্দটোৰ বাবে কোনটো অংক ব্যৱহাৰ কৰা হৈছে?
+A) 7
+B) 4
+C) 3
+D) 8
+Ans: A
+
+23. If 'rat' is called 'dog', 'dog' is called 'mongoose', 'mongoose' is called 'lion', 'lion' is called 'snake', and 'snake' is called 'elephant', which is reared as a pet?
+
+যদি 'নিগনি'ক 'কুকুৰ' বলা হয়, 'কুকুৰ'ক 'নেউল' বলা হয়, 'নেউল'ক 'সিংহ' বলা হয়, 'সিংহ'ক 'সাপ' বলা হয়, আৰু 'সাপ'ক 'হাতী' বলা হয়, তেন্তে তলৰ কোনটোক পোহনীয়া জীৱ হিচাপে পোহা হয়?
+A) Dog / কুকুৰ
+B) Mongoose / নেউল
+C) Lion / সিংহ
+D) Snake / সাপ
+Ans: B
+
+24. If 'blue' means 'pink', 'pink' means 'green', 'green' means 'yellow', 'yellow' means 'red', and 'red' means 'white', then what is the color of turmeric?
+
+যদি 'নীলা' মানে 'গোলাপী', 'গোলাপী' মানে 'সেউজীয়া', 'সেউজীয়া' মানে 'হলধীয়া', 'হলধীয়া' মানে 'ৰঙা', আৰু 'ৰঙা' মানে 'বগা', তেন্তে হালধিৰ ৰং কি?
+A) Green / সেউজীয়া
+B) Yellow / হলধীয়া
+C) Red / ৰঙা
+D) Pink / গোলাপী
+Ans: C
+
+25. In a certain code language, 'tom kun' means 'dogs bark', and 'kun jop' means 'dogs bite'. What is the code for 'dogs'?
+
+এটা নিৰ্দিষ্ট ক'ড ভাষাত, 'tom kun' মানে 'dogs bark', আৰু 'kun jop' মানে 'dogs bite'। 'dogs' ৰ ক'ড কি?
+A) tom
+B) kun
+C) jop
+D) bark
+Ans: B

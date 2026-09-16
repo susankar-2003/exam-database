@@ -1,0 +1,224 @@
+1. If '+' means '÷', '-' means '×', '×' means '-', and '÷' means '+', then what is the value of 16 ÷ 8 - 4 + 2 × 10?
+
+যদি '+' ৰ অৰ্থ '÷', '-' ৰ অৰ্থ '×', '×' ৰ অৰ্থ '-', আৰু '÷' ৰ অৰ্থ '+' হয়, তেন্তে 16 ÷ 8 - 4 + 2 × 10 ৰ মান কিমান?
+A) 22
+B) 24
+C) 18
+D) 20
+Ans: A
+
+2. In a group of cows and hens, the number of legs is 14 more than twice the number of heads. The number of cows is:
+
+গৰু আৰু কুকুৰাৰ এটা দলত, ভৰিৰ সংখ্যা মূৰৰ সংখ্যাৰ দুগুণতকৈ 14 টা বেছি। গৰুৰ সংখ্যা কিমান?
+A) 5
+B) 7
+C) 10
+D) 12
+Ans: B
+
+3. Present age of A and B are in the ratio 4:5. After 5 years, the ratio of their ages will be 5:6. Find the present age of A.
+
+A আৰু B ৰ বৰ্তমান বয়সৰ অনুপাত 4:5। 5 বছৰৰ পিছত, তেওঁলোকৰ বয়সৰ অনুপাত 5:6 হ'ব। A ৰ বৰ্তমান বয়স নিৰ্ণয় কৰক।
+A) 15 years / 15 বছৰ
+B) 25 years / 25 বছৰ
+C) 20 years / 20 বছৰ
+D) 30 years / 30 বছৰ
+Ans: C
+
+4. If A is 3 years older than B and B is 2 years younger than C, and the sum of their ages is 29, how old is B?
+
+যদি A, B তকৈ 3 বছৰ ডাঙৰ আৰু B, C তকৈ 2 বছৰ সৰু, আৰু তেওঁলোকৰ বয়সৰ যোগফল 29, তেন্তে B ৰ বয়স কিমান?
+A) 9 years / 9 বছৰ
+B) 8 years / 8 বছৰ
+C) 7 years / 7 বছৰ
+D) 10 years / 10 বছৰ
+Ans: B
+
+5. Select the correct combination of mathematical signs to replace * signs to balance the given equation: 16 * 4 * 5 * 9 * 11
+
+দিয়া সমীকৰণটো সন্তুলিত কৰিবলৈ * চিনৰ স্থানত গাণিতিক চিনৰ শুদ্ধ সংমিশ্ৰণটো বাছনি কৰক: 16 * 4 * 5 * 9 * 11
+A) ÷, ×, +, =
+B) ÷, ×, -, =
+C) +, -, ÷, =
+D) ×, ÷, +, =
+Ans: B
+
+6. At a party, 10 people shake hands with each other exactly once. How many total handshakes took place?
+
+এখন পাৰ্টীত, 10 জন মানুহে পৰস্পৰে পৰস্পৰৰ সৈতে এবাৰকৈ কৰমৰ্দন কৰে। মুঠ কিমানবাৰ কৰমৰ্দন হ'ল?
+A) 90
+B) 100
+C) 45
+D) 50
+Ans: C
+
+7. If 35% of a number is 175, what is 50% of that number?
+
+যদি এটা সংখ্যাৰ 35% হয় 175, তেন্তে সেই সংখ্যাটোৰ 50% কিমান?
+A) 200
+B) 225
+C) 275
+D) 250
+Ans: D
+
+8. The average of 5 consecutive odd numbers is 27. What is the largest of these numbers?
+
+5 টা ক্ৰমাগত অযোগ্ম সংখ্যাৰ গড় 27। এই সংখ্যাবোৰৰ ভিতৰত আটাইতকৈ ডাঙৰ সংখ্যাটো কি?
+A) 29
+B) 31
+C) 33
+D) 35
+Ans: B
+
+9. If P means '×', R means '+', T means '÷', and S means '-', then what is the value of 18 T 3 P 9 S 8 R 6?
+
+যদি P ৰ অৰ্থ '×', R ৰ অৰ্থ '+', T ৰ অৰ্থ '÷', আৰু S ৰ অৰ্থ '-' হয়, তেন্তে 18 T 3 P 9 S 8 R 6 ৰ মান কিমান?
+A) 52
+B) 46
+C) 58
+D) 64
+Ans: A
+
+10. A total of 300 coins consist of 1-rupee, 50-paisa, and 25-paisa coins. Their values are in the ratio 5:3:1. Find the number of 50-paisa coins.
+
+মুঠ 300 টা মুদ্ৰা 1-টকীয়া, 50-পইচা আৰু 25-পইচাৰ মুদ্ৰাৰে গঠিত। তেওঁলোকৰ মূল্যৰ অনুপাত 5:3:1। 50-পইচাৰ মুদ্ৰাৰ সংখ্যা নিৰ্ণয় কৰক।
+A) 100
+B) 120
+C) 160
+D) 80
+Ans: B
+
+11. If 'A' means '+', 'B' means '-', 'C' means '×', and 'D' means '÷', then 16 C 12 D 6 A 5 B 4 = ?
+
+যদি 'A' ৰ অৰ্থ '+', 'B' ৰ অৰ্থ '-', 'C' ৰ অৰ্থ '×', আৰু 'D' ৰ অৰ্থ '÷' হয়, তেন্তে 16 C 12 D 6 A 5 B 4 = ?
+A) 31
+B) 33
+C) 35
+D) 29
+Ans: B
+
+12. The product of two consecutive even numbers is 168. Find the sum of these two numbers.
+
+দুটা ক্ৰমাগত যুগ্ম সংখ্যাৰ গুণফল 168। এই সংখ্যা দুটাৰ যোগফল নিৰ্ণয় কৰক।
+A) 22
+B) 28
+C) 26
+D) 24
+Ans: C
+
+13. If 4 cats catch 4 mice in 4 minutes, in how many minutes will 8 cats catch 8 mice?
+
+যদি 4 টা মেকুৰীয়ে 4 মিনিটত 4 টা এন্দুৰ ধৰে, তেন্তে 8 টা মেকুৰীয়ে 8 টা এন্দুৰ ধৰিবলৈ কিমান মিনিট লাগিব?
+A) 8 minutes / 8 মিনিট
+B) 2 minutes / 2 মিনিট
+C) 4 minutes / 4 মিনিট
+D) 16 minutes / 16 মিনিট
+Ans: C
+
+14. A father is twice as old as his son. 20 years ago, the father was 12 times as old as his son. Find the present age of the son.
+
+এজন দেউতাকৰ বয়স তেওঁৰ পুতেকৰ বয়সৰ দুগুণ। 20 বছৰ পূৰ্বে দেউতাকৰ বয়স পুতেকৰ বয়সৰ 12 গুণ আছিল। পুতেকৰ বৰ্তমান বয়স নিৰ্ণয় কৰক।
+A) 20 years / 20 বছৰ
+B) 24 years / 24 বছৰ
+C) 18 years / 18 বছৰ
+D) 22 years / 22 বছৰ
+Ans: D
+
+15. Which interchange of signs will make the given equation correct? 18 + 6 ÷ 3 × 2 - 4 = 5
+
+কোনটো চিনৰ সালসলনিয়ে দিয়া সমীকৰণটো শুদ্ধ কৰি তুলিব? 18 + 6 ÷ 3 × 2 - 4 = 5
+A) + and ÷ / + আৰু ÷
+B) + and - / + আৰু -
+C) × and - / × আৰু -
+D) ÷ and × / ÷ আৰু ×
+Ans: A
+
+16. A tree grows by 1/4th of its height every year. If its present height is 64 cm, what will be its height after 2 years?
+
+জোপা গছ প্ৰতি বছৰে তাৰ উচ্চতাৰ 1/4 অংশ বৃদ্ধি পায়। যদি ইয়াৰ বৰ্তমান উচ্চতা 64 ছেমি, তেন্তে 2 বছৰৰ পিছত ইয়াৰ উচ্চতা কিমান হ'ব?
+A) 96 cm / 96 ছেমি
+B) 100 cm / 100 ছেমি
+C) 80 cm / 80 ছেমি
+D) 108 cm / 108 ছেমি
+Ans: B
+
+17. If 12 men can complete a work in 20 days, in how many days can 15 men complete the same work?
+
+যদি 12 জন মানুহে এটা কাম 20 দিনত সম্পূৰ্ণ কৰিব পাৰে, তেন্তে 15 জন মানুহে একেটা কাম কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
+A) 18 days / 18 দিন
+B) 15 days / 15 দিন
+C) 16 days / 16 দিন
+D) 14 days / 14 দিন
+Ans: C
+
+18. The total age of a mother and her daughter is 50 years. 5 years ago, mother's age was 7 times the age of the daughter. What is the present age of the mother?
+
+মাক আৰু জীয়েকৰ মুঠ বয়স 50 বছৰ। 5 বছৰ পূৰ্বে মাকৰ বয়স জীয়েকৰ বয়সৰ 7 গুণ আছিল। মাকৰ বৰ্তমান বয়স কিমান?
+A) 38 years / 38 বছৰ
+B) 42 years / 42 বছৰ
+C) 40 years / 40 বছৰ
+D) 35 years / 35 বছৰ
+Ans: C
+
+19. If '+' stands for 'multiplication', '-' stands for 'division', '×' stands for 'subtraction', and '÷' stands for 'addition', then evaluate: 20 - 4 + 8 ÷ 12 × 6
+
+যদি '+' ৰ অৰ্থ 'গুণ', '-' ৰ অৰ্থ 'হৰণ', '×' ৰ অৰ্থ 'বিয়োগ', আৰু '÷' ৰ অৰ্থ 'যোগ' হয়, তেন্তে মান নিৰ্ণয় কৰক: 20 - 4 + 8 ÷ 12 × 6
+A) 42
+B) 50
+C) 40
+D) 46
+Ans: D
+
+20. In a class of 60 students, the number of girls is twice the number of boys. Kamal ranked 17th from the top. If there are 9 girls ahead of Kamal, how many boys are after him in rank?
+
+60 জন ছাত্ৰ-ছাত্ৰী থকা এটা শ্ৰেণীত, ছাত্ৰীৰ সংখ্যা ছাত্ৰৰ সংখ্যাৰ দুগুণ। কমল ওপৰৰ পৰা 17 তম স্থানত আছে। যদি কমলৰ আগত 9 গৰাকী ছাত্ৰী থাকে, তেন্তে স্থানৰ ক্ৰমত কমলৰ পিছত কিমান জন ছাত্ৰ আছে?
+A) 12
+B) 13
+C) 11
+D) 10
+Ans: A
+
+21. Find the missing number in the sequence: 4, 9, 20, 43, 90, ?
+
+শ্ৰেণীটোত লুপ্ত সংখ্যাটো নিৰ্ণয় কৰক: 4, 9, 20, 43, 90, ?
+A) 180
+B) 183
+C) 185
+D) 187
+Ans: C
+
+22. If 10 workers build a wall in 12 days, how many workers are needed to build the same wall in 8 days?
+
+যদি 10 জন শ্ৰমিকে এটা দেৱাল 12 দিনত সাজিব পাৰে, তেন্তে 8 দিনত একেটা দেৱাল সাজিবলৈ কিমান জন শ্ৰমিকৰ প্ৰয়োজন হ'ব?
+A) 16
+B) 14
+C) 18
+D) 15
+Ans: D
+
+23. Select the correct combination of signs to replace * in: 24 * 6 * 3 * 2 * 14
+
+* চিন বোৰৰ স্থানত বহুৱাবলৈ শুদ্ধ সংমিশ্ৰণটো বাছনি কৰক: 24 * 6 * 3 * 2 * 14
+A) ÷, +, ×, =
+B) ÷, ×, +, =
+C) +, -, ÷, =
+D) ÷, -, ×, =
+Ans: B
+
+24. Sum of present ages of A, B and C is 90 years. 6 years ago, their ages were in the ratio 1:2:3. What is the present age of C?
+
+A, B আৰু C ৰ বৰ্তমান বয়সৰ যোগফল 90 বছৰ। 6 বছৰ পূৰ্বে, তেওঁলোকৰ বয়সৰ অনুপাত আছিল 1:2:3। C ৰ বৰ্তমান বয়স কিমান?
+A) 36 years / 36 বছৰ
+B) 40 years / 40 বছৰ
+C) 42 years / 42 বছৰ
+D) 30 years / 30 বছৰ
+Ans: C
+
+25. A shepherd has 17 sheep. All but 9 die. How many sheep are left?
+
+এজন ৰাখালৰ 17 টা ভেৰা আছিল। 9 টাৰ বাদে বাকী সকলো মৰি গ'ল। এতিয়া কিমানটা ভেৰা জীয়াই থাকিল?
+A) 8
+B) 0
+C) 9
+D) 17
+Ans: C

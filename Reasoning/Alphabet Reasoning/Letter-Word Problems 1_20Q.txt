@@ -1,0 +1,179 @@
+1. How many meaningful English words can be formed using the letters 'E', 'A', 'T' using each letter only once in each word?
+
+প্ৰশ্ন: 'E', 'A', 'T' আখৰকেইটা প্ৰতিটো শব্দত কেৱল এবাৰ ব্যৱহাৰ কৰি কেইটা অৰ্থপূৰ্ণ ইংৰাজী শব্দ গঠন কৰিব পৰা যাব?
+A) One / এটা
+B) Two / দুটা
+C) Three / তিনিটা
+D) Four / চাৰিটা
+Ans: C
+
+2. If the letters of the word "HANDS" are arranged alphabetically, how many letters will remain in the same position?
+
+প্ৰশ্ন: যদি "HANDS" শব্দটোৰ আখৰবোৰ বৰ্ণানুক্ৰমে সজাই পৰা হয়, তেন্তে কেইটা আখৰ একে স্থানতে থাকিব?
+A) None / এটাও নহয়
+B) One / এটা
+C) Two / দুটা
+D) Three / তিনিটা
+Ans: B
+
+3. Which of the following words CANNOT be formed using the letters of the word "INTERNATIONAL"?
+
+প্ৰশ্ন: "INTERNATIONAL" শব্দটোৰ আখৰবোৰ ব্যৱহাৰ কৰি তলৰ কোনটো শব্দ গঠন কৰিব নোৱাৰি?
+A) TRAIN / ট্ৰেইন
+B) NATIONAL / নেচনেল
+C) RATIONAL / ৰেচনেল
+D) TERMINAL / টার্মিনেল
+Ans: D
+
+4. Which of the following words CAN be formed using the letters of the word "RECOMMENDATION"?
+
+প্ৰশ্ন: "RECOMMENDATION" শব্দটোৰ আখৰবোৰ ব্যৱহাৰ কৰি তলৰ কোনটো শব্দ গঠন কৰিব পৰা যাব?
+A) MEDICINE / মেডিচিন
+B) REMINDER / ৰিমাইণ্ডাৰ
+C) NATION / নেচন
+D) DISTANCE / ডিষ্টেন্স
+Ans: C
+
+5. How many meaningful English words can be formed using the 2nd, 3rd, 4th, and 5th letters of the word "HEART"?
+
+প্ৰশ্ন: "HEART" শব্দটোৰ 2য়, 3য়, 4ৰ্থ আৰু 5ম আখৰ ব্যৱহাৰ কৰি কেইটা অৰ্থপূৰ্ণ ইংৰাজী শব্দ গঠন কৰিব পৰা যাব?
+A) One / এটা
+B) Two / দুটা
+C) Three / তিনিটা
+D) Four / চাৰিটা
+Ans: C
+
+6. Which of the following words CANNOT be formed using the letters of the word "MAGNIFICENT"?
+
+প্ৰশ্ন: "MAGNIFICENT" শব্দটোৰ আখৰবোৰ ব্যৱহাৰ কৰি তলৰ কোনটো শব্দ গঠন কৰিব নোৱাৰি?
+A) MAGIC / ম্যাজিক
+B) FAINT / ফেইণ্ট
+C) CEMENT / চেমেণ্ট
+D) GIANT / জাইঅ্যাণ্ট
+Ans: C
+
+7. If in the word "MOTHER", vowels are replaced by the next letter and consonants are replaced by the previous letter in the English alphabet, which letter will be 3rd from the left?
+
+প্ৰশ্ন: যদি "MOTHER" শব্দটোত স্বৰবৰ্ণবোৰ তাৰ পিছৰ আখৰেৰে আৰু ব্যঞ্জনবৰ্ণবোৰ তাৰ আগৰ আখৰেৰে প্ৰতিস্থাপন কৰা হয়, তেন্তে বাওঁফালৰ পৰা 3য় আখৰটো কি হ'ব?
+A) L / এল
+B) P / পি
+C) S / এছ
+D) G / জি
+Ans: C
+
+8. If each vowel in the word "COMPUTERS" is changed to the next letter in the English alphabet and each consonant is changed to the previous letter, how many vowels will be present in the new word?
+
+প্ৰশ্ন: যদি "COMPUTERS" শব্দটোৰ প্ৰতিটো স্বৰবৰ্ণ ইংৰাজী বৰ্ণমালাৰ পিছৰ আখৰলৈ আৰু প্ৰতিটো ব্যঞ্জনবৰ্ণ আগৰ আখৰলৈ সলনি কৰা হয়, তেন্তে নতুন শব্দটোত কেইটা স্বৰবৰ্ণ থাকিব?
+A) One / এটা
+B) Two / দুটা
+C) Three / তিনিটা
+D) None / এটাও নহয়
+Ans: A
+
+9. If the first and second letters of the word "DEPRESSION" are interchanged, similarly the third and fourth, fifth and sixth, and so on, which letter will be 7th from the right end?
+
+প্ৰশ্ন: যদি "DEPRESSION" শব্দটোৰ প্ৰথম আৰু দ্বিতীয় আখৰ, একেদৰে তৃতীয় আৰু চতুৰ্থ, পঞ্চম আৰু ষষ্ঠ ইত্যাদি স্থান সলনি কৰা হয়, তেন্তে সোঁফালৰ পৰা 7ম আখৰটো কি হ'ব?
+A) E / ই
+B) R / আৰ
+C) P / পি
+D) S / এছ
+Ans: C
+
+10. How many meaningful English words can be formed using the letters 'O', 'N', 'E' using each letter only once?
+
+প্ৰশ্ন: 'O', 'N', 'E' আখৰকেইটা কেৱল এবাৰ ব্যৱহাৰ কৰি কেইটা অৰ্থপূৰ্ণ ইংৰাজী শব্দ গঢ়িব পৰা যাব?
+A) One / এটা
+B) Two / দুটা
+C) Three / তিনিটা
+D) Four / চাৰিটা
+Ans: B
+
+11. Which of the following words CANNOT be formed from the letters of the word "KNOWLEDGE"?
+
+প্ৰশ্ন: "KNOWLEDGE" শব্দটোৰ আখৰবোৰৰ পৰা তলৰ কোনটো শব্দ গঠন কৰিব নোৱাৰি?
+A) GOLD / গ’ল্ড
+B) LODGE / ল’জ
+C) KNOWN / ন’ন
+D) EDGE / এজ
+Ans: C
+
+12. How many letters in the word "BEAUTIFUL" occupy the same position when the letters are arranged in alphabetical order from left to right?
+
+প্ৰশ্ন: "BEAUTIFUL" শব্দটোৰ আখৰবোৰ বাওঁফালৰ পৰা সোঁফালৈ বৰ্ণানুক্ৰমে সজালে কেইটা আখৰে একে স্থান লাভ কৰিব?
+A) None / এটাও নহয়
+B) One / এটা
+C) Two / দুটা
+D) Three / তিনিটা
+Ans: B
+
+13. If the letters of the word "BENEFIT" are arranged in alphabetical order, how many vowels will change their positions?
+
+প্ৰশ্ন: যদি "BENEFIT" শব্দটোৰ আখৰবোৰ বৰ্ণানুক্ৰমে সজোৱা হয়, তেন্তে কেইটা স্বৰবৰ্ণই নিজৰ স্থান সলনি কৰিব?
+A) None / এটাও নহয়
+B) One / এটা
+C) Two / দুটা
+D) Three / তিনিটা
+Ans: C
+
+14. If the first 4 letters of the word "ANTHROPOLOGY" are reversed, then the next 4 letters are reversed, and the last 4 letters are reversed, which letter will be 8th from the left end?
+
+প্ৰশ্ন: যদি "ANTHROPOLOGY" শব্দটোৰ প্ৰথম 4 টা আখৰ ওলোটা কৰা হয়, তাৰ পিছৰ 4 টা আখৰ ওলোটা কৰা হয় আৰু শেষৰ 4 টা আখৰ ওলোটা কৰা হয়, তেন্তে বাওঁফালৰ পৰা 8ম আখৰটো কি হ'ব?
+A) P / পি
+B) O / ও
+C) R / আৰ
+D) Y / ওয়াই
+Ans: C
+
+15. Which of the following words can be formed from the letters of the word "PREPARATION"?
+
+প্ৰশ্ন: "PREPARATION" শব্দটোৰ আখৰবোৰৰ পৰা তলৰ কোনটো শব্দ গঠন কৰিব পৰা যাব?
+A) PAPER / পেপাৰ
+B) REPARTITION / ৰিপাৰ্টিচন
+C) NATION / নেচন
+D) PAINTER / পেইণ্টাৰ
+Ans: A
+
+16. If in the word "CREATION", all the vowels are arranged first in alphabetical order followed by all the consonants in alphabetical order, which letter will be 5th from the left end?
+
+প্ৰশ্ন: যদি "CREATION" শব্দটোত প্ৰথমে সকলো স্বৰবৰ্ণ বৰ্ণানুক্ৰমে সজোৱা হয় আৰু তাৰ পিছত সকলো ব্যঞ্জনবৰ্ণ বৰ্ণানুক্ৰমে সজোৱা হয়, তেন্তে বাওঁফালৰ পৰা 5ম আখৰটো কি হ'ব?
+A) O / ও
+B) C / সি
+C) N / এন
+D) R / আৰ
+Ans: B
+
+17. How many meaningful English words can be formed using the 1st, 4th, 7th, and 9th letters of the word "PERMISSIVE"?
+
+প্ৰশ্ন: "PERMISSIVE" শব্দটোৰ 1ম, 4ৰ্থ, 7ম, আৰু 9মে আখৰ ব্যৱহাৰ কৰি কেইটা অৰ্থপূৰ্ণ ইংৰাজী শব্দ গঢ়িব পৰা যাব?
+A) None / এটাও নহয়
+B) One / এটা
+C) Two / দুটা
+D) Three / তিনিটা
+Ans: A
+
+18. If the position of the first and the sixth letters in the word "DISTRIBUTE" are interchanged, similarly the second and seventh, third and eighth, fourth and ninth, fifth and tenth, which letter will be 4th from the left end?
+
+প্ৰশ্ন: যদি "DISTRIBUTE" শব্দটোৰ প্ৰথম আৰু ষষ্ঠ আখৰৰ স্থান সলনি কৰা হয়, একেদৰে দ্বিতীয় আৰু সপ্তম, তৃতীয় আৰু অষ্টম, চতুৰ্থ আৰু নবম, পঞ্চম আৰু দশম, তেন্তে বাওঁফালৰ পৰা 4ৰ্থ আখৰটো কি হ'ব?
+A) B / বি
+B) U / ইউ
+C) T / টি
+D) E / ই
+Ans: C
+
+19. Which word CANNOT be formed using the letters of "TEACHERS"?
+
+প্ৰশ্ন: "TEACHERS" শব্দটোৰ আখৰবোৰ ব্যৱহাৰ কৰি কোনটো শব্দ গঠন কৰিব নোৱাৰি?
+A) REACH / ৰীচ
+B) CHAIR / চেয়াৰ
+C) CHEER / চিয়াৰ
+D) SHARE / শ্বেয়াৰ
+Ans: B
+
+20. How many meaningful English words can be formed using the letters 'D', 'O', 'G' using each letter only once?
+
+প্ৰশ্ন: 'D', 'O', 'G' আখৰকেইটা কেৱল এবাৰ ব্যৱহাৰ কৰি কেইটা অৰ্থপূৰ্ণ ইংৰাজী শব্দ গঢ়িব পৰা যাব?
+A) One / এটা
+B) Two / দুটা
+C) Three / তিনিটা
+D) Four / চাৰিটা
+Ans: B

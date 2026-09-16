@@ -1,0 +1,224 @@
+1. If 1st January 2015 was Thursday, what day was 1st January 2016?
+
+2015 চনৰ 1 জানুৱাৰী যদি বৃহস্পতিবাৰ আছিল, তেন্তে 2016 চনৰ 1 জানুৱাৰী কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Wednesday / বুধবাৰ
+Ans: A
+
+2. On what day of the week did 25th December 2020 fall?
+
+2020 চনৰ 25 ডিচেম্বৰ কি বাৰ আছিল?
+A) Thursday / বৃহস্পতিবাৰ
+B) Friday / শুক্ৰবাৰ
+C) Saturday / শনিবাৰ
+D) Sunday / দেওবাৰ
+Ans: B
+
+3. The calendar for 2018 will be identical to which year?
+
+2018 চনৰ কেলেণ্ডাৰখন কোনটো বছৰৰ সৈতে একে হ’ব?
+A) 2024
+B) 2027
+C) 2029
+D) 2030
+Ans: C
+
+4. How many days are there in a non-leap year?
+
+এটা অধিবৰ্ষ নোহোৱা বছৰত কেইদিন থাকে?
+A) 365
+B) 366
+C) 364
+D) 360
+Ans: A
+
+5. How many days are there in a leap year?
+
+এটা অধিবৰ্ষত (Leap year) কেইদিন থাকে?
+A) 365
+B) 366
+C) 364
+D) 360
+Ans: B
+
+6. If today is Sunday, what day will it be after 22 days?
+
+যদি আজি দেওবাৰ, তেন্তে 22 দিনৰ পিছত কি বাৰ হ’ব?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Saturday / শনিবাৰ
+Ans: B
+
+7. If 1st April 2003 was Tuesday, what day of the week was 1st April 2004?
+
+2003 চনৰ 1 এপ্ৰিল যদি মঙ্গলবাৰ আছিল, তেন্তে 2004 চনৰ 1 এপ্ৰিল কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Saturday / শনিবাৰ
+Ans: B
+
+8. What was the day of the week on 10th August 1947?
+
+1947 চনৰ 10 আগষ্টত কি বাৰ আছিল?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Saturday / শনিবাৰ
+Ans: A
+
+9. What is the first day of the year 2023?
+
+2023 চনৰ প্ৰথম দিনটো কি বাৰ আছিল?
+A) Saturday / শনিবাৰ
+B) Sunday / দেওবাৰ
+C) Monday / সোমবাৰ
+D) Tuesday / মঙ্গলবাৰ
+Ans: B
+
+10. Which day was 15th August 2020?
+
+2020 চনৰ 15 আগষ্ট কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Monday / সোমবাৰ
+Ans: B
+
+11. What was the day of the week on 31st January 2007?
+
+2007 চনৰ 31 জানুৱাৰীত কি বাৰ আছিল?
+A) Tuesday / মঙ্গলবাৰ
+B) Wednesday / বুধবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Friday / শুক্ৰবাৰ
+Ans: B
+
+12. If 1st September 2020 was Tuesday, what was the day on 1st October 2020?
+
+2020 চনৰ 1 ছেপ্টেম্বৰ যদি মঙ্গলবাৰ আছিল, তেন্তে 2020 চনৰ 1 অক্টোবৰ কি বাৰ আছিল?
+A) Thursday / বৃহস্পতিবাৰ
+B) Friday / শুক্ৰবাৰ
+C) Wednesday / বুধবাৰ
+D) Saturday / শনিবাৰ
+Ans: A
+
+13. If 5th January 2001 was Friday, what day was 25th January 2001?
+
+2001 চনৰ 5 জানুৱাৰী যদি শুক্ৰবাৰ আছিল, তেন্তে 2001 চনৰ 25 জানুৱাৰী কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: B
+
+14. Find the number of odd days from 1st Jan 2007 to 31st Dec 2007.
+
+2007 চনৰ 1 জানুৱাৰীৰ পৰা 31 ডিচেম্বৰলৈ অতিৰিক্ত দিনৰ সংখ্যা নিৰ্ণয় কৰা।
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: B
+
+15. If 1st March 2008 was Saturday, what was 1st March 2007?
+
+2008 চনৰ 1 মাৰ্চ যদি শনিবাৰ আছিল, তেন্তে 2007 চনৰ 1 মাৰ্চ কি বাৰ আছিল?
+A) Thursday / বৃহস্পতিবাৰ
+B) Friday / শুক্ৰবাৰ
+C) Wednesday / বুধবাৰ
+D) Saturday / শনিবাৰ
+Ans: A
+
+16. The calendar for 2003 is same as that for:
+
+2003 চনৰ কেলেণ্ডাৰখন কাৰ সৈতে একে?
+A) 2014
+B) 2012
+C) 2008
+D) 2009
+Ans: A
+
+17. How many weeks are there in a normal year?
+
+এটা সাধাৰণ বছৰত কেইটা সপ্তাহ থাকে?
+A) 50
+B) 51
+C) 52
+D) 53
+Ans: C
+
+18. How many full weeks and odd days are in 366 days?
+
+366 দিনত কেইটা সম্পূৰ্ণ সপ্তাহ আৰু কেইটা অতিৰিক্ত দিন থাকে?
+A) 52 weeks and 1 odd day / 52 সপ্তাহ আৰু 1 অড ডে'
+B) 52 weeks and 2 odd days / 52 সপ্তাহ আৰু 2 অড ডে'
+C) 51 weeks and 2 odd days / 51 সপ্তাহ আৰু 2 অড ডে'
+D) 50 weeks and 3 odd days / 50 সপ্তাহ আৰু 3 অড ডে'
+Ans: B
+
+19. If 4th May 1992 was Monday, what was the day on 4th May 1991?
+
+1992 চনৰ 4 মে’ যদি সোমবাৰ আছিল, তেন্তে 1991 চনৰ 4 মে’ কি বাৰ আছিল?
+A) Saturday / শনিবাৰ
+B) Sunday / দেওবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: A
+
+20. If 15th August 2000 was Tuesday, what was 15th August 1999?
+
+2000 চনৰ 15 আগষ্ট যদি মঙ্গলবাৰ আছিল, তেন্তে 1999 চনৰ 15 আগষ্ট কি বাৰ আছিল?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Saturday / শনিবাৰ
+D) Tuesday / মঙ্গলবাৰ
+Ans: A
+
+21. If 1st November 2021 was Monday, what was 25th November 2021?
+
+2021 চনৰ 1 নৱেম্বৰ যদি সোমবাৰ আছিল, তেন্তে 2021 চনৰ 25 নৱেম্বৰ কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Saturday / শনিবাৰ
+Ans: B
+
+22. What was the day of the week on 1st January 1999?
+
+1999 চনৰ 1 জানুৱাৰীত কি বাৰ আছিল?
+A) Thursday / বৃহস্পতিবাৰ
+B) Friday / শুক্ৰবাৰ
+C) Saturday / শনিবাৰ
+D) Sunday / দেওবাৰ
+Ans: B
+
+23. What was the day of the week on 31st December 1999?
+
+1999 চনৰ 31 ডিচেম্বৰত কি বাৰ আছিল?
+A) Thursday / বৃহস্পতিবাৰ
+B) Friday / শুক্ৰবাৰ
+C) Saturday / শনিবাৰ
+D) Sunday / দেওবাৰ
+Ans: B
+
+24. Which year will have the same calendar as 2030?
+
+2030 চনৰ কেলেণ্ডাৰ কোনটো বছৰৰ সৈতে একে হ’ব?
+A) 2041
+B) 2036
+C) 2035
+D) 2040
+Ans: A
+
+25. If 28th February 2017 was Tuesday, what was 28th February 2018?
+
+2017 চনৰ 28 ফেব্ৰুৱাৰী যদি মঙ্গলবাৰ আছিল, তেন্তে 2018 চনৰ 28 ফেব্ৰুৱাৰী কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Friday / শুক্ৰবাৰ
+Ans: A

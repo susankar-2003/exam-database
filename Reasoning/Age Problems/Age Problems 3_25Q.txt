@@ -1,0 +1,224 @@
+1. Age of father is 4 times that of son. Sum of their ages is 50. Find son's age.
+
+দেউতাকৰ বয়স পুতেকৰ 4 গুণ। তেওঁলোকৰ বয়সৰ সমষ্টি 50। পুতেকৰ বয়স নিৰ্ণয় কৰা।
+A) 10 years / 10 বছৰ
+B) 12 years / 12 বছৰ
+C) 15 years / 15 বছৰ
+D) 8 years / 8 বছৰ
+Ans: A
+
+2. Sum of ages of 3 friends is 60. Ratio of their ages is 1:2:3. Find age of the eldest friend.
+
+3 জন বন্ধুৰ বয়সৰ সমষ্টি 60। তেওঁলোকৰ বয়সৰ অনুপাত 1:2:3। আটাইতকৈ ডাঙৰ বন্ধুজনৰ বয়স নিৰ্ণয় কৰা।
+A) 30 years / 30 বছৰ
+B) 20 years / 20 বছৰ
+C) 10 years / 10 বছৰ
+D) 40 years / 40 বছৰ
+Ans: A
+
+3. A father is 30 years older than his son. In 12 years, father will be twice as old as son. Present age of son?
+
+এজন দেউতাক পুতেকতকৈ 30 বছৰে ডাঙৰ। 12 বছৰত দেউতাক পুতেকৰ দুগুণ হ’ব। পুতেকৰ বৰ্তমান বয়স?
+A) 18 years / 18 বছৰ
+B) 20 years / 20 বছৰ
+C) 24 years / 24 বছৰ
+D) 15 years / 15 বছৰ
+Ans: A
+
+4. Average age of 3 boys is 15 years. If their ages are in ratio 3:5:7, the age of the youngest boy is:
+
+3 জন ল’ৰাৰ গড় বয়স 15 বছৰ। যদি তেওঁলোকৰ বয়সৰ অনুপাত 3:5:7 হয়, তেন্তে আটাইতকৈ সৰু ল’ৰাজনৰ বয়স:
+A) 9 years / 9 বছৰ
+B) 15 years / 15 বছৰ
+C) 21 years / 21 বছৰ
+D) 12 years / 12 বছৰ
+Ans: A
+
+5. Ratio of present ages of A and B is 2:5. After 8 years, ratio becomes 1:2. Find present age of A.
+
+A আৰু B ৰ বৰ্তমান বয়সৰ অনুপাত 2:5। 8 বছৰ পিছত অনুপাত 1:2 হয়। A ৰ বৰ্তমান বয়স নিৰ্ণয় কৰা।
+A) 16 years / 16 বছৰ
+B) 20 years / 20 বছৰ
+C) 24 years / 24 বছৰ
+D) 32 years / 32 বছৰ
+Ans: A
+
+6. Sum of present ages of A, B and C is 96 years. 10 years ago, ratio was 1:2:3. Present age of C?
+
+A, B আৰু C ৰ বৰ্তমান বয়সৰ সমষ্টি 96 বছৰ। 10 বছৰ আগতে অনুপাত আছিল 1:2:3। C ৰ বৰ্তমান বয়স?
+A) 43 years / 43 বছৰ
+B) 33 years / 33 বছৰ
+C) 53 years / 53 বছৰ
+D) 23 years / 23 বছৰ
+Ans: A
+
+7. Present age of A is 20 years and B is 30 years. How many years ago was the ratio of their ages 1:2?
+
+A ৰ বৰ্তমান বয়স 20 বছৰ আৰু B ৰ 30 বছৰ। কেইবছৰ আগতে তেওঁলোকৰ বয়সৰ অনুপাত 1:2 আছিল?
+A) 10 years / 10 বছৰ
+B) 5 years / 5 বছৰ
+C) 8 years / 8 বছৰ
+D) 12 years / 12 বছৰ
+Ans: A
+
+8. Mother is 3 times as old as daughter. After 12 years, mother will be twice as old as daughter. Daughter's present age?
+
+মাতৃ জীয়েকৰ 3 গুণ ডাঙৰ। 12 বছৰ পিছত মাতৃ জীয়েকৰ দুগুণ ডাঙৰ হ’ব। জীয়েকৰ বৰ্তমান বয়স?
+A) 12 years / 12 বছৰ
+B) 10 years / 10 বছৰ
+C) 15 years / 15 বছৰ
+D) 18 years / 18 বছৰ
+Ans: A
+
+9. A man is 5 years older than his wife and wife is now 3 times as old as daughter. Daughter is 10 years old. Find man's age.
+
+এজন মানুহ তেওঁৰ পত্নীতকৈ 5 বছৰে ডাঙৰ আৰু পত্নী এতিয়া জীয়েকৰ 3 গুণ ডাঙৰ। জীয়েকৰ বয়স 10 বছৰ। মানুহজনৰ বয়স নিৰ্ণয় কৰা।
+A) 35 years / 35 বছৰ
+B) 30 years / 30 বছৰ
+C) 40 years / 40 বছৰ
+D) 25 years / 25 বছৰ
+Ans: A
+
+10. Ratio of present ages of X and Y is 4:5. Product of their ages is 500. Find present age of X.
+
+X আৰু Y ৰ বৰ্তমান বয়সৰ অনুপাত 4:5। তেওঁলোকৰ বয়সৰ গুণফল 500। X ৰ বৰ্তমান বয়স নিৰ্ণয় কৰা।
+A) 20 years / 20 বছৰ
+B) 25 years / 25 বছৰ
+C) 15 years / 15 বছৰ
+D) 30 years / 30 বছৰ
+Ans: A
+
+11. Sum of ages of A and B is 40. 5 years ago, product of their ages was 175. Present age of A (assuming A > B)?
+
+A আৰু B ৰ বয়সৰ সমষ্টি 40। 5 বছৰ আগতে তেওঁলোকৰ বয়সৰ গুণফল 175 আছিল। A ৰ বৰ্তমান বয়স (য’ত A > B)?
+A) 30 years / 30 বছৰ
+B) 25 years / 25 বছৰ
+C) 20 years / 20 বছৰ
+D) 35 years / 35 বছৰ
+Ans: A
+
+12. In 10 years, A will be twice as old as B was 10 years ago. If A is now 9 years older than B, find present age of B.
+
+10 বছৰৰ ভিতৰত A ৰ বয়স 10 বছৰ আগতে B ৰ বয়স যি আছিল তাৰ দুগুণ হ’ব। যদি A এতিয়া B তকৈ 9 বছৰে ডাঙৰ হয়, তেন্তে B ৰ বৰ্তমান বয়স নিৰ্ণয় কৰা।
+A) 39 years / 39 বছৰ
+B) 30 years / 30 বছৰ
+C) 25 years / 25 বছৰ
+D) 40 years / 40 বছৰ
+Ans: A
+
+13. Present age of father is 38 years and son is 14 years. In how many years father will be twice as old as son?
+
+দেউতাকৰ বৰ্তমান বয়স 38 বছৰ আৰু পুতেকৰ 14 বছৰ। কেইবছৰত দেউতাক পুতেকৰ দুগুণ ডাঙৰ হ’ব?
+A) 10 years / 10 বছৰ
+B) 12 years / 12 বছৰ
+C) 8 years / 8 বছৰ
+D) 6 years / 6 বছৰ
+Ans: A
+
+14. Ratio of ages of A and B is 5:7. If difference between their ages is 10 years, find sum of their ages.
+
+A আৰু B ৰ বয়সৰ অনুপাত 5:7। যদি তেওঁলোকৰ বয়সৰ পাৰ্থক্য 10 বছৰ হয়, তেন্তে তেওঁলোকৰ বয়সৰ সমষ্টি নিৰ্ণয় কৰা।
+A) 60 years / 60 বছৰ
+B) 50 years / 50 বছৰ
+C) 70 years / 70 বছৰ
+D) 40 years / 40 বছৰ
+Ans: A
+
+15. A is 3 years older than B and 3 years younger than C. B and D are twins. How many years older is C than D?
+
+A, B তকৈ 3 বছৰে ডাঙৰ আৰু C তকৈ 3 বছৰে সৰু। B আৰু D যঁজা (twins)। C, D তকৈ কেইবছৰ ডাঙৰ?
+A) 6 years / 6 বছৰ
+B) 3 years / 3 বছৰ
+C) 9 years / 9 বছৰ
+D) 12 years / 12 বছৰ
+Ans: A
+
+16. Total age of A, B and C is 66 years. A is twice as old as B, and B is twice as old as C. Find age of C.
+
+A, B আৰু C ৰ মুঠ বয়স 66 বছৰ। A, B ৰ দুগুণ ডাঙৰ, আৰু B, C ৰ দুগুণ ডাঙৰ। C ৰ বয়স নিৰ্ণয় কৰা।
+A) 9.42 years / 9.42 বছৰ
+B) 10 years / 10 বছৰ
+C) 12 years / 12 বছৰ
+D) 8 years / 8 বছৰ
+Ans: A
+
+17. If 6 years are subtracted from present age of Gulzar and remainder divided by 18, age of Anup is obtained. If Anup is 2 years younger to Mahesh whose age is 5 years, find Gulzar's present age.
+
+গুলজাৰৰ বৰ্তমান বয়সৰ পৰা 6 বছৰ বিয়োগ কৰি বাকী থকাক 18 ৰে হৰণ কৰিলে অনুপৰ বয়স পোৱা যায়। যদি অনুপ মহেশতকৈ 2 বছৰে সৰু আৰু মহেশৰ বয়স 5 বছৰ হয়, তেন্তে গুলজাৰৰ বৰ্তমান বয়স নিৰ্ণয় কৰা।
+A) 60 years / 60 বছৰ
+B) 54 years / 54 বছৰ
+C) 66 years / 66 বছৰ
+D) 48 years / 48 বছৰ
+Ans: A
+
+18. Ratio of present ages of two persons is 4:7. 8 years ago, ratio was 1:2. Find sum of their present ages.
+
+দুজন ব্যক্তিৰ বৰ্তমান বয়সৰ অনুপাত 4:7। 8 বছৰ আগতে অনুপাত আছিল 1:2। তেওঁলোকৰ বৰ্তমান বয়সৰ সমষ্টি নিৰ্ণয় কৰা।
+A) 88 years / 88 বছৰ
+B) 77 years / 77 বছৰ
+C) 66 years / 66 বছৰ
+D) 99 years / 99 বছৰ
+Ans: A
+
+19. Average age of husband and wife was 23 years at the time of their marriage 5 years ago. Average age of husband, wife and child now is 20 years. Age of child is:
+
+5 বছৰ আগতে বিবাহৰ সময়ত স্বামী-স্ত্ৰীৰ গড় বয়স আছিল 23 বছৰ। এতিয়া স্বামী, স্ত্ৰী আৰু সন্তানৰ গড় বয়স 20 বছৰ। সন্তানৰ বয়স:
+A) 0 years / 0 বছৰ
+B) 1 year / 1 বছৰ
+C) 2 years / 2 বছৰ
+D) 3 years / 3 বছৰ
+Ans: A
+
+20. Age of A is 1/3rd of B's age. After 10 years, B will be twice as old as C. If C celebrated 5th birthday 5 years ago, find present age of A.
+
+A ৰ বয়স B ৰ বয়সৰ 1/3 অংশ। 10 বছৰ পিছত, B, C ৰ দুগুণ হ’ব। যদি C এ 5 বছৰ আগতে 5ম জন্মদিন উদযাপন কৰিছিল, তেন্তে A ৰ বৰ্তমান বয়স নিৰ্ণয় কৰা।
+A) 10 years / 10 বছৰ
+B) 12 years / 12 বছৰ
+C) 15 years / 15 বছৰ
+D) 8 years / 8 বছৰ
+Ans: A
+
+21. Father is 4 times as old as his son today. Sum of their ages will be 60 after 5 years. Son's present age is:
+
+আজি দেউতাক পুতেকৰ 4 গুণ ডাঙৰ। 5 বছৰ পিছত তেওঁলোকৰ বয়সৰ সমষ্টি 60 হ’ব। পুতেকৰ বৰ্তমান বয়স:
+A) 10 years / 10 বছৰ
+B) 12 years / 12 বছৰ
+C) 8 years / 8 বছৰ
+D) 15 years / 15 বছৰ
+Ans: A
+
+22. Present ratio of ages of A and B is 4:5. Difference between B's age 5 years hence and A's age 5 years ago is 20 years. Find present age of A.
+
+A আৰু B ৰ বৰ্তমান বয়সৰ অনুপাত 4:5। 5 বছৰ পিছত B ৰ বয়স আৰু 5 বছৰ আগতে A ৰ বয়সৰ পাৰ্থক্য 20 বছৰ। A ৰ বৰ্তমান বয়স নিৰ্ণয় কৰা।
+A) 40 years / 40 বছৰ
+B) 50 years / 50 বছৰ
+C) 30 years / 30 বছৰ
+D) 20 years / 20 বছৰ
+Ans: A
+
+23. Average age of a family of 6 members is 22 years. If age of youngest member is 7 years, average age of family at time of birth of youngest member was:
+
+6 জনীয়া পৰিয়াল এটাৰ গড় বয়স 22 বছৰ। যদি আটাইতকৈ সৰু সদস্যজনৰ বয়স 7 বছৰ হয়, তেন্তে আটাইতকৈ সৰু সদস্যজনৰ জন্মৰ সময়ত পৰিয়ালটোৰ গড় বয়স আছিল:
+A) 18 years / 18 বছৰ
+B) 15 years / 15 বছৰ
+C) 20 years / 20 বছৰ
+D) 16 years / 16 বছৰ
+Ans: A
+
+24. A is 20 years older than B. 5 years ago, A was 3 times as old as B. Present age of A is:
+
+A, B তকৈ 20 বছৰে ডাঙৰ। 5 বছৰ আগতে A, B ৰ 3 গুণ ডাঙৰ আছিল। A ৰ বৰ্তমান বয়স:
+A) 35 years / 35 বছৰ
+B) 30 years / 30 বছৰ
+C) 25 years / 25 বছৰ
+D) 40 years / 40 বছৰ
+Ans: A
+
+25. Age of father 10 years ago was thrice the age of his son. 10 years hence, father's age will be twice that of son. Ratio of present ages is:
+
+10 বছৰ আগতে দেউতাকৰ বয়স পুতেকৰ বয়সৰ তিনিগুণ আছিল। 10 বছৰ পিছত দেউতাকৰ বয়স পুতেকৰ দুগুণ হ’ব। বৰ্তমান বয়সৰ অনুপাত:
+A) 7:3
+B) 5:2
+C) 3:1
+D) 2:1
+Ans: A

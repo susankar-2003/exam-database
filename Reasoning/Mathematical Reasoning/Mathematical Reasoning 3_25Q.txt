@@ -1,0 +1,224 @@
+1. If P denotes ÷, Q denotes ×, R denotes +, and S denotes -, then 18 Q 12 P 4 R 5 S 6 = ?
+
+যদি P ৰ অৰ্থ ÷, Q ৰ অৰ্থ ×, R ৰ অৰ্থ +, আৰু S ৰ অৰ্থ - হয়, তেন্তে 18 Q 12 P 4 R 5 S 6 = ?
+A) 59
+B) 53
+C) 51
+D) 55
+Ans: B
+
+2. The average weight of 3 men A, B, and C is 84 kg. Another man D joins the group and the average becomes 80 kg. What is the weight of D?
+
+3 জন ব্যক্তি A, B, আৰু C ৰ গড় ওজন 84 কেজি। D নামৰ আন এজন ব্যক্তি যোগ দিয়াত গড় ওজন 80 কেজি হয়। D ৰ ওজন কিমান?
+A) 72 kg / 72 কেজি
+B) 70 kg / 70 কেজি
+C) 68 kg / 68 কেজি
+D) 64 kg / 64 কেজি
+Ans: C
+
+3. In an examination, a student gets 4 marks for every correct answer and loses 1 mark for every wrong answer. If he attempts 60 questions and gets 130 marks, how many questions did he answer correctly?
+
+এখন পৰীক্ষাত, এজন ছাত্ৰই প্ৰতিটো শুদ্ধ উত্তৰৰ বাবে 4 নম্বৰ পায় আৰু প্ৰতিটো ভুল উত্তৰৰ বাবে 1 নম্বৰ হেৰুৱায়। যদি তেওঁ 60 টা প্ৰশ্নৰ উত্তৰ দি 130 নম্বৰ পায়, তেন্তে তেওঁ কিমানটা প্ৰশ্নৰ শুদ্ধ উত্তৰ দিছিল?
+A) 40
+B) 35
+C) 42
+D) 38
+Ans: D
+
+4. If 8 + 4 = 32, 6 + 3 = 18, then 9 + 5 = ?
+
+যদি 8 + 4 = 32, 6 + 3 = 18 হয়, তেন্তে 9 + 5 = ?
+A) 45
+B) 40
+C) 50
+D) 35
+Ans: A
+
+5. Five years ago, the average age of A, B, C, and D was 45 years. With E joining them now, the average age of all five is 49 years. How old is E?
+
+5 বছৰ পূৰ্বে A, B, C, আৰু D ৰ গড় বয়স আছিল 45 বছৰ। এতিয়া E যোগ দিয়াত পাঁচোজনৰে গড় বয়স 49 বছৰ হয়। E ৰ বয়স কিমান?
+A) 40 years / 40 বছৰ
+B) 45 years / 45 বছৰ
+C) 50 years / 50 বছৰ
+D) 35 years / 35 বছৰ
+Ans: B
+
+6. Which interchange of signs makes the equation correct? 5 + 3 × 8 - 12 ÷ 4 = 3
+
+কোনটো চিনৰ সালসলনিয়ে সমীকৰণটো শুদ্ধ কৰি তুলিব? 5 + 3 × 8 - 12 ÷ 4 = 3
+A) + and - / + আৰু -
+B) - and ÷ / - আৰু ÷
+C) + and × / + আৰু ×
+D) × and ÷ / × আৰু ÷
+Ans: B
+
+7. If 1/5th of a number is 20, what is 3/10th of that number?
+
+যদি এটা সংখ্যাৰ 1/5 অংশ 20 হয়, তেন্তে সেই সংখ্যাটোৰ 3/10 অংশ কিমান?
+A) 25
+B) 40
+C) 30
+D) 35
+Ans: C
+
+8. A monkey climbs 30 feet high pole. It climbs 3 feet in one minute and slips down 2 feet in the next minute. How many minutes will it take to reach the top?
+
+এটা বান্দৰে 30 ফুট ওখ স্তম্ভত বগুৱা বাইছে। সি 1 মিনিটত 3 ফুট ওপৰলৈ উঠে আৰু পৰৱৰ্তী মিনিটত 2 ফুট তললৈ পিছলি পৰে। স্তম্ভটোৰ মূৰত পাবলৈ তাৰ কিমান মিনিট লাগিব?
+A) 57 minutes / 57 মিনিট
+B) 60 minutes / 60 মিনিট
+C) 53 minutes / 53 মিনিট
+D) 55 minutes / 55 মিনিট
+Ans: D
+
+9. If 7 × 3 = 52, 9 × 5 = 86, then 5 × 2 = ?
+
+যদি 7 × 3 = 52, 9 × 5 = 86 হয়, তেন্তে 5 × 2 = ?
+A) 27
+B) 25
+C) 31
+D) 29
+Ans: A
+
+10. A container contains 80 liters of milk. From this, 8 liters of milk is replaced with water. This process is repeated once more. Find the remaining quantity of milk.
+
+এটা পাত্ৰত 80 লিটাৰ গাখীৰ আছে। ইয়াৰ পৰা 8 লিটাৰ গাখীৰ উলিয়াই পানীৰে প্ৰতিস্থাপিত কৰা হয়। এই প্ৰক্ৰিয়াটো পুনৰ এবাৰ কৰা হয়। অৱশিষ্ট গাখীৰৰ পৰিমাণ নিৰ্ণয় কৰক।
+A) 64 liters / 64 লিটাৰ
+B) 64.8 liters / 64.8 লিটাৰ
+C) 68 liters / 68 লিটাৰ
+D) 62.5 liters / 62.5 লিটাৰ
+Ans: B
+
+11. If '+' means '×', '-' means '÷', '×' means '-', and '÷' means '+', then evaluate: 15 - 3 + 4 × 8 ÷ 2
+
+যদি '+' ৰ অৰ্থ '×', '-' ৰ অৰ্থ '÷', '×' ৰ অৰ্থ '-', আৰু '÷' ৰ অৰ্থ '+' হয়, তেন্তে মান নিৰ্ণয় কৰক: 15 - 3 + 4 × 8 ÷ 2
+A) 16
+B) 12
+C) 14
+D) 18
+Ans: C
+
+12. Sum of two numbers is 40 and their difference is 10. What is the ratio of these two numbers?
+
+দুটা সংখ্যাৰ যোগফল 40 আৰু তেওঁলোকৰ প্ৰভেদ 10। এই সংখ্যা দুটাৰ অনুপাত কিমান?
+A) 4:3
+B) 3:2
+C) 5:2
+D) 5:3
+Ans: D
+
+13. If 24 * 2 = 12, 36 * 3 = 12, then 48 * 4 = ?
+
+যদি 24 * 2 = 12, 36 * 3 = 12 হয়, তেন্তে 48 * 4 = ?
+A) 12
+B) 16
+C) 14
+D) 10
+Ans: A
+
+14. If 5 people can build 5 bicycles in 5 days, how many days will 100 people take to build 100 bicycles?
+
+যদি 5 জন মানুহে 5 দিনত 5 খন চাইকেল সাজিব পাৰে, তেন্তে 100 জন মানুহে 100 খন চাইকেল সাজিবলৈ কিমান দিন ল’ব?
+A) 100 days / 100 দিন
+B) 5 days / 5 দিন
+C) 1 day / 1 দিন
+D) 20 days / 20 দিন
+Ans: B
+
+15. Which of the following mathematical operators should replace # to make the equation true? 18 # 3 # 2 = 12
+
+সমীকৰণটো সত্য কৰিবলৈ # ৰ স্থানত কোনবোৰ গাণিতিক চিন বহিব? 18 # 3 # 2 = 12
+A) ÷ and + / ÷ আৰু +
+B) - and + / - আৰু +
+C) ÷ and × / ÷ আৰু ×
+D) + and - / + আৰু -
+Ans: C
+
+16. In a garden, 1/6th of the trees are neem trees, half of the trees are Ashoka trees and the remaining are Eucalyptus trees. If the number of neem trees is 5, how many Eucalyptus trees are there?
+
+এখন উদ্যানত, 1/6 অংশ গছ নিম গছ, আধা অংশ অশোক গছ আৰু বাকীবোৰ ইউকেলিপ্টাছ গছ। যদি নিম গছৰ সংখ্যা 5 জোপা, তেন্তে ইউকেলিপ্টাছ গছ কিমান জোপা আছে?
+A) 15
+B) 8
+C) 12
+D) 10
+Ans: D
+
+17. If A = 1, CAT = 24, then DOG = ?
+
+যদি A = 1, CAT = 24 হয়, তেন্তে DOG = ?
+A) 26
+B) 28
+C) 30
+D) 24
+Ans: A
+
+18. If '+' means '-', '-' means '×', '×' means '÷', and '÷' means '+', then evaluate: 15 × 3 - 4 + 10 ÷ 5
+
+যদি '+' ৰ অৰ্থ '-', '-' ৰ অৰ্থ '×', '×' ৰ অৰ্থ '÷', আৰু '÷' ৰ অৰ্থ '+' হয়, তেন্তে মান নিৰ্ণয় কৰক: 15 × 3 - 4 + 10 ÷ 5
+A) 12
+B) 15
+C) 18
+D) 20
+Ans: B
+
+19. Father is 4 times older than his son. After 20 years, he will be twice as old as his son. What is the present age of the father?
+
+দেউতাকৰ বয়স তেওঁৰ পুতেকৰ বয়সৰ 4 গুণ। 20 বছৰ পিছত, তেওঁ পুতেকৰ বয়সৰ দুগুণ হ'ব। দেউতাকৰ বৰ্তমান বয়স কিমান?
+A) 36 years / 36 বছৰ
+B) 44 years / 44 বছৰ
+C) 40 years / 40 বছৰ
+D) 48 years / 48 বছৰ
+Ans: C
+
+20. If 12 * 4 = 3, 16 * 2 = 8, then 20 * 5 = ?
+
+যদি 12 * 4 = 3, 16 * 2 = 8 হয়, তেন্তে 20 * 5 = ?
+A) 5
+B) 10
+C) 2
+D) 4
+Ans: D
+
+21. If P = 6, J = 4, L = 8, M = 24, then M ÷ L × J + P = ?
+
+যদি P = 6, J = 4, L = 8, M = 24 হয়, তেন্তে M ÷ L × J + P = ?
+A) 18
+B) 16
+C) 20
+D) 22
+Ans: A
+
+22. A fraction becomes 1/3 when 1 is subtracted from the numerator and it becomes 1/4 when 8 is added to its denominator. Find the fraction.
+
+এটা ভগ্নাংশৰ লৱৰ পৰা 1 বিয়োগ কৰিলে ই 1/3 হয় আৰু ইয়াৰ হৰৰ সৈতে 8 যোগ কৰিলে ই 1/4 হয়। ভগ্নাংশটো নিৰ্ণয় কৰক।
+A) 7/12 / 7/12
+B) 5/12 / 5/12
+C) 4/15 / 4/15
+D) 3/11 / 3/11
+Ans: B
+
+23. If 3 + 5 = 16, 4 + 6 = 20, then 5 + 7 = ?
+
+যদি 3 + 5 = 16, 4 + 6 = 20 হয়, তেন্তে 5 + 7 = ?
+A) 22
+B) 26
+C) 24
+D) 28
+Ans: C
+
+24. The sum of three consecutive odd numbers is 57. What is the smallest number?
+
+তিনিটা ক্ৰমাগত অযোগ্ম সংখ্যাৰ যোগফল 57। আটাইতকৈ সৰু সংখ্যাটো কি?
+A) 19
+B) 15
+C) 21
+D) 17
+Ans: D
+
+25. If '+' means '÷', '-' means '×', '×' means '+', and '÷' means '-', then evaluate: 20 ÷ 4 + 2 × 6 - 3
+
+যদি '+' ৰ অৰ্থ '÷', '-' ৰ অৰ্থ '×', '×' ৰ অৰ্থ '+', আৰু '÷' ৰ অৰ্থ '-' হয়, তেন্তে মান নিৰ্ণয় কৰক: 20 ÷ 4 + 2 × 6 - 3
+A) 36
+B) 32
+C) 30
+D) 34
+Ans: A

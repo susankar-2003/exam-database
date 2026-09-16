@@ -1,0 +1,179 @@
+1. If 1st Day of a month is Wednesday, how many Wednesdays will be there in that 31-day month?
+
+যদি এটা মাহৰ 1 তাৰিখ বুধবাৰ হয়, তেন্তে 31 দিনীয়া সেই মাহটোত কেইটা বুধবাৰ থাকিব?
+A) 4
+B) 5
+C) 6
+D) 3
+Ans: B
+
+2. If today is Tuesday, what day will it be after 100 days?
+
+যদি আজি মঙ্গলবাৰ, তেন্তে 100 দিনৰ পিছত কি বাৰ হ’ব?
+A) Thursday / বৃহস্পতিবাৰ
+B) Wednesday / বুধবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Saturday / শনিবাৰ
+Ans: A
+
+3. If 1st January 2000 was Saturday, what was 1st January 2001?
+
+2000 চনৰ 1 জানুৱাৰী যদি শনিবাৰ আছিল, তেন্তে 2001 চনৰ 1 জানুৱাৰী কি বাৰ আছিল?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Wednesday / বুধবাৰ
+Ans: B
+
+4. Which of the following century years is NOT a leap century year?
+
+তলৰ কোনটো শতিকা অধিবৰ্ষ (Leap century year) নহয়?
+A) 1600
+B) 2000
+C) 2400
+D) 1800
+Ans: D
+
+5. What is the day on 14th April 2022?
+
+2022 চনৰ 14 এপ্ৰিলত কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Saturday / শনিবাৰ
+Ans: B
+
+6. On what dates of July 2004 did Monday fall?
+
+2004 চনৰ জুলাই মাহৰ কোন কেইটা তাৰিখে সোমবাৰ পৰিছিল?
+A) 5th, 12th, 19th, 26th / 5, 12, 19, 26
+B) 4th, 11th, 18th, 25th / 4, 11, 18, 25
+C) 6th, 13th, 20th, 27th / 6, 13, 20, 27
+D) 7th, 14th, 21st, 28th / 7, 14, 21, 28
+Ans: A
+
+7. If 12th May 2011 was Thursday, what day was 12th May 2010?
+
+2011 চনৰ 12 মে’ যদি বৃহস্পতিবাৰ আছিল, তেন্তে 2010 চনৰ 12 মে’ কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Tuesday / মঙ্গলবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Friday / শুক্ৰবাৰ
+Ans: A
+
+8. What was the day on 2nd October 1947?
+
+1947 চনৰ 2 অক্টোবৰত কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Saturday / শনিবাৰ
+Ans: B
+
+9. If 26th January 2012 was Thursday, what was 26th January 2011?
+
+2012 চনৰ 26 জানুৱাৰী যদি বৃহস্পতিবাৰ আছিল, তেন্তে 2011 চনৰ 26 জানুৱাৰী কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Tuesday / মঙ্গলবাৰ
+C) Monday / সোমবাৰ
+D) Sunday / দেওবাৰ
+Ans: A
+
+10. How many leap years are there from 1 to 100 AD?
+
+1 ৰ পৰা 100 খ্ৰীষ্টাব্দৰ ভিতৰত কেইটা অধিবৰ্ষ আছে?
+A) 25
+B) 24
+C) 23
+D) 22
+Ans: B
+
+11. If 30th June 2015 was Tuesday, what was 30th June 2014?
+
+2015 চনৰ 30 জুন যদি মঙ্গলবাৰ আছিল, তেন্তে 2014 চনৰ 30 জুন কি বাৰ আছিল?
+A) Monday / সোমবাৰ
+B) Sunday / দেওবাৰ
+C) Saturday / শনিবাৰ
+D) Wednesday / বুধবাৰ
+Ans: A
+
+12. The maximum gap between two successive leap years can be:
+
+দুটা ক্ৰমাগত অধিবৰ্ষৰ ভিতৰত সৰ্বাধিক ব্যৱধান কিমান বছৰ হ’ব পাৰে?
+A) 4 years / 4 বছৰ
+B) 8 years / 8 বছৰ
+C) 2 years / 2 বছৰ
+D) 10 years / 10 বছৰ
+Ans: B
+
+13. What is the minimum gap between two leap years?
+
+দুটা অধিবৰ্ষৰ ভিতৰত নূন্যতম ব্যৱধান কিমান বছৰ?
+A) 1 year / 1 বছৰ
+B) 2 years / 2 বছৰ
+C) 4 years / 4 বছৰ
+D) 8 years / 8 বছৰ
+Ans: C
+
+14. If 15th August 2025 will be Friday, what day was 15th August 2024?
+
+2025 চনৰ 15 আগষ্ট যদি শুক্ৰবাৰ হয়, তেন্তে 2024 চনৰ 15 আগষ্ট কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Saturday / শনিবাৰ
+Ans: B
+
+15. How many odd days are there in 50 weeks?
+
+50 সপ্তাহত অতিৰিক্ত দিনৰ সংখ্যা কিমান?
+A) 0
+B) 1
+C) 2
+D) 5
+Ans: A
+
+16. If 1st day of a non-leap year is Sunday, what is the 365th day of that year?
+
+অধিবৰ্ষ নোহোৱা এটা বছৰৰ 1ম দিনটো যদি দেওবাৰ হয়, তেন্তে সেই বছৰৰ 365 তম দিনটো কি বাৰ হ’ব?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Saturday / শনিবাৰ
+D) Tuesday / মঙ্গলবাৰ
+Ans: A
+
+17. What day of the week was 15th August 1952?
+
+1952 চনৰ 15 আগষ্টত কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: A
+
+18. If 19th July 2019 was Friday, what day was 19th July 2018?
+
+2019 চনৰ 19 জুলাই যদি শুক্ৰবাৰ আছিল, তেন্তে 2018 চনৰ 19 জুলাই কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Saturday / শনিবাৰ
+Ans: B
+
+19. On what day of the week did 31st December 2019 fall?
+
+2019 চনৰ 31 ডিচেম্বৰ কি বাৰ আছিল?
+A) Monday / সোমবাৰ
+B) Tuesday / মঙ্গলবাৰ
+C) Wednesday / বুধবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: B
+
+20. Which year will have the same calendar as 2021?
+
+2021 চনৰ কেলেণ্ডাৰখন কোনটো বছৰৰ সৈতে একে হ’ব?
+A) 2026
+B) 2027
+C) 2032
+D) 2028
+Ans: B

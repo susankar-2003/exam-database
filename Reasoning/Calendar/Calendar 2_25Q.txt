@@ -1,0 +1,224 @@
+1. Which month has the same calendar as January in a non-leap year?
+
+অধিবৰ্ষ নোহোৱা বছৰত জানুৱাৰী মাহৰ কেলেণ্ডাৰ কোনটো মাহৰ সৈতে একে হয়?
+A) April / এপ্ৰিল
+B) October / অক্টোবৰ
+C) July / জুলাই
+D) December / ডিচেম্বৰ
+Ans: B
+
+2. Which month has the same calendar as April in any year?
+
+যিকোনো বছৰতে এপ্ৰিল মাহৰ কেলেণ্ডাৰ কোনটো মাহৰ সৈতে একে হয়?
+A) July / জুলাই
+B) August / আগষ্ট
+C) June / জুন
+D) September / ছেপ্টেম্বৰ
+Ans: A
+
+3. If yesterday was Tuesday, what day will be the day after tomorrow?
+
+যদি কালি মঙ্গলবাৰ আছিল, তেন্তে পৰহি কি বাৰ হ’ব?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: A
+
+4. If 3rd day of a month is Monday, which day will be the 5th day after 21st of that month?
+
+যদি এটা মাহৰ 3 তাৰিখ সোমবাৰ হয়, তেন্তে সেই মাহৰ 21 তাৰিখৰ 5 দিনৰ পিছত কি বাৰ হ’ব?
+A) Tuesday / মঙ্গলবাৰ
+B) Wednesday / বুধবাৰ
+C) Sunday / দেওবাৰ
+D) Monday / সোমবাৰ
+Ans: B
+
+5. How many odd days are there in 200 years?
+
+200 বছৰত অতিৰিক্ত দিন (Odd days) কিমানটা থাকে?
+A) 5
+B) 3
+C) 1
+D) 0
+Ans: B
+
+6. How many odd days are there in 300 years?
+
+300 বছৰত অতিৰিক্ত দিন (Odd days) কিমানটা থাকে?
+A) 5
+B) 3
+C) 1
+D) 0
+Ans: C
+
+7. How many odd days are there in 400 years?
+
+400 বছৰত অতিৰিক্ত দিন (Odd days) কিমানটা থাকে?
+A) 0
+B) 1
+C) 2
+D) 3
+Ans: A
+
+8. What was the day of the week on 28th May 2006?
+
+2006 চনৰ 28 মে’ত কি বাৰ আছিল?
+A) Thursday / বৃহস্পতিবাৰ
+B) Friday / শুক্ৰবাৰ
+C) Saturday / শনিবাৰ
+D) Sunday / দেওবাৰ
+Ans: D
+
+9. What was the day of the week on 17th June 1998?
+
+1998 চনৰ 17 জুনত কি বাৰ আছিল?
+A) Monday / সোমবাৰ
+B) Tuesday / মঙ্গলবাৰ
+C) Wednesday / বুধবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: C
+
+10. The year next to 1990 which will have the same calendar as 1990 is:
+
+1990 চনৰ পিছৰ কোনটো বছৰৰ কেলেণ্ডাৰ 1990 চনৰ সৈতে একে হ’ব?
+A) 1996
+B) 2001
+C) 2002
+D) 1997
+Ans: B
+
+11. If 1st day of a non-leap year is Friday, what will be the last day of that year?
+
+অধিবৰ্ষ নোহোৱা এটা বছৰৰ প্ৰথম দিনটো যদি শুক্ৰবাৰ হয়, তেন্তে শেষৰ দিনটো কি বাৰ হ’ব?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Sunday / দেওবাৰ
+Ans: A
+
+12. If 1st day of a leap year is Friday, what will be the last day of that year?
+
+এটা অধিবৰ্ষৰ (Leap year) প্ৰথম দিনটো যদি শুক্ৰবাৰ হয়, তেন্তে শেষৰ দিনটো কি বাৰ হ’ব?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: B
+
+13. If 5th of a month falls on Tuesday, what day will be 3 days after 22nd of that month?
+
+যদি এটা মাহৰ 5 তাৰিখ মঙ্গলবাৰ হয়, তেন্তে 22 তাৰিখৰ 3 দিনৰ পিছত কি বাৰ হ’ব?
+A) Monday / সোমবাৰ
+B) Tuesday / মঙ্গলবাৰ
+C) Wednesday / বুধবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: B
+
+14. If 10th November 2013 was Sunday, what was the day on 10th November 2012?
+
+2013 চনৰ 10 নৱেম্বৰ দেওবাৰ হ’লে, 2012 চনৰ 10 নৱেম্বৰ কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Monday / সোমবাৰ
+Ans: B
+
+15. If today is Friday, what day was it 42 days ago?
+
+যদি আজি শুক্ৰবাৰ, তেন্তে 42 দিনৰ আগতে কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Sunday / দেওবাৰ
+Ans: A
+
+16. Which of the following is NOT a leap year?
+
+তলৰ কোনটো অধিবৰ্ষ (Leap year) নহয়?
+A) 700
+B) 800
+C) 1200
+D) 2000
+Ans: A
+
+17. How many days are there from 26th January 2008 to 15th May 2008 (both days included)?
+
+2008 চনৰ 26 জানুৱাৰীৰ পৰা 15 মে’লৈ মুঠ কেইদিন (উভয় দিন সামৰি)?
+A) 110
+B) 111
+C) 112
+D) 113
+Ans: B
+
+18. Suresh was born on 4th October 1999. Shashikanth was born 6 days before Suresh. The Independence Day of that year fell on Sunday. On which day was Shashikanth born?
+
+সুৰেশৰ জন্ম 4 অক্টোবৰ 1999 চনত হৈছিল। শশিকান্তৰ জন্ম সুৰেশতকৈ 6 দিন আগতে হৈছিল। সেই বছৰৰ স্বাধীনতা দিৱস দেওবাৰে পৰিছিল। শশিকান্তৰ জন্ম কি বাৰত হৈছিল?
+A) Tuesday / মঙ্গলবাৰ
+B) Wednesday / বুধবাৰ
+C) Monday / সোমবাৰ
+D) Sunday / দেওবাৰ
+Ans: B
+
+19. If day before yesterday was Thursday, when will Sunday be?
+
+যদি পৰহি বৃহস্পতিবাৰ আছিল, তেন্তে দেওবাৰ কেতিয়া হ’ব?
+A) Today / আজি
+B) Tomorrow / কালিলৈ
+C) Day after tomorrow / পৰহিলৈ
+D) Two days after tomorrow / কালিলৈৰ দুদিন পিছত
+Ans: B
+
+20. If the first day of a leap year is Monday, then what will be the day on 31st December of that year?
+
+এটা অধিবৰ্ষৰ প্ৰথম দিনটো যদি সোমবাৰ হয়, তেন্তে সেই বছৰৰ 31 ডিচেম্বৰত কি বাৰ হ’ব?
+A) Monday / সোমবাৰ
+B) Tuesday / মঙ্গলবাৰ
+C) Wednesday / বুধবাৰ
+D) Sunday / দেওবাৰ
+Ans: B
+
+21. What day of the week was 31st December 2000?
+
+2000 চনৰ 31 ডিচেম্বৰত কি বাৰ আছিল?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Saturday / শনিবাৰ
+D) Tuesday / মঙ্গলবাৰ
+Ans: A
+
+22. What day of the week was 1st January 2010?
+
+2010 চনৰ 1 জানুৱাৰীত কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Wednesday / বুধবাৰ
+Ans: A
+
+23. If 15th July 1964 was Wednesday, what was the day on 15th July 1965?
+
+1964 চনৰ 15 জুলাই যদি বুধবাৰ আছিল, তেন্তে 1965 চনৰ 15 জুলাই কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Saturday / শনিবাৰ
+Ans: B
+
+24. On what dates of March 2005 did Friday fall?
+
+2005 চনৰ মাৰ্চ মাহৰ কোন কেইটা তাৰিখে শুক্ৰবাৰ পৰিছিল?
+A) 4th, 11th, 18th, 25th / 4, 11, 18, 25
+B) 5th, 12th, 19th, 26th / 5, 12, 19, 26
+C) 6th, 13th, 20th, 27th / 6, 13, 20, 27
+D) 7th, 14th, 21st, 28th / 7, 14, 21, 28
+Ans: A
+
+25. The calendar of 2011 will be repeated in the year:
+
+2011 চনৰ কেলেণ্ডাৰখন কোনটো বছৰত পুনৰাবৃত্তি হ’ব?
+A) 2017
+B) 2022
+C) 2023
+D) 2018
+Ans: B

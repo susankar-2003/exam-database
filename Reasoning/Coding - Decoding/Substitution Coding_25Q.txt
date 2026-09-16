@@ -1,0 +1,224 @@
+1. If 'P' represents 'x', 'R' represents '+', 'T' represents '÷', and 'S' represents '-', then what is the value of 18 T 3 P 9 R 8 S 6?
+
+যদি 'P' ৰ অৰ্থ 'x', 'R' ৰ অৰ্থ '+', 'T' ৰ অৰ্থ '÷', আৰু 'S' ৰ অৰ্থ '-' হয়, তেন্তে 18 T 3 P 9 R 8 S 6 ৰ মান কি হ'ব?
+A) 54
+B) 56
+C) 48
+D) 62
+Ans: B
+
+2. In a direct substitution code, 'S' is written as '*', 'E' as '#', 'A' as '@', and 'T' as '$'. How is 'SEAT' written in that code?
+
+এটা প্ৰত্যক্ষ প্ৰতিস্থাপন ক'ডত, 'S' ক '*', 'E' ক '#', 'A' ক '@', আৰু 'T' ক '$' বুলি লিখা হয়। সেই ক'ডত 'SEAT' কেনেকৈ লিখা হ'ব?
+A) *@#$
+B) *@$#
+C) #*@$
+D) @*$#
+Ans: A
+
+3. If '+' means '÷', '-' means 'x', '÷' means '+', and 'x' means '-', then what is the value of 36 x 12 + 4 - 6 ÷ 2?
+
+যদি '+' মানে '÷', '-' মানে 'x', '÷' মানে '+', আৰু 'x' মানে '-' হয়, তেন্তে 36 x 12 + 4 - 6 ÷ 2 ৰ মান কি হ'ব?
+A) 18
+B) 24
+C) 20
+D) 16
+Ans: C
+
+4. If 'P' means 'divided by', 'R' means 'multiplied by', 'T' means 'added to', and 'W' means 'subtracted from', then 60 P 10 R 3 T 6 W 4 = ?
+
+যদি 'P' ৰ অৰ্থ 'হৰণ', 'R' ৰ অৰ্থ 'পূৰণ', 'T' ৰ অৰ্থ 'যোগ', আৰু 'W' ৰ অৰ্থ 'বিয়োগ' হয়, তেন্তে 60 P 10 R 3 T 6 W 4 = ?
+A) 24
+B) 18
+C) 22
+D) 20
+Ans: D
+
+5. In a substitution code, 'GIVE' is coded as '5137' and 'BAT' is coded as '924'. How is 'GATE' coded in that system?
+
+এটা প্ৰতিস্থাপন ক'ডত, 'GIVE' ক '5137' আৰু 'BAT' ক '924' বুলি ক'ড কৰা হৈছে। সেই প্ৰণালীত 'GATE' কেনেকৈ ক'ড কৰা হ'ব?
+A) 5247
+B) 5427
+C) 5274
+D) 2547
+Ans: A
+
+6. If A = $, B = *, E = %, and D = #, how is 'ABED' written using these substitution symbols?
+
+যদি A = $, B = *, E = %, আৰু D = # হয়, তেন্তে এই প্ৰতিস্থাপন চিহ্নসমূহ ব্যৱহাৰ কৰি 'ABED' কেনেকৈ লিখা হ'ব?
+A) *$%#
+B) $*%#
+C) @*%#
+D) $#%*
+Ans: B
+
+7. If 'Q' means 'add to', 'J' means 'multiply by', 'T' means 'subtract from', and 'K' means 'divide by', then 30 K 2 Q 3 J 6 T 5 = ?
+
+যদি 'Q' মানে 'যোগ কৰা', 'J' মানে 'পূৰণ কৰা', 'T' মানে 'বিয়োগ কৰা', আৰু 'K' মানে 'হৰণ কৰা' হয়, তেন্তে 30 K 2 Q 3 J 6 T 5 = ?
+A) 30
+B) 25
+C) 28
+D) 32
+Ans: C
+
+8. If '+' means '-', '-' means 'x', 'x' means '÷', and '÷' means '+', then 15 x 3 ÷ 4 - 6 + 7 = ?
+
+যদি '+' মানে '-', '-' মানে 'x', 'x' মানে '÷', আৰু '÷' মানে '+' হয়, তেন্তে 15 x 3 ÷ 4 - 6 + 7 = ?
+A) 25
+B) 20
+C) 28
+D) 22
+Ans: D
+
+9. In a direct substitution code, 'STARE' is coded as '59172' and 'LATE' is coded as '3192'. How is 'TEAR' coded?
+
+এটা প্ৰত্যক্ষ প্ৰতিস্থাপন ক'ডত, 'STARE' ক '59172' আৰু 'LATE' ক '3192' বুলি ক'ড কৰা হয়। 'TEAR' কেনেকৈ ক'ড কৰা হ'ব?
+A) 9217
+B) 9127
+C) 9271
+D) 5217
+Ans: A
+
+10. If L stands for '+', M stands for '-', N stands for 'x', and P stands for '÷', then 14 N 10 L 42 P 2 M 8 = ?
+
+যদি L মানে '+', M মানে '-', N মানে 'x', আৰু P মানে '÷' হয়, তেন্তে 14 N 10 L 42 P 2 M 8 = ?
+A) 145
+B) 153
+C) 160
+D) 150
+Ans: B
+
+11. If 'A' is substituted by '1', 'B' by '2', 'C' by '3', and so on, what is the substituted code for 'CAB'?
+
+যদি 'A' ক '1', 'B' ক '2', 'C' ক '3', আদিৰে প্ৰতিস্থাপন কৰা হয়, তেন্তে 'CAB' ৰ প্ৰতিস্থাপিত ক'ড কি হ'ব?
+A) 123
+B) 213
+C) 312
+D) 321
+Ans: C
+
+12. If 'x' means '+', '÷' means '-', '+' means 'x', and '-' means '÷', then 20 - 4 x 5 + 2 ÷ 6 = ?
+
+যদি 'x' মানে '+', '÷' মানে '-', '+' মানে 'x', আৰু '-' মানে '÷' হয়, তেন্তে 20 - 4 x 5 + 2 ÷ 6 = ?
+A) 11
+B) 8
+C) 10
+D) 9
+Ans: D
+
+13. In a substitution code language, 'RIPPLE' is written as 613382 and 'LIFE' is written as 8192. How is 'PIER' written in that code?
+
+এটা প্ৰতিস্থাপন ক'ড ভাষাত, 'RIPPLE' ক 613382 আৰু 'LIFE' ক 8192 বুলি লিখা হয়। সেই ক'ডত 'PIER' কেনেকৈ লিখা হ'ব?
+A) 3126
+B) 3216
+C) 3162
+D) 6123
+Ans: A
+
+14. If 'P' denotes '÷', 'Q' denotes 'x', 'R' denotes '+', and 'S' denotes '-', then 18 Q 12 P 4 R 5 S 6 = ?
+
+যদি 'P' এ '÷', 'Q' এ 'x', 'R' এ '+', আৰু 'S' এ '-' বুজায়, তেন্তে 18 Q 12 P 4 R 5 S 6 = ?
+A) 55
+B) 53
+C) 50
+D) 57
+Ans: B
+
+15. If '+' stands for 'subtraction', '-' stands for 'multiplication', 'x' stands for 'division', and '÷' stands for 'addition', then 18 ÷ 6 x 3 + 2 - 5 = ?
+
+যদি '+' ৰ অৰ্থ 'বিয়োগ', '-' ৰ অৰ্থ 'পূৰণ', 'x' ৰ অৰ্থ 'হৰণ', আৰু '÷' ৰ অৰ্থ 'যোগ' হয়, তেন্তে 18 ÷ 6 x 3 + 2 - 5 = ?
+A) 15
+B) 12
+C) 10
+D) 8
+Ans: C
+
+16. If DELHI is substituted as 73541 and CALCUTTA as 82589662, how is CALICUT substituted?
+
+যদি DELHI ক 73541 আৰু CALCUTTA ক 82589662 হিচাপে প্ৰতিস্থাপন কৰা হয়, তেন্তে CALICUT ক কেনেকৈ প্ৰতিস্থাপন কৰা হ'ব?
+A) 8251869
+B) 8521896
+C) 8251986
+D) 8251896
+Ans: D
+
+17. If 'A' represents '+', 'B' represents '-', 'C' represents 'x', and 'D' represents '÷', then 16 C 12 D 4 A 5 B 3 = ?
+
+যদি 'A' এ '+', 'B' এ '-', 'C' এ 'x', আৰু 'D' এ '÷' বুজায়, তেন্তে 16 C 12 D 4 A 5 B 3 = ?
+A) 50
+B) 48
+C) 52
+D) 45
+Ans: A
+
+18. In a certain substitution code, '24578' is coded as 'VIOLT' and '1936' is coded as 'URGE'. How is '85436' coded?
+
+এটা নিৰ্দিষ্ট প্ৰতিস্থাপন ক'ডত, '24578' ক 'VIOLT' আৰু '1936' ক 'URGE' বুলি ক'ড কৰা হয়। '85436' ক কেনেকৈ ক'ড কৰা হ'ব?
+A) TLIEG
+B) TLIGE
+C) TILEG
+D) TGILE
+Ans: B
+
+19. If '-' stands for '÷', '+' stands for 'x', '÷' stands for '-', and 'x' stands for '+', then 12 - 4 + 8 ÷ 6 x 4 = ?
+
+যদি '-' ৰ অৰ্থ '÷', '+' ৰ অৰ্থ 'x', '÷' ৰ অৰ্থ '-', আৰু 'x' ৰ অৰ্থ '+' হয়, তেন্তে 12 - 4 + 8 ÷ 6 x 4 = ?
+A) 20
+B) 24
+C) 22
+D) 26
+Ans: C
+
+20. In a code, 'E' is substituted by '5', and letters are coded according to their alphabetical positions. What is the substitute code for 'BED'?
+
+এটা ক'ডত, 'E' ক '5' ৰে প্ৰতিস্থাপন কৰা হৈছে, আৰু আখৰবোৰক বৰ্ণমালাৰ অৱস্থান অনুসৰি ক'ড কৰা হৈছে। 'BED' ৰ প্ৰতিস্থাপিত ক'ড কি হ'ব?
+A) 245
+B) 255
+C) 253
+D) 254
+Ans: D
+
+21. If 'K' means 'minus', 'L' means 'divided by', 'M' means 'plus', and 'D' means 'multiplied by', then 117 L 3 K 5 M 12 D 8 = ?
+
+যদি 'K' মানে 'বিয়োগ', 'L' মানে 'হৰণ', 'M' মানে 'যোগ', আৰু 'D' মানে 'পূৰণ' হয়, তেন্তে 117 L 3 K 5 M 12 D 8 = ?
+A) 130
+B) 125
+C) 135
+D) 140
+Ans: A
+
+22. In a substitution code, 'CLEAR' is coded as '12345' and 'SPARE' is coded as '67453'. What is the code for 'PEARL'?
+
+এটা প্ৰতিস্থাপন ক'ডত, 'CLEAR' ক '12345' আৰু 'SPARE' ক '67453' বুলি ক'ড কৰা হয়। 'PEARL' ৰ ক'ড কি হ'ব?
+A) 74352
+B) 73452
+C) 73542
+D) 73425
+Ans: B
+
+23. If '+' means 'x', '-' means '+', 'x' means '÷', and '÷' means '-', then 6 x 2 + 5 - 8 ÷ 4 = ?
+
+যদি '+' মানে 'x', '-' মানে '+', 'x' মানে '÷', আৰু '÷' মানে '-' হয়, তেন্তে 6 x 2 + 5 - 8 ÷ 4 = ?
+A) 17
+B) 18
+C) 19
+D) 20
+Ans: C
+
+24. If 'R' stands for 'subtraction', 'A' stands for 'addition', 'B' stands for 'division', and 'C' stands for 'multiplication', then 25 B 5 C 2 A 3 R 4 = ?
+
+যদি 'R' ৰ অৰ্থ 'বিয়োগ', 'A' ৰ অৰ্থ 'যোগ', 'B' ৰ অৰ্থ 'হৰণ', আৰু 'C' ৰ অৰ্থ 'পূৰণ' হয়, তেন্তে 25 B 5 C 2 A 3 R 4 = ?
+A) 11
+B) 10
+C) 8
+D) 9
+Ans: D
+
+25. In a code, 'T' is coded as '1', 'R' as '2', 'E' as '3', 'A' as '4', and 'S' as '5'. How is 'STARE' coded in that system?
+
+এটা ক'ডত, 'T' ক '1', 'R' ক '2', 'E' ক '3', 'A' ক '4', আৰু 'S' ক '5' হিচাপে ক'ড কৰা হৈছে। সেই প্ৰণালীত 'STARE' ক কেনেকৈ ক'ড কৰা হ'ব?
+A) 51423
+B) 51243
+C) 54123
+D) 51432
+Ans: A

@@ -1,0 +1,224 @@
+1. The calendar of 2005 will be repeated in the year:
+
+2005 চনৰ কেলেণ্ডাৰখন কোনটো বছৰত পুনৰাবৃত্তি হ’ব?
+A) 2010
+B) 2011
+C) 2012
+D) 2013
+Ans: B
+
+2. The calendar of 2016 will be repeated in the year:
+
+2016 চনৰ কেলেণ্ডাৰখন কোনটো বছৰত পুনৰাবৃত্তি হ’ব?
+A) 2040
+B) 2042
+C) 2044
+D) 2048
+Ans: C
+
+3. If 2nd February 2019 was Saturday, then 4th October 2019 was:
+
+2019 চনৰ 2 ফেব্ৰুৱাৰী যদি শনিবাৰ আছিল, তেন্তে 2019 চনৰ 4 অক্টোবৰ কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Monday / সোমবাৰ
+Ans: A
+
+4. How many maximum days can be there in a month?
+
+এটা মাহত সৰ্বাধিক কিমান দিন থাকিব পাৰে?
+A) 28
+B) 29
+C) 30
+D) 31
+Ans: D
+
+5. How many minimum days can be there in a month?
+
+এটা মাহত নূন্যতম কিমান দিন থাকিব পাৰে?
+A) 28
+B) 29
+C) 30
+D) 31
+Ans: A
+
+6. X is 312 days older than Y, while Z is 56 weeks older than X. If Z was born on Tuesday, on which day was Y born?
+
+X, Y তকৈ 312 দিন ডাঙৰ, আনহাতে Z, X তকৈ 56 সপ্তাহ ডাঙৰ। যদি Z ৰ জন্ম মঙ্গলবাৰে হৈছিল, তেন্তে Y ৰ জন্ম কি বাৰত হৈছিল?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Wednesday / বুধবাৰ
+Ans: D
+
+7. If the 3rd of a month is Friday, which day will be the 4th day after the 21st of that month?
+
+যদি এটা মাহৰ 3 তাৰিখ শুক্ৰবাৰ হয়, তেন্তে 21 তাৰিখৰ 4 দিনৰ পিছত কি বাৰ হ’ব?
+A) Saturday / শনিবাৰ
+B) Sunday / দেওবাৰ
+C) Monday / সোমবাৰ
+D) Tuesday / মঙ্গলবাৰ
+Ans: B
+
+8. What was the day of the week on 15th August 1950?
+
+1950 চনৰ 15 আগষ্টত কি বাৰ আছিল?
+A) Tuesday / মঙ্গলবাৰ
+B) Wednesday / বুধবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Friday / শুক্ৰবাৰ
+Ans: A
+
+9. What was the day of the week on 26th January 1947?
+
+1947 চনৰ 26 জানুৱাৰীত কি বাৰ আছিল?
+A) Sunday / দেওবাৰ
+B) Monday / সোমবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Wednesday / বুধবাৰ
+Ans: A
+
+10. If 1st January 2016 was Friday, what was the day on 31st December 2016?
+
+2016 চনৰ 1 জানুৱাৰী যদি শুক্ৰবাৰ আছিল, তেন্তে 2016 চনৰ 31 ডিচেম্বৰত কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Monday / সোমবাৰ
+Ans: B
+
+11. What day of the week was 2nd October 1900?
+
+1900 চনৰ 2 অক্টোবৰত কি বাৰ আছিল?
+A) Monday / সোমবাৰ
+B) Tuesday / মঙ্গলবাৰ
+C) Wednesday / বুধবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: B
+
+12. What day of the week was 1st January 1901?
+
+1901 চনৰ 1 জানুৱাৰীত কি বাৰ আছিল?
+A) Monday / সোমবাৰ
+B) Tuesday / মঙ্গলবাৰ
+C) Wednesday / বুধবাৰ
+D) Sunday / দেওবাৰ
+Ans: B
+
+13. Which two months in an ordinary year have the same calendar?
+
+সাধাৰণ বছৰত কোন দুটা মাহৰ কেলেণ্ডাৰ একে হয়?
+A) April and July / এপ্ৰিল আৰু জুলাই
+B) January and February / জানুৱাৰী আৰু ফেব্ৰুৱাৰী
+C) June and October / জুন আৰু অক্টোবৰ
+D) May and August / মে’ আৰু আগষ্ট
+Ans: A
+
+14. Which two months in a leap year have the same calendar?
+
+অধিবৰ্ষত কোন দুটা মাহৰ কেলেণ্ডাৰ একে হয়?
+A) January and April / জানুৱাৰী আৰু এপ্ৰিল
+B) March and August / মাৰ্চ আৰু আগষ্ট
+C) February and November / ফেব্ৰুৱাৰী আৰু নৱেম্বৰ
+D) May and November / মে’ আৰু নৱেম্বৰ
+Ans: A
+
+15. If the day after tomorrow is Sunday, what was the day before yesterday?
+
+যদি পৰহিলৈ দেওবাৰ হয়, তেন্তে পৰহি কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Monday / সোমবাৰ
+Ans: A
+
+16. If 10th March 2001 was Saturday, what was the day on 10th March 2003?
+
+2001 চনৰ 10 মাৰ্চ যদি শনিবাৰ আছিল, তেন্তে 2003 চনৰ 10 মাৰ্চ কি বাৰ আছিল?
+A) Monday / সোমবাৰ
+B) Sunday / দেওবাৰ
+C) Tuesday / মঙ্গলবাৰ
+D) Wednesday / বুধবাৰ
+Ans: A
+
+17. If 15th August 2011 was Monday, what was the day on 15th August 2012?
+
+2011 চনৰ 15 আগষ্ট যদি সোমবাৰ আছিল, তেন্তে 2012 চনৰ 15 আগষ্ট কি বাৰ আছিল?
+A) Tuesday / মঙ্গলবাৰ
+B) Wednesday / বুধবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Friday / শুক্ৰবাৰ
+Ans: B
+
+18. How many leap years are there between 2001 and 2100?
+
+2001 ৰ পৰা 2100 ৰ ভিতৰত কেইটা অধিবৰ্ষ (Leap year) আছে?
+A) 24
+B) 25
+C) 26
+D) 23
+Ans: A
+
+19. If 20th November 1989 was Monday, what was the day on 20th November 1988?
+
+1989 চনৰ 20 নৱেম্বৰ যদি সোমবাৰ আছিল, তেন্তে 1988 চনৰ 20 নৱেম্বৰ কি বাৰ আছিল?
+A) Sunday / দেওবাৰ
+B) Saturday / শনিবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Monday / সোমবাৰ
+Ans: A
+
+20. What was the day of the week on 1st January 2000?
+
+2000 চনৰ 1 জানুৱাৰীত কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Monday / সোমবাৰ
+Ans: B
+
+21. If 14th February 2012 was Tuesday, what was the day on 14th February 2013?
+
+2012 চনৰ 14 ফেব্ৰুৱাৰী যদি মঙ্গলবাৰ আছিল, তেন্তে 2013 চনৰ 14 ফেব্ৰুৱাৰী কি বাৰ আছিল?
+A) Wednesday / বুধবাৰ
+B) Thursday / বৃহস্পতিবাৰ
+C) Friday / শুক্ৰবাৰ
+D) Saturday / শনিবাৰ
+Ans: B
+
+22. If 1st day of a year (other than leap year) was Friday, then which was the last day of that year?
+
+অধিবৰ্ষৰ বাহিৰে এটা বছৰৰ প্ৰথম দিনটো যদি শুক্ৰবাৰ আছিল, তেন্তে সেই বছৰৰ শেষৰ দিনটো কি আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: A
+
+23. If 23rd July 1980 was Wednesday, what was the day on 23rd July 1988?
+
+1980 চনৰ 23 জুলাই যদি বুধবাৰ আছিল, তেন্তে 1988 চনৰ 23 জুলাই কি বাৰ আছিল?
+A) Friday / শুক্ৰবাৰ
+B) Saturday / শনিবাৰ
+C) Sunday / দেওবাৰ
+D) Thursday / বৃহস্পতিবাৰ
+Ans: B
+
+24. If the 1st of a month is Friday, then what will be the 4th day after the 20th of that month?
+
+যদি এটা মাহৰ 1 তাৰিখ শুক্ৰবাৰ হয়, তেন্তে 20 তাৰিখৰ 4 দিনৰ পিছত কি বাৰ হ’ব?
+A) Saturday / শনিবাৰ
+B) Sunday / দেওবাৰ
+C) Monday / সোমবাৰ
+D) Tuesday / মঙ্গলবাৰ
+Ans: B
+
+25. What will be the total number of odd days in 100 years?
+
+100 বছৰত মুঠ অতিৰিক্ত দিনৰ সংখ্যা কিমান হ’ব?
+A) 5
+B) 3
+C) 1
+D) 0
+Ans: A

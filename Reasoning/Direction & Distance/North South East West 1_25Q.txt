@@ -1,0 +1,224 @@
+1. A person walks 5 km towards East, turns left and walks 5 km. In which direction is he with respect to his starting point?
+
+এজন ব্যক্তিয়ে পূবলৈ 5 কিমি খোজ কাঢ়ে, বাওঁফালে ঘূৰি 5 কিমি যায়। আৰম্ভণি স্থানৰ সাপেক্ষে তেওঁ কোন দিশত আছে?
+A) North / উত্তৰ
+B) East / পূব
+C) North-East / উত্তৰ-পূব
+D) South-East / দক্ষিণ-পূব
+Ans: C
+
+2. A man walks 6 km South, turns left and walks 8 km. In which direction is his starting point from his current position?
+
+এজন মানুহ দক্ষিণলৈ 6 কিমি যায়, বাওঁফালে ঘূৰি 8 কিমি যায়। তেওঁৰ বৰ্তমান অৱস্থানৰ পৰা আৰম্ভণি স্থানটো কোন দিশত আছে?
+A) North-West / উত্তৰ-পশ্চিম
+B) South-East / দক্ষিণ-পূব
+C) North-East / উত্তৰ-পূব
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: A
+
+3. Town A is to the West of Town B. Town C is to the North of Town A. In which direction is Town C with respect to Town B?
+
+A নগৰখন B নগৰৰ পশ্চিমে অৱস্থিত। C নগৰখন A নগৰৰ উত্তৰে অৱস্থিত। B নগৰৰ সাপেক্ষে C নগৰখন কোন দিশত আছে?
+A) South-East / দক্ষিণ-পূব
+B) North-West / উত্তৰ-পশ্চিম
+C) North-East / উত্তৰ-পূব
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: B
+
+4. A person walks 10 meters North, then 10 meters East, then 10 meters South. How far and in which direction is he from his starting point?
+
+এজন ব্যক্তি উত্তৰলৈ 10 মিটাৰ, তাৰ পিছত পূবলৈ 10 মিটাৰ, আৰু তাৰ পিছত দক্ষিণলৈ 10 মিটাৰ খোজ কাঢ়ে। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আৰু কোন দিশত আছে?
+A) 10 meters West / 10 মিটাৰ পশ্চিম
+B) 10 meters East / 10 মিটাৰ পূব
+C) 20 meters East / 20 মিটাৰ পূব
+D) 10 meters North / 10 মিটাৰ উত্তৰ
+Ans: B
+
+5. Rahul walks 12 km towards West, then turns right and walks 5 km. In which direction is he from his starting point?
+
+ৰাহুলে পশ্চিমলৈ 12 কিমি খোজ কাঢ়ে, তাৰ পিছত সোঁফালে ঘূৰি 5 কিমি যায়। আৰম্ভণি স্থানৰ পৰা তেওঁ কোন দিশত আছে?
+A) South-West / দক্ষিণ-পশ্চিম
+B) North-West / উত্তৰ-পশ্চিম
+C) North-East / উত্তৰ-পূব
+D) South-East / দক্ষিণ-পূব
+Ans: B
+
+6. A boy walks 15 meters South, turns right and walks 15 meters, then turns right again and walks 15 meters. How far is he from his starting point?
+
+এটা ল'ৰাই দক্ষিণলৈ 15 মিটাৰ খোজ কাঢ়ে, সোঁফালে ঘূৰি 15 মিটাৰ যায়, তাৰ পিছত পুনৰ সোঁফালে ঘূৰি 15 মিটাৰ যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 15 meters / 15 মিটাৰ
+B) 30 meters / 30 মিটাৰ
+C) 45 meters / 45 মিটাৰ
+D) 0 meters / 0 মিটাৰ
+Ans: A
+
+7. House P is to the South of House Q. House R is to the West of House P. In which direction is House Q with respect to House R?
+
+P ঘৰটো Q ঘৰৰ দক্ষিণে অৱস্থিত। R ঘৰটো P ঘৰৰ পশ্চিমে অৱস্থিত। R ঘৰৰ সাপেক্ষে Q ঘৰটো কোন দিশত আছে?
+A) South-West / দক্ষিণ-পশ্চিম
+B) North-West / উত্তৰ-পশ্চিম
+C) North-East / উত্তৰ-পূব
+D) South-East / দক্ষিণ-পূব
+Ans: C
+
+8. A driver goes 20 km North, turns left and goes 30 km, then turns left again and goes 20 km. How far is he from his starting point?
+
+এজন চালকে উত্তৰলৈ 20 কিমি যায়, বাওঁফালে ঘূৰি 30 কিমি যায়, তাৰ পিছত পুনৰ বাওঁফালে ঘূৰি 20 কিমি যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 20 km / 20 কিমি
+B) 30 km / 30 কিমি
+C) 50 km / 50 কিমি
+D) 70 km / 70 কিমি
+Ans: B
+
+9. A person walks 8 km towards East, turns South and walks 6 km. In which direction is he facing now?
+
+এজন ব্যক্তিয়ে পূবলৈ 8 কিমি খোজ কাঢ়ে, দক্ষিণলৈ ঘূৰি 6 কিমি যায়। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) East / পূব
+B) South / দক্ষিণ
+C) North / উত্তৰ
+D) West / পশ্চিম
+Ans: B
+
+10. Point X is 5 km East of Point Y. Point Z is 5 km South of Point X. In which direction is Point Y with respect to Point Z?
+
+X বিন্দু Y বিন্দুৰ পূবে 5 কিমি দূৰত। Z বিন্দু X বিন্দুৰ দক্ষিণে 5 কিমি দূৰত। Z বিন্দুৰ সাপেক্ষে Y বিন্দু কোন দিশত আছে?
+A) North-West / উত্তৰ-পশ্চিম
+B) South-East / দক্ষিণ-পূব
+C) North-East / উত্তৰ-পূব
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: A
+
+11. A man walks 4 km North, turns East and walks 4 km, then turns South and walks 4 km. What is his position relative to the starting point?
+
+এজন মানুহ উত্তৰলৈ 4 কিমি যায়, পূবলৈ ঘূৰি 4 কিমি যায়, তাৰ পিছত দক্ষিণলৈ ঘূৰি 4 কিমি যায়। আৰম্ভণি স্থানৰ সাপেক্ষে তেওঁৰ অৱস্থান কি?
+A) 4 km West / 4 কিমি পশ্চিম
+B) 4 km East / 4 কিমি পূব
+C) 4 km North / 4 কিমি উত্তৰ
+D) At starting point / আৰম্ভণি স্থানত
+Ans: B
+
+12. If A is to the South of B, and C is to the East of B, in which direction is A with respect to C?
+
+যদি A, B ৰ দক্ষিণে অৱস্থিত আৰু C, B ৰ পূবে অৱস্থিত, তেন্তে C ৰ সাপেক্ষে A কোন দিশত আছে?
+A) North-East / উত্তৰ-পূব
+B) South-East / দক্ষিণ-পূব
+C) South-West / দক্ষিণ-পশ্চিম
+D) North-West / উত্তৰ-পশ্চিম
+Ans: C
+
+13. A cyclist travels 10 km East, turns right and travels 10 km, then turns right again and travels 10 km. Where is he relative to his starting point?
+
+এজন চাইকেল আৰোহীয়ে পূবলৈ 10 কিমি যায়, সোঁফালে ঘূৰি 10 কিমি যায়, তাৰ পিছত পুনৰ সোঁফালে ঘূৰি 10 কিমি যায়। আৰম্ভণি স্থানৰ সাপেক্ষে তেওঁ ক'ত আছে?
+A) 10 km North / 10 কিমি উত্তৰ
+B) 10 km South / 10 কিমি দক্ষিণ
+C) 10 km East / 10 কিমি পূব
+D) 10 km West / 10 কিমি পশ্চিম
+Ans: B
+
+14. City K is to the East of City L. City M is to the South of City K. In which direction is City L with respect to City M?
+
+K ছহৰখন L ছহৰৰ পূবে অৱস্থিত। M ছহৰখন K ছহৰৰ দক্ষিণে অৱস্থিত। M ছহৰৰ সাপেক্ষে L ছহৰখন কোন দিশত আছে?
+A) North-West / উত্তৰ-পশ্চিম
+B) South-East / দক্ষিণ-পূব
+C) North-East / উত্তৰ-পূব
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: A
+
+15. A woman walks 7 km South, turns West and walks 7 km, then turns North and walks 7 km. How far and in which direction is she from her starting point?
+
+এগৰাকী মহিলাই দক্ষিণলৈ 7 কিমি খোজ কাঢ়ে, পশ্চিমলৈ ঘূৰি 7 কিমি যায়, তাৰ পিছত উত্তৰলৈ ঘূৰি 7 কিমি যায়। আৰম্ভণি স্থানৰ পৰা তেওঁ কিমান দূৰত আৰু কোন দিশত আছে?
+A) 7 km East / 7 কিমি পূব
+B) 7 km West / 7 কিমি পশ্চিম
+C) 14 km West / 14 কিমি পশ্চিম
+D) 7 km South / 7 কিমি দক্ষিণ
+Ans: B
+
+16. Point M is to the North of Point N, and Point O is to the East of Point M. In which direction is Point N with respect to Point O?
+
+M বিন্দু N বিন্দুৰ উত্তৰে অৱস্থিত, আৰু O বিন্দু M বিন্দুৰ পূবে অৱস্থিত। O বিন্দুৰ সাপেক্ষে N বিন্দু কোন দিশত আছে?
+A) North-East / উত্তৰ-পূব
+B) South-East / দক্ষিণ-পূব
+C) South-West / দক্ষিণ-পশ্চিম
+D) North-West / উত্তৰ-পশ্চিম
+Ans: C
+
+17. A person walks 3 km North, 3 km West, and then 3 km South. How far is the person from the starting point?
+
+এজন ব্যক্তি উত্তৰলৈ 3 কিমি, পশ্চিমলৈ 3 কিমি, আৰু তাৰ পিছত দক্ষিণলৈ 3 কিমি খোজ কাঢ়ে। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 3 km / 3 কিমি
+B) 6 km / 6 কিমি
+C) 9 km / 9 কিমি
+D) 0 km / 0 কিমি
+Ans: A
+
+18. Amit drives 15 km West, turns South and drives 10 km, then turns East and drives 15 km. In which direction is he now with respect to his starting point?
+
+অমিতে পশ্চিমলৈ 15 কিমি গাড়ী চলায়, দক্ষিণলৈ ঘূৰি 10 কিমি যায়, তাৰ পিছত পূবলৈ ঘূৰি 15 কিমি যায়। আৰম্ভণি স্থানৰ সাপেক্ষে তেওঁ এতিয়া কোন দিশত আছে?
+A) North / উত্তৰ
+B) South / দক্ষিণ
+C) East / পূব
+D) West / পশ্চিম
+Ans: B
+
+19. Office A is to the West of Office B. Office C is to the South of Office A. In which direction is Office B with respect to Office C?
+
+A কাৰ্যালয় B কাৰ্যালয়ৰ পশ্চিমে অৱস্থিত। C কাৰ্যালয় A কাৰ্যালয়ৰ দক্ষিণে অৱস্থিত। C কাৰ্যালয়ৰ সাপেক্ষে B কাৰ্যালয় কোন দিশত আছে?
+A) South-West / দক্ষিণ-পশ্চিম
+B) North-East / উত্তৰ-পূব
+C) South-East / দক্ষিণ-পূব
+D) North-West / উত্তৰ-পশ্চিম
+Ans: B
+
+20. A person walks 20 meters East, turns right and walks 10 meters, then turns right again and walks 20 meters. How far is he from his starting point?
+
+এজন ব্যক্তিয়ে পূবলৈ 20 মিটাৰ খোজ কাঢ়ে, সোঁফালে ঘূৰি 10 মিটাৰ যায়, তাৰ পিছত পুনৰ সোঁফালে ঘূৰি 20 মিটাৰ যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 10 meters / 10 মিটাৰ
+B) 20 meters / 20 মিটাৰ
+C) 30 meters / 30 মিটাৰ
+D) 50 meters / 50 মিটাৰ
+Ans: A
+
+21. School X is to the North of School Y. School Z is to the West of School Y. In which direction is School X with respect to School Z?
+
+X বিদ্যালয় Y বিদ্যালয়ৰ উত্তৰে অৱস্থিত। Z বিদ্যালয় Y বিদ্যালয়ৰ পশ্চিমে অৱস্থিত। Z বিদ্যালয়ৰ সাপেক্ষে X বিদ্যালয় কোন দিশত আছে?
+A) North-East / উত্তৰ-পূব
+B) South-West / দক্ষিণ-পশ্চিম
+C) North-West / উত্তৰ-পশ্চিম
+D) South-East / দক্ষিণ-পূব
+Ans: A
+
+22. A man walks 5 km South, turns East and walks 5 km, then turns North and walks 5 km. How far is he from his starting point?
+
+এজন মানুহ দক্ষিণলৈ 5 কিমি যায়, পূবলৈ ঘূৰি 5 কিমি যায়, তাৰ পিছত উত্তৰলৈ ঘূৰি 5 কিমি যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 5 km / 5 কিমি
+B) 10 km / 10 কিমি
+C) 15 km / 15 কিমি
+D) 0 km / 0 কিমি
+Ans: A
+
+23. Village A is 10 km North of Village B. Village C is 10 km East of Village A. In which direction is Village B with respect to Village C?
+
+A গাঁওখন B গাঁৱৰ উত্তৰে 10 কিমি দূৰত। C গাঁওখন A গাঁৱৰ পূবে 10 কিমি দূৰত। C গাঁৱৰ সাপেক্ষে B গাঁওখন কোন দিশত আছে?
+A) North-East / উত্তৰ-পূব
+B) South-West / দক্ষিণ-পশ্চিম
+C) North-West / উত্তৰ-পশ্চিম
+D) South-East / দক্ষিণ-পূব
+Ans: B
+
+24. A runner runs 400 meters North, turns East and runs 300 meters, then turns South and runs 400 meters. In which direction is he from his starting point?
+
+এজন দৌৰবিদ উত্তৰলৈ 400 মিটাৰ দৌৰে, পূবলৈ ঘূৰি 300 মিটাৰ দৌৰে, তাৰ পিছত দক্ষিণলৈ 400 মিটাৰ দৌৰে। আৰম্ভণি স্থানৰ পৰা তেওঁ কোন দিশত আছে?
+A) West / পশ্চিম
+B) East / পূব
+C) North / উত্তৰ
+D) South / দক্ষিণ
+Ans: B
+
+25. Point P is to the East of Point Q. Point R is to the South of Point Q. In which direction is Point P with respect to Point R?
+
+P বিন্দু Q বিন্দুৰ পূবে অৱস্থিত। R বিন্দু Q বিন্দুৰ দক্ষিণে অৱস্থিত। R বিন্দুৰ সাপেক্ষে P বিন্দু কোন দিশত আছে?
+A) North-East / উত্তৰ-পূব
+B) South-West / দক্ষিণ-পশ্চিম
+C) North-West / উত্তৰ-পশ্চিম
+D) South-East / দক্ষিণ-পূব
+Ans: A

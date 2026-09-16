@@ -1,0 +1,269 @@
+1. A person walks 10 km North, then turns South and walks 6 km, then turns East and walks 3 km. How far and in which direction is he from his starting point?
+
+এজন ব্যক্তি উত্তৰ দিশলৈ 10 কিমি যায়, তাৰ পিছত দক্ষিণলৈ ঘূৰি 6 কিমি যায়, আৰু তাৰ পিছত পূবলৈ ঘূৰি 3 কিমি যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আৰু কোন দিশত আছে?
+A) 5 km North-East / 5 কিমি উত্তৰ-পূব
+B) 5 km South-East / 5 কিমি দক্ষিণ-পূব
+C) 7 km North-West / 7 কিমি উত্তৰ-পশ্চিম
+D) 7 km South-West / 7 কিমি দক্ষিণ-পশ্চিম
+Ans: A
+
+2. If South-East becomes North, North-East becomes West, and so on, what will West become?
+
+যদি দক্ষিণ-পূব দিশটো উত্তৰ হয়, উত্তৰ-পূব দিশটো পশ্চিম হয়, আৰু এইদৰেই পৰিৱৰ্তন হয়, তেন্তে পশ্চিম দিশটো কি হ'ব?
+A) North-East / উত্তৰ-পূব
+B) South-East / দক্ষিণ-পূব
+C) North-West / উত্তৰ-পশ্চিম
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: B
+
+3. A man walks 5 km East, turns right and walks 4 km, then turns left and walks 5 km. Which direction is he facing now?
+
+এজন মানুহ পূবলৈ 5 কিমি খোজ কাঢ়ি যায়, সোঁফালে ঘূৰি 4 কিমি যায়, তাৰ পিছত বাওঁফালে ঘূৰি 5 কিমি যায়। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North / উত্তৰ
+B) South / দক্ষিণ
+C) East / পূব
+D) West / পশ্চিম
+Ans: C
+
+4. Rohan faces North. He turns 90 degrees clockwise, then 180 degrees anti-clockwise, and finally 90 degrees clockwise. Which direction is he facing now?
+
+ৰোহনে উত্তৰ দিশলৈ মুখ কৰি আছে। তেওঁ ঘড়ীৰ কাঁটাৰ দিশত 90 ডিগ্ৰী, তাৰ পিছত ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 180 ডিগ্ৰী, আৰু অৱশেষত ঘড়ীৰ কাঁটাৰ দিশত 90 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) East / পূব
+B) West / পশ্চিম
+C) North / উত্তৰ
+D) South / দক্ষিণ
+Ans: C
+
+5. A car travels 8 km West, turns North and travels 6 km. How far is the car from the starting point?
+
+এখন গাডী পশ্চিমলৈ 8 কিমি যায়, উত্তৰলৈ ঘূৰি 6 কিমি যায়। গাড়ীখন আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 10 km / 10 কিমি
+B) 14 km / 14 কিমি
+C) 2 km / 2 কিমি
+D) 12 km / 12 কিমি
+Ans: A
+
+6. Sita walks 3 km towards South, turns left and walks 4 km. What is the shortest distance from her starting point?
+
+সীতাই দক্ষিণলৈ 3 কিমি খোজ কাঢ়ি যায়, বাওঁফালে ঘূৰি 4 কিমি যায়। তাইৰ আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 7 km / 7 কিমি
+B) 5 km / 5 কিমি
+C) 1 km / 1 কিমি
+D) 6 km / 6 কিমি
+Ans: B
+
+7. A person is standing facing West. He turns 45 degrees clockwise and then 180 degrees clockwise. Which direction is he facing now?
+
+এজন মানুহে পশ্চিমলৈ মুখ কৰি থিয় হৈ আছে। তেওঁ ঘড়ীৰ কাঁটাৰ দিশত 45 ডিগ্ৰী আৰু তাৰ পিছত পুনৰ ঘড়ীৰ কাঁটাৰ দিশত 180 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) South-East / দক্ষিণ-পূব
+B) North-East / উত্তৰ-পূব
+C) South-West / দক্ষিণ-পশ্চিম
+D) North-West / উত্তৰ-পশ্চিম
+Ans: A
+
+8. Rahul walks 12 km towards North, then turns West and walks 5 km. In which direction is he now with respect to his starting point?
+
+ৰাহুলে উত্তৰলৈ 12 কিমি খোজ কাঢ়ি যায়, তাৰ পিছত পশ্চিমলৈ ঘূৰি 5 কিমি যায়। আৰম্ভণি স্থানৰ সাপেক্ষে তেওঁ এতিয়া কোন দিশত আছে?
+A) South-East / দক্ষিণ-পূব
+B) North-East / উত্তৰ-পূব
+C) North-West / উত্তৰ-পশ্চিম
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: C
+
+9. If North becomes South-West, then what does East become?
+
+যদি উত্তৰ দিশটো দক্ষিণ-পশ্চিম হয়, তেন্তে পূব দিশটো কি হ'ব?
+A) North-West / উত্তৰ-পশ্চিম
+B) South-East / দক্ষিণ-পূব
+C) North-East / উত্তৰ-পূব
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: A
+
+10. One morning after sunrise, Suresh was standing facing a pole. The shadow of the pole fell exactly to his right. Which direction was he facing?
+
+এদিন পুৱা সূৰ্যোদয়ৰ পিছত সুৰেশ স্তম্ভ এটাৰ ফালে মুখ কৰি থিয় হৈ আছিল। স্তম্ভটোৰ ছাঁ সুৰেশৰ ঠিক সোঁফালে পৰিছিল। তেওঁ কোন দিশলৈ মুখ কৰি আছিল?
+A) East / পূব
+B) South / দক্ষিণ
+C) West / পশ্চিম
+D) North / উত্তৰ
+Ans: B
+
+11. A man walks 6 km South, turns left and walks 8 km, then turns left again and walks 6 km. How far is he from his starting point?
+
+এজন মানুহ দক্ষিণলৈ 6 কিমি যায়, বাওঁফালে ঘূৰি 8 কিমি যায়, তাৰ পিছত পুনৰ বাওঁফালে ঘূৰি 6 কিমি যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 6 km / 6 কিমি
+B) 8 km / 8 কিমি
+C) 14 km / 14 কিমি
+D) 20 km / 20 কিমি
+Ans: B
+
+12. Anuj walks 10 meters East, turns right and walks 10 meters, then turns left and walks 5 meters. How far is he from the starting line along the East-West axis?
+
+অনুজে পূবলৈ 10 মিটাৰ খোজ কাঢ়ে, সোঁফালে ঘূৰি 10 মিটাৰ যায়, তাৰ পিছত বাওঁফালে ঘূৰি 5 মিটাৰ যায়। পূব-পশ্চিম অক্ষ অনুসৰি তেওঁ আৰম্ভণি ৰেখাৰ পৰা কিমান দূৰত আছে?
+A) 15 meters / 15 মিটাৰ
+B) 25 meters / 25 মিটাৰ
+C) 10 meters / 10 মিটাৰ
+D) 5 meters / 5 মিটাৰ
+Ans: A
+
+13. If South-West becomes North, then what will North-East become?
+
+যদি দক্ষিণ-পশ্চিম দিশটো উত্তৰ হয়, তেন্তে উত্তৰ-পূব দিশটো কি হ'ব?
+A) North / উত্তৰ
+B) South-West / দক্ষিণ-পশ্চিম
+C) South-East / দক্ষিণ-পূব
+D) West / পশ্চিম
+Ans: B
+
+14. A person walks 15 km North, turns right and walks 15 km, then turns right and walks 15 km. How far is he from his starting position?
+
+এজন ব্যক্তি উত্তৰলৈ 15 কিমি যায়, সোঁফালে ঘূৰি 15 কিমি যায়, তাৰ পিছত পুনৰ সোঁফালে ঘূৰি 15 কিমি যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 0 km / 0 কিমি
+B) 15 km / 15 কিমি
+C) 30 km / 30 কিমি
+D) 45 km / 45 কিমি
+Ans: B
+
+15. Village P is to the North of Village Q. Village R is to the East of Village Q. In which direction is Village P with respect to Village R?
+
+P গাঁওখন Q গাঁৱৰ উত্তৰে অৱস্থিত। R গাঁওখন Q গাঁৱৰ পূবে অৱস্থিত। R গাঁৱৰ সাপেক্ষে P গাঁওখন কোন দিশত আছে?
+A) North-East / উত্তৰ-পূব
+B) South-East / দক্ষিণ-পূব
+C) North-West / উত্তৰ-পশ্চিম
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: C
+
+16. A man is facing South. He turns 135 degrees anti-clockwise and then 180 degrees clockwise. Which direction is he facing now?
+
+এজন মানুহে দক্ষিণলৈ মুখ কৰি আছে। তেওঁ ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 135 ডিগ্ৰী আৰু তাৰ পিছত ঘড়ীৰ কাঁটাৰ দিশত 180 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) South-West / দক্ষিণ-পশ্চিম
+B) North-West / উত্তৰ-পশ্চিম
+C) North-East / উত্তৰ-পূব
+D) South-East / দক্ষিণ-পূব
+Ans: A
+
+17. Kiran drives 4 km West, turns left and drives 3 km, then turns left and drives 4 km. In which direction is he relative to his starting point?
+
+কিৰণে পশ্চিমলৈ 4 কিমি গাড়ী চলায়, বাওঁফালে ঘূৰি 3 কিমি যায়, তাৰ পিছত পুনৰ বাওঁফালে ঘূৰি 4 কিমি যায়। আৰম্ভণি স্থানৰ সাপেক্ষে তেওঁ কোন দিশত আছে?
+A) North / উত্তৰ
+B) East / পূব
+C) South / দক্ষিণ
+D) West / পশ্চিম
+Ans: C
+
+18. If East becomes South, and South becomes West, what direction does North-West become?
+
+যদি পূব দিশটো দক্ষিণ হয়, আৰু দক্ষিণ দিশটো পশ্চিম হয়, তেন্তে উত্তৰ-পশ্চিম দিশটো কি হ'ব?
+A) South-East / দক্ষিণ-পূব
+B) North-East / উত্তৰ-পূব
+C) South-West / দক্ষিণ-পশ্চিম
+D) North-West / উত্তৰ-পশ্চিম
+Ans: B
+
+19. One evening before sunset, Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to the right of Hema, which direction was Rekha facing?
+
+এদিন গধূলি সূৰ্যাস্তৰ পূৰ্বে ৰেখা আৰু হেমাই মুখামুখিকৈ কথা পাতি আছিল। যদি হেমাৰ ছাঁ হেমাৰ ঠিক সোঁফালে পৰিছিল, তেন্তে ৰেখাই কোন দিশলৈ মুখ কৰি আছিল?
+A) North / উত্তৰ
+B) South / দক্ষিণ
+C) East / পূব
+D) West / পশ্চিম
+Ans: B
+
+20. A dog runs 20 m East, turns Right and runs 10 m, turns Right and runs 9 m, turns Left and runs 5 m, turns Left and runs 12 m. Which direction is the dog facing now?
+
+এটা কুকুৰে পূবলৈ 20 মিটাৰ দৌৰে, সোঁফালে ঘূৰি 10 মিটাৰ দৌৰে, সোঁফালে ঘূৰি 9 মিটাৰ দৌৰে, বাওঁফালে ঘূৰি 5 মিটাৰ দৌৰে, আৰু বাওঁফালে ঘূৰি 12 মিটাৰ দৌৰে। কুকুৰটোৱে এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) East / পূব
+B) West / পশ্চিম
+C) North / উত্তৰ
+D) South / দক্ষিণ
+Ans: A
+
+21. A clock is placed so that at 12:00 noon its minute hand points towards North-East. In which direction will its hour hand point at 1:30 PM?
+
+এটা ঘড়ী এনেদৰে ৰখা হৈছে যে দিনৰ 12:00 বজাত ইয়াৰ মিনিটৰ কাঁটাডালে উত্তৰ-পূব দিশ দেখুৱায়। বিয়লি 1:30 বজাত ইয়াৰ ঘণ্টাৰ কাঁটাডালে কোন দিশ দেখুৱাব?
+A) East / পূব
+B) South / দক্ষিণ
+C) North / উত্তৰ
+D) South-East / দক্ষিণ-পূব
+Ans: A
+
+22. Point A is 5 km North of Point B. Point C is 5 km East of Point B. In which direction is Point A with respect to Point C?
+
+A বিন্দু B বিন্দুৰ উত্তৰে 5 কিমি দূৰত। C বিন্দু B বিন্দুৰ পূবে 5 কিমি দূৰত। C বিন্দুৰ সাপেক্ষে A বিন্দু কোন দিশত আছে?
+A) South-East / দক্ষিণ-পূব
+B) North-East / উত্তৰ-পূব
+C) North-West / উত্তৰ-পশ্চিম
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: C
+
+23. A boy walks 10 meters South, turns left and walks 20 meters, turns left again and walks 10 meters. How far is he from his starting point?
+
+এটা ল'ৰা দক্ষিণলৈ 10 মিটাৰ খোজ কাঢ়ি যায়, বাওঁফালে ঘূৰি 20 মিটাৰ যায়, পুনৰ বাওঁফালে ঘূৰি 10 মিটাৰ যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 10 meters / 10 মিটাৰ
+B) 20 meters / 20 মিটাৰ
+C) 30 meters / 30 মিটাৰ
+D) 40 meters / 40 মিটাৰ
+Ans: B
+
+24. If a person faces South-East and turns 90 degrees clockwise, which direction is he facing?
+
+যদি এজন ব্যক্তিয়ে দক্ষিণ-পূবলৈ মুখ কৰি ঘড়ীৰ কাঁটাৰ দিশত 90 ডিগ্ৰী ঘূৰে, তেন্তে তেওঁ কোন দিশলৈ মুখ কৰি আছে?
+A) North-West / উত্তৰ-পশ্চিম
+B) South-West / দক্ষিণ-পশ্চিম
+C) North-East / উত্তৰ-পূব
+D) South-East / দক্ষিণ-পূব
+Ans: B
+
+25. P, Q, R, and S are playing cards. P and Q are partners facing each other. S faces North. If P faces West, which direction does Q face?
+
+P, Q, R, আৰু S এ তাছ খেলি আছে। P আৰু Q অংশীদাৰ আৰু মুখামুখিকৈ বহিছে। S এ উত্তৰলৈ মুখ কৰিছে। যদি P এ পশ্চিমলৈ মুখ কৰে, Q এ কোন দিশলৈ মুখ কৰিব?
+A) North / উত্তৰ
+B) South / দক্ষিণ
+C) East / পূব
+D) West / পশ্চিম
+Ans: C
+
+26. A cyclist goes 30 km North and then turning East he goes 40 km. Again he turns to his right and goes 20 km. After this he turns to his right and goes 40 km. How far is he from his starting point?
+
+এজন চাইকেল আৰোহী উত্তৰলৈ 30 কিমি যায় আৰু তাৰ পিছত পূবলৈ ঘূৰি 40 কিমি যায়। পুনৰ তেওঁ সোঁফালে ঘূৰি 20 কিমি যায়। ইয়াৰ পিছত তেওঁ সোঁফালে ঘূৰি 40 কিমি যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 10 km / 10 কিমি
+B) 20 km / 20 কিমি
+C) 30 km / 30 কিমি
+D) 40 km / 40 কিমি
+Ans: A
+
+27. A man starts walking North-East diagonally across a square field. At the center, he turns 90 degrees right. Which direction is he walking now?
+
+এজন মানুহে বৰ্গাকাৰ পথাৰ এখনৰ কৰ্ণইদি উত্তৰ-পূব দিশত খোজ কাঢ়িবলৈ ধৰে। কেন্দ্ৰবিন্দুত তেওঁ সোঁফালে 90 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশত খোজ কাঢ়িছে?
+A) South-West / দক্ষিণ-পশ্চিম
+B) North-West / উত্তৰ-পশ্চিম
+C) South-East / দক্ষিণ-পূব
+D) North-East / উত্তৰ-পূব
+Ans: C
+
+28. If North-West becomes South, what does South-East become?
+
+যদি উত্তৰ-পশ্চিম দিশটো দক্ষিণ হয়, তেন্তে দক্ষিণ-পূব দিশটো কি হ'ব?
+A) North / উত্তৰ
+B) East / পূব
+C) West / পশ্চিম
+D) South / দক্ষিণ
+Ans: A
+
+29. A traveler walks 12 km East, then 5 km South. How far is he from the starting point?
+
+এজন যাত্ৰী পূবলৈ 12 কিমি যায়, তাৰ পিছত দক্ষিণলৈ 5 কিমি যায়। তেওঁ আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 17 km / 17 কিমি
+B) 13 km / 13 কিমি
+C) 7 km / 7 কিমি
+D) 15 km / 15 কিমি
+Ans: B
+
+30. During sunrise, Amit is standing facing a tree. His shadow falls behind him. Which direction is Amit facing?
+
+সূৰ্যোদয়ৰ সময়ত অমিত গছ এজোপাৰ ফালে মুখ কৰি থিয় হৈ আছে। তেওঁৰ ছাঁ তেওঁৰ পিছফালে পৰিছে। অমিতে কোন দিশলৈ মুখ কৰি আছে?
+A) West / পশ্চিম
+B) South / দক্ষিণ
+C) East / পূব
+D) North / উত্তৰ
+Ans: C

@@ -1,0 +1,224 @@
+1. A man walks 3 km North, then 4 km East. What is the shortest distance from his starting point?
+
+এজন মানুহে উত্তৰলৈ 3 কিমি আৰু তাৰ পিছত পূবলৈ 4 কিমি খোজ কাঢ়ে। তেওঁৰ আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 7 km / 7 কিমি
+B) 5 km / 5 কিমি
+C) 6 km / 6 কিমি
+D) 12 km / 12 কিমি
+Ans: B
+
+2. A car travels 8 km West, turns North and travels 6 km. What is the shortest distance of the car from its starting point?
+
+এখন গাড়ী পশ্চিমলৈ 8 কিমি যায়, উত্তৰলৈ ঘূৰি 6 কিমি যায়। আৰম্ভণি স্থানৰ পৰা গাড়ীখনৰ নূন্যতম দূৰত্ব কিমান?
+A) 10 km / 10 কিমি
+B) 14 km / 14 কিমি
+C) 2 km / 2 কিমি
+D) 48 km / 48 কিমি
+Ans: A
+
+3. A person walks 12 km North, then turns West and walks 5 km. What is the shortest distance from the starting point?
+
+এজন ব্যক্তিয়ে উত্তৰলৈ 12 কিমি খোজ কাঢ়ে, তাৰ পিছত পশ্চিমলৈ ঘূৰি 5 কিমি যায়। আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 17 km / 17 কিমি
+B) 7 km / 7 কিমি
+C) 13 km / 13 কিমি
+D) 15 km / 15 কিমি
+Ans: C
+
+4. Rahul walks 15 km South, turns East and walks 8 km. What is the shortest distance between his starting and ending points?
+
+ৰাহুলে দক্ষিণলৈ 15 কিমি খোজ কাঢ়ে, পূবলৈ ঘূৰি 8 কিমি যায়। তেওঁৰ আৰম্ভণি আৰু অন্তিম স্থানৰ মাজৰ নূন্যতম দূৰত্ব কিমান?
+A) 23 km / 23 কিমি
+B) 17 km / 17 কিমি
+C) 12 km / 12 কিমি
+D) 20 km / 20 কিমি
+Ans: B
+
+5. A boy walks 9 km East, turns North and walks 12 km. What is the shortest distance from his initial position?
+
+এটা ল'ৰাই পূবলৈ 9 কিমি খোজ কাঢ়ে, উত্তৰলৈ ঘূৰি 12 কিমি যায়। তেওঁৰ প্ৰাৰম্ভিক অৱস্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 15 km / 15 কিমি
+B) 21 km / 21 কিমি
+C) 3 km / 3 কিমি
+D) 18 km / 18 কিমি
+Ans: A
+
+6. A person walks 10 km North, turns South and walks 6 km, then turns East and walks 3 km. What is the shortest distance from the starting point?
+
+এজন ব্যক্তি উত্তৰ দিশলৈ 10 কিমি যায়, তাৰ পিছত দক্ষিণলৈ ঘূৰি 6 কিমি যায়, আৰু তাৰ পিছত পূবলৈ ঘূৰি 3 কিমি যায়। আৰম্ভণি স্থানৰ পৰা তেওঁৰ নূন্যতম দূৰত্ব কিমান?
+A) 19 km / 19 কিমি
+B) 7 km / 7 কিমি
+C) 5 km / 5 কিমি
+D) 4 km / 4 কিমি
+Ans: C
+
+7. Sita walks 7 km West, turns South and walks 24 km. How far is she from her starting point along the shortest path?
+
+সীতাই পশ্চিমলৈ 7 কিমি খোজ কাঢ়ে, দক্ষিণলৈ ঘূৰি 24 কিমি যায়। নূন্যতম পথ অনুসৰি তাই আৰম্ভণি স্থানৰ পৰা কিমান দূৰত আছে?
+A) 31 km / 31 কিমি
+B) 25 km / 25 কিমি
+C) 17 km / 17 কিমি
+D) 28 km / 28 কিমি
+Ans: B
+
+8. A man walks 20 km North, turns right and walks 15 km. What is the straight-line distance from his starting point?
+
+এজন মানুহে উত্তৰলৈ 20 কিমি খোজ কাঢ়ে, সোঁফালে ঘূৰি 15 কিমি যায়। আৰম্ভণি স্থানৰ পৰা তেওঁৰ সৰলৰৈখিক দূৰত্ব কিমান?
+A) 35 km / 35 কিমি
+B) 5 km / 5 কিমি
+C) 25 km / 25 কিমি
+D) 30 km / 30 কিমি
+Ans: C
+
+9. Rohan goes 5 km South, turns East and walks 12 km. What is the shortest distance from his starting position?
+
+ৰোহনে দক্ষিণলৈ 5 কিমি যায়, পূবলৈ ঘূৰি 12 কিমি খোজ কাঢ়ে। তেওঁৰ আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 13 km / 13 কিমি
+B) 17 km / 17 কিমি
+C) 7 km / 7 কিমি
+D) 10 km / 10 কিমি
+Ans: A
+
+10. A cyclist travels 24 km East, turns North and travels 10 km. What is the shortest distance to the starting point?
+
+এজন চাইকেল আৰোহীয়ে পূবলৈ 24 কিমি যায়, উত্তৰলৈ ঘূৰি 10 কিমি যায়। আৰম্ভণি স্থানলৈ নূন্যতম দূৰত্ব কিমান?
+A) 34 km / 34 কিমি
+B) 14 km / 14 কিমি
+C) 26 km / 26 কিমি
+D) 20 km / 20 কিমি
+Ans: C
+
+11. A dog runs 12 m West, turns North and runs 9 m. What is the shortest distance from its initial location?
+
+এটা কুকুৰে পশ্চিমলৈ 12 মিটাৰ দৌৰে, উত্তৰলৈ ঘূৰি 9 মিটাৰ দৌৰে। ইয়াৰ প্ৰাৰম্ভিক স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 21 m / 21 মিটাৰ
+B) 15 m / 15 মিটাৰ
+C) 3 m / 3 মিটাৰ
+D) 18 m / 18 মিটাৰ
+Ans: B
+
+12. Anuj walks 16 km South, turns West and walks 12 km. What is the shortest distance from where he started?
+
+অনুজে দক্ষিণলৈ 16 কিমি খোজ কাঢ়ে, পশ্চিমলৈ ঘূৰি 12 কিমি যায়। তেওঁ আৰম্ভ কৰা স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 28 km / 28 কিমি
+B) 4 km / 4 কিমি
+C) 20 km / 20 কিমি
+D) 24 km / 24 কিমি
+Ans: C
+
+13. A person walks 4 km East, turns North and walks 3 km, then turns East and walks 8 km, then turns North and walks 2 km. What is the shortest distance from the starting point?
+
+এজন ব্যক্তি পূবলৈ 4 কিমি যায়, উত্তৰলৈ ঘূৰি 3 কিমি যায়, তাৰ পিছত পূবলৈ ঘূৰি 8 কিমি যায়, আৰু উত্তৰলৈ ঘূৰি 2 কিমি যায়। আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 17 km / 17 কিমি
+B) 13 km / 13 কিমি
+C) 15 km / 15 কিমি
+D) 12 km / 12 কিমি
+Ans: B
+
+14. A girl walks 6 km North, turns East and walks 8 km, then turns South and walks 12 km. What is the shortest distance from her starting point?
+
+এজনী ছোৱালীয়ে উত্তৰলৈ 6 কিমি খোজ কাঢ়ে, পূবলৈ ঘূৰি 8 কিমি যায়, তাৰ পিছত দক্ষিণলৈ ঘূৰি 12 কিমি যায়। তাইৰ আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 10 km / 10 কিমি
+B) 26 km / 26 কিমি
+C) 14 km / 14 কিমি
+D) 18 km / 18 কিমি
+Ans: A
+
+15. A man travels 10 km East, turns South and walks 5 km, then turns West and walks 6 km, then turns North and walks 2 km. What is the shortest distance from the starting point?
+
+এজন মানুহ পূবলৈ 10 কিমি যায়, দক্ষিণলৈ ঘূৰি 5 কিমি যায়, তাৰ পিছত পশ্চিমলৈ ঘূৰি 6 কিমি যায়, আৰু উত্তৰলৈ ঘূৰি 2 কিমি যায়। আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 23 km / 23 কিমি
+B) 7 km / 7 কিমি
+C) 5 km / 5 কিমি
+D) 9 km / 9 কিমি
+Ans: C
+
+16. Point A is 9 km West of Point B. Point C is 12 km North of Point B. What is the shortest distance between Point A and Point C?
+
+A বিন্দু B বিন্দুৰ পশ্চিমলৈ 9 কিমি দূৰত। C বিন্দু B বিন্দুৰ উত্তৰলৈ 12 কিমি দূৰত। A বিন্দু আৰু C বিন্দুৰ মাজৰ নূন্যতম দূৰত্ব কিমান?
+A) 21 km / 21 কিমি
+B) 15 km / 15 কিমি
+C) 3 km / 3 কিমি
+D) 18 km / 18 কিমি
+Ans: B
+
+17. A person walks 15 km West, turns South and walks 20 km. What is the shortest distance from the starting point?
+
+এজন ব্যক্তিয়ে পশ্চিমলৈ 15 কিমি খোজ কাঢ়ে, দক্ষিণলৈ ঘূৰি 20 কিমি যায়। আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 35 km / 35 কিমি
+B) 5 km / 5 কিমি
+C) 25 km / 25 কিমি
+D) 30 km / 30 কিমি
+Ans: C
+
+18. A person walks 8 km North, turns West and walks 6 km, then turns North and walks 7 km, then turns West and walks 2 km. What is the shortest distance from the starting position?
+
+এজন ব্যক্তি উত্তৰলৈ 8 কিমি যায়, পশ্চিমলৈ ঘূৰি 6 কিমি যায়, তাৰ পিছত উত্তৰলৈ ঘূৰি 7 কিমি যায়, আৰু পশ্চিমলৈ ঘূৰি 2 কিমি যায়। প্ৰাৰম্ভিক অৱস্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 23 km / 23 কিমি
+B) 17 km / 17 কিমি
+C) 15 km / 15 কিমি
+D) 20 km / 20 কিমি
+Ans: B
+
+19. A runner runs 30 meters South, turns East and runs 40 meters. What is the shortest distance from his starting point?
+
+এজন দৌৰবিদ দক্ষিণলৈ 30 মিটাৰ দৌৰে, পূবলৈ ঘূৰি 40 মিটাৰ দৌৰে। তেওঁৰ আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 70 meters / 70 মিটাৰ
+B) 10 meters / 10 মিটাৰ
+C) 50 meters / 50 মিটাৰ
+D) 60 meters / 60 মিটাৰ
+Ans: C
+
+20. A car travels 18 km West, then turns North and travels 24 km. What is the shortest distance between the starting point and ending point?
+
+এখন গাড়ী পশ্চিমলৈ 18 কিমি যায়, তাৰ পিছত উত্তৰলৈ ঘূৰি 24 কিমি যায়। আৰম্ভণি আৰু অন্তিম স্থানৰ মাজৰ নূন্যতম দূৰত্ব কিমান?
+A) 42 km / 42 কিমি
+B) 6 km / 6 কিমি
+C) 30 km / 30 কিমি
+D) 36 km / 36 কিমি
+Ans: C
+
+21. A man walks 2 km North, turns East and walks 10 km, then turns North and walks 6 km, then turns East and walks 5 km. What is the shortest distance from the start?
+
+এজন মানুহ উত্তৰলৈ 2 কিমি যায়, পূবলৈ ঘূৰি 10 কিমি যায়, তাৰ পিছত উত্তৰলৈ ঘূৰি 6 কিমি যায়, আৰু পূবলৈ ঘূৰি 5 কিমি যায়। আৰম্ভণিৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 23 km / 23 কিমি
+B) 17 km / 17 কিমি
+C) 21 km / 21 কিমি
+D) 15 km / 15 কিমি
+Ans: B
+
+22. A boy walks 7 meters East, turns South and walks 24 meters. What is the shortest distance from his starting point?
+
+এটা ল'ৰাই পূবলৈ 7 মিটাৰ খোজ কাঢ়ে, দক্ষিণলৈ ঘূৰি 24 মিটাৰ যায়। তেওঁৰ আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 31 meters / 31 মিটাৰ
+B) 17 meters / 17 মিটাৰ
+C) 25 meters / 25 মিটাৰ
+D) 28 meters / 28 মিটাৰ
+Ans: C
+
+23. A traveler goes 12 km North, then 16 km East. What is the shortest distance from the starting point?
+
+এজন যাত্ৰী উত্তৰলৈ 12 কিমি যায়, তাৰ পিছত পূবলৈ 16 কিমি যায়। আৰম্ভণি স্থানৰ পৰা নূন্যতম দূৰত্ব কিমান?
+A) 28 km / 28 কিমি
+B) 20 km / 20 কিমি
+C) 4 km / 4 কিমি
+D) 24 km / 24 কিমি
+Ans: B
+
+24. A person walks 5 km West, turns South and walks 12 km. What is the shortest distance to his starting point?
+
+এজন ব্যক্তিয়ে পশ্চিমলৈ 5 কিমি খোজ কাঢ়ে, দক্ষিণলৈ ঘূৰি 12 কিমি যায়। তেওঁৰ আৰম্ভণি স্থানলৈ নূন্যতম দূৰত্ব কিমান?
+A) 13 km / 13 কিমি
+B) 17 km / 17 কিমি
+C) 7 km / 7 কিমি
+D) 15 km / 15 কিমি
+Ans: A
+
+25. A person walks 21 km East, turns North and walks 20 km. What is the shortest distance between his starting and ending positions?
+
+এজন ব্যক্তি পূবলৈ 21 কিমি যায়, উত্তৰলৈ ঘূৰি 20 কিমি খোজ কাঢ়ে। তেওঁৰ আৰম্ভণি আৰু অন্তিম অৱস্থানৰ মাজৰ নূন্যতম দূৰত্ব কিমান?
+A) 41 km / 41 কিমি
+B) 29 km / 29 কিমি
+C) 1 km / 1 কিমি
+D) 31 km / 31 কিমি
+Ans: B

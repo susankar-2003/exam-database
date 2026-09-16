@@ -1,0 +1,224 @@
+1. In a class of 40 students, Rahul is 11th from the top. What is his rank from the bottom?
+
+৪০ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাৰ ওপৰৰ পৰা ৰাহুলৰ স্থান ১১ নম্বৰত। তলৰ পৰা তেওঁৰ স্থান কিমান?
+A) 30th / ৩০তম
+B) 29th / ২৯তম
+C) 31st / ৩১তম
+D) 28th / ২৮তম
+Ans: A
+
+2. In a class of 50 students, Priya is 18th from the bottom. What is her rank from the top?
+
+৫০ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাৰ তলৰ পৰা প্ৰিয়াৰ স্থান ১৮ নম্বৰত। ওপৰৰ পৰা তাইৰ স্থান কিমান?
+A) 32nd / ৩২তম
+B) 33rd / ৩৩তম
+C) 34th / ৩৪তম
+D) 31st / ৩১তম
+Ans: B
+
+3. Rohan ranks 15th from the top and 21st from the bottom in an examination. How many students passed the examination?
+
+পৰীক্ষা এটাত ওপৰৰ পৰা ৰোহন ১৫ নম্বৰত আৰু তলৰ পৰা ২১ নম্বৰত আছে। পৰীক্ষাত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী উত্তীৰ্ণ হৈছিল?
+A) 36 / ৩৬
+B) 34 / ৩৪
+C) 35 / ৩৫
+D) 37 / ৩৭
+Ans: C
+
+4. In a list of 60 candidates, Amit is ranked 25th from the top. What is his position from the bottom?
+
+৬০ জন প্ৰাৰ্থীৰ তালিকাখনত ওপৰৰ পৰা অমিত ২৫ নম্বৰ স্থানত আছে। তলৰ পৰা তেওঁৰ স্থান কিমান?
+A) 35th / ৩৫তম
+B) 37th / ৩৭তম
+C) 34th / ৩৪তম
+D) 36th / ৩৬তম
+Ans: D
+
+5. Akash ranks 12th from the bottom in a merit list of 35 students. What is his rank from the top?
+
+৩৫ জন ছাত্ৰ-ছাত্ৰীৰ মেধা তালিকাত তলৰ পৰা আকাশ ১২ নম্বৰত আছে। ওপৰৰ পৰা তেওঁৰ স্থান কিমান?
+A) 24th / ২৪তম
+B) 23rd / ২৩তম
+C) 25th / ২৫তম
+D) 22nd / ২২তম
+Ans: A
+
+6. Sunita is ranked 14th from the top in a class of 45 students. What is her rank from the bottom?
+
+৪৫ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাত ওপৰৰ পৰা সুনীতাৰ স্থান ১৪ নম্বৰত। তলৰ পৰা তাইৰ স্থান কিমান?
+A) 31st / ৩১তম
+B) 32nd / ৩২তম
+C) 33rd / ৩৩তম
+D) 30th / ৩০তম
+Ans: B
+
+7. A person is ranked 10th from both top and bottom in a test result. How many students took the test?
+
+পৰীক্ষাৰ ফলাফলত এজন ব্যক্তি ওপৰ আৰু তল দুয়োফালৰ পৰাই ১০ নম্বৰ স্থানত আছে। পৰীক্ষাত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী অৱতীৰ্ণ হৈছিল?
+A) 20 / ২০
+B) 18 / ১৮
+C) 19 / ১৯
+D) 21 / ২১
+Ans: C
+
+8. In a merit list of 80 students, Vikash is ranked 21st from the top. What is his rank from the bottom?
+
+৮০ জন ছাত্ৰ-ছাত্ৰীৰ মেধা তালিকাত ওপৰৰ পৰা বিকাশ ২১ নম্বৰত আছে। তলৰ পৰা তেওঁৰ স্থান কিমান?
+A) 59th / ৫৯তম
+B) 61st / ৬১তম
+C) 58th / ৫৮তম
+D) 60th / ৬০তম
+Ans: D
+
+9. Manoj ranks 16th from the bottom in a class of 30 boys. What is his position from the top?
+
+৩০ জন ল'ৰাৰ শ্ৰেণী এটাৰ তলৰ পৰা মনোজ ১৬ নম্বৰত আছে। ওপৰৰ পৰা তেওঁৰ স্থান কিমান?
+A) 15th / ১৫তম
+B) 14th / ১৪তম
+C) 16th / ১৬তম
+D) 13th / ১৩তম
+Ans: A
+
+10. In a test, Sita ranks 10th from the top and Gita ranks 15th from the bottom. If they interchange their ranks, Sita becomes 22nd from the top. How many students are there in the class?
+
+পৰীক্ষা এটাত ওপৰৰ পৰা সীতা ১০ নম্বৰত আৰু তলৰ পৰা গীতা ১৫ নম্বৰত আছে। যদি তেওঁলোকে স্থান সলনি কৰে, সীতা ওপৰৰ পৰা ২২ নম্বৰত পৰে। শ্ৰেণীটোত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 35 / ৩৫
+B) 36 / ৩৬
+C) 37 / ৩৭
+D) 38 / ৩৮
+Ans: B
+
+11. In a class of 55 students, Deepak ranks 20th from the bottom. What is his rank from the top?
+
+৫৫ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাৰ তলৰ পৰা দীপক ২০ নম্বৰত আছে। ওপৰৰ পৰা তেওঁৰ স্থান কিমান?
+A) 35th / ৩৫তম
+B) 37th / ৩৭তম
+C) 36th / ৩৬তম
+D) 34th / ৩৪তম
+Ans: C
+
+12. In an exam result, Ramesh ranks 14th from the top and Suresh ranks 17th from the bottom. If there are 40 students in the class, how many students are between Ramesh and Suresh?
+
+পৰীক্ষাৰ ফলাফলত ওপৰৰ পৰা ৰমেশ ১৪ নম্বৰত আৰু তলৰ পৰা সুৰেশ ১৭ নম্বৰত আছে। যদি শ্ৰেণীটোত মুঠ ৪০ জন ছাত্ৰ-ছাত্ৰী থাকে, তেন্তে ৰমেশ আৰু সুৰেশৰ মাজত কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 8 / ৮
+B) 10 / ১০
+C) 11 / ১১
+D) 9 / ৯
+Ans: D
+
+13. In a merit list, A ranks 10th from the top and B ranks 9th from the bottom. When they interchange ranks, A becomes 15th from the top. How many students are there in total?
+
+মেধা তালিকাখনত ওপৰৰ পৰা A ১০ নম্বৰত আৰু তলৰ পৰা B ৯ নম্বৰত আছে। যেতিয়া তেওঁলোকে স্থান সলনি কৰে, A ওপৰৰ পৰা ১৫ নম্বৰত পৰে। মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 23 / ২৩
+B) 24 / ২৪
+C) 22 / ২২
+D) 25 / ২৫
+Ans: A
+
+14. If you are 12th in rank from either end in a class test, how many students are there in the class?
+
+যদি আপুনি শ্ৰেণী পৰীক্ষা এটাত দুয়োটা মূৰৰ পৰাই ১২ নম্বৰ স্থানত থাকে, তেন্তে শ্ৰেণীটোত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 24 / ২৪
+B) 23 / ২৩
+C) 22 / ২২
+D) 25 / ২৫
+Ans: B
+
+15. In a class of 32 students, Aniket ranks 15th from the bottom. What is his rank from the top?
+
+৩২ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাৰ তলৰ পৰা অনিকেত ১৫ নম্বৰত আছে। ওপৰৰ পৰা তেওঁৰ স্থান কিমান?
+A) 17th / ১৭তম
+B) 19th / ১৯ম
+C) 18th / ১৮তম
+D) 16th / ১৬তম
+Ans: C
+
+16. In a competition, Neha is ranked 31st from the top in a group of 50 participants. What is her rank from the bottom?
+
+প্রতিযোগিতা এখনত ৫০ জন অংশগ্ৰহণকাৰীৰ ভিতৰত ওপৰৰ পৰা নেহা ৩১ নম্বৰ স্থানত আছে। তলৰ পৰা তাইৰ স্থান কিমান?
+A) 19th / ১৯ম
+B) 21st / ২১তম
+C) 22nd / ২২তম
+D) 20th / ২০ম
+Ans: D
+
+17. In a class, Mohan ranks 12th from the top and Sohan ranks 18th from the bottom. If there are 6 students between them and no overlapping, what is the total number of students in the class?
+
+শ্ৰেণী এটাৰ ওপৰৰ পৰা মোহন ১২ নম্বৰত আৰু তলৰ পৰা সোহন ১৮ নম্বৰত আছে। যদি তেওঁলোকৰ মাজত ৬ জন ছাত্ৰ-ছাত্ৰী থাকে, তেন্তে শ্ৰেণীটোত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 36 / ৩৬
+B) 35 / ৩৫
+C) 37 / ৩৭
+D) 34 / ৩৪
+Ans: A
+
+18. In a class of 25 girls, Rina ranks 10th from the top. What is her rank from the bottom?
+
+২৫ গৰাকী ছোৱালীৰ শ্ৰেণী এটাৰ ওপৰৰ পৰা ৰীনা ১০ নম্বৰত আছে। তলৰ পৰা তাইৰ স্থান কিমান?
+A) 15th / ১৫তম
+B) 16th / ১৬তম
+C) 17th / ১৭তম
+D) 14th / ১৪তম
+Ans: B
+
+19. In a test, Pankaj ranks 8th from the top and Raju ranks 11th from the bottom. If they interchange ranks, Pankaj becomes 14th from the top. What is Raju's new rank from the bottom?
+
+পৰীক্ষা এটাত ওপৰৰ পৰা পংকজ ৮ নম্বৰত আৰু তলৰ পৰা ৰাজু ১১ নম্বৰত আছে। যদি তেওঁলোকে স্থান সলনি কৰে, পংকজ ওপৰৰ পৰা ১৪ নম্বৰত পৰে। তলৰ পৰা ৰাজুৰ নতুন স্থান কিমান?
+A) 18th / ১৮তম
+B) 16th / ১৬তম
+C) 17th / ১৭তম
+D) 19th / ১৯ম
+Ans: C
+
+20. In a list of 38 candidates, Nitin ranks 19th from the bottom. What is his rank from the top?
+
+৩৮ জন প্ৰাৰ্থীৰ তালিকাখনত তলৰ পৰা নিতিন ১৯ নম্বৰত আছে। ওপৰৰ পৰা তেওঁৰ স্থান কিমান?
+A) 19th / ১৯ম
+B) 21st / ২১তম
+C) 18th / ১৮ম
+D) 20th / ২০ম
+Ans: D
+
+21. In a class of 42 students, Mahesh ranks 16th from the top. What is his position from the bottom?
+
+৪২ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাৰ ওপৰৰ পৰা মহেশ ১৬ নম্বৰত আছে। তলৰ পৰা তেওঁৰ স্থান কিমান?
+A) 27th / ২৭তম
+B) 26th / ২৬তম
+C) 28th / ২৮তম
+D) 25th / ২৫তম
+Ans: A
+
+22. In a test, X ranks 13th from the top and Y ranks 15th from the bottom. When they interchange positions, Y becomes 21st from the bottom. How many students took the test?
+
+পৰীক্ষা এটাত ওপৰৰ পৰা X ১৩ নম্বৰত আৰু তলৰ পৰা Y ১৫ নম্বৰত আছে। যেতিয়া তেওঁলোকে স্থান সলনি কৰে, Y তলৰ পৰা ২১ নম্বৰত পৰে। পৰীক্ষাত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী অৱতীৰ্ণ হৈছিল?
+A) 34 / ৩৪
+B) 33 / ৩৩
+C) 32 / ৩২
+D) 35 / ৩৫
+Ans: B
+
+23. In a list of 35 people, Ajay ranks 22nd from the top. What is his position from the bottom?
+
+৩৫ জন মানুহৰ তালিকাখনত ওপৰৰ পৰা অজয় ২২ নম্বৰত আছে। তলৰ পৰা তেওঁৰ স্থান কিমান?
+A) 13th / ১৩তম
+B) 15th / ১৫তম
+C) 14th / ১৪তম
+D) 12th / ১২তম
+Ans: C
+
+24. In a class of 48 students, Pooja ranks 17th from the bottom. What is her rank from the top?
+
+৪৮ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাৰ তলৰ পৰা পূজা ১৭ নম্বৰত আছে। ওপৰৰ পৰা তাইৰ স্থান কিমান?
+A) 31st / ৩১তম
+B) 33rd / ৩৩তম
+C) 30th / ৩০তম
+D) 32nd / ৩২তম
+Ans: D
+
+25. A student ranks 25th from the top and 25th from the bottom in an examination. How many students appeared in the examination?
+
+পৰীক্ষা এটাত ওপৰৰ পৰা ২৫ নম্বৰত আৰু তলৰ পৰাও ২৫ নম্বৰত এজন ছাত্ৰ আছে। পৰীক্ষাত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী অৱতীৰ্ণ হৈছিল?
+A) 49 / ৪৯
+B) 50 / ৫০
+C) 51 / ৫১
+D) 48 / ৪৮
+Ans: A

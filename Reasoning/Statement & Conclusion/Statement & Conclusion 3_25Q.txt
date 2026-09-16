@@ -1,0 +1,274 @@
+1. Statements: Some rings are gold. No gold is silver.
+Conclusions: I. Some rings are not silver. II. All rings are silver.
+
+বক্তব্য: কিছুমান আঙুঠি সোণ। কোনো সোণ ৰূপ নহয়।
+সিদ্ধান্ত: I. কিছুমান আঙুঠি ৰূপ নহয়। II. সকলো আঙুঠি ৰূপ।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+2. Statements: Fast food causes health issues. Amit eats fast food every day.
+Conclusions: I. Amit may suffer from health issues. II. Fast food should be banned.
+
+বক্তব্য: ফাষ্ট ফুডে স্বাস্থ্যৰ সমস্যাৰ সৃষ্টি কৰে। অমিতে প্ৰতিদিনে ফাষ্ট ফুড খায়।
+সিদ্ধান্ত: I. অমিত স্বাস্থ্যৰ সমস্যাত ভুগিব পাৰে। II. ফাষ্ট ফুড নিষিদ্ধ কৰা উচিত।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+3. Statements: All stars are planets. All planets are galaxies.
+Conclusions: I. All stars are galaxies. II. Some galaxies are stars.
+
+বক্তব্য: সকলো তৰা গ্ৰহ। সকলো গ্ৰহ তাৰকাৰাজ্য।
+সিদ্ধান্ত: I. সকলো তৰা তাৰকাৰাজ্য। II. কিছুমান তাৰকাৰাজ্য তৰা।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+4. Statements: Some men are brave. All brave people are leaders.
+Conclusions: I. Some men are leaders. II. All leaders are men.
+
+বক্তব্য: কিছুমান মানুহ সাহসী। সকলো সাহসী লোক নেতা।
+সিদ্ধান্ত: I. কিছুমান মানুহ নেতা। II. সকলো নেতা মানুহ।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+5. Statements: Solar energy is renewable. India is investing in solar power.
+Conclusions: I. India is moving towards renewable energy. II. Solar power will replace all other energy sources in India.
+
+বক্তব্য: সৌৰ শক্তি নৱীকৰণযোগ্য। ভাৰতে সৌৰ শক্তিত বিনিয়োগ কৰিছে।
+সিদ্ধান্ত: I. ভাৰত নৱীকৰণযোগ্য শক্তিৰ দিশে অগ্ৰসৰ হৈছে। II. সৌৰ শক্তিয়ে ভাৰতৰ বাকী সকলো শক্তিৰ উৎসৰ স্থান ল’ব।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+6. Statements: No Pen is a Pencil. No Pencil is an Eraser.
+Conclusions: I. No Pen is an Eraser. II. Some Pens are Erasers.
+
+বক্তব্য: কোনো কলম পেন্সিল নহয়। কোনো পেন্সিল ৰবাৰ নহয়।
+সিদ্ধান্ত: I. কোনো কলম ৰবাৰ নহয়। II. কিছুমান কলম ৰবাৰ।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Either conclusion I or II follows / হয় সিদ্ধান্ত I নহয় II অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+7. Statements: All birds have feathers. Ostrich is a bird.
+Conclusions: I. Ostrich has feathers. II. All animals with feathers are ostriches.
+
+বক্তব্য: সকলো চৰাইৰ পাখি থাকে। উটপক্ষী এবিধ চৰাই।
+সিদ্ধান্ত: I. উটপক্ষীৰ পাখি থাকে। II. পাখি থকা সকলো প্ৰাণী উটপক্ষী।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+8. Statements: Literacy rate is rising in Village K. Primary schools were constructed recently.
+Conclusions: I. Construction of primary schools helped increase literacy. II. Village K now has 100% literacy.
+
+বক্তব্য: K গাঁৱত সাক্ষৰতাৰ হাৰ বৃদ্ধি পাইছে। অলপতে প্ৰাথমিক বিদ্যালয় নিৰ্মাণ কৰা হৈছিল।
+সিদ্ধান্ত: I. প্ৰাথমিক বিদ্যালয় নিৰ্মাণে সাক্ষৰতা বৃদ্ধিত সহায় কৰিলে। II. K গাঁৱত এতিয়া 100% সাক্ষৰতা আছে।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+9. Statements: Some cats are dogs. No dog is a rat.
+Conclusions: I. Some cats are not rats. II. No rat is a cat.
+
+বক্তব্য: কিছুমান মেকুৰী কুকুৰ। কোনো কুকুৰ এন্দুৰ নহয়।
+সিদ্ধান্ত: I. কিছুমান মেকুৰী এন্দুৰ নহয়। II. কোনো এন্দুৰ মেকুৰী নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+10. Statements: Water conservation is essential for survival. City A faces acute water shortage.
+Conclusions: I. City A needs water conservation measures immediately. II. City A has no rivers nearby.
+
+বক্তব্য: জীৱন ধাৰণৰ বাবে পানী সংৰক্ষণ অপৰিহাৰ্য। A চহৰত তীব্ৰ পানীৰ অভাৱ ঘটিছে।
+সিদ্ধান্ত: I. A চহৰত তৎকালে পানী সংৰক্ষণৰ ব্যৱস্থা প্ৰয়োজন। II. A চহৰৰ ওচৰত কোনো নদী নাই।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+11. Statements: All shirts are pants. All pants are jackets.
+Conclusions: I. All shirts are jackets. II. Some jackets are shirts.
+
+বক্তব্য: সকলো ছাৰ্ট পেণ্ট। সকলো পেণ্ট জেকেট।
+সিদ্ধান্ত: I. সকলো ছাৰ্ট জেকেট। II. কিছুমান জেকেট ছাৰ্ট।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+12. Statements: Organic farming reduces chemical exposure. Farmer Ramesh adopted organic techniques.
+Conclusions: I. Ramesh will produce chemical-free crops. II. Ramesh will become wealthy.
+
+বক্তব্য: জৈৱিক কৃষিয়ে ৰাসায়নিক সঁচ সলনি হ্ৰাস কৰে। কৃষক ৰামেশে জৈৱিক পদ্ধতি গ্ৰহণ কৰিলে।
+সিদ্ধান্ত: I. ৰামেশে ৰাসায়নিক মুক্ত ফচল উৎপাদন কৰিব। II. ৰামেশ ধনী হৈ পৰিব।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+13. Statements: Some toys are plastic. No plastic is glass.
+Conclusions: I. Some toys are not glass. II. All toys are glass.
+
+বক্তব্য: কিছুমান পুতলা প্লাষ্টিক। কোনো প্লাষ্টিক কাঁচ নহয়।
+সিদ্ধান্ত: I. কিছুমান পুতলা কাঁচ নহয়। II. সকলো পুতলা কাঁচ।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+14. Statements: All students who score above 90% get scholarships. Priya got a scholarship.
+Conclusions: I. Priya scored above 90%. II. Students scoring below 90% never get scholarships.
+
+বক্তব্য: 90% তকৈ অধিক নম্বৰ পোৱা সকলো ছাত্ৰ-ছাত্ৰীয়ে জলপানি পায়। প্ৰিয়া জলপানি পালে।
+সিদ্ধান্ত: I. প্ৰিয়াই 90% তকৈ অধিক নম্বৰ পাইছিল। II. 90% তকৈ কম নম্বৰ পোৱা ছাত্ৰ-ছাত্ৰীয়ে কেতিয়াও জলপানি নাপায়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: D
+
+15. Statements: All fish live in water. Whales live in water.
+Conclusions: I. Whales are fish. II. Some creatures living in water are fish.
+
+বক্তব্য: সকলো মাছ পানীত থাকে। তিমি পানীত থাকে।
+সিদ্ধান্ত: I. তিমি এবিধ মাছ। II. পানীত থকা কিছুমান প্ৰাণী মাছ।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: B
+
+16. Statements: Drinking clean water prevents waterborne diseases. Village P was provided water purifiers.
+Conclusions: I. Waterborne diseases will reduce in Village P. II. Village P now has zero disease.
+
+বক্তব্য: পৰিষ্কাৰ পানী খালে পানীৰ পৰা হোৱা ৰোগ ৰোধ হয়। P গাঁৱত পানী শোধন যন্ত্ৰ প্ৰদান কৰা হৈছিল।
+সিদ্ধান্ত: I. P গাঁৱত পানীৰ পৰা হোৱা ৰোগ হ্ৰাস পাব। II. P গাঁৱত এতিয়া কোনো ৰোগ নাই।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+17. Statements: Electric cars cause less urban pollution. Demand for electric cars is rising.
+Conclusions: I. People prefer less polluting cars. II. Petrol cars will be completely discontinued next year.
+
+বক্তব্য: বৈদ্যুতিক গাড়ীয়ে চহৰত কম প্ৰদূষণ ঘটায়। বৈদ্যুতিক গাড়ীৰ চাহিদা বৃদ্ধি পাইছে।
+সিদ্ধান্ত: I. মানুহে কম প্ৰদূষণ কৰা গাড়ী পছন্দ কৰে। II. অহা বছৰ পেট্ৰ’ল গাড়ী সম্পূৰ্ণৰূপে বন্ধ হ’ব।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+18. Statements: Some books are notebooks. All notebooks are paper.
+Conclusions: I. Some books are paper. II. Some paper are books.
+
+বক্তব্য: কিছুমান কিতাপ নোটবুক। সকলো নোটবুক কাগজ।
+সিদ্ধান্ত: I. কিছুমান কিতাপ কাগজ। II. কিছুমান কাগজ কিতাপ।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+19. Statements: Stress causes health problems. Yoga helps reduce stress.
+Conclusions: I. Yoga helps maintain health. II. Yoga is the only cure for stress.
+
+বক্তব্য: মানসিক চাপে স্বাস্থ্যৰ সমস্যাৰ সৃষ্টি কৰে। যোগাভ্যাসে মানসিক চাপ কমোৱাত সহায় কৰে।
+সিদ্ধান্ত: I. যোগাভ্যাসে স্বাস্থ্য সুৰক্ষিত ৰখাত সহায় কৰে। II. যোগাভ্যাস মানসিক চাপৰ একমাত্ৰ চিকিৎসা।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+20. Statements: All mammals give birth to live young. Mammals have backbone.
+Conclusions: I. Creatures with backbone give birth to live young. II. All live-young birth givers are mammals.
+
+বক্তব্য: সকলো স্তন্যপায়ী প্ৰাণীয়ে পোৱালি জন্ম দিয়ে। স্তন্যপায়ী প্ৰাণীৰ মেৰুদণ্ড থাকে।
+সিদ্ধান্ত: I. মেৰুদণ্ড থকা প্ৰাণীয়ে পোৱালি জন্ম দিয়ে। II. পোৱালি জন্ম দিয়া সকলো প্ৰাণী স্তন্যপায়ী।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: D
+
+21. Statements: Some instruments are guitars. All guitars are music tools.
+Conclusions: I. Some instruments are music tools. II. No instrument is a music tool.
+
+বক্তব্য: কিছুমান বাদ্যযন্ত্ৰ গিটাৰ। সকলো গিটাৰ সংগীত সঁজুলি।
+সিদ্ধান্ত: I. কিছুমান বাদ্যযন্ত্ৰ সংগীত সঁজুলি। II. কোনো বাদ্যযন্ত্ৰ সংগীত সঁজুলি নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+22. Statements: Quality education is essential for economic progress. Country Z invested heavily in schools.
+Conclusions: I. Country Z aims for economic progress. II. Investment in schools ensures quality education.
+
+বক্তব্য: অৰ্থনৈতিক প্ৰগতিৰ বাবে গুণগত শিক্ষা অপৰিহাৰ্য। Z দেশখনে বিদ্যালয়সমূহত প্ৰচুৰ বিনিয়োগ কৰিছে।
+সিদ্ধান্ত: I. Z দেশৰ লক্ষ্য অৰ্থনৈতিক প্ৰগতি। II. বিদ্যালয়ত বিনিয়োগ কৰিলে গুণগত শিক্ষা সুনিশ্চিত হয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+23. Statements: No lion is herbivorous. All cows are herbivorous.
+Conclusions: I. No cow is a lion. II. No lion is a cow.
+
+বক্তব্য: কোনো সিংহ তৃণভোজী নহয়। সকলো গৰু তৃণভোজী।
+সিদ্ধান্ত: I. কোনো গৰু সিংহ নহয়। II. কোনো সিংহ গৰু নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+24. Statements: All trees yield oxygen. Banyan is a tree.
+Conclusions: I. Banyan yields oxygen. II. Banyan gives the highest oxygen among all trees.
+
+বক্তব্য: সকলো গছে অক্সিজেন দিয়ে। বট গছ এবিধ গছ।
+সিদ্ধান্ত: I. বট গছে অক্সিজেন দিয়ে। II. বট গছে সকলো গছৰ তুলনাত সৰ্বাধিক অক্সিজেন দিয়ে।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+25. Statements: Some computers are laptops. Some laptops are tablets.
+Conclusions: I. Some computers are tablets. II. No computer is a tablet.
+
+বক্তব্য: কিছুমান কম্পিউটাৰ লেপটপ। কিছুমান লেপটপ টেবলট।
+সিদ্ধান্ত: I. কিছুমান কম্পিউটাৰ টেবলট। II. কোনো কম্পিউটাৰ টেবলট নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Either conclusion I or II follows / হয় সিদ্ধান্ত I নহয় II অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C

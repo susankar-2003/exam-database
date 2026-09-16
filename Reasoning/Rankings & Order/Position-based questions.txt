@@ -1,0 +1,224 @@
+1. Rahul is 8th to the right of Vijay who is 15th from the left end in a row of 40 boys. What is Rahul's position from the right end?
+
+৪০ জন ল'ৰাৰ শাৰী এটাৰ বাওঁফালৰ পৰা ১৫ নম্বৰত থকা বিজয়ৰ সোঁফালে ৮ম স্থানত ৰাহুল আছে। সোঁফালৰ পৰা ৰাহুলৰ স্থান কিমান?
+A) 19th / ১৯ম
+B) 18th / ১৮ম
+C) 17th / ১৭তম
+D) 20th / ২০ম
+Ans: B
+
+2. In a row of 35 students, A is 10th from the left end and B is 12th from the right end. C is sitting exactly in the middle of A and B. What is C's position from the left end?
+
+৩৫ জন ছাত্ৰ-ছাত্ৰীৰ শাৰী এটাৰ বাওঁফালৰ পৰা A ১০ নম্বৰত আৰু সোঁফালৰ পৰা B ১২ নম্বৰত আছে। C, A আৰু B ৰ ঠিক মাজত বহিল। বাওঁফালৰ পৰা C ৰ স্থান কিমান?
+A) 16th / ১৬তম
+B) 18th / ১৮তম
+C) 17th / ১৭তম
+D) 15th / ১৫তম
+Ans: C
+
+3. In a queue of 50 people, Amit is 18th from the front end. Sumit is 6 ranks behind Amit. What is Sumit's position from the rear end?
+
+৫০ জন মানুহৰ শাৰী এটাৰ সন্মুখৰ পৰা অমিত ১৮ নম্বৰত আছে। সুমিত অমিততকৈ ৬ টা স্থান পিছত আছে। পিছফালৰ পৰা সুমিতৰ স্থান কিমান?
+A) 27th / ২৭তম
+B) 26th / ২৬তম
+C) 28th / ২৮তম
+D) 25th / ২৫তম
+Ans: A
+
+4. In a row of 30 children, Mahesh is shifted 4 places towards the right and becomes 18th from the left end. What was his original position from the right end?
+
+৩০ জন শিশুৰ শাৰী এটাৰ মহেশক সোঁফালে ৪ টা স্থান স্থানান্তৰ কৰাৰ পিছত তেওঁ বাওঁফালৰ পৰা ১৮ নম্বৰত পৰে। সোঁফালৰ পৰা তেওঁৰ মূল স্থান কি আছিল?
+A) 18th / ১৮তম
+B) 17th / ১৭তম
+C) 16th / ১৬তম
+D) 19th / ১৯ম
+Ans: B
+
+5. In a row of 45 girls, Rina is 12th from the left end and Pooja is 16th from the right end. If Neha sits exactly between them, what is Neha's position from the left end?
+
+৪৫ গৰাকী ছোৱালীৰ শাৰী এটাৰ বাওঁফালৰ পৰা ৰীনা ১২ নম্বৰত আৰু সোঁফালৰ পৰা পূজা ১৬ নম্বৰত আছে। যদি নেহা তেওঁলোকৰ ঠিক মাজত বসে, তেন্তে বাওঁফালৰ পৰা নেহাৰ স্থান কিমান?
+A) 21st / ২১তম
+B) 20th / ২০ম
+C) 22nd / ২২তম
+D) 19th / ১৯ম
+Ans: A
+
+6. In a row of 32 persons, Suresh is 7th to the left of Ramesh who is 20th from the right end. What is Suresh's position from the left end?
+
+৩২ জন ব্যক্তিৰ শাৰী এটাৰ সোঁফালৰ পৰা ২০ নম্বৰত থকা ৰমেশৰ বাওঁফালে ৭ম স্থানত সুৰেশ আছে। বাওঁফালৰ পৰা সুৰেশৰ স্থান কিমান?
+A) 8th / ৮ম
+B) 7th / ৭ম
+C) 5th / ৫ম
+D) 6th / ৬ষ্ঠ
+Ans: D
+
+7. In a class of 50 students, Karan's rank is 10 ranks ahead of Shivam who is 25th from the bottom. What is Karan's rank from the top?
+
+৫০ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাৰ তলৰ পৰা ২৫ নম্বৰত থকা শিৱমতকৈ কৰণ ১০ টা স্থান আগত আছে। ওপৰৰ পৰা কৰণৰ স্থান কিমান?
+A) 14th / ১৪তম
+B) 15th / ১৫তম
+C) 16th / ১৬তম
+D) 17th / ১৭তম
+Ans: C
+
+8. In a row of 28 children, Aniket is shifted 3 places towards the left and becomes 10th from the left end. What is his original position from the right end?
+
+২৮ জন শিশুৰ শাৰী এটাৰ অনিকেতক বাওঁফালে ৩ টা স্থান স্থানান্তৰ কৰাত তেওঁ বাওঁফালৰ পৰা ১০ নম্বৰত পৰে। সোঁফালৰ পৰা তেওঁৰ মূল স্থান কি আছিল?
+A) 16th / ১৬তম
+B) 15th / ১৫তম
+C) 17th / ১৭তম
+D) 14th / ১৪তম
+Ans: A
+
+9. In a line of 40 students, Priya is 15th from the left end and Divya is 10th from the right end. How many students are there between Priya and Divya?
+
+৪০ জন ছাত্ৰ-ছাত্ৰীৰ শাৰী এটাৰ বাওঁফালৰ পৰা প্ৰিয়া ১৫ নম্বৰত আৰু সোঁফালৰ পৰা দিব্যা ১০ নম্বৰত আছে। প্ৰিয়া আৰু দিব্যাৰ মাজত কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 14 / ১৪
+B) 15 / ১৫
+C) 16 / ১৬
+D) 13 / ১৩
+Ans: B
+
+10. In a row of 35 persons, A is 11th from the left end and B is 15th from the right end. If C sits exactly between A and B, what is C's position from the right end?
+
+৩৫ জন ব্যক্তিৰ শাৰী এটাৰ বাওঁফালৰ পৰা A ১১ নম্বৰত আৰু সোঁফালৰ পৰা B ১৫ নম্বৰত আছে। যদি C, A আৰু B ৰ ঠিক মাজত বসে, তেন্তে সোঁফালৰ পৰা C ৰ স্থান কিমান?
+A) 18th / ১৮তম
+B) 19th / ১৯ম
+C) 21st / ২১তম
+D) 20th / ২০ম
+Ans: D
+
+11. In a queue of 45 people, Nitin is 12th from the front. If Kapil is 5 positions behind Nitin, what is Kapil's rank from the rear end?
+
+৪৫ জন মানুহৰ শাৰী এটাৰ সন্মুখৰ পৰা নিতিন ১২ নম্বৰত আছে। যদি কাপিল নিতিনতকৈ ৫ টা স্থান পিছত থাকে, তেন্তে পিছফালৰ পৰা কাপিলৰ স্থান কিমান?
+A) 28th / ২৮তম
+B) 30th / ৩০তম
+C) 29th / ২৯তম
+D) 27th / ২৭তম
+Ans: C
+
+12. In a row of 30 students, Deepak is 6th to the right of Pradeep who is 12th from the left end. What is Deepak's position from the right end?
+
+৩০ জন ছাত্ৰ-ছাত্ৰীৰ শাৰী এটাৰ বাওঁফালৰ পৰা ১২ নম্বৰত থকা প্ৰদীপৰ সোঁফালে ৬ষ্ঠ স্থানত দীপক আছে। সোঁফালৰ পৰা দীপকৰ স্থান কিমান?
+A) 13th / ১৩তম
+B) 14th / ১৪তম
+C) 12th / ১২তম
+D) 15th / ১৫তম
+Ans: A
+
+13. In a row of 40 persons, Sunita is shifted 5 places to the right and becomes 20th from the left end. What was her original position from the right end?
+
+৪০ জন ব্যক্তিৰ শাৰী এটাৰ সুনীতাক সোঁফালে ৫ টা স্থান স্থানান্তৰ কৰাত তেওঁ বাওঁফালৰ পৰা ২০ নম্বৰত পৰে। সোঁফালৰ পৰা তাইৰ মূল স্থান কি আছিল?
+A) 25th / ২৫তম
+B) 26th / ২৬তম
+C) 27th / ২৭তম
+D) 24th / ২৪তম
+Ans: B
+
+14. In a class of 60 students, Rakesh is 15th from the top. Monu is 8 ranks below Rakesh. What is Monu's rank from the bottom?
+
+৬০ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাৰ ওপৰৰ পৰা ৰাকেশ ১৫ নম্বৰত আছে। মনু ৰাকেশতকৈ ৮ টা স্থান তলত আছে। তলৰ পৰা মনুৰ স্থান কিমান?
+A) 37th / ৩৭তম
+B) 39th / ৩৯তম
+C) 36th / ৩৬তম
+D) 38th / ৩৮তম
+Ans: D
+
+15. In a row of 50 boys, Vikas is 18th from the left end. If Pankaj is 7th to the left of Vikas, what is Pankaj's position from the right end?
+
+৫০ জন ল'ৰাৰ শাৰী এটাৰ বাওঁফালৰ পৰা ১৮ নম্বৰত থকা বিকাশৰ বাওঁফালে ৭ম স্থানত পংকজ আছে। সোঁফালৰ পৰা পংকজৰ স্থান কিমান?
+A) 39th / ৩৯তম
+B) 41st / ৪১তম
+C) 40th / ৪০তম
+D) 38th / ৩৮তম
+Ans: C
+
+16. In a row of 33 students, Maya is 9th from the left end and Swati is 11th from the right end. How many students are there between Maya and Swati?
+
+৩৩ জন ছাত্ৰ-ছাত্ৰীৰ শাৰী এটাৰ বাওঁফালৰ পৰা মায়া ৯ নম্বৰত আৰু সোঁফালৰ পৰা স্বাতী ১১ নম্বৰত আছে। মায়া আৰু স্বাতীৰ মাজত কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 13 / ১৩
+B) 12 / ১২
+C) 14 / ১৪
+D) 11 / ১১
+Ans: A
+
+17. In a row of 25 persons, X is shifted 3 places to the left and becomes 8th from the left end. What was his original position from the right end?
+
+২৫ জন ব্যক্তিৰ শাৰী এটাৰ X ক বাওঁফালে ৩ টা স্থান স্থানান্তৰ কৰাত তেওঁ বাওঁফালৰ পৰা ৮ম স্থানত পৰে। সোঁফালৰ পৰা তেওঁৰ মূল স্থান কি আছিল?
+A) 16th / ১৬তম
+B) 15th / ১৫তম
+C) 14th / ১৪তম
+D) 17th / ১৭তম
+Ans: B
+
+18. In a queue of 42 people, Rohan is 16th from the front. Sohan is 9 positions behind Rohan. What is Sohan's position from the rear end?
+
+৪২ জন মানুহৰ শাৰী এটাৰ সন্মুখৰ পৰা ৰোহন ১৬ নম্বৰত আছে। সোহন ৰোহনতকৈ ৯ টা স্থান পিছত আছে। পিছফালৰ পৰা সোহনৰ স্থান কিমান?
+A) 17th / ১৭তম
+B) 19th / ১৯ম
+C) 18th / ১৮তম
+D) 20th / ২০ম
+Ans: C
+
+19. In a row of 39 students, Geeta is 14th from the right end and Seema is 8th to the left of Geeta. What is Seema's position from the left end?
+
+৩৯ জন ছাত্ৰ-ছাত্ৰীৰ শাৰী এটাৰ সোঁফালৰ পৰা ১৪ নম্বৰত থকা গীতাৰ বাওঁফালে ৮ম স্থানত সীমা আছে। বাওঁফালৰ পৰা সীমাৰ স্থান কিমান?
+A) 18th / ১৮তম
+B) 17th / ১৭তম
+C) 19th / ১৯ম
+D) 20th / ২০ম
+Ans: A
+
+20. In a class of 48 students, Asha is 12th from the top and Bina is 18th from the bottom. How many students are between Asha and Bina?
+
+৪৮ জন ছাত্ৰ-ছাত্ৰীৰ শ্ৰেণী এটাৰ ওপৰৰ পৰা আশা ১২ নম্বৰত আৰু তলৰ পৰা বীণা ১৮ নম্বৰত আছে। আশা আৰু বীণাৰ মাজত কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 17 / ১৭
+B) 19 / ১৯
+C) 16 / ১৬
+D) 18 / ১৮
+Ans: D
+
+21. In a row of 30 children, Amit is 5th to the right of Sumit who is 10th from the left end. What is Amit's position from the right end?
+
+৩০ জন শিশুৰ শাৰী এটাৰ বাওঁফালৰ পৰা ১০ নম্বৰত থকা সুমিতৰ সোঁফালে ৫ম স্থানত অমিত আছে। সোঁফালৰ পৰা অমিতৰ স্থান কিমান?
+A) 15th / ১৫তম
+B) 16th / ১৬তম
+C) 17th / ১৭তম
+D) 14th / ১৪তম
+Ans: B
+
+22. In a queue of 35 people, Pankaj is 14th from the front. What was his original position from the rear end?
+
+৩৫ জন মানুহৰ শাৰী এটাৰ সন্মুখৰ পৰা পংকজ ১৪ নম্বৰত আছে। পিছফালৰ পৰা তেওঁৰ মূল স্থান কি আছিল?
+A) 21st / ২১তম
+B) 23rd / ২৩তম
+C) 22nd / ২২তম
+D) 20th / ২০ম
+Ans: C
+
+23. In a row of 40 persons, A is 12th from the left end and B is 8th to the right of A. What is B's position from the right end?
+
+৪০ জন ব্যক্তিৰ শাৰী এটাৰ বাওঁফালৰ পৰা ১২ নম্বৰত থকা A ৰ সোঁফালে ৮ম স্থানত B আছে। সোঁফালৰ পৰা B ৰ স্থান কিমান?
+A) 21st / ২১তম
+B) 20th / ২০ম
+C) 22nd / ২২তম
+D) 19th / ১৯ম
+Ans: A
+
+24. In a merit list of 55 students, Varun is ranked 16th from the top. Tarun is 10 ranks below Varun. What is Tarun's rank from the bottom?
+
+৫৫ জন ছাত্ৰ-ছাত্ৰীৰ মেধা তালিকাত ওপৰৰ পৰা বৰুণ ১৬ নম্বৰত আছে। তৰুণ বৰুণতকৈ ১০ টা স্থান তলত আছে। তলৰ পৰা তৰুণৰ স্থান কিমান?
+A) 28th / ২৮তম
+B) 29th / ২৯তম
+C) 31st / ৩১তম
+D) 30th / ৩০তম
+Ans: D
+
+25. In a row of 29 boys, Rohit is 10th from the left end and Mohit is 12th from the right end. If Shyamlal sits exactly in the middle of Rohit and Mohit, what is Shyamlal's position from the left end?
+
+২৯ জন ল'ৰাৰ শাৰী এটাৰ বাওঁফালৰ পৰা ৰোহিত ১০ নম্বৰত আৰু সোঁফালৰ পৰা মোহিত ১২ নম্বৰত আছে। যদি শ্যামলাল ৰোহিত আৰু মোহিতৰ ঠিক মাজত বসে, তেন্তে বাওঁফালৰ পৰা শ্যামলালৰ স্থান কিমান?
+A) 13th / ১৩তম
+B) 14th / ১৪তম
+C) 15th / ১৫তম
+D) 12th / ১২তম
+Ans: B

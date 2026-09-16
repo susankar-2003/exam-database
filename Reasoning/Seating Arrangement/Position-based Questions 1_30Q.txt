@@ -1,0 +1,269 @@
+1. In a row of 40 students, Rahul is 15th from the left end. What is his position from the right end?
+
+40 জন ছাত্ৰৰ এটা শাৰীত ৰাহুল বাওঁফালৰ পৰা 15 নম্বৰ স্থানত আছে। সোঁফালৰ পৰা তেওঁৰ স্থান কিমান?
+A) 25th / 25তম
+B) 26th / 26তম
+C) 27th / 27তম
+D) 24th / 24তম
+Ans: B
+
+2. In a row of 30 boys, Amit is 12th from the right end. What is his position from the left end?
+
+30 জন ল’ৰাৰ এটা শাৰীত অমিত সোঁফালৰ পৰা 12 নম্বৰ স্থানত আছে। বাওঁফালৰ পৰা তেওঁৰ স্থান কিমান?
+A) 18th / 18তম
+B) 19th / 19তম
+C) 20th / 20তম
+D) 21st / 21তম
+Ans: B
+
+3. In a row, Suresh is 7th from the left and Rohit is 12th from the right. If they interchange their positions, Suresh becomes 22nd from the left. How many persons are there in the row?
+
+এটা শাৰীত সুৰেশ বাওঁফালৰ পৰা 7ম আৰু ৰোহিত সোঁফালৰ পৰা 12তম স্থানত আছে। যদি তেওঁলোকে স্থান সলনি কৰে, সুৰেশ বাওঁফালৰ পৰা 22তম স্থানলৈ আহে। শাৰীটোত মুঠ কেইজন ব্যক্তি আছে?
+A) 31
+B) 32
+C) 33
+D) 34
+Ans: C
+
+4. In a row of 50 people, Priya is 20th from the left end and Riya is 15th from the right end. How many people are sitting between them?
+
+50 জন ব্যক্তিৰ এটা শাৰীত প্ৰিয়া বাওঁফালৰ পৰা 20তম আৰু ৰিয়া সোঁফালৰ পৰা 15তম স্থানত আছে। তেওঁলোকৰ মাজত কেইজন ব্যক্তি বহি আছে?
+A) 13
+B) 14
+C) 15
+D) 16
+Ans: C
+
+5. In a row of 25 girls, Deepa is 10th from the left end and Swati is 18th from the left end. How many girls are sitting between them?
+
+25 জনী ছোৱালীৰ এটা শাৰীত দীপা বাওঁফালৰ পৰা 10ম আৰু স্বাতী বাওঁফালৰ পৰা 18তম স্থানত আছে। তেওঁলোকৰ মাজত কেইজনী ছোৱালী আছে?
+A) 7
+B) 8
+C) 9
+D) 6
+Ans: A
+
+6. In a row of boys facing North, A is 10th from the left and B is 9th from the right. If they interchange their positions, A becomes 15th from the left. How many boys are there in the row?
+
+উত্তৰফালে মুখ কৰি বহা ল’ৰাৰ এটা শাৰীত A বাওঁফালৰ পৰা 10ম আৰু B সোঁফালৰ পৰা 9ゴルフクラブ স্থানত আছে। যদি তেওঁলোকে স্থান সালসলনি কৰে, A বাওঁফালৰ পৰা 15তম হয়। শাৰীটোত মুঠ কেইজন ল’ৰা আছে?
+A) 23
+B) 24
+C) 25
+D) 22
+Ans: A
+
+7. In a row of 35 students, Rohan is 18th from the left end. If he shifts 3 places to his right, what will be his position from the right end?
+
+35 জন ছাত্ৰৰ এটা শাৰীত ৰোহন বাওঁফালৰ পৰা 18তম স্থানত আছে। যদি তেওঁ নিজৰ সোঁফালে 3 টা স্থান সলনি কৰে, সোঁফালৰ পৰা তেওঁৰ স্থান কিমান হ’ব?
+A) 14th / 14তম
+B) 15th / 15তম
+C) 16th / 16তম
+D) 17th / 17তম
+Ans: B
+
+8. In a row of 40 boys, Manoj is 14th from the left end and Sachin is 7th from the right end. How many boys are sitting between Manoj and Sachin?
+
+40 জন ল’ৰাৰ এটা শাৰীত মনোজ বাওঁফালৰ পৰা 14তম আৰু শচীন সোঁফালৰ পৰা 7ম স্থানত আছে। মনোজ আৰু শচীনৰ মাজত কেইজন ল’ৰা বহি আছে?
+A) 18
+B) 19
+C) 20
+D) 21
+Ans: B
+
+9. In a row of girls, Kamla is 9th from the left and Veena is 16th from the right. If they interchange their positions, Kamla becomes 25th from the left. How many girls are there in the row?
+
+ছোৱালীৰ এটা শাৰীত কমলা বাওঁফালৰ পৰা 9মে আৰু বীণা সোঁফালৰ পৰা 16তম স্থানত আছে। স্থান সলনি কৰাৰ পিছত কমলা বাওঁফালৰ পৰা 25তম হয়। শাৰীটোত মুঠ কেইজনী ছোৱালী আছে?
+A) 38
+B) 39
+C) 40
+D) 41
+Ans: C
+
+10. In a class of 45 students, A's rank is 15th from the top. What is A's rank from the bottom?
+
+45 জন ছাত্ৰ-ছাত্ৰীৰ এটা শ্ৰেণীত A ৰ স্থান ওপৰৰ পৰা 15তম। তলৰ পৰা A ৰ স্থান কিমান?
+A) 30th / 30তম
+B) 31st / 31তম
+C) 32nd / 32তম
+D) 33rd / 33তম
+Ans: B
+
+11. In a row facing North, Sunita is 8th to the right of Anita, who is 12th from the left end. What is Sunita's position from the left end?
+
+উত্তৰফালে মুখ কৰি বহা শাৰীত সুনীতা অনিতাৰ সোঁফালে 8ম স্থানত আছে, যি বাওঁফালৰ পৰা 12তম স্থানত আছে। বাওঁফালৰ পৰা সুনীতাৰ স্থান কিমান?
+A) 18th / 18তম
+B) 19th / 19তম
+C) 20th / 20তম
+D) 21st / 21তম
+Ans: C
+
+12. In a row of 30 people facing North, P is 6th to the left of Q, who is 18th from the right end. What is P's position from the right end?
+
+30 জন ব্যক্তিৰ এটা শাৰীত P, Q ৰ বাওঁফালে 6ষ্ঠ স্থানত আছে, যি সোঁফালৰ পৰা 18তম স্থানত আছে। সোঁফালৰ পৰা P ৰ স্থান কিমান?
+A) 22nd / 22তম
+B) 23rd / 23তম
+C) 24th / 24তম
+D) 25th / 25তম
+Ans: C
+
+13. In a row of 60 persons, A is 22nd from the left end and B is 35th from the right end. How many persons sit between A and B?
+
+60 জন ব্যক্তিৰ এটা শাৰীত A বাওঁফালৰ পৰা 22তম আৰু B সোঁফালৰ পৰা 35তম স্থানত আছে। A আৰু B ৰ মাজত কেইজন ব্যক্তি বহি আছে?
+A) 2
+B) 3
+C) 4
+D) 5
+Ans: B
+
+14. In a row of 20 students, Rakesh is 5th from the right end. If he shifts 4 places towards the left, what is his new position from the left end?
+
+20 জন ছাত্ৰৰ এটা শাৰীত ৰাকেশ সোঁফালৰ পৰা 5ম স্থানত আছে। যদি তেওঁ বাওঁফালে 4 টা স্থান সলনি কৰে, বাওঁফালৰ পৰা তেওঁৰ নতুন স্থান কি হ’ব?
+A) 11th / 11তম
+B) 12th / 12তম
+C) 13th / 13তম
+D) 14th / 14তম
+Ans: B
+
+15. In a row of boys, Ravi is 15th from the left and Amit is 15th from the right. If there are 5 boys between them and Ravi is to the left of Amit, how many boys are there in total?
+
+ল’ৰাৰ এটা শাৰীত ৰবি বাওঁফালৰ পৰা 15তম আৰু অমিত সোঁফালৰ পৰা 15তম স্থানত আছে। যদি তেওঁলোকৰ মাজত 5 জন ল’ৰা থাকে আৰু ৰবি অমিতৰ বাওঁফালে থাকে, তেন্তে মুঠ কেইজন ল’ৰা আছে?
+A) 33
+B) 34
+C) 35
+D) 36
+Ans: C
+
+16. In a row of 28 children, Aniket is 11th from the right end. What is his position from the left end?
+
+28 জন শিশুৰ এটা শাৰীত অনিকেত সোঁফালৰ পৰা 11তম স্থানত আছে। বাওঁফালৰ পৰা তেওঁৰ স্থান কিমান?
+A) 17th / 17তম
+B) 18th / 18তম
+C) 19th / 19তম
+D) 20th / 20তম
+Ans: B
+
+17. In a row facing North, X is 14th from the left end and Y is 12th from the right end. If they exchange places, X becomes 20th from the left end. What is Y's new position from the right end?
+
+উত্তৰফালে মুখ কৰি বহা এটা শাৰীত X বাওঁফালৰ পৰা 14তম আৰু Y সোঁফালৰ পৰা 12তম স্থানত আছে। স্থান সালসলনি কৰাৰ পিছত X বাওঁফালৰ পৰা 20তম হয়। সোঁফালৰ পৰা Y ৰ নতুন স্থান কিমান?
+A) 16th / 16তম
+B) 17th / 17তম
+C) 18th / 18তম
+D) 19th / 19তম
+Ans: C
+
+18. In a row of 51 students, Geeta is 16th from the left and Meena is 20th from the right. If Sita sits exactly in the middle of Geeta and Meena, what is Sita's position from the left end?
+
+51 জন ছাত্ৰ-ছাত্ৰীৰ এটা শাৰীত গীতা বাওঁফালৰ পৰা 16তম আৰু মীনা সোঁফালৰ পৰা 20তম স্থানত আছে। যদি সীতা গীতা আৰু মীনাৰ ঠিক মাজত বসে, বাওঁফালৰ পৰা সীতাৰ স্থান কিমান?
+A) 22nd / 22তম
+B) 23rd / 23তম
+C) 24th / 24তম
+D) 25th / 25তম
+Ans: C
+
+19. In a row of 36 people, A is 10th from the left end and B is 15th from the left end. How many people are sitting to the right of B?
+
+36 জন ব্যক্তিৰ এটা শাৰীত A বাওঁফালৰ পৰা 10ম আৰু B বাওঁফালৰ পৰা 15তম স্থানত আছে। B ৰ সোঁফালে কেইজন ব্যক্তি বহি আছে?
+A) 20
+B) 21
+C) 22
+D) 23
+Ans: B
+
+20. A person is standing at the 12th position from both ends of a single row. How many total persons are in the row?
+
+এজন ব্যক্তি এটা শাৰীৰ দুয়োটা মূৰৰ পৰাই 12তম স্থানত থিয় হৈ আছে। শাৰীটোত মুঠ কেইজন ব্যক্তি আছে?
+A) 22
+B) 23
+C) 24
+D) 25
+Ans: B
+
+21. In a row facing North, S is 5th to the right of T. If T is 14th from the right end, what is S's position from the right end?
+
+উত্তৰফালে মুখ কৰি বহা শাৰীত S, T ৰ সোঁফালে 5ম স্থানত আছে। যদি T সোঁফালৰ পৰা 14তম স্থানত থাকে, সোঁফালৰ পৰা S ৰ স্থান কিমান?
+A) 8th / অষ্টম
+B) 9th / নবম
+C) 10th / দশম
+D) 11th / একাদশ
+Ans: B
+
+22. In a row of 45 girls facing North, Neha is 15th from the left end. She is shifted 5 places to her right. What is her new position from the right end?
+
+45 জনী ছোৱালীৰ এটা শাৰীত নেহা বাওঁফালৰ পৰা 15তম স্থানত আছে। তাইক নিজৰ সোঁফালে 5 টা স্থান সলনি কৰা হ’ল। সোঁফালৰ পৰা তাইৰ নতুন স্থান কিমান?
+A) 24th / 24তম
+B) 25th / 25তম
+C) 26th / 26তম
+D) 27th / 27তম
+Ans: C
+
+23. In a row of boys, A is 13th from the left end and B is 17th from the right end. If A and B interchange their positions, A becomes 21st from the left end. How many boys are there in the row?
+
+ল’ৰাৰ এটা শাৰীত A বাওঁফালৰ পৰা 13তম আৰু B সোঁফালৰ পৰা 17তম স্থানত আছে। যদি A আৰু B এ স্থান সলনি কৰে, A বাওঁফালৰ পৰা 21তম হয়। শাৰীটোত মুঠ কেইজন ল’ৰা আছে?
+A) 35
+B) 36
+C) 37
+D) 38
+Ans: C
+
+24. In a row of 32 children facing North, Akash is 14th from the left end and Vikas is 12th from the right end. How many children are sitting between Akash and Vikas?
+
+32 জন শিশুৰ এটা শাৰীত আকাশ বাওঁফালৰ পৰা 14তম আৰু বিকাশ সোঁফালৰ পৰা 12তম স্থানত আছে। আকাশ আৰু বিকাশৰ মাজত কেইজন শিশু বহি আছে?
+A) 4
+B) 5
+C) 6
+D) 7
+Ans: C
+
+25. In a row of 25 persons, P is 8th from the left end and Q is 10th from the right end. R is sitting exactly between P and Q. What is R's position from the left end?
+
+25 জন ব্যক্তিৰ এটা শাৰীত P বাওঁফালৰ পৰা 8ম আৰু Q সোঁফালৰ পৰা 10ম স্থানত আছে। R, P আৰু Q ৰ ঠিক মাজত বহিছে। বাওঁফালৰ পৰা R ৰ স্থান কিমান?
+A) 11th / 11তম
+B) 12th / 12তম
+C) 13th / 13তম
+D) 14th / 14তম
+Ans: B
+
+26. In a row facing North, K is 7th to the left of L. L is 18th from the left end. What is K's position from the left end?
+
+উত্তৰফালে মুখ কৰি বহা শাৰীত K, L ৰ বাওঁফালে 7ম স্থানত আছে। L বাওঁফালৰ পৰা 18তম স্থানত থাকিলে, বাওঁফালৰ পৰা K ৰ স্থান কিমান?
+A) 10th / 10ম
+B) 11th / 11তম
+C) 12th / 12তম
+D) 13th / 13তম
+Ans: B
+
+27. In a row of 40 students, M is 20th from the right end and N is 25th from the left end. How many students sit between M and N?
+
+40 জন ছাত্ৰৰ এটা শাৰীত M সোঁফালৰ পৰা 20তম আৰু N বাওঁফালৰ পৰা 25তম স্থানত আছে। M আৰু N ৰ মাজত কেইজন ছাত্ৰ বহি আছে?
+A) 2
+B) 3
+C) 4
+D) 5
+Ans: B
+
+28. In a row of 42 students, Arjun is 17th from the left end. What is his position from the right end?
+
+42 জন ছাত্ৰৰ এটা শাৰীত অৰ্জুন বাওঁফালৰ পৰা 17তম স্থানত আছে। সোঁফালৰ পৰা তেওঁৰ স্থান কিমান?
+A) 24th / 24তম
+B) 25th / 25তম
+C) 26th / 26তম
+D) 27th / 27তম
+Ans: C
+
+29. In a row of 38 people, Rina is 11th from the left end and Tina is 14th from the right end. How many people are sitting between Rina and Tina?
+
+38 জন ব্যক্তিৰ এটা শাৰীত ৰীণা বাওঁফালৰ পৰা 11তম আৰু টিনা সোঁফালৰ পৰা 14তম স্থানত আছে। ৰীণা আৰু টিনাৰ মাজত কেইজন ব্যক্তি বহি আছে?
+A) 12
+B) 13
+C) 14
+D) 15
+Ans: B
+
+30. In a row of boys, Mohan is 9th from the left end and Sohan is 16th from the right end. If they interchange their positions, Mohan becomes 23rd from the left end. How many boys are there in the row?
+
+ল’ৰাৰ এটা শাৰীত মোহন বাওঁফালৰ পৰা 9ম আৰু সোহন সোঁফালৰ পৰা 16তম স্থানত আছে। যদি তেওঁলোকে স্থান সলনি কৰে, তেন্তে মোহন বাওঁফালৰ পৰা 23তম স্থানত হয়। শাৰীটোত মুঠ কেইজন ল’ৰা আছে?
+A) 37
+B) 38
+C) 39
+D) 40
+Ans: C

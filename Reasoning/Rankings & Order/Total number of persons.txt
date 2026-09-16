@@ -1,0 +1,224 @@
+1. Rahul is 14th from the left and 18th from the right end in a row. How many total persons are there in the row?
+
+ৰাহুল শাৰী এটাৰ বাওঁফালৰ পৰা ১৪ নম্বৰত আৰু সোঁফালৰ পৰা ১৮ নম্বৰত আছে। শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 32 / ৩২
+B) 31 / ৩১
+C) 30 / ৩০
+D) 33 / ৩৩
+Ans: B
+
+2. In a class test, Priya ranks 12th from the top and 27th from the bottom. What is the total number of students in the class?
+
+শ্ৰেণী পৰীক্ষা এটাত প্ৰিয়াৰ স্থান ওপৰৰ পৰা ১২ নম্বৰত আৰু তলৰ পৰা ২৭ নম্বৰত। শ্ৰেণীটোত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 39 / ৩৯
+B) 37 / ৩৭
+C) 38 / ৩৮
+D) 40 / ৪০
+Ans: C
+
+3. In a row, A is 10th from the left and B is 15th from the right. When they interchange positions, A becomes 22nd from the left. What is the total number of persons in the row?
+
+শাৰী এটাৰ বাওঁফালৰ পৰা A ১০ নম্বৰত আৰু সোঁফালৰ পৰা B ১৫ নম্বৰত আছে। যেতিয়া তেওঁলোকে স্থান সলনি কৰে, A বাওঁফালৰ পৰা ২২ নম্বৰত পৰে। শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 36 / ৩৬
+B) 35 / ৩৫
+C) 37 / ৩৭
+D) 38 / ৩৮
+Ans: A
+
+4. In a queue, Suresh is 16th from the front and 25th from the back. How many persons are standing in the queue?
+
+শাৰী এটাৰ সন্মুখৰ পৰা সুৰেশ ১৬ নম্বৰত আৰু পিছফালৰ পৰা ২৫ নম্বৰত আছে। শাৰীটোত মুঠ কিমান জন মানুহ থিয় হৈ আছে?
+A) 41 / ৪১
+B) 40 / ৪০
+C) 39 / ৩৯
+D) 42 / ৪২
+Ans: B
+
+5. Akash is ranked 9th from the top and 38th from the bottom in an examination. How many total students appeared in the exam?
+
+পৰীক্ষা এটাত আকাশৰ স্থান ওপৰৰ পৰা ৯ নম্বৰত আৰু তলৰ পৰা ৩৮ নম্বৰত। পৰীক্ষাত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী অৱতীৰ্ণ হৈছিল?
+A) 47 / ৪৭
+B) 45 / ৪৫
+C) 48 / ৪৮
+D) 46 / ৪৬
+Ans: D
+
+6. In a row of boys, Amit is 15th from the left and Sumit is 20th from the right. If there are 8 boys between them and no overlapping, what is the total number of boys in the row?
+
+ল'ৰাৰ শাৰী এটাৰ বাওঁফালৰ পৰা অমিত ১৫ নম্বৰত আৰু সোঁফালৰ পৰা সুমিত ২০ নম্বৰত আছে। যদি তেওঁলোকৰ মাজত ৮ জন ল'ৰা থাকে আৰু কোনো উপৰুপাত নহয়, তেন্তে শাৰীটোত মুঠ কিমান জন ল'ৰা আছে?
+A) 43 / ৪৩
+B) 42 / ৪২
+C) 44 / ৪৪
+D) 41 / ৪১
+Ans: A
+
+7. In a merit list, Maya is ranked 21st from top and 21st from bottom. How many total students are in the merit list?
+
+মেধা তালিকাখনত মায়াৰ স্থান ওপৰৰ পৰা ২১ নম্বৰত আৰু তলৰ পৰাও ২১ নম্বৰত। মেধা তালিকাখনত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 42 / ৪২
+B) 40 / ৪০
+C) 41 / ৪১
+D) 43 / ৪৩
+Ans: C
+
+8. In a line, Ramesh is 11th from the left end and Umesh is 14th from the right end. If they swap positions, Ramesh becomes 25th from the left end. What is the total number of persons in the line?
+
+শাৰী এটাৰ বাওঁফালৰ পৰা ৰমেশ ১১ নম্বৰত আৰু সোঁফালৰ পৰা উমেশ ১৪ নম্বৰত আছে। যদি তেওঁলোকে স্থান সলনি কৰে, ৰমেশ বাওঁফালৰ পৰা ২৫ নম্বৰত পৰে। শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 38 / ৩৮
+B) 39 / ৩৯
+C) 37 / ৩৭
+D) 40 / ৪০
+Ans: A
+
+9. In a row, Sunita is 18th from the left end and Geeta is 12th from the right end. If they swap positions, Geeta becomes 24th from the right end. What is the total number of persons in the row?
+
+শাৰী এটাৰ বাওঁফালৰ পৰা সুনীতা ১৮ নম্বৰত আৰু সোঁফালৰ পৰা গীতা ১২ নম্বৰত আছে। যদি তেওঁলোকে স্থান সলনি কৰে, গীতা সোঁফালৰ পৰা ২৪ নম্বৰত পৰে। শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 40 / ৪০
+B) 42 / ৪২
+C) 41 / ৪১
+D) 43 / ৪৩
+Ans: C
+
+10. In a vertical queue, a person is 23rd from the top and 19th from the bottom. How many persons are standing in the queue?
+
+থিয় শাৰী এটাৰ ওপৰৰ পৰা এজন ব্যক্তি ২৩ নম্বৰত আৰু তলৰ পৰা ১৯ নম্বৰত আছে। শাৰীটোত মুঠ কিমান জন মানুহ থিয় হৈ আছে?
+A) 42 / ৪২
+B) 41 / ৪১
+C) 40 / ৪০
+D) 43 / ৪৩
+Ans: B
+
+11. In a row, X is 8th from the left end and Y is 17th from the right end. If there are 5 persons between X and Y without any overlapping, what is the total number of persons in the row?
+
+শাৰী এটাৰ বাওঁফালৰ পৰা X ৮ নম্বৰত আৰু সোঁফালৰ পৰা Y ১৭ নম্বৰত আছে। যদি X আৰু Y ৰ মাজত ৫ জন ব্যক্তি থাকে (উপৰুপাত নোহোৱাকৈ), তেন্তে শাৰীটোত মুঠ কিমান জন ব্যক্তি আছে?
+A) 30 / ৩০
+B) 29 / ২৯
+C) 31 / ৩১
+D) 32 / ৩২
+Ans: A
+
+12. In a class, Rohit is ranked 7th from top and 31st from bottom. What is the total strength of the class?
+
+শ্ৰেণী এটাৰ ওপৰৰ পৰা ৰোহিতৰ স্থান ৭ নম্বৰত আৰু তলৰ পৰা ৩১ নম্বৰত। শ্ৰেণীটোৰ মুঠ ছাত্ৰ-ছাত্ৰীৰ সংখ্যা কিমান?
+A) 38 / ৩৮
+B) 36 / ৩৬
+C) 37 / ৩৭
+D) 39 / ৩৯
+Ans: C
+
+13. In a row of girls, Pooja is 13th from the left and Neha is 19th from the right. When they interchange positions, Pooja becomes 27th from the left. How many girls are there in total?
+
+ছোৱালীৰ শাৰী এটাৰ বাওঁফালৰ পৰা পূজা ১৩ নম্বৰত আৰু সোঁফালৰ পৰা নেহা ১৯ নম্বৰত আছে। যেতিয়া তেওঁলোকে স্থান সলনি কৰে, পূজা বাওঁফালৰ পৰা ২৭ নম্বৰত পৰে। মুঠ কিমান গৰাকী ছোৱালী আছে?
+A) 44 / ৪৪
+B) 45 / ৪৫
+C) 46 / ৪৬
+D) 47 / ৪৭
+Ans: B
+
+14. In a line, Pankaj is 30th from the left and 30th from the right. What is the total number of persons in the line?
+
+শাৰী এটাৰ বাওঁফালৰ পৰা ৩০ নম্বৰত আৰু সোঁফালৰ পৰাও ৩০ নম্বৰত পংকজ আছে। শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 60 / ৬০
+B) 58 / ৫৮
+C) 59 / ৫৯
+D) 61 / ৬১
+Ans: C
+
+15. Manoj ranks 17th from the top and 28th from the bottom in a test result. What is the total number of students who took the test?
+
+পৰীক্ষাৰ ফলাফলত ওপৰৰ পৰা মনোজ ১৭ নম্বৰত আৰু তলৰ পৰা ২৮ নম্বৰত আছে। পৰীক্ষাত অৱতীৰ্ণ হোৱা মুঠ ছাত্ৰ-ছাত্ৰীৰ সংখ্যা কিমান?
+A) 44 / ৪৪
+B) 45 / ৪৫
+C) 43 / ৪৩
+D) 46 / ৪৬
+Ans: A
+
+16. In a row, Nitin is 12th from the left end and Kapil is 18th from the right end. If they interchange positions, Kapil becomes 26th from the right end. What is the total number of persons in the row?
+
+শাৰী এটাৰ বাওঁফালৰ পৰা নিতিন ১২ নম্বৰত আৰু সোঁফালৰ পৰা কাপিল ১৮ নম্বৰত আছে। যদি তেওঁলোকে স্থান সলনি কৰে, কাপিল সোঁফালৰ পৰা ২৬ নম্বৰত পৰে। শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 38 / ৩৮
+B) 36 / ৩৬
+C) 37 / ৩৭
+D) 39 / ৩৯
+Ans: C
+
+17. In a queue of tree saplings planted in a straight line, one sapling is 15th from either end. How many saplings are planted in total?
+
+পোনে পোনে ৰোপণ কৰা গছৰ পুলিৰ শাৰী এটাৰ দুয়োটা মূৰৰ পৰাই এডাল পুলি ১৫ নম্বৰ স্থানত আছে। মুঠ কিমান ডাল পুলি ৰোপণ কৰা হৈছে?
+A) 30 / ৩০
+B) 29 / ২৯
+C) 28 / ২৮
+D) 31 / ৩১
+Ans: B
+
+18. In a competition, Aniket is 16th from the top and 35th from the bottom. How many participants are there in total?
+
+প্ৰতিযোগিতা এখনত অনিকেত ওপৰৰ পৰা ১৬ নম্বৰত আৰু তলৰ পৰা ৩৫ নম্বৰত আছে। মুঠ কিমান জন অংশগ্ৰহণকাৰী আছে?
+A) 50 / ৫০
+B) 51 / ৫১
+C) 49 / ৪৯
+D) 52 / ৫২
+Ans: A
+
+19. In a row of persons, A is 11th from the left and B is 10th from the right. If there are 7 persons standing between A and B without any overlap, how many persons are there in the row?
+
+মানুহৰ শাৰী এটাৰ বাওঁফালৰ পৰা A ১১ নম্বৰত আৰু সোঁফালৰ পৰা B ১০ নম্বৰত আছে। যদি A আৰু B ৰ মাজত ৭ জন মানুহ কোনো উপৰুপাত নোহোৱাকৈ থিয় হৈ থাকে, তেন্তে শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 27 / ২৭
+B) 29 / ২৯
+C) 28 / ২৮
+D) 30 / ৩০
+Ans: C
+
+20. In a class list, Swati is 14th from the top and 22nd from the bottom. How many students are there in the class?
+
+শ্ৰেণীৰ তালিকাখনত স্বাতী ওপৰৰ পৰা ১৪ নম্বৰত আৰু তলৰ পৰা ২২ নম্বৰত আছে। শ্ৰেণীটোত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী আছে?
+A) 36 / ৩৬
+B) 35 / ৩৫
+C) 34 / ৩৪
+D) 37 / ৩৭
+Ans: B
+
+21. In a row, Deepak is 9th from the left and Vikas is 13th from the right. After interchanging their positions, Deepak becomes 21st from the left. What is the total number of persons in the row?
+
+শাৰী এটাৰ বাওঁফালৰ পৰা দীপক ৯ নম্বৰত আৰু সোঁফালৰ পৰা বিকাশ ১৩ নম্বৰত আছে। তেওঁলোকৰ স্থান সালসলনি কৰাৰ পিছত, দীপক বাওঁফালৰ পৰা ২১ নম্বৰত পৰে। শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 33 / ৩৩
+B) 32 / ৩২
+C) 34 / ৩৪
+D) 35 / ৩৫
+Ans: A
+
+22. In an exam, Pinky ranks 20th from the top and 20th from the bottom. How many students appeared in the exam?
+
+পৰীক্ষা এটাত পিংকীৰ স্থান ওপৰৰ পৰা ২০ নম্বৰত আৰু তলৰ পৰাও ২০ নম্বৰত। পৰীক্ষাত মুঠ কিমান জন ছাত্ৰ-ছাত্ৰী অৱতীৰ্ণ হৈছিল?
+A) 40 / ৪০
+B) 38 / ৩৮
+C) 39 / ৩৯
+D) 41 / ৪১
+Ans: C
+
+23. In a queue, Rohan is 15th from the front end and Sohan is 15th from the rear end. If there are 10 persons between them without any overlap, what is the total number of persons in the queue?
+
+শাৰী এটাৰ সন্মুখৰ পৰা ৰোহন ১৫ নম্বৰত আৰু পিছফালৰ পৰা সোহন ১৫ নম্বৰত আছে। যদি তেওঁলোকৰ মাজত ১০ জন মানুহ থাকে (উপৰুপাত নোহোৱাকৈ), তেন্তে শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 39 / ৩৯
+B) 40 / ৪০
+C) 41 / ৪১
+D) 38 / ৩৮
+Ans: B
+
+24. In a row of cars, a black car is 22nd from the left end and 19th from the right end. How many cars are there in the row?
+
+গাড়ীৰ শাৰী এটাৰ বাওঁফালৰ পৰা এখন কলা গাড়ী ২২ নম্বৰত আৰু সোঁফালৰ পৰা ১৯ নম্বৰত আছে। শাৰীটোত মুঠ কেইখন গাড়ী আছে?
+A) 41 / ৪১
+B) 39 / ৩৯
+C) 40 / ৪০
+D) 42 / ৪২
+Ans: C
+
+25. In a row, P is 16th from the left end and Q is 14th from the right end. When they swap positions, Q becomes 23rd from the right end. How many total persons are in the row?
+
+শাৰী এটাৰ বাওঁফালৰ পৰা P ১৬ নম্বৰত আৰু সোঁফালৰ পৰা Q ১৪ নম্বৰত আছে। যেতিয়া তেওঁলোকে স্থান সলনি কৰে, Q সোঁফালৰ পৰা ২৩ নম্বৰত পৰে। শাৰীটোত মুঠ কিমান জন মানুহ আছে?
+A) 38 / ৩৮
+B) 37 / ৩৭
+C) 39 / ৩৯
+D) 40 / ৪০
+Ans: A

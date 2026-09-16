@@ -1,0 +1,271 @@
+1. Five friends A, B, C, D, and E are sitting around a circular table facing the centre. A is sitting to the immediate right of B. C is sitting between B and D. E is sitting to the immediate left of A. Who is sitting to the immediate right of D?
+
+পাঁচজন বন্ধু A, B, C, D, আৰু E এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, B ৰ ঠিক সোঁফালে বহিছে। C, B আৰু D ৰ মাজত বহিছে। E, A ৰ ঠিক বাওঁফালে বহিছে। D ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) A
+B) B
+C) C
+D) E
+Ans: C
+
+2. Six friends P, Q, R, S, T, and U are sitting around a circular table facing the centre. P is sitting opposite to S. Q is sitting to the immediate right of P. R is sitting between Q and S. Who is sitting opposite to Q?
+
+ছয়জন বন্ধু P, Q, R, S, T, আৰু U এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। P, S ৰ বিপৰীতফালে বহিছে। Q, P ৰ ঠিক সোঁফালে বহিছে। R, Q আৰু S ৰ মাজত বহিছে। Q ৰ বিপৰীতফালে কোন বহি আছে?
+A) R
+B) S
+C) T
+D) U
+Ans: D
+
+3. Five persons A, B, C, D, and E are sitting around a circular table facing outside (away from the centre). A is sitting to the immediate right of B. C is sitting to the immediate left of B. D is sitting to the immediate left of C. Who is sitting to the immediate right of D?
+
+পাঁচজন ব্যক্তি A, B, C, D, আৰু E এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ (কেন্দ্ৰৰ বিপৰীতফালে) মুখ কৰি বহি আছে। A, B ৰ ঠিক সোঁফালে বহিছে। C, B ৰ ঠিক বাওঁফালে বহিছে। D, C ৰ ঠিক বাওঁফালে বহিছে। D ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) A
+B) B
+C) C
+D) E
+Ans: C
+
+4. Six people A, B, C, D, E, and F are sitting around a circular table facing outside. A is sitting opposite to D. B is sitting to the immediate right of A. C is sitting between B and D. Who is sitting to the immediate left of A?
+
+ছয়জন ব্যক্তি A, B, C, D, E, আৰু F এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। A, D ৰ বিপৰীতফালে বহিছে। B, A ৰ ঠিক সোঁফালে বহিছে। C, B আৰু D ৰ মাজত বহিছে। A ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) B
+B) E
+C) F
+D) C
+Ans: C
+
+5. Eight persons P, Q, R, S, T, U, V, and W are sitting around a circular table facing the centre. P is sitting third to the right of Q. R is sitting second to the left of P. Who is sitting to the immediate left of R?
+
+আঠজন ব্যক্তি P, Q, R, S, T, U, V, আৰু W এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। P, Q ৰ সোঁফালে তৃতীয় স্থানত বহিছে। R, P ৰ বাওঁফালে দ্বিতীয় স্থানত বহিছে। R ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) P
+B) Q
+C) S
+D) W
+Ans: B
+
+6. Five friends A, B, C, D, and E are sitting around a circular table facing the centre. A is sitting between E and B. D is sitting to the immediate left of B. Who is sitting to the immediate right of E?
+
+পাঁচজন বন্ধু A, B, C, D, আৰু E এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, E আৰু B ৰ মাজত বহিছে। D, B ৰ ঠিক বাওঁফালে বহিছে। E ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) A
+B) B
+C) C
+D) D
+Ans: A
+
+7. Six people P, Q, R, S, T, and U are sitting around a circular table facing the centre. P is sitting second to the left of R. Q is sitting to the immediate right of P. S is sitting opposite to P. Who is sitting between P and S?
+
+ছয়জন ব্যক্তি P, Q, R, S, T, আৰু U এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। P, R ৰ বাওঁফালে দ্বিতীয় স্থানত বহিছে। Q, P ৰ ঠিক সোঁফালে বহিছে। S, P ৰ বিপৰীতফালে বহিছে। P আৰু S ৰ মাজত বাওঁফালৰ পৰা কোন বহি আছে?
+A) Q
+B) R
+C) T
+D) U
+Ans: B
+
+8. Five friends K, L, M, N, and O are sitting around a circular table facing outside. K is sitting to the immediate left of L. M is sitting to the immediate right of L. N is sitting to the immediate left of M. Who is sitting to the immediate right of K?
+
+পাঁচজন বন্ধু K, L, M, N, আৰু O এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। K, L ৰ ঠিক বাওঁফালে বহিছে। M, L ৰ ঠিক সোঁফালে বহিছে। N, M ৰ ঠিক বাওঁফালে বহিছে। K ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) L
+B) M
+C) N
+D) O
+Ans: A
+
+9. Six persons A, B, C, D, E, and F are sitting around a circular table facing outside. A is sitting second to the right of C. B is sitting to the immediate left of A. D is sitting opposite to A. Who is sitting to the immediate right of D?
+
+ছয়জন ব্যক্তি A, B, C, D, E, আৰু F এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। A, C ৰ সোঁফালে দ্বিতীয় স্থানত বহিছে। B, A ৰ ঠিক বাওঁফালে বহিছে। D, A ৰ বিপৰীতফালে বহিছে। D ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) B
+B) C
+C) E
+D) F
+Ans: B
+
+10. Eight friends A, B, C, D, E, F, G, and H are sitting around a circular table facing the centre. A is sitting third to the left of B. C is sitting second to the right of A. D is sitting to the immediate right of C. Who is sitting to the immediate left of A?
+
+আঠজন বন্ধু A, B, C, D, E, F, G, আৰু H এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, B ৰ বাওঁফালে তৃতীয় স্থানত বহিছে। C, A ৰ সোঁফালে দ্বিতীয় স্থানত বহিছে। D, C ৰ ঠিক সোঁফালে বহিছে। A ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) B
+B) C
+C) D
+D) E
+Ans: D
+
+11. Four people P, Q, R, and S are sitting around a square table facing the centre, one at each side. P is sitting to the immediate left of Q. R is sitting opposite to P. Who is sitting to the immediate right of S?
+
+চাৰিজন ব্যক্তি P, Q, R, আৰু S এটা বৰ্গাকাৰ মেজৰ চাৰিওফালে প্ৰত্যেকটো বাহুত এজনকৈ কেন্দ্ৰলৈ মুখ কৰি বহি আছে। P, Q ৰ ঠিক বাওঁফালে বহিছে। R, P ৰ বিপৰীতফালে বহিছে। S ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) P
+B) Q
+C) R
+D) Cannot be determined / নিৰ্ধাৰণ কৰিব নোৱাৰি
+Ans: A
+
+12. Six persons A, B, C, D, E, and F are sitting around a circular table facing the centre. A is sitting opposite to D. B is sitting between A and C. E is sitting between D and F. Who is sitting opposite to B?
+
+ছয়জন ব্যক্তি A, B, C, D, E, আৰু F এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, D ৰ বিপৰীতফালে বহিছে। B, A আৰু C ৰ মাজত বহিছে। E, D আৰু F ৰ মাজত বহিছে। B ৰ বিপৰীতফালে কোন বহি আছে?
+A) C
+B) D
+C) E
+D) F
+Ans: C
+
+13. Five persons P, Q, R, S, and T are sitting around a circular table facing the centre. P is sitting between T and Q. R is sitting to the immediate left of Q. Who is sitting to the immediate right of S?
+
+পাঁচজন ব্যক্তি P, Q, R, S, আৰু T এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। P, T আৰু Q ৰ মাজত বহিছে। R, Q ৰ ঠিক বাওঁফালে বহিছে। S ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) P
+B) Q
+C) R
+D) T
+Ans: D
+
+14. Six friends A, B, C, D, E, and F are sitting around a circular table facing outside. A is sitting second to the left of B. C is sitting opposite to B. D is sitting to the immediate left of C. Who is sitting to the immediate left of A?
+
+ছয়জন বন্ধু A, B, C, D, E, আৰু F এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। A, B ৰ বাওঁফালে দ্বিতীয় স্থানত বহিছে। C, B ৰ বিপৰীতফালে বহিছে। D, C ৰ ঠিক বাওঁফালে বহিছে। A ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) B
+B) C
+C) D
+D) E
+Ans: B
+
+15. Five people P, Q, R, S, and T are sitting around a circular table facing outside. P is sitting between Q and R. S is sitting to the immediate left of Q. Who is sitting to the immediate right of R?
+
+পাঁচজন ব্যক্তি P, Q, R, S, আৰু T এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। P, Q আৰু R ৰ মাজত বহিছে। S, Q ৰ ঠিক বাওঁফালে বহিছে। R ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) P
+B) Q
+C) S
+D) T
+Ans: A
+
+16. Eight persons A, B, C, D, E, F, G, and H are sitting around a circular table facing the centre. B is sitting third to the right of A. C is sitting second to the right of A. D is sitting to the immediate right of A. Who is sitting to the immediate left of C?
+
+আঠজন ব্যক্তি A, B, C, D, E, F, G, আৰু H এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। B, A ৰ সোঁফালে তৃতীয় স্থানত বহিছে। C, A ৰ সোঁফালে দ্বিতীয় স্থানত বহিছে। D, A ৰ ঠিক সোঁফালে বহিছে। C ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) A
+B) B
+C) D
+D) E
+Ans: C
+
+17. Six persons P, Q, R, S, T, and U are sitting around a circular table facing the centre. P is sitting opposite to S. Q is sitting to the immediate right of P. R is sitting to the immediate right of Q. Who is sitting to the immediate left of P?
+
+ছয়জন ব্যক্তি P, Q, R, S, T, আৰু U এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। P, S ৰ বিপৰীতফালে বহিছে। Q, P ৰ ঠিক সোঁফালে বহিছে। R, Q ৰ ঠিক সোঁফালে বহিছে। P ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) Q
+B) R
+C) S
+D) U
+Ans: D
+
+18. Five friends A, B, C, D, and E are sitting around a circular table facing the centre. C is sitting second to the left of A. B is sitting to the immediate right of C. D is sitting between A and E. Who is sitting to the immediate left of A?
+
+পাঁচজন বন্ধু A, B, C, D, আৰু E এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। C, A ৰ বাওঁফালে দ্বিতীয় স্থানত বহিছে। B, C ৰ ঠিক সোঁফালে বহিছে। D, A আৰু E ৰ মাজত বহিছে। A ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) B
+B) C
+C) D
+D) E
+Ans: A
+
+19. Seven persons A, B, C, D, E, F, and G are sitting around a circular table facing the centre. A is sitting second to the right of B. C is sitting to the immediate right of A. D is sitting between B and F. Who is sitting to the immediate left of B?
+
+সাতজন ব্যক্তি A, B, C, D, E, F, আৰু G এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, B ৰ সোঁফালে দ্বিতীয় স্থানত বহিছে। C, A ৰ ঠিক সোঁফালে বহিছে। D, B আৰু F ৰ মাজত বহিছে। B ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) C
+B) D
+C) E
+D) F
+Ans: B
+
+20. Six persons P, Q, R, S, T, and U are sitting around a circular table facing outside. P is sitting opposite to S. Q is sitting to the immediate right of P. R is sitting opposite to Q. Who is sitting to the immediate right of S?
+
+ছয়জন ব্যক্তি P, Q, R, S, T, আৰু U এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। P, S ৰ বিপৰীতফালে বহিছে। Q, P ৰ ঠিক সোঁফালে বহিছে। R, Q ৰ বিপৰীতফালে বহিছে। S ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) P
+B) Q
+C) R
+D) S
+Ans: C
+
+21. Eight persons A, B, C, D, E, F, G, and H are sitting around a circular table facing outside. A is sitting third to the left of B. C is sitting to the immediate right of A. D is sitting opposite to A. Who is sitting to the immediate left of D?
+
+আঠজন ব্যক্তি A, B, C, D, E, F, G, আৰু H এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। A, B ৰ বাওঁফালে তৃতীয় স্থানত বহিছে। C, A ৰ ঠিক সোঁফালে বহিছে। D, A ৰ বিপৰীতফালে বহিছে। D ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) B
+B) C
+C) E
+D) F
+Ans: A
+
+22. Five persons A, B, C, D, and E are sitting around a circular table facing the centre. A is sitting between B and C. D is sitting to the immediate right of B. Who is sitting to the immediate left of C?
+
+পাঁচজন ব্যক্তি A, B, C, D, আৰু E এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, B আৰু C ৰ মাজত বহিছে। D, B ৰ ঠিক সোঁফালে বহিছে। C ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) A
+B) B
+C) D
+D) E
+Ans: A
+
+23. Six persons P, Q, R, S, T, and U are sitting around a circular table facing outside. P is sitting second to the right of Q. R is sitting to the immediate left of P. S is sitting opposite to P. Who is sitting to the immediate right of S?
+
+ছয়জন ব্যক্তি P, Q, R, S, T, আৰু U এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। P, Q ৰ সোঁফালে দ্বিতীয় স্থানত বহিছে। R, P ৰ ঠিক বাওঁফালে বহিছে। S, P ৰ বিপৰীতফালে বহিছে। S ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) Q
+B) R
+C) T
+D) U
+Ans: A
+
+24. Five friends K, L, M, N, and O are sitting around a circular table facing the centre. K is sitting second to the right of L. N is sitting between L and K. M is sitting to the immediate left of L. Who is sitting to the immediate right of O?
+
+পাঁচজন বন্ধু K, L, M, N, আৰু O এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। K, L ৰ সোঁফালে দ্বিতীয় স্থানত বহিছে। N, L আৰু K ৰ মাজত বহিছে। M, L ৰ ঠিক বাওঁফালে বহিছে। O ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) K
+B) L
+C) M
+D) N
+Ans: C
+
+25. Six persons A, B, C, D, E, and F are sitting around a circular table facing the centre. A is sitting to the immediate right of B. C is sitting second to the left of A. D is sitting opposite to B. Who is sitting second to the left of D?
+
+ছয়জন ব্যক্তি A, B, C, D, E, আৰু F এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, B ৰ ঠিক সোঁফালে বহিছে। C, A ৰ বাওঁফালে দ্বিতীয় স্থানত বহিছে। D, B ৰ বিপৰীতফালে বহিছে। D ৰ বাওঁফালে দ্বিতীয় স্থানত কোন বহি আছে?
+A) A
+B) B
+C) C
+D) E
+Ans: C
+
+26. Five persons P, Q, R, S, and T are sitting around a circular table facing outside. P is sitting to the immediate right of Q. R is sitting to the immediate right of P. S is sitting to the immediate right of R. Who is sitting to the immediate right of S?
+
+পাঁচজন ব্যক্তি P, Q, R, S, আৰু T এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। P, Q ৰ ঠিক সোঁফালে বহিছে। R, P ৰ ঠিক সোঁফালে বহিছে। S, R ৰ ঠিক সোঁফালে বহিছে। S ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) P
+B) Q
+C) R
+D) T
+Ans: D
+
+27. Six friends A, B, C, D, E, and F are sitting around a circular table facing the centre. A is sitting opposite to D. B is sitting to the immediate right of A. C is sitting to the immediate right of B. Who is sitting to the immediate left of D?
+
+ছয়জন বন্ধু A, B, C, D, E, আৰু F এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, D ৰ বিপৰীতফালে বহিছে। B, A ৰ ঠিক সোঁফালে বহিছে। C, B ৰ ঠিক সোঁফালে বহিছে। D ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) A
+B) B
+C) C
+D) E
+Ans: C
+
+28. Seven friends A, B, C, D, E, F, and G are sitting around a circular table facing the centre. A is sitting to the immediate right of B. C is sitting second to the right of A. D is sitting opposite to B. Who is sitting to the immediate left of D?
+
+সাতজন বন্ধু A, B, C, D, E, F, আৰু G এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, B ৰ ঠিক সোঁফালে বহিছে। C, A ৰ সোঁফালে দ্বিতীয় স্থানত বহিছে। D, B ৰ বিপৰীতফালে বহিছে। D ৰ ঠিক বাওঁফালে কোন বহি আছে?
+
+A) C
+B) E
+C) F
+D) G
+Ans: B
+
+29. Six persons P, Q, R, S, T, and U are sitting around a circular table facing outside. P is sitting to the immediate left of Q. R is sitting opposite to P. S is sitting to the immediate right of Q. Who is sitting to the immediate left of R?
+
+ছয়জন ব্যক্তি P, Q, R, S, T, আৰু U এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে বাহিৰলৈ মুখ কৰি বহি আছে। P, Q ৰ ঠিক বাওঁফালে বহিছে। R, P ৰ বিপৰীতফালে বহিছে। S, Q ৰ ঠিক সোঁফালে বহিছে। R ৰ ঠিক বাওঁফালে কোন বহি আছে?
+
+A) P
+B) Q
+C) T
+D) U
+Ans: D
+
+30. Eight people A, B, C, D, E, F, G, and H are sitting around a circular table facing the centre. A is sitting third to the right of B. C is sitting to the immediate left of A. D is sitting opposite to B. E is sitting to the immediate right of D. Who is sitting between A and D?
+
+আঠজন ব্যক্তি A, B, C, D, E, F, G, আৰু H এটা বৃত্তাকাৰ মেজৰ চাৰিওফালে কেন্দ্ৰলৈ মুখ কৰি বহি আছে। A, B ৰ সোঁফালে তৃতীয় স্থানত বহিছে। C, A ৰ ঠিক বাওঁফালে বহিছে। D, B ৰ বিপৰীতফালে বহিছে। E, D ৰ ঠিক সোঁফালে বহিছে। A আৰু D ৰ মাজত কোন বহি আছে?
+A) C
+B) E
+C) F
+D) G
+Ans: B

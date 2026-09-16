@@ -1,0 +1,224 @@
+1. A man walks 5 km East, turns right and walks 4 km, then turns left and walks 5 km. Which direction is he facing now?
+
+এজন মানুহ পূবলৈ 5 কিমি খোজ কাঢ়ি যায়, সোঁফালে ঘূৰি 4 কিমি যায়, তাৰ পিছত বাওঁফালে ঘূৰি 5 কিমি যায়। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North / উত্তৰ
+B) South / দক্ষিণ
+C) East / পূব
+D) West / পশ্চিম
+Ans: C
+
+2. Rohan faces North. He turns 90 degrees clockwise, then 180 degrees anti-clockwise, and finally 90 degrees clockwise. Which direction is he facing now?
+
+ৰোহনে উত্তৰ দিশলৈ মুখ কৰি আছে। তেওঁ ঘড়ীৰ কাঁটাৰ দিশত 90 ডিগ্ৰী, তাৰ পিছত ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 180 ডিগ্ৰী, আৰু অৱশেষত ঘড়ীৰ কাঁটাৰ দিশত 90 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) East / পূব
+B) West / পশ্চিম
+C) North / উত্তৰ
+D) South / দক্ষিণ
+Ans: C
+
+3. A dog runs 20 m East, turns Right and runs 10 m, turns Right and runs 9 m, turns Left and runs 5 m, turns Left and runs 12 m. Which direction is the dog facing now?
+
+এটা কুকুৰে পূবলৈ 20 মিটাৰ দৌৰে, সোঁফালে ঘূৰি 10 মিটাৰ দৌৰে, সোঁফালে ঘূৰি 9 মিটাৰ দৌৰে, বাওঁফালে ঘূৰি 5 মিটাৰ দৌৰে, আৰু বাওঁফালে ঘূৰি 12 মিটাৰ দৌৰে। কুকুৰটোৱে এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) East / পূব
+B) West / পশ্চিম
+C) North / উত্তৰ
+D) South / দক্ষিণ
+Ans: A
+
+4. A person is walking towards South. He turns left, then turns right, and finally turns left again. In which direction is he walking now?
+
+এজন ব্যক্তিয়ে দক্ষিণ দিশলৈ খোজ কাঢ়ি আছে। তেওঁ বাওঁফালে ঘূৰে, তাৰ পিছত সোঁফালে ঘূৰে, আৰু অৱশেষত পুনৰ বাওঁফালে ঘূৰে। তেওঁ এতিয়া কোন দিশত খোজ কাঢ়ি আছে?
+A) North / উত্তৰ
+B) South / দক্ষিণ
+C) East / পূব
+D) West / পশ্চিম
+Ans: C
+
+5. A man walks towards West. He turns 45 degrees clockwise and then 180 degrees anti-clockwise. Which direction is he facing now?
+
+এজন মানুহে পশ্চিমলৈ খোজ কাঢ়িছে। তেওঁ ঘড়ীৰ কাঁটাৰ দিশত 45 ডিগ্ৰী আৰু তাৰ পিছত ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 180 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) South-East / দক্ষিণ-পূব
+B) North-East / উত্তৰ-পূব
+C) South-West / দক্ষিণ-পশ্চিম
+D) North-West / উত্তৰ-পশ্চিম
+Ans: A
+
+6. A girl is facing North-East. She turns 90 degrees clockwise, then 90 degrees anti-clockwise. Which direction is she facing now?
+
+এজনী ছোৱালীয়ে উত্তৰ-পূবলৈ মুখ কৰি আছে। তাই ঘড়ীৰ কাঁটাৰ দিশত 90 ডিগ্ৰী আৰু তাৰ পিছত ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 90 ডিগ্ৰী ঘূৰে। তাই এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North-West / উত্তৰ-পশ্চিম
+B) South-East / দক্ষিণ-পূব
+C) North-East / উত্তৰ-পূব
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: C
+
+7. Amit starts walking towards North. He turns right, walks some distance, turns right again, and then turns left. Which direction is he facing now?
+
+অমিতে উত্তৰলৈ খোজ কাঢ়িবলৈ ধৰে। তেওঁ সোঁফালে ঘূৰে, কিছু দূৰ খোজ কাঢ়ে, পুনৰ সোঁফালে ঘূৰে, আৰু তাৰ পিছত বাওঁফালে ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North / উত্তৰ
+B) South / দক্ষিণ
+C) East / পূব
+D) West / পশ্চিম
+Ans: C
+
+8. A person facing West turns 135 degrees clockwise. Which direction is he facing now?
+
+পশ্চিমলৈ মুখ কৰি থকা এজন ব্যক্তিয়ে ঘড়ীৰ কাঁটাৰ দিশত 135 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North-East / উত্তৰ-পূব
+B) South-East / দক্ষিণ-পূব
+C) North-West / উত্তৰ-পশ্চিম
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: A
+
+9. A driver drives 10 km South, turns left and drives 5 km, then turns left again and drives 8 km. In which direction is he driving now?
+
+এজন চালকে দক্ষিণলৈ 10 কিমি গাড়ী চলায়, বাওঁফালে ঘূৰি 5 কিমি যায়, তাৰ পিছত পুনৰ বাওঁফালে ঘূৰি 8 কিমি যায়। তেওঁ এতিয়া কোন দিশত গাড়ী চলাই আছে?
+A) South / দক্ষিণ
+B) East / পূব
+C) North / উত্তৰ
+D) West / পশ্চিম
+Ans: C
+
+10. Sanjeev is facing East. He turns 45 degrees anti-clockwise, then 180 degrees clockwise, and finally 90 degrees anti-clockwise. Which direction is he facing now?
+
+সঞ্জীৱে পূবলৈ মুখ কৰি আছে। তেওঁ ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 45 ডিগ্ৰী, তাৰ পিছত ঘড়ীৰ কাঁটাৰ দিশত 180 ডিগ্ৰী, আৰু অৱশেষত ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 90 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) South-West / দক্ষিণ-পশ্চিম
+B) North-East / উত্তৰ-পূব
+C) North-West / উত্তৰ-পশ্চিম
+D) South-East / দক্ষিণ-পূব
+Ans: B
+
+11. A person walks 3 km North, turns right and walks 4 km, then turns right again. Which direction is he facing now?
+
+এজন ব্যক্তি উত্তৰলৈ 3 কিমি যায়, সোঁফালে ঘূৰি 4 কিমি যায়, তাৰ পিছত পুনৰ সোঁফালে ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) East / পূব
+B) South / দক্ষিণ
+C) North / উত্তৰ
+D) West / পশ্চিম
+Ans: B
+
+12. A cyclist is moving towards South-West. He turns 90 degrees left. Which direction is he moving now?
+
+এজন চাইকেল আৰোহী দক্ষিণ-পশ্চিমলৈ গৈ আছে। তেওঁ বাওঁফালে 90 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশত গৈ আছে?
+A) South-East / দক্ষিণ-পূব
+B) North-East / উত্তৰ-পূব
+C) North-West / উত্তৰ-পশ্চিম
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: A
+
+13. Priyanshu walks towards West, turns left, turns left again, and then turns right. Which direction is he facing now?
+
+প্ৰিয়াংশুৱে পশ্চিমলৈ খোজ কাঢ়ে, বাওঁফালে ঘূৰে, পুনৰ বাওঁফালে ঘূৰে, আৰু তাৰ পিছত সোঁফালে ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North / উত্তৰ
+B) East / পূব
+C) South / দক্ষিণ
+D) West / পশ্চিম
+Ans: C
+
+14. A man facing North-West turns 90 degrees anti-clockwise, then 180 degrees clockwise. Which direction is he facing now?
+
+উত্তৰ-পশ্চিমলৈ মুখ কৰি থকা এজন মানুহে ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 90 ডিগ্ৰী আৰু তাৰ পিছত ঘড়ীৰ কাঁটাৰ দিশত 180 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North-East / উত্তৰ-পূব
+B) South-East / দক্ষিণ-পূব
+C) South-West / দক্ষিণ-পশ্চিম
+D) North-West / উত্তৰ-পশ্চিম
+Ans: A
+
+15. A runner starts running towards East. He turns right three times consecutively. In which direction is he running now?
+
+এজন দৌৰবিদ পূবলৈ দৌৰিবলৈ আৰম্ভ কৰে। তেওঁ ক্ৰমান্বয়ে তিনিবাৰ সোঁফালে ঘূৰে। তেওঁ এতিয়া কোন দিশত দৌৰি আছে?
+A) East / পূব
+B) South / দক্ষিণ
+C) West / পশ্চিম
+D) North / উত্তৰ
+Ans: D
+
+16. Meena is facing South-East. She turns 180 degrees clockwise and then 90 degrees clockwise. Which direction is she facing now?
+
+মীনাই দক্ষিণ-পূবলৈ মুখ কৰি আছে। তাই ঘড়ীৰ কাঁটাৰ দিশত 180 ডিগ্ৰী আৰু তাৰ পিছত ঘড়ীৰ কাঁটাৰ দিশত 90 ডিগ্ৰী ঘূৰে। তাই এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) South-West / দক্ষিণ-পশ্চিম
+B) North-East / উত্তৰ-পূব
+C) North-West / উত্তৰ-পশ্চিম
+D) South-East / দক্ষিণ-পূব
+Ans: B
+
+17. A person walks towards North, turns 45 degrees to his right, and then turns 90 degrees to his left. Which direction is he facing now?
+
+এজন ব্যক্তিয়ে উত্তৰলৈ খোজ কাঢ়িছে, তেওঁৰ সোঁফালে 45 ডিগ্ৰী ঘূৰে, আৰু তাৰ পিছত তেওঁৰ বাওঁফালে 90 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North-East / উত্তৰ-পূব
+B) North-West / উত্তৰ-পশ্চিম
+C) South-East / দক্ষিণ-পূব
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: B
+
+18. A person facing South turns 270 degrees anti-clockwise. Which direction is he facing now?
+
+দক্ষিণলৈ মুখ কৰি থকা এজন ব্যক্তিয়ে ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 270 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) East / পূব
+B) West / পশ্চিম
+C) North / উত্তৰ
+D) South / দক্ষিণ
+Ans: B
+
+19. An airplane is flying towards West. It takes a 90 degree left turn, followed by a 180 degree turn. Which direction is the airplane flying now?
+
+এখন উৰাজাহাজ পশ্চিমলৈ উৰি আছে। ই বাওঁফালে 90 ডিগ্ৰী ঘূৰে, তাৰ পিছত 180 ডিগ্ৰী ঘূৰে। উৰাজাহাজখন এতিয়া কোন দিশত উৰি আছে?
+A) South / দক্ষিণ
+B) North / উত্তৰ
+C) East / পূব
+D) West / পশ্চিম
+Ans: B
+
+20. Rohit walks towards East, takes a right turn, then a left turn, and finally another left turn. Which direction is he facing now?
+
+ৰোহিতে পূবলৈ খোজ কাঢ়ে, সোঁফালে ঘূৰে, তাৰ পিছত বাওঁফালে ঘূৰে, আৰু অৱশেষত পুনৰ বাওঁফালে ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North / উত্তৰ
+B) South / দক্ষিণ
+C) East / পূব
+D) West / পশ্চিম
+Ans: A
+
+21. A person facing North-East turns 135 degrees clockwise. Which direction is he facing now?
+
+উত্তৰ-পূবলৈ মুখ কৰি থকা এজন ব্যক্তিয়ে ঘড়ীৰ কাঁটাৰ দিশত 135 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) South / দক্ষিণ
+B) East / পূব
+C) West / পশ্চিম
+D) North / উত্তৰ
+Ans: A
+
+22. A person starts walking towards South-East. He turns 90 degrees anti-clockwise, then 180 degrees clockwise. Which direction is he facing now?
+
+এজন ব্যক্তিয়ে দক্ষিণ-পূবলৈ খোজ কাঢ়িবলৈ ধৰে। তেওঁ ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত 90 ডিগ্ৰী, তাৰ পিছত ঘড়ীৰ কাঁটাৰ দিশত 180 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North-East / উত্তৰ-পূব
+B) South-West / দক্ষিণ-পশ্চিম
+C) North-West / উত্তৰ-পশ্চিম
+D) South-East / দক্ষিণ-পূব
+Ans: B
+
+23. A man is walking towards North. He turns left, then left, then right, then left. Which direction is he facing now?
+
+এজন মানুহে উত্তৰলৈ খোজ কাঢ়িছে। তেওঁ বাওঁফালে ঘূৰে, তাৰ পিছত বাওঁফালে, তাৰ পিছত সোঁফালে, আৰু তাৰ পিছত বাওঁফালে ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North / উত্তৰ
+B) South / দক্ষিণ
+C) East / পূব
+D) West / পশ্চিম
+Ans: B
+
+24. A person facing East turns 270 degrees clockwise. Which direction is he facing now?
+
+পূবলৈ মুখ কৰি থকা এজন ব্যক্তিয়ে ঘড়ীৰ কাঁটাৰ দিশত 270 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) South / দক্ষিণ
+B) West / পশ্চিম
+C) North / উত্তৰ
+D) East / পূব
+Ans: C
+
+25. A person walks towards South, turns 90 degrees right, turns 45 degrees left, and then turns 180 degrees. Which direction is he facing now?
+
+এজন ব্যক্তিয়ে দক্ষিণলৈ খোজ কাঢ়ে, সোঁফালে 90 ডিগ্ৰী ঘূৰে, বাওঁফালে 45 ডিগ্ৰী ঘূৰে, আৰু তাৰ পিছত 180 ডিগ্ৰী ঘূৰে। তেওঁ এতিয়া কোন দিশলৈ মুখ কৰি আছে?
+A) North-East / উত্তৰ-পূব
+B) South-East / দক্ষিণ-পূব
+C) North-West / উত্তৰ-পশ্চিম
+D) South-West / দক্ষিণ-পশ্চিম
+Ans: A

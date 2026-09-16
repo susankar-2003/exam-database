@@ -1,0 +1,179 @@
+1. Six people are sitting in two parallel rows containing three people each. In Row 1: A, B, C are facing South. In Row 2: P, Q, R are facing North. A is sitting opposite to P. B is sitting at the extreme right end of Row 1. R is sitting opposite to B. Who is sitting opposite to C?
+
+ছয়জন ব্যক্তি দুটা সমান্তৰাল শাৰীত প্ৰত্যেকতে তিনিজনকৈ বহি আছে। 1 নং শাৰীত: A, B, C দক্ষিণফালে মুখ কৰি আছে। 2 নং শাৰীত: P, Q, R উত্তৰফালে মুখ কৰি আছে। A, P ৰ বিপৰীতে বহিছে। B, 1 নং শাৰীৰ একেবাৰে সোঁফালে আছে। R, B ৰ বিপৰীতে বহিছে। C ৰ বিপৰীতে কোন বহি আছে?
+A) P
+B) Q
+C) R
+D) None / কোনো নহয়
+Ans: B
+
+2. Five students are standing in a line facing North. Manoj is to the left of Naveen. Prakash is to the right of Naveen. Rakesh is to the right of Prakash but to the left of Tarun. Who is standing third from the left end?
+
+পাঁচজন ছাত্ৰ উত্তৰফালে মুখ কৰি এটা শাৰীত থিয় হৈ আছিল। মনোজ, নবীনৰ বাওঁফালে আছে। প্ৰকাশ, নবীনৰ সোঁফালে আছে। ৰাকেশ, প্ৰকাশৰ সোঁফালে কিন্তু তৰুণৰ বাওঁফালে আছে। বাওঁফালৰ পৰা তৃতীয় স্থানত কোন থিয় হৈ আছে?
+A) Manoj / মনোজ
+B) Naveen / নবীন
+C) Prakash / প্ৰকাশ
+D) Rakesh / ৰাকেশ
+Ans: C
+
+3. Five cars are parked in a straight line facing North. Car A is parked to the immediate left of Car B. Car C is parked to the immediate right of Car D. Car E is parked between Car B and Car D. Which car is parked in the exact middle?
+
+পাঁচখন গাড়ী উত্তৰফালে মুখ কৰি এটা পোন শাৰীত পাৰ্ক কৰা হৈছে। গাড়ী A, গাড়ী B ৰ ঠিক বাওঁফালে আছে। গাড়ী C, গাড়ী D ৰ ঠিক সোঁফালে আছে। গাড়ী E, গাড়ী B আৰু গাড়ী D ৰ মাজত আছে। একেবাৰে মাজত কোনখন গাড়ী পাৰ্ক কৰা হৈছে?
+A) Car A / গাড়ী A
+B) Car B / গাড়ী B
+C) Car E / গাড়ী E
+D) Car D / গাড়ী D
+Ans: C
+
+4. Five houses P, Q, R, S, and T are built in a row facing North. P is to the right of Q and to the left of R. S is to the right of R and to the left of T. Which house is at the extreme left end?
+
+পাঁচটা ঘৰ P, Q, R, S, T উত্তৰফালে মুখ কৰি এটা শাৰীত সাজা হৈছে। P, Q ৰ সোঁফালে আৰু R ৰ বাওঁফালে আছে। S, R ৰ সোঁফালে আৰু T ৰ বাওঁফালে আছে। একেবাৰে বাওঁফালে কোনটো ঘৰ আছে?
+A) P
+B) Q
+C) R
+D) S
+Ans: B
+
+5. In a row of 6 children facing North, A is 3rd to the left of F. F is at the extreme right end. B is to the immediate right of A. C is to the immediate left of F. D is between B and E. Who is sitting at the extreme left end?
+
+উত্তৰফালে মুখ কৰি থকা 6 জন শিশুৰ শাৰী এটাত A, F ৰ বাওঁফালে তৃতীয় স্থানত আছে। F একেবাৰে সোঁফালে আছে। B, A ৰ ঠিক সোঁফালে আছে। C, F ৰ ঠিক বাওঁফালে আছে। D, B আৰু E ৰ মাজত আছে। একেবাৰে বাওঁফালে কোন বহি আছে?
+A) A
+B) B
+C) D
+D) E
+Ans: D
+
+6. Five trees are planted in a straight line facing North. Tree 1 is to the left of Tree 2. Tree 3 is to the right of Tree 2. Tree 4 is between Tree 1 and Tree 2. Tree 5 is at the extreme right end. Which tree is at the extreme left end?
+
+পাঁচজোপাগছ উত্তৰফালে মুখ কৰি এটা পোন শাৰীত ৰোপণ কৰা হৈছে। গছ 1, গছ 2 ৰ বাওঁফালে আছে। গছ 3, গছ 2 ৰ সোঁফালে আছে। গছ 4, গছ 1 আৰু গছ 2 ৰ মাজত আছে। গছ 5 একেবাৰে সোঁফালে আছে। একেবাৰে বাওঁফালে কোনজোপা গছ আছে?
+A) Tree 1 / গছ 1
+B) Tree 2 / গছ 2
+C) Tree 4 / গছ 4
+D) Tree 5 / গছ 5
+Ans: A
+
+7. In a row of 25 persons facing North, A is 10th from the left end. What is A's position from the right end?
+
+উত্তৰফালে মুখ কৰি থকা 25 জন ব্যক্তিৰ শাৰী এটাত A বাওঁফালৰ পৰা 10 ম স্থানত আছে। সোঁফালৰ পৰা A ৰ স্থান কিমান?
+A) 15th / 15 নং
+B) 16th / 16 নং
+C) 14th / 14 নং
+D) 17th / 17 নং
+Ans: B
+
+8. In a row of students facing North, Rahul is 15th from the left end and 20th from the right end. How many students are there in the row?
+
+উত্তৰফালে মুখ কৰি থকা ছাত্ৰ-ছাত্ৰীৰ শাৰী এটাত ৰাহুল বাওঁফালৰ পৰা 15 নম্বৰত আৰু সোঁফালৰ পৰা 20 নম্বৰত আছে। শাৰীটোত মুঠ কিমানজন ছাত্ৰ-ছাত্ৰী আছে?
+A) 35
+B) 34
+C) 36
+D) 33
+Ans: B
+
+9. In a row of 30 girls facing North, Suman is 12th from the right end. What is her position from the left end?
+
+উত্তৰফালে মুখ কৰি থকা 30 জনী ছোৱালীৰ শাৰী এটাত সুমন সোঁফালৰ পৰা 12 নম্বৰত আছে। বাওঁফালৰ পৰা তাইৰ স্থান কিমান?
+A) 18th / 18 নং
+B) 19th / 19 নং
+C) 20th / 20 নং
+D) 17th / 17 নং
+Ans: B
+
+10. In a row of boys facing North, A is 10th from the left and B is 9th from the right. If they interchange their positions, A becomes 15th from the left. How many boys are there in the row?
+
+উত্তৰফালে মুখ কৰি থকা ল’ৰাৰ শাৰী এটাত A বাওঁফালৰ পৰা 10 নম্বৰত আৰু B সোঁফালৰ পৰা 9 নম্বৰত আছে। যদি তেওঁলোকে নিজৰ স্থান সলনি কৰে, A বাওঁফালৰ পৰা 15 নম্বৰত পৰে। শাৰীটোত মুঠ কিমানজন ল’ৰা আছে?
+A) 23
+B) 24
+C) 22
+D) 25
+Ans: A
+
+11. Five people A, B, C, D, and E are sitting in a row facing North. A is 2nd to the left of B, who is at the extreme right end. C is 2nd to the right of E. How many persons are sitting between E and B?
+
+পাঁচজন ব্যক্তি A, B, C, D, E উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। A, B ৰ বাওঁফালে দ্বিতীয় স্থানত আছে, যি একেবাৰে সোঁফালে আছে। C, E ৰ সোঁফালে দ্বিতীয় স্থানত আছে। E আৰু B ৰ মাজত কিমানজন ব্যক্তি বহি আছে?
+A) 1 / 1 জন
+B) 2 / 2 জন
+C) 3 / 3 জন
+D) 0 / 0 জন
+Ans: B
+
+12. Six friends A, B, C, D, E, and F are sitting in a line facing North. F is at the extreme left end. C is at the extreme right end. A is to the immediate right of F. E is to the immediate left of C. B and D are between A and E. How many people are sitting between F and D, if B is to the immediate right of A?
+
+ছয়জন বন্ধু A, B, C, D, E, F উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। F একেবাৰে বাওঁফালে আৰু C একেবাৰে সোঁফালে আছে। A, F ৰ ঠিক সোঁফালে আছে। E, C ৰ ঠিক বাওঁফালে আছে। B আৰু D, A আৰু E ৰ মাজত আছে। যদি B, A ৰ ঠিক সোঁফালে থাকে, তেন্তে F আৰু D ৰ মাজত কিমানজন ব্যক্তি বহি আছে?
+A) 1 / 1 জন
+B) 2 / 2 জন
+C) 3 / 3 জন
+D) 4 / 4 জন
+Ans: B
+
+13. Six people P, Q, R, S, T, and U are sitting in a row facing North. If P is facing North at the 1st position from the left, and U is at the 6th position, who is sitting in the middle positions 3 and 4?
+
+ছয়জন ব্যক্তি P, Q, R, S, T, U উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। যদি P বাওঁফালৰ পৰা 1ম স্থানত আৰু U 6 ঠাইত থাকে, তেন্তে 3 আৰু 4 নং মাজৰ স্থানত কোন কোন বহি আছে?
+A) Q and T / Q আৰু T
+B) R and S / R আৰু S
+C) P and U / P আৰু U
+D) S and T / S আৰু T
+Ans: B
+
+14. Five students A, B, C, D, and E are sitting in a row facing North. B is sitting between A and C. D is sitting between C and E. Who is sitting to the immediate right of B, if A is at the extreme left end?
+
+পাঁচজন ছাত্ৰ A, B, C, D, E উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। B, A আৰু C ৰ মাজত বহিছে। D, C আৰু E ৰ মাজত বহিছে। যদি A একেবাৰে বাওঁফালে থাকে, তেন্তে B ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) A
+B) C
+C) D
+D) E
+Ans: B
+
+15. In a linear row of 7 people facing North, A is in the exact middle. B is to the immediate left of A. C is to the immediate right of A. D is at the extreme left end. E is at the extreme right end. F is between D and B. Who is sitting between C and E?
+
+উত্তৰফালে মুখ কৰি থকা 7 জন ব্যক্তিৰ শাৰী এটাত A একেবাৰে মাজত আছে। B, A ৰ ঠিক বাওঁফালে আছে। C, A ৰ ঠিক সোঁফালে আছে। D একেবাৰে বাওঁফালে আছে। E একেবাৰে সোঁফালে আছে। F, D আৰু B ৰ মাজত আছে। C আৰু E ৰ মাজত কোন বহি আছে?
+A) F
+B) G
+C) B
+D) A
+Ans: B
+
+16. Six friends P, Q, R, S, T, and U are sitting in a row facing South. P is sitting 2nd to the right of Q. R is sitting 2nd to the left of Q. S is at the extreme left end. T is at the extreme right end. Who is sitting to the immediate left of R?
+
+ছয়জন বন্ধু P, Q, R, S, T, U দক্ষিণফালে মুখ কৰি এটা শাৰীত বহি আছে। P, Q ৰ সোঁফালে দ্বিতীয় স্থানত আছে। R, Q ৰ বাওঁফালে দ্বিতীয় স্থানত আছে। S একেবাৰে বাওঁফালে আছে। T একেবাৰে সোঁফালে আছে। R ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) S
+B) U
+C) P
+D) T
+Ans: A
+
+17. In a row facing North, 5 persons A, B, C, D, and E are seated. A is not at any extreme end. B is to the immediate right of C. D is at the extreme left end. E is at the extreme right end. Where is A sitting?
+
+উত্তৰফালে মুখ কৰি থকা শাৰী এটাত 5 জন ব্যক্তি A, B, C, D, E বহি আছে। A কোনো দুই মূৰত নাই। B, C ৰ ঠিক সোঁফালে আছে। D একেবাৰে বাওঁফালে আছে। E একেবাৰে সোঁফালে আছে। A ক’ত বহি আছে?
+A) Between D and C / D আৰু C ৰ মাজত
+B) Between C and B / C আৰু B ৰ মাজত
+C) Between B and E / B আৰু E ৰ মাজত
+D) At the extreme left end / একেবাৰে বাওঁফালে
+Ans: C
+
+18. Five cars 1, 2, 3, 4, and 5 are parked facing North. Car 3 is in the middle. Car 1 is to the immediate left of Car 3. Car 5 is to the immediate right of Car 3. Car 2 is at the extreme left end. Where is Car 4 parked?
+
+পাঁচখন গাড়ী 1, 2, 3, 4, 5 উত্তৰফালে মুখ কৰি পাৰ্ক কৰা হৈছে। গাড়ী 3 একেবাৰে মাজত আছে। গাড়ী 1, গাড়ী 3 ৰ ঠিক বাওঁফালে আছে। গাড়ী 5, গাড়ী 3 ৰ ঠিক সোঁফালে আছে। গাড়ী 2 একেবাৰে বাওঁফালে আছে। গাড়ী 4 ক’ত পাৰ্ক কৰা হৈছে?
+A) At the extreme left end / একেবাৰে বাওঁফালে
+B) At the extreme right end / একেবাৰে সোঁফালে
+C) Between Car 1 and 3 / গাড়ী 1 আৰু 3 ৰ মাজত
+D) Between Car 2 and 1 / গাড়ী 2 আৰু 1 ৰ মাজত
+Ans: B
+
+19. Seven people A, B, C, D, E, F, and G are sitting in a row facing North. A is sitting to the immediate left of B. C is sitting to the immediate right of B. D is sitting at the extreme left end. E is sitting at the extreme right end. F is sitting between D and A. Who is sitting between C and E?
+
+সাতজন ব্যক্তি A, B, C, D, E, F আৰু G উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। A, B ৰ ঠিক বাওঁফালে আছে। C, B ৰ ঠিক সোঁফালে আছে। D একেবাৰে বাওঁফালে আছে। E একেবাৰে সোঁফালে আছে। F, D আৰু A ৰ মাজত বহি আছে। C আৰু E ৰ মাজত কোন বহি আছে?
+A) F
+B) G
+C) D
+D) A
+Ans: B
+
+20. Six students P, Q, R, S, T, and U are sitting in a row facing North. P is sitting at the extreme left end. U is sitting at the extreme right end. Q is to the immediate right of P. R is to the immediate right of Q. S is sitting between R and U. Who is sitting third from the left end?
+
+ছয়জন ছাত্ৰ P, Q, R, S, T আৰু U উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। P একেবাৰে বাওঁফালে আৰু U একেবাৰে সোঁফালে আছে। Q, P ৰ ঠিক সোঁফালে আছে। R, Q ৰ ঠিক সোঁফালে আছে। S, R আৰু U ৰ মাজত বহি আছে। বাওঁফালৰ পৰা তৃতীয় স্থানত কোন বহি আছে?
+A) P
+B) Q
+C) R
+D) S
+Ans: C

@@ -1,0 +1,224 @@
+1. Five friends A, B, C, D, and E are sitting in a row facing North. C is sitting at the extreme left end. B is to the immediate right of C. D is between B and E. Who is sitting at the extreme right end?
+
+পাঁচজন বন্ধু A, B, C, D, আৰু E উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। C একেবাৰে বাওঁফালে বহিছে। B, C ৰ ঠিক সোঁফালে আছে। D, B আৰু E ৰ মাজত আছে। একেবাৰে সোঁফালে কোন বহি আছে?
+A) A
+B) B
+C) D
+D) E
+Ans: A
+
+2. Five students P, Q, R, S, and T are sitting in a row facing North. S is between T and Q. Q is to the immediate left of R. P is to the immediate left of T. Who is sitting at the extreme left end?
+
+পাঁচজন ছাত্ৰ P, Q, R, S, T উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। S, T আৰু Q ৰ মাজত আছে। Q, R ৰ ঠিক বাওঁফালে আছে। P, T ৰ ঠিক বাওঁফালে আছে। একেবাৰে বাওঁফালে কোন বহি আছে?
+A) P
+B) T
+C) Q
+D) R
+Ans: A
+
+3. Five friends A, B, C, D, and E are sitting in a row facing North. D is to the immediate right of E. B is to the immediate left of E. C is at the extreme right end. A is between D and C. Who is sitting at the extreme left end?
+
+পাঁচজন বন্ধু A, B, C, D, E উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। D, E ৰ ঠিক সোঁফালে আছে। B, E ৰ ঠিক বাওঁফালে আছে। C একেবাৰে সোঁফালে আছে। A, D আৰু C ৰ মাজত আছে। একেবাৰে বাওঁফালে কোন বহি আছে?
+A) B
+B) E
+C) D
+D) A
+Ans: A
+
+4. Five people J, K, L, M, and N are sitting in a row facing North. L is to the immediate right of M. N is to the immediate left of M. K is at the extreme right end. J is to the left of N. Who is sitting second from the right end?
+
+পাঁচজন ব্যক্তি J, K, L, M, N উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। L, M ৰ ঠিক সোঁফালে আছে। N, M ৰ ঠিক বাওঁফালে আছে। K একেবাৰে সোঁফালে আছে। J, N ৰ বাওঁফালে আছে। সোঁফালৰ পৰা দ্বিতীয়স্থানত কোন বহি আছে?
+A) J
+B) N
+C) M
+D) L
+Ans: D
+
+5. Five girls A, B, C, D, and E are sitting in a line facing North. C is at the extreme right end. B is between A and C. E is to the immediate left of D. D is to the immediate left of A. Who is sitting in the exact middle?
+
+পাঁচজনী ছোৱালী A, B, C, D, E উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। C একেবাৰে সোঁফালে আছে। B, A আৰু C ৰ মাজত আছে। E, D ৰ ঠিক বাওঁফালে আছে। D, A ৰ ঠিক বাওঁফালে আছে। একেবাৰে মাজত কোন বহি আছে?
+A) E
+B) D
+C) A
+D) B
+Ans: C
+
+6. Six friends A, B, C, D, E, and F are sitting in a row facing North. C is sitting between A and E. B is sitting between D and F. E is at the extreme left end and F is at the extreme right end. Who is sitting between C and B?
+
+ছয়জন বন্ধু A, B, C, D, E, F উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। C, A আৰু E ৰ মাজত বহিছে। B, D আৰু F ৰ মাজত বহিছে। E একেবাৰে বাওঁফালে আৰু F একেবাৰে সোঁফালে আছে। C আৰু B ৰ মাজত কোন কোন বহি আছে?
+A) A and D / A আৰু D
+B) D and E / D আৰু E
+C) A and F / A আৰু F
+D) E and F / E আৰু F
+Ans: A
+
+7. Six persons P, Q, R, S, T, and U are sitting in a row facing North. T is at the extreme left end and U is at the extreme right end. R is third to the left of U. Q is sitting between R and U. P is second to the right of S. Who is sitting between T and R?
+
+ছয়জন ব্যক্তি P, Q, R, S, T, U উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। T একেবাৰে বাওঁফালে আৰু U একেবাৰে সোঁফালে আছে। R, U ৰ বাওঁফালে তৃতীয় স্থানত আছে। Q, R আৰু U ৰ মাজত বহিছে। P, S ৰ সোঁফালে দ্বিতীয় স্থানত আছে। T আৰু R ৰ মাজত কোন বহি আছে?
+A) P
+B) Q
+C) S
+D) U
+Ans: C
+
+8. Five friends A, B, C, D, and E are facing North. A is sitting to the immediate right of B. C is sitting between D and B. E is at the extreme right end. Who is sitting second to the left of E?
+
+পাঁচজন বন্ধু A, B, C, D, E উত্তৰফালে মুখ কৰি আছে। A, B ৰ ঠিক সোঁফালে বহিছে। C, D আৰু B ৰ মাজত বহিছে। E একেবাৰে সোঁফালে আছে। E ৰ বাওঁফালে দ্বিতীয় স্থানত কোন বহি আছে?
+A) A
+B) B
+C) C
+D) D
+Ans: B
+
+9. In a row of 5 people facing North, A is 2nd to the left of B. B is 2nd to the left of C. D is to the immediate right of C. E is at the extreme left end. Who is sitting in the middle?
+
+উত্তৰফালে মুখ কৰি থকা 5 জন ব্যক্তিৰ শাৰী এটাত A, B ৰ বাওঁফালে দ্বিতীয় স্থানত আছে। B, C ৰ বাওঁফালে দ্বিতীয় স্থানত আছে। D, C ৰ ঠিক সোঁফালে আছে। E একেবাৰে বাওঁফালে আছে। মাজত কোন বহি আছে?
+A) A
+B) B
+C) C
+D) D
+Ans: B
+
+10. Five people P, Q, R, S, and T are sitting in a row facing North. Q is sitting at the extreme right end. T is sitting second to the left of Q. R is sitting between S and T. P is to the immediate left of Q. Who is sitting at the extreme left end?
+
+পাঁচজন ব্যক্তি P, Q, R, S, T উত্তৰফালে মুখ কৰি বহি আছে। Q একেবাৰে সোঁফালে বহিছে। T, Q ৰ বাওঁফালে দ্বিতীয় স্থানত আছে। R, S আৰু T ৰ মাজত বহিছে। P, Q ৰ ঠিক বাওঁফালে আছে। একেবাৰে বাওঁফালে কোন বহি আছে?
+A) P
+B) R
+C) S
+D) T
+Ans: C
+
+11. Six persons A, B, C, D, E, and F are sitting in a row facing North. F is at the extreme left end and D is at the extreme right end. B is sitting between F and C. E is sitting between C and A. Who is sitting to the immediate right of C?
+
+ছয়জন ব্যক্তি A, B, C, D, E, F উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। F একেবাৰে বাওঁফালে আৰু D একেবাৰে সোঁফালে আছে। B, F আৰু C ৰ মাজত বহিছে। E, C আৰু A ৰ মাজত বহিছে। C ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) A
+B) B
+C) E
+D) F
+Ans: C
+
+12. Five friends P, Q, R, S, and T are sitting in a row facing North. P is to the immediate right of Q. R is to the immediate right of P. S is to the immediate left of Q. T is at the extreme right end. Who is sitting in the exact middle?
+
+পাঁচজন বন্ধু P, Q, R, S, T উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। P, Q ৰ ঠিক সোঁফালে আছে। R, P ৰ ঠিক সোঁফালে আছে। S, Q ৰ ঠিক বাওঁফালে আছে। T একেবাৰে সোঁফালে আছে। একেবাৰে মাজত কোন বহি আছে?
+A) P
+B) Q
+C) R
+D) S
+Ans: A
+
+13. Five students A, B, C, D, and E are sitting in a row facing North. A is sitting second to the right of E. B is sitting at the extreme right end. C is sitting between A and B. Who is sitting at the extreme left end?
+
+পাঁচজন ছাত্ৰ A, B, C, D, E উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। A, E ৰ সোঁফালে দ্বিতীয় স্থানত আছে। B একেবাৰে সোঁফালে আছে। C, A আৰু B ৰ মাজত আছে। একেবাৰে বাওঁফালে কোন বহি আছে?
+A) A
+B) B
+C) D
+D) E
+Ans: D
+
+14. Five people K, L, M, N, and O are facing North in a line. M is in the middle. L is to the immediate left of M. K is to the immediate left of L. O is to the immediate right of M. Where is N sitting?
+
+পাঁচজন ব্যক্তি K, L, M, N, O উত্তৰফালে মুখ কৰি এটা শাৰীত আছে। M একেবাৰে মাজত আছে। L, M ৰ ঠিক বাওঁফালে আছে। K, L ৰ ঠিক বাওঁফালে আছে। O, M ৰ ঠিক সোঁফালে আছে। N ক’ত বহি আছে?
+A) At the extreme left end / একেবাৰে বাওঁফালে
+B) At the extreme right end / একেবাৰে সোঁফালে
+C) Between L and M / L আৰু M ৰ মাজত
+D) Between M and O / M আৰু O ৰ মাজত
+Ans: B
+
+15. Seven friends A, B, C, D, E, F, and G are sitting in a row facing North. D is sitting in the middle. C is sitting to the immediate right of D. E is sitting to the immediate right of C. B is at the extreme left end. A is between B and F. Where is G sitting?
+
+সাতজন বন্ধু A, B, C, D, E, F, G উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। D একেবাৰে মাজত বহিছে। C, D ৰ ঠিক সোঁফালে বহিছে। E, C ৰ ঠিক সোঁফালে বহিছে। B একেবাৰে বাওঁফালে আছে। A, B আৰু F ৰ মাজত আছে। G ক’ত বহি আছে?
+A) At the extreme left end / একেবাৰে বাওঁফালে
+B) At the extreme right end / একেবাৰে সোঁফালে
+C) Immediate left of D / D ৰ ঠিক বাওঁফালে
+D) Between C and E / C আৰু E ৰ মাজত
+Ans: B
+
+16. Five people A, B, C, D, and E are sitting in a row facing South. C is sitting in the middle. A is at the extreme right end. B is to the immediate left of C. D is between A and C. Who is sitting at the extreme left end?
+
+পাঁচজন ব্যক্তি A, B, C, D, E দক্ষিণফালে মুখ কৰি এটা শাৰীত বহি আছে। C একেবাৰে মাজত বহিছে। A একেবাৰে সোঁফালে আছে। B, C ৰ ঠিক বাওঁফালে আছে। D, A আৰু C ৰ মাজত আছে। একেবাৰে বাওঁফালে কোন বহি আছে?
+A) A
+B) B
+C) D
+D) E
+Ans: D
+
+17. Five students P, Q, R, S, and T are sitting in a row facing South. R is sitting at the extreme left end. Q is to the immediate right of R. P is sitting in the middle. S is between P and T. Who is sitting at the extreme right end?
+
+পাঁচজন ছাত্ৰ P, Q, R, S, T দক্ষিণফালে মুখ কৰি এটা শাৰীত বহি আছে। R একেবাৰে বাওঁফালে আছে। Q, R ৰ ঠিক সোঁফালে আছে। P একেবাৰে মাজত বহিছে। S, P আৰু T ৰ মাজত আছে। একেবাৰে সোঁফালে কোন বহি আছে?
+A) P
+B) Q
+C) S
+D) T
+Ans: D
+
+18. Six friends A, B, C, D, E, and F are sitting in a row facing South. A is sitting at the extreme right end. F is sitting at the extreme left end. B is to the immediate left of A. E is to the immediate right of F. C is between B and D. Who is sitting to the immediate right of D?
+
+ছয়জন বন্ধু A, B, C, D, E, F দক্ষিণফালে মুখ কৰি এটা শাৰীত বহি আছে। A একেবাৰে সোঁফালে আৰু F একেবাৰে বাওঁফালে আছে। B, A ৰ ঠিক বাওঁফালে আছে। E, F ৰ ঠিক সোঁফালে আছে। C, B আৰু D ৰ মাজত আছে। D ৰ ঠিক সোঁফালে কোন বহি আছে?
+A) B
+B) C
+C) E
+D) F
+Ans: B
+
+19. Five people K, L, M, N, and O are sitting in a row facing South. O is at the extreme right end. L is to the immediate left of O. M is to the immediate left of L. N is to the immediate left of M. K is to the immediate left of N. Who is sitting in the middle of the row?
+
+পাঁচজন ব্যক্তি K, L, M, N, O দক্ষিণফালে মুখ কৰি এটা শাৰীত বহি আছে। O একেবাৰে সোঁফালে আছে। L, O ৰ ঠিক বাওঁফালে আছে। M, L ৰ ঠিক বাওঁফালে আছে। N, M ৰ ঠিক বাওঁফালে আছে। K, N ৰ ঠিক বাওঁফালে আছে। শাৰীটোৰ একেবাৰে মাজত কোন বহি আছে?
+A) K
+B) L
+C) M
+D) N
+Ans: C
+
+20. Five girls P, Q, R, S, and T are facing South in a row. T is in the middle. P is sitting to the immediate right of T. Q is sitting to the immediate left of T. R is at the extreme right end. Where is S sitting?
+
+পাঁচজনী ছোৱালী P, Q, R, S, T দক্ষিণফালে মুখ কৰি এটা শাৰীত বহি আছে। T একেবাৰে মাজত আছে। P, T ৰ ঠিক সোঁফালে বহিছে। Q, T ৰ ঠিক বাওঁফালে বহিছে। R একেবাৰে সোঁফালে আছে। S ক’ত বহি আছে?
+A) At the extreme left end / একেবাৰে বাওঁফালে
+B) At the extreme right end / একেবাৰে সোঁফালে
+C) Between P and T / P আৰু T ৰ মাজত
+D) Between T and Q / T আৰু Q ৰ মাজত
+Ans: A
+
+21. In a row of 5 persons facing North, X is 3rd to the right of Y. Y is at the extreme left end. Z is to the immediate left of X. W is between Y and Z. Who is sitting at the extreme right end?
+
+উত্তৰফালে মুখ কৰি থকা 5 জন ব্যক্তিৰ শাৰী এটাত X, Y ৰ সোঁফালে তৃতীয় স্থানত আছে। Y একেবাৰে বাওঁফালে আছে। Z, X ৰ ঠিক বাওঁফালে আছে। W, Y আৰু Z ৰ মাজত আছে। একেবাৰে সোঁফালে কোন বহি আছে?
+A) W
+B) Z
+C) X
+D) V
+Ans: D
+
+22. Six students A, B, C, D, E, and F are sitting in a row facing North. A and B are at the extreme ends. C is sitting to the immediate left of B. D is sitting to the immediate right of A. E is sitting between D and F. Who is sitting to the immediate left of C?
+
+ছয়জন ছাত্ৰ A, B, C, D, E, F উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। A আৰু B একেবাৰে দুই মূৰত আছে। C, B ৰ ঠিক বাওঁফালে আছে। D, A ৰ ঠিক সোঁফালে আছে। E, D আৰু F ৰ মাজত আছে। C ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) D
+B) E
+C) F
+D) A
+Ans: C
+
+23. Seven persons P, Q, R, S, T, U, and V are sitting in a row facing North. R is sitting to the immediate right of Q. S is sitting second to the right of Q. T is sitting to the immediate left of Q. P is at the extreme left end and U is at the extreme right end. Who is sitting between S and U?
+
+সাতজন ব্যক্তি P, Q, R, S, T, U, V উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। R, Q ৰ ঠিক সোঁফালে আছে। S, Q ৰ সোঁফালে দ্বিতীয় স্থানত আছে। T, Q ৰ ঠিক বাওঁফালে আছে। P একেবাৰে বাওঁফালে আৰু U একেবাৰে সোঁফালে আছে। S আৰু U ৰ মাজত কোন বহি আছে?
+A) R
+B) V
+C) T
+D) Q
+Ans: B
+
+24. Five friends A, B, C, D, and E are facing North. C is sitting second to the left of A. D is sitting to the immediate right of A. B is to the immediate left of C. Who is sitting at the extreme left end?
+
+পাঁচজন বন্ধু A, B, C, D, E উত্তৰফালে মুখ কৰি বহি আছে। C, A ৰ বাওঁফালে দ্বিতীয় স্থানত আছে। D, A ৰ ঠিক সোঁফালে আছে। B, C ৰ ঠিক বাওঁফালে আছে। একেবাৰে বাওঁফালে কোন বহি আছে?
+A) A
+B) B
+C) C
+D) E
+Ans: B
+
+25. Six people P, Q, R, S, T, and U are sitting in a row facing North. P and U are sitting at the extreme ends. R is sitting to the immediate right of P. S is sitting to the immediate left of U. Q is sitting between R and T. Who is sitting to the immediate left of T?
+
+ছয়জন ব্যক্তি P, Q, R, S, T, U উত্তৰফালে মুখ কৰি এটা শাৰীত বহি আছে। P আৰু U একেবাৰে দুই মূৰত আছে। R, P ৰ ঠিক সোঁফালে আছে। S, U ৰ ঠিক বাওঁফালে আছে। Q, R আৰু T ৰ মাজত আছে। T ৰ ঠিক বাওঁফালে কোন বহি আছে?
+A) P
+B) Q
+C) R
+D) S
+Ans: B

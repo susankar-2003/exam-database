@@ -1,0 +1,274 @@
+1. Statements: All apples are fruits. All fruits are healthy.
+Conclusions: I. All apples are healthy. II. Some healthy items are apples.
+
+বক্তব্য: সকলো আপেল হৈছে ফল। সকলো ফল হৈছে স্বাস্থ্যকৰ।
+সিদ্ধান্ত: I. সকলো আপেল স্বাস্থ্যকৰ। II. কিছুমান স্বাস্থ্যকৰ বস্তু আপেল।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+2. Statements: Some books are pens. All pens are desks.
+Conclusions: I. Some books are desks. II. No desk is a book.
+
+বক্তব্য: কিছুমান কিতাপ কলম। সকলো কলম ডেস্ক।
+সিদ্ধান্ত: I. কিছুমান কিতাপ ডেস্ক। II. কোনো ডেস্ক কিতাপ নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+3. Statements: All dogs are cats. No cat is a cow.
+Conclusions: I. No dog is a cow. II. Some cats are dogs.
+
+বক্তব্য: সকলো কুকুৰ মেকুৰী। কোনো মেকুৰী গৰু নহয়।
+সিদ্ধান্ত: I. কোনো কুকুৰ গৰু নহয়। II. কিছুমান মেকুৰী কুকুৰ।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+4. Statements: Some cars are buses. Some buses are trains.
+Conclusions: I. Some cars are trains. II. No car is a train.
+
+বক্তব্য: কিছুমান গাড়ী বাছ। কিছুমান বাছ ৰেল।
+সিদ্ধান্ত: I. কিছুমান গাড়ী ৰেল। II. কোনো গাড়ী ৰেল নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Either conclusion I or II follows / হয় সিদ্ধান্ত I নহয় II অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+5. Statements: Company X has doubled its sales this year. The marketing team worked efficiently.
+Conclusions: I. Marketing team was the only reason for increased sales. II. Sales will double next year as well.
+
+বক্তব্য: এক্স কোম্পানীয়ে এই বছৰ বিক্ৰী দুগুণ কৰিলে। মাৰ্কেটিং দলে দক্ষতাৰে কাম কৰিলে।
+সিদ্ধান্ত: I. বিক্ৰী বৃদ্ধিৰ একমাত্ৰ কাৰণ আছিল মাৰ্কেটিং দল। II. অহা বছৰো বিক্ৰী দুগুণ হ’ব।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: D
+
+6. Statements: No ocean is freshwater. Lake S is freshwater.
+Conclusions: I. Lake S is not an ocean. II. Ocean water is fit for drinking.
+
+বক্তব্য: কোনো মহাসাগৰ মিঠা পানীৰ নহয়। S হ্ৰদটো মিঠা পানীৰ।
+সিদ্ধান্ত: I. S হ্ৰদটো মহাসাগৰ নহয়। II. মহাসাগৰৰ পানী খোৱাৰ বাবে উপযোগী।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+7. Statements: Regular exercise keeps a person fit. Rahul exercises every day.
+Conclusions: I. Rahul is fit. II. Exercise is necessary for everyone.
+
+বক্তব্য: নিয়মীয়া ব্যায়ামে এজন মানুহক সুস্থ কৰি ৰাখে। ৰাহুলে প্ৰতিদিনে ব্যায়াম কৰে।
+সিদ্ধান্ত: I. ৰাহুল সুস্থ। II. ব্যায়াম সকলোৰে বাবে প্ৰয়োজনীয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+8. Statements: No tree is a flower. All flowers are plants.
+Conclusions: I. Some plants are flowers. II. Some plants are not trees.
+
+বক্তব্য: কোনো গছ ফুল নহয়। সকলো ফুল উদ্ভিদ।
+সিদ্ধান্ত: I. কিছুমান উদ্ভিদ ফুল। II. কিছুমান উদ্ভিদ গছ নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+9. Statements: All students passed the exam. Rohit is a student.
+Conclusions: I. Rohit passed the exam. II. Rohit topped the exam.
+
+বক্তব্য: সকলো ছাত্ৰ-ছাত্ৰীয়ে পৰীক্ষাত উত্তীৰ্ণ হৈছে। ৰোহিত এজন ছাত্ৰ।
+সিদ্ধান্ত: I. ৰোহিত পৰীক্ষাত উত্তীৰ্ণ হ’ল। II. ৰোহিতে পৰীক্ষাত প্ৰথম স্থান লাভ কৰিলে।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+10. Statements: Some mangoes are sweet. All sweet items are delicious.
+Conclusions: I. Some mangoes are delicious. II. All delicious items are sweet.
+
+বক্তব্য: কিছুমান আম মিঠা। সকলো মিঠা বস্তু সোৱাদযুক্ত।
+সিদ্ধান্ত: I. কিছুমান আম সোৱাদযুক্ত। II. সকলো সোৱাদযুক্ত বস্তু মিঠা।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+11. Statements: All mobility solutions are tech-driven. Electric vehicles are mobility solutions.
+Conclusions: I. Electric vehicles are tech-driven. II. All tech-driven devices are electric vehicles.
+
+বক্তব্য: সকলো যাতায়াত ব্যৱস্থা প্ৰযুক্তি-ভিত্তিক। বৈদ্যুতিক যানবাহনসমূহ যাতায়াত ব্যৱস্থাৰ অন্তৰ্গত।
+সিদ্ধান্ত: I. বৈদ্যুতিক যানবাহনসমূহ প্ৰযুক্তি-ভিত্তিক। II. সকলো প্ৰযুক্তি-ভিত্তিক যন্ত্ৰই বৈদ্যুতিক যানবাহন।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+12. Statements: No A is B. No B is C.
+Conclusions: I. No A is C. II. Some A are C.
+
+বক্তব্য: কোনো A নহয় B। কোনো B নহয় C।
+সিদ্ধান্ত: I. কোনো A নহয় C। II. কিছুমান A হয় C।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Either conclusion I or II follows / হয় সিদ্ধান্ত I নহয় II অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+13. Statements: Many doctors are scientists. All scientists are hard-working.
+Conclusions: I. Many doctors are hard-working. II. All hard-working people are doctors.
+
+বক্তব্য: বহুতো চিকিৎসক বিজ্ঞানী। সকলো বিজ্ঞানী পৰিশ্ৰমী।
+সিদ্ধান্ত: I. বহুতো চিকিৎসক পৰিশ্ৰমী। II. সকলো পৰিশ্ৰমী মানুহ চিকিৎসক।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+14. Statements: Population growth rate is decreasing in developed nations. Nation A is a developed nation.
+Conclusions: I. Nation A's population growth rate is decreasing. II. Nation A has zero population.
+
+বক্তব্য: উন্নত দেশসমূহত জনসংখ্যা বৃদ্ধিৰ হাৰ হ্রাস পাইছে। A দেশখন এখন উন্নত দেশ।
+সিদ্ধান্ত: I. A দেশৰ জনসংখ্যা বৃদ্ধিৰ হাৰ হ্ৰাস পাইছে। II. A দেশৰ জনসংখ্যা শূন্য।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+15. Statements: All cups are plates. All plates are spoons.
+Conclusions: I. All cups are spoons. II. All spoons are cups.
+
+বক্তব্য: সকলো কাপ প্লেট। সকলো প্লেট চামুচ।
+সিদ্ধান্ত: I. সকলো কাপ চামুচ। II. সকলো চামুচ কাপ।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+16. Statements: Pollution is increasing in major cities. Vehicles release smoke.
+Conclusions: I. Vehicles are one of the causes of pollution. II. Pollution can be stopped by banning all vehicles.
+
+বক্তব্য: ডাঙৰ চহৰসমূহত প্ৰদূষণ বৃদ্ধি পাইছে। যানবাহনে ধোঁৱা নিৰ্গমন কৰে।
+সিদ্ধান্ত: I. যানবাহন প্ৰদূষণৰ অন্যতম কাৰণ। II. সকলো যানবাহন বন্ধ কৰি দিলে প্ৰদূষণ ৰোধ কৰিব পৰা যাব।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+17. Statements: Some players are actors. All actors are tall.
+Conclusions: I. Some players are tall. II. No player is tall.
+
+বক্তব্য: কিছুমান খেলুৱৈ অভিনেতা। সকলো অভিনেতা ওখ।
+সিদ্ধান্ত: I. কিছুমান খেলুৱৈ ওখ। II. কোনো খেলুৱৈ ওখ নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+18. Statements: Price of petrol has increased. Public transport fares have risen.
+Conclusions: I. Public transport fares are directly linked to petrol prices. II. People will stop traveling.
+
+বক্তব্য: পেট্ৰ’লৰ দাম বৃদ্ধি পালে। ৰাজহুৱা পৰিবহণৰ ভাড়া বাঢ়িল।
+সিদ্ধান্ত: I. ৰাজহুৱা পৰিবহণৰ ভাড়া পোনপটীয়াকৈ পেট্ৰ’লৰ দামৰ সৈতে জৰিত। II. মানুহে যাত্ৰা কৰা বন্ধ কৰিব।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+19. Statements: All birds fly. Penguins are birds.
+Conclusions: I. Penguins fly. II. Penguins cannot fly.
+
+বক্তব্য: সকলো চৰাই উৰে। পেংগুইন চৰাই।
+সিদ্ধান্ত: I. পেংগুইন উৰে। II. পেংগুইন উৰিব নোৱাৰে।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+20. Statements: Some mobile phones are laptops. All laptops are gadgets.
+Conclusions: I. Some mobile phones are gadgets. II. Some gadgets are mobile phones.
+
+বক্তব্য: কিছুমান ম’বাইল ফোন লেপটপ। সকলো লেপটপ গেজেট।
+সিদ্ধান্ত: I. কিছুমান ম’বাইল ফোন গেজেট। II. কিছুমান গেজেট ম’বাইল ফোন।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+21. Statements: Reading books increases knowledge. Amit reads books every day.
+Conclusions: I. Amit is knowledgeable. II. Only reading books gives knowledge.
+
+বক্তব্য: কিতাপ পঢ়িলে জ্ঞান বৃদ্ধি পায়। অমিতে প্ৰতিদিনে কিতাপ পঢ়ে।
+সিদ্ধান্ত: I. অমিত জ্ঞানী। II. কেৱল কিতাপ পঢ়িলেহে জ্ঞান পোৱা যায়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+22. Statements: No man is immortal. Socrates is a man.
+Conclusions: I. Socrates is mortal. II. All men are Socrates.
+
+বক্তব্য: কোনো মানুহ অমৰ নহয়। ছক্ৰেটিছ এজন মানুহ।
+সিদ্ধান্ত: I. ছক্ৰেটিছ মৰণশীল। II. সকলো মানুহ ছক্ৰেটিছ।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+23. Statements: Some chairs are tables. Some tables are beds.
+Conclusions: I. Some chairs are beds. II. No chair is a bed.
+
+বক্তব্য: কিছুমান চকী মেজ। কিছুমান মেজ বিচনা।
+সিদ্ধান্ত: I. কিছুমান চকী বিচনা। II. কোনো চকী বিচনা নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Either conclusion I or II follows / হয় সিদ্ধান্ত I নহয় II অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: C
+
+24. Statements: All honesty is rewarded. Shyam is honest.
+Conclusions: I. Shyam will be rewarded. II. Dishonest people are never rewarded.
+
+বক্তব্য: সকলো সততাক পুৰস্কৃত কৰা হয়। শ্যাম সৎ।
+সিদ্ধান্ত: I. শ্যামে পুৰস্কাৰ পাব। II. অসৎ লোক কেতিয়াও পুৰস্কৃত নহয়।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A
+
+25. Statements: All metals are solids. Iron is a metal.
+Conclusions: I. Iron is solid. II. All solids are metals.
+
+বক্তব্য: সকলো ধাতু কঠিন। লোহা এবিধ ধাতু।
+সিদ্ধান্ত: I. লোহা কঠিন। II. সকলো কঠিন বস্তু ধাতু।
+A) Only conclusion I follows / কেৱল সিদ্ধান্ত I অনুসৰণ কৰে
+B) Only conclusion II follows / কেৱল সিদ্ধান্ত II অনুসৰণ কৰে
+C) Both conclusions I and II follow / সিদ্ধান্ত I আৰু II দুয়োটাই অনুসৰণ কৰে
+D) Neither conclusion I nor II follows / সিদ্ধান্ত I বা II এটাও অনুসৰণ নকৰে
+Ans: A

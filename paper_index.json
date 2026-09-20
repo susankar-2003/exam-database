@@ -1,5 +1,5 @@
 {
-    "last_serial": 746,
+    "last_serial": 811,
     "papers": {
         "1": {
             "id": "1",
@@ -5220,6 +5220,461 @@
             "path": "English Grammar/Tenses/Tenses 6_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/English%20Grammar/Tenses/Tenses%206_25Q.txt",
             "hash": "8c1d03180f85e13cc710fc1027565e4f"
+        },
+        "747": {
+            "id": "747",
+            "name": "Government Schemes 2_20Q.txt",
+            "path": "General Awareness/Indian Economy/Government Schemes 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Government%20Schemes%202_20Q.txt",
+            "hash": "c40331e45b8373b98faa381130642881"
+        },
+        "748": {
+            "id": "748",
+            "name": "RBI & Banking 2_20Q.txt",
+            "path": "General Awareness/Indian Economy/RBI & Banking 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/RBI%20%26%20Banking%202_20Q.txt",
+            "hash": "e4165e929db9c98fa1ca9f578fbd41cd"
+        },
+        "749": {
+            "id": "749",
+            "name": "Taxation & GST 2_20Q.txt",
+            "path": "General Awareness/Indian Economy/Taxation & GST 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Taxation%20%26%20GST%202_20Q.txt",
+            "hash": "35417cb4a1fc0f6595257cf6a8b30c4d"
+        },
+        "750": {
+            "id": "750",
+            "name": "Basic Economic Concepts 1_25Q.txt",
+            "path": "General Awareness/Indian Economy/Basic Economic Concepts 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Basic%20Economic%20Concepts%201_25Q.txt",
+            "hash": "9c119828794d7740676d534bbf89ab78"
+        },
+        "751": {
+            "id": "751",
+            "name": "Basic Economic Concepts 2_25Q.txt",
+            "path": "General Awareness/Indian Economy/Basic Economic Concepts 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Basic%20Economic%20Concepts%202_25Q.txt",
+            "hash": "07e99a10339a50d50dcafab1306b939a"
+        },
+        "752": {
+            "id": "752",
+            "name": "Government Schemes 3_20Q.txt",
+            "path": "General Awareness/Indian Economy/Government Schemes 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Government%20Schemes%203_20Q.txt",
+            "hash": "c27add54a1414a9104be780add2bea36"
+        },
+        "753": {
+            "id": "753",
+            "name": "Inflation 3_20Q.txt",
+            "path": "General Awareness/Indian Economy/Inflation 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Inflation%203_20Q.txt",
+            "hash": "c9749892d398887aef08263a2b97bd1b"
+        },
+        "754": {
+            "id": "754",
+            "name": "Taxation & GST 1_20Q.txt",
+            "path": "General Awareness/Indian Economy/Taxation & GST 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Taxation%20%26%20GST%201_20Q.txt",
+            "hash": "21be277430d3a010150e81e756c0af1e"
+        },
+        "755": {
+            "id": "755",
+            "name": "Taxation & GST 3_20Q.txt",
+            "path": "General Awareness/Indian Economy/Taxation & GST 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Taxation%20%26%20GST%203_20Q.txt",
+            "hash": "5e0b6697e3b2886d11bbe458380aa9c2"
+        },
+        "756": {
+            "id": "756",
+            "name": "Agriculture 3_20Q.txt",
+            "path": "General Awareness/Indian Economy/Agriculture 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Agriculture%203_20Q.txt",
+            "hash": "45f8912e31d49d0f9b30c00a03e98c2a"
+        },
+        "757": {
+            "id": "757",
+            "name": "Inflation 2_20Q.txt",
+            "path": "General Awareness/Indian Economy/Inflation 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Inflation%202_20Q.txt",
+            "hash": "72254f7ed603a2cce7f6d9fbc866bfb6"
+        },
+        "758": {
+            "id": "758",
+            "name": "RBI & Banking 3_20Q.txt",
+            "path": "General Awareness/Indian Economy/RBI & Banking 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/RBI%20%26%20Banking%203_20Q.txt",
+            "hash": "17d4ec14f97f2ec67b4708c1032b6803"
+        },
+        "759": {
+            "id": "759",
+            "name": "Agriculture 2_20Q.txt",
+            "path": "General Awareness/Indian Economy/Agriculture 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Agriculture%202_20Q.txt",
+            "hash": "edf96f06aa7c669cbc7fcd9bc587a4cc"
+        },
+        "760": {
+            "id": "760",
+            "name": "RBI & Banking 1_20Q.txt",
+            "path": "General Awareness/Indian Economy/RBI & Banking 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/RBI%20%26%20Banking%201_20Q.txt",
+            "hash": "95a6926a5d7da44d5d564b521d98bcb3"
+        },
+        "761": {
+            "id": "761",
+            "name": "GDP & National Income 2_25Q.txt",
+            "path": "General Awareness/Indian Economy/GDP & National Income 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/GDP%20%26%20National%20Income%202_25Q.txt",
+            "hash": "815af94f829a8b428d6fc8ef930cfa92"
+        },
+        "762": {
+            "id": "762",
+            "name": "Inflation 1_20Q.txt",
+            "path": "General Awareness/Indian Economy/Inflation 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Inflation%201_20Q.txt",
+            "hash": "bb5fb5216aa6d25c423524e0dc811b32"
+        },
+        "763": {
+            "id": "763",
+            "name": "Government Schemes 1_20Q.txt",
+            "path": "General Awareness/Indian Economy/Government Schemes 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Government%20Schemes%201_20Q.txt",
+            "hash": "70c03327674db521ad9afeb8ffebbf4e"
+        },
+        "764": {
+            "id": "764",
+            "name": "Agriculture 1_20Q.txt",
+            "path": "General Awareness/Indian Economy/Agriculture 1_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Agriculture%201_20Q.txt",
+            "hash": "8385f389d79c649c54879c133d48e5e3"
+        },
+        "765": {
+            "id": "765",
+            "name": "GDP & National Income 1_25Q.txt",
+            "path": "General Awareness/Indian Economy/GDP & National Income 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/GDP%20%26%20National%20Income%201_25Q.txt",
+            "hash": "59db6198a727be65a1f363b7db1980b5"
+        },
+        "766": {
+            "id": "766",
+            "name": "Assam Economy 5_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%205_25Q.txt",
+            "hash": "35a9094abb531a47c17690479cc6c8b3"
+        },
+        "767": {
+            "id": "767",
+            "name": "Assam Economy 8_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 8_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%208_25Q.txt",
+            "hash": "762514defd29f2c617c9b4457ec18fbd"
+        },
+        "768": {
+            "id": "768",
+            "name": "Assam Economy 1_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%201_25Q.txt",
+            "hash": "4c2da74f37512f0c0514df17e4789550"
+        },
+        "769": {
+            "id": "769",
+            "name": "Assam Economy 2_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%202_25Q.txt",
+            "hash": "45b09e9eabb998320a220b4015ab113f"
+        },
+        "770": {
+            "id": "770",
+            "name": "Assam Economy 3_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%203_25Q.txt",
+            "hash": "cf429aabc8fb8d0487782e0547548a7f"
+        },
+        "771": {
+            "id": "771",
+            "name": "Assam Economy 6_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%206_25Q.txt",
+            "hash": "73acbcd093ee255db49980835c052346"
+        },
+        "772": {
+            "id": "772",
+            "name": "Assam Economy 4_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%204_25Q.txt",
+            "hash": "ea12ecd1ef59f5173b0890b45203b409"
+        },
+        "773": {
+            "id": "773",
+            "name": "Assam Economy 7_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 7_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%207_25Q.txt",
+            "hash": "b8694e5b87e5d751c6a9946a998f3bc8"
+        },
+        "774": {
+            "id": "774",
+            "name": "August 2026 6_25Q.txt",
+            "path": "Current Affairs/August 2026/August 2026 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%206_25Q.txt",
+            "hash": "55fecc8757c058ab62dcf611bfd61a90"
+        },
+        "775": {
+            "id": "775",
+            "name": "August 2026 5_25Q.txt",
+            "path": "Current Affairs/August 2026/August 2026 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%205_25Q.txt",
+            "hash": "6be5700a61a895958829e8bf40006a71"
+        },
+        "776": {
+            "id": "776",
+            "name": "August 2026 4_25Q.txt",
+            "path": "Current Affairs/August 2026/August 2026 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%204_25Q.txt",
+            "hash": "30c4ad7e4b2d79d58066b6f9d32d22a1"
+        },
+        "777": {
+            "id": "777",
+            "name": "August 2026 3_25Q.txt",
+            "path": "Current Affairs/August 2026/August 2026 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%203_25Q.txt",
+            "hash": "42c111e9d125b634a2fcb92da5b66478"
+        },
+        "778": {
+            "id": "778",
+            "name": "August 2026 1_25Q.txt",
+            "path": "Current Affairs/August 2026/August 2026 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%201_25Q.txt",
+            "hash": "adbf0c3f0f10a27a115a42c62ba68fae"
+        },
+        "779": {
+            "id": "779",
+            "name": "August 2026 2_25Q.txt",
+            "path": "Current Affairs/August 2026/August 2026 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%202_25Q.txt",
+            "hash": "818380c35b372cf3b022a39372836b6a"
+        },
+        "780": {
+            "id": "780",
+            "name": "May 2026 4_25Q.txt",
+            "path": "Current Affairs/May 2026/May 2026 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%204_25Q.txt",
+            "hash": "0aae055ba7fe6f983b7f20527ea55624"
+        },
+        "781": {
+            "id": "781",
+            "name": "May 2026 1_25Q.txt",
+            "path": "Current Affairs/May 2026/May 2026 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%201_25Q.txt",
+            "hash": "0a5ff860d9c2a6046fa4d69f6bd3e938"
+        },
+        "782": {
+            "id": "782",
+            "name": "May 2026 2_25Q.txt",
+            "path": "Current Affairs/May 2026/May 2026 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%202_25Q.txt",
+            "hash": "776c71062131e4dfb8cd2b7e10b01f7a"
+        },
+        "783": {
+            "id": "783",
+            "name": "May 2026 3_25Q.txt",
+            "path": "Current Affairs/May 2026/May 2026 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%203_25Q.txt",
+            "hash": "19380c03ec02f862536ebb443f7706c3"
+        },
+        "784": {
+            "id": "784",
+            "name": "May 2026 5_25Q.txt",
+            "path": "Current Affairs/May 2026/May 2026 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%205_25Q.txt",
+            "hash": "bdfa84f4466f66015fff24b54bb0f31c"
+        },
+        "785": {
+            "id": "785",
+            "name": "May 2026 6_25Q.txt",
+            "path": "Current Affairs/May 2026/May 2026 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%206_25Q.txt",
+            "hash": "ad5773272fd46e9c63f07b855401ff14"
+        },
+        "786": {
+            "id": "786",
+            "name": "September 2026 3_25Q.txt",
+            "path": "Current Affairs/September 2026/September 2026 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%203_25Q.txt",
+            "hash": "633da7554e6794993fea02c46eda263b"
+        },
+        "787": {
+            "id": "787",
+            "name": "September 2026 1_25Q.txt",
+            "path": "Current Affairs/September 2026/September 2026 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%201_25Q.txt",
+            "hash": "e49c2df12aa08eb6b0628d01e8319094"
+        },
+        "788": {
+            "id": "788",
+            "name": "September 2026 4_25Q.txt",
+            "path": "Current Affairs/September 2026/September 2026 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%204_25Q.txt",
+            "hash": "07ba6e3ca67fc783535ca85be5c5930d"
+        },
+        "789": {
+            "id": "789",
+            "name": "September 2026 2_25Q.txt",
+            "path": "Current Affairs/September 2026/September 2026 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%202_25Q.txt",
+            "hash": "e2b97a80ba55aaf98e1c95faf47ce8cf"
+        },
+        "790": {
+            "id": "790",
+            "name": "April 2026 3_25Q.txt",
+            "path": "Current Affairs/April 2026/April 2026 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%203_25Q.txt",
+            "hash": "d0eb51460da734c0eb384ad1ed5bf4bd"
+        },
+        "791": {
+            "id": "791",
+            "name": "April 2026 2_25Q.txt",
+            "path": "Current Affairs/April 2026/April 2026 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%202_25Q.txt",
+            "hash": "c0d93eed8c7125c90f1ceb903ce094d3"
+        },
+        "792": {
+            "id": "792",
+            "name": "April 2026 4_25Q.txt",
+            "path": "Current Affairs/April 2026/April 2026 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%204_25Q.txt",
+            "hash": "5d728c9d9c74aca1c76370a54f35ddab"
+        },
+        "793": {
+            "id": "793",
+            "name": "April 2026 1_25Q.txt",
+            "path": "Current Affairs/April 2026/April 2026 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%201_25Q.txt",
+            "hash": "cbcbd59d9f8afdad9a98f2a809c5bf2f"
+        },
+        "794": {
+            "id": "794",
+            "name": "June 2026 3_25Q.txt",
+            "path": "Current Affairs/June 2026/June 2026 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%203_25Q.txt",
+            "hash": "4ad0dfc85c37cea97928c5cbd6a05896"
+        },
+        "795": {
+            "id": "795",
+            "name": "June 2026 2_25Q.txt",
+            "path": "Current Affairs/June 2026/June 2026 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%202_25Q.txt",
+            "hash": "0d987cc2ff5ff4a764f7115bb2262705"
+        },
+        "796": {
+            "id": "796",
+            "name": "June 2026 4_25Q.txt",
+            "path": "Current Affairs/June 2026/June 2026 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%204_25Q.txt",
+            "hash": "39e31f4c994c2fc5c275c024c54c593b"
+        },
+        "797": {
+            "id": "797",
+            "name": "June 2026 1_25Q.txt",
+            "path": "Current Affairs/June 2026/June 2026 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%201_25Q.txt",
+            "hash": "664abc8e53736d4d22a162f02232ed63"
+        },
+        "798": {
+            "id": "798",
+            "name": "June 2026 6_25Q.txt",
+            "path": "Current Affairs/June 2026/June 2026 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%206_25Q.txt",
+            "hash": "882782d9eae35e08d1ffd9b079e548f6"
+        },
+        "799": {
+            "id": "799",
+            "name": "June 2026 5_25Q.txt",
+            "path": "Current Affairs/June 2026/June 2026 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%205_25Q.txt",
+            "hash": "52763a1261dfffd3cd9d911d07288734"
+        },
+        "800": {
+            "id": "800",
+            "name": "January 2026 3_25Q.txt",
+            "path": "Current Affairs/January 2026/January 2026 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%203_25Q.txt",
+            "hash": "376ea6664f0915e40f8dfebba314b8bf"
+        },
+        "801": {
+            "id": "801",
+            "name": "January 2026 6_25Q.txt",
+            "path": "Current Affairs/January 2026/January 2026 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%206_25Q.txt",
+            "hash": "852d18f9fbd504fbe2b697acada5d163"
+        },
+        "802": {
+            "id": "802",
+            "name": "January 2026 5_25Q.txt",
+            "path": "Current Affairs/January 2026/January 2026 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%205_25Q.txt",
+            "hash": "5cf63ea98375b3201d338dd32bcd1dd5"
+        },
+        "803": {
+            "id": "803",
+            "name": "January 2026 1_25Q.txt",
+            "path": "Current Affairs/January 2026/January 2026 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%201_25Q.txt",
+            "hash": "8cd907ba8dd7c39840a3ca77ac959896"
+        },
+        "804": {
+            "id": "804",
+            "name": "January 2026 4_25Q.txt",
+            "path": "Current Affairs/January 2026/January 2026 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%204_25Q.txt",
+            "hash": "da26608a3c60d9d519f9b7cbfa3d49f7"
+        },
+        "805": {
+            "id": "805",
+            "name": "January 2026 2_25Q.txt",
+            "path": "Current Affairs/January 2026/January 2026 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%202_25Q.txt",
+            "hash": "01072341c5f97eeff6a1cd26ca73c72a"
+        },
+        "806": {
+            "id": "806",
+            "name": "July 2026 3_25Q.txt",
+            "path": "Current Affairs/July 2026/July 2026 3_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%203_25Q.txt",
+            "hash": "334deb6d719dbfecccefc870957e879e"
+        },
+        "807": {
+            "id": "807",
+            "name": "July 2026 1_25Q.txt",
+            "path": "Current Affairs/July 2026/July 2026 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%201_25Q.txt",
+            "hash": "5263fb56f866ba6365124a9adb4a3d55"
+        },
+        "808": {
+            "id": "808",
+            "name": "July 2026 2_25Q.txt",
+            "path": "Current Affairs/July 2026/July 2026 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%202_25Q.txt",
+            "hash": "25ccaaf4cc7379bcd3e04c474232e7a6"
+        },
+        "809": {
+            "id": "809",
+            "name": "July 2026 5_25Q.txt",
+            "path": "Current Affairs/July 2026/July 2026 5_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%205_25Q.txt",
+            "hash": "70536a26bda4d3044749e0b8f281390a"
+        },
+        "810": {
+            "id": "810",
+            "name": "July 2026 6_25Q.txt",
+            "path": "Current Affairs/July 2026/July 2026 6_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%206_25Q.txt",
+            "hash": "baf24b7d4e5bfc35fc8dafc6e7493117"
+        },
+        "811": {
+            "id": "811",
+            "name": "July 2026 4_25Q.txt",
+            "path": "Current Affairs/July 2026/July 2026 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%204_25Q.txt",
+            "hash": "6c2b0c0e94cac0dafdfd92756546173e"
         }
     }
 }

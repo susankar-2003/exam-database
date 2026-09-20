@@ -1,0 +1,224 @@
+1. Services rendered by a housewife at home are excluded from National Income because:
+
+গৃহিণীয়ে ঘৰত আগবঢ়োৱা সেৱাক ৰাষ্ট্ৰীয় আয়ৰ পৰা বাদ দিয়া হয় কাৰণ:
+A) They lack market transactions and monetary valuation / ইহঁতৰ বজাৰ লেনদেন আৰু মুদ্ৰাগত মূল্য নিৰ্ধাৰণ নাথাকে
+B) They are illegal / ইহঁত অসংবিধানিক
+C) They are considered services / ইহঁতক সেৱা বুলি ধৰা হয়
+D) They are too large to calculate / গণনা কৰিবলৈ অতি বৃহৎ
+Ans: A
+
+2. Black money generated through illegal activities creates what problem in National Income accounting?
+
+অবৈধ কাৰ্যৰ দ্বাৰা সৃষ্টি হোৱা কলা ধনৰ সমস্যাই ৰাষ্ট্ৰীয় আয় গণনাত কি প্ৰভাৱ পেলায়?
+A) Underestimation of National Income / ৰাষ্ট্ৰীয় আয়ৰ নিম্ন মূল্যাংকন
+B) Overestimation of GDP / GDP ৰ অতিৰিক্ত মূল্যাংকন
+C) Increase in Per Capita Income / প্ৰতিজন ব্যক্তিৰ আয় বৃদ্ধি
+D) Accurate reflection of wealth / সম্পদৰ সঠিক প্ৰতিফলন
+Ans: A
+
+3. In a closed economy with no foreign trade, which relation holds true?
+
+বৈদেশিক বাণিজ্য নথকা এক আৱদ্ধ অৰ্থনীতি ত কোনটো সম্পৰ্ক সত্য?
+A) GDP = GNP
+B) GDP > GNP
+C) GDP < GNP
+D) NNP > GDP
+Ans: A
+
+4. Green GDP measures economic growth while taking into account:
+
+সেউজ GDP এ (Green GDP) কিহৰ ক্ষতি বিবেচনা কৰি অৰ্থনৈতিক বিকাশ জোখে?
+A) Environmental degradation and resource depletion / পৰিৱেশ ধ্বংস আৰু সম্পদৰ অপচয়
+B) Population explosion / জনসংখ্যা বিস্ফোৰণ
+C) Inflation and price rise / মুদ্ৰাস্ফীতি আৰু মূল্যবৃদ্ধি
+D) Foreign debt / বৈদেশিক ঋণ
+Ans: A
+
+5. Net Factor Income from Abroad (NFIA) consists of:
+
+বিদেশৰ পৰা পোৱা নিখুঁত উপাদান আয় (NFIA) কিহৰ দ্বাৰা গঠিত?
+A) Net compensation of employees + Net property and entrepreneurship income + Net retained earnings / কৰ্মচাৰীৰ নিখুঁত ক্ষতিপূৰণ + সম্পদ আৰু উদ্যোগৰ নিখুঁত আয় + সংৰক্ষিত নিখুঁত উপাৰ্জন
+B) Total exports - Total imports / মুঠ ৰপ্তানি - মুঠ আমদানি
+C) Total foreign grants / মুঠ বৈদেশিক অনুদান
+D) Taxes paid by foreigners / বিদেশীসকলে দিয়া কৰ
+Ans: A
+
+6. Income earned by non-resident Indians (NRIs) working abroad is included in India's:
+
+বিদেশত কাম কৰা অনাৰাসী ভাৰতীয়ই (NRI) অৰ্জন কৰা আয় ভাৰতৰ কিহত অন্তৰ্ভুক্ত হয়?
+A) GNP, but not GDP / GNP ত, কিন্তু GDP ত নহয়
+B) GDP, but not GNP / GDP ত, কিন্তু GNP ত নহয়
+C) Both GDP and GNP / GDP আৰু GNP দুয়োটাতে
+D) Neither GDP nor GNP / GDP বা GNP কোনোটাতে নহয়
+Ans: A
+
+7. Income earned by a foreign company operating within India is part of India's:
+
+ভাৰতৰ ভিতৰত কাৰ্যক্ষম হৈ থকা কোনো বিদেশী কোম্পানীয়ে অৰ্জন কৰা আয় কাৰ অংশ?
+A) India's GDP / ভাৰতৰ GDP
+B) India's GNP / ভাৰতৰ GNP
+C) India's NNP / ভাৰতৰ NNP
+D) Personal Income of Indians / ভাৰতীয়ৰ ব্যক্তিগত আয়
+Ans: A
+
+8. Which sector's contribution to India's GDP was highest at the time of Independence (1947)?
+
+স্বাধীনতাৰ সময়ত (1947) ভাৰতৰ GDP ত কোনটো খণ্ডৰ বৰঙণি সৰ্বাধিক আছিল?
+A) Primary Sector (Agriculture) / প্ৰাথমিক খণ্ড (কৃষি)
+B) Secondary Sector (Manufacturing) / দ্বিতীয়ক খণ্ড (উৎপাদন)
+C) Tertiary Sector (Services) / তৃতীয়ক খণ্ড (সেৱা)
+D) Mining Sector / খনন খণ্ড
+Ans: A
+
+9. What is the current trend of the service sector's contribution to India's GDP?
+
+ভাৰতৰ GDP লৈ সেৱা খণ্ডৰ বৰঙণিৰ বৰ্তমানৰ প্ৰৱণতা কি?
+A) Consistently the largest share (over 50%) / ধাৰাবাহিকভাৱে সৰ্ববৃহৎ অংশ (50% তকৈ অধিক)
+B) Decreasing rapidly / দ্ৰুতগতিত হ্ৰাস পাইছে
+C) Equal to agriculture / কৃষিৰ সমান
+D) Lowest among all sectors / সকলো খণ্ডতকৈ নিম্ন
+Ans: A
+
+10. Depreciation is also referred to as:
+
+অৱক্ষয়ক (Depreciation) আন কি বুলিও কোৱা হয়?
+A) Consumption of fixed capital / স্থাৱৰ মূলধনৰ উপভোগ
+B) Consumption of working capital / কাৰ্যকৰী মূলধনৰ উপভোগ
+C) Capital gain / মূলধনী লাভ
+D) Net investment / নিখুঁত বিনিয়োগ
+Ans: A
+
+11. Net Investment is calculated as:
+
+নিখুঁত বিনিয়োগ (Net Investment) কেনেকৈ গণনা কৰা হয়?
+A) Gross Investment - Depreciation / মুঠ বিনিয়োগ - অৱক্ষয়
+B) Gross Investment + Depreciation / মুঠ বিনিয়োগ + অৱক্ষয়
+C) Total Savings - Taxes / মুঠ সঞ্চয় - কৰ
+D) Capital + Revenue / মূলধন + ৰাজহ
+Ans: A
+
+12. If a country's exports exceed its imports, Net Exports are:
+
+যদি এখন দেশৰ ৰপ্তানি আমদানিতকৈ বেছি হয়, তেন্তে নিখুঁত ৰপ্তানি (Net Exports):
+A) Positive / ধনাত্মক
+B) Negative / ঋণাত্মক
+C) Zero / শূন্য
+D) Equal to Depreciation / অৱক্ষয়ৰ সমান
+Ans: A
+
+13. Value Added in a production process is defined as:
+
+উৎপাদন প্ৰক্ৰিয়াত মূল্য সংযোজন (Value Added) বুলি কাক কোৱা হয়?
+A) Value of Output - Value of Intermediate Consumption / উৎপাদনৰ মূল্য - মধ্যৱৰ্তী উপভোগৰ মূল্য
+B) Value of Output + Value of Intermediate Consumption / উৎপাদনৰ মূল্য + মধ্যৱৰ্তী উপভোগৰ মূল্য
+C) Total Sales + Taxes / মুঠ বিক্ৰী + কৰ
+D) Profit - Wages / লাভ - মজুৰি
+Ans: A
+
+14. Intermediate goods are goods that are used for:
+
+মধ্যৱৰ্তী সামগ্ৰী (Intermediate goods) হ'ল সেইবোৰ সামগ্ৰী যিবোৰ ব্যৱহাৰ কৰা হয়:
+A) Further production or resale in the same year / একেটা বছৰতে পুনৰ উৎপাদন বা পুনঃবিক্ৰীৰ বাবে
+B) Final consumption by households / পৰিয়ালৰ দ্বাৰা চূড়ান্ত উপভোগৰ বাবে
+C) Long-term investment / দীৰ্ঘম্যাদী বিনিয়োগৰ বাবে
+D) Export purpose only / কেৱল ৰপ্তানিৰ বাবে
+Ans: A
+
+15. Flour purchased by a bakery to make bread is an example of a:
+
+পাউৰুটি বনাবলৈ বেকাৰী এটাই কিনা ময়দা কিহৰ উদাহৰণ?
+A) Intermediate Good / মধ্যৱৰ্তী সামগ্ৰী
+B) Final Good / চূড়ান্ত সামগ্ৰী
+C) Capital Good / মূলধনী সামগ্ৰী
+D) Consumer Good / উপভোক্তা সামগ্ৰী
+Ans: A
+
+16. A tractor bought by a farmer for agricultural use is considered a:
+
+কৃষি কাৰ্যৰ বাবে কৃষকে কিনা ট্ৰেক্টৰখনক কি বুলি গণ্য কৰা হয়?
+A) Final Capital Good / চূড়ান্ত মূলধনী সামগ্ৰী
+B) Intermediate Good / মধ্যৱৰ্তী সামগ্ৰী
+C) Consumer Good / উপভোক্তা সামগ্ৰী
+D) Transfer Product / হস্তান্তৰিত সামগ্ৰী
+Ans: A
+
+17. Problem of double counting in National Income estimation can be avoided by using:
+
+ৰাষ্ট্ৰীয় আয় গণনাত দ্বৈত গণনাৰ সমস্যা সমাধান কৰিবলৈ কি পদ্ধতি ব্যৱহাৰ কৰা হয়?
+A) Value Added Method / মূল্য সংযোজন পদ্ধতি
+B) Total Revenue Method / মুঠ ৰাজহ পদ্ধতি
+C) Gross Sales Method / মুঠ বিক্ৰী পদ্ধতি
+D) Input Purchase Method / উপকৰণ ক্ৰয় পদ্ধতি
+Ans: A
+
+18. Personal Income minus Personal Taxes equals:
+
+ব্যক্তিগত আয়ৰ পৰা ব্যক্তিগত কৰ বিয়োগ কৰিলে কি পোৱা যায়?
+A) Personal Disposable Income / ব্যক্তিগত ব্যৱহাৰযোগ্য আয়
+B) National Income / ৰাষ্ট্ৰীয় আয়
+C) Per Capita Income / প্ৰতিজন ব্যক্তিৰ আয়
+D) Private Income / ব্যক্তিগত খণ্ডৰ আয়
+Ans: A
+
+19. Which book authored by Dadabhai Naoroji highlighted the 'Drain of Wealth' theory?
+
+দাদাভাই নৌৰোজিৰ কোনখন গ্ৰন্থত 'সম্পদ নিষ্কাশন' (Drain of Wealth) তত্ত্ব প্ৰকাশ পাইছিল?
+A) Poverty and Un-British Rule in India / পভাৰ্টি এণ্ড আন-ব্ৰিটিছ ৰুল ইন ইণ্ডিয়া
+B) Economic History of India / ইক'নমিক হিষ্ট্ৰী অফ ইণ্ডিয়া
+C) Discovery of India / আৱিষ্কাৰ অফ ইণ্ডিয়া
+D) The Indian Economy / দ্য ইণ্ডিয়ান ইক'নমি
+Ans: A
+
+20. The total financial value of final goods produced by citizens of a country inside or outside the country is:
+
+দেশৰ নাগৰিকে দেশৰ ভিতৰত বা বাহিৰত উৎপাদন কৰা চূড়ান্ত সামগ্ৰীৰ মুঠ বিত্তীয় মূল্য হ'ল:
+A) Gross National Product (GNP) / মুঠ ৰাষ্ট্ৰীয় উৎপাদন
+B) Gross Domestic Product (GDP) / মুঠ ঘৰুৱা উৎপাদন
+C) Net Domestic Product (NDP) / নিখুঁত ঘৰুৱা উৎপাদন
+D) Personal Income / ব্যক্তিগত আয়
+Ans: A
+
+21. What type of economy has a GDP equal to its GNP?
+
+কোন প্ৰকাৰৰ অৰ্থনীতিত GDP আৰু GNP সমান হয়?
+A) Closed Economy / আৱদ্ধ অৰ্থনীতি
+B) Open Economy / মুক্ত অৰ্থনীতি
+C) Developing Economy / উন্নয়নশীল অৰ্থনীতি
+D) Command Economy / নিয়ন্ত্ৰিত অৰ্থনীতি
+Ans: A
+
+22. Gross Value Added (GVA) at basic prices is calculated by adding what to GVA at factor cost?
+
+মূল মূল্যত মুঠ মূল্য সংযোজন (GVA) উলিওৱাবলৈ উপাদান ব্যয়ৰ GVA ৰ সৈতে কি যোগ কৰা হয়?
+A) Production taxes less production subsidies / উৎপাদন কৰ বিয়োগ উৎপাদন ৰেহাই
+B) Product taxes less product subsidies / সামগ্ৰী কৰ বিয়োগ সামগ্ৰী ৰেহাই
+C) Depreciation / অৱক্ষয়
+D) Net Exports / নিখুঁত ৰপ্তানি
+Ans: A
+
+23. National Income divided by Total Population gives:
+
+ৰাষ্ট্ৰীয় আয়ক মুঠ জনসংখ্যাৰে হৰণ কৰিলে কি পোৱা যায়?
+A) Per Capita Income / প্ৰতিজন ব্যক্তিৰ আয়
+B) Disposable Income / ব্যৱহাৰযোগ্য আয়
+C) Real GDP / প্ৰকৃত GDP
+D) Gross Domestic Product / মুঠ ঘৰুৱা উৎপাদন
+Ans: A
+
+24. High growth rate in Real GDP relative to population growth indicates:
+
+জনসংখ্যা বৃদ্ধিতকৈ প্ৰকৃত GDP ৰ উচ্চ বিকাশৰ হাৰে কি সূচায়?
+A) Increase in Per Capita Real Income / প্ৰতিজন ব্যক্তিৰ প্ৰকৃত আয় বৃদ্ধি
+B) Decrease in economic standard / অৰ্থনৈতিক মানদণ্ড হ্ৰাস
+C) High inflation rate / উচ্চ মুদ্ৰাস্ফীতিৰ হাৰ
+D) Drop in exports / ৰপ্তানি হ্ৰাস
+Ans: A
+
+25. Which component is NOT part of the Expenditure Method of GDP calculation?
+
+GDP গণনাৰ ব্যয় পদ্ধতিৰ অন্তৰ্গত কোনটো উপাদান নহয়?
+A) Rent and Wages / ভাৰা আৰু মজুৰি
+B) Private Final Consumption Expenditure / ব্যক্তিগত চূড়ান্ত উপভোগ ব্যয়
+C) Government Final Consumption Expenditure / চৰকাৰী চূড়ান্ত উপভোগ ব্যয়
+D) Net Exports / নিখুঁত ৰপ্তানি
+Ans: A

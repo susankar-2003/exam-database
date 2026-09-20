@@ -1,0 +1,179 @@
+1. What is inflation in an economy?
+
+এক অৰ্থনীতিত মুদ্ৰাস্ফীতি মানে কি?
+A) Sustained decrease in the general price level of goods and services / সামগ্ৰী আৰু সেৱাৰ সাধাৰণ মূল্যস্তৰৰ নিৰন্তৰ হ্ৰাস
+B) Sustained increase in the general price level of goods and services / সামগ্ৰী আৰু সেৱাৰ সাধাৰণ মূল্যস্তৰৰ নিৰন্তৰ বৃদ্ধি
+C) Increase in the purchasing power of money / মুদ্ৰাৰ ক্ৰয় ক্ষমতা বৃদ্ধি
+D) Sudden fall in total supply of money / মুঠ মুদ্ৰাৰ যোগানৰ আকস্মিক হ্ৰাস
+Ans: B
+
+2. Which of the following is a primary cause of Demand-Pull Inflation?
+
+তলৰ কোনটো চাহিদা বৃদ্ধি জনিত মুদ্ৰাস্ফীতিৰ (Demand-Pull Inflation) মূল কাৰণ?
+A) Increase in cost of raw materials / কেঁচামালৰ মূল্য বৃদ্ধি
+B) Increase in aggregate demand over aggregate supply / মুঠ যোগানতকৈ মুঠ চাহিদাৰ বৃদ্ধি
+C) Increase in indirect taxes / পৰোক্ষ কৰ বৃদ্ধি
+D) Failure of agricultural crops / কৃষি শস্যৰ উৎপাদন হ্ৰাস
+Ans: B
+
+3. Cost-Push Inflation is caused by which of the following factors?
+
+ব্যয় বৃদ্ধি জনিত মুদ্ৰাস্ফীতি (Cost-Push Inflation) তলৰ কোনটো কাৰকৰ বাবে হয়?
+A) Excessive government spending / চৰকাৰৰ অত্যধিক ব্যয়
+B) Rapid population growth / দ্ৰুত জনসংখ্যা বৃদ্ধি
+C) Increase in cost of production inputs / উৎপাদনৰ উপকৰণসমূহৰ ব্যয় বৃদ্ধি
+D) Reduction in income tax rates / আয়কৰৰ হাৰ হ্ৰাস
+Ans: C
+
+4. Inflation measured on the basis of Wholesale Price Index (WPI) in India is published by:
+
+ভাৰতত পাইকাৰী মূল্য সূচকাংক (WPI) ৰ ভিত্তিত জোখা মুদ্ৰাস্ফীতি কোনে প্ৰকাশ কৰে?
+A) Reserve Bank of India (RBI) / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া (RBI)
+B) Central Statistics Office (CSO) / চেন্ট্ৰেল ষ্টেটিষ্টিকছ অফিচ (CSO)
+C) Office of the Economic Adviser, Ministry of Commerce and Industry / বাণিজ্য আৰু উদ্যোগ মন্ত্ৰালয়ৰ অৰ্থনৈতিক উপদেষ্টাৰ কাৰ্যালয়
+D) Ministry of Finance / বিত্ত মন্ত্ৰালয়
+Ans: C
+
+5. Which index is primarily used by the Reserve Bank of India (RBI) to measure inflation for setting policy rates?
+
+ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়াই নীতিগত হাৰ (Policy Rates) নিৰ্ধাৰণৰ বাবে মুদ্ৰাস্ফীতি জুখিবলৈ মূলতঃ কোনটো সূচকাংক ব্যৱহাৰ কৰে?
+A) Wholesale Price Index (WPI) / পাইকাৰী মূল্য সূচকাংক (WPI)
+B) Consumer Price Index (CPI) / গ্ৰাহক মূল্য সূচকাংক (CPI)
+C) GDP Deflator / জিডিপি ডিফ্লেটৰ (GDP Deflator)
+D) Producer Price Index (PPI) / প্ৰযোজক মূল্য সূচকাংক (PPI)
+Ans: B
+
+6. The situation where inflation rate remains high along with high unemployment and stagnant economic growth is known as:
+
+উচ্চ নিবনুৱা সমস্যা আৰু স্থবিৰ অৰ্থনৈতিক বিকাশৰ সৈতে উচ্চ মুদ্ৰাস্ফীতি থকা অৱস্থাক কি বোলা হয়?
+A) Hyperinflation / হাইপাৰইনফ্লেশ্বন (Hyperinflation)
+B) Stagflation / ষ্টেগফ্লেশ্বন (Stagflation)
+C) Reflation / ৰিফ্লেশ্বন (Reflation)
+D) Deflation / ডিফ্লেশ্বন (Deflation)
+Ans: B
+
+7. What is Core Inflation?
+
+ক’ৰ ইনফ্লেশ্বন (Core Inflation) মানে কি?
+A) Overall inflation including all commodities / সকলো সামগ্ৰী সামৰি লোৱা সামগ্ৰিক মুদ্ৰাস্ফীতি
+B) Inflation excluding volatile items like food and energy / খাদ্য আৰু শক্তিৰ দৰে অস্থায়ী মূল্যৰ সামগ্ৰী বাদ দি কৰা মুদ্ৰাস্ফীতি
+C) Inflation based only on agricultural products / কেৱল কৃষি সামগ্ৰীৰ ওপৰত আধাৰিত মুদ্ৰাস্ফীতি
+D) Inflation rate exceeding 100% per annum / বছৰি 100% তকৈ অধিক হোৱা মুদ্ৰাস্ফীতিৰ হাৰ
+Ans: B
+
+8. Headline Inflation in India refers to:
+
+ভাৰতত হেডলাইন ইনফ্লেশ্বন (Headline Inflation) বুলিলে কি বুজায়?
+A) Core Inflation only / কেৱল ক’ৰ ইনফ্লেশ্বন
+B) Total inflation based on Consumer Price Index (Combined) / গ্ৰাহক মূল্য সূচকাংকৰ (একত্ৰিত) ওপৰত আধাৰিত মুঠ মুদ্ৰাস্ফীতি
+C) Inflation calculated only for wholesale market / কেৱল পাইকাৰী বজাৰৰ বাবে গণনা কৰা মুদ্ৰাস্ফীতি
+D) Inflation in industrial manufacturing only / কেৱল ঔদ্যোগিক উৎপাদনৰ মুদ্ৰাস্ফীতি
+Ans: B
+
+9. Which of the following measures can be taken by RBI to control inflation?
+
+মুদ্ৰাস্ফীতি নিয়ন্ত্ৰণ কৰিবলৈ RBI এ তলৰ কোনটো পদক্ষেপ ল’ব পাৰে?
+A) Decrease Repo Rate / ৰেপো হাৰ হ্ৰাস কৰা
+B) Increase Repo Rate / ৰেপো হাৰ বৃদ্ধি কৰা
+C) Purchase government securities in open market / মুকলি বজাৰত চৰকাৰী ছিকিউৰিটি ক্ৰয় কৰা
+D) Lower Cash Reserve Ratio (CRR) / কেছ ৰিজাৰ্ভ ৰেচিঅ’ (CRR) হ্ৰাস কৰা
+Ans: B
+
+10. Extremely high and out-of-control inflation, often exceeding 50% per month, is termed as:
+
+প্ৰতি মাহে 50% তকৈ অধিক হোৱা অত্যন্ত উচ্চ আৰু নিয়ন্ত্ৰণহীন মুদ্ৰাস্ফীতাক কি বোলা হয়?
+A) Creeping Inflation / ক্ৰিপিং ইনফ্লেশ্বন
+B) Galloping Inflation / গ্যালোপিং ইনফ্লেশ্বন
+C) Hyperinflation / হাইপাৰইনফ্লেশ্বন
+D) Walking Inflation / ৱাকিং ইনফ্লেশ্বন
+Ans: C
+
+11. A temporary reduction in the rate of inflation is called:
+
+মুদ্ৰাস্ফীতিৰ হাৰৰ সাময়িক হ্ৰাসক কি বোলা হয়?
+A) Deflation / ডিফ্লেশ্বন (Deflation)
+B) Disinflation / ডিজইনফ্লেশ্বন (Disinflation)
+C) Stagflation / ষ্টেগফ্লেশ্বন (Stagflation)
+D) Reflation / ৰিফ্লেশ্বন (Reflation)
+Ans: B
+
+12. The Phillips Curve shows the inverse relationship between:
+
+ফিলিপছ বক্ৰৰেখাই (Phillips Curve) কিহৰ মাজৰ বিপৰীত সম্পৰ্ক দৰ্শায়?
+A) Inflation and Unemployment / মুদ্ৰাস্ফীতি আৰু নিবনুৱা সমস্যা
+B) Inflation and Economic Growth / মুদ্ৰাস্ফীতি আৰু অৰ্থনৈতিক বিকাশ
+C) Price Level and Supply / মূল্যস্তৰ আৰু যোগান
+D) Income and Tax Rates / আয় আৰু কৰৰ হাৰ
+Ans: A
+
+13. Who among the following benefits most during a period of inflation?
+
+মুদ্ৰাস্ফীতিৰ সময়ত তলৰ কোন আটাইতকৈ বেছি লাভান্বিত হয়?
+A) Creditors (Lenders) / ঋণদাতা (Creditors)
+B) Debtors (Borrowers) / ঋণগ্ৰহীতা (Debtors)
+C) Pensioners / পেঞ্চনাৰসকল
+D) Fixed Wage Earners / নিৰ্দিষ্ট মজুৰি পোৱা লোকসকল
+Ans: B
+
+14. Who among the following suffers the most during inflation?
+
+মুদ্ৰাস্ফীতিৰ সময়ত তলৰ কোন আটাইতকৈ বেছি ক্ষতিগ্রস্ত হয়?
+A) Debtors / ঋণগ্ৰহীতা
+B) Creditors / ঋণদাতা
+C) Equity Share Holders / ইক্যুইটি শ্বেয়াৰহোল্ডাৰ
+D) Businessmen / ব্যৱসায়ীসকল
+Ans: B
+
+15. Consumer Price Index (CPI) in India is released by which organization?
+
+ভাৰতত গ্ৰাহক মূল্য সূচকাংক (CPI) কোনটো প্ৰতিষ্ঠানে প্ৰকাশ কৰে?
+A) Reserve Bank of India / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া
+B) National Statistical Office (NSO) / ৰাষ্ট্ৰীয় পৰিসংখ্যা কাৰ্যালয় (NSO)
+C) NITI Aayog / নীতি আয়োগ
+D) Indian Statistical Institute / ইণ্ডিয়ান ষ্টেটিষ্টিকেল ইনষ্টিটিউট
+Ans: B
+
+16. What is the base year currently used for calculating Consumer Price Index (CPI) in India?
+
+ভাৰতত গ্ৰাহক মূল্য সূচকাংক (CPI) গণনাৰ বাবে বৰ্তমান ব্যৱহৃত আধাৰ বছৰ (Base Year) কি?
+A) 2004-05
+B) 2011-12
+C) 2015-16
+D) 2018-19
+Ans: B
+
+17. What is the base year currently used for calculating Wholesale Price Index (WPI) in India?
+
+ভাৰতত পাইকাৰী মূল্য সূচকাংক (WPI) গণনাৰ বাবে বৰ্তমান ব্যৱহৃত আধাৰ বছৰ (Base Year) কি?
+A) 2001-02
+B) 2011-12
+C) 2014-15
+D) 2016-17
+Ans: B
+
+18. Under the Flexible Inflation Targeting (FIT) framework, what is the target inflation rate set for RBI?
+
+নমনীয় মুদ্ৰাস্ফীতি লক্ষ্য নিৰ্ধাৰণ (FIT) গাঁথনিৰ অধীনত RBI ৰ বাবে নিৰ্ধাৰিত লক্ষ্য মুদ্ৰাস্ফীতিৰ হাৰ কিমান?
+A) 2% with a tolerance band of +/- 1% / 2% (+/- 1% ৰ সীমাৰে)
+B) 4% with a tolerance band of +/- 2% / 4% (+/- 2% ৰ সীমাৰে)
+C) 5% with a tolerance band of +/- 2% / 5% (+/- 2% ৰ সীমাৰে)
+D) 6% with a tolerance band of +/- 1% / 6% (+/- 1% ৰ সীমাৰে)
+Ans: B
+
+19. Which commodity group holds the maximum weightage in the Consumer Price Index (Combined) in India?
+
+ভাৰতৰ গ্ৰাহক মূল্য সূচকাংকত (একত্ৰিত) কোনটো সামগ্ৰী গোটৰ ওজন বা গুৰুত্ব (Weightage) আটাইতকৈ বেছি?
+A) Housing / গৃহ নিৰ্মাণ আৰু আৱাস
+B) Fuel and Light / ইন্ধন আৰু পোহৰ
+C) Food and Beverages / খাদ্য আৰু পানীয়
+D) Clothing and Footwear / কাপোৰ আৰু জোতা- চেপেল
+Ans: C
+
+20. Which commodity group holds the maximum weightage in Wholesale Price Index (WPI)?
+
+পাইকাৰী মূল্য সূচকাংকত (WPI) কোনটো সামগ্ৰী গোটৰ ওজন আটাইতকৈ বেছি?
+A) Primary Articles / প্ৰাথমিক সামগ্ৰী
+B) Fuel and Power / ইন্ধন আৰু শক্তি
+C) Manufactured Products / উৎপাদিত সামগ্ৰী
+D) Food Articles / খাদ্য সামগ্ৰী
+Ans: C

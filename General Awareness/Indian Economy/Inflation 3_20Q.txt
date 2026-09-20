@@ -1,0 +1,179 @@
+1. Skewflation refers to:
+
+স্কিউফ্লেশ্বন (Skewflation) মানে কি?
+A) Inflation across all sectors equally / সকলো খণ্ডতে সমানভাৱে হোৱা মুদ্ৰাস্ফীতি
+B) Price rise concentrated in one or a small group of commodities / কেৱল এটা বা সীমিত সংখ্যক সামগ্ৰীৰ মূল্যত হোৱা একমুখী বৃদ্ধি
+C) Negative inflation rate / ঋণাত্মক মুদ্ৰাস্ফীতিৰ হাৰ
+D) Inflation due to stock market boom / ষ্টক বজাৰৰ উত্থানৰ বাবে হোৱা মুদ্ৰাস্ফীতি
+Ans: B
+
+2. What happens to the Real Interest Rate during high inflation if Nominal Interest Rate remains unchanged?
+
+উচ্চ মুদ্ৰাস্ফীতিৰ সময়ত নামমাত্ৰ সুতৰ হাৰ অপৰিবৰ্তিত থাকিলে প্ৰকৃত সুতৰ হাৰৰ (Real Interest Rate) কি ঘটে?
+A) Real interest rate increases / প্ৰকৃত সুতৰ হাৰ বৃদ্ধি পায়
+B) Real interest rate decreases / প্ৰকৃত সুতৰ হাৰ হ্ৰাস পায়
+C) Real interest rate doubles / প্ৰকৃত সুতৰ হাৰ দুগুণ হয়
+D) Real interest rate remains unaffected / প্ৰকৃত সুতৰ হাৰ অপ্ৰভাৱিত থাকে
+Ans: B
+
+3. Base Effect in inflation calculation refers to the impact of:
+
+মুদ্ৰাস্ফীতি গণনাত বেছ ইফেক্ট (Base Effect) বুলিলে কিহৰ প্ৰভাৱক বুজায়?
+A) Change in interest rates / সুতৰ হাৰৰ পৰিৱৰ্তন
+B) The price level of the corresponding period of the previous year / পূৰ্বৱৰ্তী বছৰৰ একে সময়ছোৱাৰ মূল্যস্তৰ
+C) Change in tax structure / কৰ গাঁথনিৰ পৰিৱৰ্তন
+D) Change in population size / জনসংখ্যাৰ পৰিৱৰ্তন
+Ans: B
+
+4. Cost of living index is closely linked with which of the following?
+
+জীৱন ধাৰণৰ ব্যয় সূচকাংক (Cost of living index) তলৰ কোনটোৰ সৈতে প্ৰত্যক্ষভাৱে জৰিত?
+A) Wholesale Price Index / পাইকাৰী মূল্য সূচকাংক
+B) Consumer Price Index / গ্ৰাহক মূল্য সূচকাংক
+C) Producer Price Index / প্ৰযোজক মূল্য সূচকাংক
+D) GDP Deflator / জিডিপি ডিফ্লেটৰ
+Ans: B
+
+5. Dear Money Policy (Tight Monetary Policy) of RBI aims to:
+
+RBI ৰ ডিয়াৰ মানি পলিচি (কঠোৰ মুদ্ৰানীতি) ৰ মূল উদ্দেশ্য কি?
+A) Increase liquidity in the market / বজাৰত তৰলতা বৃদ্ধি কৰা
+B) Reduce money supply and curb inflation / মুদ্ৰাৰ যোগান হ্ৰাস কৰা আৰু মুদ্ৰাস্ফীতি নিয়ন্ত্ৰণ কৰা
+C) Encourage easy loans to industries / উদ্যোগসমূহক সহজ ঋণত উৎসাহিত কৰা
+D) Lower interest rates on savings / সঞ্চয়ৰ সুতৰ হাৰ কম কৰা
+Ans: B
+
+6. Easy Money Policy (Expansionary Monetary Policy) is adopted during:
+
+ইজি মানি পলিচি (প্ৰসাৰণমুখী মুদ্ৰানীতি) কেতিয়া গ্ৰহণ কৰা হয়?
+A) High Inflation / উচ্চ মুদ্ৰাস্ফীতিৰ সময়ত
+B) Deflation or Economic Slowdown / ডিফ্লেশ্বন বা অৰ্থনৈতিক মন্থৰতাৰ সময়ত
+C) Overheating economy / অত্যধিক উত্তপ্ত অৰ্থনীতিৰ সময়ত
+D) High foreign investment inflow / উচ্চ বৈদেশিক বিনিয়োগ আগমনৰ সময়ত
+Ans: B
+
+7. Dearness Allowance (DA) for Central Government employees in India is calculated based on:
+
+ভাৰতত কেন্দ্ৰীয় চৰকাৰৰ কৰ্মচাৰীসকলৰ মৰঘীয়া বানচ (DA) কিহৰ ভিত্তিত গণনা কৰা হয়?
+A) CPI for Industrial Workers (CPI-IW) / উদ্যোগ শ্ৰমিকৰ গ্ৰাহক মূল্য সূচকাংক (CPI-IW)
+B) CPI for Agricultural Labourers (CPI-AL) / কৃষি শ্ৰমিকৰ গ্ৰাহক মূল্য সূচকাংক (CPI-AL)
+C) Wholesale Price Index (WPI) / পাইকাৰী মূল্য সূচকাংক (WPI)
+D) GDP Deflator / জিডিপি ডিফ্লেটৰ
+Ans: A
+
+8. Which CPI index is used to fix minimum wages for agricultural workers in India?
+
+ভাৰতত কৃষি শ্ৰমিকৰ ন্যূনতম মজুৰি নিৰ্ধাৰণৰ বাবে কোনটো CPI সূচকাংক ব্যৱহাৰ কৰা হয়?
+A) CPI Rural / গ্ৰাম্য CPI
+B) CPI Agricultural Labourers (CPI-AL) / কৃষি শ্ৰমিকৰ গ্ৰাহক মূল্য সূচকাংক (CPI-AL)
+C) CPI Urban / নগৰীয়া CPI
+D) CPI Combined / একত্ৰিত CPI
+Ans: B
+
+9. What is the main disadvantage of Wholesale Price Index (WPI)?
+
+পাইকাৰী মূল্য সূচকাংকৰ (WPI) মূল অসুবিধা কি?
+A) It does not cover primary articles / ইয়াত প্ৰাথমিক সামগ্ৰী অন্তৰ্ভুক্ত নহয়
+B) It does not include the service sector / ইয়াত সেৱা খণ্ড (Services) অন্তৰ্ভুক্ত নহয়
+C) It is published annually / ই বছৰেকীয়াকৈ প্ৰকাশ পায়
+D) It is based on retail prices / ই খুচুৰা মূল্যৰ ওপৰত আধাৰিত
+Ans: B
+
+10. Reflation is defined as:
+
+ৰিফ্লেশ্বন (Reflation) ৰ সংজ্ঞা কি?
+A) Deliberate monetary or fiscal policy to stimulate economy and raise inflation safely / অৰ্থনীতিক উৎসাহিত কৰিবলৈ কৰা ইচ্ছাকৃত মুদ্ৰা বা ৰাজকোষীয় নীতি
+B) Uncontrolled hyperinflation / অনিয়ন্ত্ৰিত হাইপাৰইনফ্লেশ্বন
+C) Fall in price level due to decrease in demand / চাহিদা হ্ৰাসৰ বাবে মূল্যস্তৰৰ পতন
+D) Inflation caused by wage cuts / মজুৰি কৰ্তনৰ বাবে হোৱা মুদ্ৰাস্ফীতি
+Ans: A
+
+11. Suppressed Inflation occurs when:
+
+দমাই ৰখা মুদ্ৰাস্ফীতি (Suppressed Inflation) কেতিয়া হয়?
+A) Demand is artificially reduced / চাহিদা কৃত্রিমভাৱে হ্ৰাস কৰা হয়
+B) Price rises are prevented through statutory price controls and rationing / সংবিধিবদ্ধ মূল্য নিয়ন্ত্ৰণ আৰু ৰাষ্ট্ৰীয় ৰেচনিং ব্যৱস্থাৰ মাধ্যমেৰে মূল্য বৃদ্ধি ৰোধ কৰা হয়
+C) Government prints extra currency notes / চৰকাৰে অতিৰিক্ত মুদ্ৰা ছপা কৰে
+D) Exports are completely banned / ৰপ্তানি সম্পূৰ্ণৰূপে নিষিদ্ধ কৰা হয়
+Ans: B
+
+12. High inflation accompanied by devaluation of currency leads to:
+
+মুদ্ৰাৰ অৱমূল্যায়নৰ সৈতে উচ্চ মুদ্ৰাস্ফীতিয়ে কিহৰ সৃষ্টি কৰে?
+A) Loss of export competitiveness / ৰপ্তানি প্ৰতিযোগিতাৰ হেৰুৱাই পেলোৱা
+B) Decline in international purchasing power / আন্তঃৰাষ্ট্ৰীয় ক্ৰয় ক্ষমতাৰ হ্ৰাস
+C) Increase in national debt burden / ৰাষ্ট্ৰীয় ঋণৰ বোজা বৃদ্ধি
+D) All of the above / ওপৰৰ আটাইবোৰ
+Ans: D
+
+13. Which concept explains that inflation is always and everywhere a monetary phenomenon?
+
+কোনটো ধাৰণাই ব্যাখ্যা কৰে যে মুদ্ৰাস্ফীতি সদায় আৰু সকলো ঠাইতে এক মুদ্ৰাগত ঘটনা?
+A) Keynesian Theory / কেইনছীয় তত্ত্ব
+B) Monetarist Theory (Milton Friedman) / মুদ্ৰাবাদী তত্ত্ব (মিল্টন ফ্ৰীডমেন)
+C) Classical Trade Theory / ধ্ৰুপদী বাণিজ্য তত্ত্ব
+D) Structuralist Theory / গঠনবাদী তত্ত্ব
+Ans: B
+
+14. Open Inflation refers to a situation where:
+
+মুকলি মুদ্ৰাস্ফীতি (Open Inflation) বুলিলে কি বুজায়?
+A) Prices rise without any government price control intervention / চৰকাৰী মূল্য নিয়ন্ত্ৰণ অবিহনে মূল্য মুক্তভাৱে বৃদ্ধি হয়
+B) Prices are strictly controlled by law / মূল্য আইনৰ দ্বাৰা কঠোৰভাৱে নিয়ন্ত্ৰণ কৰা হয়
+C) Prices fall due to excess production / অতিৰিক্ত উৎপাদনৰ বাবে মূল্য হ্ৰাস পায়
+D) Prices remain static for long duration / মূল্য দীঘলীয়া সময় ধৰি স্থিৰ হৈ থাকে
+Ans: A
+
+15. Walking or Trotting Inflation usually ranges between:
+
+ৱাকিং বা ট্রটিং মুদ্ৰাস্ফীতিৰ (Walking Inflation) হাৰ সাধাৰণতে কিমানৰ মাজত থাকে?
+A) 1% to 2% / 1% ৰ পৰা 2%
+B) 3% to 10% per annum / বছৰি 3% ৰ পৰা 10%
+C) 20% to 100% per annum / বছৰি 20% ৰ পৰা 100%
+D) Above 100% per annum / বছৰি 100% ৰ ওপৰত
+Ans: B
+
+16. Galloping Inflation is also referred to as:
+
+গ্যালোপিং মুদ্ৰাস্ফীতিত (Galloping Inflation) আৰু কি নামেৰে জনা যায়?
+A) Creeping Inflation / ক্ৰিপিং ইনফ্লেশ্বন
+B) Jumping or Running Inflation / জাম্পিং বা ৰানিং ইনফ্লেশ্বন
+C) Chronic Inflation / ক্ৰনিক ইনফ্লেশ্বন
+D) Mild Inflation / মাইল্ড ইনফ্লেশ্বন
+Ans: B
+
+17. Tax Indexation is a process used to minimize the impact of inflation on:
+
+কৰ ইণ্ডেক্সেশ্বন (Tax Indexation) প্ৰক্ৰিয়া কিহৰ ওপৰত মুদ্ৰাস্ফীতিৰ প্ৰভাৱ হ্ৰাস কৰিবলৈ ব্যৱহাৰ কৰা হয়?
+A) Taxpayers' tax liabilities / কৰদাতাৰ কৰ পৰিশোধৰ বোজা
+B) Foreign direct investment / বৈদেশিক প্ৰত্যক্ষ বিনিয়োগ
+C) Import tariffs / আমদানি শুল্ক
+D) Bank loan defaults / বেংক ঋণ অনাদায়ী
+Ans: A
+
+18. Which of the following is a result of Chronic Inflation?
+
+দীৰ্ঘম্যাদী মুদ্ৰাস্ফীতিৰ (Chronic Inflation) ফলাফল তলৰ কোনটো?
+A) Erosion of public trust in money / মুদ্ৰাৰ ওপৰত ৰাইজৰ বিশ্বাস হ্ৰাস পোৱা
+B) Decrease in savings rate / সঞ্চয়ৰ হাৰ হ্ৰাস পোৱা
+C) Distortion in resource allocation / সম্পদ আবণ্টনত বিকৃতি
+D) All of the above / ওপৰৰ আটাইবোৰ
+Ans: D
+
+19. When too much money chases too few goods, the resulting inflation is called:
+
+যেতিয়া অত্যধিক মুদ্ৰাই অতি কম সামগ্ৰীক খেদি ফুৰে, তাৰ ফলত হোৱা মুদ্ৰাস্ফীতিক কি বোলা হয়?
+A) Cost-Push Inflation / ব্যয় বৃদ্ধি জনিত মুদ্ৰাস্ফীতি
+B) Demand-Pull Inflation / চাহিদা বৃদ্ধি জনিত মুদ্ৰাস্ফীতি
+C) Structural Inflation / গঠনগত মুদ্ৰাস্ফীতি
+D) Stagflation / ষ্টেগফ্লেশ্বন
+Ans: B
+
+20. Supply Shock Inflation is a form of:
+
+যোগান আঘাতজনিত মুদ্ৰাস্ফীতি (Supply Shock Inflation) কিহৰ এক ৰূপ?
+A) Demand-Pull Inflation / চাহিদা বৃদ্ধি জনিত মুদ্ৰাস্ফীতি
+B) Cost-Push Inflation / ব্যয় বৃদ্ধি জনিত মুদ্ৰাস্ফীতি
+C) Hyperinflation / হাইপাৰইনফ্লেশ্বন
+D) Reflation / ৰিফ্লেশ্বন
+Ans: B

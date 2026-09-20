@@ -1,0 +1,224 @@
+1. Who is known as the Father of Economics?
+
+অৰ্থনীতিৰ পিতৃ বুলি কাৰাক জনা যায়?
+A) Adam Smith / এদাম স্মিথ
+B) Alfred Marshall / আলফ্ৰেড মাৰ্শ্বাল
+C) John Maynard Keynes / জন মেয়াৰ্ড কেইনছ
+D) Karl Marx / কাৰ্ল মাৰ্ক্স
+Ans: A
+
+2. Which type of economy is followed in India?
+
+ভাৰতত কোন প্ৰকাৰৰ অৰ্থনীতি অনুসৰণ কৰা হয়?
+A) Capitalist Economy / পুঁজিবাদী অৰ্থনীতি
+B) Socialist Economy / সমাজবাদী অৰ্থনীতি
+C) Mixed Economy / মিশ্ৰিত অৰ্থনীতি
+D) Traditional Economy / পৰম্পৰাগত অৰ্থনীতি
+Ans: C
+
+3. Which sector contributes the highest to India's Gross Domestic Product (GDP)?
+
+ভাৰতৰ মুঠ ঘৰুৱা উৎপাদনত (GDP) কোনটো খণ্ডই সৰ্বাধিক বৰঙণি যোগায়?
+A) Primary Sector / প্ৰাথমিক খণ্ড
+B) Secondary Sector / দ্বিতীয়ক খণ্ড
+C) Tertiary Sector (Service Sector) / তৃতীয়ক খণ্ড (সেৱা খণ্ড)
+D) Agricultural Sector / কৃষি খণ্ড
+Ans: C
+
+4. Agriculture, forestry, and fishing belong to which sector of the economy?
+
+কৃষি, বননি আৰু মাছ মৰা কাৰ্য অৰ্থনীতিৰ কোনটো খণ্ডৰ অন্তৰ্গত?
+A) Primary Sector / প্ৰাথমিক খণ্ড
+B) Secondary Sector / দ্বিতীয়ক খণ্ড
+C) Tertiary Sector / তৃতীয়ক খণ্ড
+D) Quaternary Sector / চতুৰ্থক খণ্ড
+Ans: A
+
+5. Manufacturing and construction fall under which economic sector?
+
+উৎপাদন আৰু নিৰ্মাণ কাৰ্য কোনটো অৰ্থনৈতিক খণ্ডৰ অধীনত পৰে?
+A) Primary Sector / প্ৰাথমিক খণ্ড
+B) Secondary Sector / দ্বিতীয়ক খণ্ড
+C) Tertiary Sector / তৃতীয়ক খণ্ড
+D) Service Sector / সেৱা খণ্ড
+Ans: B
+
+6. What does GDP stand for in economics?
+
+অৰ্থনীতিত GDP ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Gross Domestic Product / গ্ৰছ ডমেষ্টিক প্ৰডাক্ট (মুঠ ঘৰুৱা উৎপাদন)
+B) Gross Domestic Price / গ্ৰছ ডমেষ্টিক প্ৰাইচ
+C) General Domestic Product / জেনোৰেল ডমেষ্টিক প্ৰডাক্ট
+D) Global Domestic Product / গ্ল'বেল ডমেষ্টিক প্ৰডাক্ট
+Ans: A
+
+7. Gross National Product (GNP) is equal to:
+
+মুঠ ৰাষ্ট্ৰীয় উৎপাদন (GNP) কাৰ সমান?
+A) GDP + Net Factor Income from Abroad / GDP + বিদেশৰ পৰা পোৱা নিখুঁত উপাৰ্জন
+B) GDP - Net Factor Income from Abroad / GDP - বিদেশৰ পৰা পোৱা নিখুঁত উপাৰ্জন
+C) GDP + Indirect Taxes / GDP + পৰোক্ষ কৰ
+D) GDP - Depreciation / GDP - অৱক্ষয়
+Ans: A
+
+8. Net Domestic Product (NDP) is calculated by deducting what from GDP?
+
+GDP ৰ পৰা কি বিয়োগ কৰি নিখুঁত ঘৰুৱা উৎপাদন (NDP) গণনা কৰা হয়?
+A) Depreciation / অৱক্ষয় বা মূল্যহাৰ
+B) Indirect Taxes / পৰোক্ষ কৰ
+C) Subsidies / ৰেহাই মূল্য
+D) Inflation / মুদ্ৰাস্ফীতি
+Ans: A
+
+9. What is Per Capita Income?
+
+মুঠ প্ৰতিজন ব্যক্তিৰ আয় (Per Capita Income) কি?
+A) Total National Income divided by Total Population / মুঠ ৰাষ্ট্ৰীয় আয়ক মুঠ জনসংখ্যাৰে হৰণ কৰা ফল
+B) Total GDP divided by Total Area / মুঠ GDP ক মুঠ মাটিকালিৰে হৰণ কৰা ফল
+C) Total Exports divided by Imports / মুঠ ৰপ্তানিক আমদানিৰে হৰণ কৰা ফল
+D) Total Savings divided by Population / মুঠ সঞ্চায়ক জনসংখ্যাৰে হৰণ কৰা ফল
+Ans: A
+
+10. Which central bank regulates the monetary policy of India?
+
+কোনটো কেন্দ্ৰীয় বেংকে ভাৰতৰ মুদ্ৰানীতি নিয়ন্ত্ৰণ কৰে?
+A) State Bank of India / ষ্টেট বেংক অফ ইণ্ডিয়া
+B) Reserve Bank of India / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া
+C) Punjab National Bank / পঞ্জাব নেচনেল বেংক
+D) NITI Aayog / নীতি আয়োগ
+Ans: B
+
+11. In which year was the Reserve Bank of India (RBI) established?
+
+ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া (RBI) কোন বছৰত স্থাপন কৰা হৈছিল?
+A) 1921
+B) 1935
+C) 1947
+D) 1950
+Ans: B
+
+12. In which year was the Reserve Bank of India nationalized?
+
+ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া কোন বছৰত ৰাষ্ট্ৰীয়কৰণ কৰা হৈছিল?
+A) 1935
+B) 1949
+C) 1951
+D) 1969
+Ans: B
+
+13. Who was the first Governor of the Reserve Bank of India?
+
+ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়াৰ প্ৰথম গৱৰ্ণৰ কোন আছিল?
+A) Sir Osborne Smith / ছাৰ অছবৰ্ন স্মিথ
+B) C.D. Deshmukh / চি. ডি. দেশমুখ
+C) James Braid Taylor / জেছম ব্ৰেইড টেইলৰ
+D) Manmohan Singh / মনমোহন সিং
+Ans: A
+
+14. Who was the first Indian Governor of the Reserve Bank of India?
+
+ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়াৰ প্ৰথমগৰাকী ভাৰতীয় গৱৰ্ণৰ কোন আছিল?
+A) C.D. Deshmukh / চি. ডি. দেশমুখ
+B) Osborne Smith / অছবৰ্ন স্মিথ
+C) Benegal Rama Rau / বেনেগল ৰামা ৰাও
+D) I.G. Patel / আই. জি. পেটেল
+Ans: A
+
+15. What is Inflation?
+
+মুদ্ৰাস্ফীতি (Inflation) মানে কি?
+A) A general rise in the price level of goods and services over time / সময়ৰ লগে লগে সামগ্ৰী আৰু সেৱাৰ সাধাৰণ মূল্য বৃদ্ধি
+B) A decrease in price level / মূল্য স্তৰ হ্ৰাস পোৱা
+C) Increase in value of money / মুদ্ৰাৰ মূল্য বৃদ্ধি পোৱা
+D) Increase in exports / ৰপ্তানি বৃদ্ধি পোৱা
+Ans: A
+
+16. What is Deflation?
+
+মুদ্ৰাসংকুচন (Deflation) মানে কি?
+A) Continuous fall in general price level / সাধাৰণ মূল্য স্তৰৰ ধাৰাবাহিক পতন
+B) Continuous rise in price level / মূল্য স্তৰৰ ধাৰাবাহিক বৃদ্ধি
+C) Increase in money supply / মুদ্ৰাৰ যোগান বৃদ্ধি
+D) Fall in interest rates / সুতৰ হাৰ হ্ৰাস
+Ans: A
+
+17. Which index is used to measure inflation in India for retail consumers?
+
+ভাৰতত খুচুৰা উপভোক্তাৰ বাবে মুদ্ৰাস্ফীতি জুখিবলৈ কোনটো সূচক ব্যৱহাৰ কৰা হয়?
+A) Wholesale Price Index (WPI) / পাইকাৰী মূল্য সূচক
+B) Consumer Price Index (CPI) / উপভোক্তা মূল্য সূচক
+C) Sensex / চেঞ্চেক্স
+D) Nifty / নিফটি
+Ans: B
+
+18. What is Stagflation?
+
+ষ্টেগফ্লেশ্বন (Stagflation) মানে কি?
+A) Combination of high inflation and high unemployment with slow economic growth / ধীৰ অৰ্থনৈতিক বৃদ্ধিৰ সৈতে উচ্চ মুদ্ৰাস্ফীতি আৰু উচ্চ নিবনুৱা সমস্যাৰ সংমিশ্ৰণ
+B) High growth with low inflation / কম মুদ্ৰাস্ফীতিৰ সৈতে উচ্চ বিকাশ
+C) Deflation with high growth / উচ্চ বিকাশৰ সৈতে মুদ্ৰাসংকুচন
+D) High growth with high employment / উচ্চ নিযুক্তিৰ সৈতে উচ্চ বিকাশ
+Ans: A
+
+19. The policy related to government revenue and expenditure is called:
+
+চৰকাৰী ৰাজহ আৰু ব্যয়ৰ সৈতে জৰিত নীতিটোক কি বোলা হয়?
+A) Monetary Policy / মুদ্ৰানীতি
+B) Fiscal Policy / বিত্তীয় নীতি (ফিচকেল পলিচি)
+C) Foreign Trade Policy / বৈদেশিক বাণিজ্য নীতি
+D) Industrial Policy / ঔদ্যোগিক নীতি
+Ans: B
+
+20. Who formulates the Fiscal Policy in India?
+
+ভাৰতত বিত্তীয় নীতি (Fiscal Policy) কোনে প্ৰস্তুত কৰে?
+A) Reserve Bank of India / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া
+B) Ministry of Finance / বিত্ত মন্ত্ৰালয়
+C) NITI Aayog / নীতি আয়োগ
+D) SEBI / ছেবি (SEBI)
+Ans: B
+
+21. Fiscal Deficit refers to:
+
+বিত্তীয় ঘাটি (Fiscal Deficit) মানে কি?
+A) Total Expenditure - Total Receipts excluding borrowings / মুঠ ব্যয় - ঋণৰ বাহিৰে মুঠ ৰাজহ প্ৰাপ্তি
+B) Total Revenue - Total Expenditure / মুঠ ৰাজহ - মুঠ ব্যয়
+C) Capital Expenditure - Revenue Receipts / মূলধনী ব্যয় - ৰাজহ প্ৰাপ্তি
+D) Total Borrowings + Taxes / মুঠ ঋণ + কৰ
+Ans: A
+
+22. Revenue Deficit occurs when:
+
+ৰাজহ ঘাটি (Revenue Deficit) কেতিয়া হয়?
+A) Revenue Expenditure exceeds Revenue Receipts / ৰাজহ ব্যয় ৰাজহ প্ৰাপ্তিতকৈ বেছি হয়
+B) Capital Expenditure exceeds Capital Receipts / মূলধনী ব্যয় মূলধনী প্ৰাপ্তিতকৈ বেছি হয়
+C) Total Income exceeds Total Expenditure / মুঠ আয় মুঠ ব্যয়তকৈ বেছি হয়
+D) Imports exceed Exports / আমদানি ৰপ্তানিতকৈ বেছি হয়
+Ans: A
+
+23. A tax whose rate increases as the payer's income increases is called a:
+
+দুপৰীয়া বা কৰদাতাৰ আয় বৃদ্ধিৰ লগে লগে হাৰ বৃদ্ধি পোৱা কৰটোক কি বোলা হয়?
+A) Progressive Tax / প্ৰগতিশীল কৰ
+B) Regressive Tax / পশ্চাৎমুখী কৰ
+C) Proportional Tax / সমানুপাতিক কৰ
+D) Indirect Tax / পৰোক্ষ কৰ
+Ans: A
+
+24. Goods and Services Tax (GST) in India is a:
+
+ভাৰতত সামগ্ৰী আৰু সেৱা কৰ (GST) এবিধ:
+A) Direct Tax / প্ৰত্যক্ষ কৰ
+B) Indirect Tax / পৰোক্ষ কৰ
+C) Corporate Tax / প্ৰতিষ্ঠানিক কৰ
+D) Income Tax / আয়কৰ
+Ans: B
+
+25. When was the Goods and Services Tax (GST) launched in India?
+
+ভাৰতত সামগ্ৰী আৰু সেৱা কৰ (GST) কেতিয়া কাৰ্যকৰী কৰা হৈছিল?
+A) 1st July 2017 / 1 জুলাই 2017
+B) 1st April 2016 / 1 এপ্ৰিল 2016
+C) 8th November 2016 / 8 নৱেম্বৰ 2016
+D) 15th August 2017 / 15 আগষ্ট 2017
+Ans: A

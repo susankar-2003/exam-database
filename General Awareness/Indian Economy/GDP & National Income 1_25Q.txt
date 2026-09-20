@@ -1,0 +1,224 @@
+1. What is the total market value of all final goods and services produced within a country's borders in a specific time period called?
+
+এক নিৰ্দিষ্ট সময়সীমাৰ ভিতৰত এখন দেশৰ ভৌগোলিক সীমাৰ ভিতৰত উৎপাদিত সকলো চূড়ান্ত সামগ্ৰী আৰু সেৱাৰ মুঠ বজাৰ মূল্যক কি বোলা হয়?
+A) Gross National Product (GNP) / মুঠ ৰাষ্ট্ৰীয় উৎপাদন
+B) Gross Domestic Product (GDP) / মুঠ ঘৰুৱা উৎপাদন
+C) Net National Product (NNP) / নিখুঁত ৰাষ্ট্ৰীয় উৎপাদন
+D) National Income / ৰাষ্ট্ৰীয় আয়
+Ans: B
+
+2. Who made the first attempt to estimate National Income in India in 1868?
+
+1868 চনত ভাৰতত প্ৰথমবাৰৰ বাবে ৰাষ্ট্ৰীয় আয় নিৰূপণৰ চেষ্টা কোনে কৰিছিল?
+A) Dadabhai Naoroji / দাদাভাই নৌৰোজি
+B) V.K.R.V. Rao / ভি. কে. আৰ. ভি. ৰাও
+C) M. Visvesvaraya / এম. বিশ্বেশ্বৰায়
+D) Amartya Sen / অমৰ্ত্য সেন
+Ans: A
+
+3. Who was the first economist to calculate National Income in India using a scientific method in 1931-32?
+
+1931-32 চনত বৈজ্ঞানিক পদ্ধতি ব্যৱহাৰ কৰি ভাৰতত ৰাষ্ট্ৰীয় আয় গণনা কৰা প্ৰথমগৰাকী অৰ্থনীতিবিদ কোন আছিল?
+A) Dadabhai Naoroji / দাদাভাই নৌৰোজি
+B) V.K.R.V. Rao / ভি. কে. আৰ. ভি. ৰাও
+C) P.C. Mahalanobis / পি. চি. মহালান'বিছ
+D) D.R. Gadgil / ডি. আৰ. গাদগিল
+Ans: B
+
+4. Who chaired the National Income Committee appointed by the Government of India in 1949?
+
+1949 চনত ভাৰত চৰকাৰে নিযুক্ত কৰা ৰাষ্ট্ৰীয় আয় সমিতিৰ সভাপতি কোন আছিল?
+A) P.C. Mahalanobis / পি. চি. মহালান'বিছ
+B) D.R. Gadgil / ডি. আৰ. গাদগিল
+C) V.K.R.V. Rao / ভি. কে. আৰ. ভি. ৰাও
+D) C.D. Deshmukh / চি. ডি. দেশমুখ
+Ans: A
+
+5. Which organization currently releases the GDP estimates and National Income data in India?
+
+ভাৰতত বৰ্তমান কোনটো সংস্থাই GDP ৰ আনুমানিক হিচাপ আৰু ৰাষ্ট্ৰীয় আয়ৰ তথ্য প্ৰকাশ কৰে?
+A) National Statistical Office (NSO) / ৰাষ্ট্ৰীয় পৰিসংখ্যা কাৰ্যালয় (NSO)
+B) Reserve Bank of India (RBI) / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া
+C) NITI Aayog / নীতি আয়োগ
+D) Finance Ministry / বিত্ত মন্ত্ৰালয়
+Ans: A
+
+6. National Income of India is calculated based on which concept?
+
+ভাৰতৰ ৰাষ্ট্ৰীয় আয় কোনটো ধাৰণাৰ ওপৰত আধাৰিত কৰি গণনা কৰা হয়?
+A) Gross Domestic Product at Market Price / বজাৰ দৰত মুঠ ঘৰুৱা উৎপাদন
+B) Net National Product at Factor Cost / উপাদান ব্যয়েৰে নিখুঁত ৰাষ্ট্ৰীয় উৎপাদন
+C) Gross National Product at Market Price / বজাৰ দৰত মুঠ ৰাষ্ট্ৰীয় উৎপাদন
+D) Personal Income / ব্যক্তিগত আয়
+Ans: B
+
+7. What is obtained by subtracting Depreciation from Gross Domestic Product (GDP)?
+
+মুঠ ঘৰুৱা উৎপাদনৰ (GDP) পৰা অৱক্ষয় বিয়োগ কৰিলে কি পোৱা যায়?
+A) Net Domestic Product (NDP) / নিখুঁত ঘৰুৱা উৎপাদন
+B) Gross National Product (GNP) / মুঠ ৰাষ্ট্ৰীয় উৎপাদন
+C) Net National Product (NNP) / নিখুঁত ৰাষ্ট্ৰীয় উৎপাদন
+D) Personal Income / ব্যক্তিগত আয়
+Ans: A
+
+8. How is Gross National Product (GNP) derived from GDP?
+
+GDP ৰ পৰা মুঠ ৰাষ্ট্ৰীয় উৎপাদন (GNP) কেনেকৈ উলিওৱা হয়?
+A) GDP + Net Factor Income from Abroad / GDP + বিদেশৰ পৰা পোৱা নিখুঁত উপাদান আয়
+B) GDP - Net Factor Income from Abroad / GDP - বিদেশৰ পৰা পোৱা নিখুঁত উপাদান আয়
+C) GDP - Depreciation / GDP - অৱক্ষয়
+D) GDP + Indirect Taxes / GDP + পৰোক্ষ কৰ
+Ans: A
+
+9. What is Net National Product (NNP) equal to?
+
+নিখুঁত ৰাষ্ট্ৰীয় উৎপাদন (NNP) কাৰ সমান?
+A) GNP - Depreciation / GNP - অৱক্ষয়
+B) GDP + Subsidies / GDP + ৰেহাই মূল্য
+C) NDP + Indirect Taxes / NDP + পৰোক্ষ কৰ
+D) Personal Income - Taxes / ব্যক্তিগত আয় - কৰ
+Ans: A
+
+10. Per Capita Income of a country is calculated by dividing National Income by:
+
+এখন দেশৰ প্ৰতিজন ব্যক্তিৰ আয় (Per Capita Income) ৰাষ্ট্ৰীয় আয়ক কিহেৰে হৰণ কৰি উলিওৱা হয়?
+A) Total Working Population / মুঠ কৰ্মক্ষম জনসংখ্যা
+B) Total Population of the Country / দেশখনৰ মুঠ জনসংখ্যা
+C) Area of the Country / দেশখনৰ মাটিকালি
+D) Total Number of Households / মুঠ পৰিয়ালৰ সংখ্যা
+Ans: B
+
+11. Real GDP is measured at:
+
+প্ৰকৃত GDP (Real GDP) কিহৰ ভিত্তিত জোখা হয়?
+A) Current Market Prices / বৰ্তমান বজাৰ দৰত
+B) Constant Base Year Prices / স্থিৰ ভিত্তি বৰ্ষৰ দৰত
+C) Factor Cost / উপাদান ব্যয়ত
+D) Wholesale Prices / পাইকাৰী মূল্যত
+Ans: B
+
+12. Nominal GDP is calculated using:
+
+নামমাত্ৰ GDP (Nominal GDP) কি ব্যৱহাৰ কৰি গণনা কৰা হয়?
+A) Base Year Prices / ভিত্তি বৰ্ষৰ মূল্য
+B) Current Year Prices / বৰ্তমান বৰ্ষৰ মূল্য
+C) Average Prices of 10 Years / 10 বছৰৰ গড় মূল্য
+D) Foreign Currency Rates / বৈদেশিক মুদ্ৰাৰ হাৰ
+Ans: B
+
+13. The ratio of Nominal GDP to Real GDP multiplied by 100 is known as:
+
+নামমাত্ৰ GDP আৰু প্ৰকৃত GDP ৰ অনুপাতক 100 ৰে পূৰণ কৰিলে তাক কি বোলা হয়?
+A) GDP Deflator / GDP ডিফ্লেটৰ
+B) Consumer Price Index / উপভোক্তা মূল্য সূচক
+C) Wholesale Price Index / পাইকাৰী মূল্য সূচক
+D) Inflation Rate / মুদ্ৰাস্ফীতিৰ হাৰ
+Ans: A
+
+14. What is the current base year used by NSO for calculating GDP in India?
+
+ভাৰতত GDP গণনাৰ বাবে NSO এ ব্যৱহাৰ কৰা বৰ্তমানৰ ভিত্তি বৰ্ষ (Base Year) কি?
+A) 2004-05
+B) 2011-12
+C) 2015-16
+D) 2020-21
+Ans: B
+
+15. Which method of calculating National Income measures the total money value of all final goods and services produced?
+
+ৰাষ্ট্ৰীয় আয় গণনাৰ কোনটো পদ্ধতিয়ে উৎপাদিত সকলো চূড়ান্ত সামগ্ৰী আৰু সেৱাৰ মুঠ মুদ্ৰা মূল্য জোখে?
+A) Income Method / আয় পদ্ধতি
+B) Product/Output Method / উৎপাদন পদ্ধতি
+C) Expenditure Method / ব্যয় পদ্ধতি
+D) Value Added Method / মূল্য সংযোজন পদ্ধতি
+Ans: B
+
+16. Which method sums up rent, wages, interest, and profits to estimate National Income?
+
+ৰাষ্ট্ৰীয় আয় নিৰূপণ কৰিবলৈ কোনটো পদ্ধতিয়ে ভাৰা, মজুৰি, সুত আৰু লাভৰ যোগফল উলিওৱায়?
+A) Product Method / উৎপাদন পদ্ধতি
+B) Income Method / আয় পদ্ধতি
+C) Expenditure Method / ব্যয় পদ্ধতি
+D) Outlay Method / ব্যয় পৰিকল্পনা পদ্ধতি
+Ans: B
+
+17. Income received from transfer payments (e.g., pensions, unemployment allowances) is:
+
+হস্তান্তৰিত পৰিশোধৰ (যেনে- পেঞ্চন, নিবনুৱা ভাট্টা) পৰা পোৱা আয়:
+A) Included in National Income / ৰাষ্ট্ৰীয় আয়ত অন্তৰ্ভুক্ত কৰা হয়
+B) Excluded from National Income / ৰাষ্ট্ৰীয় আয়ৰ পৰা বাদ দিয়া হয়
+C) Added to GDP at Market Price / বজাৰ দৰৰ GDP ত যোগ কৰা হয়
+D) Deducted from Personal Income / ব্যক্তিগত আয়ৰ পৰা বিয়োগ কৰা হয়
+Ans: B
+
+18. Are the sale and purchase of second-hand goods included in current National Income?
+
+পুৰণি বা ব্যৱহৃত সামগ্ৰীৰ ক্ৰয়-বিক্ৰয় বৰ্তমানৰ ৰাষ্ট্ৰীয় আয়ত অন্তৰ্ভুক্ত হয়নে?
+A) Yes, fully included / হয়, সম্পূৰ্ণভাৱে অন্তৰ্ভুক্ত হয়
+B) No, because their value was counted in the year of manufacture / নহয়, কাৰণ উৎপাদনৰ বছৰতে ইহঁতৰ মূল্য গণনা কৰা হৈছিল
+C) Only 50% is included / কেৱল 50% অন্তৰ্ভুক্ত হয়
+D) Included only if sold through auctions / কেৱল নীলামৰ জৰিয়তে বিক্ৰী হ'লে অন্তৰ্ভুক্ত হয়
+Ans: B
+
+19. Is commission earned on the sale of second-hand goods included in National Income?
+
+পুৰণি সামগ্ৰী বিক্ৰী কৰি অৰ্জন কৰা কমিছন ৰাষ্ট্ৰীয় আয়ত অন্তৰ্ভুক্ত হয়নে?
+A) Yes, because it is a payment for current productive services / হয়, কাৰণ ই বৰ্তমানৰ উৎপাদনশীল সেৱাৰ পৰিশোধ
+B) No, it is a transfer payment / নহয়, ই এক হস্তান্তৰিত পৰিশোধ
+C) Only if paid in cash / কেৱল নগদে পৰিশোধ কৰিলেহে
+D) Excluded entirely / সম্পূৰ্ণৰূপে বাদ দিয়া হয়
+Ans: A
+
+20. Which of the following is an example of a transfer payment?
+
+তলৰ কোনটো হস্তান্তৰিত পৰিশোধৰ (Transfer Payment) এটা উদাহৰণ?
+A) Salary of a government employee / চৰকাৰী কৰ্মচাৰীৰ দৰমহা
+B) Old-age pension / বৃদ্ধ পেঞ্চন
+C) Profit earned by a company / কোম্পানীয়ে অৰ্জন কৰা লাভ
+D) Interest on savings account / সঞ্চয় একাউণ্টৰ সুত
+Ans: B
+
+21. What is the sum of all income actually received by individuals/households in a country called?
+
+এখন দেশত ব্যক্তি বা পৰিয়ালে প্ৰকৃততে লাভ কৰা সকলো আয়ৰ যোগফলক কি বোলা হয়?
+A) National Income / ৰাষ্ট্ৰীয় আয়
+B) Personal Income / ব্যক্তিগত আয়
+C) Personal Disposable Income / ব্যক্তিগত ব্যৱহাৰযোগ্য আয়
+D) Private Income / ব্যক্তিগত খণ্ডৰ আয়
+Ans: B
+
+22. How is Personal Disposable Income calculated?
+
+ব্যক্তিগত ব্যৱহাৰযোগ্য আয় (Personal Disposable Income) কেনেকৈ গণনা কৰা হয়?
+A) Personal Income - Direct Personal Taxes - Non-tax payments / ব্যক্তিগত আয় - প্ৰত্যক্ষ ব্যক্তিগত কৰ - অনা-কৰ পৰিশোধ
+B) Personal Income + Subsidies / ব্যক্তিগত আয় + ৰেহাই মূল্য
+C) National Income - Depreciation / ৰাষ্ট্ৰীয় আয় - অৱক্ষয়
+D) GDP + Net Factor Income / GDP + নিখুঁত উপাদান আয়
+Ans: A
+
+23. When Net Factor Income from Abroad (NFIA) is negative, which of the following is true?
+
+যেতিয়া বিদেশৰ পৰা পোৱা নিখুঁত উপাদান আয় (NFIA) ঋণাত্মক হয়, তলৰ কোনটো সত্য?
+A) GDP > GNP / GDP টো GNP তকৈ বেছি
+B) GNP > GDP / GNP টো GDP তকৈ বেছি
+C) GDP = GNP / GDP আৰু GNP সমান
+D) NNP = GDP / NNP আৰু GDP সমান
+Ans: A
+
+24. Factor cost plus net indirect taxes equals:
+
+উপাদান ব্যয়ৰ সৈতে নিখুঁত পৰোক্ষ কৰ যোগ কৰিলে কি পোৱা যায়?
+A) Market Price / বজাৰ মূল্য
+B) Base Price / মূল মূল্য
+C) Personal Income / ব্যক্তিগত আয়
+D) Domestic Income / ঘৰুৱা আয়
+Ans: A
+
+25. Net Indirect Taxes are calculated as:
+
+নিখুঁত পৰোক্ষ কৰ (Net Indirect Taxes) কেনেকৈ গণনা কৰা হয়?
+A) Indirect Taxes - Subsidies / পৰোক্ষ কৰ - ৰেহাই মূল্য
+B) Indirect Taxes + Subsidies / পৰোক্ষ কৰ + ৰেহাই মূল্য
+C) Direct Taxes - Subsidies / প্ৰত্যক্ষ কৰ - ৰেহাই মূল্য
+D) Total Taxes - Inflation / মুঠ কৰ - মুদ্ৰাস্ফীতি
+Ans: A

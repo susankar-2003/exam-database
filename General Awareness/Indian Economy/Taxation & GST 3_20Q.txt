@@ -1,0 +1,179 @@
+1. Capital Gains Tax in India is applicable on profits earned from the sale of:
+
+ভাৰতত মূলধনী লাভ কৰ (Capital Gains Tax) কি বিক্ৰীৰ পৰা উপাৰ্জন কৰা লাভৰ ওপৰত আৰোপ কৰা হয়?
+A) Daily consumer goods / দৈনন্দিন ব্যৱহাৰ্য সামগ্ৰী
+B) Capital assets like land, buildings, or shares / মাটি, ভৱন বা শ্বেয়াৰৰ দৰে মূলধনী সম্পত্তি
+C) Agricultural crops / কৃষি শস্য
+D) Monthly salary / মাহেকীয়া দৰমহা
+Ans: B
+
+2. Securities Transaction Tax (STT) in India is levied on:
+
+ভাৰতত ছিকিউৰিটিজ ট্ৰানজেকশ্বন টেক্স (STT) কিহৰ ওপৰত আৰোপ কৰা হয়?
+A) Real estate transactions / গৃহ নিৰ্মাণ আৰু মাটিৰ লেনদেন
+B) Transactions done on recognized stock exchanges / স্বীকৃতিপ্ৰাপ্ত ষ্টক এক্সচেঞ্জত কৰা শ্বেয়াৰ লেনদেন
+C) Foreign currency deposits / বৈদেশিক মুদ্ৰাৰ জমা
+D) Bank loan repayments / বেংক ঋণৰ পৰিশোধ
+Ans: B
+
+3. A surcharge on tax is defined as:
+
+কৰৰ ওপৰত আৰোপ কৰা 'চাৰচাৰ্জ' (Surcharge) ৰ অৰ্থ কি?
+A) Tax levied on lower income groups / কম আয়ৰ গোটৰ ওপৰত কৰ
+B) An additional tax levied on the tax amount itself / কৰৰ পৰিমাণৰ ওপৰত অতিৰিক্তভাৱে আৰোপ কৰা কৰ
+C) Penalty for non-payment of tax / কৰ অনাদায়ীৰ বাবে জৰিমনা
+D) Local municipal tax / স্থানীয় পৌৰ সভাৰ কৰ
+Ans: B
+
+4. A 'Cess' in Indian taxation system is levied for:
+
+ভাৰতীয় কৰ ব্যৱস্থাত 'চেছ' (Cess) কি উদ্দেশ্যত আৰোপ কৰা হয়?
+A) General revenue collection / সাধাৰণ ৰাজহ সংগ্ৰহৰ বাবে
+B) Specific designated purpose (e.g., Education, Health) / নিৰ্দিষ্ট বিশেষ উদ্দেশ্যৰ বাবে (যেনে- শিক্ষা, স্বাস্থ্য)
+C) State government funding only / কেৱল ৰাজ্য চৰকাৰৰ পুঁজিৰ বাবে
+D) Import penalty / আমদানিকৃত বস্তুৰ জৰিমনা
+Ans: B
+
+5. Revenue collected from a Cess by the Central Government goes into:
+
+কেন্দ্ৰীয় চৰকাৰে সংগ্ৰহ কৰা 'চেছ' ৰ ধন ক’ত জমা হয়?
+A) Contingency Fund of India / ভাৰতৰ জৰুৰীকালীন পুঁজি
+B) Consolidated Fund of India / ভাৰতৰ একত্ৰিত পুঁজি
+C) Public Account of India / ভাৰতৰ ৰাজহুৱা হিচাপ
+D) Prime Minister Relief Fund / প্ৰধানমন্ত্ৰী সাহায্য পুঁজি
+Ans: B
+
+6. What is the Tax-to-GDP ratio of an economy?
+
+কোনো এক অৰ্থনীতিৰ 'Tax-to-GDP ratio' মানে কি?
+A) Ratio of direct taxes to indirect taxes / প্ৰত্যক্ষ কৰ আৰু পৰোক্ষ কৰৰ অনুপাত
+B) Total tax revenue as a percentage of gross domestic product / মুঠ দেশুৱা উৎপাদনৰ (GDP) শতাংশ হিচাপে মুঠ কৰ ৰাজহ
+C) Ratio of central tax to state tax / কেন্দ্ৰীয় কৰ আৰু ৰাজ্যিক কৰৰ অনুপাত
+D) Ratio of corporate tax to income tax / নিগম কৰ আৰু আয়কৰৰ অনুপাত
+Ans: B
+
+7. Ad Valorem tax is a tax based on:
+
+এড ভেলোৰেম কৰ (Ad Valorem tax) কিহৰ ভিত্তিত আৰোপ কৰা হয়?
+A) The physical weight of the item / বস্তুৰ ভৌতিক ওজনৰ ভিত্তিত
+B) The assessed value of the transaction or item / লেনদেন বা সামগ্ৰীৰ নিৰ্ধাৰিত মূল্যৰ ভিত্তিত
+C) The volume of the product / সামগ্ৰীৰ আয়তনৰ ভিত্তিত
+D) Fixed rate per unit / প্ৰতিটো গোটৰ নিৰ্দিষ্ট হাৰত
+Ans: B
+
+8. Tobin Tax is a proposed tax on which type of transactions?
+
+টোবিন কৰ (Tobin Tax) কোন ধৰণৰ লেনদেনৰ ওপৰত আৰোপ কৰাৰ পৰামৰ্শ দিয়া হয়?
+A) Agricultural sales / কৃষি সামগ্ৰী বিক্ৰী
+B) Short-term international currency conversions/speculations / হ্ৰাসম্যাদী আন্তঃৰষ্ট্ৰীয় মুদ্ৰা পৰিবৰ্তন আৰু ফটকা ব্যৱসায়
+C) Real estate purchases / ভূ-সম্পত্তি ক্ৰয়
+D) Electronic goods sales / ইলেক্ট্ৰনিক সামগ্ৰী বিক্ৰী
+Ans: B
+
+9. What is the primary objective of levying Pigouvian Tax?
+
+পিগুভিয়ান কৰ (Pigouvian Tax) আৰোপ কৰাৰ মূল উদ্দেশ্য কি?
+A) To encourage exports / ৰপ্তানি উৎসাহিত কৰা
+B) To correct negative externalities like environmental pollution / পৰিৱেশ প্ৰদূষণৰ দৰে নিৰাত্মক বাহ্যিক প্ৰভাৱসমূহ হ্ৰাস কৰা
+C) To promote luxury goods / বিলাসী সামগ্ৰী বৃদ্ধি কৰা
+D) To control inflation / মুদ্ৰাস্ফীতি নিয়ন্ত্ৰণ কৰা
+Ans: B
+
+10. Minimum Alternate Tax (MAT) under Income Tax Act is applicable to:
+
+আয়কৰ আইনৰ অধীনত ন্যূনতম বিকল্প কৰ (MAT) কাৰ ক্ষেত্ৰত প্ৰযোজ্য হয়?
+A) Individual salaried taxpayers / ব্যক্তিগত দৰমহাপ্ৰাপ্ত কৰদাতা
+B) Companies that pay zero or negligible tax despite book profits / বহী-লাভ থকা স্বত্বেও শূন্য বা নগণ্য কৰ দিয়া কোম্পানীসমূহ
+C) Foreign tourists / বৈদেশিক পৰ্যটক
+D) Agricultural cooperatives / কৃষি সমবায় সমিতি
+Ans: B
+
+11. Dividend Distribution Tax (DDT) in India was historically levied on:
+
+ভাৰতত লভ্যাংশ বিতৰণ কৰ (DDT) ঐতিহাসিকভাৱে কাৰ ওপৰত আৰোপ কৰা হৈছিল?
+A) Shareholders who receive dividends / লভ্যাংশ প্ৰাপ্ত কৰা শ্বেয়াৰহোল্ডাৰসকলৰ ওপৰত
+B) Domestic companies distributing dividends / লভ্যাংশ বিতৰণ কৰা দেশীয় কোম্পানীসমূহৰ ওপৰত
+C) Foreign institutional investors / বৈদেশিক প্ৰতিষ্ঠানগত বিনিয়োগকাৰী
+D) Stock exchanges / ষ্টক এক্সচেঞ্জসমূহৰ ওপৰত
+Ans: B
+
+12. What is the composition scheme under GST primarily designed for?
+
+GST ৰ অধীনত থকা কম্পোজিচন আঁচনি (Composition Scheme) মূলতঃ কাৰ বাবে তৈয়াৰ কৰা হৈছে?
+A) Large multinational corporations / ডাঙৰ বহুজাতিক প্ৰতিষ্ঠান
+B) Small taxpayers and businesses to simplify compliance / সৰু কৰদাতা আৰু ব্যৱসায়ীসকলৰ বাবে সৰল কৰ প্ৰক্ৰিয়াৰ হেতু
+C) Exporters of luxury items / বিলাসী সামগ্ৰী ৰপ্তানিকাৰী
+D) Public sector undertakings / ৰাজহুৱা খণ্ডৰ উদ্যোগ
+Ans: B
+
+13. What is the turnover limit for a business to be eligible for the GST Composition Scheme in general states?
+
+সাধাৰণ ৰাজ্যসমূহত GST কম্পোজিচন আঁচনিৰ বাবে যোগ্য হ’বলৈ ব্যৱসায়ৰ বাৰ্ষিক টাৰ্নঅভাৰৰ সীমা কিমান?
+A) Up to Rs 50 Lakh / 50 লাখ টকালৈকে
+B) Up to Rs 1.5 Crore / 1.5 কোটি টকালৈকে
+C) Up to Rs 5 Crore / 5 কোটি টকালৈকে
+D) Up to Rs 10 Crore / 10 কোটি টকালৈকে
+Ans: B
+
+14. Can a business registered under GST Composition Scheme collect GST from its customers?
+
+GST কম্পোজিচন আঁচনিৰ অধীনত পঞ্জীয়নভুক্ত ব্যৱসায়ে গ্ৰাহকৰ পৰা GST সংগ্ৰহ কৰিব পাৰেনে?
+A) Yes, at normal rates / পাৰে, সাধাৰণ হাৰত
+B) No, they cannot collect tax from customers / নোৱাৰে, তেওঁলোকে গ্ৰাহকৰ পৰা কৰ সংগ্ৰহ কৰিব নোৱাৰে
+C) Yes, up to 5% / পাৰে, 5% লৈকে
+D) Only on inter-state sales / কেৱল আন্তঃৰাজ্যিক বিক্ৰীত পাৰে
+Ans: B
+
+15. Tax evasion refers to:
+
+কৰ ফাঁকি (Tax evasion) বুলিলে কি বুজায়?
+A) Legally minimizing tax liability / আইনীভাৱে কৰৰ বোজা কম কৰা
+B) Illegal non-payment or underpayment of tax / বেআইনীভাৱে কৰ পৰিশোধ নকৰা বা কম কৰ দিয়া
+C) Claiming standard deductions / মানক ৰেহাই দাবী কৰা
+D) Investing in tax-saving bonds / কৰ ৰেহাই দিয়া বণ্ডত বিনিয়োগ কৰা
+Ans: B
+
+16. Tax avoidance is defined as:
+
+কৰ পৰিহাৰ (Tax avoidance) ৰ সংজ্ঞা কি?
+A) Illegal concealment of income / আইনী উলংঘন কৰি আয় গোপন কৰা
+B) Legally reducing tax using loopholes within the law / আইনৰ ফাঁক-ফোকোলা ব্যৱহাৰ কৰি আইনীভাৱে কৰ কমোৱা
+C) Refusing to file IT return / আয়কৰ ৰিটাৰ্ন জমা নিদিয়া
+D) Non-payment of GST / GST নিদিয়া
+Ans: B
+
+17. Tax Buoyancy measures:
+
+কৰ বুয়েন্সি (Tax Buoyancy) এ কি জোখে?
+A) Efficiency of tax collection relative to GDP growth / GDP বিকাশৰ তুলনাত কৰ সংগ্ৰহৰ দক্ষতা
+B) The total amount of tax evasion / মোট কৰ ফাঁকিৰ পৰিমাণ
+C) Difference between direct and indirect taxes / প্ৰত্যক্ষ আৰু পৰোক্ষ কৰৰ পাৰ্থক্য
+D) Rate of inflation / মুদ্ৰাস্ফীতিৰ হাৰ
+Ans: A
+
+18. Equalisation Levy in India, often called 'Digital Tax', is levied on non-resident companies offering:
+
+ভাৰতত প্ৰায়ে 'ডিজিটেল কৰ' বুলি কোৱা সমতাকৰ (Equalisation Levy) অনিবাসী কোম্পানীসমূহে প্ৰদান কৰা কিহৰ ওপৰত আৰোপ কৰা হয়?
+A) Online advertising and digital services / অনলাইন বিজ্ঞাপন আৰু ডিজিটেল সেৱা
+B) Physical goods delivery / ভৌতিক সামগ্ৰী সৰবৰাহ
+C) Agricultural export / কৃষি ৰপ্তানি
+D) Air transport services / বিমান পৰিবহণ সেৱা
+Ans: A
+
+19. Under GST, what is Reverse Charge Mechanism (RCM)?
+
+GST ৰ অধীনত ৰিভাৰ্ছ চাজ মেকানিজম (RCM) মানে কি?
+A) Tax paid by supplier instead of buyer / ক্ৰেতাৰ পৰিৱৰ্তে যোগানকাৰীয়ে কৰ পৰিশোধ কৰা
+B) Liability to pay tax is on the recipient of goods/services instead of supplier / যোগানকাৰীৰ সলনি সামগ্ৰী বা সেৱা গ্ৰহণকাৰীৰ ওপৰত কৰ পৰিশোধৰ দায়িত্ব থকা
+C) Refund of GST from government / চৰকাৰৰ পৰা GST ঘূৰাই পোৱা
+D) Exemption of tax on imports / আমদানিত কৰ ৰেহাই
+Ans: B
+
+20. Which article of the Constitution lays down that no tax shall be levied or collected except by authority of law?
+
+আইনৰ কৰ্তৃত্ব অবিহনে কোনো কৰ আৰোপ বা সংগ্ৰহ কৰিব নোৱাৰিব বুলি সংবিধানৰ কোনটো অনুচ্ছেদত উল্লেখ আছে?
+A) Article 265 / অনুচ্ছেদ 265
+B) Article 266 / অনুচ্ছেদ 266
+C) Article 267 / অনুচ্ছেদ 267
+D) Article 300 / অনুচ্ছেদ 300
+Ans: A

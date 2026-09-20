@@ -1,0 +1,179 @@
+1. Structural Inflation is primarily prevalent in:
+
+গঠনগত মুদ্ৰাস্ফীতি (Structural Inflation) মূলতঃ ক’ত দেখা যায়?
+A) Developed Economies / উন্নত অৰ্থনীতিত
+B) Developing and Underdeveloped Economies / বিকাশশীল আৰু অনুন্নত অৰ্থনীতিত
+C) Centrally Planned Economies / কেন্দ্ৰীয়ভাৱে পৰিকল্পিত অৰ্থনীতিত
+D) Open Market Capitalist Economies / মুকলি বজাৰ পুঁজিবাদী অৰ্থনীতিত
+Ans: B
+
+2. A state of continuous fall in the general price level of goods and services is known as:
+
+সামগ্ৰী আৰু সেৱাৰ সাধাৰণ মূল্যস্তৰৰ নিৰন্তৰ হ্ৰাস হোৱা অৱস্থাক কি বোলা হয়?
+A) Inflation / মুদ্ৰাস্ফীতি
+B) Deflation / ডিফ্লেশ্বন (মুদ্ৰাসংকুচন)
+C) Stagflation / ষ্টেগফ্লেশ্বন
+D) Reflation / ৰিফ্লেশ্বন
+Ans: B
+
+3. When inflation is caused by sudden increase in international crude oil prices, it is an example of:
+
+আন্তঃৰাষ্ট্ৰীয় অপৰিশোধিত কঁচা তেলৰ মূল্য আকস্মিকভাৱে বৃদ্ধি পোৱাৰ ফলত হোৱা মুদ্ৰাস্ফীতি কিহৰ উদাহৰণ?
+A) Demand-Pull Inflation / চাহিদা বৃদ্ধি জনিত মুদ্ৰাস্ফীতি
+B) Cost-Push Inflation / ব্যয় বৃদ্ধি জনিত মুদ্ৰাস্ফীতি
+C) Hyperinflation / হাইপাৰইনফ্লেশ্বন
+D) Demand-Deficit Inflation / চাহিদা নাটনি জনিত মুদ্ৰাস্ফীতি
+Ans: B
+
+4. What is the effect of high inflation on the value of domestic currency?
+
+উচ্চ মুদ্ৰাস্ফীতিৰ দেশীয় মুদ্ৰাৰ মূল্যৰ ওপৰত কি প্ৰভাৱ পৰে?
+A) Value of currency increases / মুদ্ৰাৰ মূল্য বৃদ্ধি পায়
+B) Value of currency decreases / মুদ্ৰাৰ মূল্য হ্ৰাস পায়
+C) Value of currency remains unchanged / মুদ্ৰাৰ মূল্য অপৰিবৰ্তিত থাকে
+D) Currency value becomes zero immediately / মুদ্ৰাৰ মূল্য লগে লগে শূন্য হয়
+Ans: B
+
+5. The measure of inflation which covers all goods and services produced in an economy is:
+
+এক অৰ্থনীতিত উৎপাদিত সকলো সামগ্ৰী আৰু সেৱা সামৰি লোৱা মুদ্ৰাস্ফীতিৰ জোখ হ’ল:
+A) WPI / পাইকাৰী মূল্য সূচকাংক
+B) CPI / গ্ৰাহক মূল্য সূচকাংক
+C) GDP Deflator / জিডিপি ডিফ্লেটৰ
+D) Index of Industrial Production / ঔদ্যোগিক উৎপাদন সূচকাংক
+Ans: C
+
+6. How is the GDP Deflator calculated?
+
+জিডিপি ডিফ্লেটৰ (GDP Deflator) কেনেকৈ গণনা কৰা হয়?
+A) (Nominal GDP / Real GDP) * 100 / (নামমাত্ৰ জিডিপি / প্ৰকৃত জিডিপি) * 100
+B) (Real GDP / Nominal GDP) * 100 / (প্ৰকৃত জিডিপি / নামমাত্ৰ জিডিপি) * 100
+C) (Nominal GDP - Real GDP) * 100 / (নামমাত্ৰ জিডিপি - প্ৰকৃত জিডিপি) * 100
+D) (CPI / WPI) * 100 / (গ্ৰাহক মূল্য সূচকাংক / পাইকাৰী মূল্য সূচকাংক) * 100
+Ans: A
+
+7. Government policy of deliberately inducing mild inflation to revive a slumping economy is called:
+
+মন্থৰ হৈ পৰা অৰ্থনীতিৰ পুনৰুজ্জীৱনৰ বাবে চৰকাৰে ইচ্ছাকৃতভাৱে মৃদু মুদ্ৰাস্ফীতি সৃষ্টি কৰা নীতিটো কি?
+A) Stagflation / ষ্টেগফ্লেশ্বন
+B) Reflation / ৰিফ্লেশ্বন (Reflation)
+C) Disinflation / ডিজইনফ্লেশ্বন
+D) Deflation / ডিফ্লেশ্বন
+Ans: B
+
+8. Which type of inflation occurs when prices rise very slowly at a rate of 1% to 3% per annum?
+
+বছৰি 1% ৰ পৰা 3% ৰ লেহেমীয়াকৈ মূল্য বৃদ্ধি হ’লে তাক কি ধৰণৰ মুদ্ৰাস্ফীতি বোলা হয়?
+A) Creeping Inflation / ক্ৰিপিং (লাহে লাহে বগোৱা) মুদ্ৰাস্ফীতি
+B) Running Inflation / ৰানিং (দৌৰা) মুদ্ৰাস্ফীতি
+C) Hyperinflation / হাইপাৰইনফ্লেশ্বন
+D) Galloping Inflation / গ্যালোপিং মুদ্ৰাস্ফীতি
+Ans: A
+
+9. Bottle-neck Inflation is caused by:
+
+বটল-নেক ইনফ্লেশ্বন (Bottle-neck Inflation) কিহৰ বাবে হয়?
+A) Excess money supply / অত্যধিক মুদ্ৰাৰ যোগান
+B) Supply-side constraints and distribution disruptions / যোগান খণ্ডৰ বাধ্যবাধকতা আৰু বিতৰণ প্ৰক্ৰিয়াৰ ব্যাঘাত
+C) High wage demand by labor unions / শ্ৰমিক সংঘৰ উচ্চ মজুৰিৰ দাবী
+D) Deficit financing / নাটনি বিত্তীয় ব্যৱস্থা
+Ans: B
+
+10. Shrinkflation refers to:
+
+শ্ৰিংকফ্লেশ্বন (Shrinkflation) বুলিলে কি বুজায়?
+A) Reducing the price while keeping the product size same / সামগ্ৰীৰ আকাৰ একে ৰাখি মূল্য হ্ৰাস কৰা
+B) Reducing the product size while keeping the price same / সামগ্ৰীৰ মূল্য একে ৰাখি আকাৰ বা পৰিমাণ হ্ৰাস কৰা
+C) Sudden crash in market prices / বজাৰ মূল্যৰ আকস্মিক পতন
+D) Shrinking money supply by Central Bank / কেন্দ্ৰীয় বেংকৰ দ্বাৰা মুদ্ৰা যোগান সংকুচিত কৰা
+Ans: B
+
+11. Import of high-priced raw materials leading to domestic inflation is called:
+
+উচ্চ মূল্যৰ কেঁচামাল আমদানিৰ ফলত দেশীয় অৰ্থনীতিত হোৱা মুদ্ৰাস্ফীতিক কি বোলা হয়?
+A) Domestic Inflation / দেশীয় মুদ্ৰাস্ফীতি
+B) Imported Inflation / আমদানিকৃত মুদ্ৰাস্ফীতি (Imported Inflation)
+C) Exported Inflation / ৰপ্তানিকৃত মুদ্ৰাস্ফীতি
+D) Cost-benefit Inflation / ব্যয়-লাভ মুদ্ৰাস্ফীতি
+Ans: B
+
+12. What is the impact of inflation on fixed income group people?
+
+নিৰ্দিষ্ট আয়ৰ লোকসকলৰ ওপৰত মুদ্ৰাস্ফীতিৰ প্ৰভাৱ কি?
+A) They gain purchasing power / তেওঁলোকৰ ক্ৰয় ক্ষমতা বৃদ্ধি পায়
+B) They lose purchasing power / তেওঁলোকৰ ক্ৰয় ক্ষমতা হ্ৰাস পায়
+C) Their income increases proportionally / তেওঁলোকৰ আয় সমানুপাতিকভাৱে বৃদ্ধি পায়
+D) No effect on them / তেওঁলোকৰ ওপৰত কোনো প্ৰভাৱ নপৰে
+Ans: B
+
+13. Fiscal measures to control inflation include:
+
+মুদ্ৰাস্ফীতি নিয়ন্ত্ৰণৰ বাবে গ্ৰহণ কৰা ৰাজকোষীয় পদক্ষেপ (Fiscal Measures) ৰ ভিতৰত পৰে:
+A) Increasing Repo Rate / ৰেপো হাৰ বৃদ্ধি
+B) Reducing public expenditure and increasing taxes / ৰাজহুৱা ব্যয় হ্ৰাস আৰু কৰ বৃদ্ধি
+C) Selling securities in open market / মুকলি বজাৰত ছিকিউৰিটি বিক্ৰী
+D) Increasing Reverse Repo Rate / ৰিভাৰ্ছ ৰেপো হাৰ বৃদ্ধি
+Ans: B
+
+14. Which of the following is NOT included in the Wholesale Price Index (WPI) in India?
+
+ভাৰতত পাইকাৰী মূল্য সূচকাংকত (WPI) তলৰ কোনটো অন্তৰ্ভুক্ত কৰা নহয়?
+A) Primary Articles / প্ৰাথমিক সামগ্ৰী
+B) Fuel and Power / ইন্ধন আৰু শক্তি
+C) Manufactured Goods / উৎপাদিত সামগ্ৰী
+D) Services / সেৱা খণ্ড (Services)
+Ans: D
+
+15. The Monetary Policy Committee (MPC) in India consists of how many members?
+
+ভাৰতত মুদ্ৰানীতি সমিতি (MPC) কিমান জন সদস্যৰে গঠিত?
+A) 4 Members / 4 জন সদস্য
+B) 5 Members / 5 জন সদস্য
+C) 6 Members / 6 জন সদস্য
+D) 8 Members / 8 জন সদস্য
+Ans: C
+
+16. Who heads the Monetary Policy Committee (MPC) in India?
+
+ভাৰতত মুদ্ৰানীতি সমিতিৰ (MPC) নেতৃত্ব কোনে দিয়ে?
+A) Union Finance Minister / কেন্দ্ৰীয় বিত্তমন্ত্ৰী
+B) Governor of RBI / ৰিজাৰ্ভ বেংকৰ গৱৰ্ণৰ
+C) Finance Secretary / বিত্ত সচিব
+D) NITI Aayog Vice-Chairman / নীতি আয়োগৰ উপাধ্যক্ষ
+Ans: B
+
+17. A situation of high inflation alongside high economic growth is termed as:
+
+উচ্চ অৰ্থনৈতিক বিকাশৰ সমান্তৰালভাৱে হোৱা উচ্চ মুদ্ৰাস্ফীতিক কি বোলা হয়?
+A) Overheating of the economy / অৰ্থনীতি অতি উত্তপ্ত হোৱা (Overheating)
+B) Recession / মন্দাৱস্থা (Recession)
+C) Depression / বিষণ্নতা (Depression)
+D) Deflation / ডিফ্লেশ্বন
+Ans: A
+
+18. The phenomenon where wage increases lead to price increases, which in turn lead to further wage increases is called:
+
+মজুৰি বৃদ্ধিয়ে মূল্য বৃদ্ধি কৰা আৰু তাৰ ফলত পুনৰ মজুৰি বৃদ্ধি হোৱা চক্ৰীয় প্ৰক্ৰিয়াটোক কি বোলা হয়?
+A) Wage-Price Spiral / ৱেজ-প্ৰাইচ স্পাইৰেল (Wage-Price Spiral)
+B) Price Elasticity / মূল্য নমনীয়তা
+C) Inflationary Gap / মুদ্ৰাস্ফীতিৰ ব্যৱধান
+D) Cost Trajectory / ব্যয় গতিপথ
+Ans: A
+
+19. Inflationary Gap occurs when:
+
+মুদ্ৰাস্ফীতিৰ ব্যৱধান (Inflationary Gap) কেতিয়া সৃষ্টি হয়?
+A) Aggregate demand exceeds aggregate supply at full employment / পূৰ্ণ নিয়োগৰ অৱস্থাত মুঠ চাহিদা মুঠ যোগানতকৈ অধিক হ’লে
+B) Aggregate supply exceeds aggregate demand / মুঠ যোগান মুঠ চাহিদাতকৈ অধিক হ’লে
+C) Imports exceed exports / আমদানি ৰপ্তানিতকৈ অধিক হ’লে
+D) Government tax collection exceeds expenditure / চৰকাৰৰ কৰ সংগ্ৰহ ব্যয়তকৈ অধিক হ’লে
+Ans: A
+
+20. Deflationary Gap occurs when:
+
+ডিফ্লেশ্বনেৰী ব্যৱধান (Deflationary Gap) কেতিয়া সৃষ্টি হয়?
+A) Aggregate demand falls short of aggregate supply at full employment / পূৰ্ণ নিয়োগৰ অৱস্থাত মুঠ চাহিদা মুঠ যোগানতকৈ কম হ’লে
+B) Aggregate demand exceeds aggregate supply / মুঠ চাহিদা মুঠ যোগানতকৈ অধিক হ’লে
+C) Exports exceed imports / ৰপ্তানি আমদানিতকৈ অধিক হ’লে
+D) Money supply increases rapidly / মুদ্ৰা যোগান দ্ৰুতগতিত বৃদ্ধি হ’লে
+Ans: A

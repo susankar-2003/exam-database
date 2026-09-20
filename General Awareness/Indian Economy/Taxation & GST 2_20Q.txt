@@ -1,0 +1,179 @@
+1. What is the combined voting weight of all State Governments together in the GST Council?
+
+GST পৰিষদত সকলো ৰাজ্য চৰকাৰৰ একত্ৰিত ভোটিং ক্ষমতা কিমান?
+A) One-third of total votes / মুঠ ভোটৰ এক-তৃতীয়াংশ (1/3)
+B) One-half of total votes / মুঠ ভোটৰ আধাশাংশ (1/2)
+C) Two-thirds of total votes / মুঠ ভোটৰ দুই-তৃতীয়াংশ (2/3)
+D) Three-fourths of total votes / মুঠ ভোটৰ তিনি-চতুৰ্থাংশ (3/4)
+Ans: C
+
+2. What weighted majority is required for the GST Council to take any decision during a meeting?
+
+GST পৰিষদৰ বৈঠকত কোনো সিদ্ধান্ত গ্ৰহণ কৰিবলৈ কিমান সংখ্যক মেজৰিটী বা ভোটৰ প্ৰয়োজন?
+A) Simple Majority (50%) / সাধাৰণ সংখ্যাগৰিষ্ঠতা (50%)
+B) Two-thirds Majority (66.6%) / দুই-তৃতীয়াংশ (66.6%)
+C) Three-fourths Majority (75%) / তিনি-চতুৰ্থাংশ (75%)
+D) Unanimous Approval (100%) / সৰ্বসন্মতিক্ৰমে (100%)
+Ans: C
+
+3. Which non-profit, private-led company manages the IT infrastructure for GST in India?
+
+ভাৰতত GST ৰ আই টি (IT) আন্তঃগাঁথনি পৰিচালনা কৰা নাভালাভজনক প্ৰতিষ্ঠানটোৰ নাম কি?
+A) National Informatics Centre (NIC) / নেচনেল ইনফৰ্মেটিক্স চেন্টাৰ (NIC)
+B) Goods and Services Tax Network (GSTN) / গুডছ এণ্ড চাৰ্ভিচেছ টেক্স নেটৱৰ্ক (GSTN)
+C) NITI Aayog / নীতি আয়োগ
+D) Tax Information Network (TIN) / টেক্স ইনফৰ্মেশ্বন নেটৱৰ্ক (TIN)
+Ans: B
+
+4. What does 'HSN' code stand for under the GST regime for classifying goods?
+
+GST ব্যৱস্থাত সামগ্ৰীৰ শ্ৰেণীবিভাজনৰ বাবে ব্যৱহৃত 'HSN' ক’ডৰ সম্পূৰ্ণ ৰূপ কি?
+A) Harmonized System of Nomenclature / হাৰমোনাইজড চিষ্টেম অফ নোমেনক্লেচাৰ
+B) High Speed Network / হাই স্পীড নেটৱৰ্ক
+C) Harmonized Sales Number / হাৰমোনাইজড চেলছ নম্বৰ
+D) System of National Harmonization / চিষ্টেম অফ নেচনেল হাৰমোনাইজেশ্বন
+Ans: A
+
+5. What is the full form of 'SAC' used for service classification under GST?
+
+GST ৰ অধীনত সেৱাৰ শ্ৰেণীবিভাজনৰ বাবে ব্যৱহৃত 'SAC' ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Service Accounting Code / চাৰ্ভিছ একাউন্টিং ক’ড
+B) System Accounting Code / চিষ্টেম একাউন্টিং ক’ড
+C) Service Assessment Code / চাৰ্ভিছ এছেছমেন্ট ক’ড
+D) Standard Advisory Code / ষ্টেণ্ডাৰ্ড এডভাইজৰী ক’ড
+Ans: A
+
+6. Which type of tax is an Income Tax in India?
+
+ভাৰতত আয়কৰ (Income Tax) কি প্ৰকাৰৰ কৰ?
+A) Indirect and Regressive Tax / পৰোক্ষ আৰু পশ্চাৎমুখী কৰ
+B) Direct and Progressive Tax / প্ৰত্যক্ষ আৰু প্ৰগতিশীল কৰ
+C) Proportional Tax / সমানুপাতিক কৰ
+D) Indirect and Progressive Tax / পৰোক্ষ আৰু প্ৰগতিশীল কৰ
+Ans: B
+
+7. A tax where the tax rate increases as the taxable amount increases is known as:
+
+কৰযোগ্য আয় বৃদ্ধিৰ লগে লগে কৰৰ হাৰ বৃদ্ধি পোৱা কৰ ব্যৱস্থাক কি বোলা হয়?
+A) Regressive Tax / পশ্চাৎমুখী কৰ
+B) Progressive Tax / প্ৰগতিশীল কৰ
+C) Proportional Tax / সমানুপাতিক কৰ
+D) Flat Tax / ফ্লেট কৰ
+Ans: B
+
+8. A tax which imposes a higher percentage burden on low-income earners than on high-income earners is called:
+
+উচ্চ আয়কাৰীতকৈ কম আয়ৰ লোকসকলৰ ওপৰত অধিক বোজা জাপি দিয়া কৰ ব্যৱস্থাক কি বোলা হয়?
+A) Progressive Tax / প্ৰগতিশীল কৰ
+B) Regressive Tax / পশ্চাৎমুখী কৰ
+C) Direct Tax / প্ৰত্যক্ষ কৰ
+D) Specific Tax / নিৰ্দিষ্ট কৰ
+Ans: B
+
+9. Corporation tax in India is levied on:
+
+ভাৰতত নিগম কৰ (Corporation Tax) কাৰ ওপৰত আৰোপ কৰা হয়?
+A) Agricultural Income / কৃষি আয়ৰ ওপৰত
+B) Net income and profits of companies / কোম্পানীসমূহৰ শুদ্ধ আয় আৰু লাভৰ ওপৰত
+C) Individual salaries / ব্যক্তিবিশেষৰ দৰমহাৰ ওপৰত
+D) Import of luxury products / বিলাসী সামগ্ৰীৰ আমদানিত
+Ans: B
+
+10. Under the Indian Constitution, which schedule divides tax levying powers between the Union and States?
+
+ভাৰতীয় সংবিধানৰ কোনটো অনুসূচীয়ে কেন্দ্ৰ আৰু ৰাজ্যৰ মাজত কৰ আৰোপৰ ক্ষমতা বিভক্ত কৰে?
+A) Fifth Schedule / পঞ্চম অনুসূচী
+B) Seventh Schedule / সপ্তম অনুসূচী
+C) Ninth Schedule / নবম অনুসূচী
+D) Eleventh Schedule / একাদশ অনুসূচী
+Ans: B
+
+11. Taxes on agricultural income in India are levied and collected solely by:
+
+ভাৰতত কৃষি আয়ৰ ওপৰত কৰ আৰোপ আৰু সংগ্ৰহ সম্পূৰ্ণৰূপে কোনে কৰে?
+A) Central Government / কেন্দ্ৰীয় চৰকাৰ
+B) State Government / ৰাজ্য চৰকাৰ
+C) Local Municipalities / স্থানীয় পৌৰসভা
+D) Reserve Bank of India / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া
+Ans: B
+
+12. Under which Article of the Constitution is the Finance Commission constituted to recommend tax devolution?
+
+কৰ ৰাজহ বিতৰণৰ চুপাৰিছৰ বাবে সংবিধানৰ কোনটো অনুচ্ছেদৰ অধীনত বিত্ত আয়োগ গঠন কৰা হয়?
+A) Article 270 / অনুচ্ছেদ 270
+B) Article 275 / অনুচ্ছেদ 275
+C) Article 280 / অনুচ্ছেদ 280
+D) Article 300 / অনুচ্ছেদ 300
+Ans: C
+
+13. Which Finance Commission in India recommended a 41% share of central taxes for states?
+
+ভাৰতৰ কোনটো বিত্ত আয়োগে কেন্দ্ৰীয় কৰৰ 41% অংশ ৰাজ্যসমূহলৈ স্থানান্তৰৰ চুপাৰিছ কৰিছিল?
+A) 13th Finance Commission / 13 তম বিত্ত আয়োগ
+B) 14th Finance Commission / 14 তম বিত্ত আয়োগ
+C) 15th Finance Commission / 15 তম বিত্ত আয়োগ
+D) 12th Finance Commission / 12 তম বিত্ত আয়োগ
+Ans: C
+
+14. Who was the Chairman of the 15th Finance Commission of India?
+
+ভাৰতৰ 15 তম বিত্ত আয়োগৰ অধ্যক্ষ কোন আছিল?
+A) N.K. Singh / এন. কে. সিং
+B) Y.V. Reddy / ওয়াই. ভি. ৰেড্ডী
+C) Vijay Kelkar / বিজয় কেলকৰ
+D) C. Rangarajan / চি. ৰংগৰাজন
+Ans: A
+
+15. What is 'Input Tax Credit' (ITC) under the GST framework?
+
+GST ব্যৱস্থাৰ অধীনত 'ইনপুট টেক্স ক্ৰেডিট' (ITC) মানে কি?
+A) Tax rebate on export of goods / সামগ্ৰী ৰপ্তানিত কৰ ৰেহাই
+B) Credit for tax paid on inputs/purchases against tax liability on outputs / সামগ্ৰী বিক্ৰীৰ কৰ পৰিশোধৰ সময়ত পূৰ্বে ক্ৰয় কৰা সামগ্ৰীত দিয়া কৰৰ ৰেহাই
+C) Special subsidy given by Government / চৰকাৰে দিয়া বিশেষ ৰাজসাহায্য
+D) Tax exemption for small businesses / ক্ষুদ্ৰ ব্যৱসায়ীৰ বাবে কৰ ৰেহাই
+Ans: B
+
+16. Cascading effect of tax refers to:
+
+কৰৰ কাস্কেডিং প্ৰভাৱ (Cascading effect of tax) বুলিলে কি বুজায়?
+A) Tax evasion / কৰ ফাঁকি
+B) Tax on tax (compounding of tax) / কৰৰ ওপৰত কৰ আৰোপ
+C) Reduction in tax rates / কৰৰ হাৰ হ্ৰাস
+D) Delay in tax payment / কৰ পৰিশোধত বিলম্ব
+Ans: B
+
+17. Which statutory body regulates direct taxes in India?
+
+ভাৰতত প্ৰত্যক্ষ কৰ নিয়ন্ত্ৰণ কৰা বৈধানিক সংস্থাটো কোনটো?
+A) Central Board of Direct Taxes (CBDT) / চেন্ট্ৰেল বোৰ্ড অফ ডাইৰেক্ট টেক্সেছ (CBDT)
+B) Central Board of Indirect Taxes and Customs (CBIC) / চেন্ট্ৰেল বোৰ্ড অফ ইনডাইৰেক্ট টেক্সেছ এণ্ড কাস্টমছ (CBIC)
+C) Enforcement Directorate (ED) / এনফোৰ্চমেন্ট ডাইৰেক্টৰেট (ED)
+D) Securities and Exchange Board of India (SEBI) / চেবী (SEBI)
+Ans: A
+
+18. Which statutory body is responsible for administering indirect taxes, customs, and GST in India?
+
+ভাৰতত পৰোক্ষ কৰ, শুল্ক (Customs) আৰু GST পৰিচালনাৰ বাবে দায়বদ্ধ প্ৰতিষ্ঠানটো কি?
+A) CBDT
+B) CBIC
+C) ED
+D) NITI Aayog / নীতি আয়োগ
+Ans: B
+
+19. What is an e-Way Bill under the GST system?
+
+GST ব্যৱস্থাৰ অধীনত e-Way Bill কি?
+A) Digital receipt for income tax return / আয়কৰ ৰিটাৰ্নৰ ডিজিটেল ৰচিদ
+B) Electronically generated document required for movement of goods worth over Rs 50,000 / 50,000 টকাতকৈ অধিক মূল্যৰ সামগ্ৰী পৰিবহণৰ বাবে প্ৰয়োজনীয় ডিজিটেল নথিপত্ৰ
+C) Bill issued by banks for loan approval / ঋণ মঞ্জুৰীৰ বাবে বেংকে দিয়া বিল
+D) Electricity bill payment slip / বিদ্যুৎ বিল পৰিশোধৰ ৰচিদ
+Ans: B
+
+20. An e-Way bill under GST is mandatory for inter-state transportation of goods when value exceeds:
+
+সামগ্ৰীৰ আন্তঃৰাজ্যিক পৰিবহণৰ ক্ষেত্ৰত মূল্য কিমান টকাতকৈ অধিক হ’লে e-Way Bill বাধ্যতামূলক?
+A) Rs 10,000 / 10,000 টকা
+B) Rs 20,000 / 20,000 টকা
+C) Rs 50,000 / 50,000 টকা
+D) Rs 1,000,000 / 1,00,000 টকা
+Ans: C

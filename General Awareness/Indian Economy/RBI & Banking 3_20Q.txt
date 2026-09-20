@@ -1,0 +1,179 @@
+1. Priority Sector Lending (PSL) target for domestic commercial banks in India is what percentage of ANBC?
+
+ভাৰতৰ দেশীয় বাণিজ্যিক বেংকসমূহৰ বাবে অগ্ৰাধিকাৰ প্ৰাপ্ত খণ্ডৰ ঋণৰ (PSL) লক্ষ্য ANBC ৰ কিমান শতাংশ?
+A) 20%
+B) 30%
+C) 40%
+D) 50%
+Ans: C
+
+2. Which sector is NOT included under Priority Sector Lending (PSL) norms?
+
+তলৰ কোনটো খণ্ড অগ্ৰাধিকাৰ প্ৰাপ্ত খণ্ডৰ ঋণৰ (PSL) আওতাত নপৰে?
+A) Agriculture / কৃষি
+B) Micro, Small and Medium Enterprises / অণুক, ক্ষুদ্ৰ আৰু মজলীয়া উদ্যোগ
+C) Luxury Housing / বিলাসী গৃহ নিৰ্মাণ
+D) Education / শিক্ষা
+Ans: C
+
+3. In which year was the Banking Ombudsman Scheme first introduced in India?
+
+ভাৰতত বেংকিং লোকপাল আঁচনি (Banking Ombudsman Scheme) প্ৰথমবাৰৰ বাবে কোন চনত কাৰ্যকৰী কৰা হৈছিল?
+A) 1991
+B) 1995
+C) 2005
+D) 2010
+Ans: B
+
+4. Which is the first Payments Bank to start operations in India?
+
+ভাৰতত কাৰ্যক্ষম হোৱা প্ৰথমটো পেমেন্টছ বেংক (Payments Bank) কোনটো?
+A) Paytm Payments Bank / পেটিএম পেমেন্টছ বেংক
+B) Airtel Payments Bank / এয়াৰটেল পেমেন্টছ বেংক
+C) India Post Payments Bank / ইণ্ডিয়া প’ষ্ট পেমেন্টছ বেংক
+D) Fino Payments Bank / ফিন’ পেমেন্টছ বেংক
+Ans: B
+
+5. What is the maximum balance limit per individual customer in a Payments Bank as mandated by RBI?
+
+RBI ৰ নিয়ম অনুসৰি পেমেন্টছ বেংকত এজন ব্যক্তিৰ সৰ্বোচ্চ জমাকৰণৰ সীমা কিমান?
+A) Rs 50,000 / 50,000 টকা
+B) Rs 1 Lakh / 1 লাখ টকা
+C) Rs 2 Lakh / 2 লাখ টকা
+D) Rs 5 Lakh / 5 লাখ টকা
+Ans: C
+
+6. Can a Payments Bank issue credit cards to its customers?
+
+পেমেন্টছ বেংকে ইয়াৰ গ্ৰাহকসকলক ক্ৰেডিট কাৰ্ড প্ৰদান কৰিব পাৰেনে?
+A) Yes / পাৰে
+B) No / নোৱাৰে
+C) Yes, with RBI permission / পাৰে, RBI ৰ অনুমতি সাপেক্ষে
+D) Only to corporate customers / কেৱল কৰ্পোৰেট গ্ৰাহকসকলক
+Ans: B
+
+7. What does 'NPCI' stand for in the Indian digital payment system?
+
+ভাৰতীয় ডিজিটেল পৰিশোধ ব্যৱস্থাত 'NPCI' ৰ সম্পূৰ্ণ ৰূপ কি?
+A) National Payment Corporation of India / নেচনেল পেমেন্ট কৰ্পোৰেচন অফ ইণ্ডিয়া
+B) National Public Credit Institution / নেচনেল পাব্লিক ক্ৰেডিট ইনষ্টিটিউচন
+C) New Payment Control Initiative / নিউ পেমেন্ট কন্ট্ৰ’ল ইনিছিয়েটিভ
+D) National Banking Products Commission / নেচনেল বেংকিং প্ৰডাক্টছ কমিছন
+Ans: A
+
+8. In which year was the Unified Payments Interface (UPI) launched by NPCI?
+
+NPCI ৰ দ্বাৰা ইউনিফাইড পেমেন্টছ ইন্টাৰফেচ (UPI) কোন চনত মুকলি কৰা হৈছিল?
+A) 2014
+B) 2016
+C) 2018
+D) 2020
+Ans: B
+
+9. What is the full form of 'CTS' related to cheque clearance in banks?
+
+বেংকত চে็ค নিষ্কাশনৰ সৈতে জৰিত 'CTS' ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Cheque Truncation System / চে็ค ট্রাংকেশ্বন চিষ্টেম
+B) Cheque Transfer Society / চে็ค ট্ৰান্সফাৰ চচাইটি
+C) Central Transaction System / চেন্ট্ৰেল ট্রানজেকশ্বন চিষ্টেম
+D) Cash Tracking Service / কেছ ট্ৰ্যাকিং চাৰ্ভিছ
+Ans: A
+
+10. What is the full form of 'NEFT'?
+
+'NEFT' ৰ সম্পূৰ্ণ ৰূপ কি?
+A) National Electronic Funds Transfer / নেচনেল ইলেক্ট্ৰনিক ফাণ্ডছ ট্ৰান্সফাৰ
+B) National Emergency Financial Transfer / নেচনেল ইমাৰ্জেন্সী ফাইনেঞ্চিয়েল ট্ৰান্সফাৰ
+C) Net Electronic Financial Exchange / নেট ইলেক্ট্ৰনিক ফাইনেঞ্চিয়েল এক্সচেঞ্জ
+D) National Exchange for Fund Trade / নেচনেল এক্সচেঞ্জ ফৰ ফাণ্ড ট্রেড
+Ans: A
+
+11. What is the minimum limit for money transfer through RTGS (Real Time Gross Settlement)?
+
+RTGS ৰ জৰিয়তে ধন স্থানান্তৰ কৰাৰ ন্যূনতম সীমা কিমান?
+A) No minimum limit / কোনো ন্যূনতম সীমা নাই
+B) Rs 1 Lakh / 1 লাখ টকা
+C) Rs 2 Lakh / 2 লাখ টকা
+D) Rs 5 Lakh / 5 লাখ টকা
+Ans: C
+
+12. What is the alphanumeric 11-digit code used to identify a specific bank branch in India?
+
+ভাৰতত এখন বিশেষ বেংক শাখা চিনাক্ত কৰিবলৈ ব্যৱহাৰ কৰা 11 টা আখৰ আৰু সংখ্যাযুক্ত ক’ডটোক কি বোলা হয়?
+A) MICR Code / MICR ক’ড
+B) IFSC Code / IFSC ক’ড
+C) SWIFT Code / SWIFT ক’ড
+D) PAN
+Ans: B
+
+13. How many digits are present in a MICR code printed at the bottom of a cheque?
+
+চে็คৰ তলফালে ছপা থকা MICR ক’ডত কিমানটা সংখ্যা থাকে?
+A) 9 digits / 9 টা সংখ্যা
+B) 11 digits / 11 টা সংখ্যা
+C) 12 digits / 12 টা সংখ্যা
+D) 16 digits / 16 টা সংখ্যা
+Ans: A
+
+14. What are non-performing assets (NPAs) in commercial banks?
+
+বাণিজ্যিক বেংকৰ ক্ষেত্ৰত অকাৰ্যকৰী সম্পদ (NPA) মানে কি?
+A) Assets giving high interest / উচ্চ সুত প্ৰদান কৰা সম্পদ
+B) Loans/advances overdue for more than 90 days / 90 দিনতকৈ অধিক সময় অনাদায়ী হৈ থকা ঋণ
+C) Investment in government gold bonds / চৰকাৰী সোণৰ বণ্ডত বিনিয়োগ
+D) Fixed assets like bank buildings / বেংক ভৱনৰ দৰে স্থাৱৰ সম্পত্তি
+Ans: B
+
+15. Basel Norms are global regulatory frameworks related to which sector?
+
+বেচেল নীতিসমূহ (Basel Norms) কোনটো খণ্ডৰ সৈতে জৰিত গোলকীয় নিয়ন্ত্ৰণ কাঠামো?
+A) Agriculture / কৃষি খণ্ড
+B) Banking Sector / বেংকিং খণ্ড
+C) Telecom Sector / টেলিকম খণ্ড
+D) Insurance Sector / বীমা খণ্ড
+Ans: B
+
+16. Where are the headquarters of the Bank for International Settlements (BIS) located?
+
+বেংক ফৰ ইণ্টাৰনেচনেল চেটেলমেন্টছ (BIS) ৰ মুখ্য কাৰ্যালয় ক’ত অৱস্থিত?
+A) Geneva, Switzerland / জেনেভা, চুইজাৰলেণ্ড
+B) Basel, Switzerland / বেচেল, চুইজাৰলেণ্ড
+C) London, UK / লণ্ডন, যুক্তৰাজ্য
+D) Washington D.C., USA / ৱাশ্বিংটন ডি.চি., আমেৰিকা
+Ans: B
+
+17. Which mechanism allows banks to borrow funds overnight from RBI in emergency situations above the SLR limit?
+
+জৰুৰীকালীন অৱস্থাত বেংকসমূহে SLR সীমাৰ ওপৰতো নিশাৰ ভিতৰতে RBI ৰ পৰা ধন ঋণ ল’বলৈ ব্যৱহাৰ কৰা সুবিধাক কি বোলা হয়?
+A) Repo Rate / ৰিপ’ ৰেট
+B) Marginal Standing Facility (MSF) / মাৰ্জিনেল ষ্টেণ্ডিং ফেচিলিটি
+C) Reverse Repo Rate / ৰিভাৰ্ছ ৰিপ’ ৰেট
+D) Bank Rate / বেংক ৰেট
+Ans: B
+
+18. What is the main objective of 'Prompt Corrective Action' (PCA) framework enforced by RBI?
+
+RBI এ কাৰ্যকৰী কৰা 'প্রম্পট কাৰেক্টিভ এক্সন' (PCA) ৰ মূল উদ্দেশ্য কি?
+A) To close loss-making private banks / লোকচানত থকা ব্যক্তিগত বেংক বন্ধ কৰা
+B) To monitor and improve financial health of weak banks / দুৰ্বল বেংকসমূহৰ বিত্তীয় স্বাস্থ্য নিৰীক্ষণ আৰু উন্নত কৰা
+C) To fix loan interest rates / ঋণৰ সুতৰ হাৰ নিৰ্ধাৰণ কৰা
+D) To print more paper currency / অধিক কাগজী মুদ্ৰা ছপা কৰা
+Ans: B
+
+19. Which is the first fully Indian-managed bank established in 1894?
+
+1894 চনত সম্পূৰ্ণভাৱে ভাৰতীয় পৰিচালনাৰে প্ৰতিষ্ঠা হোৱা প্ৰথমটো বেংক কোনটো?
+A) Punjab National Bank / পঞ্জাৱ নেচনেল বেংক
+B) Bank of India / বেংক অফ ইণ্ডিয়া
+C) Central Bank of India / চেন্ট্ৰেল বেংক অফ ইণ্ডিয়া
+D) Oudh Commercial Bank / ঔধ কমাৰ্চিয়েল বেংক
+Ans: A
+
+20. Who acts as the 'Lender of Last Resort' in the Indian banking system?
+
+ভাৰতীয় বেংকিং ব্যৱস্থাত কোনে 'সৰ্বশেষ ঋণদাতা' (Lender of Last Resort) হিচাপে কাম কৰে?
+A) State Bank of India / ষ্টেট বেংক অফ ইণ্ডিয়া
+B) Reserve Bank of India / ভাৰতীয় ৰিজাৰ্ভ বেংক
+C) Government of India / ভাৰত চৰকাৰ
+D) NABARD
+Ans: B

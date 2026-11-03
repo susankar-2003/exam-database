@@ -199,7 +199,7 @@ C) going
 D) gone
 Ans: B
 
-24. Identify the error: 'She _ not know the answer.'
+24. Fill in the blank: 'She _ not know the answer.'
 A) She
 B) do
 C) know
@@ -414,7 +414,7 @@ A, B-তকৈ ওখ। B, C-তকৈ ওখ। আটাইতকৈ চা�
 A) A
 B) B
 C) C
-D) None of this
+D) None of these
 Ans: C
 
 49. Find the missing term: AZ, BY, CX, DW, ?
@@ -453,9 +453,9 @@ C) N
 D) O
 Ans: C
 
-53. If 5 + 3 = 28 and 6 + 2 = 40 under a certain rule, then 7 + 4 = ?
+53. If 5 + 3 = 34 and 6 + 2 = 40 under a certain rule, then 7 + 4 = ?
 
-এটা নিৰ্দিষ্ট নিয়ম অনুসৰি যদি ৫ + ৩ = ২৮ আৰু ৬ + ২ = ৪০, তেন্তে ৭ + ৪ = ?
+এটা নিৰ্দিষ্ট নিয়ম অনুসৰি যদি ৫ + ৩ = ৩৪ আৰু ৬ + ২ = ৪০, তেন্তে ৭ + ৪ = ?
 A) 33
 B) 44
 C) 77
@@ -477,7 +477,7 @@ Ans: A
 A) ECILOP
 B) POLICE
 C) ECIPOL
-D) None of this
+D) None of these
 Ans: D
 
 56. Choose the word that does not belong with the others:
@@ -589,12 +589,12 @@ C) Teesta
 D) Subansiri
 Ans: B
 
-65. The capital of andaman and nicobar islands is:
+65. The capital of Andaman and Nicobar islands is:
 
 আন্দামান আৰু নিকোবাৰ দ্বীপৰ ৰাজধানী হ’ল-
 A) Ranchi
 B) Jakarta
-C) Bankok
+C) Bangkok
 D) Port Blair
 Ans: D
 
@@ -627,7 +627,7 @@ Ans: A
 
 69. Kathakali is a classical dance form associated with:
 
-কঠাকালী কোনখন ৰাজ্যৰ সৈতে জড়িত এক শাস্ত্ৰীয় নৃত্যশৈলী?
+কথাকলি কোনখন ৰাজ্যৰ সৈতে জড়িত এক শাস্ত্ৰীয় নৃত্যশৈলী?
 A) Assam
 B) Odisha
 C) Kerala
@@ -661,7 +661,7 @@ C) Elephant
 D) Golden langur
 Ans: B
 
-73. Which was the first Assamese language Magazine:
+73. Which was the first Assamese language Magazine?
 
 প্ৰথম অসমীয়া ভাষাৰ আলোচনী কোনখন আছিল ?
 A) Chitra Chinta
@@ -784,7 +784,7 @@ Ans: B
 A) Won
 B) Yuan
 C) Yen
-D) Rupeh
+D) Rupee
 Ans: C
 
 87. Which gas is most abundant in Earth's atmosphere?

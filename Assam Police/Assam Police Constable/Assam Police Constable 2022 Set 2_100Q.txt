@@ -209,7 +209,7 @@ Q - A student has to pass in both Mathematics and Science to be promoted. How ma
 এজন ছাত্ৰই পৰৱৰ্তী শ্ৰেণীলৈ উত্তীৰ্ণ হ’বলৈ গণিত আৰু বিজ্ঞান দুয়োটা বিষয়তে উত্তীৰ্ণ হ’ব লাগিব। কিমানজন ছাত্ৰ পৰৱৰ্তী শ্ৰেণীলৈ উত্তীৰ্ণ হ’ব?)
 
 (I) There were total 100 students in the class. / শ্ৰেণীটোত মুঠ ১০০ জন ছাত্ৰ-ছাত্ৰী আছে।
-(II) 30 students passed in Math and 80 passed in Science. / ৩০ জন গণিতত আৰু ৮০ জন বিজ্ঞাৰত উত্তীৰ্ণ হৈছে।
+(II) 30 students passed in Math and 80 passed in Science. / ৩০ জন গণিতত আৰু ৮০ জন বিজ্ঞানত উত্তীৰ্ণ হৈছে।
 A) If the data in statement (I) alone is sufficient / কেৱল (I)-ৰ তথ্যই পৰ্যাপ্ত।
 B) If the data in statement (II) alone is sufficient / কেৱল (II)-ৰ তথ্যই পৰ্যাপ্ত।
 C) If the data in both (I) and (II) together are necessary / (I) আৰু (II) দুয়োটাৰ তথ্য প্ৰয়োজন।
@@ -253,9 +253,9 @@ C) 18 Feb
 D) 19 Feb
 Ans: B
 
-15. A boy was asked to write  but he wrote 2592. What is the numerical difference between the two?
+15. A boy was asked to write 2^5 x 9^2 but he wrote 2592. What is the numerical difference between the two?
 
-এজন ল’ৰাক লিখিবলৈ কোৱা হৈছিল, কিন্তু তেওঁ 2592 লিখিলে। দুয়োটাৰ মাজৰ সংখ্যাগত পাৰ্থক্য কিমান?
+এজন ল’ৰাক 2^5 x 9^2 লিখিবলৈ কোৱা হৈছিল, কিন্তু তেওঁ 2592 লিখিলে। দুয়োটাৰ মাজৰ সংখ্যাগত পাৰ্থক্য কিমান?
 A) 1
 B) 0
 C) 3
@@ -314,7 +314,7 @@ A) 198
 B) 112
 C) 96
 D) 84
-Ans: C
+Ans: B
 
 22. 675 was divided among 75 students. Each boy gets 20 and each girl gets 5. How many girls are there among the students?
 
@@ -325,7 +325,7 @@ C) 50
 D) 37
 Ans: B
 
-23. Two men start together to walk certain distance, one at  and another at . The former arrives half an hour before the later. Find the distance.
+23. Two men start together to walk certain distance, one at 4km/hr and another at 3km/hr. The former arrives half an hour before the later. Find the distance.
 
 দুজন মানুহে একেলগে এটা নিৰ্দিষ্ট দূৰত্বলৈ খোজ কাঢ়িবলৈ আৰম্ভ কৰিলে। এজনৰ গতি ৪ কিমি/ঘণ্টা আৰু আনজনৰ গতি ৩ কিমি/ঘণ্টা। প্ৰথমজন দ্বিতীয়জনতকৈ আধা ঘণ্টা আগতে গৈ উপস্থিত হ’ল। দূৰত্বটো কিমান?
 A) 8 km
@@ -454,7 +454,7 @@ Ans: D
 37. How many members can be nominated to the Lok Sabha by the President of India?
 
 ভাৰতৰ ৰাষ্ট্ৰপতিয়ে লোকসভালৈ কিমানজন সদস্য মনোনীত কৰিব পাৰে?
-A) 2
+A) 0
 B) 12
 C) 14
 D) 7
@@ -465,9 +465,9 @@ Ans: A
 লোকসভাত অনুসূচিত জাতি (SC) আৰু অনুসূচিত জনজাতি (ST)-ৰ বাবে সংৰক্ষিত মুঠ আসনৰ সংখ্যা কিমান?
 A) 69 and 30
 B) 79 and 40
-C) 89 and 50
+C) 84 and 47
 D) Varies after every General Election / প্ৰতিটো সাধাৰণ নিৰ্বাচনৰ পিছত সলনি হয়
-Ans: D
+Ans: C
 
 39. Vice-President of India is the head of-
 
@@ -481,10 +481,10 @@ Ans: B
 40. International Date line refers to
 
 আন্তঃৰাষ্ট্ৰীয় তাৰিখ ৰেখা (International Date Line) কিহৰ সৈতে জড়িত?
-A)  Longitude / ০° দ্ৰাঘিমাংশ
-B)  E Longitude/ ৯০° পূব দ্ৰাঘিমাংশ
+A) 0° Longitude / ০° দ্ৰাঘিমাংশ
+B) 90° E Longitude/ ৯০° পূব দ্ৰাঘিমাংশ
 C) Equator / বিষুৱৰেখা
-D)  Longitude / ১৮০° দ্ৰাঘিমাংশ
+D) 180° Longitude / ১৮০° দ্ৰাঘিমাংশ
 Ans: D
 
 41. The Planet nearest to Sun is

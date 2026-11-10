@@ -28,7 +28,7 @@ Ans: A
 4. A and B start a business with capitals in ratio 4 : 5. If 10% of profit is kept in reserve fund and remaining is distributed, A gets Rs. 3,600. Find total profit.
 
 A আৰু B এ 4 : 5 অনুপাতত মূলধন বিনিয়োগ কৰে। যদি 10% লাভ সংৰক্ষিত পুঁজিলৈ নি বাকীখিনি ভাগ কৰা হয়, A এ 3,600 টকা পায়। মুঠ লাভ নিৰ্ণয় কৰক।
-A) Rs. 8,100 / 8, 100 টকা
+A) Rs. 8,100 / 8,100 টকা
 B) Rs. 9,000 / 9,000 টকা
 C) Rs. 10,000 / 10,000 টকা
 D) Rs. 9,500 / 9,500 টকা
@@ -36,7 +36,7 @@ Ans: B
 
 5. A, B, and C share profits in ratio 2 : 3 : 7. If total profit is Rs. 14,400, what is the difference between C's share and A's share?
 
-A, B, আৰু C এ 2 : 3 : 7 অনুপাতত লাভ ভাগ কৰে। যদি মুঠ লাভ 14, 400 টকা হয়, তেন্তে C ৰ অংশ আৰু A ৰ অংশৰ পাৰ্থক্য কিমান?
+A, B, আৰু C এ 2 : 3 : 7 অনুপাতত লাভ ভাগ কৰে। যদি মুঠ লাভ 14,400 টকা হয়, তেন্তে C ৰ অংশ আৰু A ৰ অংশৰ পাৰ্থক্য কিমান?
 A) Rs. 6,000 / 6,000 টকা
 B) Rs. 3,600 / 3,600 টকা
 C) Rs. 2,400 / 2,400 টকা
@@ -214,11 +214,11 @@ C) Rs. 5,625 / 5,625 টকা
 D) Rs. 6,000 / 6,000 টকা
 Ans: A
 
-25. Refer to the partnership profit distribution diagram below: What is B's profit percentage? [IMG: profit_dist_q50.png]
+25. A, B, and C invested Rs. 15,000, Rs. 20,000, and Rs. 25,000 respectively in a business. If the total profit at the end of the year is Rs. 12,000, what is the difference between the shares of C and A?
 
-তলৰ অংশীদৰী লাভ বণ্টন চিত্রটো চাওক: B ৰ লাভৰ শতাংশ কিমান? [IMG: profit_dist_q50.png]
-A) 40%
-B) 35%
-C) 25%
-D) 30%
+A, B আৰু C এ এটা ব্যৱসায়ত ক্ৰমে 15,000 টকা, 20,000 টকা আৰু 25,000 টকা বিনিয়োগ কৰে। বছৰৰ অন্তত মুঠ লাভ 12,000 টকা হ'লে, C আৰু A ৰ লাভৰ অংশৰ পাৰ্থক্য কিমান?
+A) Rs. 1,000 / 1,000 টকা
+B) Rs. 2,000 / 2,000 টকা
+C) Rs. 1,500 / 1,500 টকা
+D) Rs. 2,500 / 2,500 টকা
 Ans: B

@@ -1,10 +1,10 @@
 1. Find the LCM of 2/5, 6/25, and 8/15.
 
 2/5, 6/25, আৰু 8/15 ৰ ল.সা.গু. নিৰ্ণয় কৰা।
-A) 12/5 / 12/5
-B) 24/5 / 24/5
-C) 48/5 / 48/5
-D) 24/25 / 24/25
+A) 12/5
+B) 24/5
+C) 48/5
+D) 24/25
 Ans: B
 
 2. If the product of two numbers is 845 and their HCF is 13, find their LCM.
@@ -190,7 +190,7 @@ Ans: B
 22. Find the least number which when doubled becomes exactly divisible by 12, 18, 21, and 30.
 
 দ্বিগুণ কৰিলে 12, 18, 21, আৰু 30 ৰে সম্পূৰ্ণৰূপে বিভাজ্য হোৱা আটাইতকৈ সৰু সংখ্যাটো নিৰ্ণয় কৰা।
-A) 315 / 3 15
+A) 315
 B) 630
 C) 1260
 D) 2520

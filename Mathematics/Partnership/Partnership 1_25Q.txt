@@ -133,9 +133,9 @@ C) Rs. 12,000 / 12,000 টকা
 D) Rs. 6,000 / 6,000 টকা
 Ans: A
 
-16. A, B, C started a business with investments in the ratio 1 : 2 : 4. After 6 months, A invested half the amount more, B invested twice as much as before, while C withdrew 1/4th of his investment. Find the ratio of their profits at year end.
+16. A, B, C started a business with investments in the ratio 1 : 2 : 4. After 6 months, A invested half the amount more, B tripled his investment, while C withdrew 1/4th of his investment. Find the ratio of their profits at year end.
 
-A, B, C এ 1 : 2 : 4 অনুপাতত বিনিয়োগ কৰি ব্যৱসায় আৰম্ভ কৰে। 6 মাহৰ পাছত A এ আধাকৈ ধন বঢ়ায়, B এ আগতকৈ গুণাত্মকভাৱে দুগুণ বঢ়ায়, আৰু C এ 1/4 অংশ তুলি লয়। বছৰৰ অন্তত তেওঁলোকৰ লাভৰ অনুপাত নিৰ্ণয় কৰক।
+A, B, C এ 1 : 2 : 4 অনুপাতত বিনিয়োগ কৰি ব্যৱসায় আৰম্ভ কৰে। 6 মাহৰ পাছত A এ তেওঁৰ বিনিয়োগৰ আধা অংশ বঢ়ায়, B এ তেওঁৰ বিনিয়োগ তিনিগুণ কৰে, আৰু C এ তেওঁৰ বিনিয়োগৰ 1/4 অংশ তুলি লয়। বছৰৰ অন্তত তেওঁলোকৰ লাভৰ অনুপাত নিৰ্ণয় কৰক।
 A) 5 : 16 : 14
 B) 5 : 12 : 10
 C) 4 : 15 : 12

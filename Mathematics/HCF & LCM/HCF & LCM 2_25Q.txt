@@ -202,7 +202,7 @@ Ans: B
 A) 111
 B) 185
 C) 259
-D) 333 / 3 33
+D) 333
 Ans: A
 
 24. Three numbers are in the ratio 1:2:3 and their HCF is 12. The numbers are:
@@ -216,7 +216,7 @@ Ans: B
 
 25. Find the greatest number that will divide 1305, 4665, and 6905, leaving the same remainder in each case.
 
-1305, 4665, আৰু 6 905 ক ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে একে অৱশিষ্ট থকা আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
+1305, 4665, আৰু 6905 ক ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে একে অৱশিষ্ট থকা আটাইতকৈ ডাঙৰ সংখ্যাটো নিৰ্ণয় কৰা।
 A) 1120
 B) 1150
 C) 1200

@@ -23,7 +23,7 @@ A) 103
 B) 112
 C) 83
 D) 115
-Ans: B
+Ans: C
 
 4. What is the value of (100^2 - 99^2)?
 
@@ -39,7 +39,7 @@ Ans: B
 সৰল কৰা: (999 * 999 - 1) / 998।
 A) 998
 B) 999
-C) 1000 / 10000
+C) 1000
 D) 1001
 Ans: C
 
@@ -61,9 +61,9 @@ C) 76
 D) 48
 Ans: A
 
-8. Which number should be added to 231228 to make it a perfect square?
+8. Which number should be added to 231328 to make it a perfect square?
 
-231228 ৰ লগত কি সংখ্যা যোগ কৰিলে ই এটা পূৰ্ণ বৰ্গ সংখ্যা হ'ব?
+231328 ৰ লগত কি সংখ্যা যোগ কৰিলে ই এটা পূৰ্ণ বৰ্গ সংখ্যা হ'ব?
 A) 3
 B) 4
 C) 33
@@ -185,7 +185,7 @@ A) 2
 B) 4
 C) 6
 D) 8
-Ans: C
+Ans: D
 
 22. If a number is divided by 3, the remainder is 2. What is the remainder when the cube of this number is divided by 3?
 
@@ -211,7 +211,7 @@ Ans: D
 A) 960
 B) 980
 C) 900
-D) 990 / 9 90
+D) 990
 Ans: A
 
 25. Which of the following numbers is a perfect square?

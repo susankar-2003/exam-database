@@ -115,13 +115,13 @@ C) Rs. 20,000 / 20,000 টকা
 D) Rs. 12,000 / 12,000 টকা
 Ans: A
 
-14. Refer to the image for Q89. What is the investment ratio of Partner X to Partner Y? [IMG: partner_xy_q89.png]
+14. A started a business with Rs. 50,000. After a few months, B joined him with Rs. 40,000. At the end of the year, the profit was divided in the ratio 3 : 2. After how many months did B join the business?
 
-প্রশ্ন 89 ৰ বাবে ছবিখন চাওক। অংশীদাৰ X আৰু অংশীদাৰ Y ৰ বিনিয়োগৰ অনুপাত কিমান? [IMG: partner_xy_q89.png]
-A) 2 : 3
-B) 3 : 2
-C) 4 : 5
-D) 1 : 2
+A এ 50,000 টকাৰে এটা ব্যৱসায় আৰম্ভ কৰিলে। কেইমাহমানৰ পাছত B এ 40,000 টকাৰে অংশগ্ৰহণ কৰিলে। বছৰৰ অন্তত লাভ 3 : 2 অনুপাতত ভাগ কৰা হ'ল। B এ কেইমাহৰ পাছত ব্যৱসায়ত যোগ দিছিল?
+A) 2 months / 2 মাহ
+B) 3 months / 3 মাহ
+C) 4 months / 4 মাহ
+D) 10 months / 10 মাহ
 Ans: A
 
 15. A contributes Rs. 8,000, B Rs. 10,000. After 6 months A adds Rs. 2,000. Find profit ratio at end of year.

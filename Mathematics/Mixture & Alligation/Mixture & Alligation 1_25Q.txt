@@ -41,7 +41,7 @@ A) 2 : 7
 B) 7 : 2
 C) 3 : 5
 D) 5 : 3
-Ans: B
+Ans: A
 
 6. How many kilograms of sugar costing Rs. 9 per kg must be mixed with 27 kg of sugar costing Rs. 7 per kg so that there may be a gain of 10% by selling the mixture at Rs. 9.24 per kg?
 

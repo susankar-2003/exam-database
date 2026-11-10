@@ -1,28 +1,28 @@
 1. Express 0.1232323... as a fraction.
 
 0.1232323... ক ভগ্নাংশ হিচাপে প্ৰকাশ কৰা।
-A) 122/990 / 122/990
-B) 123/990 / 123/990
-C) 122/900 / 122/900
-D) 123/999 / 123/999
+A) 122/990
+B) 123/990
+C) 122/900
+D) 123/999
 Ans: A
 
 2. Which of the following fractions is the largest?
 
 তলৰ কোনটো ভগ্নাংশ আটাইতকৈ ডাঙৰ?
-A) 2/3 / 2/3
-B) 3/5 / 3/5
-C) 8/11 / 8/11
-D) 11/13 / 11/13
+A) 2/3
+B) 3/5
+C) 8/11
+D) 11/13
 Ans: D
 
 3. Which of the following fractions is the smallest?
 
 তলৰ কোনটো ভগ্নাংশ আটাইতকৈ সৰু?
-A) 3/4 / 3/4
-B) 5/6 / 5/6
-C) 2/3 / 2/3
-D) 4/5 / 4/5
+A) 3/4
+B) 5/6
+C) 2/3
+D) 4/5
 Ans: C
 
 4. The difference between two numbers is 1365. On dividing the larger number by the smaller, we get 6 as quotient and 15 as remainder. What is the smaller number?
@@ -122,7 +122,7 @@ A) 22
 B) 24
 C) 26
 D) 28
-Ans: C
+Ans: D
 
 15. What is the value of 1 + 2 + 3 + ... + 50?
 

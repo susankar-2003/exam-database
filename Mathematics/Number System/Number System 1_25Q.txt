@@ -67,7 +67,7 @@ Ans: C
 A) 400
 B) 420
 C) 440
-D) 210 / 2 2010
+D) 210
 Ans: B
 
 9. What is the sum of the first 15 odd natural numbers?
@@ -167,7 +167,7 @@ A) 10004
 B) 10025
 C) 10041
 D) 10000
-Ans: B
+Ans: A
 
 20. What is the total number of prime factors of 2^3 * 3^2 * 5^1?
 
@@ -208,17 +208,17 @@ Ans: B
 24. What is the value of 0.333... in rational form (p/q)?
 
 0.333... ৰ পৰিমেয় ৰূপ (p/q) ৰ মান কিমান?
-A) 1/3 / 1/3
-B) 3/10 / 3/10
-C) 33/100 / 33/100
-D) 1/33 / 1/33
+A) 1/3
+B) 3/10
+C) 33/100
+D) 1/33
 Ans: A
 
 25. Express 0.474747... as a fraction in simplest form.
 
 0.474747... ক লঘিষ্ঠ ৰূপত ভগ্নাংশ হিচাপে প্ৰকাশ কৰা।
-A) 47/100 / 47/100
-B) 47/99 / 47/99
-C) 47/90 / 47/90
-D) 4/9 / 4/9
+A) 47/100
+B) 47/99
+C) 47/90
+D) 4/9
 Ans: B

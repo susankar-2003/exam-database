@@ -23,7 +23,7 @@ A) 0
 B) 2
 C) 4
 D) 6
-Ans: A
+Ans: D
 
 4. How many integers are there between 100 and 1000 which are divisible by 5?
 
@@ -63,11 +63,11 @@ Ans: B
 
 8. What is the cube root of 0.000027?
 
-0.0000027 ৰ ঘনমূল কিমান?
+0.000027 ৰ ঘনমূল কিমান?
 A) 0.3
 B) 0.03
 C) 0.003
-D) 0.33 / 0. 33
+D) 0.33
 Ans: B
 
 9. Evaluate sqrt(12 + sqrt(12 + sqrt(12 + ... inf))).
@@ -185,7 +185,7 @@ A) 3
 B) 5
 C) 7
 D) 1
-Ans: A
+Ans: B
 
 22. What is the remainder when (67^67 + 67) is divided by 68?
 
@@ -220,5 +220,5 @@ Ans: B
 A) 899
 B) 900
 C) 901
-D) 1000 / 10000
+D) 1000
 Ans: B

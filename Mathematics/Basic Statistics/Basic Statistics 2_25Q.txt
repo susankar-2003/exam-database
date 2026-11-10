@@ -46,10 +46,10 @@ Ans: C
 6. What is the variance of the first n natural numbers?
 
 প্ৰথম n টা স্বাভাৱিক সংখ্যাৰ প্ৰসৰণ কিমান?
-A) (n^2 - 1) / 12 / (n^2 - 1) / 12
-B) (n^2 + 1) / 12 / (n^2 + 1) / 12
-C) (n - 1) / 12 / (n - 1) / 12
-D) (n^2 - 1) / 6 / (n^2 - 1) / 6
+A) (n^2 - 1) / 12 
+B) (n^2 + 1) / 12 
+C) (n - 1) / 12 
+D) (n^2 - 1) / 6 
 Ans: A
 
 7. Find the variance of the first 10 natural numbers.

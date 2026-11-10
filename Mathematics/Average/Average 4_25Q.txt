@@ -187,9 +187,9 @@ C) 25
 D) 30
 Ans: A
 
-22. The average of 8 numbers is 25. If two numbers 10 and 14 are discarded, find the average of remaining numbers.
+22. The average of 8 numbers is 25. If two numbers 10 and 16 are discarded, find the average of remaining numbers.
 
-8টা সংখ্যাৰ গড় 25। যদি 10 আৰু 14 সংখ্যা দুটা বাদ দিয়া হয়, তেন্তে বাকী থকা সংখ্যাবোৰৰ গড় উলিওৱা।
+8টা সংখ্যাৰ গড় 25। যদি 10 আৰু 16 সংখ্যা দুটা বাদ দিয়া হয়, তেন্তে বাকী থকা সংখ্যাবোৰৰ গড় উলিওৱা।
 A) 29
 B) 28
 C) 30

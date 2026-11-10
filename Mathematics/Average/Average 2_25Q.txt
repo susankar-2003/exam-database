@@ -68,7 +68,7 @@ A) 15
 B) 15.25
 C) 15.5
 D) 16
-Ans: B
+Ans: A
 
 9. The average age of 4 sisters is 7 years. If the age of their mother is included, the average age increases by 6 years. Find the age of the mother.
 

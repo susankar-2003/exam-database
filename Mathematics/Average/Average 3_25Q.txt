@@ -23,7 +23,7 @@ A) 1 year / 1 বছৰ
 B) 2 years / 2 বছৰ
 C) 1.5 years / 1.5 বছৰ
 D) 3 years / 3 বছৰ
-Ans: A
+Ans: B
 
 4. The average of 5 numbers is 18. If one number is removed, the average becomes 16. What is the removed number?
 
@@ -140,7 +140,7 @@ A) 30
 B) 31
 C) 29
 D) 32
-Ans: B
+Ans: A
 
 17. Average weight of 4 boys is 45 kg. A fifth boy joins and the average becomes 43 kg. Find the weight of the fifth boy.
 
@@ -196,9 +196,9 @@ C) 80
 D) 85
 Ans: B
 
-23. The average of three numbers is 40. The first number is twice the second, and the second is twice the third. Find the smallest number.
+23. The average of three numbers is 42. The first number is twice the second, and the second is twice the third. Find the smallest number.
 
-তিনিটা সংখ্যাৰ গড় 40। প্ৰথম সংখ্যাটো দ্বিতীয়টোৰ দুগুণ, আৰু দ্বিতীয়টো তৃতীয়টোৰ দুগুণ। আটাইতকৈ সৰু সংখ্যাটো উলিওৱা।
+তিনিটা সংখ্যাৰ গড় 42। প্ৰথম সংখ্যাটো দ্বিতীয়টোৰ দুগুণ, আৰু দ্বিতীয়টো তৃতীয়টোৰ দুগুণ। আটাইতকৈ সৰু সংখ্যাটো উলিওৱা।
 A) 12
 B) 15
 C) 18
@@ -212,7 +212,7 @@ A) 10
 B) 12
 C) 14
 D) 16
-Ans: A
+Ans: C
 
 25. Find the average of all multiples of 4 between 1 and 25.
 

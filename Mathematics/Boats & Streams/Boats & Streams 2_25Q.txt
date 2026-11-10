@@ -16,9 +16,9 @@ C) 24 km / 24 কিমি
 D) 32 km / 32 কিমি
 Ans: C
 
-3. The speed of a stream is 2 km/h. A boat goes 6 km downstream and back to starting point in 2 hours. Find speed of boat in still water.
+3. The speed of a stream is 2 km/h. A boat goes 6 km downstream and back to starting point in 2.25 hours. Find speed of boat in still water.
 
-সোঁতৰ বেগ 2 কিমি/ঘণ্টা। এখন নাও সোঁতৰ অনুকূলে 6 কিমি গৈ 2 ঘণ্টাত আৰম্ভণিৰ স্থানলৈ ঘূৰি আহে। স্থিৰ পানীত নাওখনৰ বেগ নিৰ্ণয় কৰা।
+সোঁতৰ বেগ 2 কিমি/ঘণ্টা। এখন নাও সোঁতৰ অনুকূলে 6 কিমি গৈ 2.25 ঘণ্টাত আৰম্ভণিৰ স্থানলৈ ঘূৰি আহে। স্থিৰ পানীত নাওখনৰ বেগ নিৰ্ণয় কৰা।
 A) 4 km/h / 4 কিমি/ঘণ্টা
 B) 6 km/h / 6 কিমি/ঘণ্টা
 C) 8 km/h / 8 কিমি/ঘণ্টা
@@ -151,7 +151,7 @@ C) 6 km/h / 6 কিমি/ঘণ্টা
 D) 8 km/h / 8 কিমি/ঘণ্টা
 Ans: A
 
-18. In problem 42, what is the speed of stream?
+18. In problem 17, what is the speed of stream?
 
 প্রশ্ন 42 ত, সোঁতৰ বেগ কিমান?
 A) 3.5 km/h / 3.5 কিমি/ঘণ্টা

@@ -28,10 +28,10 @@ Ans: B
 4. What is the formula for the standard deviation of the first n natural numbers?
 
 প্ৰথম n টা স্বাভাৱিক সংখ্যাৰ মানক বিচ্যুতিৰ সূত্ৰটো কি?
-A) √((n^2 - 1) / 12) / √((n^2 - 1) / 12)
-B) √((n^2 + 1) / 12) / √((n^2 + 1) / 12)
-C) (n^2 - 1) / 12 / (n^2 - 1) / 12
-D) √((n - 1) / 12) / √((n - 1) / 12)
+A) √((n^2 - 1) / 12)
+B) √((n^2 + 1) / 12)
+C) (n^2 - 1) / 12
+D) √((n - 1) / 12)
 Ans: A
 
 5. Calculate the standard deviation of the first 5 natural numbers.
@@ -147,8 +147,8 @@ Ans: B
 আন্তঃচতুৰ্থক পৰিসৰ (IQR) ৰ সূত্ৰটো কি?
 A) Q3 - Q1
 B) Q3 + Q1
-C) (Q3 - Q1) / 2 / (Q3 - Q1) / 2
-D) (Q3 + Q1) / 2 / (Q3 + Q1) / 2
+C) (Q3 - Q1) / 2
+D) (Q3 + Q1) / 2
 Ans: A
 
 18. Semi-interquartile range is also known as:

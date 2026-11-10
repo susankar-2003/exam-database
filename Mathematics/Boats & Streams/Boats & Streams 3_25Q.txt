@@ -16,7 +16,7 @@ C) 5 hours / 5 ঘণ্টা
 D) 2.5 hours / 2.5 ঘণ্টা
 Ans: A
 
-3. In question 52, time taken to travel 32 km upstream is:
+3. In question 2, time taken to travel 32 km upstream is:
 
 প্ৰশ্ন 52 ত, সোঁতৰ প্ৰতিকূলে 32 কিমি যাবলৈ লগা সময় হ’ল:
 A) 4 hours / 4 ঘণ্টা
@@ -43,7 +43,7 @@ C) 15 km/h / 15 কিমি/ঘণ্টা
 D) 18 km/h / 18 কিমি/ঘণ্টা
 Ans: A
 
-6. In question 55, find the upstream speed.
+6. In question 5, find the upstream speed.
 
 প্ৰশ্ন 55 ত, সোঁতৰ প্ৰতিকূলে বেগ নিৰ্ণয় কৰা।
 A) 12 km/h / 12 কিমি/ঘণ্টা
@@ -97,9 +97,9 @@ C) 35 km / 35 কিমি
 D) 28.5 km / 28.5 কিমি
 Ans: A
 
-12. A motorboat takes 6 hours to cover 48 km downstream and return. If stream speed is 4 km/h, find boat speed in still water.
+12. A motorboat takes 5 hours to cover 48 km downstream and return. If stream speed is 4 km/h, find boat speed in still water.
 
-এখন মটৰবোটে 48 কিমি সোঁতৰ অনুকূলে গৈ ঘূৰি আহিবলৈ 6 ঘণ্টা সময় লয়। (ধৰা হ'ল প্ৰতিকূলে নহয়, কেৱল সোঁতৰ অনুকূলে গৈ ঘূৰি অহা) যদি সোঁতৰ বেগ 4 কিমি/ঘণ্টা হয়, স্থিৰ পানীত নাওৰ বেগ নিৰ্ণয় কৰা (যেতিয়া মুঠ সময় 6 ঘণ্টা, দূৰত্ব 20 কিমি ধৰিলে):
+এখন মটৰবোটে 48 কিমি সোঁতৰ অনুকূলে গৈ ঘূৰি আহিবলৈ 5 ঘণ্টা সময় লয়। (ধৰা হ'ল প্ৰতিকূলে নহয়, কেৱল সোঁতৰ অনুকূলে গৈ ঘূৰি অহা) যদি সোঁতৰ বেগ 4 কিমি/ঘণ্টা হয়, স্থিৰ পানীত নাওৰ বেগ নিৰ্ণয় কৰা:
 A) 20 km/h / 20 কিমি/ঘণ্টা
 B) 18 km/h / 18 কিমি/ঘণ্টা
 C) 16 km/h / 16 কিমি/ঘণ্টা
@@ -115,7 +115,7 @@ C) 6 km/h / 6 কিমি/ঘণ্টা
 D) 9 km/h / 9 কিমি/ঘণ্টা
 Ans: A
 
-14. In question 63, what is the speed of stream?
+14. In question 13, what is the speed of stream?
 
 প্ৰশ্ন 63 ত, সোঁতৰ বেগ কিমান?
 A) 2.5 km/h / 2.5 কিমি/ঘণ্টা
@@ -142,7 +142,7 @@ C) 14 km/h / 14 কিমি/ঘণ্টা
 D) 18 km/h / 18 কিমি/ঘণ্টা
 Ans: A
 
-17. In question 66, find the speed of stream.
+17. In question 16, find the speed of stream.
 
 প্ৰশ্ন 66 ত, সোঁতৰ বেগ নিৰ্ণয় কৰা।
 A) 5 km/h / 5 কিমি/ঘণ্টা
@@ -205,7 +205,7 @@ C) 10 km/h / 10 কিমি/ঘণ্টা
 D) 12 km/h / 12 কিমি/ঘণ্টা
 Ans: A
 
-24. In question 73, speed of stream is:
+24. In question 23, speed of stream is:
 
 প্ৰশ্ন 73 ত, সোঁতৰ বেগ হ’ল:
 A) 4 km/h / 4 কিমি/ঘণ্টা

@@ -43,7 +43,7 @@ C) 8 km/h / 8 কিমি/ঘণ্টা
 D) 5 km/h / 5 কিমি/ঘণ্টা
 Ans: A
 
-6. In question 80, find speed of stream.
+6. In question 5, find speed of stream.
 
 প্ৰশ্ন 80 ত, সোঁতৰ বেগ নিৰ্ণয় কৰা।
 A) 3 km/h / 3 কিমি/ঘণ্টা
@@ -151,7 +151,7 @@ C) 3 hours / 3 ঘণ্টা
 D) 6 hours / 6 ঘণ্টা
 Ans: A
 
-18. In question 92, time taken to travel 64 km upstream is:
+18. In question 17, time taken to travel 64 km upstream is:
 
 প্ৰশ্ন 92 ত, সোঁতৰ প্ৰতিকূলে 64 কিমি যাবলৈ লগা সময় হ’ল:
 A) 4 hours / 4 ঘণ্টা

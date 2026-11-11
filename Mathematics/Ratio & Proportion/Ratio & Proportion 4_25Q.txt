@@ -190,10 +190,10 @@ Ans: A
 22. If x:y = 7:3, then (xy + y^2) / (x^2 - y^2) is:
 
 যদি x:y = 7:3 হয়, তেন্তে (xy + y^2) / (x^2 - y^2) ৰ মান কিমান?
-A) 3/4 / 3/4
-B) 4/3 / 4/3
-C) 5/8 / 5/8
-D) 1/2 / 1/2
+A) 3/4
+B) 4/3
+C) 5/8
+D) 1/2
 Ans: A
 
 23. Present ages of Sameer and Anand are in ratio 5:4. 3 years hence, ratio of ages will be 11:9. Find Anand's present age.

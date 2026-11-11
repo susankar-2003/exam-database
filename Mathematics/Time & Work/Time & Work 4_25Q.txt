@@ -43,13 +43,13 @@ C) 30 days / 30 দিন
 D) 20 days / 20 দিন
 Ans: A
 
-6. 3 men and 4 boys can complete a work in 10 days, while 4 men and 3 boys can do it in 9 days. In how many days can 2 men and 1 boy complete it?
+6. 4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can do it in 10 days. In how many days can 10 women complete it?
 
-3 জন পুৰুষ আৰু 4 জন ল’ৰাই 10 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে, আনহাতে 4 জন পুৰুষ আৰু 3 জন ল’ৰাই 9 দিনত কৰিব পাৰে। 2 জন পুৰুষ আৰু 1 জন ল’ৰাই কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
-A) 20 days / 20 দিন
-B) 18 days / 18 দিন
-C) 15 days / 15 দিন
-D) 22 days / 22 দিন
+4 জন পুৰুষ আৰু 6 গৰাকী মহিলাই 8 দিনত এটা কাম সম্পূৰ্ণ কৰিব পাৰে, আনহাতে 3 জন পুৰুষ আৰু 7 গৰাকী মহিলাই 10 দিনত কৰিব পাৰে। 10 গৰাকী মহিলাই কিমান দিনত সম্পূৰ্ণ কৰিব পাৰিব?
+A) 40 days / 40 দিন
+B) 35 days / 35 দিন
+C) 30 days / 30 দিন
+D) 45 days / 45 দিন
 Ans: A
 
 7. A and B can complete a work in 20 days and 30 days respectively. They worked together for some days and then B left. If A completed the remaining work in 10 days, for how many days did B work?

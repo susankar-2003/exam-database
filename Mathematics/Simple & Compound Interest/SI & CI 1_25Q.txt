@@ -90,7 +90,7 @@ Ans: D
 
 11. In how many years will a sum of ₹800 produce ₹144 as simple interest at 6% per annum?
 
-বার্ষিক 6% সৰল সুতৰ হাৰত 808 টকাৰ সুত 144 টকা হ’বলৈ কিমান বছৰ লাগিব?
+বার্ষিক 6% সৰল সুতৰ হাৰত 800 টকাৰ সুত 144 টকা হ’বলৈ কিমান বছৰ লাগিব?
 A) 3 years / 3 বছৰ
 B) 4 years / 4 বছৰ
 C) 2 years / 2 বছৰ

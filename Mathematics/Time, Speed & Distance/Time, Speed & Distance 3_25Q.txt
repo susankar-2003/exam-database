@@ -88,9 +88,9 @@ C) 15%
 D) 25%
 Ans: A
 
-11. A man travels 600 km by train at 80 km/h, 800 km by ship at 40 km/h, 500 km by aeroplane at 400 km/h and 100 km by car at 50 km/h. What is the average speed for the entire distance?
+11. A man travels 600 km by train at 80 km/h, 800 km by ship at 40 km/h, 500 km by aeroplane at 200 km/h and 100 km by car at 50 km/h. What is the average speed for the entire distance?
 
-এজন ব্যক্তিয়ে 800 কিমি/ঘণ্টা বেগেৰে ট্ৰেইনেৰে 600 কিমি, 40 কিমি/ঘণ্টা বেগেৰে জাহাজেৰে 800 কিমি, 400 কিমি/ঘণ্টা বেগেৰে উৰাজাহাজেৰে 500 কিমি আৰু 50 কিমি/ঘণ্টা বেগেৰে গাড়ীৰে 100 কিমি যাত্ৰা কৰে। সমগ্ৰ দূৰত্বৰ বাবে গড় বেগ কিমান?
+এজন ব্যক্তিয়ে 80 কিমি/ঘণ্টা বেগেৰে ট্ৰেইনেৰে 600 কিমি, 40 কিমি/ঘণ্টা বেগেৰে জাহাজেৰে 800 কিমি, 200 কিমি/ঘণ্টা বেগেৰে উৰাজাহাজেৰে 500 কিমি আৰু 50 কিমি/ঘণ্টা বেগেৰে গাড়ীৰে 100 কিমি যাত্ৰা কৰে। সমগ্ৰ দূৰত্বৰ বাবে গড় বেগ কিমান?
 A) 62.5 km/h / 62.5 কিমি/ঘণ্টা
 B) 60 km/h / 60 কিমি/ঘণ্টা
 C) 65 km/h / 65 কিমি/ঘণ্টা
@@ -217,7 +217,7 @@ Ans: A
 25. A train 110 m long travels at 60 km/h. How long does it take to cross a telegraph pole?
 
 110 মিটাৰ দীঘল এখন ট্ৰেইনে 60 কিমি/ঘণ্টা বেগেৰে যাত্ৰা কৰে। এটা টেলিগ্ৰাফ খুঁটা অতিক্ৰম কৰিবলৈ ইয়াৰ কিমান সময় লাগে?
-A) 6.6 seconds / 66 ছেকেণ্ড
+A) 6.6 seconds / 6.6 ছেকেণ্ড
 B) 6 seconds / 6 ছেকেণ্ড
 C) 7 seconds / 7 ছেকেণ্ড
 D) 5.5 seconds / 5.5 ছেকেণ্ড

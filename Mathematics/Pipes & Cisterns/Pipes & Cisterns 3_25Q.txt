@@ -162,7 +162,7 @@ Ans: B
 
 19. Two pipes can fill a tank in 10 hours and 12 hours respectively, while a third pipe can empty 20 gallons of water per hour. If all three pipes are opened together, the tank is filled in 20 hours. What is the capacity of the tank?
 
-দুটা পাইপে ক্ৰমে 10 ঘণ্টা আৰু 12 ঘণ্টাত এটা টেংক ভৰাব পাৰে, আনহাতে তৃতীয় পাইপে প্ৰতি ঘণ্টাত 20 গেলো পানী খালী কৰিব পাৰে। তিনিউটা একেলগে খুলিলে 20 ঘণ্টাত টেংকটো ভৰে। টেংকটোৰ ক্ষমতা কিমান?
+দুটা পাইপে ক্ৰমে 10 ঘণ্টা আৰু 12 ঘণ্টাত এটা টেংক ভৰাব পাৰে, আনহাতে তৃতীয় পাইপে প্ৰতি ঘণ্টাত 20 গেলোন পানী খালী কৰিব পাৰে। তিনিউটা একেলগে খুলিলে 20 ঘণ্টাত টেংকটো ভৰে। টেংকটোৰ ক্ষমতা কিমান?
 A) 120 gallons / 120 গেলোন
 B) 150 gallons / 150 গেলোন
 C) 180 gallons / 180 গেলোন

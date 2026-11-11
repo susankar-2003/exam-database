@@ -199,7 +199,7 @@ Ans: A
 23. Standard speed of a aeroplane is 600 km/h. Due to bad weather, speed was reduced by 200 km/h and time increased by 30 minutes. Find the original distance.
 
 এখন উৰাজাহাজৰ মানক বেগ 600 কিমি/ঘণ্টা। বেয়া বতাহৰ বাবে বেগ 200 কিমি/ঘণ্টা হ্ৰাস কৰা হয় আৰু সময় 30 মিনিট বৃদ্ধি পায়। প্ৰাৰম্ভিক দূৰত্ব নিৰ্ণয় কৰক।
-A) 600 km / 100 কিমি
+A) 600 km / 600 কিমি
 B) 400 km / 400 কিমি
 C) 800 km / 800 কিমি
 D) 500 km / 500 কিমি

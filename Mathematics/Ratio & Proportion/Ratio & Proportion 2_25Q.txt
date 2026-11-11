@@ -2,7 +2,7 @@
 
 যদি (x + y) : (x - y) = 4:1 হয়, তেন্তে (x^2 + y^2) : (x^2 - y^2) ৰ মান কিমান?
 A) 25:16
-B) 17:15
+B) 17:8
 C) 8:17
 D) 16:9
 Ans: B
@@ -46,10 +46,10 @@ Ans: C
 6. A fraction bearing the same ratio to 1/27 as 3/11 does to 5/9 is:
 
 1/27 ৰ সৈতে একে অনুপাত থকা ভগ্নাংশটো কিমান যিদৰে 3/11 ৰ অনুপাত 5/9 ৰ সৈতে?
-A) 1/55 / 1/55
-B) 55
-C) 3/11 / 3/11
-D) 1/11 / 1/11
+A) 1/55
+B) 55/11
+C) 3/11
+D) 1/11
 Ans: A
 
 7. The salaries of A, B, and C are in the ratio 2:3:5. If increments of 15%, 10%, and 20% are allowed, then what will be the new ratio of their salaries?
@@ -94,7 +94,7 @@ Ans: B
 A) 21:25
 B) 42:50
 C) 12:25
-D) 84:100 / 84: 100
+D) 84:100
 Ans: A
 
 12. A gold ingot was broken into three pieces in the weight ratio 2:3:4. If the value of gold is directly proportional to the square of its weight, find the loss percentage if the original ingot was worth Rs. 8100.
@@ -106,13 +106,13 @@ C) 60.5%
 D) 64.19%
 Ans: A
 
-13. The mean proportional between (3 + sqrt(2)) and (12 - sqrt(32)) is:
+13. The mean proportional between (3 + √(2)) and (12 - √(32)) is:
 
-(3 + sqrt(2)) আৰু (12 - sqrt(32)) ৰ মধ্য সমানুপাতী কিমান?
+(3 + √(2)) আৰু (12 - √(32)) ৰ মধ্য সমানুপাতী কিমান?
 A) 2
 B) 7
-C) 6
-D) sqrt(7)
+C) 2√7
+D) √7
 Ans: C
 
 14. In a regiment, the ratio of officers to soldiers was 3:31 before a battle. In the battle, 6 officers and 22 soldiers were killed and the ratio became 1:13. Find the number of officers before the battle.
@@ -210,7 +210,7 @@ Ans: B
 যি দুটা পূৰ্ণসংখ্যাৰ যোগফল 72, সেই সংখ্যা দুটা তলৰ কোনটো অনুপাতত থাকিব নোৱাৰে?
 A) 5:7
 B) 3:5
-C) 3:4
+C) 5:4
 D) 2:3
 Ans: D
 

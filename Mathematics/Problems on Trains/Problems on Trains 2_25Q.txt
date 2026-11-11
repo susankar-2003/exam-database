@@ -88,7 +88,7 @@ C) 500 m / 500 মিটাৰ
 D) 550 m / 550 মিটাৰ
 Ans: C
 
-11. A train speeded past a pole in 15 seconds and a platform 100 m long in 25 seconds. What is the length of the train?
+11. A train past a pole in 15 seconds and a platform 100 m long in 25 seconds. What is the length of the train?
 
 ৰেলগাড়ী এখনে 15 ছেকেণ্ডত এটা খুটা আৰু 25 ছেকেণ্ডত 100 মিটাৰ দীঘল প্লেটফৰ্ম এখন অতিক্ৰম কৰে। ৰেলখনৰ দৈৰ্ঘ্য কিমান?
 A) 120 m / 120 মিটাৰ

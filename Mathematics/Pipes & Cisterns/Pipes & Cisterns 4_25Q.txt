@@ -28,7 +28,7 @@ Ans: B
 4. Pipe A is 3 times as fast as Pipe B. If together they can fill a tank in 18 minutes, how long will Pipe B alone take to fill the tank?
 
 পাইপ A, পাইপ B তকৈ 3 গুণ দ্ৰুত। যদি দুয়োটা একেলগে 18 মিনিটত এটা টেংক ভৰাব পাৰে, তেন্তে অকলে পাইপ B এ টেংকটো ভৰাবলৈ কিমান সময় ল'ব?
-A) 54 minutes / 5 4 মিনিট
+A) 54 minutes / 54 মিনিট
 B) 60 minutes / 60 মিনিট
 C) 72 minutes / 72 মিনিট
 D) 90 minutes / 90 মিনিট

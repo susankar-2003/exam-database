@@ -167,7 +167,7 @@ A) 180
 B) 150
 C) 60
 D) 120
-Ans: A
+Ans: B
 
 20. If 10% of x = 20% of y, then x:y is equal to:
 

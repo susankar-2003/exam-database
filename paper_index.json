@@ -1,5 +1,5 @@
 {
-    "last_serial": 811,
+    "last_serial": 818,
     "papers": {
         "1": {
             "id": "1",
@@ -1110,7 +1110,7 @@
             "name": "Airports of India 1_15Q.txt",
             "path": "Static GK/Airports of India 1_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Airports%20of%20India%201_15Q.txt",
-            "hash": "78af04f73208f08556902b86ff65a1e9"
+            "hash": "88ff325a91d319bb332e10919bbd54cb"
         },
         "160": {
             "id": "160",
@@ -1131,49 +1131,49 @@
             "name": "Capitals Of Indian States & Union Territories 2_10Q.txt",
             "path": "Static GK/Capitals Of Indian States & Union Territories 2_10Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Capitals%20Of%20Indian%20States%20%26%20Union%20Territories%202_10Q.txt",
-            "hash": "64a0827d287d63d9618a716a8fbc1900"
+            "hash": "ad881e15a6d70efd768945d34c3d616a"
         },
         "163": {
             "id": "163",
             "name": "Classical Dance of India_15Q.txt",
             "path": "Static GK/Classical Dance of India_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Classical%20Dance%20of%20India_15Q.txt",
-            "hash": "312c1133cb6c9e282c933db55d804317"
+            "hash": "424086a34ee0d8c31b670cc60bef9bb6"
         },
         "164": {
             "id": "164",
             "name": "First In India 1_20Q.txt",
             "path": "Static GK/First In India 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/First%20In%20India%201_20Q.txt",
-            "hash": "b1e9914abb364bc9e5738ab435f975d3"
+            "hash": "cdec8fe41ed73fe9d06b02c22d0671cf"
         },
         "165": {
             "id": "165",
             "name": "First In India 2_20Q.txt",
             "path": "Static GK/First In India 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/First%20In%20India%202_20Q.txt",
-            "hash": "ef3c2ff1607f82140248a452c37f4422"
+            "hash": "bbffb4bc14d06bb8ced72eeebc70f93a"
         },
         "166": {
             "id": "166",
             "name": "Gallantry Awards Of India 2_10Q.txt",
             "path": "Static GK/Gallantry Awards Of India 2_10Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Gallantry%20Awards%20Of%20India%202_10Q.txt",
-            "hash": "f10a0dfdfe9e65a4df28e81ac878bed9"
+            "hash": "d8bfd5090a12ca920ccb13e9b2176374"
         },
         "167": {
             "id": "167",
             "name": "Gallantry Awards Of India 1_10Q.txt",
             "path": "Static GK/Gallantry Awards Of India 1_10Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Gallantry%20Awards%20Of%20India%201_10Q.txt",
-            "hash": "0e7e293f3dae83497056d5509608e888"
+            "hash": "764bd4b0408002869a8f7080c9533e51"
         },
         "168": {
             "id": "168",
             "name": "Government Schemes Of India 2_25Q.txt",
             "path": "Static GK/Government Schemes Of India 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Government%20Schemes%20Of%20India%202_25Q.txt",
-            "hash": "6013264d3edcf5b2983da847d4dc7d3f"
+            "hash": "36f12169044f45c54d0fc7e80ac3161c"
         },
         "169": {
             "id": "169",
@@ -1208,42 +1208,42 @@
             "name": "Important Dates 2_25Q.txt",
             "path": "Static GK/Important Dates 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Dates%202_25Q.txt",
-            "hash": "9259ad326584997ec6936a8c910ae051"
+            "hash": "10de6f11f971a9ac2661c25d8311e9b2"
         },
         "174": {
             "id": "174",
             "name": "Indian Classical Dance & Artists_20Q.txt",
             "path": "Static GK/Indian Classical Dance & Artists_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Classical%20Dance%20%26%20Artists_20Q.txt",
-            "hash": "be99ddf27336270cd912b94acfb519ed"
+            "hash": "81347b9449806b16694ea4f318434d93"
         },
         "175": {
             "id": "175",
             "name": "Indian Organizations & Headquarters 1_15Q.txt",
             "path": "Static GK/Indian Organizations & Headquarters 1_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Organizations%20%26%20Headquarters%201_15Q.txt",
-            "hash": "c2cb34731045daee3406d21b5bd27a75"
+            "hash": "188b722d63c426a0304dbf096cf13840"
         },
         "176": {
             "id": "176",
             "name": "Indian Organizations & Headquarters 2_15Q.txt",
             "path": "Static GK/Indian Organizations & Headquarters 2_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Organizations%20%26%20Headquarters%202_15Q.txt",
-            "hash": "23ebe94542014ce88c894c8473a9d4d8"
+            "hash": "10c85eec6072e5ee1fc7c415b810c231"
         },
         "177": {
             "id": "177",
             "name": "Indian Sports 1_25Q.txt",
             "path": "Static GK/Indian Sports 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Sports%201_25Q.txt",
-            "hash": "e14a66b1be518c4379656e628805ce41"
+            "hash": "6702f71da3177ed835f73790bb2f52de"
         },
         "178": {
             "id": "178",
             "name": "Indian Sports 2_25Q.txt",
             "path": "Static GK/Indian Sports 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Sports%202_25Q.txt",
-            "hash": "d739d4cb539bd518a6753ab44e8e3963"
+            "hash": "a4b6d8b187f7096c7d20303642c14bc5"
         },
         "179": {
             "id": "179",
@@ -1271,21 +1271,21 @@
             "name": "Missiles Of India 2_15Q.txt",
             "path": "Static GK/Missiles Of India 2_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Missiles%20Of%20India%202_15Q.txt",
-            "hash": "64a8e2c0728e7bdfa30969855bea07c4"
+            "hash": "428075ff9d9ba548d58aaa8dbf48ee86"
         },
         "183": {
             "id": "183",
             "name": "Mountains of India 1_25Q.txt",
             "path": "Static GK/Mountains of India 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Mountains%20of%20India%201_25Q.txt",
-            "hash": "3585f4424069a9cd8b1eef8e856a198d"
+            "hash": "adefb0819cb3e58b8d3b862a771e0737"
         },
         "184": {
             "id": "184",
             "name": "Mountains of India 2_25Q.txt",
             "path": "Static GK/Mountains of India 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Mountains%20of%20India%202_25Q.txt",
-            "hash": "e23d68bba7406ab970b3fce5643c8931"
+            "hash": "8543ee3073157467cf18e6fb30246a0e"
         },
         "185": {
             "id": "185",
@@ -1313,14 +1313,14 @@
             "name": "Rivers And Dams Of India 1_15Q.txt",
             "path": "Static GK/Rivers And Dams Of India 1_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20And%20Dams%20Of%20India%201_15Q.txt",
-            "hash": "e2249f02a7d0fb7ddd26674044797fe6"
+            "hash": "1f30c7c14b9e70c9ea6a229b9ed0ff1c"
         },
         "189": {
             "id": "189",
             "name": "Rivers And Dams Of India 2_15Q.txt",
             "path": "Static GK/Rivers And Dams Of India 2_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20And%20Dams%20Of%20India%202_15Q.txt",
-            "hash": "a529f7acdf1da5b2e3232522682afb1c"
+            "hash": "07b226d72e431d2a6c70e2cc5904cd52"
         },
         "190": {
             "id": "190",
@@ -1341,35 +1341,35 @@
             "name": "Sports Persons of India 1_25Q.txt",
             "path": "Static GK/Sports Persons of India 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Sports%20Persons%20of%20India%201_25Q.txt",
-            "hash": "549e4a9853457323153c3049b88204ca"
+            "hash": "714651fd42e53509f745aef219b2c87b"
         },
         "193": {
             "id": "193",
             "name": "Sports Persons of India 2_25Q.txt",
             "path": "Static GK/Sports Persons of India 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Sports%20Persons%20of%20India%202_25Q.txt",
-            "hash": "60a8d59bb761310bf5cab32db35b1bb4"
+            "hash": "b5e9754ca3a00759f7a0b15f9ce9591a"
         },
         "194": {
             "id": "194",
             "name": "Stadiums Of India 1_15Q.txt",
             "path": "Static GK/Stadiums Of India 1_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Stadiums%20Of%20India%201_15Q.txt",
-            "hash": "781abfddd20bb6c9bbb11d27e6504f1d"
+            "hash": "1f2da07ee45d0594c44a81f4dd29507e"
         },
         "195": {
             "id": "195",
             "name": "Stadiums Of India 2_15Q.txt",
             "path": "Static GK/Stadiums Of India 2_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Stadiums%20Of%20India%202_15Q.txt",
-            "hash": "ad594a9b8157cb2508b14b4891f9ac79"
+            "hash": "19238beec977b9734ca29d73937bf9a6"
         },
         "196": {
             "id": "196",
             "name": "Unesco World Heritage Sites Of India 1_15Q.txt",
             "path": "Static GK/Unesco World Heritage Sites Of India 1_15Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Unesco%20World%20Heritage%20Sites%20Of%20India%201_15Q.txt",
-            "hash": "bf6047b986b33cd7420fc296510baf4f"
+            "hash": "153e4bfaa36a03ecb1816e68e809ba70"
         },
         "197": {
             "id": "197",
@@ -1383,28 +1383,28 @@
             "name": "Wildlife Sanctuaries Of India 1_20Q.txt",
             "path": "Static GK/Wildlife Sanctuaries Of India 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Wildlife%20Sanctuaries%20Of%20India%201_20Q.txt",
-            "hash": "eac5435e91ea7c39e60e0d1e0ef0be07"
+            "hash": "ecefd878034ed2a729bc3883ad0d73e4"
         },
         "199": {
             "id": "199",
             "name": "Wildlife Sanctuaries Of India 2_20Q.txt",
             "path": "Static GK/Wildlife Sanctuaries Of India 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Wildlife%20Sanctuaries%20Of%20India%202_20Q.txt",
-            "hash": "6e6154f93c481315816b4bf2cc3397b9"
+            "hash": "2dbe301406912d882907d216ad8e66c8"
         },
         "200": {
             "id": "200",
             "name": "World Organisations & Headquarters 1_25Q.txt",
             "path": "Static GK/World Organisations & Headquarters 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/World%20Organisations%20%26%20Headquarters%201_25Q.txt",
-            "hash": "1cf412b2163d55b5b72d03d514cd9a4c"
+            "hash": "dfb790efc01bf4151ad368484c60072a"
         },
         "201": {
             "id": "201",
             "name": "World Organisations & Headquarters 2_25Q.txt",
             "path": "Static GK/World Organisations & Headquarters 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/World%20Organisations%20%26%20Headquarters%202_25Q.txt",
-            "hash": "9da700ed53799f3998ce6ffae17ae8fe"
+            "hash": "268dfc9f3590c9856124a37fa8df98d5"
         },
         "202": {
             "id": "202",
@@ -5675,6 +5675,55 @@
             "path": "Current Affairs/July 2026/July 2026 4_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%204_25Q.txt",
             "hash": "6c2b0c0e94cac0dafdfd92756546173e"
+        },
+        "812": {
+            "id": "812",
+            "name": "Important Books and Authors 1_25Q.txt",
+            "path": "Static GK/Important Books and Authors 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Books%20and%20Authors%201_25Q.txt",
+            "hash": "186d42a6e8875d4d61210ad44fedf212"
+        },
+        "813": {
+            "id": "813",
+            "name": "Rivers of India 1_25Q.txt",
+            "path": "Static GK/Rivers of India 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20of%20India%201_25Q.txt",
+            "hash": "8c79ef9c21564bb7625f5b96c57679a4"
+        },
+        "814": {
+            "id": "814",
+            "name": "National Park of India 2_25Q.txt",
+            "path": "Static GK/National Park of India 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/National%20Park%20of%20India%202_25Q.txt",
+            "hash": "f0cfbf06480a5b2bb7bbd81c1bc1f3ac"
+        },
+        "815": {
+            "id": "815",
+            "name": "Indian States And Folk Dances 2_25Q.txt",
+            "path": "Static GK/Indian States And Folk Dances 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20States%20And%20Folk%20Dances%202_25Q.txt",
+            "hash": "06ffc885fd1d17644f9e45a84385a131"
+        },
+        "816": {
+            "id": "816",
+            "name": "Rivers of India 2_25Q.txt",
+            "path": "Static GK/Rivers of India 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20of%20India%202_25Q.txt",
+            "hash": "869ae7fc4d4c88e1beca921b5d710b17"
+        },
+        "817": {
+            "id": "817",
+            "name": "Important Books and Authors 2_25Q.txt",
+            "path": "Static GK/Important Books and Authors 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Books%20and%20Authors%202_25Q.txt",
+            "hash": "2d86ea657f72272c9be258fb36fff705"
+        },
+        "818": {
+            "id": "818",
+            "name": "National Park of India 1_25Q.txt",
+            "path": "Static GK/National Park of India 1_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/National%20Park%20of%20India%201_25Q.txt",
+            "hash": "b492ca6663706505f63172ec526d2046"
         }
     }
 }

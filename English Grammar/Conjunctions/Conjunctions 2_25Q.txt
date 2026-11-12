@@ -192,7 +192,7 @@ Ans: A
 
 25. She is young, ____ she is wise beyond her years.
 
-A) however
+A) since
 B) yet
 C) so
 D) therefore

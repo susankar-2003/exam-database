@@ -1,10 +1,10 @@
 1. What is the target year for housing for all under Pradhan Mantri Awas Yojana (PMAY)?
 
 প্ৰধানমন্ত্ৰী আৱাস যোজনা (PMAY) ৰ অধীনত 'সকলোৰে বাবে গৃহ'ৰ লক্ষ্য নিৰ্ধাৰণ কৰা হৈছে?
-A) Urban and Rural Housing Development / নগৰ আৰু গ্ৰামীণ গৃহ নিৰ্মাণ
-B) Highway Construction / ৰাষ্ট্ৰীয় ঘাইপথ নিৰ্মাণ
-C) Free Electricity Supply / বিনামূলীয়া বিদ্যুৎ যোগান
-D) Free Rice Distribution / বিনামূলীয়া চাল বিতৰণ
+A) 2029
+B) 2027
+C) 2028
+D) 2030
 Ans: A
 
 2. SVAMITVA scheme uses which technology for mapping land parcels in rural inhabited areas?
@@ -207,7 +207,7 @@ Ans: A
 
 24. PM-ABHIM (Pradhan Mantri Ayushman Bharat Health Infrastructure Mission) focuses on strengthening what?
 
-পিএম-অভিাম (PM-ABHIM) আঁচনিয়ে কি শক্তিশালী কৰাৰ ওপৰত গুৰুত্ব দিয়ে?
+পিএম-অভিম (PM-ABHIM) আঁচনিয়ে কি শক্তিশালী কৰাৰ ওপৰত গুৰুত্ব দিয়ে?
 A) Primary, Secondary and Tertiary Healthcare Infrastructure / প্ৰাথমিক, মাধ্যমিক আৰু উচ্চ পৰ্যায়ৰ স্বাস্থ্য আন্তঃগাঁথনি
 B) Medical Education Scholarships / চিকিৎসা শিক্ষাৰ জলপানি
 C) Health Insurance Premiums / স্বাস্থ্য বীমা প্ৰিমিয়াম

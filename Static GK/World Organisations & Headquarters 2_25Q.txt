@@ -18,7 +18,7 @@ Ans: A
 
 3. In which city is the headquarters of UNESCO located?
 
-ইউনেস্ক’ৰ (UNESCO) মুখ্য কার্যালয় কোনখন ছহৰত অৱস্থিত?
+ইউনেস্ক’ৰ (UNESCO) মুখ্য কার্যালয় কোনখন চহৰত অৱস্থিত?
 A) Geneva / জেনেভা
 B) Paris / পেৰিছ
 C) New York / নিউয়ৰ্ক
@@ -40,7 +40,7 @@ Ans: C
 A) Washington, D C, USA / ৱাশ্বিংটন ডি.চি., আমেৰিকা
 B) Geneva, Switzerland / জেনেভা, চুইজাৰলেণ্ড
 C) New York, USA / নিউয়ৰ্ক, আমেৰিকা
-D) Manila, Philippines / মাৰ্নিলা, ফিলিপাইনছ
+D) Manila, Philippines / মানিলা, ফিলিপাইনছ
 Ans: A
 
 6. Where is the headquarters of the International Court of Justice (ICJ) located?
@@ -54,7 +54,7 @@ Ans: B
 
 7. In which city is the headquarters of the World Trade Organization (WTO) located?
 
-বিশ্ব বাণিজ্য সংস্থাৰ (WTO) মুখ্য কার্যালয় কোনখন ছহৰত অৱস্থিত?
+বিশ্ব বাণিজ্য সংস্থাৰ (WTO) মুখ্য কার্যালয় কোনখন চহৰত অৱস্থিত?
 A) Geneva / জেনেভা
 B) Rome / ৰোম
 C) Vienna / ভিয়েনা
@@ -91,7 +91,7 @@ Ans: C
 11. The headquarters of NATO (North Atlantic Treaty Organization) is situated in:
 
 ন্যাটোৰ (NATO) মুখ্য কার্যালয় ক’ত অৱস্থিত?
-A) Brussels, Belgium / ব্ৰুৱেলছ, বেলজিয়াম
+A) Brussels, Belgium / ব্ৰাছেলছ, বেলজিয়াম
 B) London, UK / লণ্ডন, যুক্তৰাজ্য
 C) Washington, D C, USA / ৱাশ্বিংটন ডি.চি., আমেৰিকা
 D) Paris, France / পেৰিছ, ফ্ৰান্স
@@ -108,7 +108,7 @@ Ans: A
 
 13. In which city is the headquarters of the Food and Agriculture Organization (FAO) located?
 
-খাদ্য আৰু কৃষি সংস্থাৰ (FAO) মুখ্য কার্যালয় কোনখন ছহৰত অৱস্থিত?
+খাদ্য আৰু কৃষি সংস্থাৰ (FAO) মুখ্য কার্যালয় কোনখন চহৰত অৱস্থিত?
 A) Geneva / জেনেভা
 B) Paris / পেৰিছ
 C) Rome / ৰোম
@@ -144,7 +144,7 @@ Ans: C
 
 17. In which city is the headquarters of the International Labour Organization (ILO) located?
 
-আন্তর্জাতিক শ্ৰম সংস্থাৰ (ILO) মুখ্য কার্যালয় কোনখন ছহৰত অৱস্থিত?
+আন্তর্জাতিক শ্ৰম সংস্থাৰ (ILO) মুখ্য কার্যালয় কোনখন চহৰত অৱস্থিত?
 A) Geneva / জেনেভা
 B) New York / নিউয়ৰ্ক
 C) London / লণ্ডন
@@ -162,9 +162,9 @@ Ans: B
 
 19. The headquarters of the European Union (EU) is located in:
 
-ইউৰোপীয় ইউৰ্নিয়নৰ (EU) মুখ্য কার্যালয় ক’ত অৱস্থিত?
+ইউৰোপীয় ইউনিয়নৰ (EU) মুখ্য কার্যালয় ক’ত অৱস্থিত?
 A) Berlin, Germany / বার্লিন, জার্মানী
-B) Brussels, Belgium / ব্ৰুৱেলছ, বেলজিয়াম
+B) Brussels, Belgium / ব্ৰাছেলছ, বেলজিয়াম
 C) Paris, France / পেৰিছ, ফ্ৰান্স
 D) Strasbourg, France / ষ্ট্রাছবৰ্গ, ফ্ৰান্স
 Ans: B
@@ -180,7 +180,7 @@ Ans: A
 
 21. In which city is the headquarters of BIMSTEC located?
 
-বিমষ্টেকৰ (BIMSTEC) মুখ্য কার্যালয় কোনখন ছহৰত অৱস্থিত?
+বিমষ্টেকৰ (BIMSTEC) মুখ্য কার্যালয় কোনখন চহৰত অৱস্থিত?
 A) New Delhi, India / নতুন দিল্লী, ভাৰত
 B) Dhaka, Bangladesh / ঢাকা, বাংলাদেশ
 C) Bangkok, Thailand / বেংকক, থাইলেণ্ড
@@ -216,7 +216,7 @@ Ans: A
 
 25. In which city is the headquarters of FIFA (Fédération Internationale de Football Association) located?
 
-ফিফাৰ (FIFA) মুখ্য কার্যালয় কোনখন ছহৰত অৱস্থিত?
+ফিফাৰ (FIFA) মুখ্য কার্যালয় কোনখন চহৰত অৱস্থিত?
 A) Paris, France / পেৰিছ, ফ্ৰান্স
 B) Zurich, Switzerland / জ্যুৰিখ, চুইজাৰলেণ্ড
 C) Geneva, Switzerland / জেনেভা, চুইজাৰলেণ্ড

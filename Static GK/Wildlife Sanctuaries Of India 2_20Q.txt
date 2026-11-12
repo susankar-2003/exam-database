@@ -66,7 +66,7 @@ Ans: C
 ভাৰতীয় বনৰীয়া গাধ (Khur) কেৱল ভাৰতৰ কোনখন অভয়াৰণ্যত পোৱা যায়?
 A) Desert National Park / ডেজাৰ্ট নেচনেল পাৰ্ক
 B) Wild Ass Sanctuary, Little Rann of Kutch / ওয়াইল্ড এছ চেংচুয়াৰী, লিটল ৰাণ অৱ কচ্ছ
-C) Dachigam / তাচিগাম
+C) Dachigam / দাচিগাম
 D) Kaimur Sanctuary / কাইমুৰ অভয়াৰণ্য
 Ans: B
 
@@ -90,7 +90,7 @@ Ans: B
 
 11. Which wildlife sanctuary is located in Goa and is home to the famous Dudhsagar Falls?
 
-গোগা ৰাজ্যত অৱস্থিত আৰু বিখ্যাত দুধসাগৰ জলপ্ৰপাতৰ বাবে জনাজাত বন্যপ্ৰাণী অভয়াৰণ্যখন কি?
+গোৱা ৰাজ্যত অৱস্থিত আৰু বিখ্যাত দুধসাগৰ জলপ্ৰপাতৰ বাবে জনাজাত বন্যপ্ৰাণী অভয়াৰণ্যখন কি?
 A) Bhagwan Mahavir Wildlife Sanctuary / ভগৱান মহাবীৰ বন্যপ্ৰাণী অভয়াৰণ্য
 B) Cotigao Wildlife Sanctuary / কোটিগাও বন্যপ্ৰাণী অভয়াৰণ্য
 C) Bondla Wildlife Sanctuary / বোণ্ডলা বন্যপ্ৰাণী অভয়াৰণ্য
@@ -135,7 +135,7 @@ Ans: B
 
 16. Gahirmatha Marine Sanctuary, famous as the world's largest nesting beach for Olive Ridley Turtles, is in which state?
 
-অলিল ৰিডলী কাছৰ (Olive Ridley Turtles) বিশ্বৰ আটাইতকৈ ডাঙৰ কণী পাৰা স্থান হিচাপে বিখ্যাত গহিৰমাথা সামুদ্ৰিক অভয়াৰণ্য কোনখন ৰাজ্যত অৱস্থিত?
+অলিভ ৰিডলী কাছৰ (Olive Ridley Turtles) বিশ্বৰ আটাইতকৈ ডাঙৰ কণী পাৰা স্থান হিচাপে বিখ্যাত গহিৰমাথা সামুদ্ৰিক অভয়াৰণ্য কোনখন ৰাজ্যত অৱস্থিত?
 A) Tamil Nadu / তামিলনাডু
 B) Odisha / ওড়িশা
 C) Andhra Pradesh / অন্ধ্ৰ প্ৰদেশ
@@ -153,7 +153,7 @@ Ans: B
 
 18. Deepor Beel Wildlife Sanctuary, an important Ramsar Wetland Site, is located in which district of Assam?
 
-ৰামচাৰ জলাশয় ক্ষেত্ৰ দেওপাৰ বিল বন্যপ্ৰাণী অভয়াৰণ্য অসমৰ কোনটো জিলাত অৱস্থিত?
+ৰামচাৰ জলাশয় ক্ষেত্ৰ দীপৰ বিল বন্যপ্ৰাণী অভয়াৰণ্য অসমৰ কোনটো জিলাত অৱস্থিত?
 A) Kamrup Metropolitan (Guwahati) / কামৰূপ মহানগৰ (গুৱাহাটী)
 B) Nagaon / নগাঁও
 C) Sonitpur / শোণিতপুৰ

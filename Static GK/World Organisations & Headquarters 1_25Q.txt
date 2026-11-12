@@ -9,7 +9,7 @@ Ans: C
 
 2. The headquarters of World Wide Fund for Nature (WWF) is situated in:
 
-বিশ্ব প্ৰকৃতি প্ৰণিধিৰ (WWF) মুখ্য কার্যালয় ক’ত অৱস্থিত?
+বিশ্ব প্ৰকৃতি নিধিৰ (WWF) মুখ্য কার্যালয় ক’ত অৱস্থিত?
 A) Gland, Switzerland / গ্লেণ্ড, চুইজাৰলেণ্ড
 B) Geneva, Switzerland / জেনেভা, চুইজাৰলেণ্ড
 C) Nairobi, Kenya / নাইৰোবি, কেনিয়া
@@ -117,7 +117,7 @@ Ans: A
 
 14. In which city is the headquarters of the Shanghai Cooperation Organisation (SCO) located?
 
-চাংহাই সহযোগিতা সংস্থাৰ (SCO) মুখ্য কার্যালয় কোনখন ছহৰত অৱস্থিত?
+চাংহাই সহযোগিতা সংস্থাৰ (SCO) মুখ্য কার্যালয় কোনখন চহৰত অৱস্থিত?
 A) Beijing, China / বেইজিং, চীন
 B) Shanghai, China / সাংহাই, চীন
 C) Tashkent, Uzbekistan / তাছকন্দ, উজবেকিস্তান
@@ -126,7 +126,7 @@ Ans: A
 
 15. Where is the headquarters of the African Union (AU) located?
 
-আফ্ৰিকান ইউৰ্নিয়নৰ (AU) মুখ্য কার্যালয় ক’ত অৱস্থিত?
+আফ্ৰিকান ইউনিয়নৰ (AU) মুখ্য কার্যালয় ক’ত অৱস্থিত?
 A) Addis Ababa, Ethiopia / আডিছ আবাবা, ইথিঅ’পিয়া
 B) Cairo, Egypt / কায়ৰো, ইজিপ্ত
 C) Johannesburg, South Africa / জোহানেছবাৰ্গ, দক্ষিণ আফ্ৰিকা
@@ -189,10 +189,10 @@ Ans: A
 
 22. In which city is the headquarters of the OECD (Organisation for Economic Co-operation and Development) located?
 
-ও.ই.চি.ডি.ৰ (OECD) মুখ্য কার্যালয় কোনখন ছহৰত অৱস্থিত?
+ও.ই.চি.ডি.ৰ (OECD) মুখ্য কার্যালয় কোনখন চহৰত অৱস্থিত?
 A) Paris, France / পেৰিছ, ফ্ৰান্স
 B) Geneva, Switzerland / জেনেভা, চুইজাৰলেণ্ড
-C) Brussels, Belgium / ব্ৰুৱেলছ, বেলজিয়াম
+C) Brussels, Belgium / ব্ৰাছেলছ, বেলজিয়াম
 D) Vienna, Austria / ভিয়েনা, অষ্ট্রিয়া
 Ans: A
 

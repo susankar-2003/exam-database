@@ -156,7 +156,7 @@ Ans: B
 আন্দামান আৰু নিকোবৰ দ্বীপপুঞ্জৰ সৰ্বোচ্চ শৃংগটো কি?
 A) Mount Thullier / মাউণ্ট থুলিয়াৰ
 B) Saddle Peak / চেডল পিক
-C) Mount Harriet / মাউণ্ট হেৰিয়েল
+C) Mount Harriet / মাউণ্ট হেৰিয়েট
 D) Mount Diavolo / মাউণ্ট ডিয়াভোলো
 Ans: B
 
@@ -171,7 +171,7 @@ Ans: C
 
 20. Which mountain range separates Northern India from Peninsular India?
 
-কোনটো পৰ্বতমাল্যাক উত্তৰ ভাৰতক উপদ্বীপীয় ভাৰতৰ পৰা পৃথক কৰে?
+কোনটো পৰ্বতমালায়ে উত্তৰ ভাৰতক উপদ্বীপীয় ভাৰতৰ পৰা পৃথক কৰে?
 A) Vindhya Range / বিন্ধ্য পৰ্বতমালা
 B) Satpura Range / সাতপুৰা পৰ্বতমালা
 C) Aravalli Range / আৰাৱলী পৰ্বতমালা
@@ -183,7 +183,7 @@ Ans: A
 মহাৰাষ্ট্ৰৰ সৰ্বোচ্চ শৃংগ কি?
 A) Kalsubai / কলচুবাঈ
 B) Salher / সালহেৰ
-C) Mahabaleshwar / মহাবালশ্বৰ
+C) Mahabaleshwar / মহাবালেশ্বৰ
 D) Dhupgarh / ধূপগড়
 Ans: A
 

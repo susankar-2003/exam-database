@@ -1,7 +1,7 @@
 1. Which is the longest river in India?
 
 ভাৰতৰ দীর্ঘতম নদীখন কি?
-A) Godavari / গোধাবৰী
+A) Godavari / গোদাৱৰী
 B) Ganga / গংগা
 C) Yamuna / যমুনা
 D) Brahmaputra / ব্ৰহ্মপুত্ৰ
@@ -11,7 +11,7 @@ Ans: B
 
 কোনখন নদীক "দক্ষিণ গংগা" বুলি জনা যায়?
 A) Krishna / কৃষ্ণা
-B) Kaveri / কাবাৰী
+B) Kaveri / কাবেৰী
 C) Godavari / গোদাৱৰী
 D) Narmada / নৰ্মদা
 Ans: C
@@ -73,7 +73,7 @@ Ans: B
 9. Nagarjuna Sagar Dam is located on which river?
 
 নাগাৰ্জুন সাগৰ বান্ধ কোনখন নদীৰ ওপৰত অৱস্থিত?
-A) Kaveri / কাবাৰী
+A) Kaveri / কাবেৰী
 B) Krishna / কৃষ্ণা
 C) Godavari / গোদাৱৰী
 D) Tungabhadra / তুংগভদ্ৰা
@@ -92,7 +92,7 @@ Ans: B
 
 বিখ্যাত যোগ জলপ্ৰপাত (গেৰছোপ্পা) কোনখন নদীৰ ওপৰত অৱস্থিত?
 A) Sharavati / শৰাৱতী
-B) Cauvery / কাবাৰী
+B) Cauvery / কাবেৰী
 C) Netravati / নেত্রাৱতী
 D) Zuari / জুৱাৰী
 Ans: A
@@ -100,7 +100,7 @@ Ans: A
 12. Almatti Dam is built on which river in Karnataka?
 
 কৰ্ণাটকৰ আলমাত্তি বান্ধ কোনখন নদীৰ ওপৰত নিৰ্মাণ কৰা হৈছে?
-A) Kaveri / কাবাৰী
+A) Kaveri / কাবেৰী
 B) Krishna / কৃষ্ণা
 C) Tungabhadra / তুংগভদ্ৰা
 D) Malaprabha / মলপ্ৰভা
@@ -128,7 +128,7 @@ Ans: A
 
 তামিলনাডুৰ মেট্টুৰ বান্ধ কোনখন নদীৰ ওপৰত নিৰ্মাণ কৰা হৈছে?
 A) Vaigai / ভাইগাই
-B) Kaveri / কাবাৰী
+B) Kaveri / কাবেৰী
 C) Palar / পালাৰ
 D) Bhavani / ভৱানী
 Ans: B

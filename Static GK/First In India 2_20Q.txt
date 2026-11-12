@@ -10,7 +10,7 @@ Ans: B
 2. Who was the first woman Chief Minister of an Indian State?
 
 ভাৰতৰ কোনো ৰাজ্যৰ প্ৰথমগৰাকী মহিলা মুখ্যমন্ত্ৰী কোন আছিল?
-A) J. Jayalalithaa / যে. জয়ললিতা
+A) J. Jayalalithaa / জে. জয়ললিতা
 B) Mayawati / মায়াৱতী
 C) Sucheta Kripalani / সুচেতা কৃপালানী
 D) Nandini Satpathy / নন্দিনী সৎপথী
@@ -39,7 +39,7 @@ Ans: A
 মাউণ্ট এভাৰেষ্ট আৰোহণ কৰা প্ৰথমগৰাকী ভাৰতীয় মহিলা কোন আছিল?
 A) Santosh Yadav / সন্তোষ যাদৱ
 B) Bachendri Pal / বাছেন্দ্ৰী পাল
-C) Premlata Agarwal / প্ৰেমলতা অহাৰৱাল
+C) Premlata Agarwal / প্ৰেমলতা অগৰৱাল
 D) Arunima Sinha / অৰুণিমা সিনহা
 Ans: B
 
@@ -142,9 +142,9 @@ C) The Hindu
 D) Samachar Darpan
 Ans: B
 
-17. Which was India's first indigenously built nuclear power reactor?
+17. Which was India's first nuclear power reactor?
 
-ভাৰতৰ প্ৰথমটো থলুৱাভাৱে নিৰ্মিত পাৰমাণৱিক ৰিএক্টৰ (Nuclear Reactor) কোনটো আছিল?
+ভাৰতৰ প্ৰথমটো পাৰমাণৱিক ৰিএক্টৰ (Nuclear Reactor) কোনটো আছিল?
 A) Apsara / অপ্সৰা
 B) Kamini / কামিনী
 C) Dhruva / ধ্ৰুৱ

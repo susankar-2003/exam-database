@@ -11,14 +11,14 @@ Ans: B
 
 সুনিয়ন্ত্ৰিত কোষ মৃত্যুৰ প্ৰক্ৰিয়াটোক কি বোলা হয়?
 A) Necrosis / নেক্ৰ'ছিছ
-B) Apoptosis / এপ্ট'ছিছ
+B) Apoptosis / এপপ্ট'ছিছ
 C) Lysis / লাইছিছ
-D) Ligation / লাইগেছিন
+D) Ligation / লাইগেশ্যন
 Ans: B
 
 3. Uncontrolled mitosis division of cells leads to what condition?
 
-কোষৰ অনিঅন্ত্ৰিত মাইট'ছিছ বিভাজনে কি অৱস্থাৰ সৃষ্টি কৰে?
+কোষৰ অনিয়ন্ত্ৰিত মাইট'ছিছ বিভাজনে কি অৱস্থাৰ সৃষ্টি কৰে?
 A) Diabetes / বহুমূত্ৰ
 B) Cancer / কেন্সাৰ
 C) AIDS / এয়ডছ
@@ -39,15 +39,15 @@ Ans: A
 ডি.এন.এ. ৰ একক গঠনক কি বোলা হয়?
 A) Nucleoside / নিউক্লিঅ'ছাইড
 B) Nucleotide / নিউক্লিঅ'টাইড
-C) Amino acid / এমিঅ' এছিড
+C) Amino acid / এমিন এছিড
 D) Fatty acid / ফেটি এছিড
 Ans: B
 
 6. A nucleotide consists of which three components?
 
 নিউক্লিঅ'টাইড কি তিনিটা উপাদানেৰে গঠিত?
-A) Nitrogenous base, Sugar, Phosphate group / নাইট্ৰ'জেন ঘাটি, শৰ্কৰা, ফছফেক্ট গ্ৰুপ
-B) Amino acid, Sugar, Lipid / এমিঅ' এছিড, শৰ্কৰা, লিপিড
+A) Nitrogenous base, Sugar, Phosphate group / নাইট্ৰ'জেন ঘাটি, শৰ্কৰা, ফছফেট গ্ৰুপ
+B) Amino acid, Sugar, Lipid / এমিন এছিড, শৰ্কৰা, লিপিড
 C) Base, Protein, Water / ঘাটি, প্ৰ'টিন, পানী
 D) Sugar, Fatty acid, Glycerol / শৰ্কৰা, ফেটি এছিড, গ্লিচাৰল
 Ans: A
@@ -139,7 +139,7 @@ Ans: A
 A) Protoplasm / প্ৰ'ট'প্লাজম
 B) Cytosol / চাইট'চল
 C) Nucleoplasm / নিউক্লিঅ'প্লাজম
-D) Ectoplasm / এক্স'প্লাজম
+D) Ectoplasm / এক্ট'প্লাজম
 Ans: A
 
 17. Who coined the term protoplasm?

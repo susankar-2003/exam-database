@@ -165,7 +165,7 @@ Ans: B
 মানুহৰ হৃদপিণ্ডৰ চাৰিওফালে কোনটো আৱৰণ থাকে?
 A) Pleura / প্লুৰা
 B) Pericardium / পেৰিকাৰ্ডিয়াম
-C) Meninges / মে নিনজেছ
+C) Meninges / মেনিনজেছ
 D) Peritoneum / পেৰিট'নিয়াম
 Ans: B
 
@@ -191,7 +191,7 @@ Ans: B
 
 মানুহৰ শৰীৰৰ গঠন সংক্ৰান্তীয় অধ্যয়নক কি বোলা হয়?
 A) Physiology / শৰীৰ তত্ত্ব
-B) Anatomy / শারীরস্থান (এনাটমী)
+B) Anatomy / শৰীৰস্থান (এনাটমী)
 C) Histology / কলা তত্ত্ব
 D) Cytology / কোষ তত্ত্ব
 Ans: B
@@ -219,6 +219,6 @@ Ans: C
 মানুহৰ মগজু আৰু মেৰুদণ্ডক ঢাকি ৰখা আৱৰণটোক কি বুলি কোৱা হয়?
 A) Pericardium / পেৰিকাৰ্ডিয়াম
 B) Pleura / প্লুৰা
-C) Meninges / মে নিনজেছ
+C) Meninges / মেনিনজেছ
 D) Peritoneum / পেৰিট'নিয়াম
 Ans: C

@@ -54,7 +54,7 @@ Ans: A
 
 7. Salinometer works on the principle of measuring electrical:
 
-চেলিনোমিটাৰে কি বৈদুতিক গুণ জুখি লৱণাক্ততা নিৰ্ণয় কৰে?
+চেলিনোমিটাৰে কি বৈদ্যুতিক গুণ জুখি লৱণাক্ততা নিৰ্ণয় কৰে?
 A) Conductivity / পৰিবাহিতা
 B) Resistance / ৰোধ
 C) Voltage / ভোল্টেজ

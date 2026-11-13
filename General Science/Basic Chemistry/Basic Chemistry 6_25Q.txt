@@ -144,7 +144,7 @@ Ans: B
 17. Which subatomic particle has no electrical charge?
 
 কোনটো পাৰমাণৱিক কণাৰ কোনো বৈদ্যুতিক আধান নাথাকে?
-A) Proton / પ્રટ'ন
+A) Proton / প্ৰট'ন
 B) Electron / ইলেকট্রন
 C) Neutron / নিউট্ৰন
 D) Positron / পজিট্ৰন

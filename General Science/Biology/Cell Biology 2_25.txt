@@ -92,7 +92,7 @@ Ans: B
 
 ৱাটছন আৰু ক্ৰিকৰ ডি.এন.এ. ৰ দ্বি-সূত্ৰকাৰ আৰ্হি কিহৰ ওপৰত আধাৰিত?
 A) X-ray diffraction / এক্স-ৰে ডিফ্ৰেক্সন
-B) Electron microscopy / ইলক ট্ৰন মাইক্ৰ'স্ক'পী
+B) Electron microscopy / ইলেক্ট্ৰন মাইক্ৰ'স্ক'পী
 C) Chromatography / ক্ৰ'মেট'গ্ৰাফী
 D) NMR spectroscopy / এন.এম.আৰ. স্পেক্ট্ৰ'স্ক'পী
 Ans: A

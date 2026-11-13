@@ -201,6 +201,6 @@ Ans: A
 বায়ুমণ্ডলৰ আৰ্দ্ৰতা জোখিবলৈ কোনটো যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
 A) Barometer / বেৰ’মিটাৰ
 B) Hygrometer / হাইগ্ৰ’মিটাৰ
-C) Anemometer / এনি মমীটাৰ
+C) Anemometer / এনিমমীটাৰ
 D) Thermometer / থাৰ্ম’মিটাৰ
 Ans: B

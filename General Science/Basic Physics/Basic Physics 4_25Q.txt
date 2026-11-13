@@ -163,10 +163,10 @@ Ans: B
 19. 1 Joule is equal to how many ergs?
 
 ১ জুল কিমান আৰ্গৰ (Erg) সমান?
-A) 10⁵ Ergs / ১০৫ আৰ্গ
-B) 10⁷ Ergs / ১০৭ আৰ্গ
-C) 10⁶ Ergs / ১০৬ আৰ্গ
-D) 10⁸ Ergs / ১০৮ আৰ্গ
+A) 10⁵ Ergs
+B) 10⁷ Ergs
+C) 10⁶ Ergs
+D) 10⁸ Ergs
 Ans: B
 
 20. In an elastic collision, which quantity is conserved?

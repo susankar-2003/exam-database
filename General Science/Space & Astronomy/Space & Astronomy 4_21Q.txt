@@ -1,6 +1,6 @@
 1. Olympus Mons, the largest volcano in the solar system, is located on which planet?
 
-সৌৰজগতৰ আটাইতকৈ ডাঙৰ আগ্নেয়গিৰি 'অলিম্পাছ মনছ' কোনটো গ্ৰহতো অৱস্থিত?
+সৌৰজগতৰ আটাইতকৈ ডাঙৰ আগ্নেয়গিৰি 'অলিম্পাছ মনছ' কোনটো গ্ৰহত অৱস্থিত?
 A) Venus / শুক্ৰ
 B) Mars / মঙ্গল
 C) Jupiter / বৃহস্পতি
@@ -108,9 +108,9 @@ Ans: A
 
 13. Which space probe flew past Pluto in 2015, providing high-resolution images of the dwarf planet?
 
-২০১৫ চনত প্লুট'ৰ ওচৰেৰে উৰি গৈ এই বামন গ্ৰহটোৰ স্পষ্ট ছব প্ৰদান কৰা মহাকাশ যানখন কি আছিল?
+২০১৫ চনত প্লুট'ৰ ওচৰেৰে উৰি গৈ এই বামন গ্ৰহটোৰ স্পষ্ট ছবি প্ৰদান কৰা মহাকাশ যানখন কি আছিল?
 A) New Horizons / নিউ হৰাইজনছ (New Horizons)
-B) Cassini / কিচিনী
+B) Cassini / কাচিনী
 C) Galileo / গেলিলিঅ'
 D) Juno / জুনো
 Ans: A

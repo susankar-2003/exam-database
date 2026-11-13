@@ -109,10 +109,10 @@ Ans: A
 13. Small circular extra-chromosomal DNA found in bacteria is called what?
 
 বেক্টেৰিয়াত পোৱা সৰু বৃত্তাকাৰ অতিৰিক্ত ক্ৰ'ম'জ'মীয় ডি.এন.এ. ক কি বোলা হয়?
-A) Plasmid / প্লাজমাপ্ত
+A) Plasmid / প্লাজমিড
 B) Cosmid / ক'ছমিড
 C) Vector / ভেক্টৰ
-D) Phagmid / ফেগমাপ্ত
+D) Phagmid / ফেজমিড
 Ans: A
 
 14. The term 'Genetics' was coined by which scientist?

@@ -28,10 +28,10 @@ Ans: B
 4. What is the speed of light in vacuum?
 
 শূন্য মাধ্যমত পোহৰৰ বেগ কিমান?
-A) 3 x 10⁸ m/s / ৩ × ১০৮ মি/ছে
-B) 3 x 10⁶ m/s / ৩ × ১০৬ মি/ছে
-C) 3 x 10⁵ km/s / ৩ × ১০৫ কিমি/ছে
-D) Both A and C / A আৰু C দুয়োটা
+A) 3 x 10⁸ m/s
+B) 3 x 10⁶ m/s
+C) 3 x 10⁵ km/s
+D) Both A and C
 Ans: D
 
 5. Sky appears blue due to which optical phenomenon?
@@ -191,7 +191,7 @@ Ans: B
 
 এক্স-ৰে' কোনে আৱিষ্কাৰ কৰিছিল?
 A) J J Thomson / জে. জে. থমছন
-B) W C Roentgen / ডব্লিউ. চি. ৰোentgen
+B) W C Roentgen / ডব্লিউ. চি. ৰণ্টজেন
 C) Ernest Rutherford / আৰ্নেষ্ট ৰাডাৰফৰ্ড
 D) Marie Curie / মেৰী কুৰী
 Ans: B

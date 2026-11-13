@@ -63,7 +63,7 @@ Ans: A
 
 8. Which disease is caused by a protozoan transmitted by Female Anopheles mosquito?
 
-মাই এন'ফিলেছ মহৰ দ্বাৰা প্ৰসংগক্ৰমে সংক্ৰমিত হোৱা প্ৰ'ট'জ'ৱাজনিত ৰোগটো কি?
+মাইকী এন'ফিলেছ মহৰ দ্বাৰা প্ৰসংগক্ৰমে সংক্ৰমিত হোৱা প্ৰ'ট'জ'ৱাজনিত ৰোগটো কি?
 A) Dengue / ডেংগু
 B) Malaria / মেলেৰিয়া
 C) Filariasis / ফাইলেৰিয়াচিছ
@@ -180,7 +180,7 @@ Ans: C
 
 21. Which organ is affected by Trachoma disease?
 
-ট্রা কোমা (Trachoma) ৰোগত কোনটো অংগ আক্ৰান্ত হয়?
+ট্রাকোমা (Trachoma) ৰোগত কোনটো অংগ আক্ৰান্ত হয়?
 A) Eye / চকু
 B) Ear / কাণ
 C) Lung / হাওঁফাওঁ

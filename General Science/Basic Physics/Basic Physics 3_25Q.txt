@@ -1,6 +1,6 @@
 1. Submarines work on the principle of:
 
-জাবজাহাজ (Submarine) কোনটো নীতিৰ ওপৰত কাম কৰে?
+ডুবজাহাজ (Submarine) কোনটো নীতিৰ ওপৰত কাম কৰে?
 A) Newton's Law / নিউটনৰ সূত্ৰ
 B) Archimedes' Principle / আৰ্কিমিডিছৰ নীতি
 C) Pascal's Law / পাস্কেলৰ সূত্ৰ
@@ -64,10 +64,10 @@ Ans: C
 8. One Kilowatt-hour is equal to:
 
 এক কিলোওয়াট-ঘণ্টা কিমান জুলৰ সমান?
-A) 3.6 x 10⁶ Joules / ৩.৬ × ১০৬ জুল
-B) 3.6 x 10⁵ Joules / ৩.৬ × ১০৫ জুল
-C) 1000 Joules / ১০০০০ জুল
-D) 746 Joules / ৭৪৬ জুল
+A) 3.6 x 10⁶ Joules
+B) 3.6 x 10⁵ Joules
+C) 1000 Joules
+D) 746 Joules
 Ans: A
 
 9. Resistance of an ideal ammeter is:
@@ -181,10 +181,10 @@ Ans: B
 21. Velocity of sound in air at 0°C is approximately:
 
 ০° ছেলছিয়াছ উষ্ণতাত বায়ুত শব্দৰ বেগ প্ৰায় কিমান?
-A) 332 m/s / ৩৩২ মি/ছে
-B) 1500 m/s / ১৫০০ মি/ছে
-C) 5000 m/s / ৫০০০০ মি/ছে
-D) 3 x 10⁸ m/s / ৩ × ১০৮ মি/ছে
+A) 332 m/s
+B) 1500 m/s
+C) 5000 m/s
+D) 3 x 10⁸ m/s
 Ans: A
 
 22. Persistence of vision for human eye is:
@@ -216,7 +216,7 @@ Ans: B
 
 25. Bats navigate and catch prey using:
 
-বাদুলিই কি শব্দ তৰঙ্গ ব্যৱহাৰ কৰি নিশাচৰ দিশ নিৰ্ণয় আৰু চিকাৰ কৰে?
+বাদুলিয়ে কি শব্দ তৰঙ্গ ব্যৱহাৰ কৰি নিশাচৰ দিশ নিৰ্ণয় আৰু চিকাৰ কৰে?
 A) Ultrasonic waves / আল্ট্ৰাছ’নিক তৰঙ্গ
 B) Infrasonic waves / ইনফ্ৰাছ’নিক তৰঙ্গ
 C) Radio waves / ৰেডিঅ’ তৰঙ্গ

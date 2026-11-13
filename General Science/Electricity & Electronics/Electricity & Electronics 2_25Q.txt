@@ -1,6 +1,6 @@
 1. Nichrome is an alloy of:
 
-নাইক্ৰ'ম কিহৰ সংকট ধাতু?
+নাইক্ৰ'ম কিহৰ সংকৰ ধাতু?
 A) Nickel and Chromium / নিকেল আৰু ক্ৰ'মিয়াম
 B) Copper and Nickel / তাম আৰু নিকেল
 C) Iron and Zinc / লো আৰু দস্তা
@@ -18,7 +18,7 @@ Ans: C
 
 3. Which component is used to store electrical energy in an electric field?
 
-বৈদ্যুতিক ক্ষেত্ৰত বৈদুতিক শক্তি সঞ্চয় কৰিবলৈ কি উপাদান ব্যৱহাৰ কৰা হয়?
+বৈদ্যুতিক ক্ষেত্ৰত বৈদ্যুতিক শক্তি সঞ্চয় কৰিবলৈ কি উপাদান ব্যৱহাৰ কৰা হয়?
 A) Inductor / ইণ্ডাক্টৰ
 B) Capacitor / কেপাচিটৰ
 C) Resistor / ৰেজিষ্টৰ
@@ -56,7 +56,7 @@ Ans: B
 
 ট্ৰান্সফৰ্মাৰ কি সূত্ৰৰ ওপৰত ভিত্তি কৰি কাৰ্য কৰে?
 A) Self induction / স্ব-আৱেশ
-B) Mutual induction / ইmapped/পাৰস্পৰিক আৱেশ
+B) Mutual induction / পাৰস্পৰিক আৱেশ
 C) Electromagnetic force / বৈদ্যুত-চুম্বকীয় বল
 D) Seebeck effect / চিবেক প্ৰভাৱ
 Ans: B
@@ -117,7 +117,7 @@ Ans: A
 
 14. Device used to amplify weak electrical signals is:
 
-দুৰ্বল বৈদুতিক সংকেত বিবৰ্ধন কৰিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰ হ'ল:
+দুৰ্বল বৈদ্যুতিক সংকেত বিবৰ্ধন কৰিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰ হ'ল:
 A) Diode / ডায়'ড
 B) Transistor / ট্রানজিষ্টৰ
 C) Resistor / ৰেজিষ্টৰ
@@ -173,7 +173,7 @@ Ans: B
 20. The reciprocal of resistance is called:
 
 ৰোধৰ বিপৰীত ৰাশিক কি বোলা হয়?
-A) Conductance / পৰিবাহিত
+A) Conductance / পৰিবাহিতা
 B) Resistivity / আপেক্ষিক ৰোধ
 C) Inductance / আৱেশকত্ব
 D) Susceptibility / সংবেদনশীলতা

@@ -145,7 +145,7 @@ Ans: B
 17. Which hormone regulates blood pressure and salt balance in human body?
 
 শৰীৰত ৰক্তচাপ আৰু লৱণৰ ভাৰসাম্য কোনটো হৰমোনে নিয়ন্ত্ৰণ কৰে?
-A) Aldosterone / এ্ল্ড'ষ্টেৰন
+A) Aldosterone / এলড'ষ্টেৰন
 B) Insulin / ইনচুলিন
 C) Thyroxine / থাইৰক্সিন
 D) Oxytocin / অক্সিট'চিন

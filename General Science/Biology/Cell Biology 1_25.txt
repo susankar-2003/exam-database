@@ -1,6 +1,6 @@
 1. Which organelle is known as the powerhouse of the cell?
 
-এইটো কোনটো অঙ্গাণুক কোষৰ শক্তিঘৰ বুলি কোৱা হয়?
+কোনটো অঙ্গাণুক কোষৰ শক্তিঘৰ বুলি কোৱা হয়?
 A) Ribosome / ৰাইবোজোম
 B) Mitochondria / মাইট'কন্ড্ৰিয়া
 C) Lysosome / লাইছ'জোম
@@ -99,7 +99,7 @@ Ans: B
 
 12. Which cellular component is responsible for spindle formation during cell division?
 
-কোষ বিভাজনৰ সময়ত স্ফিণ্ডেল গঠণৰ বাবে কোনটো কোষীয় উপাদান দায়বদ্ধ?
+কোষ বিভাজনৰ সময়ত স্পিণ্ডল গঠনৰ বাবে কোনটো কোষীয় উপাদান দায়বদ্ধ?
 A) Centrosome / চেণ্ট্ৰ'জোম
 B) Lysosome / লাইছ'জোম
 C) Peroxisome / পেৰক্সিজোম

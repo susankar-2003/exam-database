@@ -37,10 +37,10 @@ Ans: B
 5. Value of Universal Gravitational Constant G is:
 
 বিশ্বজনীন মহাকৰ্ষণিক ধ্ৰুৱক G ৰ মান কিমান?
-A) 6.67 x 10⁻¹¹ N m²/kg² / ৬.৬৭ × ১০⁻১১ নিউটন মি২/কিগ্ৰা২
-B) 9.8 m/s² / ৯.৮ মি/ছে২
-C) 6.67 x 10¹¹ N m²/kg² / ৬.৬৭ × ১০১১ নিউটন মি২/কিগ্ৰা২
-D) 1.6 x 10⁻¹⁹ C / ১.৬ × ১০⁻১৯ কুলম্ব
+A) 6.67 x 10⁻¹¹ N m²/kg²
+B) 9.8 m/s²
+C) 6.67 x 10¹¹ N m²/kg²
+D) 1.6 x 10⁻¹⁹ C
 Ans: A
 
 6. Center of gravity of a uniform sphere lies at its:

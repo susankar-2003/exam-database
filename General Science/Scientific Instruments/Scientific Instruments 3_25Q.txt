@@ -36,7 +36,7 @@ Ans: A
 
 5. Which barometer does not use any liquid?
 
-কোনটো বাৰ'মিটাৰে কোনো তৰংগ বা তৰল ব্যৱহাৰ নকৰে?
+কোনটো বাৰ'মিটাৰে কোনো তৰল ব্যৱহাৰ নকৰে?
 A) Aneroid barometer / এনিৰইড বাৰ'মিটাৰ
 B) Mercury barometer / পাৰা বাৰ'মিটাৰ
 C) Fortin's barometer / ফ'ৰ্টিনৰ বাৰ'মিটাৰ

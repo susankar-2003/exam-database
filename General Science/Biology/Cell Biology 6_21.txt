@@ -90,7 +90,7 @@ Ans: A
 
 11. Which type of RNA brings amino acids to ribosome during protein synthesis?
 
-প্ৰ'টিন সংশ্লেষণৰ সময়ত কোনটো আৰ.এন.এ. এ এমিঅ' এছিড কঢ়িয়াই আনে?
+প্ৰ'টিন সংশ্লেষণৰ সময়ত কোনটো আৰ.এন.এ. এ এমিন এছিড কঢ়িয়াই আনে?
 A) tRNA / টি.আৰ.এন.এ.
 B) mRNA / এম.আৰ.এন.এ.
 C) rRNA / আৰ.আৰ.এন.এ.
@@ -130,7 +130,7 @@ Ans: A
 A) Replication / ৰেপ্লিকেশ্বন
 B) Transcription / ট্ৰান্সক্ৰিপশ্বন
 C) Translation / ট্ৰান্সলেশন
-D) Mutation / মিউটেblings
+D) Mutation / মিউটেছন
 Ans: A
 
 16. What is the basic unit of heredity?
@@ -145,7 +145,7 @@ Ans: A
 17. Alternate forms of a gene are called what?
 
 জিনৰ বিকল্প ৰূপবোৰক কি বোলা হয়?
-A) Alleles / এلیل
+A) Alleles / এলিল
 B) Genotype / জেন'টাইপ
 C) Phenotype / ফিন'টাইপ
 D) Mutants / মিউটেন্ট

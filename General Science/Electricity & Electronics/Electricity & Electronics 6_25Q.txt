@@ -136,7 +136,7 @@ Ans: C
 16. Resistance of human body decreases significantly when:
 
 মানৱ শৰীৰৰ প্ৰতিৰোধ ক্ষমতা যথেষ্ট হ্ৰাস পায় যেতিয়া...?
-A) Skin is wet / ছাল তেন্তে বা তিতা হ'লে
+A) Skin is wet / ছাল সেমেকা বা তিতা হ'লে
 B) Body is dry / শৰীৰ শুকান হ'লে
 C) Standing on wooden floor / কাঠৰ মেঝিয়াত থিয় হ'লে
 D) Wearing rubber shoes / ৰবাৰৰ জোতা পিন্ধি থাকিলে
@@ -147,7 +147,7 @@ Ans: A
 সমান্তৰাল পাত কেপাচিটৰৰ ধাৰকত্ব কিহৰ দ্বাৰা বৃদ্ধি পায়?
 A) Increasing area of plates / পাতৰ কালি বৃদ্ধি কৰিলে
 B) Increasing distance between plates / পাত দুটাৰ দুৰত্ব বঢ়ালে
-C) Decreasing area of plates / পাতৰ কালি কমাল
+C) Decreasing area of plates / পাতৰ কালি কমালে
 D) Removing dielectric material / ডাই-ইলেকট্ৰিক আঁতৰালে
 Ans: A
 
@@ -171,7 +171,7 @@ Ans: B
 
 20. Inside a hollow charged conductor, the electric field is:
 
-এটা ফোলোং আধানযুক্ত পৰিবাহীৰ ভিতৰত বৈদ্যুতিক ক্ষেত্ৰ কিমান?
+এটা ফোপোলা আধানযুক্ত পৰিবাহীৰ ভিতৰত বৈদ্যুতিক ক্ষেত্ৰ কিমান?
 A) Maximum / সৰ্বোচ্চ
 B) Zero / শূন্য
 C) Infinite / অসীম

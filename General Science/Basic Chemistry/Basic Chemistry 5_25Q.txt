@@ -56,7 +56,7 @@ Ans: B
 
 কোনটো গেছৰ গোন্ধ পচা কণীৰ দৰে?
 A) Hydrogen Sulfide (H2S) / হাইড্ৰ'জেন ছালফাইড
-B) Ammonia (NH3) / এমেোনিয়া
+B) Ammonia (NH3) / এম'নিয়া
 C) Sulfur Dioxide (SO2) / ছালফাৰ ডাই অক্সাইড
 D) Chlorine (Cl2) / ক্ল'ৰিন
 Ans: A
@@ -144,7 +144,7 @@ Ans: B
 
 17. Which gas is used in fire extinguishers?
 
-জুই জীয়াবলৈ কোনটো গেছ ব্যৱহাৰ কৰা হয়?
+জুই নুমুৱাবলৈ কোনটো গেছ ব্যৱহাৰ কৰা হয়?
 A) Oxygen / অক্সিজেন
 B) Nitrogen / নাইট্ৰ'জেন
 C) Carbon Dioxide / কাৰ্বন ডাই অক্সাইড

@@ -144,7 +144,7 @@ Ans: A
 
 17. Australian marsupials showing similarities with placental mammals is an example of what?
 
-অষ্ট্ৰেলিয়াৰ মাৰছুপিয়েল আৰু পলেচেণ্টেল স্তন্যপায়ীৰ মাজৰ সাদৃশ্য কিহৰ উদাহৰণ?
+অষ্ট্ৰেলিয়াৰ মাৰছুপিয়েল আৰু প্লেচেণ্টেল স্তন্যপায়ীৰ মাজৰ সাদৃশ্য কিহৰ উদাহৰণ?
 A) Adaptive convergence / অভিযোজনমূলক অভিসাৰিতা
 B) Adaptive radiation / অভিযোজনমূলক প্ৰসাৰণ
 C) Divergent evolution / অপসাৰী বিৱৰ্তন

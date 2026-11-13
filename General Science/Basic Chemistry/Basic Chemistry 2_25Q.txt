@@ -27,7 +27,7 @@ Ans: B
 
 4. Which technique is used to separate pigments from flower petals?
 
-ফুলৰ পাহিৰ পৰা ৰং পৃথকলৈ কোনটো পদ্ধতি ব্যৱহাৰ কৰা হয়?
+ফুলৰ পাহিৰ পৰা ৰং পৃথক কৰিবলৈ কোনটো পদ্ধতি ব্যৱহাৰ কৰা হয়?
 A) Distillation / পাতন
 B) Chromatography / ক্ৰ'মেট'গ্ৰাফী
 C) Centrifugation / চেণ্ট্ৰিফিউগেচন
@@ -90,7 +90,7 @@ Ans: B
 
 11. Which element is present in chlorophyll?
 
-ক্ল'ৰ'ফিলত কোনটো ধাতুউপস্থিত থাকে?
+ক্ল'ৰ'ফিলত কোনটো ধাতু উপস্থিত থাকে?
 A) Iron / লো
 B) Magnesium / মেগনেছিয়াম
 C) Calcium / কেলছিয়াম
@@ -142,7 +142,7 @@ C) H2O2
 D) H3O
 Ans: B
 
-17. Which metal is used for galvanizing electric wires?
+17. Which material is used for galvanizing electric wires?
 
 বৈদ্যুতিক তাৰত আৱৰণ দিবলৈ আৰু সুৰক্ষাৰ বাবে কি ব্যৱহাৰ কৰা হয়?
 A) Copper / তাম
@@ -199,7 +199,7 @@ Ans: B
 23. Which catalyst is used in Haber's process for Ammonia?
 
 হেবাৰৰ প্ৰক্ৰিয়াত এমেোনিয়া প্ৰস্তুত কৰোঁতে কোনটো অনুঘটক ব্যৱহাৰ কৰা হয়?
-A) Iron / লো (ফি)
+A) Iron / লো 
 B) Nickel / নিকেল
 C) Platinum / প্লেটিনাম
 D) Copper / তাম
@@ -218,7 +218,7 @@ Ans: A
 
 বিজ্ঞাপন সংকেত বোৰত (নিয়ন ছাইন) কোনটো সম্ভ্ৰান্ত গেছ ব্যৱহাৰ কৰা হয়?
 A) Argon / আৰ্গন
-B) Neon / নিয়নে
+B) Neon / নিয়ন
 C) Krypton / ক্রিপ্টন
 D) Xenon / জেনন
 Ans: B

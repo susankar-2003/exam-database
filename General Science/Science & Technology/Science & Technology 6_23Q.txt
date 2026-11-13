@@ -28,19 +28,19 @@ Ans: A
 4. What is the full form of CPU?
 
 CPU ৰ সম্পূৰ্ণ ৰূপ কি?
-A) Central Processing Unit / চেণ্ট্ৰেল প্ৰচেছিং ইউৰ্নিট
-B) Computer Processing Unit / কম্পিউটাৰ প্ৰচেছিং ইউৰ্নিট
-C) Central Performance Unit / চেণ্ট্ৰেল পাৰফৰমেন্স ইউৰ্নিট
-D) Control Program Unit / কণ্ট্ৰ'ল প্ৰগ্ৰেম ইউৰ্নিট
+A) Central Processing Unit / চেণ্ট্ৰেল প্ৰচেছিং ইউনিট
+B) Computer Processing Unit / কম্পিউটাৰ প্ৰচেছিং ইউনিট
+C) Central Performance Unit / চেণ্ট্ৰেল পাৰফৰমেন্স ইউনিট
+D) Control Program Unit / কণ্ট্ৰ'ল প্ৰগ্ৰেম ইউনিট
 Ans: A
 
 5. What is the full form of GPU used in graphics processing?
 
 গ্ৰাফিক্স প্ৰচেছিঙত ব্যৱহৃত GPU ৰ সম্পূৰ্ণ ৰূপ কি?
-A) Graphics Processing Unit / গ্ৰাফিক্স প্ৰচেছিং ইউৰ্নিট
-B) General Processing Unit / জেনেৰেল প্ৰচেছিং ইউৰ্নিট
-C) Graphical Performance Unit / গ্ৰাফিকেল পাৰফৰমেন্স ইউৰ্নিট
-D) Grid Power Unit / গ্ৰিড পাৱাৰ ইউৰ্নিট
+A) Graphics Processing Unit / গ্ৰাফিক্স প্ৰচেছিং ইউনিট
+B) General Processing Unit / জেনেৰেল প্ৰচেছিং ইউনিট
+C) Graphical Performance Unit / গ্ৰাফিকেল পাৰফৰমেন্স ইউনিট
+D) Grid Power Unit / গ্ৰিড পাৱাৰ ইউনিট
 Ans: A
 
 6. What is the binary representation of decimal number 10?
@@ -192,7 +192,7 @@ Ans: A
 ব্লকচেইন (Blockchain) প্ৰযুক্তি কোনটো ব্যৱস্থাৰ মূল ভেটি?
 A) Cryptocurrencies (e.g. Bitcoin) / ক্ৰিপ্টোকাৰেন্সী (যেনে- বিটকইন)
 B) Traditional landline telephone / পৰম্পৰাগত লেণ্ডলাইন টেলিফোন
-C) Analog television broadcast / এনাৰ্লগ টেলিভিছন সম্প্ৰচাৰ
+C) Analog television broadcast / এনালগ টেলিভিছন সম্প্ৰচাৰ
 D) Magnetic floppy disks / মেগনেটিক ফ্লপি ডিস্ক
 Ans: A
 

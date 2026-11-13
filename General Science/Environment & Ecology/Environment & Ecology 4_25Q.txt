@@ -38,7 +38,7 @@ Ans: B
 
 চিলিক’চিছ ৰোগ কোনটো পদাৰ্থ শ্বাসৰ সৈতে লোৱাৰ বাবে হয়?
 A) Silica dust / ছিলিকাৰ ধূলি
-B) Cotton dust / কপাৰ ধূলি
+B) Cotton dust / কপাহৰ ধূলি
 C) Coal dust / কয়লাৰ ধূলি
 D) Asbestos / এছবেষ্টছ
 Ans: A
@@ -120,7 +120,7 @@ Ans: B
 ফ্লাই এছ (Fly Ash) মূলতঃ কোনটো উদ্যোগৰ পৰা উপজাত সামগ্ৰী হিচাপে ওলায়?
 A) Thermal Power Plants / তাপবিদ্যুৎ প্ৰকল্প
 B) Steel Plants / ইস্পাত উদ্যোগ
-C) Paper Mills / কাগজ কলাই
+C) Paper Mills / কাগজৰ কল
 D) Textile Industry / বস্ত্ৰ উদ্যোগ
 Ans: A
 
@@ -164,7 +164,7 @@ Ans: C
 
 ডেংগু ভাইৰাছ কোনটো বাহকে সংক্ৰমিত কৰে?
 A) Anopheles Mosquito / এনোফিলিছ মহ
-B) Aedes Mosquito / এডেনিছ মহ (Aedes)
+B) Aedes Mosquito / এডিছ মহ
 C) Culex Mosquito / কিউলেক্স মহ
 D) Housefly / মাখি
 Ans: B

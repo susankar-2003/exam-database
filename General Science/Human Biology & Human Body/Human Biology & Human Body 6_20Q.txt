@@ -119,7 +119,7 @@ Ans: B
 
 তেজ স্বাভাৱিকভাৱে গোট নমৰা সমস্যাটো কোনটো বংশানুক্ৰমিক ৰোগৰ লক্ষণ?
 A) Hemophilia / হিম'ফিলিয়া
-B) Sickle Cell Anemia / চেল এনিমিয়া
+B) Sickle Cell Anemia / ছিকল চেল এনিমিয়া
 C) Thalassemia / থেলাছেমিয়া
 D) Leukemia / লিউকেমিয়া
 Ans: A

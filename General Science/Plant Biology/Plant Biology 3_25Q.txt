@@ -13,7 +13,7 @@ Ans: C
 A) Transpiration ( প্ৰস্বেদন )
 B) Translocation ( স্থানান্তৰণ / ফ্ল’ৱেম পৰিবহন )
 C) Respiration ( শ্বসন )
-D) Absorption ( শোষন )
+D) Absorption ( শোষণ )
 Ans: B
 
 3. The waxy layer on the surface of leaves that reduces water loss is:
@@ -34,7 +34,7 @@ C) Gibberellin ( জিব্বাৰেলিন )
 D) Cytokinin ( সাইট’কাইনিন )
 Ans: B
 
-5. Which organelle contains its own DNA and ribosomess inside plant cells?
+5. Which organelle contains its own DNA and ribosomes inside plant cells?
 
 উদ্ভিদ কোষৰ ভিতৰত কোনটো অঙ্গাণুৰ নিজা ডি এন এ আৰু ৰাইব’জ’ম থাকে?
 A) Golgi Apparatus ( গলগি বডি )
@@ -52,7 +52,7 @@ C) Sucrose ( চুক্ৰ’জ )
 D) Maltose ( মল্ট’জ )
 Ans: B
 
-7. Gingers are underground structures classified as modified:
+7. Ginger is an underground structures classified as modified:
 
 আদা হ’ল ভূগৰ্ভস্থ গঠন, যিবোৰক কিহৰ ৰূপান্তৰিত ৰূপ বুলি ধৰা হয়?
 A) Roots ( শিপা )
@@ -162,7 +162,7 @@ Ans: B
 
 19. Parasitic roots that absorb nutrients directly from host tissues are called:
 
-প পোষক কলাৰ পৰা পোনে পোনে পুষ্টি শোষন কৰা পৰজীৱী শিপাবোৰক কি বোলে?
+পোষক কলাৰ পৰা পোনে পোনে পুষ্টি শোষন কৰা পৰজীৱী শিপাবোৰক কি বোলে?
 A) Pneumatophores ( শ্বাস-শিপা )
 B) Haustoria ( হষ্ট’ৰিয়া )
 C) Prop Roots ( ঠাল শিপা )

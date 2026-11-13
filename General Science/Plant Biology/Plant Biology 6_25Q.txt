@@ -28,7 +28,7 @@ Ans: A
 4. Whip-tail disease of cauliflower is caused by deficiency of:
 
 ফুলকবিৰ "হুইপ-টেইল" ৰোগ কিহৰ অভাৱত হয়?
-A) Molybdenum ( মলিবডেনাছ )
+A) Molybdenum ( মলিবডেনাম )
 B) Zinc ( জিংক )
 C) Boron ( বৰণ )
 D) Copper ( তাম )
@@ -72,7 +72,7 @@ Ans: A
 
 9. CAM plants open their stomata during:
 
-CAM উদ্ভিদবোৰে সিহঁতৰ পত্ৰৰন্ধ্ৰ কতিয়া খুলি দিয়ে?
+CAM উদ্ভিদবোৰে সিহঁতৰ পত্ৰৰন্ধ্ৰ কেতিয়া খুলি দিয়ে?
 A) Night ( ৰাতি )
 B) Daytime ( দিনৰ ভাগত )
 C) Noon ( দুপৰীয়া )
@@ -109,7 +109,7 @@ Ans: B
 13. Triploid (3n) tissue formed after double fertilization in angiosperms is:
 
 গুপ্তবীজী উদ্ভিদৰ দ্বি-নিষেচনৰ পিছত গঠিত ট্ৰিপ্লইড (3n) কলাটো কি?
-A) Endosperm ( ভ্ৰূণপোোষ )
+A) Endosperm ( ভ্ৰূণপোষ )
 B) Embryo ( ভ্ৰূণ )
 C) Seed Coat ( বীজত্বক )
 D) Zygote ( জাইগ’ট )
@@ -117,7 +117,7 @@ Ans: A
 
 14. Endosperm provides nourishment to the developing:
 
-ভ্ৰূণপোোষে (Endosperm) কাৰ বিকাশত পুষ্টি যোগায়?
+ভ্ৰূণপোষ (Endosperm) কাৰ বিকাশত পুষ্টি যোগায়?
 A) Embryo ( ভ্ৰূণ )
 B) Flower ( ফুল )
 C) Root ( শিপা )
@@ -126,9 +126,9 @@ Ans: A
 
 15. Non-endospermic (exalbuminous) seeds store food in their:
 
-ভ্ৰূণপোোষ নথকা বীজবোৰে ক’ত খাদ্য সঞ্চয় কৰে?
+ভ্ৰূণপোষ নথকা বীজবোৰে ক’ত খাদ্য সঞ্চয় কৰে?
 A) Cotyledons ( বীজপত্ৰ )
-B) Endosperm ( ভ্ৰূণপোোষ )
+B) Endosperm ( ভ্ৰূণপোষ )
 C) Seed Coat ( বীজত্বক )
 D) Pericarp ( ফলত্বক )
 Ans: A
@@ -136,8 +136,8 @@ Ans: A
 16. Gram, pea, and bean seeds are examples of:
 
 বুট, মটৰ, আৰু উৰহী বীজবোৰ কিহৰ উদাহৰণ?
-A) Non-endospermic seeds ( ভ্ৰূণপোোষহীন বীজ )
-B) Endospermic seeds ( ভ্ৰূণপোোষযুক্ত বীজ )
+A) Non-endospermic seeds ( ভ্ৰূণপোষহীন বীজ )
+B) Endospermic seeds ( ভ্ৰূণপোষযুক্ত বীজ )
 C) Monocot seeds ( একবীজপত্ৰী বীজ )
 D) Gymnosperm seeds ( ব্যক্তবীজী বীজ )
 Ans: A
@@ -145,9 +145,9 @@ Ans: A
 17. Castor and maize seeds are examples of:
 
 ৰেৰী (Castor) আৰু গোমধানৰ বীজবোৰ কিহৰ উদাহৰণ?
-A) Endospermic / Albuminous seeds ( ভ্ৰূণপোোষযুক্ত বীজ )
-B) Non-endospermic seeds ( ভ্ৰূণপোোষহীন বীজ )
-C) Dicot non-endospermic ( দ্বিবীজপত্ৰী ভ্ৰূণপোোষহীন )
+A) Endospermic / Albuminous seeds ( ভ্ৰূণপোষযুক্ত বীজ )
+B) Non-endospermic seeds ( ভ্ৰূণপোষহীন বীজ )
+C) Dicot non-endospermic ( দ্বিবীজপত্ৰী ভ্ৰূণপোষহীন )
 D) Bare seeds ( নগ্ন বীজ )
 Ans: A
 

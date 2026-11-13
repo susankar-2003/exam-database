@@ -11,7 +11,7 @@ Ans: B
 
 জুলৰ তাপীয় ক্ৰিয়াৰ সূত্ৰৰ গাণিতিক ৰূপ কি?
 A) H = I * R * t
-B) H = I^2 * R * t
+B) H = I² * R * t
 C) H = I * R^2 * t
 D) H = V * I^2 * t
 Ans: B
@@ -29,8 +29,8 @@ Ans: C
 
 বৈদ্যুতিক ক্ষমতা P ৰ সূত্ৰ কি?
 A) P = V * I
-B) P = I^2 * R
-C) P = V^2 / R
+B) P = I² * R
+C) P = V² / R
 D) All of the above / ওপৰৰ আটাইবোৰ
 Ans: D
 
@@ -45,9 +45,9 @@ Ans: B
 
 6. Inert gases filled inside electric bulb to prolong filament life are:
 
-ফিলামেন্টৰ আয়ুস বঢ়াবলৈ বৈদুতিক বাল্বৰ ভিতৰত ভৰোৱা নিষ্ক্ৰিয় গেছসমূহ কি?
+ফিলামেন্টৰ আয়ুস বঢ়াবলৈ বৈদ্যুতিক বাল্বৰ ভিতৰত ভৰোৱা নিষ্ক্ৰিয় গেছসমূহ কি?
 A) Oxygen and Hydrogen / অক্সিজেন আৰু হাইড্ৰ'জেন
-B) Nitrogen and Argon / নাইtoolbox আৰু আৰ্গন
+B) Nitrogen and Argon / নাইট্ৰ'জেন আৰু আৰ্গন
 C) Carbon dioxide and Helium / কাৰ্বন ডাইঅক্সাইড আৰু হিলিয়াম
 D) Chlorine and Neon / ক্লোৰিন আৰু নিয়নে
 Ans: B
@@ -63,7 +63,7 @@ Ans: A
 
 8. Standard color code band on resistor indicates its:
 
-ৰেজিষ্টৰৰ ৰং সংকেত ব্লেণ্ডে কি সূচায়?
+ৰেজিষ্টৰৰ ৰং সংকেত বেণ্ডে কি সূচায়?
 A) Power rating / ক্ষমতাৰ মান
 B) Resistance value and tolerance / ৰোধৰ মান আৰু সহ্যসীমা (Tolerance)
 C) Voltage limit / ভোল্টেজৰ সীমা
@@ -171,10 +171,10 @@ Ans: C
 
 20. Who discovered electrons?
 
-ইল্যেক্ট্ৰন কোনে আৱিষ্কাৰ কৰিছিল?
+ইলেক্ট্ৰন কোনে আৱিষ্কাৰ কৰিছিল?
 A) J.J. Thomson / জে.জে. থমছন
 B) Ernest Rutherford / আৰ্নেষ্ট ৰাডাৰফ'ৰ্ড
-C) James Chadwick / জে সং চ্যাডউইক
+C) James Chadwick / জেমেছ চেডৱিক
 D) John Dalton / জন ডালটন
 Ans: A
 

@@ -65,7 +65,7 @@ Ans: A
 
 কোন ধৰণৰ কলাই অংগবোৰৰ আৰু শৰীৰৰ বাহ্যিক আৱৰণ গঠন কৰে?
 A) Muscle Tissue / পেশী কলা
-B) Epithelial Tissue / এপিথেলেমেট বা আৱৰণী কলা
+B) Epithelial Tissue / এপিথেলিয়েল বা আৱৰণী কলা
 C) Connective Tissue / সংযোগী কলা
 D) Nervous Tissue / স্নায়ু কলা
 Ans: B
@@ -110,7 +110,7 @@ Ans: B
 
 মানুহৰ শৰীৰৰ কোনটো পেশী ইচ্ছাধীন নিয়ন্ত্ৰণত থাকে?
 A) Cardiac Muscle / হৃদ পেশী
-B) Smooth Muscle / মৈণাম পেশী
+B) Smooth Muscle / মসৃণ পেশী
 C) Skeletal Muscle / কংকালী বা জঁকা পেশী
 D) Involuntary Muscle / অনিচ্ছাকৃত পেশী
 Ans: C

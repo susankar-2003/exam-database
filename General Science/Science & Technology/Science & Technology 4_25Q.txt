@@ -139,12 +139,12 @@ Ans: A
 A) Voice over Long Term Evolution / ভয়ছ অভাৰ লং টাৰ্ম ইভলিউশ্বন
 B) Voice over Local Transmission Line / ভয়ছ অভাৰ ল'কেল ট্রান্সমিশ্বন লাইন
 C) Visual Output Long Term Engine / ভিছুৱেল আউটপুট লং টাৰ্ম ইঞ্জিন
-D) Variable Output LTE / ভেলিয়েবল আউটপুট এল.টি.ই.
+D) Variable Output LTE / ভেৰিয়েবল আউটপুট এল.টি.ই.
 Ans: A
 
 17. 5G networks operate primarily in which frequency ranges?
 
-৫জি (5G) নেটৱৰ্কসমূহ মূলতঃ কোনবোৰ কম্পাঙ্ক পৰিসৰত পৰিচালিত হয়?
+5G নেটৱৰ্কসমূহ মূলতঃ কোনবোৰ কম্পাঙ্ক পৰিসৰত পৰিচালিত হয়?
 A) Sub-6 GHz and Millimeter Wave (mmWave) / ছাব-৬ গিগাহাৰ্টজ আৰু মিলিমিটাৰ ৱেভ
 B) Kilohertz range / কিলোহাৰ্টজ পৰিসৰ
 C) Megahertz AM radio band / মেগাহাৰ্টজ এ.এম. ৰেডিঅ' বেণ্ড
@@ -192,7 +192,7 @@ Ans: A
 কাক ইন্টাৰনেটৰ পিতৃ বুলি গণ্য কৰা হয়?
 A) Vint Cerf and Bob Kahn / ভিণ্ট ছাৰ্ফ আৰু বব কান
 B) Tim Berners-Lee / টিম বাৰ্নাৰ্ছ-লী
-C) Alan Turing / এলান ট্যুৰং
+C) Alan Turing / এলান টিউৰিং
 D) Steve Wozniak / ষ্টীভ ৱজনিয়াক
 Ans: A
 

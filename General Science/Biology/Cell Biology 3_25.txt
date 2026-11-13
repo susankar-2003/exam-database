@@ -22,7 +22,7 @@ Ans: B
 A) Chloroplast / ক্ল'ৰ'প্লাষ্ট
 B) Chromoplast / ক্ৰ'ম'প্লাষ্ট
 C) Leucoplast / লিউক'প্লাষ্ট
-D) Amyloplast / এไม'ল'প্লাষ্ট
+D) Amyloplast / এমাইল'প্লাষ্ট
 Ans: B
 
 4. What is the basic structural and functional unit of life?
@@ -216,7 +216,7 @@ Ans: B
 
 25. Which organelle aids in programmed cell death or apoptosis?
 
-কোনটো অঙ্গাণুৱে কোষৰ সুনিয়ন্ত্ৰিত মৃত্যু বা এপ্ট'ছিছত সহায় কৰে?
+কোনটো অঙ্গাণুৱে কোষৰ সুনিয়ন্ত্ৰিত মৃত্যু বা এপপ্ট'ছিছত সহায় কৰে?
 A) Lysosome / লাইছ'জোম
 B) Endoplasmic reticulum / এণ্ড'প্লাজমিক ৰেটিকুলাম
 C) Ribosome / ৰাইবোজোম

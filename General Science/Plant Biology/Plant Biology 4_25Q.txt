@@ -9,7 +9,7 @@ Ans: B
 
 2. The protective outer coat of a tree trunk is called:
 
-গছৰ কণ্ডৰ বাহিৰৰ প্ৰতিৰক্ষামূলক আৱৰণটোক কি বোলা হয়?
+গছৰ কাণ্ডৰ বাহিৰৰ প্ৰতিৰক্ষামূলক আৱৰণটোক কি বোলা হয়?
 A) Xylem ( জাইলেম )
 B) Bark ( বাকলি / ছাল )
 C) Pith ( পিথ )
@@ -207,7 +207,7 @@ Ans: B
 
 24. Alexander Fleming discovered penicillin from which fungus?
 
-অলেক্সাণ্ডাৰ ফ্লেমিঙে কোনটো ভেঁকুৰৰ পৰা পেনিচিলিন আৱিষ্কাৰ কৰিছিল?
+আলেকজেণ্ডাৰ ফ্লেমিঙে কোনটো ভেঁকুৰৰ পৰা পেনিচিলিন আৱিষ্কাৰ কৰিছিল?
 A) Aspergillus ( এছপাৰজিলাছ )
 B) Penicillium notatum ( পেনিচিলিয়াম ন’টেটাম )
 C) Rhizopus ( ৰাইজ’পাছ )

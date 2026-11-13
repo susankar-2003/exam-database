@@ -1,7 +1,7 @@
 1. Electric Potential is a:
 
 বৈদ্যুতিক বিভৱ কি ৰাশি?
-A) Scalar quantity / স্কোলাৰ ৰাশি
+A) Scalar quantity / স্কেলাৰ ৰাশি
 B) Vector quantity / ভেক্টৰ ৰাশি
 C) Tensor quantity / টেনছৰ ৰাশি
 D) Dimensionless quantity / মাত্ৰাহীন ৰাশি
@@ -46,8 +46,8 @@ Ans: B
 6. The chemical energy converted into electrical energy occurs in:
 
 ৰাসায়নিক শক্তিক বৈদ্যুতিক শক্তিলৈ ৰূপান্তৰ ক'ত হয়?
-A) Electric Fan / বৈদুতিক পাখা
-B) Electric Cell (Battery) / বৈদুতিক কোষ (বেটাৰী)
+A) Electric Fan / বৈদ্যুতিক পাখা
+B) Electric Cell (Battery) / বৈদ্যুতিক কোষ (বেটাৰী)
 C) Dynamo / ডাইনাম'
 D) Solar Panel / সৌৰ পেনেল
 Ans: B
@@ -81,7 +81,7 @@ Ans: C
 
 10. Electric current through a metallic conductor produces:
 
-ধাতৱ পৰিবাহীৰ মাজেৰে বৈ যোৱা বৈদুতিক প্ৰবাহে কি সৃষ্টি কৰে?
+ধাতৱ পৰিবাহীৰ মাজেৰে বৈ যোৱা বৈদ্যুতিক প্ৰবাহে কি সৃষ্টি কৰে?
 A) Heating effect / তাপীয় প্ৰভাৱ
 B) Magnetic effect / চুম্বকীয় প্ৰভাৱ
 C) Chemical effect / ৰাসায়নিক প্ৰভাৱ

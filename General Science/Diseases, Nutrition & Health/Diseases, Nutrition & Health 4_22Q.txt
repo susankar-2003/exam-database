@@ -117,7 +117,7 @@ Ans: A
 
 14. Deficiency of which vitamin causes Bleeding Gums and delayed wound healing?
 
-কোনটো ভিটামিনৰ অভাৱত দাঁতৰ মাড়িৰ পৰা তেজ ওলোৱা আৰু ঘা শুুকাবলৈ দেৰি হয়?
+কোনটো ভিটামিনৰ অভাৱত দাঁতৰ মাড়িৰ পৰা তেজ ওলোৱা আৰু ঘা শুকাবলৈ দেৰি হয়?
 A) Vitamin A / ভিটামিন A
 B) Vitamin B / ভিটামিন B
 C) Vitamin C / ভিটামিন C
@@ -135,7 +135,7 @@ Ans: A
 
 16. What is the cause of Influenza (Flu)?
 
-ইনফ্লুৱেনঞ্জা (ইনফ্লুৱেনঞ্জা জ্বৰ) ৰ কাৰণ কি?
+ইনফ্লুৱেঞ্জা (ইনফ্লুৱেনঞ্জা জ্বৰ) ৰ কাৰণ কি?
 A) Bacteria / বেক্টেৰিয়া
 B) Myxovirus / মিক্স'ভাইৰাছ (Myxovirus)
 C) Fungus / ভেঁকুৰ

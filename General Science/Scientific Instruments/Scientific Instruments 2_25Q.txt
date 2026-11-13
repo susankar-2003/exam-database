@@ -3,7 +3,7 @@
 পানীৰ তলৰ গভীৰতা আৰু বস্তু চিনাক্ত কৰিবলৈ কি যন্ত্ৰই আল্ট্ৰাছাউণ্ড ব্যৱহাৰ কৰে?
 A) SONAR / চনাৰ (SONAR)
 B) RADAR / ৰাডাৰ (RADAR)
-C) Fathometer / ফেড'মিটাৰ
+C) Fathometer / ফেথ'মিটাৰ
 D) Hydrometer / হাইড্ৰ'মিটাৰ
 Ans: A
 
@@ -16,7 +16,7 @@ C) Measuring rain / বৰষুণ জুখিবলৈ
 D) Measuring heat / তাপ জুখিবলৈ
 Ans: A
 
-3. Pyheliometer is used to measure:
+3. Pyrheliometer is used to measure:
 
 পাইৰহেলিয়'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
 A) Direct solar radiation / প্ৰত্যক্ষ সৌৰ বিকিৰণ
@@ -128,7 +128,7 @@ Ans: A
 
 যান্ত্ৰিক শক্তিক বৈদ্যুতিক শক্তিলৈ ৰূপান্তৰ কৰিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
 A) Dynamo / Generator / ডাইনাম' / জেনেৰেটৰ
-B) Electric Motor / বৈদুতিক মটৰ
+B) Electric Motor / বৈদ্যুতিক মটৰ
 C) Transformer / ট্ৰান্সফৰ্মাৰ
 D) Inverter / ইনভাৰ্টাৰ
 Ans: A

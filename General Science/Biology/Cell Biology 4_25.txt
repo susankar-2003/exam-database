@@ -3,7 +3,7 @@
 ভেঁকূৰৰ কোষ বেৰ কোনটো এনজাইমৰ দ্বাৰা হজম হয়?
 A) Cellulase / চেলুলেজ
 B) Chitinase / কাইটিনেজ
-C) Amylase / এไม'লেজ
+C) Amylase / এমাইলেজ
 D) Pectinase / পেকটিনেজ
 Ans: B
 
@@ -120,7 +120,7 @@ Ans: B
 মাইট'কন্ড্ৰিয়াত এ.টি.পি. সংশ্লেষণৰ বাবে কোনটো এনজাইম দায়বদ্ধ?
 A) ATP synthase / এ.টি.পি. ছিনথেজ
 B) DNA polymerase / ডি.এন.এ. পলিমাৰেছ
-C) Amylase / এไม'লেজ
+C) Amylase / এমাইলেজ
 D) Lipase / লাইপেজ
 Ans: A
 

@@ -183,8 +183,8 @@ Ans: B
 ক্ৰম’জ’মৰ সংখ্যা আধা কৰি পেলোৱা কোষ বিভাজনক কি বোলে?
 A) Mitosis ( মাইট’চিছ )
 B) Meiosis ( মিঅ’চিছ )
-C) Amitosis ( এৰোপ-মাইট’চিছ )
-D) Cytokinesis ( সাইট’কাইনিন )
+C) Amitosis ( এমাইট'চিছ )
+D) Cytokinesis ( চাইট'কাইনেছিছ )
 Ans: B
 
 22. The process of seed germination begins with the absorption of:
@@ -211,7 +211,7 @@ Ans: B
 A) Embryo ( ভ্ৰূণ )
 B) Seed Coat ( বীজত্বক )
 C) Cotyledon ( বীজপত্ৰ )
-D) Endosperm ( ভ্ৰূণপোোষ )
+D) Endosperm ( ভ্ৰূণপোষ )
 Ans: B
 
 25. Plants that complete their life cycle in one growing season are:

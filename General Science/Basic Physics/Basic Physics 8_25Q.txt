@@ -36,7 +36,7 @@ Ans: A
 
 5. Device used to convert sound energy into electrical signal:
 
-শব্দ শক্তিক বৈদ্যুতিক সংকেটলৈ ৰূপান্তৰ কৰা যন্ত্ৰটো হ'ল:
+শব্দ শক্তিক বৈদ্যুতিক সংকেতক ৰূপান্তৰ কৰা যন্ত্ৰটো হ'ল:
 A) Loudspeaker / লাউডস্পীকাৰ
 B) Microphone / মাাইক্ৰ'ফোন
 C) Amplifier / এম্প্লিফায়াৰ
@@ -45,7 +45,7 @@ Ans: B
 
 6. Device used to convert electrical signal into sound energy:
 
-বৈদ্যুতিক সংকেটক শব্দ শক্তিলৈ ৰূপান্তৰ কৰা যন্ত্ৰটো হ'ল:
+বৈদ্যুতিক সংকেতক শব্দ শক্তিলৈ ৰূপান্তৰ কৰা যন্ত্ৰটো হ'ল:
 A) Microphone / মাাইক্ৰ'ফোন
 B) Loudspeaker / লাউডস্পীকাৰ
 C) Dynamo / ডায়নামো

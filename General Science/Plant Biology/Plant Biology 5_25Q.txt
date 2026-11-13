@@ -19,10 +19,10 @@ Ans: B
 3. Full form of ATP is:
 
 ATP ৰ সম্পূৰ্ণ ৰূপ কি?
-A) Adenosine Triphosphate ( এডেন’ছিন ট্রাইফছফে ট )
-B) Adenine Triphosphate ( এডেনিন ট্রাইফছফে ট )
-C) Adenosine Diphosphate ( এডেন’ছিন ডাইফছফে ট )
-D) Adenosine Monophosphate ( এডেন’ছিন মন’ফছফে ট )
+A) Adenosine Triphosphate ( এডেন’ছিন ট্রাইফছফেট )
+B) Adenine Triphosphate ( এডেনিন ট্রাইফছফেট )
+C) Adenosine Diphosphate ( এডেন’ছিন ডাইফছফেট )
+D) Adenosine Monophosphate ( এডেন’ছিন মন’ফছফেট )
 Ans: A
 
 4. Which plant hormone promotes cell division and lateral bud growth?
@@ -64,7 +64,7 @@ Ans: B
 8. Photosynthetic parenchymatous tissue containing chlorophyll is called:
 
 ক্ল’ৰ’ফিল থকা সালোক- সংশ্লেষণকাৰী পেৰেনকাইমা কলাক কি বোলা হয়?
-A) Aerenchyma ( এৰে ৰেনকাইমা )
+A) Aerenchyma ( এৰেনকাইমা )
 B) Chlorenchyma ( ক্ল’ৰেনকাইমা )
 C) Collenchyma ( ক’লেনকাইমা )
 D) Sclerenchyma ( স্ক্লেৰেনকাইমা )
@@ -79,9 +79,9 @@ C) Collenchyma ( ক’লেনকাইমা )
 D) Sclerenchyma ( স্ক্লেৰেনকাইমা )
 Ans: B
 
-10. Which plant tissue is responsible for continuous growth in girth/girth expansion?
+10. Which plant tissue is responsible for continuous growth in girth expansion?
 
-উদ্ভিদৰ প্ৰস্থ বা ঘেৰ বৃদ্ধিকিনালৈ কোনটো কলা দায়ী?
+উদ্ভিদৰ প্ৰস্থ বা ঘেৰ বৃদ্ধিৰ বাবে কোনটো কলা দায়ী?
 A) Apical Meristem ( শীৰ্ষস্থ ভাজক কলা )
 B) Lateral Meristem / Cambium ( পাৰ্শ্বস্থ ভাজক কলা / ক্যাম্বিয়াম )
 C) Intercalary Meristem ( নিৱিষ্ট ভাজক কলা )
@@ -129,7 +129,7 @@ Ans: B
 ১৮৩১ চনত কোষৰ নিউক্লিয়াছ কোনে আৱিষ্কাৰ কৰিছিল?
 A) Robert Hooke ( ৰবাৰ্ট হুক )
 B) Robert Brown ( ৰবাৰ্ট ব্ৰাউন )
-C) Purkinje ( প্ৰুকিনজে )
+C) Purkinje ( পুৰকিনজে )
 D) Virchow ( ভাৰ্চাউ )
 Ans: B
 

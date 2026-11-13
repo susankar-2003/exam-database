@@ -81,7 +81,7 @@ Ans: B
 
 10. Chipko Movement was launched to protect which natural resource?
 
-চি পকো আন্দোলন কোনটো প্ৰাকৃতিক সম্পদ ৰক্ষাৰ বাবে আৰম্ভ কৰা হৈছিল?
+চিপকো আন্দোলন কোনটো প্ৰাকৃতিক সম্পদ ৰক্ষাৰ বাবে আৰম্ভ কৰা হৈছিল?
 A) Water / পানী
 B) Forests / অৰণ্য
 C) Soil / মাটি
@@ -121,7 +121,7 @@ Ans: B
 A) Norman Myers / নৰমেন মায়াৰ্ছ
 B) E.O. Wilson / ই. অ'. উইলছন
 C) Rachel Carson / ৰাচেল কাৰ্চন
-D) James Lovelock / জেNode লেভলক
+D) James Lovelock / জেমছ লাভলক
 Ans: A
 
 15. Which of the following is a primary producer in a food chain?
@@ -181,15 +181,15 @@ Ans: A
 21. What is the full form of IUCN?
 
 IUCN ৰ সম্পূৰ্ণ ৰূপ কি?
-A) International Union for Conservation of Nature / ইন্টাৰনেচনেল ইউ নিয়ন ফৰ কনজাৰভেচন অৱ নেচাৰ
-B) International Union for Climate Network / ইন্টাৰনেচনেল ইউ নিয়ন ফৰ ক্লাইমেট নেটৱৰ্ক
-C) Indian Union for Culture and Nature / ইণ্ডিয়ান ইউ নিয়ন ফৰ কালচাৰ এণ্ড নেচাৰ
+A) International Union for Conservation of Nature / ইন্টাৰনেচনেল ইউনিয়ন ফৰ কনজাৰভেচন অৱ নেচাৰ
+B) International Union for Climate Network / ইন্টাৰনেচনেল ইউনিয়ন ফৰ ক্লাইমেট নেটৱৰ্ক
+C) Indian Union for Culture and Nature / ইণ্ডিয়ান ইউনিয়ন ফৰ কালচাৰ এণ্ড নেচাৰ
 D) International United Climate Nation / ইন্টাৰনেচনেল ইউনাইটেড ক্লাইমেট নেচন
 Ans: A
 
 22. Excess nitrate in drinking water causes which condition in infants?
 
-খোৱা পানী অত্য়ধিক নাইট্ৰেট থাকিলে কেঁচুৱাৰ কি বেমাৰ হয়?
+খোৱা পানীত অত্যাধিক নাইট্ৰেট থাকিলে কেঁচুৱাৰ কি বেমাৰ হয়?
 A) Minamata Disease / মিনামাটা ৰোগ
 B) Blue Baby Syndrome / ব্লু বেবী চিণ্ড্ৰম
 C) Itai-Itai Disease / ইটায়-ইটায় ৰোগ

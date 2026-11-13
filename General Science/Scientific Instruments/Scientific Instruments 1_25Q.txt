@@ -21,7 +21,7 @@ Ans: A
 এনিম'মিটাৰ তলৰ কোনটো জোখিবলৈ ব্যৱহাৰ কৰা হয়?
 A) Speed of wind / বতাহৰ বেগ
 B) Depth of ocean / মহাসাগৰৰ গভীৰতা
-C) Electric current / বৈদুতিক প্ৰবাহ
+C) Electric current / বৈদ্যুতিক প্ৰবাহ
 D) Atmospheric pressure / বায়ুমণ্ডলীয় চাপ
 Ans: A
 
@@ -81,7 +81,7 @@ Ans: A
 
 10. Which instrument is used by doctors to listen to the heart and lung sounds?
 
-হৃদযন্ত্ৰ আৰু হাওঁফাওঁৰ শব্দ শুনিকলৈ চিকিৎসকে কি যন্ত্ৰ ব্যৱহাৰ কৰে?
+হৃদযন্ত্ৰ আৰু হাওঁফাওঁৰ শব্দ শুনিবলৈ চিকিৎসকে কি যন্ত্ৰ ব্যৱহাৰ কৰে?
 A) Stethoscope / ষ্টেথ'স্ক'প
 B) Sphygmomanometer / স্ফিগ্‌মোমেন'মিটাৰ
 C) Endoscope / এণ্ড'স্ক'প
@@ -117,9 +117,9 @@ Ans: A
 
 14. Fathometer is used to measure:
 
-ফেড'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
+ফেথ'মিটাৰ কি জোখিবলৈ ব্যৱহাৰ কৰা হয়?
 A) Ocean depth / মহাসাগৰৰ গভীৰতা
-B) Earthquake intensity / ভূcompৰ তীব্রতা
+B) Earthquake intensity / ভূমিকম্পৰ তীব্রতা
 C) Rainfall / বৰষুণৰ পৰিমাণ
 D) Sound intensity / শব্দৰ তীব্ৰতা
 Ans: A
@@ -183,7 +183,7 @@ Ans: A
 চকায়ুক্ত বাহনে অতিক্ৰম কৰা দূৰত্ব জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
 A) Odometer / অ'ড'মিটাৰ
 B) Speedometer / স্পীড'মিটাৰ
-C) Tachometer / টেকা'মিটাৰ
+C) Tachometer / টেক'মিটাৰ
 D) Chronometer / ক্ৰ'ন'মিটাৰ
 Ans: A
 
@@ -199,7 +199,7 @@ Ans: A
 23. Which instrument is used to measure rotation speed of a shaft or disk (e.g. engine RPM)?
 
 ইঞ্জিনৰ ৰোটেশ্যন স্পীড (RPM) জোখিবলৈ কি যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
-A) Tachometer / টেকা'মিটাৰ
+A) Tachometer / টেক'মিটাৰ
 B) Speedometer / স্পীড'মিটাৰ
 C) Odometer / অ'ড'মিটাৰ
 D) Dynamometer / ডাইনাম'মিটাৰ

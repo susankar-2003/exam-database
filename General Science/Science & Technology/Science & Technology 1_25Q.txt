@@ -144,7 +144,7 @@ Ans: A
 
 17. World's largest particle physics laboratory CERN operates Large Hadron Collider (LHC) near which city?
 
-বিশ্বৰ আটাইতকৈ ডাঙৰ কণা পদাৰ্থ বিজ্ঞান প্ৰয়োগশালা CERN ৰ লাৰ্জ হেড্ৰন কলাইডাৰ (LHC) কোনখন ছহৰৰ ওচৰত অৱস্থিত?
+বিশ্বৰ আটাইতকৈ ডাঙৰ কণা পদাৰ্থ বিজ্ঞান প্ৰয়োগশালা CERN ৰ লাৰ্জ হেড্ৰন কলাইডাৰ (LHC) কোনখন চহৰৰ ওচৰত অৱস্থিত?
 A) Geneva, Switzerland / জেনেভা, চুইজাৰলেণ্ড
 B) Paris, France / পেৰিছ, ফ্ৰান্স
 C) London, UK / লণ্ডন, যুক্তৰাজ্য
@@ -189,7 +189,7 @@ Ans: A
 
 22. Tokamak device design is used to achieve controlled nuclear fusion using what state of matter?
 
-টোকা মাক (Tokamak) সঁজুলিৰ ডিজাইন পদাৰ্থৰ কোনটো অৱস্থা ব্যৱহাৰ কৰি নিয়ন্ত্ৰিত পাৰমাণৱিক সংযোজন কৰিবলৈ ব্যৱহাৰ কৰা হয়?
+টোকামাক (Tokamak) সঁজুলিৰ ডিজাইন পদাৰ্থৰ কোনটো অৱস্থা ব্যৱহাৰ কৰি নিয়ন্ত্ৰিত পাৰমাণৱিক সংযোজন কৰিবলৈ ব্যৱহাৰ কৰা হয়?
 A) Plasma state / প্লাজমা অৱস্থা
 B) Solid state / কঠিন অৱস্থা
 C) Liquid state / তৰল অৱস্থা

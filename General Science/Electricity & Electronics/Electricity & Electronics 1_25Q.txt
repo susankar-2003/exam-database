@@ -36,7 +36,7 @@ Ans: C
 
 5. Which filament is used in a traditional incandescent electric bulb?
 
-পৰম্পৰাগত বৈদুতিক বাল্বত কি ফিলামেন্ট ব্যৱহাৰ কৰা হয়?
+পৰম্পৰাগত বৈদ্যুতিক বাল্বত কি ফিলামেন্ট ব্যৱহাৰ কৰা হয়?
 A) Copper / তাম
 B) Tungsten / টাংষ্টেন
 C) Aluminum / এলুমিনিয়াম
@@ -127,10 +127,10 @@ Ans: A
 15. What works on the principle of electromagnetic induction?
 
 বৈদ্যুত-চুম্বকীয় আৱেশৰ নীতিৰ ওপৰত কি চালিত হয়?
-A) Electric Motor / বৈদুতিক মটৰ
-B) Electric Generator / বৈদুতিক জেনেৰেটৰ
-C) Electric Heater / বৈদুতিক হিটাৰ
-D) Electric Bulb / বৈদুতিক বাল্ব
+A) Electric Motor / বৈদ্যুতিক মটৰ
+B) Electric Generator / বৈদ্যুতিক জেনেৰেটৰ
+C) Electric Heater / বৈদ্যুতিক হিটাৰ
+D) Electric Bulb / বৈদ্যুতিক বাল্ব
 Ans: B
 
 16. Electric motor converts electrical energy into:

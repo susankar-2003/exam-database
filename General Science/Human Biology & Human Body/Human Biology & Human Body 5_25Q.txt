@@ -136,7 +136,7 @@ Ans: B
 16. Which part of the ear is responsible for maintaining body balance?
 
 কাণৰ কোনটো অংশ শৰীৰৰ ভাৰসাম্য ৰক্ষাৰ বাবে দায়বদ্ধ?
-A) Tympanic Membrane / কাণৰ পেহা (টিম্পেনিক আৱৰণ)
+A) Tympanic Membrane / কাণৰ পৰ্দা (টিম্পেনিক আৱৰণ)
 B) Semicircular Canals / অৰ্ধবৃত্তাকাৰ নালী
 C) Pinna / কাণৰ লতি (পিন্না)
 D) Eustachian Tube / ইউষ্টেচিয়ান নালী
@@ -145,18 +145,18 @@ Ans: B
 17. What is the scientific name for the human voice box?
 
 মানুহৰ স্বৰযন্ত্ৰৰ বৈজ্ঞানিক নাম কি?
-A) Pharynx / গলবিল (ফেৰিংস্ক)
-B) Larynx / স্বৰযন্ত্ৰ (লেৰিংস্ক)
+A) Pharynx / গলবিল (ফেৰিংছ)
+B) Larynx / স্বৰযন্ত্ৰ (লেৰিংছ)
 C) Trachea / শ্বাসনালী (ট্ৰেকিয়া)
 D) Esophagus / গ্ৰাসনালী
 Ans: B
 
 18. Which structural element prevents food from entering the trachea during swallowing?
 
-কি হৰণ কৰাৰ সময়ত খাদ্যক শ্বাসনালীত সোমোৱাত কোনটো অংশই বাধা দিয়ে?
+খাদ্য গ্ৰহণ কৰাৰ সময়ত খাদ্যক শ্বাসনালীত সোমোৱাত কোনটো অংশই বাধা দিয়ে?
 A) Epiglottis / এপিগ্লটিছ
-B) Pharynx / ফেৰিংস্ক
-C) Larynx / লেৰিংস্ক
+B) Pharynx / ফেৰিংছ
+C) Larynx / লেৰিংছ
 D) Uvula / ইউভিউলা
 Ans: A
 
@@ -193,7 +193,7 @@ Ans: B
 A) Stomach / পাকস্থলী
 B) Small Intestine / ক্ষুদ্ৰান্ত্ৰ
 C) Large Intestine / বৃহদান্ত্ৰ
-D) Duodenum / ডুঅ’ডে নাম
+D) Duodenum / ডুঅ'ডেনাম
 Ans: C
 
 23. What is the process of cell division that produces sex cells (sperm and egg) called?
@@ -201,7 +201,7 @@ Ans: C
 জননকোষ (শুক্ৰাণু আৰু ডিম্বাণু) উৎপন্ন কৰা কোষ বিভাজন প্ৰক্ৰিয়াক কি বোলা হয়?
 A) Mitosis / মাইট'ছিছ
 B) Meiosis / মিঅ'ছিছ
-C) Amitosis / এমািট'ছিছ
+C) Amitosis / এমাইট'ছিছ
 D) Binary Fission / দ্বিখণ্ডন
 Ans: B
 

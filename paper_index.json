@@ -1,5 +1,5 @@
 {
-    "last_serial": 818,
+    "last_serial": 876,
     "papers": {
         "1": {
             "id": "1",
@@ -1037,9 +1037,9 @@
         },
         "149": {
             "id": "149",
-            "name": "Current Affairs Feb 26 - Part 10_10Q.txt",
-            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 10_10Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%2010_10Q.txt",
+            "name": "Current Affairs Feb 26 - Part 10_10Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 10_10Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%2010_10Q_EA.txt",
             "hash": "aabd71cab0beab773c4ccef76dc90aad"
         },
         "150": {
@@ -2059,16 +2059,16 @@
         },
         "295": {
             "id": "295",
-            "name": "Deserts 3_20Q.txt",
-            "path": "General Awareness/World Geography/Deserts 3_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%203_20Q.txt",
+            "name": "Mountains & Peaks 2_20Q.txt",
+            "path": "General Awareness/World Geography/Mountains & Peaks 2_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%202_20Q.txt",
             "hash": "fc605867cb75f5c18b6e75efcef6d47f"
         },
         "296": {
             "id": "296",
-            "name": "Mountains & Peaks 3_20Q.txt",
-            "path": "General Awareness/World Geography/Mountains & Peaks 3_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%203_20Q.txt",
+            "name": "Deserts 2_20Q.txt.txt",
+            "path": "General Awareness/World Geography/Deserts 2_20Q.txt.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%202_20Q.txt.txt",
             "hash": "dd5f646a85624198d2576ebb91aa4087"
         },
         "297": {
@@ -2920,156 +2920,156 @@
         },
         "418": {
             "id": "418",
-            "name": "Basic Chemistry 1_25Q.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%201_25Q.txt",
+            "name": "Basic Chemistry 1_25Q_EA.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%201_25Q_EA.txt",
             "hash": "5d3bed65c427eb33bca6098d8198ba21"
         },
         "419": {
             "id": "419",
-            "name": "Basic Chemistry 2_25Q.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%202_25Q.txt",
+            "name": "Basic Chemistry 2_25Q_EA.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%202_25Q_EA.txt",
             "hash": "af0b320770e6b8f6fa13fbf671b2f51e"
         },
         "420": {
             "id": "420",
-            "name": "Basic Chemistry 8_25Q.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 8_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%208_25Q.txt",
+            "name": "Basic Chemistry 8_25Q_EA.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 8_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%208_25Q_EA.txt",
             "hash": "44eafc7d9db8e89bc8dd24dd7ffb61c3"
         },
         "421": {
             "id": "421",
-            "name": "Basic Chemistry 5_25Q.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%205_25Q.txt",
+            "name": "Basic Chemistry 5_25Q_EA.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%205_25Q_EA.txt",
             "hash": "cba188c0aed7b05afef46bd5f3ad4ff4"
         },
         "422": {
             "id": "422",
-            "name": "Basic Chemistry 3_25Q.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%203_25Q.txt",
+            "name": "Basic Chemistry 3_25Q_EA.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%203_25Q_EA.txt",
             "hash": "dd65fc4ca75dbe5543166c63b7c38d6e"
         },
         "423": {
             "id": "423",
-            "name": "Basic Chemistry 7_25Q.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 7_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%207_25Q.txt",
+            "name": "Basic Chemistry 7_25Q_EA.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 7_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%207_25Q_EA.txt",
             "hash": "bf6d0b8fab1445968830573215ef18c7"
         },
         "424": {
             "id": "424",
-            "name": "Basic Chemistry 4_25Q.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%204_25Q.txt",
+            "name": "Basic Chemistry 4_25Q_EA.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%204_25Q_EA.txt",
             "hash": "a710f535ebed3d5d7abfa0a48b925c85"
         },
         "425": {
             "id": "425",
-            "name": "Basic Chemistry 6_25Q.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%206_25Q.txt",
+            "name": "Basic Chemistry 6_25Q_EA.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 6_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%206_25Q_EA.txt",
             "hash": "2e45b34fb9ac16caab7403684492dd50"
         },
         "426": {
             "id": "426",
-            "name": "Basic Physics 1_25Q.txt",
-            "path": "General Science/Basic Physics/Basic Physics 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%201_25Q.txt",
+            "name": "Basic Physics 1_25Q_EA.txt",
+            "path": "General Science/Basic Physics/Basic Physics 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%201_25Q_EA.txt",
             "hash": "f78d2c5ee1f39fc9cfe37b2c06e368a0"
         },
         "427": {
             "id": "427",
-            "name": "Basic Physics 2_25Q.txt",
-            "path": "General Science/Basic Physics/Basic Physics 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%202_25Q.txt",
+            "name": "Basic Physics 2_25Q_EA.txt",
+            "path": "General Science/Basic Physics/Basic Physics 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%202_25Q_EA.txt",
             "hash": "b29f2a1327eddaaab23bfc134b7bdda3"
         },
         "428": {
             "id": "428",
-            "name": "Basic Physics 8_25Q.txt",
-            "path": "General Science/Basic Physics/Basic Physics 8_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%208_25Q.txt",
+            "name": "Basic Physics 8_25Q_EA.txt",
+            "path": "General Science/Basic Physics/Basic Physics 8_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%208_25Q_EA.txt",
             "hash": "d46686672d70405192c265d4ba374d1d"
         },
         "429": {
             "id": "429",
-            "name": "Basic Physics 4_25Q.txt",
-            "path": "General Science/Basic Physics/Basic Physics 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%204_25Q.txt",
+            "name": "Basic Physics 4_25Q_EA.txt",
+            "path": "General Science/Basic Physics/Basic Physics 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%204_25Q_EA.txt",
             "hash": "43c11687da8cd74586d3aa8208991991"
         },
         "430": {
             "id": "430",
-            "name": "Basic Physics 3_25Q.txt",
-            "path": "General Science/Basic Physics/Basic Physics 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%203_25Q.txt",
+            "name": "Basic Physics 3_25Q_EA.txt",
+            "path": "General Science/Basic Physics/Basic Physics 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%203_25Q_EA.txt",
             "hash": "0353be84051eec54775f9d80517ed698"
         },
         "431": {
             "id": "431",
-            "name": "Basic Physics 7_25Q.txt",
-            "path": "General Science/Basic Physics/Basic Physics 7_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%207_25Q.txt",
+            "name": "Basic Physics 7_25Q_EA.txt",
+            "path": "General Science/Basic Physics/Basic Physics 7_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%207_25Q_EA.txt",
             "hash": "ef394371b8f3c315d98ba20f3b31ef29"
         },
         "432": {
             "id": "432",
-            "name": "Basic Physics 6_25Q.txt",
-            "path": "General Science/Basic Physics/Basic Physics 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%206_25Q.txt",
+            "name": "Basic Physics 6_25Q_EA.txt",
+            "path": "General Science/Basic Physics/Basic Physics 6_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%206_25Q_EA.txt",
             "hash": "10342f4e541dfd8c578d1e4ee1c2e300"
         },
         "433": {
             "id": "433",
-            "name": "Basic Physics 5_25Q.txt",
-            "path": "General Science/Basic Physics/Basic Physics 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%205_25Q.txt",
+            "name": "Basic Physics 5_25Q_EA.txt",
+            "path": "General Science/Basic Physics/Basic Physics 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%205_25Q_EA.txt",
             "hash": "91dfe6af7c3b7ff860139f632096d58d"
         },
         "434": {
             "id": "434",
-            "name": "Cell Biology 6_21.txt",
-            "path": "General Science/Biology/Cell Biology 6_21.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%206_21.txt",
+            "name": "Cell Biology 6_21_EA.txt",
+            "path": "General Science/Biology/Cell Biology 6_21_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%206_21_EA.txt",
             "hash": "59adda1bf640f9f9cb7797a52a67ec11"
         },
         "435": {
             "id": "435",
-            "name": "Cell Biology 1_25.txt",
-            "path": "General Science/Biology/Cell Biology 1_25.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%201_25.txt",
+            "name": "Cell Biology 1_25_EA.txt",
+            "path": "General Science/Biology/Cell Biology 1_25_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%201_25_EA.txt",
             "hash": "1c55a2dcce4068efc9f9c59a81cad5d7"
         },
         "436": {
             "id": "436",
-            "name": "Cell Biology 5_25.txt",
-            "path": "General Science/Biology/Cell Biology 5_25.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%205_25.txt",
+            "name": "Cell Biology 5_25_EA.txt",
+            "path": "General Science/Biology/Cell Biology 5_25_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%205_25_EA.txt",
             "hash": "b276787bbcebefd58ad86161e6d53cd0"
         },
         "437": {
             "id": "437",
-            "name": "Cell Biology 3_25.txt",
-            "path": "General Science/Biology/Cell Biology 3_25.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%203_25.txt",
+            "name": "Cell Biology 3_25_EA.txt",
+            "path": "General Science/Biology/Cell Biology 3_25_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%203_25_EA.txt",
             "hash": "665154814f195a4cc524ee9f222c9da5"
         },
         "438": {
             "id": "438",
-            "name": "Cell Biology 2_25.txt",
-            "path": "General Science/Biology/Cell Biology 2_25.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%202_25.txt",
+            "name": "Cell Biology 2_25_EA.txt",
+            "path": "General Science/Biology/Cell Biology 2_25_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%202_25_EA.txt",
             "hash": "e4bf4025248a22f65c147a2fa7aa68ed"
         },
         "439": {
             "id": "439",
-            "name": "Cell Biology 4_25.txt",
-            "path": "General Science/Biology/Cell Biology 4_25.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%204_25.txt",
+            "name": "Cell Biology 4_25_EA.txt",
+            "path": "General Science/Biology/Cell Biology 4_25_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Biology/Cell%20Biology%204_25_EA.txt",
             "hash": "fca1e61fd5fecf7d0e21fd6df618fa7f"
         },
         "440": {
@@ -3200,37 +3200,37 @@
         },
         "458": {
             "id": "458",
-            "name": "Scientific Instruments 3_25Q.txt",
-            "path": "General Science/Scientific Instruments/Scientific Instruments 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%203_25Q.txt",
+            "name": "Scientific Instruments 3_25Q_EA.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%203_25Q_EA.txt",
             "hash": "a9c4854624a63f3e11c69fe9fafafcaf"
         },
         "459": {
             "id": "459",
-            "name": "Scientific Instruments 4_25Q.txt",
-            "path": "General Science/Scientific Instruments/Scientific Instruments 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%204_25Q.txt",
+            "name": "Scientific Instruments 4_25Q_EA.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%204_25Q_EA.txt",
             "hash": "35046faf729b58a52bc46784d48a165a"
         },
         "460": {
             "id": "460",
-            "name": "Scientific Instruments 2_25Q.txt",
-            "path": "General Science/Scientific Instruments/Scientific Instruments 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%202_25Q.txt",
+            "name": "Scientific Instruments 2_25Q_EA.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%202_25Q_EA.txt",
             "hash": "88cfc57fbf1933cac5a5fedc4ab25178"
         },
         "461": {
             "id": "461",
-            "name": "Scientific Instruments 1_25Q.txt",
-            "path": "General Science/Scientific Instruments/Scientific Instruments 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%201_25Q.txt",
+            "name": "Scientific Instruments 1_25Q_EA.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%201_25Q_EA.txt",
             "hash": "4f934740d1df64dda24fc9de2ab6ca27"
         },
         "462": {
             "id": "462",
-            "name": "Diseases, Nutrition & Health 4_22Q.txt",
-            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 4_22Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%204_22Q.txt",
+            "name": "Diseases, Nutrition & Health 4_22Q_EA.txt",
+            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 4_22Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%204_22Q_EA.txt",
             "hash": "8d49618d310305aa92414ee635d4401f"
         },
         "463": {
@@ -5412,268 +5412,268 @@
         },
         "774": {
             "id": "774",
-            "name": "August 2026 6_25Q.txt",
-            "path": "Current Affairs/August 2026/August 2026 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%206_25Q.txt",
+            "name": "August 2026 6_25Q_EA.txt",
+            "path": "Current Affairs/August 2026/August 2026 6_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%206_25Q_EA.txt",
             "hash": "55fecc8757c058ab62dcf611bfd61a90"
         },
         "775": {
             "id": "775",
-            "name": "August 2026 5_25Q.txt",
-            "path": "Current Affairs/August 2026/August 2026 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%205_25Q.txt",
+            "name": "August 2026 5_25Q_EA.txt",
+            "path": "Current Affairs/August 2026/August 2026 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%205_25Q_EA.txt",
             "hash": "6be5700a61a895958829e8bf40006a71"
         },
         "776": {
             "id": "776",
-            "name": "August 2026 4_25Q.txt",
-            "path": "Current Affairs/August 2026/August 2026 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%204_25Q.txt",
+            "name": "August 2026 4_25Q_EA.txt",
+            "path": "Current Affairs/August 2026/August 2026 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%204_25Q_EA.txt",
             "hash": "30c4ad7e4b2d79d58066b6f9d32d22a1"
         },
         "777": {
             "id": "777",
-            "name": "August 2026 3_25Q.txt",
-            "path": "Current Affairs/August 2026/August 2026 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%203_25Q.txt",
+            "name": "August 2026 3_25Q_EA.txt",
+            "path": "Current Affairs/August 2026/August 2026 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%203_25Q_EA.txt",
             "hash": "42c111e9d125b634a2fcb92da5b66478"
         },
         "778": {
             "id": "778",
-            "name": "August 2026 1_25Q.txt",
-            "path": "Current Affairs/August 2026/August 2026 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%201_25Q.txt",
+            "name": "August 2026 1_25Q_EA.txt",
+            "path": "Current Affairs/August 2026/August 2026 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%201_25Q_EA.txt",
             "hash": "adbf0c3f0f10a27a115a42c62ba68fae"
         },
         "779": {
             "id": "779",
-            "name": "August 2026 2_25Q.txt",
-            "path": "Current Affairs/August 2026/August 2026 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%202_25Q.txt",
+            "name": "August 2026 2_25Q_EA.txt",
+            "path": "Current Affairs/August 2026/August 2026 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/August%202026/August%202026%202_25Q_EA.txt",
             "hash": "818380c35b372cf3b022a39372836b6a"
         },
         "780": {
             "id": "780",
-            "name": "May 2026 4_25Q.txt",
-            "path": "Current Affairs/May 2026/May 2026 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%204_25Q.txt",
+            "name": "May 2026 4_25Q_EA.txt",
+            "path": "Current Affairs/May 2026/May 2026 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%204_25Q_EA.txt",
             "hash": "0aae055ba7fe6f983b7f20527ea55624"
         },
         "781": {
             "id": "781",
-            "name": "May 2026 1_25Q.txt",
-            "path": "Current Affairs/May 2026/May 2026 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%201_25Q.txt",
+            "name": "May 2026 1_25Q_EA.txt",
+            "path": "Current Affairs/May 2026/May 2026 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%201_25Q_EA.txt",
             "hash": "0a5ff860d9c2a6046fa4d69f6bd3e938"
         },
         "782": {
             "id": "782",
-            "name": "May 2026 2_25Q.txt",
-            "path": "Current Affairs/May 2026/May 2026 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%202_25Q.txt",
+            "name": "May 2026 2_25Q_EA.txt",
+            "path": "Current Affairs/May 2026/May 2026 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%202_25Q_EA.txt",
             "hash": "776c71062131e4dfb8cd2b7e10b01f7a"
         },
         "783": {
             "id": "783",
-            "name": "May 2026 3_25Q.txt",
-            "path": "Current Affairs/May 2026/May 2026 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%203_25Q.txt",
+            "name": "May 2026 3_25Q_EA.txt",
+            "path": "Current Affairs/May 2026/May 2026 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%203_25Q_EA.txt",
             "hash": "19380c03ec02f862536ebb443f7706c3"
         },
         "784": {
             "id": "784",
-            "name": "May 2026 5_25Q.txt",
-            "path": "Current Affairs/May 2026/May 2026 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%205_25Q.txt",
+            "name": "May 2026 5_25Q_EA.txt",
+            "path": "Current Affairs/May 2026/May 2026 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%205_25Q_EA.txt",
             "hash": "bdfa84f4466f66015fff24b54bb0f31c"
         },
         "785": {
             "id": "785",
-            "name": "May 2026 6_25Q.txt",
-            "path": "Current Affairs/May 2026/May 2026 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%206_25Q.txt",
+            "name": "May 2026 6_25Q_EA.txt",
+            "path": "Current Affairs/May 2026/May 2026 6_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/May%202026/May%202026%206_25Q_EA.txt",
             "hash": "ad5773272fd46e9c63f07b855401ff14"
         },
         "786": {
             "id": "786",
-            "name": "September 2026 3_25Q.txt",
-            "path": "Current Affairs/September 2026/September 2026 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%203_25Q.txt",
+            "name": "September 2026 3_25Q_EA.txt",
+            "path": "Current Affairs/September 2026/September 2026 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%203_25Q_EA.txt",
             "hash": "633da7554e6794993fea02c46eda263b"
         },
         "787": {
             "id": "787",
-            "name": "September 2026 1_25Q.txt",
-            "path": "Current Affairs/September 2026/September 2026 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%201_25Q.txt",
+            "name": "September 2026 1_25Q_EA.txt",
+            "path": "Current Affairs/September 2026/September 2026 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%201_25Q_EA.txt",
             "hash": "e49c2df12aa08eb6b0628d01e8319094"
         },
         "788": {
             "id": "788",
-            "name": "September 2026 4_25Q.txt",
-            "path": "Current Affairs/September 2026/September 2026 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%204_25Q.txt",
+            "name": "September 2026 4_25Q_EA.txt",
+            "path": "Current Affairs/September 2026/September 2026 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%204_25Q_EA.txt",
             "hash": "07ba6e3ca67fc783535ca85be5c5930d"
         },
         "789": {
             "id": "789",
-            "name": "September 2026 2_25Q.txt",
-            "path": "Current Affairs/September 2026/September 2026 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%202_25Q.txt",
+            "name": "September 2026 2_25Q_EA.txt",
+            "path": "Current Affairs/September 2026/September 2026 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/September%202026/September%202026%202_25Q_EA.txt",
             "hash": "e2b97a80ba55aaf98e1c95faf47ce8cf"
         },
         "790": {
             "id": "790",
-            "name": "April 2026 3_25Q.txt",
-            "path": "Current Affairs/April 2026/April 2026 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%203_25Q.txt",
+            "name": "April 2026 3_25Q_EA.txt",
+            "path": "Current Affairs/April 2026/April 2026 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%203_25Q_EA.txt",
             "hash": "d0eb51460da734c0eb384ad1ed5bf4bd"
         },
         "791": {
             "id": "791",
-            "name": "April 2026 2_25Q.txt",
-            "path": "Current Affairs/April 2026/April 2026 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%202_25Q.txt",
+            "name": "April 2026 2_25Q_EA.txt",
+            "path": "Current Affairs/April 2026/April 2026 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%202_25Q_EA.txt",
             "hash": "c0d93eed8c7125c90f1ceb903ce094d3"
         },
         "792": {
             "id": "792",
-            "name": "April 2026 4_25Q.txt",
-            "path": "Current Affairs/April 2026/April 2026 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%204_25Q.txt",
+            "name": "April 2026 4_25Q_EA.txt",
+            "path": "Current Affairs/April 2026/April 2026 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%204_25Q_EA.txt",
             "hash": "5d728c9d9c74aca1c76370a54f35ddab"
         },
         "793": {
             "id": "793",
-            "name": "April 2026 1_25Q.txt",
-            "path": "Current Affairs/April 2026/April 2026 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%201_25Q.txt",
+            "name": "April 2026 1_25Q_EA.txt",
+            "path": "Current Affairs/April 2026/April 2026 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%201_25Q_EA.txt",
             "hash": "cbcbd59d9f8afdad9a98f2a809c5bf2f"
         },
         "794": {
             "id": "794",
-            "name": "June 2026 3_25Q.txt",
-            "path": "Current Affairs/June 2026/June 2026 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%203_25Q.txt",
+            "name": "June 2026 3_25Q_EA.txt",
+            "path": "Current Affairs/June 2026/June 2026 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%203_25Q_EA.txt",
             "hash": "4ad0dfc85c37cea97928c5cbd6a05896"
         },
         "795": {
             "id": "795",
-            "name": "June 2026 2_25Q.txt",
-            "path": "Current Affairs/June 2026/June 2026 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%202_25Q.txt",
+            "name": "June 2026 2_25Q_EA.txt",
+            "path": "Current Affairs/June 2026/June 2026 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%202_25Q_EA.txt",
             "hash": "0d987cc2ff5ff4a764f7115bb2262705"
         },
         "796": {
             "id": "796",
-            "name": "June 2026 4_25Q.txt",
-            "path": "Current Affairs/June 2026/June 2026 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%204_25Q.txt",
+            "name": "June 2026 4_25Q_EA.txt",
+            "path": "Current Affairs/June 2026/June 2026 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%204_25Q_EA.txt",
             "hash": "39e31f4c994c2fc5c275c024c54c593b"
         },
         "797": {
             "id": "797",
-            "name": "June 2026 1_25Q.txt",
-            "path": "Current Affairs/June 2026/June 2026 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%201_25Q.txt",
+            "name": "June 2026 1_25Q_EA.txt",
+            "path": "Current Affairs/June 2026/June 2026 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%201_25Q_EA.txt",
             "hash": "664abc8e53736d4d22a162f02232ed63"
         },
         "798": {
             "id": "798",
-            "name": "June 2026 6_25Q.txt",
-            "path": "Current Affairs/June 2026/June 2026 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%206_25Q.txt",
+            "name": "June 2026 6_25Q_EA.txt",
+            "path": "Current Affairs/June 2026/June 2026 6_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%206_25Q_EA.txt",
             "hash": "882782d9eae35e08d1ffd9b079e548f6"
         },
         "799": {
             "id": "799",
-            "name": "June 2026 5_25Q.txt",
-            "path": "Current Affairs/June 2026/June 2026 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%205_25Q.txt",
+            "name": "June 2026 5_25Q_EA.txt",
+            "path": "Current Affairs/June 2026/June 2026 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/June%202026/June%202026%205_25Q_EA.txt",
             "hash": "52763a1261dfffd3cd9d911d07288734"
         },
         "800": {
             "id": "800",
-            "name": "January 2026 3_25Q.txt",
-            "path": "Current Affairs/January 2026/January 2026 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%203_25Q.txt",
+            "name": "January 2026 3_25Q_EA.txt",
+            "path": "Current Affairs/January 2026/January 2026 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%203_25Q_EA.txt",
             "hash": "376ea6664f0915e40f8dfebba314b8bf"
         },
         "801": {
             "id": "801",
-            "name": "January 2026 6_25Q.txt",
-            "path": "Current Affairs/January 2026/January 2026 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%206_25Q.txt",
+            "name": "January 2026 6_25Q_EA.txt",
+            "path": "Current Affairs/January 2026/January 2026 6_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%206_25Q_EA.txt",
             "hash": "852d18f9fbd504fbe2b697acada5d163"
         },
         "802": {
             "id": "802",
-            "name": "January 2026 5_25Q.txt",
-            "path": "Current Affairs/January 2026/January 2026 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%205_25Q.txt",
+            "name": "January 2026 5_25Q_EA.txt",
+            "path": "Current Affairs/January 2026/January 2026 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%205_25Q_EA.txt",
             "hash": "5cf63ea98375b3201d338dd32bcd1dd5"
         },
         "803": {
             "id": "803",
-            "name": "January 2026 1_25Q.txt",
-            "path": "Current Affairs/January 2026/January 2026 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%201_25Q.txt",
+            "name": "January 2026 1_25Q_EA.txt",
+            "path": "Current Affairs/January 2026/January 2026 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%201_25Q_EA.txt",
             "hash": "8cd907ba8dd7c39840a3ca77ac959896"
         },
         "804": {
             "id": "804",
-            "name": "January 2026 4_25Q.txt",
-            "path": "Current Affairs/January 2026/January 2026 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%204_25Q.txt",
+            "name": "January 2026 4_25Q_EA.txt",
+            "path": "Current Affairs/January 2026/January 2026 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%204_25Q_EA.txt",
             "hash": "da26608a3c60d9d519f9b7cbfa3d49f7"
         },
         "805": {
             "id": "805",
-            "name": "January 2026 2_25Q.txt",
-            "path": "Current Affairs/January 2026/January 2026 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%202_25Q.txt",
+            "name": "January 2026 2_25Q_EA.txt",
+            "path": "Current Affairs/January 2026/January 2026 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/January%202026/January%202026%202_25Q_EA.txt",
             "hash": "01072341c5f97eeff6a1cd26ca73c72a"
         },
         "806": {
             "id": "806",
-            "name": "July 2026 3_25Q.txt",
-            "path": "Current Affairs/July 2026/July 2026 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%203_25Q.txt",
+            "name": "July 2026 3_25Q_EA.txt",
+            "path": "Current Affairs/July 2026/July 2026 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%203_25Q_EA.txt",
             "hash": "334deb6d719dbfecccefc870957e879e"
         },
         "807": {
             "id": "807",
-            "name": "July 2026 1_25Q.txt",
-            "path": "Current Affairs/July 2026/July 2026 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%201_25Q.txt",
+            "name": "July 2026 1_25Q_EA.txt",
+            "path": "Current Affairs/July 2026/July 2026 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%201_25Q_EA.txt",
             "hash": "5263fb56f866ba6365124a9adb4a3d55"
         },
         "808": {
             "id": "808",
-            "name": "July 2026 2_25Q.txt",
-            "path": "Current Affairs/July 2026/July 2026 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%202_25Q.txt",
+            "name": "July 2026 2_25Q_EA.txt",
+            "path": "Current Affairs/July 2026/July 2026 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%202_25Q_EA.txt",
             "hash": "25ccaaf4cc7379bcd3e04c474232e7a6"
         },
         "809": {
             "id": "809",
-            "name": "July 2026 5_25Q.txt",
-            "path": "Current Affairs/July 2026/July 2026 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%205_25Q.txt",
+            "name": "July 2026 5_25Q_EA.txt",
+            "path": "Current Affairs/July 2026/July 2026 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%205_25Q_EA.txt",
             "hash": "70536a26bda4d3044749e0b8f281390a"
         },
         "810": {
             "id": "810",
-            "name": "July 2026 6_25Q.txt",
-            "path": "Current Affairs/July 2026/July 2026 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%206_25Q.txt",
+            "name": "July 2026 6_25Q_EA.txt",
+            "path": "Current Affairs/July 2026/July 2026 6_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%206_25Q_EA.txt",
             "hash": "baf24b7d4e5bfc35fc8dafc6e7493117"
         },
         "811": {
             "id": "811",
-            "name": "July 2026 4_25Q.txt",
-            "path": "Current Affairs/July 2026/July 2026 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%204_25Q.txt",
+            "name": "July 2026 4_25Q_EA.txt",
+            "path": "Current Affairs/July 2026/July 2026 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/July%202026/July%202026%204_25Q_EA.txt",
             "hash": "6c2b0c0e94cac0dafdfd92756546173e"
         },
         "812": {
@@ -5724,6 +5724,412 @@
             "path": "Static GK/National Park of India 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/National%20Park%20of%20India%201_25Q.txt",
             "hash": "b492ca6663706505f63172ec526d2046"
+        },
+        "819": {
+            "id": "819",
+            "name": "Human Biology & Human Body 5_25Q_EA.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%205_25Q_EA.txt",
+            "hash": "7c024b864b58d8186688685e3a4b2561"
+        },
+        "820": {
+            "id": "820",
+            "name": "Human Biology & Human Body 4_25Q_EA.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%204_25Q_EA.txt",
+            "hash": "b7c88d8d6a1c708089eb9ee8be2de38c"
+        },
+        "821": {
+            "id": "821",
+            "name": "Human Biology & Human Body 2_25Q_EA.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%202_25Q_EA.txt",
+            "hash": "14614e5776f8ccaad2f6ebb1dbd14cb7"
+        },
+        "822": {
+            "id": "822",
+            "name": "Human Biology & Human Body 1_25Q_EA.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%201_25Q_EA.txt",
+            "hash": "05a82415d16e74e49b23ce65c3602fbd"
+        },
+        "823": {
+            "id": "823",
+            "name": "Human Biology & Human Body 3_25Q_EA.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%203_25Q_EA.txt",
+            "hash": "48875cdd6ca21db263bd5e5c1530d633"
+        },
+        "824": {
+            "id": "824",
+            "name": "Human Biology & Human Body 6_20Q_EA.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 6_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%206_20Q_EA.txt",
+            "hash": "2b0e1aa5f24aaec2bf536624719481b0"
+        },
+        "825": {
+            "id": "825",
+            "name": "Plant Biology 2_25Q_EA.txt",
+            "path": "General Science/Plant Biology/Plant Biology 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%202_25Q_EA.txt",
+            "hash": "d5748f0c07b32ac45a473b915c65a728"
+        },
+        "826": {
+            "id": "826",
+            "name": "Plant Biology 6_25Q_EA.txt",
+            "path": "General Science/Plant Biology/Plant Biology 6_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%206_25Q_EA.txt",
+            "hash": "ac082bb7ff0163ae970c49f75515b174"
+        },
+        "827": {
+            "id": "827",
+            "name": "Plant Biology 1_25Q_EA.txt",
+            "path": "General Science/Plant Biology/Plant Biology 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%201_25Q_EA.txt",
+            "hash": "a54caec7c5133d2e1754930f5fe8a193"
+        },
+        "828": {
+            "id": "828",
+            "name": "Plant Biology 3_25Q_EA.txt",
+            "path": "General Science/Plant Biology/Plant Biology 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%203_25Q_EA.txt",
+            "hash": "5803eccf867fff1b0f7b280deb0f91bf"
+        },
+        "829": {
+            "id": "829",
+            "name": "Plant Biology 5_25Q_EA.txt",
+            "path": "General Science/Plant Biology/Plant Biology 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%205_25Q_EA.txt",
+            "hash": "dcdb8602ba5edb99a280a004c9650d27"
+        },
+        "830": {
+            "id": "830",
+            "name": "Plant Biology 4_25Q_EA.txt",
+            "path": "General Science/Plant Biology/Plant Biology 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%204_25Q_EA.txt",
+            "hash": "740997bd09e107385473b896312f8e19"
+        },
+        "831": {
+            "id": "831",
+            "name": "Electricity & Electronics 5_25Q_EA.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%205_25Q_EA.txt",
+            "hash": "ee2593fc24de472ab9d8b17c16a9cb6f"
+        },
+        "832": {
+            "id": "832",
+            "name": "Electricity & Electronics 3_25Q_EA.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%203_25Q_EA.txt",
+            "hash": "d752a0fe33491a47d3b9ff94cc609671"
+        },
+        "833": {
+            "id": "833",
+            "name": "Electricity & Electronics 2_25Q_EA.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%202_25Q_EA.txt",
+            "hash": "4a2217932df1af1dc706e83d9bb30890"
+        },
+        "834": {
+            "id": "834",
+            "name": "Electricity & Electronics 1_25Q_EA.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%201_25Q_EA.txt",
+            "hash": "71d6f6b16f1fa4f6c872fd3c0e5257b2"
+        },
+        "835": {
+            "id": "835",
+            "name": "Electricity & Electronics 4_25Q_EA.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%204_25Q_EA.txt",
+            "hash": "df1ab50d1b234b1eb47c42530e453d3f"
+        },
+        "836": {
+            "id": "836",
+            "name": "Electricity & Electronics 6_25Q_EA.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 6_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%206_25Q_EA.txt",
+            "hash": "f9438ad899f54d3e5d117350fa9c09f7"
+        },
+        "837": {
+            "id": "837",
+            "name": "Space & Astronomy 2_25Q_EA.txt",
+            "path": "General Science/Space & Astronomy/Space & Astronomy 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%202_25Q_EA.txt",
+            "hash": "8a68f182d4692d42ea27ffeae5069ec1"
+        },
+        "838": {
+            "id": "838",
+            "name": "Space & Astronomy 4_21Q_EA.txt",
+            "path": "General Science/Space & Astronomy/Space & Astronomy 4_21Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%204_21Q_EA.txt",
+            "hash": "2f74b63419e084a4c7b50811a9f890f4"
+        },
+        "839": {
+            "id": "839",
+            "name": "Space & Astronomy 3_25Q_EA.txt",
+            "path": "General Science/Space & Astronomy/Space & Astronomy 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%203_25Q_EA.txt",
+            "hash": "9687902e2c43c570ca8d0b7974debfc4"
+        },
+        "840": {
+            "id": "840",
+            "name": "Space & Astronomy 1_25Q_EA.txt",
+            "path": "General Science/Space & Astronomy/Space & Astronomy 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%201_25Q_EA.txt",
+            "hash": "7dca20b08ec0afc6f883c9a4b9d5339b"
+        },
+        "841": {
+            "id": "841",
+            "name": "Diseases, Nutrition & Health 2_25Q_EA.txt",
+            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%202_25Q_EA.txt",
+            "hash": "46233731fbd3a4ff9c838038dd27abf2"
+        },
+        "842": {
+            "id": "842",
+            "name": "Diseases, Nutrition & Health 1_25Q_EA.txt",
+            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%201_25Q_EA.txt",
+            "hash": "6882805d44fb49be5b820fe9b06d3675"
+        },
+        "843": {
+            "id": "843",
+            "name": "Diseases, Nutrition & Health 3_25Q_EA.txt",
+            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%203_25Q_EA.txt",
+            "hash": "92195f61a86084e9d62c3ee0ea681eb5"
+        },
+        "844": {
+            "id": "844",
+            "name": "Science & Technology 2_25Q_EA.txt",
+            "path": "General Science/Science & Technology/Science & Technology 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%202_25Q_EA.txt",
+            "hash": "a4fe0359c21ad0fb7dc1ad78d6198fe4"
+        },
+        "845": {
+            "id": "845",
+            "name": "Science & Technology 1_25Q_EA.txt",
+            "path": "General Science/Science & Technology/Science & Technology 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%201_25Q_EA.txt",
+            "hash": "8a4e1891233ba6dd3f480af1a7b20b42"
+        },
+        "846": {
+            "id": "846",
+            "name": "Science & Technology 6_23Q_EA.txt",
+            "path": "General Science/Science & Technology/Science & Technology 6_23Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%206_23Q_EA.txt",
+            "hash": "4565036221917888d112767bd5e4378a"
+        },
+        "847": {
+            "id": "847",
+            "name": "Science & Technology 3_25Q_EA.txt",
+            "path": "General Science/Science & Technology/Science & Technology 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%203_25Q_EA.txt",
+            "hash": "d5d12deac3142b48bba9f4a4477741d7"
+        },
+        "848": {
+            "id": "848",
+            "name": "Science & Technology 5_25Q_EA.txt",
+            "path": "General Science/Science & Technology/Science & Technology 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%205_25Q_EA.txt",
+            "hash": "f1cdaba3a058746e8962cff75459ba00"
+        },
+        "849": {
+            "id": "849",
+            "name": "Science & Technology 4_25Q_EA.txt",
+            "path": "General Science/Science & Technology/Science & Technology 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%204_25Q_EA.txt",
+            "hash": "e8cf3ca3bb8c0e55a271ba3dc70f5baf"
+        },
+        "850": {
+            "id": "850",
+            "name": "Environment & Ecology 5_25Q_EA.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%205_25Q_EA.txt",
+            "hash": "62a99472fc69e6cd7ccfce55058a0b0f"
+        },
+        "851": {
+            "id": "851",
+            "name": "Environment & Ecology 3_25Q_EA.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%203_25Q_EA.txt",
+            "hash": "1349b240c5ac02bb3d6a838dd2af0c79"
+        },
+        "852": {
+            "id": "852",
+            "name": "Environment & Ecology 1_25Q_EA.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%201_25Q_EA.txt",
+            "hash": "adf7b2f0f08732ae6c90c140d150453f"
+        },
+        "853": {
+            "id": "853",
+            "name": "Environment & Ecology 2_25Q_EA.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%202_25Q_EA.txt",
+            "hash": "a31ea5d21dbf362fb43097b9f4d37c7b"
+        },
+        "854": {
+            "id": "854",
+            "name": "Environment & Ecology 6_23Q_EA.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 6_23Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%206_23Q_EA.txt",
+            "hash": "a53a9a3a2ae0e704e6ff2b9ab8c76174"
+        },
+        "855": {
+            "id": "855",
+            "name": "Environment & Ecology 4_25Q_EA.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%204_25Q_EA.txt",
+            "hash": "7e9ce3a6d3dd11ac6233e35d811dea72"
+        },
+        "856": {
+            "id": "856",
+            "name": "Genetics & Evolution 6_23Q_EA.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 6_23Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%206_23Q_EA.txt",
+            "hash": "f14eeb2ac63a46e098b9c966782ebaf0"
+        },
+        "857": {
+            "id": "857",
+            "name": "Genetics & Evolution 2_25Q_EA.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 2_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%202_25Q_EA.txt",
+            "hash": "e368024c6eed9cc134ba59134d14826b"
+        },
+        "858": {
+            "id": "858",
+            "name": "Genetics & Evolution 4_25Q_EA.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 4_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%204_25Q_EA.txt",
+            "hash": "599e178ed0f1ee665eb5c3b18b55f78f"
+        },
+        "859": {
+            "id": "859",
+            "name": "Genetics & Evolution 3_25Q_EA.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 3_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%203_25Q_EA.txt",
+            "hash": "7977c1d9e79b385fe74b9cbe9ae891e9"
+        },
+        "860": {
+            "id": "860",
+            "name": "Genetics & Evolution 5_25Q_EA.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 5_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%205_25Q_EA.txt",
+            "hash": "87cc933bd4c57ce8818fbdf5919e8135"
+        },
+        "861": {
+            "id": "861",
+            "name": "Genetics & Evolution 1_25Q_EA.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 1_25Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%201_25Q_EA.txt",
+            "hash": "266e6a91a76937209db6b2bdb4e529ae"
+        },
+        "862": {
+            "id": "862",
+            "name": "Current Affairs Feb 26 - Part 7_20Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 7_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%207_20Q_EA.txt",
+            "hash": "714a02cc38f1b408e1ec5350c6a30d29"
+        },
+        "863": {
+            "id": "863",
+            "name": "Current Affairs Feb 26 - Part 4_20Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 4_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%204_20Q_EA.txt",
+            "hash": "9cd4a06410ffffcf6b509508cc5dbcb8"
+        },
+        "864": {
+            "id": "864",
+            "name": "Current Affairs Feb 26 - Part 6_20Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 6_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%206_20Q_EA.txt",
+            "hash": "e2585a5d4ea798cc8e28f6be61c84cb0"
+        },
+        "865": {
+            "id": "865",
+            "name": "Current Affairs Feb 26 - Part 8_20Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 8_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%208_20Q_EA.txt",
+            "hash": "0f2b176fce2656ad03e08b3a16fa6fde"
+        },
+        "866": {
+            "id": "866",
+            "name": "Current Affairs Feb 26 - Part 9_20Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 9_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%209_20Q_EA.txt",
+            "hash": "10858b9ce32db91b52dc608640d2187d"
+        },
+        "867": {
+            "id": "867",
+            "name": "Current Affairs Feb 26 - Part 3_20Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 3_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%203_20Q_EA.txt",
+            "hash": "1b78f602816622a32a795189b088c2be"
+        },
+        "868": {
+            "id": "868",
+            "name": "Current Affairs Feb 26 - Part 1_20Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 1_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%201_20Q_EA.txt",
+            "hash": "717f44b1c883fdfff1ef6bc9c6644c97"
+        },
+        "869": {
+            "id": "869",
+            "name": "Current Affairs Feb 26 - Part 2_20Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 2_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%202_20Q_EA.txt",
+            "hash": "61e530e70e329a201d688e40b4ae9978"
+        },
+        "870": {
+            "id": "870",
+            "name": "Current Affairs Feb 26 - Part 5_20Q_EA.txt",
+            "path": "Current Affairs/February 2026/Current Affairs Feb 26 - Part 5_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/February%202026/Current%20Affairs%20Feb%2026%20-%20Part%205_20Q_EA.txt",
+            "hash": "8ff4bd3a177159278b5ea7ffa4420d69"
+        },
+        "871": {
+            "id": "871",
+            "name": "Current Affairs March 2026 - 6_20Q_EA.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 6_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%206_20Q_EA.txt",
+            "hash": "fbcf91f7aca9aeb7841a339f17bcb0b4"
+        },
+        "872": {
+            "id": "872",
+            "name": "Current Affairs March 2026 - 3_20Q_EA.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 3_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%203_20Q_EA.txt",
+            "hash": "51753c563a2198815261d48d29543708"
+        },
+        "873": {
+            "id": "873",
+            "name": "Current Affairs March 2026 - 4_20Q_EA.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 4_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%204_20Q_EA.txt",
+            "hash": "f82d2bee2f9bb0d744dfdd2f38856aca"
+        },
+        "874": {
+            "id": "874",
+            "name": "Current Affairs March 2026 - 1_20Q_EA.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 1_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%201_20Q_EA.txt",
+            "hash": "c2285457a2a81c03b985704696d9eaf9"
+        },
+        "875": {
+            "id": "875",
+            "name": "Current Affairs March 2026 - 5_20Q_EA.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 5_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%205_20Q_EA.txt",
+            "hash": "5be890c17e18fdce59e7a9ae9ece5846"
+        },
+        "876": {
+            "id": "876",
+            "name": "Current Affairs March 2026 - 2_20Q_EA.txt",
+            "path": "Current Affairs/March 2026/Current Affairs March 2026 - 2_20Q_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%202_20Q_EA.txt",
+            "hash": "1f220c0fc822e758a7fdf27546c4f3af"
         }
     }
 }

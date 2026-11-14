@@ -56,8 +56,8 @@ Ans: B
 A) Steve is a knight, Tracy is a knave
 B) Steve is a knave, Tracy is a knight
 C) They are of opposite types, but it is impossible to determine who is who
-D) Both are knights
-Ans: C
+D) Both are knaves
+Ans: D
 11. You meet two inhabitants, Uma and Victor. Uma says, "I am a knight and Victor is a knave." Victor says, "Uma and I are both knights." What are they?
 A) Uma is a knight, Victor is a knave
 B) Uma is a knave, Victor is a knight

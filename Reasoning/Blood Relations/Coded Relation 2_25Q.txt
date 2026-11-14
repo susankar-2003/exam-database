@@ -84,7 +84,7 @@ Ans: B
 যদি 'A $ B' ৰ অৰ্থ 'A, B ৰ জীয়ৰী' আৰু 'B $ C' ৰ অৰ্থ 'B, C ৰ জীয়ৰী', C, A ৰ কি হয়?
 A) Mother / মাতৃ
 B) Daughter / জীয়ৰী
-C) Grandmother / আইতা
+C) Grandparent / ককা-আইতা
 D) Sister / ভনী
 Ans: C
 

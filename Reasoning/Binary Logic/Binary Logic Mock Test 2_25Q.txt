@@ -75,7 +75,7 @@ A) Knight
 B) Knave
 C) Alternator
 D) Cannot exist
-Ans: B
+Ans: D
 14. You meet F and G. F says, "If I am a knight, then G is a knight." What are they?
 A) F is a knight, G is a knave
 B) F is a knave, G is a knight
@@ -129,7 +129,7 @@ A) Knight
 B) Knave
 C) Normal
 D) Cannot be determined
-Ans: B
+Ans: D
 23. You meet B, C, and D. B says, "At least one of us is a knave." C says, "B is a knight." D says, "I am a knave." Who is a knight?
 A) B only
 B) C only

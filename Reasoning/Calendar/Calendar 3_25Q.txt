@@ -49,7 +49,7 @@ X, Y তকৈ 312 দিন ডাঙৰ, আনহাতে Z, X তকৈ 56 
 A) Sunday / দেওবাৰ
 B) Monday / সোমবাৰ
 C) Tuesday / মঙ্গলবাৰ
-D) Wednesday / বুধবাৰ
+D) Saturday / শনিবাৰ
 Ans: D
 
 7. If the 3rd of a month is Friday, which day will be the 4th day after the 21st of that month?
@@ -59,7 +59,7 @@ A) Saturday / শনিবাৰ
 B) Sunday / দেওবাৰ
 C) Monday / সোমবাৰ
 D) Tuesday / মঙ্গলবাৰ
-Ans: B
+Ans: A
 
 8. What was the day of the week on 15th August 1950?
 

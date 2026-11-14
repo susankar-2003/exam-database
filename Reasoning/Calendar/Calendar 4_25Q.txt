@@ -111,8 +111,8 @@ Ans: A
 2001 চনৰ 5 জানুৱাৰী যদি শুক্ৰবাৰ আছিল, তেন্তে 2001 চনৰ 25 জানুৱাৰী কি বাৰ আছিল?
 A) Wednesday / বুধবাৰ
 B) Thursday / বৃহস্পতিবাৰ
-C) Thursday / বৃহস্পতিবাৰ
-D) Thursday / বৃহস্পতিবাৰ
+C) Saturday / শনিবাৰ
+D) Friday / শুক্ৰবাৰ
 Ans: B
 
 14. Find the number of odd days from 1st Jan 2007 to 31st Dec 2007.

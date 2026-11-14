@@ -10,7 +10,7 @@ B) Father
 C) Uncle 
 D) Son 
 Ans: A
-3.Pointing to a woman, Raj said, "She is the daughter of my mother's only daughter." Who is the woman?
+3.Pointing to a woman, Raj said, "She is the daughter of my mother's only son." Who is the woman?
 A) Sister 
 B) Daughter 
 C) Mother 
@@ -82,7 +82,7 @@ B) Uncle
 C) Grandfather 
 D) Brother 
 Ans: A
-15.Pointing to a boy, Meena said, "He is the son of my father's only son." The boy is:
+15.Pointing to a boy, Meena said, "He is the son of my father's only daughter." The boy is:
 A) Brother 
 B) Son 
 C) Nephew 

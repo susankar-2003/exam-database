@@ -113,7 +113,7 @@ A) Monday / সোমবাৰ
 B) Tuesday / মঙ্গলবাৰ
 C) Wednesday / বুধবাৰ
 D) Thursday / বৃহস্পতিবাৰ
-Ans: B
+Ans: A
 
 14. If 10th November 2013 was Sunday, what was the day on 10th November 2012?
 
@@ -158,7 +158,7 @@ A) Tuesday / মঙ্গলবাৰ
 B) Wednesday / বুধবাৰ
 C) Monday / সোমবাৰ
 D) Sunday / দেওবাৰ
-Ans: B
+Ans: A
 
 19. If day before yesterday was Thursday, when will Sunday be?
 

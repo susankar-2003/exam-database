@@ -76,7 +76,7 @@ B) Y1
 C) Z1
 D) None
 Ans: C
-14. A machine has three indicator lights that can be True or False. Light A: "Light B is False." Light B: "Light C is False." Light C: "Light A is False." How many lights are True?
+14. A machine has three indicator lights that can be True or False. Light A: "All three lights are False." Light B: "Exactly one light is True." Light C: "Light B is False." How many lights are True?
 A) 0
 B) 1
 C) 2

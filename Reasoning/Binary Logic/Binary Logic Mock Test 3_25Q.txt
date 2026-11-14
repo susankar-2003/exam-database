@@ -64,7 +64,7 @@ B) Q is a knight
 C) O is a knave
 D) P is a knave
 Ans: D
-12. You meet R, S, and T. R says, "S and T are knights." S says, "R is a knave and T is a knight." T says, "R and S are knaves." What is T?
+12. You meet R, S, and T. R says, "S is a knight." S says, "R and T are of the same type." T says, "R and S are knaves." What is T?
 A) Knight
 B) Knave
 C) Neutral

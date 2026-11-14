@@ -16,9 +16,9 @@ C) 40 years / 40 বছৰ
 D) 25 years / 25 বছৰ
 Ans: B
 
-3. Sneha's age is 1/6th of her father's age. Sneha's father's age will be twice of Vimal's age after 10 years. If Vimal's 10th birthday was celebrated 2 years ago, then what is Sneha's present age?
+3. Sneha's age is 1/6th of her father's age. Sneha's father's age will be twice of Vimal's age after 10 years. If Vimal's 8th birthday was celebrated 2 years ago, then what is Sneha's present age?
 
-স্নেহাৰ বয়স দেউতাকৰ বয়সৰ 1/6 অংশ। 10 বছৰ পিছত স্নেহাৰ দেউতাকৰ বয়স বিমলৰ বয়সৰ দুগুণ হ’ব। যদি বিমলৰ 10ম জন্মদিন 2 বছৰ আগতে পালন কৰা হৈছিল, তেন্তে স্নেহাৰ বৰ্তমান বয়স কিমান?
+স্নেহাৰ বয়স দেউতাকৰ বয়সৰ 1/6 অংশ। 10 বছৰ পিছত স্নেহাৰ দেউতাকৰ বয়স বিমলৰ বয়সৰ দুগুণ হ’ব। যদি বিমলৰ 8ম জন্মদিন 2 বছৰ আগতে পালন কৰা হৈছিল, তেন্তে স্নেহাৰ বৰ্তমান বয়স কিমান?
 A) 5 years / 5 বছৰ
 B) 6 years / 6 বছৰ
 C) 7 years / 7 বছৰ
@@ -32,11 +32,11 @@ A) 33 years / 33 বছৰ
 B) 39 years / 39 বছৰ
 C) 45 years / 45 বছৰ
 D) 30 years / 30 বছৰ
-Ans: B
+Ans: A
 
-5. Ratio of ages of A and B is 3:5. Sum of their ages is 56 years. What will be the ratio of their ages after 4 years?
+5. Ratio of ages of A and B is 3:5. Sum of their ages is 56 years. What will be the ratio of their ages after 7 years?
 
-A আৰু B ৰ বয়সৰ অনুপাত 3:5। তেওঁলোকৰ বয়সৰ সমষ্টি 56 বছৰ। 4 বছৰ পিছত তেওঁলোকৰ বয়সৰ অনুপাত কিমান হ’ব?
+A আৰু B ৰ বয়সৰ অনুপাত 3:5। তেওঁলোকৰ বয়সৰ সমষ্টি 56 বছৰ। 7 বছৰ পিছত তেওঁলোকৰ বয়সৰ অনুপাত কিমান হ’ব?
 A) 2:3
 B) 5:7
 C) 1:2
@@ -124,9 +124,9 @@ C) 30 years / 30 বছৰ
 D) 28 years / 28 বছৰ
 Ans: A
 
-15. Present ages of A and B are in the ratio 8:15. 9 years ago, their ages were in the ratio 1:2. What is the present age of B?
+15. Present ages of A and B are in the ratio 8:15. 3 years ago, their ages were in the ratio 1:2. What is the present age of B?
 
-A আৰু B ৰ বৰ্তমান বয়স 8:15 অনুপাতত আছে। 9 বছৰ আগতে তেওঁলোকৰ বয়স 1:2 অনুপাতত আছিল। B ৰ বৰ্তমান বয়স কিমান?
+A আৰু B ৰ বৰ্তমান বয়স 8:15 অনুপাতত আছে। 3 বছৰ আগতে তেওঁলোকৰ বয়স 1:2 অনুপাতত আছিল। B ৰ বৰ্তমান বয়স কিমান?
 A) 45 years / 45 বছৰ
 B) 24 years / 24 বছৰ
 C) 30 years / 30 বছৰ
@@ -142,9 +142,9 @@ C) 77 years / 77 বছৰ
 D) 72 years / 72 বছৰ
 Ans: A
 
-17. In a joint family, the average age of grandparents is 67 years, average age of parents is 35 years and average age of 3 grandchildren is 6 years. What is the average age of the family?
+17. In a joint family, the average age of grandparents is 67 years, average age of parents is 35 years and average age of 3 grandchildren is 5.5 years. What is the average age of the family?
 
-এটা যৌথ পৰিয়ালত ককা-আইতাৰ গড় বয়স 67 বছৰ, পিতৃ-মাতৃৰ গড় বয়স 35 বছৰ আৰু 3 জন নাতি-নাতিনীৰ গড় বয়স 6 বছৰ। পৰিয়ালটোৰ গড় বয়স কিমান?
+এটা যৌথ পৰিয়ালত ককা-আইতাৰ গড় বয়স 67 বছৰ, পিতৃ-মাতৃৰ গড় বয়স 35 বছৰ আৰু 3 জন নাতি-নাতিনীৰ গড় বয়স 5.5 বছৰ। পৰিয়ালটোৰ গড় বয়স কিমান?
 A) 31.5 years / 31.5 বছৰ
 B) 32 years / 32 বছৰ
 C) 28.5 years / 28.5 বছৰ

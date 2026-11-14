@@ -73,7 +73,7 @@ Ans: A
 9. In 12 years, a man will be 3 times as old as his son was 4 years ago. If father is 28 years older than son, find present age of son.
 
 12 বছৰত এজন মানুহ 4 বছৰ আগতে পুতেকৰ বয়স যি আছিল তাৰ 3 গুণ হ’ব। যদি দেউতাক পুতেকতকৈ 28 বছৰে ডাঙৰ হয়, তেন্তে পুতেকৰ বৰ্তমান বয়স নিৰ্ণয় কৰা।
-A) 16 years / 16 বছৰ
+A) 26 years / 26 বছৰ
 B) 20 years / 20 বছৰ
 C) 12 years / 12 বছৰ
 D) 18 years / 18 বছৰ

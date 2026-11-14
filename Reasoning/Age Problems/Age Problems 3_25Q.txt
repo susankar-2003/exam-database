@@ -88,9 +88,9 @@ C) 15 years / 15 বছৰ
 D) 30 years / 30 বছৰ
 Ans: A
 
-11. Sum of ages of A and B is 40. 5 years ago, product of their ages was 175. Present age of A (assuming A > B)?
+11. Sum of ages of A and B is 40. 5 years ago, product of their ages was 125. Present age of A (assuming A > B)?
 
-A আৰু B ৰ বয়সৰ সমষ্টি 40। 5 বছৰ আগতে তেওঁলোকৰ বয়সৰ গুণফল 175 আছিল। A ৰ বৰ্তমান বয়স (য’ত A > B)?
+A আৰু B ৰ বয়সৰ সমষ্টি 40। 5 বছৰ আগতে তেওঁলোকৰ বয়সৰ গুণফল 125 আছিল। A ৰ বৰ্তমান বয়স (য’ত A > B)?
 A) 30 years / 30 বছৰ
 B) 25 years / 25 বছৰ
 C) 20 years / 20 বছৰ
@@ -163,11 +163,11 @@ Ans: A
 19. Average age of husband and wife was 23 years at the time of their marriage 5 years ago. Average age of husband, wife and child now is 20 years. Age of child is:
 
 5 বছৰ আগতে বিবাহৰ সময়ত স্বামী-স্ত্ৰীৰ গড় বয়স আছিল 23 বছৰ। এতিয়া স্বামী, স্ত্ৰী আৰু সন্তানৰ গড় বয়স 20 বছৰ। সন্তানৰ বয়স:
-A) 0 years / 0 বছৰ
-B) 1 year / 1 বছৰ
-C) 2 years / 2 বছৰ
-D) 3 years / 3 বছৰ
-Ans: A
+A) 1 years / 1 বছৰ
+B) 2 year / 2 বছৰ
+C) 3 years / 3 বছৰ
+D) 4 years / 4 বছৰ
+Ans: D
 
 20. Age of A is 1/3rd of B's age. After 10 years, B will be twice as old as C. If C celebrated 5th birthday 5 years ago, find present age of A.
 

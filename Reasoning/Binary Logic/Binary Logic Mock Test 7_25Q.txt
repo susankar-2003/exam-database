@@ -9,7 +9,7 @@ A) Truth-teller
 B) Liar
 C) Can be either
 D) This is a paradox
-Ans: C
+Ans: A
 3. If T1 from the previous question is indeed a truth-teller, what is T2?
 A) Truth-teller
 B) Liar
@@ -70,7 +70,7 @@ B) F and H
 C) E and G
 D) G and H
 Ans: C
-13. I says, "J and K are the same type." J says, "I and K are the same type." K says, "I and J are different types." How many liars are there?
+13. I says, "J is a truth-teller." J says, "K is a liar." K says, "I and J are of the same type." How many liars are there?
 A) 0
 B) 1
 C) 2

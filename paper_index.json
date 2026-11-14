@@ -1514,15 +1514,15 @@
         "217": {
             "id": "217",
             "name": "Literature of Assam 2_15Q.txt",
-            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 2_15Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%202_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Literature of Assam 2_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Literature%20of%20Assam%202_15Q.txt",
             "hash": "0cc30c60435f45a8ebfd4eebf506433b"
         },
         "218": {
             "id": "218",
             "name": "Literature of Assam 1_15Q.txt",
-            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 1_15Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%201_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Literature of Assam 1_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Literature%20of%20Assam%201_15Q.txt",
             "hash": "5eeacc9f4b63b78b9c0c8342bbf0c745"
         },
         "219": {
@@ -1653,9 +1653,9 @@
         },
         "237": {
             "id": "237",
-            "name": "Medieval Assam History 4_25Q.txt",
-            "path": "Assam GK/Assam History/Medieval Assam History 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Medieval%20Assam%20History%204_25Q.txt",
+            "name": "Ancient Assam History 2_25Q.txt",
+            "path": "Assam GK/Assam History/Ancient Assam History 2_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Ancient%20Assam%20History%202_25Q.txt",
             "hash": "4564a431c9320390e4edc62ea4c06277"
         },
         "238": {
@@ -2066,9 +2066,9 @@
         },
         "296": {
             "id": "296",
-            "name": "Mountains & Peaks 3_20Q.txt",
-            "path": "General Awareness/World Geography/Mountains & Peaks 3_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%203_20Q.txt",
+            "name": "Deserts 2_20Q.txt.txt",
+            "path": "General Awareness/World Geography/Deserts 2_20Q.txt.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%202_20Q.txt.txt",
             "hash": "dd5f646a85624198d2576ebb91aa4087"
         },
         "297": {
@@ -3469,7 +3469,7 @@
             "name": "Binary Logic Mock Test 8_25Q.txt",
             "path": "Reasoning/Binary Logic/Binary Logic Mock Test 8_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%208_25Q.txt",
-            "hash": "e49155bd9b473e2e8c04b8b58f5ba40f"
+            "hash": "b1e3c7b355f20d2bbf6ab7d06076816a"
         },
         "497": {
             "id": "497",
@@ -3483,28 +3483,28 @@
             "name": "Binary Logic Mock Test 1_25Q.txt",
             "path": "Reasoning/Binary Logic/Binary Logic Mock Test 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%201_25Q.txt",
-            "hash": "4c946d63386beb5f8e88dfd4ce33feca"
+            "hash": "34edc3e667a5e9f27bb19561c1ad314a"
         },
         "499": {
             "id": "499",
             "name": "Binary Logic Mock Test 7_25Q.txt",
             "path": "Reasoning/Binary Logic/Binary Logic Mock Test 7_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%207_25Q.txt",
-            "hash": "0143188d46663557c3df045dc92923cc"
+            "hash": "78479ef6e407295a63abea01dc72edeb"
         },
         "500": {
             "id": "500",
             "name": "Binary Logic Mock Test 2_25Q.txt",
             "path": "Reasoning/Binary Logic/Binary Logic Mock Test 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%202_25Q.txt",
-            "hash": "ce9ecb8e00d013e21bc37ec70ae3ccd9"
+            "hash": "5d7ac848ad7c60ee7dfb6ecf786e1edc"
         },
         "501": {
             "id": "501",
             "name": "Binary Logic Mock Test 3_25Q.txt",
             "path": "Reasoning/Binary Logic/Binary Logic Mock Test 3_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Binary%20Logic/Binary%20Logic%20Mock%20Test%203_25Q.txt",
-            "hash": "648af9d39cff1f7ea6b8d493785a5fa6"
+            "hash": "4ec75cec9abe1f4bc6302bc17bf2d471"
         },
         "502": {
             "id": "502",
@@ -3518,7 +3518,7 @@
             "name": "Blood Relation Test Paper 1.txt",
             "path": "Reasoning/Blood Relations/Blood Relation Test Paper 1.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Blood%20Relation%20Test%20Paper%201.txt",
-            "hash": "e1c52e315a376af04cf2b51a08886b1b"
+            "hash": "9ce600d37655e703102db466b6139cb3"
         },
         "504": {
             "id": "504",
@@ -4120,7 +4120,7 @@
             "name": "Coded Relation 2_25Q.txt",
             "path": "Reasoning/Blood Relations/Coded Relation 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Blood%20Relations/Coded%20Relation%202_25Q.txt",
-            "hash": "233f36fd95718ac8f7623ab01e812ce6"
+            "hash": "d0b5d4e3249256f600ac906251687925"
         },
         "590": {
             "id": "590",
@@ -4176,42 +4176,42 @@
             "name": "Age Problems 5_25Q.txt",
             "path": "Reasoning/Age Problems/Age Problems 5_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%205_25Q.txt",
-            "hash": "7e40306e3763f644bd57481cc334394d"
+            "hash": "023c22b784724c30a7b0f6fec434114b"
         },
         "598": {
             "id": "598",
             "name": "Age Problems 1_25Q.txt",
             "path": "Reasoning/Age Problems/Age Problems 1_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%201_25Q.txt",
-            "hash": "3d6778f6964b8140b5350a03f6a1ffc6"
+            "hash": "f19f3d392461bbe4e78821d42d988d8e"
         },
         "599": {
             "id": "599",
             "name": "Age Problems 3_25Q.txt",
             "path": "Reasoning/Age Problems/Age Problems 3_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%203_25Q.txt",
-            "hash": "731bd00410b5c125fb4724d022251863"
+            "hash": "f0b6ec737aa66560ab07d55b50fc9ad8"
         },
         "600": {
             "id": "600",
             "name": "Age Problems 2_25Q.txt",
             "path": "Reasoning/Age Problems/Age Problems 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%202_25Q.txt",
-            "hash": "96ded5ab704dff4fc79e8a1c603c5c9b"
+            "hash": "e548a74f1e1300cbef21cf1b7c9a67f3"
         },
         "601": {
             "id": "601",
             "name": "Age Problems 6_25Q.txt",
             "path": "Reasoning/Age Problems/Age Problems 6_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%206_25Q.txt",
-            "hash": "c917aba18ae8e2445ae3f129b04d1fb9"
+            "hash": "48a3513e5fba70950624a4b1b399bd78"
         },
         "602": {
             "id": "602",
             "name": "Age Problems 4_25Q.txt",
             "path": "Reasoning/Age Problems/Age Problems 4_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Age%20Problems/Age%20Problems%204_25Q.txt",
-            "hash": "e6c032f2c90ef422b1de4f09b034ea72"
+            "hash": "f31c3a3ff7df727c134241d341104564"
         },
         "603": {
             "id": "603",
@@ -4225,7 +4225,7 @@
             "name": "Alphabet Analogy_25Q.txt",
             "path": "Reasoning/Analogy/Alphabet Analogy_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analogy/Alphabet%20Analogy_25Q.txt",
-            "hash": "548bad6b6aef8c0498e990ed8b00a60d"
+            "hash": "9760f0f2dbf9d7dcaa4a5d7016a29a73"
         },
         "605": {
             "id": "605",
@@ -4246,14 +4246,14 @@
             "name": "Word Analogy_25Q.txt",
             "path": "Reasoning/Analogy/Word Analogy_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Analogy/Word%20Analogy_25Q.txt",
-            "hash": "ac296b8d56f91497461ab1cbf847db66"
+            "hash": "1989d00c9babbc447b52aabe8e15cb9e"
         },
         "608": {
             "id": "608",
             "name": "Calendar 2_25Q.txt",
             "path": "Reasoning/Calendar/Calendar 2_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Calendar/Calendar%202_25Q.txt",
-            "hash": "98a09ea744fee17f3b176263a5c4c227"
+            "hash": "8cd37d0d978d30b4d5b5dcd1a692733c"
         },
         "609": {
             "id": "609",
@@ -4267,7 +4267,7 @@
             "name": "Calendar 3_25Q.txt",
             "path": "Reasoning/Calendar/Calendar 3_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Calendar/Calendar%203_25Q.txt",
-            "hash": "2684979d50cf02951e3ef1c7a1b8609c"
+            "hash": "20a454f67d273b618066276db469e63f"
         },
         "611": {
             "id": "611",
@@ -4281,7 +4281,7 @@
             "name": "Calendar 4_25Q.txt",
             "path": "Reasoning/Calendar/Calendar 4_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Calendar/Calendar%204_25Q.txt",
-            "hash": "7a028bb59bc861b6a24e1cbb6eef0ad1"
+            "hash": "df711063b7f295012cd29d3fbbf3d3c4"
         },
         "613": {
             "id": "613",
@@ -4330,49 +4330,49 @@
             "name": "Letter-Word Problems 1_20Q.txt",
             "path": "Reasoning/Alphabet Reasoning/Letter-Word Problems 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Letter-Word%20Problems%201_20Q.txt",
-            "hash": "d6dd746fe98695d14a7715ed0bf35389"
+            "hash": "5b6c099f62685fe559d0ab940b3da0d8"
         },
         "620": {
             "id": "620",
             "name": "Jumbled Letters_25Q.txt",
             "path": "Reasoning/Alphabet Reasoning/Jumbled Letters_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Jumbled%20Letters_25Q.txt",
-            "hash": "8489e0194d1a87f1aaf21b7b42b9b34e"
+            "hash": "a8d6bba0f669005294e5d033f6be6951"
         },
         "621": {
             "id": "621",
             "name": "Alphabetical Order 1_20Q.txt",
             "path": "Reasoning/Alphabet Reasoning/Alphabetical Order 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Alphabetical%20Order%201_20Q.txt",
-            "hash": "f9ff2b39ac72c307dd9ed61e8381709a"
+            "hash": "b1f9ba5979f88a6724bf09b910e6b18e"
         },
         "622": {
             "id": "622",
             "name": "Letter-Word Problems 2_20Q.txt",
             "path": "Reasoning/Alphabet Reasoning/Letter-Word Problems 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Letter-Word%20Problems%202_20Q.txt",
-            "hash": "c150eed70faa3f7efc333d36181a2bc4"
+            "hash": "5787e2dc20e6f9e22d1e7be55be19a54"
         },
         "623": {
             "id": "623",
             "name": "Alphabet Series 1_20Q.txt",
             "path": "Reasoning/Alphabet Reasoning/Alphabet Series 1_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Alphabet%20Series%201_20Q.txt",
-            "hash": "84d649a9264316b66418e218abc84eca"
+            "hash": "a30fa983ed3df7da2722a77462ad36fe"
         },
         "624": {
             "id": "624",
             "name": "Alphabetical Order 2_20Q.txt",
             "path": "Reasoning/Alphabet Reasoning/Alphabetical Order 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Alphabetical%20Order%202_20Q.txt",
-            "hash": "a8a4b3d503b1ceeab802331670aa2a99"
+            "hash": "ba573c50ce3e86765bd07b1bd4e0519f"
         },
         "625": {
             "id": "625",
             "name": "Alphabet Series 2_20Q.txt",
             "path": "Reasoning/Alphabet Reasoning/Alphabet Series 2_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Alphabet%20Reasoning/Alphabet%20Series%202_20Q.txt",
-            "hash": "7dbbde42b7d0a8b6a918fb3c50b464d9"
+            "hash": "d54bf2e61562bb01486ec808f0782792"
         },
         "626": {
             "id": "626",
@@ -5527,21 +5527,21 @@
             "name": "April 2026 3_EA_25Q.txt",
             "path": "Current Affairs/April 2026/April 2026 3_EA_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%203_EA_25Q.txt",
-            "hash": "d0eb51460da734c0eb384ad1ed5bf4bd"
+            "hash": "9a2d1db1d1be14c7d0f065472a742af2"
         },
         "791": {
             "id": "791",
             "name": "April 2026 2_EA_25Q.txt",
             "path": "Current Affairs/April 2026/April 2026 2_EA_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%202_EA_25Q.txt",
-            "hash": "c0d93eed8c7125c90f1ceb903ce094d3"
+            "hash": "6c9b33785cb0ac7751b7cce349165005"
         },
         "792": {
             "id": "792",
             "name": "April 2026 4_EA_25Q.txt",
             "path": "Current Affairs/April 2026/April 2026 4_EA_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/April%202026/April%202026%204_EA_25Q.txt",
-            "hash": "5d728c9d9c74aca1c76370a54f35ddab"
+            "hash": "0639327ace17ac2d3152def22970c2df"
         },
         "793": {
             "id": "793",

@@ -1,0 +1,224 @@
+1. What is the name given to the Chandrayaan-2 crash/impact site on the Moon?
+
+চন্দ্ৰত চন্দ্ৰযান-২ ৰ ক্ৰেশ্ব/প্ৰভাৱিত স্থানটোৰ নাম কি ৰখা হৈছে?
+A) Shiv Shakti Point / শিৱ শক্তি পইণ্ট
+B) Tiranga Point / তিৰংগা পইণ্ট
+C) Shakti Point / শক্তি পইণ্ট
+D) Atal Point / অটল পইণ্ট
+Ans: B
+
+2. Mangalyaan (Mars Orbiter Mission) was launched by ISRO in which year?
+
+ইছৰোৱে মঙ্গলযান (মাৰ্চ অৰ্বিটাৰ মিছন) কোনটো বছৰত উৎক্ষেপণ কৰিছিল?
+A) 2012 / ২০১২
+B) 2013 / ২০১৩
+C) 2015 / ২০১৫
+D) 2018 / ২০১৮
+Ans: B
+
+3. Which launch vehicle was used to launch Mangalyaan (MOM)?
+
+মঙ্গলযান উৎক্ষেপণৰ বাবে কোনটো উৎক্ষেপণ যান ব্যৱহাৰ কৰা হৈছিল?
+A) PSLV-C25 / পি.এছ.এল.ভি.-চি২৫
+B) GSLV-MK III / জি.এছ.এল.ভি.-এম কে ৩
+C) PSLV-C11 / পি.এছ.এল.ভি.-চি১১
+D) SSLV-D1 / এছ.এছ.এল.ভি.-ডি১
+Ans: A
+
+4. What is India's first dedicated solar space mission launched by ISRO called?
+
+ইছৰোৱে উৎক্ষেপণ কৰা ভাৰতৰ প্ৰথমটো উৎসৰ্গিত সূৰ্য্য মহাকাশ অভিযানৰ নাম কি?
+A) Aditya-L1 / আদিত্য-এল১
+B) Surya-1 / সূৰ্য-১
+C) Solar-India / ছ'লাৰ-ইণ্ডিয়া
+D) Helios-A / হেলিয়'ছ-এ
+Ans: A
+
+5. In Aditya-L1, what does 'L1' stand for?
+
+আদিত্য-এল১ ত 'L1' এ কি বুজায়?
+A) Lunar Point 1 / লুনাৰ পইণ্ট ১
+B) Lagrange Point 1 / লা গ্ৰাঞ্জ পইণ্ট ১
+C) Linear Point 1 / লিনিয়াৰ পইণ্ট ১
+D) Launch Point 1 / লঞ্চ পইণ্ট ১
+Ans: B
+
+6. How many Lagrange points exist in the Sun-Earth system?
+
+সূৰ্য-পৃথিৱী প্ৰণালীত কেইটা লা গ্ৰাঞ্জ পইণ্ট থাকে?
+A) 3 / ৩
+B) 4 / ৪
+C) 5 / ৫
+D) 7 / ৭
+Ans: C
+
+7. Gaganyaan is India's first mission for what objective?
+
+গগনযান ভাৰতৰ প্ৰথমটো কি উদ্দেশ্যৰ অভিযান?
+A) Deep sea exploration / গভীৰ সাগৰীয় অন্বেষণ
+B) Human spaceflight mission / মানৱ যুক্ত মহাকাশ যাত্ৰা অভিযান
+C) Venus orbiter mission / শুক্ৰ গ্ৰহৰ কক্ষপথ অভিযান
+D) Space telescope mission / মহাকাশ দূৰবীক্ষণ অভিযান
+Ans: B
+
+8. What is the name of the female humanoid robot developed by ISRO for Gaganyaan test flights?
+
+গগনযানৰ পৰীক্ষামূলক উৰণৰ বাবে ইছৰোৱে প্ৰস্তুত কৰা মহিলা হিউমেনইড ৰবটটোৰ নাম কি?
+A) Sophia / ছফিয়া
+B) Vyommitra / ব্যোমমিত্ৰ
+C) Mitra / মিত্র
+D) Rashmi / ৰশ্মি
+Ans: B
+
+9. What is the full form of NAVIC, India's regional satellite navigation system?
+
+ভাৰতৰ আঞ্চলিক উপগ্ৰহ নেভিগেচন ব্যৱস্থা NAVIC ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Navigation with Indian Constellation / নেভিগেচন উইথ ইণ্ডিয়ান কনষ্টেলেশ্বন
+B) National Area Vehicle Navigation System / নেচনেল এৰিয়া ভেহিকেল নেভিগেচন চিষ্টেম
+C) Nautical Asian Vehicle Navigation Code / নটিকেল এচিয়ান ভেহিকেল নেভিগেচন ক'ড
+D) Navigation and Altitude Vehicle Identification Center / নেভিগেচন এণ্ড অলটিটিউড ভেহিকেল আইডেণ্টিফিকেশ্বন চেণ্টাৰ
+Ans: A
+
+10. What is the operational name of NaVIC system?
+
+NaVIC ব্যৱস্থাৰ কাৰ্যকৰী নাম কি?
+A) IRNSS / আই.আৰ.এন.এছ.এছ.
+B) INSAT / ইনচেট
+C) GSAT / জিচেট
+D) RISAT / ৰাইচেট
+Ans: A
+
+11. India's NaVIC regional navigation system uses how many primary satellites in orbit?
+
+ভাৰতৰ NaVIC আঞ্চলিক নেভিগেচন ব্যৱস্থাত কক্ষপথত কেইটা প্ৰাথমিক উপগ্ৰহ ব্যৱহাৰ কৰা হয়?
+A) 5 / ৫
+B) 7 / ৭
+C) 12 / ১২
+D) 24 / ২৪
+Ans: B
+
+12. GPS is the satellite navigation system of which country?
+
+জি.পি.এছ. (GPS) কোনখন দেশৰ উপগ্ৰহ নেভিগেচন ব্যৱস্থা?
+A) Russia / ৰাছিয়া
+B) USA / আমেৰিকা যুক্তৰাষ্ট্ৰ
+C) China / চীন
+D) European Union / ইউৰোপীয় ইউনিয়ন
+Ans: B
+
+13. GLONASS is the satellite navigation system belonging to which country?
+
+গ্ল'নাছ (GLONASS) কোনখন দেশৰ উপগ্ৰহ নেভিগেচন ব্যৱস্থা?
+A) China / চীন
+B) Russia / ৰাছিয়া
+C) Japan / জাপান
+D) France / ফ্ৰান্স
+Ans: B
+
+14. BeiDou is the satellite navigation system developed by which nation?
+
+বেইডৌ (BeiDou) কোনখন দেশে বিকাশ কৰা উপগ্ৰহ নেভিগেচন ব্যৱস্থা?
+A) Japan / জাপান
+B) China / চীন
+C) South Korea / দক্ষিণ কোৰিয়া
+D) India / ভাৰত
+Ans: B
+
+15. Galileo is the satellite navigation system of which entity?
+
+গেলেলিও (Galileo) কোনটো সত্তাৰ উপগ্ৰহ নেভিগেচন ব্যৱস্থা?
+A) European Union / ইউৰোপীয় ইউনিয়ন
+B) USA / আমেৰিকা যুক্তৰাষ্ট্ৰ
+C) United Kingdom / যুক্তৰাজ্য
+D) Russia / ৰাছিয়া
+Ans: A
+
+16. What is the full form of SSLV developed by ISRO?
+
+ইছৰোৱে বিকাশ কৰা SSLV ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Super Satellite Launch Vehicle / ছুপাৰ চেটেলাইট লঞ্চ ভেহিকেল
+B) Small Satellite Launch Vehicle / স্মল চেটেলাইট লঞ্চ ভেহিকেল
+C) Solar Satellite Launch Vehicle / ছ'লাৰ চেটেলাইট লঞ্চ ভেহিকেল
+D) Standard Satellite Launch Vehicle / ষ্টেণ্ডাৰ্ড চেটেলাইট লঞ্চ ভেহিকেল
+Ans: B
+
+17. What cryogenic engine fuel combination is commonly used in upper stages of GSLV?
+
+জি.এছ.এল.ভি.ৰ ওপৰৰ স্তৰত সাধাৰণতে কোনটো ক্ৰায়'জেনিক ইন্ধনৰ মিশ্ৰণ ব্যৱহাৰ কৰা হয়?
+A) Liquid Hydrogen and Liquid Oxygen / তৰল হাইড্ৰ'জেন আৰু তৰল অক্সিজেন
+B) Kerosene and Liquid Oxygen / কেৰোচিন আৰু তৰল অক্সিজেন
+C) Petrol and Hydrogen Peroxide / পেট্ৰ'ল আৰু হাইড্ৰ'জেন পাৰঅক্সাইড
+D) Hydrazine and Nitric Acid / হাইড্ৰাজিন আৰু নাইট্ৰিক এছিড
+Ans: A
+
+18. Cryogenic engines operate at what range of temperatures?
+
+ক্ৰায়'জেনিক ইঞ্জিনবোৰে কি পৰিসৰৰ উষ্ণতাত কাম কৰে?
+A) Very high temperatures / অতি উচ্চ উষ্ণতাত
+B) Very low temperatures / অতি কম উষ্ণতাত
+C) Room temperature / কোঠাৰ উষ্ণতাত
+D) Absolute zero strictly / কেৱল পৰম শূন্য উষ্ণতাত
+Ans: B
+
+19. Which missile is India's first indigenously developed surface-to-surface ballistic missile?
+
+কোনটো মিছাইল ভাৰতৰ প্ৰথমটো স্বদেশীভাৱে প্ৰস্তুত কৰা ভূপৃষ্ঠৰ পৰা ভূপৃষ্ঠলৈ নিক্ষেপ কৰা বেলেষ্টিক মিছাইল?
+A) Agni / অগ্নি
+B) Prithvi / পৃথিৱী
+C) Trishul / ত্ৰিশূল
+D) Nag / নাগ
+Ans: B
+
+20. BrahMos is a joint venture supersonic cruise missile developed by India and which country?
+
+ব্ৰহ্মছ (BrahMos) ভাৰত আৰু কোনখন দেশৰ যৌথ উদ্যোগত নিৰ্মিত ছুপাৰছনিক ক্ৰুজ মিছাইল?
+A) USA / আমেৰিকা
+B) Russia / ৰাছিয়া
+C) France / ফ্ৰান্স
+D) Israel / ইজৰাইল
+Ans: B
+
+21. The name 'BrahMos' is formed from the names of which two rivers?
+
+'ব্ৰহ্মছ' নামটো কোন দুখন নদীৰ নামৰ পৰা লোৱা হৈছে?
+A) Brahmaputra and Moskva / ব্ৰহ্মপুত্ৰ আৰু মস্কভা
+B) Brahmaputra and Mississippi / ব্ৰহ্মপুত্ৰ আৰু মিচিছিপি
+C) Ganges and Moskva / গংগা আৰু মস্কভা
+D) Brahmaputra and Mekong / ব্ৰহ্মপুত্ৰ আৰু মেকং
+Ans: A
+
+22. What type of missile is 'Nag' developed by DRDO?
+
+ডি.আৰ.ডি.ও.ৱে বিকাশ কৰা 'নাগ' কোন প্ৰকাৰৰ মিছাইল?
+A) Air-to-air missile / আকাশৰ পৰা আকাশলৈ নিক্ষেপ কৰা মিছাইল
+B) Anti-tank guided missile / এণ্টি-টেংক গ্ৰাইডেড মিছাইল
+C) Surface-to-air missile / ভূপৃষ্ঠৰ পৰা আকাশলৈ নিক্ষেপ কৰা মিছাইল
+D) Sea-to-sea missile / সাগৰৰ পৰা সাগৰলৈ নিক্ষেপ কৰা মিছাইল
+Ans: B
+
+23. What type of missile is 'Akash' developed under IGMDP?
+
+IGMDP ৰ অধীনত বিকাশ কৰা 'আকাশ' কোন প্ৰকাৰৰ মিছাইল?
+A) Surface-to-air missile / ভূপৃষ্ঠৰ পৰা আকাশলৈ নিক্ষেপ কৰা মিছাইল
+B) Surface-to-surface missile / ভূপৃষ্ঠৰ পৰা ভূপৃষ্ঠলৈ নিক্ষেপ কৰা মিছাইল
+C) Air-to-air missile / আকাশৰ পৰা আকাশলৈ নিক্ষেপ কৰা মিছাইল
+D) Anti-submarine missile / এণ্টি-ছাবমেৰিন মিছাইল
+Ans: A
+
+24. What is the full form of IGMDP in Indian defense history?
+
+ভাৰতীয় প্ৰতিৰক্ষা ইতিহাসত IGMDP ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Integrated Guided Missile Development Programme / ইণ্টেগ্ৰেটেড গ্ৰাইডেড মিছাইল ডেভেলপমেণ্ট প্ৰগ্ৰেম
+B) International Guided Missile Development Plan / ইনটাৰনেচনেল গ্ৰাইডেড মিছাইল ডেভেলপমেণ্ট প্লেন
+C) Indian Guided Missile Defense Programme / ইণ্ডিয়ান গ্ৰাইডেড মিছাইল ডিফেন্স প্ৰগ্ৰেম
+D) Integrated Gas Missile Development Project / ইণ্টেগ্ৰেটেড গেছ মিছাইল ডেভেলপমেণ্ট প্ৰজেক্ট
+Ans: A
+
+25. Who was the chief architect of the IGMDP missile program in India?
+
+ভাৰতত IGMDP মিছাইল কাৰ্যসূচীৰ মুখ্য স্থপতি কোন আছিল?
+A) Dr. APJ Abdul Kalam / ড° এ. পি. জে. আব্দুল কালাম
+B) Dr. Homi Bhabha / ড° হোমি ভাবা
+C) Dr. Kasturirangan / ড° কস্তুৰীৰংগন
+D) Dr. G Satheesh Reddy / ড° জি. সতীশ ৰেড্ডী
+Ans: A

@@ -1,0 +1,224 @@
+1. Which component blocks DC and allows AC to pass?
+
+কোনটো উপাদানে DC ক বাধা দিয়ে আৰু AC পাৰ হ'বলৈ দিয়ে?
+A) Resistor / ৰেজিষ্টৰ
+B) Inductor / ইণ্ডাক্টৰ
+C) Capacitor / কেপাচিটৰ
+D) Diode / ডায়'ড
+Ans: C
+
+2. Which component blocks AC and allows DC to pass?
+
+কোনটো উপাদানে AC ক বাধা দিয়ে আৰু DC পাৰ হ'বলৈ দিয়ে?
+A) Capacitor / কেপাচিটৰ
+B) Inductor / ইণ্ডাক্টৰ
+C) Resistor / ৰেজিষ্টৰ
+D) Transistor / ট্রানজিষ্টৰ
+Ans: B
+
+3. Unit of magnetic flux is:
+
+চুম্বকীয় ফ্লাক্সৰ একক কি?
+A) Tesla / টেছলা
+B) Weber / ৱেবাৰ
+C) Gauss / গাউছ
+D) Henry / হেনৰী
+Ans: B
+
+4. Unit of magnetic field strength (flux density) is:
+
+চুম্বকীয় ক্ষেত্ৰৰ তীব্রতাৰ (ফ্লাক্স ঘনত্ব) একক কি?
+A) Weber / ৱেবাৰ
+B) Tesla / টেছলা
+C) Farad / ফাৰাড
+D) Ohm / ওম
+Ans: B
+
+5. Device used to change voltage levels in AC power transmission is:
+
+AC বিদ্যুৎ পৰিবহনত ভোল্টেজৰ মাত্ৰা সলাবলৈ ব্যৱহৃত সঁজুলি কি?
+A) Dynamo / ডাইনাম'
+B) Motor / মটৰ
+C) Transformer / ট্ৰান্সফৰ্মাৰ
+D) Commutator / কম্যুটেইটৰ
+Ans: C
+
+6. Core of a transformer is laminated to reduce:
+
+ট্ৰান্সফৰ্মাৰৰ ক'ৰ (Core) কি হ্ৰাস কৰিবলৈ লেমিনেটেড কৰা হয়?
+A) Copper loss / কপাৰ লছ (তামৰ ক্ষয়)
+B) Eddy current loss / এডি কাৰেণ্ট লছ (ঘূৰ্ণীয় প্ৰবাহ ক্ষয়)
+C) Hysteresis loss / হিস্ট্ৰেচিছ লছ
+D) Friction loss / ঘৰ্ষণজনিত ক্ষয়
+Ans: B
+
+7. Soft iron is used in transformer cores because it has:
+
+ট্ৰান্সফৰ্মাৰ ক'ৰত কোমল লো ব্যৱহাৰ কৰা হয় কাৰণ ইয়াৰ:
+A) High permeability and low hysteresis loss / উচ্চ প্ৰৱেশ্যতা আৰু কম হিস্ট্ৰেচিছ লছ
+B) Low permeability / কম প্ৰৱেশ্যতা
+C) High resistance / উচ্চ ৰোধ
+D) Zero conductivity / শূন্য আপেক্ষিক পৰিবাহিতা
+Ans: A
+
+8. Electricity generated at power station is transmitted at high voltage to:
+
+বিদ্যুৎ কেন্দ্ৰত উৎপাদিত বিদ্যুৎ উচ্চ ভোল্টেজত পৰিবহন কৰা হয় কিহৰ বাবে?
+A) Increase current / বিদ্যুৎ প্ৰবাহ বঢ়াবলৈ
+B) Reduce energy loss in transmission lines / পৰিবহন লাইনত শক্তি ক্ষয় কমাব লৈ
+C) Make it faster / প্ৰবাহ দ্ৰুত কৰিবলৈ
+D) Keep generator safe / জেনেৰেটৰ সুৰক্ষিত ৰাখিবলৈ
+Ans: B
+
+9. Electric charge can be produced by:
+
+বৈদ্যুতিক আধান কিহৰ দ্বাৰা সৃষ্টি কৰিব পাৰি?
+A) Friction / ঘৰ্ষণ
+B) Induction / আৱেশ
+C) Conduction / পৰিবহন
+D) All of the above / ওপৰৰ আটাইবোৰ
+Ans: D
+
+10. Instrument used to detect presence and nature of electric charge on a body:
+
+কোনো বস্তুত বৈদ্যুতিক আধানৰ উপস্থিতি পৰীক্ষা কৰা সঁজুলি কি?
+A) Electroscope / ইলেক্ট্ৰ'স্ক'প
+B) Galvanometer / গালভানোমিটাৰ
+C) Voltmeter / ভোল্টমিটাৰ
+D) Thermometer / থাৰ্মোমিটাৰ
+Ans: A
+
+11. Electrostatic force between two point charges is given by:
+
+দুটা বিন্দু আধানৰ মাজৰ স্থিৰ-বৈদ্যুতিক বল কোন সূত্ৰৰ দ্বাৰা পোৱা যায়?
+A) Newton's Law / নিউটনৰ সূত্ৰ
+B) Coulomb's Law / কুলম্বৰ সূত্ৰ
+C) Ampere's Law / এম্পিয়াৰৰ সূত্ৰ
+D) Ohm's Law / ওমৰ সূত্ৰ
+Ans: B
+
+12. Force between two like electric charges is:
+
+দুটা সদৃশ (একে) বৈদ্যুতিক আধানৰ মাজৰ বল কি?
+A) Attractive / আকৰ্ষণীয়
+B) Repulsive / বিকৰ্ষণীয়
+C) Zero / শূন্য
+D) Neutral / নিৰপেক্ষ
+Ans: B
+
+13. Force between two unlike charges is:
+
+দুটা বিষদৃশ (বিপৰীত) আধানৰ মাজৰ বল কি?
+A) Repulsive / বিকৰ্ষণীয়
+B) Attractive / আকৰ্ষণীয়
+C) Zero / শূন্য
+D) Variable / পৰিৱৰ্তনশীল
+Ans: B
+
+14. Dielectric material is an:
+
+ডাই-ইলেকট্ৰিক (Dielectric) পদাৰ্থ এবিধ:
+A) Insulator / অপৰিবাহী (আৱৰক)
+B) Semiconductor / অৰ্ধপৰিবাহী
+C) Superconductor / অতিপৰিবাহী
+D) Good conductor / সুপৰিবাহী
+Ans: A
+
+15. Purpose of adding dielectric inside a capacitor is to:
+
+কেপাচিটৰৰ ভিতৰত ডাই-ইলেকট্ৰিক ব্যৱহাৰ কৰাৰ উদ্দেশ্য কি?
+A) Decrease capacitance / ধাৰকত্ব হ্ৰাস কৰা
+B) Increase capacitance / ধাৰকত্ব বৃদ্ধি কৰা
+C) Discharge capacitor / কেপাচিটৰ ডিচাৰ্জ কৰা
+D) Stop electric field / বৈদ্যুতিক ক্ষেত্ৰ বন্ধ কৰা
+Ans: B
+
+16. Electrical conductivity of semiconductors at absolute zero (0 K) temperature is:
+
+পৰম শূন্য (0 K) উষ্ণতাত অৰ্ধপৰিবাহীৰ বৈদ্যুতিক পৰিবাহিতা কিমান?
+A) Infinite / অসীম
+B) Very high / অতি বেছি
+C) Zero (acts as insulator) / শূন্য (অপৰিবাহীৰ দৰে আচৰণ কৰে)
+D) Same as copper / তামৰ সমান
+Ans: C
+
+17. Trivalent impurity added to Silicon creates:
+
+চিলিকনত ত্ৰিসংযোজী অপদ্ৰৱ যোগ কৰিলে কি তৈয়াৰ হয়?
+A) N-type semiconductor / N-টাইপ অৰ্ধপৰিবাহী
+B) P-type semiconductor / P-টাইপ অৰ্ধপৰিবাহী
+C) Superconductor / অতিপৰিবাহী
+D) Insulator / অপৰিবাহী
+Ans: B
+
+18. Pentavalent impurity added to Germanium creates:
+
+জাৰ্মেনিয়ামৰ সৈতে পঞ্চসংযোজী অপদ্ৰৱ মিহলালে কি তৈয়াৰ হয়?
+A) P-type semiconductor / P-টাইপ অৰ্ধপৰিবাহী
+B) N-type semiconductor / N-টাইপ অৰ্ধপৰিবাহী
+C) Dielectric / ডাই-ইলেকট্ৰিক
+D) Resistor / ৰেজিষ্টৰ
+Ans: B
+
+19. Example of Trivalent impurity is:
+
+ত্ৰিসংযোজী অপদ্ৰৱৰ উদাহৰণ হ'ল:
+A) Phosphorus / ফছফৰাছ
+B) Arsenic / আৰ্চেনিক
+C) Boron / ব'ৰণ
+D) Antimony / এণ্টিমণি
+Ans: C
+
+20. Example of Pentavalent impurity is:
+
+পঞ্চসংযোজী অপদ্ৰৱৰ উদাহৰণ হ'ল:
+A) Indium / ইণ্ডিয়াম
+B) Gallium / গ্যালিয়াম
+C) Arsenic / আৰ্চেনিক
+D) Boron / ব'ৰণ
+Ans: C
+
+21. Light Emitting Diode (LED) works in:
+
+লাইট এমিটিং ডায়'ড (LED) কেনেকৈ কাৰ্য কৰে?
+A) Reverse Bias / ৰিভাৰ্ছ বায়াসত
+B) Forward Bias / ফৰৱাৰ্ড বায়াসত
+C) Unbiased condition / অনাবিহীন অৱস্থাত
+D) Breakdown region / ব্ৰেকডাউন অঞ্চলত
+Ans: B
+
+22. Photo diode works in:
+
+ফটো ডায়'ডে কি অৱস্থাত কাৰ্য কৰে?
+A) Forward Bias / ফৰৱাৰ্ড বায়াসত
+B) Reverse Bias / ৰিভাৰ্ছ বায়াসত
+C) Saturation mode / সংপৃক্ত অৱস্থাত
+D) Both A and B / এ আৰু বি দুয়োটাতে
+Ans: B
+
+23. Solar cell works on the principle of:
+
+সৌৰ কোষ কি সূত্ৰৰ ওপৰত কাৰ্য কৰে?
+A) Photovoltaic effect / ফটোভল্টাইক প্ৰভাৱ
+B) Thermionic emission / থাৰ্মাইঅনিক নিৰ্গমন
+C) Peltier effect / পেল্টিয়াৰ প্ৰভাৱ
+D) Seebeck effect / চিবেক প্ৰভাৱ
+Ans: A
+
+24. Current collector in Bipolar Junction Transistor is:
+
+দ্বিপোলাৰ জংচন ট্ৰানজিষ্টৰত সংগ্ৰাহক (Collector) টো কি?
+A) Heavily doped / গধুৰভাৱে ড'প কৰা
+B) Moderately doped and largest in size / মজলীয়া ড'পিং আৰু আকাৰত আটাইতকৈ ডাঙৰ
+C) Smallest in size / আকাৰত আটাইতকৈ সৰু
+D) Thin and lightly doped / পাতল আৰু পাতলভাৱে ড'প কৰা
+Ans: B
+
+25. Emitter region of a transistor is:
+
+ট্ৰানজিষ্টৰৰ এমিটাৰ অঞ্চলটো:
+A) Heavily doped / গধুৰভাৱে ড'প কৰা (Heavily doped)
+B) Lightly doped / পাতলভাৱে ড'প কৰা
+C) Un-doped / ড'পিং নকৰা
+D) Medium size and lightly doped / মজলীয়া আকাৰৰ আৰু পাতল ড'পিং
+Ans: A

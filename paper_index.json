@@ -1,5 +1,5 @@
 {
-    "last_serial": 911,
+    "last_serial": 916,
     "papers": {
         "1": {
             "id": "1",
@@ -883,9 +883,9 @@
         },
         "127": {
             "id": "127",
-            "name": "Assam Police Constable 2022 Set 2_100Q.txt",
-            "path": "Assam Police/Assam Police Constable/Assam Police Constable 2022 Set 2_100Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20Constable%202022%20Set%202_100Q.txt",
+            "name": "Assam Police Constable 2022 Set 2_EA_100Q.txt",
+            "path": "Assam Police/Assam Police Constable/Assam Police Constable 2022 Set 2_EA_100Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20Constable%202022%20Set%202_EA_100Q.txt",
             "hash": "9dffe6f0331e9a6262b9ed3f7ef706ba"
         },
         "128": {
@@ -897,9 +897,9 @@
         },
         "129": {
             "id": "129",
-            "name": "Mock 1 Assam Police Constable_100Q.txt",
-            "path": "Assam Police/Assam Police Constable/Mock 1 Assam Police Constable_100Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Mock%201%20Assam%20Police%20Constable_100Q.txt",
+            "name": "Mock 1 Assam Police Constable_EA_100Q.txt",
+            "path": "Assam Police/Assam Police Constable/Mock 1 Assam Police Constable_EA_100Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Mock%201%20Assam%20Police%20Constable_EA_100Q.txt",
             "hash": "c83d8b345e729891d39ff36fc3c95a95"
         },
         "130": {
@@ -1514,15 +1514,15 @@
         "217": {
             "id": "217",
             "name": "Literature of Assam 2_15Q.txt",
-            "path": "Assam GK/Assam Static GK/Literature of Assam 2_15Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Literature%20of%20Assam%202_15Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 2_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%202_15Q.txt",
             "hash": "0cc30c60435f45a8ebfd4eebf506433b"
         },
         "218": {
             "id": "218",
             "name": "Literature of Assam 1_15Q.txt",
-            "path": "Assam GK/Assam Static GK/Literature of Assam 1_15Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Literature%20of%20Assam%201_15Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 1_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%201_15Q.txt",
             "hash": "5eeacc9f4b63b78b9c0c8342bbf0c745"
         },
         "219": {
@@ -1653,9 +1653,9 @@
         },
         "237": {
             "id": "237",
-            "name": "Ancient Assam History 2_25Q.txt",
-            "path": "Assam GK/Assam History/Ancient Assam History 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Ancient%20Assam%20History%202_25Q.txt",
+            "name": "Medieval Assam History 4_25Q.txt",
+            "path": "Assam GK/Assam History/Medieval Assam History 4_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Medieval%20Assam%20History%204_25Q.txt",
             "hash": "4564a431c9320390e4edc62ea4c06277"
         },
         "238": {
@@ -2066,9 +2066,9 @@
         },
         "296": {
             "id": "296",
-            "name": "Deserts 2_20Q.txt.txt",
-            "path": "General Awareness/World Geography/Deserts 2_20Q.txt.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%202_20Q.txt.txt",
+            "name": "Mountains & Peaks 3_20Q.txt",
+            "path": "General Awareness/World Geography/Mountains & Peaks 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%203_20Q.txt",
             "hash": "dd5f646a85624198d2576ebb91aa4087"
         },
         "297": {
@@ -6375,6 +6375,41 @@
             "path": "Static GK/Gallantry Awards Of India 2_EA_10Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Gallantry%20Awards%20Of%20India%202_EA_10Q.txt",
             "hash": "a2486d5c2242659bbf4f81ca6365cb29"
+        },
+        "912": {
+            "id": "912",
+            "name": "DU B.Ed 2018 Paper_70Q.zip",
+            "path": "Dibrugarh University (DU B.Ed)/DU B.Ed 2018 Paper_70Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Dibrugarh%20University%20%28DU%20B.Ed%29/DU%20B.Ed%202018%20Paper_70Q.zip",
+            "hash": "0a3c09efb610b4aef6e21c45151d9833"
+        },
+        "913": {
+            "id": "913",
+            "name": "Assam Police SI 2020 Memory Based Paper_EA_100Q.zip",
+            "path": "Assam Police/Assam Police SI/Assam Police SI 2020 Memory Based Paper_EA_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20SI/Assam%20Police%20SI%202020%20Memory%20Based%20Paper_EA_100Q.zip",
+            "hash": "54bd63c1008aeb28fab3584999fcb119"
+        },
+        "914": {
+            "id": "914",
+            "name": "Assam Police SI 2025_EA_100Q.zip",
+            "path": "Assam Police/Assam Police SI/Assam Police SI 2025_EA_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20SI/Assam%20Police%20SI%202025_EA_100Q.zip",
+            "hash": "a4dc424c6c424ad3c5f07d4566810fea"
+        },
+        "915": {
+            "id": "915",
+            "name": "Assam Police Constable 2020 Set1_EA_50Q.zip",
+            "path": "Assam Police/Assam Police Constable/Assam Police Constable 2020 Set1_EA_50Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20Constable%202020%20Set1_EA_50Q.zip",
+            "hash": "d0369a2368a4d8fe9e03c2dfad50087a"
+        },
+        "916": {
+            "id": "916",
+            "name": "Assam Police Constable 2025_EA_100Q.zip",
+            "path": "Assam Police/Assam Police Constable/Assam Police Constable 2025_EA_100Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20Constable%202025_EA_100Q.zip",
+            "hash": "5caae062361d8385ec6b11c5c2417182"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "last_serial": 876,
+    "last_serial": 911,
     "papers": {
         "1": {
             "id": "1",
@@ -795,7 +795,7 @@
             "name": "DHS DME 2022 Grade 4 Paper_50Q.zip",
             "path": "DHS DME Exam/DHS DME 2022 Grade 4 Paper_50Q.zip",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%20DME%202022%20Grade%204%20Paper_50Q.zip",
-            "hash": "3cdc2d61218ff4601aa9d10645d830b3"
+            "hash": "216650177d9df47e3e706d9bfbf91472"
         },
         "115": {
             "id": "115",
@@ -820,9 +820,9 @@
         },
         "118": {
             "id": "118",
-            "name": "DME 2022 Grade 4 Lakhimpur Medical College_50Q.txt",
-            "path": "DHS DME Exam/DME 2022 Grade 4 Lakhimpur Medical College_50Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DME%202022%20Grade%204%20Lakhimpur%20Medical%20College_50Q.txt",
+            "name": "DME 2022 Grade 4 Lakhimpur Medical College_EA_50Q.txt",
+            "path": "DHS DME Exam/DME 2022 Grade 4 Lakhimpur Medical College_EA_50Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DME%202022%20Grade%204%20Lakhimpur%20Medical%20College_EA_50Q.txt",
             "hash": "971e804bfcf681eb2624fa6fe9e7637d"
         },
         "119": {
@@ -858,7 +858,7 @@
             "name": "DHS 2019 Ward Boy & Chokidar_100Q.zip",
             "path": "DHS DME Exam/DHS 2019 Ward Boy & Chokidar_100Q.zip",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/DHS%20DME%20Exam/DHS%202019%20Ward%20Boy%20%26%20Chokidar_100Q.zip",
-            "hash": "53227f9aef2ea8ccd1deefa3f2464da5"
+            "hash": "55d60ac85d973aa759ca773fbd832b3a"
         },
         "124": {
             "id": "124",
@@ -1114,9 +1114,9 @@
         },
         "160": {
             "id": "160",
-            "name": "Airports of India 2_15Q.txt",
-            "path": "Static GK/Airports of India 2_15Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Airports%20of%20India%202_15Q.txt",
+            "name": "Airports of India 2_EA_15Q.txt",
+            "path": "Static GK/Airports of India 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Airports%20of%20India%202_EA_15Q.txt",
             "hash": "e6a91e6734e3f111611fc6d1378211c4"
         },
         "161": {
@@ -2920,114 +2920,114 @@
         },
         "418": {
             "id": "418",
-            "name": "Basic Chemistry 1_25Q_EA.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%201_25Q_EA.txt",
+            "name": "Basic Chemistry 1_EA_25Q.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%201_EA_25Q.txt",
             "hash": "5d3bed65c427eb33bca6098d8198ba21"
         },
         "419": {
             "id": "419",
-            "name": "Basic Chemistry 2_25Q_EA.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%202_25Q_EA.txt",
+            "name": "Basic Chemistry 2_EA_25Q.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%202_EA_25Q.txt",
             "hash": "af0b320770e6b8f6fa13fbf671b2f51e"
         },
         "420": {
             "id": "420",
-            "name": "Basic Chemistry 8_25Q_EA.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 8_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%208_25Q_EA.txt",
+            "name": "Basic Chemistry 8_EA_25Q.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 8_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%208_EA_25Q.txt",
             "hash": "44eafc7d9db8e89bc8dd24dd7ffb61c3"
         },
         "421": {
             "id": "421",
-            "name": "Basic Chemistry 5_25Q_EA.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 5_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%205_25Q_EA.txt",
+            "name": "Basic Chemistry 5_EA_25Q.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%205_EA_25Q.txt",
             "hash": "cba188c0aed7b05afef46bd5f3ad4ff4"
         },
         "422": {
             "id": "422",
-            "name": "Basic Chemistry 3_25Q_EA.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%203_25Q_EA.txt",
+            "name": "Basic Chemistry 3_EA_25Q.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%203_EA_25Q.txt",
             "hash": "dd65fc4ca75dbe5543166c63b7c38d6e"
         },
         "423": {
             "id": "423",
-            "name": "Basic Chemistry 7_25Q_EA.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 7_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%207_25Q_EA.txt",
+            "name": "Basic Chemistry 7_EA_25Q.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 7_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%207_EA_25Q.txt",
             "hash": "bf6d0b8fab1445968830573215ef18c7"
         },
         "424": {
             "id": "424",
-            "name": "Basic Chemistry 4_25Q_EA.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 4_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%204_25Q_EA.txt",
+            "name": "Basic Chemistry 4_EA_25Q.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%204_EA_25Q.txt",
             "hash": "a710f535ebed3d5d7abfa0a48b925c85"
         },
         "425": {
             "id": "425",
-            "name": "Basic Chemistry 6_25Q_EA.txt",
-            "path": "General Science/Basic Chemistry/Basic Chemistry 6_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%206_25Q_EA.txt",
+            "name": "Basic Chemistry 6_EA_25Q.txt",
+            "path": "General Science/Basic Chemistry/Basic Chemistry 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Chemistry/Basic%20Chemistry%206_EA_25Q.txt",
             "hash": "2e45b34fb9ac16caab7403684492dd50"
         },
         "426": {
             "id": "426",
-            "name": "Basic Physics 1_25Q_EA.txt",
-            "path": "General Science/Basic Physics/Basic Physics 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%201_25Q_EA.txt",
+            "name": "Basic Physics 1_EA_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%201_EA_25Q.txt",
             "hash": "f78d2c5ee1f39fc9cfe37b2c06e368a0"
         },
         "427": {
             "id": "427",
-            "name": "Basic Physics 2_25Q_EA.txt",
-            "path": "General Science/Basic Physics/Basic Physics 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%202_25Q_EA.txt",
+            "name": "Basic Physics 2_EA_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%202_EA_25Q.txt",
             "hash": "b29f2a1327eddaaab23bfc134b7bdda3"
         },
         "428": {
             "id": "428",
-            "name": "Basic Physics 8_25Q_EA.txt",
-            "path": "General Science/Basic Physics/Basic Physics 8_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%208_25Q_EA.txt",
+            "name": "Basic Physics 8_EA_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 8_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%208_EA_25Q.txt",
             "hash": "d46686672d70405192c265d4ba374d1d"
         },
         "429": {
             "id": "429",
-            "name": "Basic Physics 4_25Q_EA.txt",
-            "path": "General Science/Basic Physics/Basic Physics 4_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%204_25Q_EA.txt",
+            "name": "Basic Physics 4_EA_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%204_EA_25Q.txt",
             "hash": "43c11687da8cd74586d3aa8208991991"
         },
         "430": {
             "id": "430",
-            "name": "Basic Physics 3_25Q_EA.txt",
-            "path": "General Science/Basic Physics/Basic Physics 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%203_25Q_EA.txt",
+            "name": "Basic Physics 3_EA_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%203_EA_25Q.txt",
             "hash": "0353be84051eec54775f9d80517ed698"
         },
         "431": {
             "id": "431",
-            "name": "Basic Physics 7_25Q_EA.txt",
-            "path": "General Science/Basic Physics/Basic Physics 7_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%207_25Q_EA.txt",
+            "name": "Basic Physics 7_EA_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 7_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%207_EA_25Q.txt",
             "hash": "ef394371b8f3c315d98ba20f3b31ef29"
         },
         "432": {
             "id": "432",
-            "name": "Basic Physics 6_25Q_EA.txt",
-            "path": "General Science/Basic Physics/Basic Physics 6_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%206_25Q_EA.txt",
+            "name": "Basic Physics 6_EA_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%206_EA_25Q.txt",
             "hash": "10342f4e541dfd8c578d1e4ee1c2e300"
         },
         "433": {
             "id": "433",
-            "name": "Basic Physics 5_25Q_EA.txt",
-            "path": "General Science/Basic Physics/Basic Physics 5_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%205_25Q_EA.txt",
+            "name": "Basic Physics 5_EA_25Q.txt",
+            "path": "General Science/Basic Physics/Basic Physics 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Basic%20Physics/Basic%20Physics%205_EA_25Q.txt",
             "hash": "91dfe6af7c3b7ff860139f632096d58d"
         },
         "434": {
@@ -3200,37 +3200,37 @@
         },
         "458": {
             "id": "458",
-            "name": "Scientific Instruments 3_25Q_EA.txt",
-            "path": "General Science/Scientific Instruments/Scientific Instruments 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%203_25Q_EA.txt",
+            "name": "Scientific Instruments 3_EA_25Q.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%203_EA_25Q.txt",
             "hash": "a9c4854624a63f3e11c69fe9fafafcaf"
         },
         "459": {
             "id": "459",
-            "name": "Scientific Instruments 4_25Q_EA.txt",
-            "path": "General Science/Scientific Instruments/Scientific Instruments 4_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%204_25Q_EA.txt",
+            "name": "Scientific Instruments 4_EA_25Q.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%204_EA_25Q.txt",
             "hash": "35046faf729b58a52bc46784d48a165a"
         },
         "460": {
             "id": "460",
-            "name": "Scientific Instruments 2_25Q_EA.txt",
-            "path": "General Science/Scientific Instruments/Scientific Instruments 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%202_25Q_EA.txt",
+            "name": "Scientific Instruments 2_EA_25Q.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%202_EA_25Q.txt",
             "hash": "88cfc57fbf1933cac5a5fedc4ab25178"
         },
         "461": {
             "id": "461",
-            "name": "Scientific Instruments 1_25Q_EA.txt",
-            "path": "General Science/Scientific Instruments/Scientific Instruments 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%201_25Q_EA.txt",
+            "name": "Scientific Instruments 1_EA_25Q.txt",
+            "path": "General Science/Scientific Instruments/Scientific Instruments 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Scientific%20Instruments/Scientific%20Instruments%201_EA_25Q.txt",
             "hash": "4f934740d1df64dda24fc9de2ab6ca27"
         },
         "462": {
             "id": "462",
-            "name": "Diseases, Nutrition & Health 4_22Q_EA.txt",
-            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 4_22Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%204_22Q_EA.txt",
+            "name": "Diseases, Nutrition & Health 4_EA_22Q.txt",
+            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 4_EA_22Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%204_EA_22Q.txt",
             "hash": "8d49618d310305aa92414ee635d4401f"
         },
         "463": {
@@ -3522,44 +3522,44 @@
         },
         "504": {
             "id": "504",
-            "name": "Time, Speed & Distance 6_25Q.txt",
-            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%206_25Q.txt",
+            "name": "Time, Speed & Distance 6_EA_25Q.txt",
+            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%206_EA_25Q.txt",
             "hash": "1e16d20ec8a340716741ca6c6266b522"
         },
         "505": {
             "id": "505",
-            "name": "Time, Speed & Distance 4_25Q.txt",
-            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%204_25Q.txt",
+            "name": "Time, Speed & Distance 4_EA_25Q.txt",
+            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%204_EA_25Q.txt",
             "hash": "d8bf61f790dfb44346dc9e5754036759"
         },
         "506": {
             "id": "506",
-            "name": "Time, Speed & Distance 1_25Q.txt",
-            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%201_25Q.txt",
+            "name": "Time, Speed & Distance 1_EA_25Q.txt",
+            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%201_EA_25Q.txt",
             "hash": "61d5e28bf4eb892d11f32fc29cfa1477"
         },
         "507": {
             "id": "507",
-            "name": "Time, Speed & Distance 5_25Q.txt",
-            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%205_25Q.txt",
+            "name": "Time, Speed & Distance 5_EA_25Q.txt",
+            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%205_EA_25Q.txt",
             "hash": "7519a389d0b4ebce9e9d18f32f3defa2"
         },
         "508": {
             "id": "508",
-            "name": "Time, Speed & Distance 3_25Q.txt",
-            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%203_25Q.txt",
+            "name": "Time, Speed & Distance 3_EA_25Q.txt",
+            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%203_EA_25Q.txt",
             "hash": "d91277c8e3b4f9de26f1d27b4abfd300"
         },
         "509": {
             "id": "509",
-            "name": "Time, Speed & Distance 2_25Q.txt",
-            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%202_25Q.txt",
+            "name": "Time, Speed & Distance 2_EA_25Q.txt",
+            "path": "Mathematics/Time, Speed & Distance/Time, Speed & Distance 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%2C%20Speed%20%26%20Distance/Time%2C%20Speed%20%26%20Distance%202_EA_25Q.txt",
             "hash": "e1b20bc853375198f83ba0d5792491b8"
         },
         "510": {
@@ -3634,464 +3634,464 @@
         },
         "520": {
             "id": "520",
-            "name": "Average 6_25Q.txt",
-            "path": "Mathematics/Average/Average 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%206_25Q.txt",
+            "name": "Average 6_EA_25Q.txt",
+            "path": "Mathematics/Average/Average 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%206_EA_25Q.txt",
             "hash": "093ae0e5bf4f26851960480b9eecd18a"
         },
         "521": {
             "id": "521",
-            "name": "Average 2_25Q.txt",
-            "path": "Mathematics/Average/Average 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%202_25Q.txt",
+            "name": "Average 2_EA_25Q.txt",
+            "path": "Mathematics/Average/Average 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%202_EA_25Q.txt",
             "hash": "531e40f976502351426ee6685e4df7ea"
         },
         "522": {
             "id": "522",
-            "name": "Average 1_25Q.txt",
-            "path": "Mathematics/Average/Average 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%201_25Q.txt",
+            "name": "Average 1_EA_25Q.txt",
+            "path": "Mathematics/Average/Average 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%201_EA_25Q.txt",
             "hash": "b355d006a2b823e5fb432bc0b86bac18"
         },
         "523": {
             "id": "523",
-            "name": "Average 3_25Q.txt",
-            "path": "Mathematics/Average/Average 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%203_25Q.txt",
+            "name": "Average 3_EA_25Q.txt",
+            "path": "Mathematics/Average/Average 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%203_EA_25Q.txt",
             "hash": "02684320397e0d92a242b7bb8a240386"
         },
         "524": {
             "id": "524",
-            "name": "Average 4_25Q.txt",
-            "path": "Mathematics/Average/Average 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%204_25Q.txt",
+            "name": "Average 4_EA_25Q.txt",
+            "path": "Mathematics/Average/Average 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%204_EA_25Q.txt",
             "hash": "34fef994a47b3fd16c9b031d986b1db3"
         },
         "525": {
             "id": "525",
-            "name": "Average 5_25Q.txt",
-            "path": "Mathematics/Average/Average 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%205_25Q.txt",
+            "name": "Average 5_EA_25Q.txt",
+            "path": "Mathematics/Average/Average 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Average/Average%205_EA_25Q.txt",
             "hash": "154469bc4d31b6f006f9d3590444e8ab"
         },
         "526": {
             "id": "526",
-            "name": "HCF & LCM 1_25Q.txt",
-            "path": "Mathematics/HCF & LCM/HCF & LCM 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%201_25Q.txt",
+            "name": "HCF & LCM 1_EA_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%201_EA_25Q.txt",
             "hash": "8a86560abc6a0566d19f75bfb16f2146"
         },
         "527": {
             "id": "527",
-            "name": "HCF & LCM 4_25Q.txt",
-            "path": "Mathematics/HCF & LCM/HCF & LCM 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%204_25Q.txt",
+            "name": "HCF & LCM 4_EA_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%204_EA_25Q.txt",
             "hash": "fed3c66479a562c2bc66eee66a164518"
         },
         "528": {
             "id": "528",
-            "name": "HCF & LCM 5_25Q.txt",
-            "path": "Mathematics/HCF & LCM/HCF & LCM 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%205_25Q.txt",
+            "name": "HCF & LCM 5_EA_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%205_EA_25Q.txt",
             "hash": "d0b866a567417686e49b998a7ac7e67b"
         },
         "529": {
             "id": "529",
-            "name": "HCF & LCM 3_25Q.txt",
-            "path": "Mathematics/HCF & LCM/HCF & LCM 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%203_25Q.txt",
+            "name": "HCF & LCM 3_EA_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%203_EA_25Q.txt",
             "hash": "da14d9b5bc46d79c0997bc032099318a"
         },
         "530": {
             "id": "530",
-            "name": "HCF & LCM 6_25Q.txt",
-            "path": "Mathematics/HCF & LCM/HCF & LCM 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%206_25Q.txt",
+            "name": "HCF & LCM 6_EA_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%206_EA_25Q.txt",
             "hash": "c85c2d990fc0b2c5a9aff246dc689891"
         },
         "531": {
             "id": "531",
-            "name": "HCF & LCM 2_25Q.txt",
-            "path": "Mathematics/HCF & LCM/HCF & LCM 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%202_25Q.txt",
+            "name": "HCF & LCM 2_EA_25Q.txt",
+            "path": "Mathematics/HCF & LCM/HCF & LCM 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/HCF%20%26%20LCM/HCF%20%26%20LCM%202_EA_25Q.txt",
             "hash": "ce744e0f61ea2f621711b2bd985fb7e8"
         },
         "532": {
             "id": "532",
-            "name": "Time & Work 5_25Q.txt",
-            "path": "Mathematics/Time & Work/Time & Work 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%205_25Q.txt",
+            "name": "Time & Work 5_EA_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%205_EA_25Q.txt",
             "hash": "824884c20aa400cb37477cf2dc72ff5a"
         },
         "533": {
             "id": "533",
-            "name": "Time & Work 6_25Q.txt",
-            "path": "Mathematics/Time & Work/Time & Work 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%206_25Q.txt",
+            "name": "Time & Work 6_EA_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%206_EA_25Q.txt",
             "hash": "2c8d694205738fed6e05f3e900bda97d"
         },
         "534": {
             "id": "534",
-            "name": "Time & Work 3_25Q.txt",
-            "path": "Mathematics/Time & Work/Time & Work 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%203_25Q.txt",
+            "name": "Time & Work 3_EA_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%203_EA_25Q.txt",
             "hash": "04bbc736c884a2c7f3d3798c9d67412a"
         },
         "535": {
             "id": "535",
-            "name": "Time & Work 1_25Q.txt",
-            "path": "Mathematics/Time & Work/Time & Work 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%201_25Q.txt",
+            "name": "Time & Work 1_EA_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%201_EA_25Q.txt",
             "hash": "8a2e56bf4b3db0a95f14fccb487b9b66"
         },
         "536": {
             "id": "536",
-            "name": "Time & Work 2_25Q.txt",
-            "path": "Mathematics/Time & Work/Time & Work 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%202_25Q.txt",
+            "name": "Time & Work 2_EA_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%202_EA_25Q.txt",
             "hash": "120be835152c0e333f3c6a2cdb7e2949"
         },
         "537": {
             "id": "537",
-            "name": "Time & Work 4_25Q.txt",
-            "path": "Mathematics/Time & Work/Time & Work 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%204_25Q.txt",
+            "name": "Time & Work 4_EA_25Q.txt",
+            "path": "Mathematics/Time & Work/Time & Work 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Time%20%26%20Work/Time%20%26%20Work%204_EA_25Q.txt",
             "hash": "f7e5c347221817b0f0cee0c9b3c605da"
         },
         "538": {
             "id": "538",
-            "name": "Probability 2_25Q.txt",
-            "path": "Mathematics/Probability/Probability 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Probability/Probability%202_25Q.txt",
+            "name": "Probability 2_EA_25Q.txt",
+            "path": "Mathematics/Probability/Probability 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Probability/Probability%202_EA_25Q.txt",
             "hash": "bed46f626912ff33c13b65ed38798109"
         },
         "539": {
             "id": "539",
-            "name": "Probability 1_25Q.txt",
-            "path": "Mathematics/Probability/Probability 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Probability/Probability%201_25Q.txt",
+            "name": "Probability 1_EA_25Q.txt",
+            "path": "Mathematics/Probability/Probability 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Probability/Probability%201_EA_25Q.txt",
             "hash": "606c54a7064514c79dc22509aa60feea"
         },
         "540": {
             "id": "540",
-            "name": "SI & CI 2_25Q.txt",
-            "path": "Mathematics/Simple & Compound Interest/SI & CI 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%202_25Q.txt",
+            "name": "SI & CI 2_EA_25Q.txt",
+            "path": "Mathematics/Simple & Compound Interest/SI & CI 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%202_EA_25Q.txt",
             "hash": "c7b329b173b821e715e96ffcf2f038a9"
         },
         "541": {
             "id": "541",
-            "name": "SI & CI 3_25Q.txt",
-            "path": "Mathematics/Simple & Compound Interest/SI & CI 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%203_25Q.txt",
+            "name": "SI & CI 3_EA_25Q.txt",
+            "path": "Mathematics/Simple & Compound Interest/SI & CI 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%203_EA_25Q.txt",
             "hash": "ea6d317e055772032b83ccfdcb147ab0"
         },
         "542": {
             "id": "542",
-            "name": "SI & CI 5_25Q.txt",
-            "path": "Mathematics/Simple & Compound Interest/SI & CI 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%205_25Q.txt",
+            "name": "SI & CI 5_EA_25Q.txt",
+            "path": "Mathematics/Simple & Compound Interest/SI & CI 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%205_EA_25Q.txt",
             "hash": "86115d6e32702a69a7b53f291796e800"
         },
         "543": {
             "id": "543",
-            "name": "SI & CI 1_25Q.txt",
-            "path": "Mathematics/Simple & Compound Interest/SI & CI 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%201_25Q.txt",
+            "name": "SI & CI 1_EA_25Q.txt",
+            "path": "Mathematics/Simple & Compound Interest/SI & CI 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%201_EA_25Q.txt",
             "hash": "c3934fc17e714a544cddc2d0feb3fc22"
         },
         "544": {
             "id": "544",
-            "name": "SI & CI 6_25Q.txt",
-            "path": "Mathematics/Simple & Compound Interest/SI & CI 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%206_25Q.txt",
+            "name": "SI & CI 6_EA_25Q.txt",
+            "path": "Mathematics/Simple & Compound Interest/SI & CI 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%206_EA_25Q.txt",
             "hash": "6cb2f1fd2e41ef1421127ddb3d7d91d2"
         },
         "545": {
             "id": "545",
-            "name": "SI & CI 4_25Q.txt",
-            "path": "Mathematics/Simple & Compound Interest/SI & CI 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%204_25Q.txt",
+            "name": "SI & CI 4_EA_25Q.txt",
+            "path": "Mathematics/Simple & Compound Interest/SI & CI 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Simple%20%26%20Compound%20Interest/SI%20%26%20CI%204_EA_25Q.txt",
             "hash": "da2dbb60649cd4b9786a46c480ae1c8a"
         },
         "546": {
             "id": "546",
-            "name": "Basic Statistics 4_25Q.txt",
-            "path": "Mathematics/Basic Statistics/Basic Statistics 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%204_25Q.txt",
+            "name": "Basic Statistics 4_EA_25Q.txt",
+            "path": "Mathematics/Basic Statistics/Basic Statistics 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%204_EA_25Q.txt",
             "hash": "f25e60e2202a7a82c4713d9e32ef7018"
         },
         "547": {
             "id": "547",
-            "name": "Basic Statistics 1_25Q.txt",
-            "path": "Mathematics/Basic Statistics/Basic Statistics 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%201_25Q.txt",
+            "name": "Basic Statistics 1_EA_25Q.txt",
+            "path": "Mathematics/Basic Statistics/Basic Statistics 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%201_EA_25Q.txt",
             "hash": "9ab43ecfd7a1cf1240f31ce720898527"
         },
         "548": {
             "id": "548",
-            "name": "Basic Statistics 2_25Q.txt",
-            "path": "Mathematics/Basic Statistics/Basic Statistics 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%202_25Q.txt",
+            "name": "Basic Statistics 2_EA_25Q.txt",
+            "path": "Mathematics/Basic Statistics/Basic Statistics 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%202_EA_25Q.txt",
             "hash": "33f2084dd3513092d9bfe0c850430bf3"
         },
         "549": {
             "id": "549",
-            "name": "Basic Statistics 3_25Q.txt",
-            "path": "Mathematics/Basic Statistics/Basic Statistics 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%203_25Q.txt",
+            "name": "Basic Statistics 3_EA_25Q.txt",
+            "path": "Mathematics/Basic Statistics/Basic Statistics 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Basic%20Statistics/Basic%20Statistics%203_EA_25Q.txt",
             "hash": "46185a0ddbb7edf6122adcb0cd49f347"
         },
         "550": {
             "id": "550",
-            "name": "Ratio & Proportion 3_25Q.txt",
-            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%203_25Q.txt",
+            "name": "Ratio & Proportion 3_EA_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%203_EA_25Q.txt",
             "hash": "c0b48866b720645ebf3dc18cb4840e0e"
         },
         "551": {
             "id": "551",
-            "name": "Ratio & Proportion 4_25Q.txt",
-            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%204_25Q.txt",
+            "name": "Ratio & Proportion 4_EA_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%204_EA_25Q.txt",
             "hash": "9473fc602e084173de4d3f1980496958"
         },
         "552": {
             "id": "552",
-            "name": "Ratio & Proportion 6_25Q.txt",
-            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%206_25Q.txt",
+            "name": "Ratio & Proportion 6_EA_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%206_EA_25Q.txt",
             "hash": "ff015ed301387ad0ee963a1070fbca16"
         },
         "553": {
             "id": "553",
-            "name": "Ratio & Proportion 2_25Q.txt",
-            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%202_25Q.txt",
+            "name": "Ratio & Proportion 2_EA_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%202_EA_25Q.txt",
             "hash": "d9f1f686a8177ac1b3294ec0cfdc2376"
         },
         "554": {
             "id": "554",
-            "name": "Ratio & Proportion 1_25Q.txt",
-            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%201_25Q.txt",
+            "name": "Ratio & Proportion 1_EA_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%201_EA_25Q.txt",
             "hash": "84350125993249d55d0783872762c126"
         },
         "555": {
             "id": "555",
-            "name": "Ratio & Proportion 5_25Q.txt",
-            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%205_25Q.txt",
+            "name": "Ratio & Proportion 5_EA_25Q.txt",
+            "path": "Mathematics/Ratio & Proportion/Ratio & Proportion 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Ratio%20%26%20Proportion/Ratio%20%26%20Proportion%205_EA_25Q.txt",
             "hash": "1879298fa06de8e3415bb53ac0ed7f81"
         },
         "556": {
             "id": "556",
-            "name": "Problems on Trains 2_25Q.txt",
-            "path": "Mathematics/Problems on Trains/Problems on Trains 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%202_25Q.txt",
+            "name": "Problems on Trains 2_EA_25Q.txt",
+            "path": "Mathematics/Problems on Trains/Problems on Trains 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%202_EA_25Q.txt",
             "hash": "c992e382ac92d3195fa018b566c081a0"
         },
         "557": {
             "id": "557",
-            "name": "Problems on Trains 3_25Q.txt",
-            "path": "Mathematics/Problems on Trains/Problems on Trains 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%203_25Q.txt",
+            "name": "Problems on Trains 3_EA_25Q.txt",
+            "path": "Mathematics/Problems on Trains/Problems on Trains 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%203_EA_25Q.txt",
             "hash": "7c0f915b4185c9e5232f213025810ef9"
         },
         "558": {
             "id": "558",
-            "name": "Problems on Trains 4_25Q.txt",
-            "path": "Mathematics/Problems on Trains/Problems on Trains 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%204_25Q.txt",
+            "name": "Problems on Trains 4_EA_25Q.txt",
+            "path": "Mathematics/Problems on Trains/Problems on Trains 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%204_EA_25Q.txt",
             "hash": "5685150c860637d9827a13946e769544"
         },
         "559": {
             "id": "559",
-            "name": "Problems on Trains 1_25Q.txt",
-            "path": "Mathematics/Problems on Trains/Problems on Trains 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%201_25Q.txt",
+            "name": "Problems on Trains 1_EA_25Q.txt",
+            "path": "Mathematics/Problems on Trains/Problems on Trains 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Problems%20on%20Trains/Problems%20on%20Trains%201_EA_25Q.txt",
             "hash": "6dc1b4f1d583e038d48214530364ab60"
         },
         "560": {
             "id": "560",
-            "name": "Pipes & Cisterns 1_25Q.txt",
-            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%201_25Q.txt",
+            "name": "Pipes & Cisterns 1_EA_25Q.txt",
+            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%201_EA_25Q.txt",
             "hash": "3680c73e00c1e47747575309393bfd76"
         },
         "561": {
             "id": "561",
-            "name": "Pipes & Cisterns 2_25Q.txt",
-            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%202_25Q.txt",
+            "name": "Pipes & Cisterns 2_EA_25Q.txt",
+            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%202_EA_25Q.txt",
             "hash": "992cdac7dee67c49ec4bd2eac5bed78f"
         },
         "562": {
             "id": "562",
-            "name": "Pipes & Cisterns 4_25Q.txt",
-            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%204_25Q.txt",
+            "name": "Pipes & Cisterns 4_EA_25Q.txt",
+            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%204_EA_25Q.txt",
             "hash": "6fa77e0416969950bf12ecf72a9b218c"
         },
         "563": {
             "id": "563",
-            "name": "Pipes & Cisterns 3_25Q.txt",
-            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%203_25Q.txt",
+            "name": "Pipes & Cisterns 3_EA_25Q.txt",
+            "path": "Mathematics/Pipes & Cisterns/Pipes & Cisterns 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Pipes%20%26%20Cisterns/Pipes%20%26%20Cisterns%203_EA_25Q.txt",
             "hash": "f80496497245dca088974ff02510d21c"
         },
         "564": {
             "id": "564",
-            "name": "Mixture & Alligation 2_25Q.txt",
-            "path": "Mathematics/Mixture & Alligation/Mixture & Alligation 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Mixture%20%26%20Alligation/Mixture%20%26%20Alligation%202_25Q.txt",
+            "name": "Mixture & Alligation 2_EA_25Q.txt",
+            "path": "Mathematics/Mixture & Alligation/Mixture & Alligation 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Mixture%20%26%20Alligation/Mixture%20%26%20Alligation%202_EA_25Q.txt",
             "hash": "4a08f339c318d79c0c6e11c02ec8848a"
         },
         "565": {
             "id": "565",
-            "name": "Mixture & Alligation 1_25Q.txt",
-            "path": "Mathematics/Mixture & Alligation/Mixture & Alligation 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Mixture%20%26%20Alligation/Mixture%20%26%20Alligation%201_25Q.txt",
+            "name": "Mixture & Alligation 1_EA_25Q.txt",
+            "path": "Mathematics/Mixture & Alligation/Mixture & Alligation 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Mixture%20%26%20Alligation/Mixture%20%26%20Alligation%201_EA_25Q.txt",
             "hash": "0d3c474edab396ccc9fe527095a100de"
         },
         "566": {
             "id": "566",
-            "name": "Profit, Loss & Discount 3_25Q.txt",
-            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%203_25Q.txt",
+            "name": "Profit, Loss & Discount 3_EA_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%203_EA_25Q.txt",
             "hash": "ebe8c4dd502012734fa97d75abf451cf"
         },
         "567": {
             "id": "567",
-            "name": "Profit, Loss & Discount 5_25Q.txt",
-            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%205_25Q.txt",
+            "name": "Profit, Loss & Discount 5_EA_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%205_EA_25Q.txt",
             "hash": "a5cbaf7a57fb75a37a6f27b768e1fb51"
         },
         "568": {
             "id": "568",
-            "name": "Profit, Loss & Discount 1_25Q.txt",
-            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%201_25Q.txt",
+            "name": "Profit, Loss & Discount 1_EA_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%201_EA_25Q.txt",
             "hash": "c1ee525856ca07c02cbe651fedc1d3f7"
         },
         "569": {
             "id": "569",
-            "name": "Profit, Loss & Discount 2_25Q.txt",
-            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%202_25Q.txt",
+            "name": "Profit, Loss & Discount 2_EA_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%202_EA_25Q.txt",
             "hash": "001c23879716f6fa2dc69f9ba2a71101"
         },
         "570": {
             "id": "570",
-            "name": "Profit, Loss & Discount 4_25Q.txt",
-            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%204_25Q.txt",
+            "name": "Profit, Loss & Discount 4_EA_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%204_EA_25Q.txt",
             "hash": "58af697801b09fc322d281ca91764c3b"
         },
         "571": {
             "id": "571",
-            "name": "Profit, Loss & Discount 6_25Q.txt",
-            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%206_25Q.txt",
+            "name": "Profit, Loss & Discount 6_EA_25Q.txt",
+            "path": "Mathematics/Profit, Loss & Discount/Profit, Loss & Discount 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Profit%2C%20Loss%20%26%20Discount/Profit%2C%20Loss%20%26%20Discount%206_EA_25Q.txt",
             "hash": "061ee1e3e278cf77db633e341b8f6174"
         },
         "572": {
             "id": "572",
-            "name": "Partnership 1_25Q.txt",
-            "path": "Mathematics/Partnership/Partnership 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%201_25Q.txt",
+            "name": "Partnership 1_EA_25Q.txt",
+            "path": "Mathematics/Partnership/Partnership 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%201_EA_25Q.txt",
             "hash": "2fedd08981bbeaf0933e41c5a8b35d55"
         },
         "573": {
             "id": "573",
-            "name": "Partnership 3_25Q.txt",
-            "path": "Mathematics/Partnership/Partnership 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%203_25Q.txt",
+            "name": "Partnership 3_EA_25Q.txt",
+            "path": "Mathematics/Partnership/Partnership 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%203_EA_25Q.txt",
             "hash": "462b50caf42fa49a3b5602a760ba7bd2"
         },
         "574": {
             "id": "574",
-            "name": "Partnership 2_25Q.txt",
-            "path": "Mathematics/Partnership/Partnership 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%202_25Q.txt",
+            "name": "Partnership 2_EA_25Q.txt",
+            "path": "Mathematics/Partnership/Partnership 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%202_EA_25Q.txt",
             "hash": "21ec4a42162c31bd6ae3b132e1df37e7"
         },
         "575": {
             "id": "575",
-            "name": "Partnership 4_25Q.txt",
-            "path": "Mathematics/Partnership/Partnership 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%204_25Q.txt",
+            "name": "Partnership 4_EA_25Q.txt",
+            "path": "Mathematics/Partnership/Partnership 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Partnership/Partnership%204_EA_25Q.txt",
             "hash": "36a369e022e20d188eda9e6251c582b2"
         },
         "576": {
             "id": "576",
-            "name": "Number System 6_25Q.txt",
-            "path": "Mathematics/Number System/Number System 6_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%206_25Q.txt",
+            "name": "Number System 6_EA_25Q.txt",
+            "path": "Mathematics/Number System/Number System 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%206_EA_25Q.txt",
             "hash": "db766a3c7d2d260ff1e6f13681c7634d"
         },
         "577": {
             "id": "577",
-            "name": "Number System 2_25Q.txt",
-            "path": "Mathematics/Number System/Number System 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%202_25Q.txt",
+            "name": "Number System 2_EA_25Q.txt",
+            "path": "Mathematics/Number System/Number System 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%202_EA_25Q.txt",
             "hash": "a9545d541cfe2a73f6e5998c4a26fe08"
         },
         "578": {
             "id": "578",
-            "name": "Number System 5_25Q.txt",
-            "path": "Mathematics/Number System/Number System 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%205_25Q.txt",
+            "name": "Number System 5_EA_25Q.txt",
+            "path": "Mathematics/Number System/Number System 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%205_EA_25Q.txt",
             "hash": "0d90e7af9009385e960ea80c6f9dbb46"
         },
         "579": {
             "id": "579",
-            "name": "Number System 3_25Q.txt",
-            "path": "Mathematics/Number System/Number System 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%203_25Q.txt",
+            "name": "Number System 3_EA_25Q.txt",
+            "path": "Mathematics/Number System/Number System 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%203_EA_25Q.txt",
             "hash": "2b39f70bd3acf0715f79c6b3526ab7a4"
         },
         "580": {
             "id": "580",
-            "name": "Number System 1_25Q.txt",
-            "path": "Mathematics/Number System/Number System 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%201_25Q.txt",
+            "name": "Number System 1_EA_25Q.txt",
+            "path": "Mathematics/Number System/Number System 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%201_EA_25Q.txt",
             "hash": "6f9f2fe963006122911e20f658f64614"
         },
         "581": {
             "id": "581",
-            "name": "Number System 4_25Q.txt",
-            "path": "Mathematics/Number System/Number System 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%204_25Q.txt",
+            "name": "Number System 4_EA_25Q.txt",
+            "path": "Mathematics/Number System/Number System 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Number%20System/Number%20System%204_EA_25Q.txt",
             "hash": "5edeb604d294c16efeda255c16980157"
         },
         "582": {
             "id": "582",
-            "name": "Boats & Streams 2_25Q.txt",
-            "path": "Mathematics/Boats & Streams/Boats & Streams 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%202_25Q.txt",
+            "name": "Boats & Streams 2_EA_25Q.txt",
+            "path": "Mathematics/Boats & Streams/Boats & Streams 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%202_EA_25Q.txt",
             "hash": "bace06ddbcb56a5d38ac1c5be91a862f"
         },
         "583": {
             "id": "583",
-            "name": "Boats & Streams 3_25Q.txt",
-            "path": "Mathematics/Boats & Streams/Boats & Streams 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%203_25Q.txt",
+            "name": "Boats & Streams 3_EA_25Q.txt",
+            "path": "Mathematics/Boats & Streams/Boats & Streams 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%203_EA_25Q.txt",
             "hash": "df73e358833536f095e00046cb1e38a0"
         },
         "584": {
             "id": "584",
-            "name": "Boats & Streams 4_25Q.txt",
-            "path": "Mathematics/Boats & Streams/Boats & Streams 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%204_25Q.txt",
+            "name": "Boats & Streams 4_EA_25Q.txt",
+            "path": "Mathematics/Boats & Streams/Boats & Streams 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%204_EA_25Q.txt",
             "hash": "6307ad99bceb46eff43a038c23d3a217"
         },
         "585": {
             "id": "585",
-            "name": "Boats & Streams 1_25Q.txt",
-            "path": "Mathematics/Boats & Streams/Boats & Streams 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%201_25Q.txt",
+            "name": "Boats & Streams 1_EA_25Q.txt",
+            "path": "Mathematics/Boats & Streams/Boats & Streams 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Mathematics/Boats%20%26%20Streams/Boats%20%26%20Streams%201_EA_25Q.txt",
             "hash": "fd586bdd866ff0df063888f5934548f2"
         },
         "586": {
@@ -5678,23 +5678,23 @@
         },
         "812": {
             "id": "812",
-            "name": "Important Books and Authors 1_25Q.txt",
-            "path": "Static GK/Important Books and Authors 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Books%20and%20Authors%201_25Q.txt",
+            "name": "Important Books and Authors 1_EA_25Q.txt",
+            "path": "Static GK/Important Books and Authors 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Books%20and%20Authors%201_EA_25Q.txt",
             "hash": "186d42a6e8875d4d61210ad44fedf212"
         },
         "813": {
             "id": "813",
-            "name": "Rivers of India 1_25Q.txt",
-            "path": "Static GK/Rivers of India 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20of%20India%201_25Q.txt",
+            "name": "Rivers of India 1_EA_25Q.txt",
+            "path": "Static GK/Rivers of India 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20of%20India%201_EA_25Q.txt",
             "hash": "8c79ef9c21564bb7625f5b96c57679a4"
         },
         "814": {
             "id": "814",
-            "name": "National Park of India 2_25Q.txt",
-            "path": "Static GK/National Park of India 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/National%20Park%20of%20India%202_25Q.txt",
+            "name": "National Park of India 2_EA_25Q.txt",
+            "path": "Static GK/National Park of India 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/National%20Park%20of%20India%202_EA_25Q.txt",
             "hash": "f0cfbf06480a5b2bb7bbd81c1bc1f3ac"
         },
         "815": {
@@ -5706,324 +5706,324 @@
         },
         "816": {
             "id": "816",
-            "name": "Rivers of India 2_25Q.txt",
-            "path": "Static GK/Rivers of India 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20of%20India%202_25Q.txt",
+            "name": "Rivers of India 2_EA_25Q.txt",
+            "path": "Static GK/Rivers of India 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20of%20India%202_EA_25Q.txt",
             "hash": "869ae7fc4d4c88e1beca921b5d710b17"
         },
         "817": {
             "id": "817",
-            "name": "Important Books and Authors 2_25Q.txt",
-            "path": "Static GK/Important Books and Authors 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Books%20and%20Authors%202_25Q.txt",
+            "name": "Important Books and Authors 2_EA_25Q.txt",
+            "path": "Static GK/Important Books and Authors 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Books%20and%20Authors%202_EA_25Q.txt",
             "hash": "2d86ea657f72272c9be258fb36fff705"
         },
         "818": {
             "id": "818",
-            "name": "National Park of India 1_25Q.txt",
-            "path": "Static GK/National Park of India 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/National%20Park%20of%20India%201_25Q.txt",
+            "name": "National Park of India 1_EA_25Q.txt",
+            "path": "Static GK/National Park of India 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/National%20Park%20of%20India%201_EA_25Q.txt",
             "hash": "b492ca6663706505f63172ec526d2046"
         },
         "819": {
             "id": "819",
-            "name": "Human Biology & Human Body 5_25Q_EA.txt",
-            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 5_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%205_25Q_EA.txt",
+            "name": "Human Biology & Human Body 5_EA_25Q.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%205_EA_25Q.txt",
             "hash": "7c024b864b58d8186688685e3a4b2561"
         },
         "820": {
             "id": "820",
-            "name": "Human Biology & Human Body 4_25Q_EA.txt",
-            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 4_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%204_25Q_EA.txt",
+            "name": "Human Biology & Human Body 4_EA_25Q.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%204_EA_25Q.txt",
             "hash": "b7c88d8d6a1c708089eb9ee8be2de38c"
         },
         "821": {
             "id": "821",
-            "name": "Human Biology & Human Body 2_25Q_EA.txt",
-            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%202_25Q_EA.txt",
+            "name": "Human Biology & Human Body 2_EA_25Q.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%202_EA_25Q.txt",
             "hash": "14614e5776f8ccaad2f6ebb1dbd14cb7"
         },
         "822": {
             "id": "822",
-            "name": "Human Biology & Human Body 1_25Q_EA.txt",
-            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%201_25Q_EA.txt",
+            "name": "Human Biology & Human Body 1_EA_25Q.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%201_EA_25Q.txt",
             "hash": "05a82415d16e74e49b23ce65c3602fbd"
         },
         "823": {
             "id": "823",
-            "name": "Human Biology & Human Body 3_25Q_EA.txt",
-            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%203_25Q_EA.txt",
+            "name": "Human Biology & Human Body 3_EA_25Q.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%203_EA_25Q.txt",
             "hash": "48875cdd6ca21db263bd5e5c1530d633"
         },
         "824": {
             "id": "824",
-            "name": "Human Biology & Human Body 6_20Q_EA.txt",
-            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 6_20Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%206_20Q_EA.txt",
+            "name": "Human Biology & Human Body 6_EA_20Q.txt",
+            "path": "General Science/Human Biology & Human Body/Human Biology & Human Body 6_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Human%20Biology%20%26%20Human%20Body/Human%20Biology%20%26%20Human%20Body%206_EA_20Q.txt",
             "hash": "2b0e1aa5f24aaec2bf536624719481b0"
         },
         "825": {
             "id": "825",
-            "name": "Plant Biology 2_25Q_EA.txt",
-            "path": "General Science/Plant Biology/Plant Biology 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%202_25Q_EA.txt",
+            "name": "Plant Biology 2_EA_25Q.txt",
+            "path": "General Science/Plant Biology/Plant Biology 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%202_EA_25Q.txt",
             "hash": "d5748f0c07b32ac45a473b915c65a728"
         },
         "826": {
             "id": "826",
-            "name": "Plant Biology 6_25Q_EA.txt",
-            "path": "General Science/Plant Biology/Plant Biology 6_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%206_25Q_EA.txt",
+            "name": "Plant Biology 6_EA_25Q.txt",
+            "path": "General Science/Plant Biology/Plant Biology 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%206_EA_25Q.txt",
             "hash": "ac082bb7ff0163ae970c49f75515b174"
         },
         "827": {
             "id": "827",
-            "name": "Plant Biology 1_25Q_EA.txt",
-            "path": "General Science/Plant Biology/Plant Biology 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%201_25Q_EA.txt",
+            "name": "Plant Biology 1_EA_25Q.txt",
+            "path": "General Science/Plant Biology/Plant Biology 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%201_EA_25Q.txt",
             "hash": "a54caec7c5133d2e1754930f5fe8a193"
         },
         "828": {
             "id": "828",
-            "name": "Plant Biology 3_25Q_EA.txt",
-            "path": "General Science/Plant Biology/Plant Biology 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%203_25Q_EA.txt",
+            "name": "Plant Biology 3_EA_25Q.txt",
+            "path": "General Science/Plant Biology/Plant Biology 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%203_EA_25Q.txt",
             "hash": "5803eccf867fff1b0f7b280deb0f91bf"
         },
         "829": {
             "id": "829",
-            "name": "Plant Biology 5_25Q_EA.txt",
-            "path": "General Science/Plant Biology/Plant Biology 5_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%205_25Q_EA.txt",
+            "name": "Plant Biology 5_EA_25Q.txt",
+            "path": "General Science/Plant Biology/Plant Biology 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%205_EA_25Q.txt",
             "hash": "dcdb8602ba5edb99a280a004c9650d27"
         },
         "830": {
             "id": "830",
-            "name": "Plant Biology 4_25Q_EA.txt",
-            "path": "General Science/Plant Biology/Plant Biology 4_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%204_25Q_EA.txt",
+            "name": "Plant Biology 4_EA_25Q.txt",
+            "path": "General Science/Plant Biology/Plant Biology 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Plant%20Biology/Plant%20Biology%204_EA_25Q.txt",
             "hash": "740997bd09e107385473b896312f8e19"
         },
         "831": {
             "id": "831",
-            "name": "Electricity & Electronics 5_25Q_EA.txt",
-            "path": "General Science/Electricity & Electronics/Electricity & Electronics 5_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%205_25Q_EA.txt",
+            "name": "Electricity & Electronics 5_EA_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%205_EA_25Q.txt",
             "hash": "ee2593fc24de472ab9d8b17c16a9cb6f"
         },
         "832": {
             "id": "832",
-            "name": "Electricity & Electronics 3_25Q_EA.txt",
-            "path": "General Science/Electricity & Electronics/Electricity & Electronics 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%203_25Q_EA.txt",
+            "name": "Electricity & Electronics 3_EA_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%203_EA_25Q.txt",
             "hash": "d752a0fe33491a47d3b9ff94cc609671"
         },
         "833": {
             "id": "833",
-            "name": "Electricity & Electronics 2_25Q_EA.txt",
-            "path": "General Science/Electricity & Electronics/Electricity & Electronics 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%202_25Q_EA.txt",
+            "name": "Electricity & Electronics 2_EA_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%202_EA_25Q.txt",
             "hash": "4a2217932df1af1dc706e83d9bb30890"
         },
         "834": {
             "id": "834",
-            "name": "Electricity & Electronics 1_25Q_EA.txt",
-            "path": "General Science/Electricity & Electronics/Electricity & Electronics 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%201_25Q_EA.txt",
+            "name": "Electricity & Electronics 1_EA_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%201_EA_25Q.txt",
             "hash": "71d6f6b16f1fa4f6c872fd3c0e5257b2"
         },
         "835": {
             "id": "835",
-            "name": "Electricity & Electronics 4_25Q_EA.txt",
-            "path": "General Science/Electricity & Electronics/Electricity & Electronics 4_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%204_25Q_EA.txt",
+            "name": "Electricity & Electronics 4_EA_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%204_EA_25Q.txt",
             "hash": "df1ab50d1b234b1eb47c42530e453d3f"
         },
         "836": {
             "id": "836",
-            "name": "Electricity & Electronics 6_25Q_EA.txt",
-            "path": "General Science/Electricity & Electronics/Electricity & Electronics 6_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%206_25Q_EA.txt",
+            "name": "Electricity & Electronics 6_EA_25Q.txt",
+            "path": "General Science/Electricity & Electronics/Electricity & Electronics 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Electricity%20%26%20Electronics/Electricity%20%26%20Electronics%206_EA_25Q.txt",
             "hash": "f9438ad899f54d3e5d117350fa9c09f7"
         },
         "837": {
             "id": "837",
-            "name": "Space & Astronomy 2_25Q_EA.txt",
-            "path": "General Science/Space & Astronomy/Space & Astronomy 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%202_25Q_EA.txt",
+            "name": "Space & Astronomy 2_EA_25Q.txt",
+            "path": "General Science/Space & Astronomy/Space & Astronomy 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%202_EA_25Q.txt",
             "hash": "8a68f182d4692d42ea27ffeae5069ec1"
         },
         "838": {
             "id": "838",
-            "name": "Space & Astronomy 4_21Q_EA.txt",
-            "path": "General Science/Space & Astronomy/Space & Astronomy 4_21Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%204_21Q_EA.txt",
+            "name": "Space & Astronomy 4_EA_21Q.txt",
+            "path": "General Science/Space & Astronomy/Space & Astronomy 4_EA_21Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%204_EA_21Q.txt",
             "hash": "2f74b63419e084a4c7b50811a9f890f4"
         },
         "839": {
             "id": "839",
-            "name": "Space & Astronomy 3_25Q_EA.txt",
-            "path": "General Science/Space & Astronomy/Space & Astronomy 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%203_25Q_EA.txt",
+            "name": "Space & Astronomy 3_EA_25Q.txt",
+            "path": "General Science/Space & Astronomy/Space & Astronomy 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%203_EA_25Q.txt",
             "hash": "9687902e2c43c570ca8d0b7974debfc4"
         },
         "840": {
             "id": "840",
-            "name": "Space & Astronomy 1_25Q_EA.txt",
-            "path": "General Science/Space & Astronomy/Space & Astronomy 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%201_25Q_EA.txt",
+            "name": "Space & Astronomy 1_EA_25Q.txt",
+            "path": "General Science/Space & Astronomy/Space & Astronomy 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Space%20%26%20Astronomy/Space%20%26%20Astronomy%201_EA_25Q.txt",
             "hash": "7dca20b08ec0afc6f883c9a4b9d5339b"
         },
         "841": {
             "id": "841",
-            "name": "Diseases, Nutrition & Health 2_25Q_EA.txt",
-            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%202_25Q_EA.txt",
+            "name": "Diseases, Nutrition & Health 2_EA_25Q.txt",
+            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%202_EA_25Q.txt",
             "hash": "46233731fbd3a4ff9c838038dd27abf2"
         },
         "842": {
             "id": "842",
-            "name": "Diseases, Nutrition & Health 1_25Q_EA.txt",
-            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%201_25Q_EA.txt",
+            "name": "Diseases, Nutrition & Health 1_EA_25Q.txt",
+            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%201_EA_25Q.txt",
             "hash": "6882805d44fb49be5b820fe9b06d3675"
         },
         "843": {
             "id": "843",
-            "name": "Diseases, Nutrition & Health 3_25Q_EA.txt",
-            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%203_25Q_EA.txt",
+            "name": "Diseases, Nutrition & Health 3_EA_25Q.txt",
+            "path": "General Science/Diseases, Nutrition & Health/Diseases, Nutrition & Health 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Diseases%2C%20Nutrition%20%26%20Health/Diseases%2C%20Nutrition%20%26%20Health%203_EA_25Q.txt",
             "hash": "92195f61a86084e9d62c3ee0ea681eb5"
         },
         "844": {
             "id": "844",
-            "name": "Science & Technology 2_25Q_EA.txt",
-            "path": "General Science/Science & Technology/Science & Technology 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%202_25Q_EA.txt",
+            "name": "Science & Technology 2_EA_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%202_EA_25Q.txt",
             "hash": "a4fe0359c21ad0fb7dc1ad78d6198fe4"
         },
         "845": {
             "id": "845",
-            "name": "Science & Technology 1_25Q_EA.txt",
-            "path": "General Science/Science & Technology/Science & Technology 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%201_25Q_EA.txt",
+            "name": "Science & Technology 1_EA_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%201_EA_25Q.txt",
             "hash": "8a4e1891233ba6dd3f480af1a7b20b42"
         },
         "846": {
             "id": "846",
-            "name": "Science & Technology 6_23Q_EA.txt",
-            "path": "General Science/Science & Technology/Science & Technology 6_23Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%206_23Q_EA.txt",
+            "name": "Science & Technology 6_EA_23Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 6_EA_23Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%206_EA_23Q.txt",
             "hash": "4565036221917888d112767bd5e4378a"
         },
         "847": {
             "id": "847",
-            "name": "Science & Technology 3_25Q_EA.txt",
-            "path": "General Science/Science & Technology/Science & Technology 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%203_25Q_EA.txt",
+            "name": "Science & Technology 3_EA_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%203_EA_25Q.txt",
             "hash": "d5d12deac3142b48bba9f4a4477741d7"
         },
         "848": {
             "id": "848",
-            "name": "Science & Technology 5_25Q_EA.txt",
-            "path": "General Science/Science & Technology/Science & Technology 5_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%205_25Q_EA.txt",
+            "name": "Science & Technology 5_EA_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%205_EA_25Q.txt",
             "hash": "f1cdaba3a058746e8962cff75459ba00"
         },
         "849": {
             "id": "849",
-            "name": "Science & Technology 4_25Q_EA.txt",
-            "path": "General Science/Science & Technology/Science & Technology 4_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%204_25Q_EA.txt",
+            "name": "Science & Technology 4_EA_25Q.txt",
+            "path": "General Science/Science & Technology/Science & Technology 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Science%20%26%20Technology/Science%20%26%20Technology%204_EA_25Q.txt",
             "hash": "e8cf3ca3bb8c0e55a271ba3dc70f5baf"
         },
         "850": {
             "id": "850",
-            "name": "Environment & Ecology 5_25Q_EA.txt",
-            "path": "General Science/Environment & Ecology/Environment & Ecology 5_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%205_25Q_EA.txt",
+            "name": "Environment & Ecology 5_EA_25Q.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%205_EA_25Q.txt",
             "hash": "62a99472fc69e6cd7ccfce55058a0b0f"
         },
         "851": {
             "id": "851",
-            "name": "Environment & Ecology 3_25Q_EA.txt",
-            "path": "General Science/Environment & Ecology/Environment & Ecology 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%203_25Q_EA.txt",
+            "name": "Environment & Ecology 3_EA_25Q.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%203_EA_25Q.txt",
             "hash": "1349b240c5ac02bb3d6a838dd2af0c79"
         },
         "852": {
             "id": "852",
-            "name": "Environment & Ecology 1_25Q_EA.txt",
-            "path": "General Science/Environment & Ecology/Environment & Ecology 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%201_25Q_EA.txt",
+            "name": "Environment & Ecology 1_EA_25Q.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%201_EA_25Q.txt",
             "hash": "adf7b2f0f08732ae6c90c140d150453f"
         },
         "853": {
             "id": "853",
-            "name": "Environment & Ecology 2_25Q_EA.txt",
-            "path": "General Science/Environment & Ecology/Environment & Ecology 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%202_25Q_EA.txt",
+            "name": "Environment & Ecology 2_EA_25Q.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%202_EA_25Q.txt",
             "hash": "a31ea5d21dbf362fb43097b9f4d37c7b"
         },
         "854": {
             "id": "854",
-            "name": "Environment & Ecology 6_23Q_EA.txt",
-            "path": "General Science/Environment & Ecology/Environment & Ecology 6_23Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%206_23Q_EA.txt",
+            "name": "Environment & Ecology 6_EA_23Q.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 6_EA_23Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%206_EA_23Q.txt",
             "hash": "a53a9a3a2ae0e704e6ff2b9ab8c76174"
         },
         "855": {
             "id": "855",
-            "name": "Environment & Ecology 4_25Q_EA.txt",
-            "path": "General Science/Environment & Ecology/Environment & Ecology 4_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%204_25Q_EA.txt",
+            "name": "Environment & Ecology 4_EA_25Q.txt",
+            "path": "General Science/Environment & Ecology/Environment & Ecology 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Environment%20%26%20Ecology/Environment%20%26%20Ecology%204_EA_25Q.txt",
             "hash": "7e9ce3a6d3dd11ac6233e35d811dea72"
         },
         "856": {
             "id": "856",
-            "name": "Genetics & Evolution 6_23Q_EA.txt",
-            "path": "General Science/Genetics & Evolution/Genetics & Evolution 6_23Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%206_23Q_EA.txt",
+            "name": "Genetics & Evolution 6_EA_23Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 6_EA_23Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%206_EA_23Q.txt",
             "hash": "f14eeb2ac63a46e098b9c966782ebaf0"
         },
         "857": {
             "id": "857",
-            "name": "Genetics & Evolution 2_25Q_EA.txt",
-            "path": "General Science/Genetics & Evolution/Genetics & Evolution 2_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%202_25Q_EA.txt",
+            "name": "Genetics & Evolution 2_EA_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%202_EA_25Q.txt",
             "hash": "e368024c6eed9cc134ba59134d14826b"
         },
         "858": {
             "id": "858",
-            "name": "Genetics & Evolution 4_25Q_EA.txt",
-            "path": "General Science/Genetics & Evolution/Genetics & Evolution 4_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%204_25Q_EA.txt",
+            "name": "Genetics & Evolution 4_EA_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%204_EA_25Q.txt",
             "hash": "599e178ed0f1ee665eb5c3b18b55f78f"
         },
         "859": {
             "id": "859",
-            "name": "Genetics & Evolution 3_25Q_EA.txt",
-            "path": "General Science/Genetics & Evolution/Genetics & Evolution 3_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%203_25Q_EA.txt",
+            "name": "Genetics & Evolution 3_EA_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%203_EA_25Q.txt",
             "hash": "7977c1d9e79b385fe74b9cbe9ae891e9"
         },
         "860": {
             "id": "860",
-            "name": "Genetics & Evolution 5_25Q_EA.txt",
-            "path": "General Science/Genetics & Evolution/Genetics & Evolution 5_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%205_25Q_EA.txt",
+            "name": "Genetics & Evolution 5_EA_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%205_EA_25Q.txt",
             "hash": "87cc933bd4c57ce8818fbdf5919e8135"
         },
         "861": {
             "id": "861",
-            "name": "Genetics & Evolution 1_25Q_EA.txt",
-            "path": "General Science/Genetics & Evolution/Genetics & Evolution 1_25Q_EA.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%201_25Q_EA.txt",
+            "name": "Genetics & Evolution 1_EA_25Q.txt",
+            "path": "General Science/Genetics & Evolution/Genetics & Evolution 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Science/Genetics%20%26%20Evolution/Genetics%20%26%20Evolution%201_EA_25Q.txt",
             "hash": "266e6a91a76937209db6b2bdb4e529ae"
         },
         "862": {
@@ -6130,6 +6130,251 @@
             "path": "Current Affairs/March 2026/Current Affairs March 2026 - 2_EA_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/March%202026/Current%20Affairs%20March%202026%20-%202_EA_20Q.txt",
             "hash": "1f220c0fc822e758a7fdf27546c4f3af"
+        },
+        "877": {
+            "id": "877",
+            "name": "Indian Organizations & Headquarters 1_EA_15Q.txt",
+            "path": "Static GK/Indian Organizations & Headquarters 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Organizations%20%26%20Headquarters%201_EA_15Q.txt",
+            "hash": "3bec61c2a6926243d09adc02ef9d5ab2"
+        },
+        "878": {
+            "id": "878",
+            "name": "Indian States And Folk Dances 1_EA_25Q.txt",
+            "path": "Static GK/Indian States And Folk Dances 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20States%20And%20Folk%20Dances%201_EA_25Q.txt",
+            "hash": "33868701187e08b6b474891a387b7019"
+        },
+        "879": {
+            "id": "879",
+            "name": "Government Schemes Of India 2_EA_25Q.txt",
+            "path": "Static GK/Government Schemes Of India 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Government%20Schemes%20Of%20India%202_EA_25Q.txt",
+            "hash": "6591c98c1f5a8a65b1a246e4b6daa93a"
+        },
+        "880": {
+            "id": "880",
+            "name": "Stadiums Of India 2_EA_15Q.txt",
+            "path": "Static GK/Stadiums Of India 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Stadiums%20Of%20India%202_EA_15Q.txt",
+            "hash": "8ee26336e27c2565efd239292f7d19d5"
+        },
+        "881": {
+            "id": "881",
+            "name": "Missiles Of India 2_EA_15Q.txt",
+            "path": "Static GK/Missiles Of India 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Missiles%20Of%20India%202_EA_15Q.txt",
+            "hash": "66b032c60c0c65ebde9c087fa4a13fe8"
+        },
+        "882": {
+            "id": "882",
+            "name": "Classical Dance of India_EA_15Q.txt",
+            "path": "Static GK/Classical Dance of India_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Classical%20Dance%20of%20India_EA_15Q.txt",
+            "hash": "0c02f0290c4aedc98c7ddacee640086c"
+        },
+        "883": {
+            "id": "883",
+            "name": "Sports Persons of India 1_EA_25Q.txt",
+            "path": "Static GK/Sports Persons of India 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Sports%20Persons%20of%20India%201_EA_25Q.txt",
+            "hash": "950ac6d1738b96dbab1e68b450eaa17a"
+        },
+        "884": {
+            "id": "884",
+            "name": "Important Dates 1_EA_25Q.txt",
+            "path": "Static GK/Important Dates 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Dates%201_EA_25Q.txt",
+            "hash": "f294c73682fd8ae27e184bb3bdf35749"
+        },
+        "885": {
+            "id": "885",
+            "name": "Mountains of India 2_EA_25Q.txt",
+            "path": "Static GK/Mountains of India 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Mountains%20of%20India%202_EA_25Q.txt",
+            "hash": "797f425d0e2f5398bbe70a8bfbbff94a"
+        },
+        "886": {
+            "id": "886",
+            "name": "World Organisations & Headquarters 1_EA_25Q.txt",
+            "path": "Static GK/World Organisations & Headquarters 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/World%20Organisations%20%26%20Headquarters%201_EA_25Q.txt",
+            "hash": "f6b90478d38dc658b5de206852f71159"
+        },
+        "887": {
+            "id": "887",
+            "name": "Indian States And Folk Dances 2_EA_25Q.txt",
+            "path": "Static GK/Indian States And Folk Dances 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20States%20And%20Folk%20Dances%202_EA_25Q.txt",
+            "hash": "3127a4cbafc782c237bda5d2048d2527"
+        },
+        "888": {
+            "id": "888",
+            "name": "Rivers And Dams Of India 1_EA_15Q.txt",
+            "path": "Static GK/Rivers And Dams Of India 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20And%20Dams%20Of%20India%201_EA_15Q.txt",
+            "hash": "d0cc4e6a846b29ed0df5f0a9e739758c"
+        },
+        "889": {
+            "id": "889",
+            "name": "World Organisations & Headquarters 2_EA_25Q.txt",
+            "path": "Static GK/World Organisations & Headquarters 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/World%20Organisations%20%26%20Headquarters%202_EA_25Q.txt",
+            "hash": "cefd7de507aad07ec9d07b5024b04004"
+        },
+        "890": {
+            "id": "890",
+            "name": "Important Dates 2_EA_25Q.txt",
+            "path": "Static GK/Important Dates 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Important%20Dates%202_EA_25Q.txt",
+            "hash": "6c2edf9334b73b06bac4dfeccf11f4d8"
+        },
+        "891": {
+            "id": "891",
+            "name": "Airports of India 1_EA_15Q.txt",
+            "path": "Static GK/Airports of India 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Airports%20of%20India%201_EA_15Q.txt",
+            "hash": "970eddf9f254cf29502154617d70dbe9"
+        },
+        "892": {
+            "id": "892",
+            "name": "Missiles Of India 1_EA_15Q.txt",
+            "path": "Static GK/Missiles Of India 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Missiles%20Of%20India%201_EA_15Q.txt",
+            "hash": "f6a18ad1a19134d93e977bc7eaa4783d"
+        },
+        "893": {
+            "id": "893",
+            "name": "Gallantry Awards Of India 1_EA_10Q.txt",
+            "path": "Static GK/Gallantry Awards Of India 1_EA_10Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Gallantry%20Awards%20Of%20India%201_EA_10Q.txt",
+            "hash": "b81bd59a64c8cf8bd138a653deef99f0"
+        },
+        "894": {
+            "id": "894",
+            "name": "Unesco World Heritage Sites Of India 1_EA_15Q.txt",
+            "path": "Static GK/Unesco World Heritage Sites Of India 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Unesco%20World%20Heritage%20Sites%20Of%20India%201_EA_15Q.txt",
+            "hash": "72dd1ed430e362165741c0c22f54534d"
+        },
+        "895": {
+            "id": "895",
+            "name": "Mountains of India 1_EA_25Q.txt",
+            "path": "Static GK/Mountains of India 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Mountains%20of%20India%201_EA_25Q.txt",
+            "hash": "ebebe1ca48d842c8679c67966decc386"
+        },
+        "896": {
+            "id": "896",
+            "name": "First In India 1_EA_20Q.txt",
+            "path": "Static GK/First In India 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/First%20In%20India%201_EA_20Q.txt",
+            "hash": "0016d0350ec04499bff352b9cf77d709"
+        },
+        "897": {
+            "id": "897",
+            "name": "Indian Sports 1_EA_25Q.txt",
+            "path": "Static GK/Indian Sports 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Sports%201_EA_25Q.txt",
+            "hash": "ab5d915a76e0cc4161e7ca35b856a5fd"
+        },
+        "898": {
+            "id": "898",
+            "name": "Capitals Of Indian States & Union Territories 1_EA_10Q.txt",
+            "path": "Static GK/Capitals Of Indian States & Union Territories 1_EA_10Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Capitals%20Of%20Indian%20States%20%26%20Union%20Territories%201_EA_10Q.txt",
+            "hash": "94f9b4b9b5fa211a498a46b682ac4b2d"
+        },
+        "899": {
+            "id": "899",
+            "name": "Stadiums Of India 1_EA_15Q.txt",
+            "path": "Static GK/Stadiums Of India 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Stadiums%20Of%20India%201_EA_15Q.txt",
+            "hash": "344bd31ee0a8462fc48c5f586869ca7d"
+        },
+        "900": {
+            "id": "900",
+            "name": "Indian Sports 2_EA_25Q.txt",
+            "path": "Static GK/Indian Sports 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Sports%202_EA_25Q.txt",
+            "hash": "37233b6bde70a90bd07d39ad37ff63a9"
+        },
+        "901": {
+            "id": "901",
+            "name": "Sports Persons of India 2_EA_25Q.txt",
+            "path": "Static GK/Sports Persons of India 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Sports%20Persons%20of%20India%202_EA_25Q.txt",
+            "hash": "37b92196a493a01aa8ef8dcbe9b56505"
+        },
+        "902": {
+            "id": "902",
+            "name": "Indian Classical Dance & Artists_EA_20Q.txt",
+            "path": "Static GK/Indian Classical Dance & Artists_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Classical%20Dance%20%26%20Artists_EA_20Q.txt",
+            "hash": "c74c421bcf2c6b00d30f74db496e8a8a"
+        },
+        "903": {
+            "id": "903",
+            "name": "Capitals Of Indian States & Union Territories 2_EA_10Q.txt",
+            "path": "Static GK/Capitals Of Indian States & Union Territories 2_EA_10Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Capitals%20Of%20Indian%20States%20%26%20Union%20Territories%202_EA_10Q.txt",
+            "hash": "4765d74ea32a68fa366ff25d168f1728"
+        },
+        "904": {
+            "id": "904",
+            "name": "First In India 2_EA_20Q.txt",
+            "path": "Static GK/First In India 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/First%20In%20India%202_EA_20Q.txt",
+            "hash": "1e14c838317324a06fa526483b9b7a5e"
+        },
+        "905": {
+            "id": "905",
+            "name": "Rivers And Dams Of India 2_EA_15Q.txt",
+            "path": "Static GK/Rivers And Dams Of India 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Rivers%20And%20Dams%20Of%20India%202_EA_15Q.txt",
+            "hash": "eef96ed544de4ec7e236a4aa82727379"
+        },
+        "906": {
+            "id": "906",
+            "name": "Wildlife Sanctuaries Of India 2_EA_20Q.txt",
+            "path": "Static GK/Wildlife Sanctuaries Of India 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Wildlife%20Sanctuaries%20Of%20India%202_EA_20Q.txt",
+            "hash": "88430fc1828a3cb32f18e9e24e920811"
+        },
+        "907": {
+            "id": "907",
+            "name": "Government Schemes Of India 1_EA_25Q.txt",
+            "path": "Static GK/Government Schemes Of India 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Government%20Schemes%20Of%20India%201_EA_25Q.txt",
+            "hash": "492a865bc69f928c36a922cc1043ce44"
+        },
+        "908": {
+            "id": "908",
+            "name": "Indian Organizations & Headquarters 2_EA_15Q.txt",
+            "path": "Static GK/Indian Organizations & Headquarters 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Indian%20Organizations%20%26%20Headquarters%202_EA_15Q.txt",
+            "hash": "313836161f1be0daa85b3b0da6dd559d"
+        },
+        "909": {
+            "id": "909",
+            "name": "Wildlife Sanctuaries Of India 1_EA_20Q.txt",
+            "path": "Static GK/Wildlife Sanctuaries Of India 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Wildlife%20Sanctuaries%20Of%20India%201_EA_20Q.txt",
+            "hash": "1da6b994d25da67f0306645fbfa3e09d"
+        },
+        "910": {
+            "id": "910",
+            "name": "Unesco World Heritage Sites Of India 2_EA_15Q.txt",
+            "path": "Static GK/Unesco World Heritage Sites Of India 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Unesco%20World%20Heritage%20Sites%20Of%20India%202_EA_15Q.txt",
+            "hash": "48dce3fb1270c387cba3715fe2705f5f"
+        },
+        "911": {
+            "id": "911",
+            "name": "Gallantry Awards Of India 2_EA_10Q.txt",
+            "path": "Static GK/Gallantry Awards Of India 2_EA_10Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Static%20GK/Gallantry%20Awards%20Of%20India%202_EA_10Q.txt",
+            "hash": "a2486d5c2242659bbf4f81ca6365cb29"
         }
     }
 }

@@ -157,7 +157,7 @@
     B) Some motorcycles use electricity
     C) All motorcycles are vehicles
     D) All electric vehicles are motorcycles
-    Ans: C
+    Ans: B
 
 24. If all dancers are performers and Nisha is a dancer, then:
     A) Nisha is a performer

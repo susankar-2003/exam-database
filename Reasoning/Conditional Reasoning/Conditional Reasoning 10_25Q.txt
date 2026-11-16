@@ -101,7 +101,7 @@
     B) 246 is not divisible by 3
     C) 246 is a prime number
     D) Cannot be determined
-    Ans: A
+    Ans: D
 
 16. If every fan has blades and this appliance is a fan, then:
     A) It has blades

@@ -1,5 +1,5 @@
 {
-    "last_serial": 926,
+    "last_serial": 998,
     "papers": {
         "1": {
             "id": "1",
@@ -2066,9 +2066,9 @@
         },
         "296": {
             "id": "296",
-            "name": "Deserts 2_20Q.txt.txt",
-            "path": "General Awareness/World Geography/Deserts 2_20Q.txt.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%202_20Q.txt.txt",
+            "name": "Mountains & Peaks 3_20Q.txt",
+            "path": "General Awareness/World Geography/Mountains & Peaks 3_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%203_20Q.txt",
             "hash": "dd5f646a85624198d2576ebb91aa4087"
         },
         "297": {
@@ -5356,9 +5356,9 @@
         },
         "766": {
             "id": "766",
-            "name": "Assam Economy 5_25Q.txt",
-            "path": "Assam GK/Assam Economy/Assam Economy 5_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%205_25Q.txt",
+            "name": "Assam Economy 5_EA_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 5_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%205_EA_25Q.txt",
             "hash": "35a9094abb531a47c17690479cc6c8b3"
         },
         "767": {
@@ -5370,23 +5370,23 @@
         },
         "768": {
             "id": "768",
-            "name": "Assam Economy 1_25Q.txt",
-            "path": "Assam GK/Assam Economy/Assam Economy 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%201_25Q.txt",
+            "name": "Assam Economy 1_EA_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%201_EA_25Q.txt",
             "hash": "4c2da74f37512f0c0514df17e4789550"
         },
         "769": {
             "id": "769",
-            "name": "Assam Economy 2_25Q.txt",
-            "path": "Assam GK/Assam Economy/Assam Economy 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%202_25Q.txt",
+            "name": "Assam Economy 2_EA_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%202_EA_25Q.txt",
             "hash": "45b09e9eabb998320a220b4015ab113f"
         },
         "770": {
             "id": "770",
-            "name": "Assam Economy 3_25Q.txt",
-            "path": "Assam GK/Assam Economy/Assam Economy 3_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%203_25Q.txt",
+            "name": "Assam Economy 3_EA_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%203_EA_25Q.txt",
             "hash": "cf429aabc8fb8d0487782e0547548a7f"
         },
         "771": {
@@ -5398,16 +5398,16 @@
         },
         "772": {
             "id": "772",
-            "name": "Assam Economy 4_25Q.txt",
-            "path": "Assam GK/Assam Economy/Assam Economy 4_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%204_25Q.txt",
+            "name": "Assam Economy 4_EA_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%204_EA_25Q.txt",
             "hash": "ea12ecd1ef59f5173b0890b45203b409"
         },
         "773": {
             "id": "773",
-            "name": "Assam Economy 7_25Q.txt",
-            "path": "Assam GK/Assam Economy/Assam Economy 7_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%207_25Q.txt",
+            "name": "Assam Economy 7_EA_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 7_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%207_EA_25Q.txt",
             "hash": "b8694e5b87e5d751c6a9946a998f3bc8"
         },
         "774": {
@@ -6480,6 +6480,510 @@
             "path": "Reasoning/Number Series/Wrong Number Series 1_EA_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Reasoning/Number%20Series/Wrong%20Number%20Series%201_EA_25Q.txt",
             "hash": "41644ec92e38e83fc9b0358be32d023e"
+        },
+        "927": {
+            "id": "927",
+            "name": "Assam Economy 8_EA_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 8_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%208_EA_25Q.txt",
+            "hash": "9a6a4bdfeccd03f8cd0803918924d769"
+        },
+        "928": {
+            "id": "928",
+            "name": "Assam Economy 6_EA_25Q.txt",
+            "path": "Assam GK/Assam Economy/Assam Economy 6_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Economy/Assam%20Economy%206_EA_25Q.txt",
+            "hash": "8a6f6b93b28e49402c180ca7dd21ff75"
+        },
+        "929": {
+            "id": "929",
+            "name": "Assam Battles_EA_20Q.txt",
+            "path": "Assam GK/Assam History/Assam Battles_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Battles_EA_20Q.txt",
+            "hash": "1694be87d08bdfc5584afd1f9911b4c9"
+        },
+        "930": {
+            "id": "930",
+            "name": "Ancient Assam History 1_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Ancient Assam History 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Ancient%20Assam%20History%201_EA_25Q.txt",
+            "hash": "1dc8de4aac2a7af636fd6450038e917b"
+        },
+        "931": {
+            "id": "931",
+            "name": "Ancient Assam History 2_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Ancient Assam History 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Ancient%20Assam%20History%202_EA_25Q.txt",
+            "hash": "65c3c95632b2f95408b14f68bf77356f"
+        },
+        "932": {
+            "id": "932",
+            "name": "Ancient Assam History 4_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Ancient Assam History 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Ancient%20Assam%20History%204_EA_25Q.txt",
+            "hash": "cdc8aa009c942acad997e83d4c0c8a90"
+        },
+        "933": {
+            "id": "933",
+            "name": "Assam Recent History 2_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Assam Recent History 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Recent%20History%202_EA_25Q.txt",
+            "hash": "16f4ee814bd8924d9e7e3c537caa829a"
+        },
+        "934": {
+            "id": "934",
+            "name": "Modern History 4_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Modern History 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Modern%20History%204_EA_25Q.txt",
+            "hash": "80028bbe7257e2df2e62273e1a23753a"
+        },
+        "935": {
+            "id": "935",
+            "name": "Modern History 1_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Modern History 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Modern%20History%201_EA_25Q.txt",
+            "hash": "c5ea9215db23afae0b1e0b6bdc0f16c2"
+        },
+        "936": {
+            "id": "936",
+            "name": "Assam Recent History 3_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Assam Recent History 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Recent%20History%203_EA_25Q.txt",
+            "hash": "a4029e4d0944625218209649b26b73a5"
+        },
+        "937": {
+            "id": "937",
+            "name": "Modern History 2_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Modern History 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Modern%20History%202_EA_25Q.txt",
+            "hash": "28c06d7140e85e4607506fde61cee970"
+        },
+        "938": {
+            "id": "938",
+            "name": "Assam Recent History 4_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Assam Recent History 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Recent%20History%204_EA_25Q.txt",
+            "hash": "5643ea370cd6a991c594fbdbe98a32f3"
+        },
+        "939": {
+            "id": "939",
+            "name": "Modern History 3_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Modern History 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Modern%20History%203_EA_25Q.txt",
+            "hash": "17cd7310f19b0c4adb42ec9148c1f78d"
+        },
+        "940": {
+            "id": "940",
+            "name": "Assam Recent History 1_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Assam Recent History 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Assam%20Recent%20History%201_EA_25Q.txt",
+            "hash": "b9ba6315e7f31b4ec562dfbda0097b22"
+        },
+        "941": {
+            "id": "941",
+            "name": "Ancient Assam History 3_EA_25Q.txt",
+            "path": "Assam GK/Assam History/Ancient Assam History 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20History/Ancient%20Assam%20History%203_EA_25Q.txt",
+            "hash": "d5403f906091e71cc3023429985ba6f3"
+        },
+        "942": {
+            "id": "942",
+            "name": "Rivers of Assam 1_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Rivers of Assam 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Rivers%20of%20Assam%201_EA_25Q.txt",
+            "hash": "cd930eaaf138e0aa6d5b20a3a497d3ef"
+        },
+        "943": {
+            "id": "943",
+            "name": "Important Dates of Assam 1_EA_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Important Dates of Assam 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Important%20Dates%20of%20Assam%201_EA_15Q.txt",
+            "hash": "b36b2da22153d07d7437137fc593ef4f"
+        },
+        "944": {
+            "id": "944",
+            "name": "Bridges of Assam 2_EA_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Bridges of Assam 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Bridges%20of%20Assam%202_EA_15Q.txt",
+            "hash": "a4f07f5ff8131dfdac866be6bb3c3534"
+        },
+        "945": {
+            "id": "945",
+            "name": "Bridges of Assam 1_EA_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Bridges of Assam 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Bridges%20of%20Assam%201_EA_15Q.txt",
+            "hash": "7d89b107577befafdd2fcd2ae7948abf"
+        },
+        "946": {
+            "id": "946",
+            "name": "Assam Government Schemes 1_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Assam Government Schemes 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Assam%20Government%20Schemes%201_EA_25Q.txt",
+            "hash": "76aa54d40b7efb75f9d20969e7d57daa"
+        },
+        "947": {
+            "id": "947",
+            "name": "Awards of Assam 2_EA_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Awards of Assam 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Awards%20of%20Assam%202_EA_20Q.txt",
+            "hash": "a8740079c8e83fa1917885d0b85991c0"
+        },
+        "948": {
+            "id": "948",
+            "name": "Artists of Assam_EA_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Artists of Assam_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Artists%20of%20Assam_EA_20Q.txt",
+            "hash": "294989b6874d2ec24697e45efc5c4369"
+        },
+        "949": {
+            "id": "949",
+            "name": "Literature of Assam 2_EA_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Literature of Assam 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Literature%20of%20Assam%202_EA_15Q.txt",
+            "hash": "a6d618a5f3f4fab02a6318091c61dde3"
+        },
+        "950": {
+            "id": "950",
+            "name": "Airports of Assam_EA_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Airports of Assam_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Airports%20of%20Assam_EA_15Q.txt",
+            "hash": "9f3410e1016657a8f0153bba3a86d3de"
+        },
+        "951": {
+            "id": "951",
+            "name": "Folk Dances of Assam 2_EA_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Folk Dances of Assam 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Folk%20Dances%20of%20Assam%202_EA_20Q.txt",
+            "hash": "de401b3dfcc7671b3f813de0f6cb8ba6"
+        },
+        "952": {
+            "id": "952",
+            "name": "Awards of Assam 1_EA_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Awards of Assam 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Awards%20of%20Assam%201_EA_20Q.txt",
+            "hash": "f8e60bf722e1b45ea8c990cae4769360"
+        },
+        "953": {
+            "id": "953",
+            "name": "National Parks & Wildlife Sanctuaries of Assam 2_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/National Parks & Wildlife Sanctuaries of Assam 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/National%20Parks%20%26%20Wildlife%20Sanctuaries%20of%20Assam%202_EA_25Q.txt",
+            "hash": "6645191a7742cee0512b74958ef849ad"
+        },
+        "954": {
+            "id": "954",
+            "name": "Sports & Sportspersons of Assam 2_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Sports & Sportspersons of Assam 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Sports%20%26%20Sportspersons%20of%20Assam%202_EA_25Q.txt",
+            "hash": "166c86c337d6a0cc43c56923f77b8445"
+        },
+        "955": {
+            "id": "955",
+            "name": "First in Assam 2_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/First in Assam 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/First%20in%20Assam%202_EA_25Q.txt",
+            "hash": "27bf8caf17b4bd5dccccfbb889816ff0"
+        },
+        "956": {
+            "id": "956",
+            "name": "Sports & Sportspersons of Assam 1_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Sports & Sportspersons of Assam 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Sports%20%26%20Sportspersons%20of%20Assam%201_EA_25Q.txt",
+            "hash": "5c596aa53784fd2c962ee4d422fdf03c"
+        },
+        "957": {
+            "id": "957",
+            "name": "National Parks & Wildlife Sanctuaries of Assam 1_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/National Parks & Wildlife Sanctuaries of Assam 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/National%20Parks%20%26%20Wildlife%20Sanctuaries%20of%20Assam%201_EA_25Q.txt",
+            "hash": "8520ccdb28b1091a680ddad05e308236"
+        },
+        "958": {
+            "id": "958",
+            "name": "Rivers of Assam 2_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Rivers of Assam 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Rivers%20of%20Assam%202_EA_25Q.txt",
+            "hash": "612baecd8e8afc79c3211037eb1e099c"
+        },
+        "959": {
+            "id": "959",
+            "name": "Assam Government Schemes 2_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/Assam Government Schemes 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Assam%20Government%20Schemes%202_EA_25Q.txt",
+            "hash": "2751d5fc9c12e8b2463f9b94ed4e0cdd"
+        },
+        "960": {
+            "id": "960",
+            "name": "Literature of Assam 1_EA_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Literature of Assam 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Literature%20of%20Assam%201_EA_15Q.txt",
+            "hash": "b9d92ff65553e5c513e09955d9aaa6d7"
+        },
+        "961": {
+            "id": "961",
+            "name": "Folk Dances of Assam 1_EA_20Q.txt",
+            "path": "Assam GK/Assam Static GK/Folk Dances of Assam 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Folk%20Dances%20of%20Assam%201_EA_20Q.txt",
+            "hash": "2eb644835a7338ffbc19b4f3f2d28418"
+        },
+        "962": {
+            "id": "962",
+            "name": "First in Assam 1_EA_25Q.txt",
+            "path": "Assam GK/Assam Static GK/First in Assam 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/First%20in%20Assam%201_EA_25Q.txt",
+            "hash": "7a48de73569d5250a1ea5f0dbffcdcb3"
+        },
+        "963": {
+            "id": "963",
+            "name": "Important Dates of Assam 2_EA_15Q.txt",
+            "path": "Assam GK/Assam Static GK/Important Dates of Assam 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Static%20GK/Important%20Dates%20of%20Assam%202_EA_15Q.txt",
+            "hash": "27f946225a5d89c7cc887670019bc6b9"
+        },
+        "964": {
+            "id": "964",
+            "name": "Geography of Assam 1_EA_25Q.txt",
+            "path": "Assam GK/Assam Geography/Geography of Assam 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Geography%20of%20Assam%201_EA_25Q.txt",
+            "hash": "30f723756b53f23e88ca2e383eb8e8af"
+        },
+        "965": {
+            "id": "965",
+            "name": "Rivers of Assam 1_EA_25Q.txt",
+            "path": "Assam GK/Assam Geography/Rivers of Assam 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Rivers%20of%20Assam%201_EA_25Q.txt",
+            "hash": "5f0e7a92fc53c3dc632df80014d3fa5f"
+        },
+        "966": {
+            "id": "966",
+            "name": "Mountains and Hills of Assam 2_EA_15Q.txt",
+            "path": "Assam GK/Assam Geography/Mountains and Hills of Assam 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Mountains%20and%20Hills%20of%20Assam%202_EA_15Q.txt",
+            "hash": "30ae2d767d52c92c9d4f266b8b53378f"
+        },
+        "967": {
+            "id": "967",
+            "name": "Climate, Forests, and Soils of Assam 2_EA_15Q.txt",
+            "path": "Assam GK/Assam Geography/Climate, Forests, and Soils of Assam 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Climate%2C%20Forests%2C%20and%20Soils%20of%20Assam%202_EA_15Q.txt",
+            "hash": "3b85a5a9a23dcc4b2ebf5eb401763018"
+        },
+        "968": {
+            "id": "968",
+            "name": "Geography of Assam 4_EA_25Q.txt",
+            "path": "Assam GK/Assam Geography/Geography of Assam 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Geography%20of%20Assam%204_EA_25Q.txt",
+            "hash": "4121bb4f080ccdf818eaea85f04ffecb"
+        },
+        "969": {
+            "id": "969",
+            "name": "Geography of Assam 3_EA_25Q.txt",
+            "path": "Assam GK/Assam Geography/Geography of Assam 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Geography%20of%20Assam%203_EA_25Q.txt",
+            "hash": "83da6b57f8e8d1b2bbe74043b41c926c"
+        },
+        "970": {
+            "id": "970",
+            "name": "National Parks & Wildlife Sanctuaries of Assam 2_EA_25Q.txt",
+            "path": "Assam GK/Assam Geography/National Parks & Wildlife Sanctuaries of Assam 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/National%20Parks%20%26%20Wildlife%20Sanctuaries%20of%20Assam%202_EA_25Q.txt",
+            "hash": "209759677c3b4b9ab3a525277e128758"
+        },
+        "971": {
+            "id": "971",
+            "name": "Landforms and Islands of Assam 1_EA_20Q.txt",
+            "path": "Assam GK/Assam Geography/Landforms and Islands of Assam 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Landforms%20and%20Islands%20of%20Assam%201_EA_20Q.txt",
+            "hash": "358611c8245c25e2e1d4d5612773eb80"
+        },
+        "972": {
+            "id": "972",
+            "name": "Geography of Assam 2_EA_25Q.txt",
+            "path": "Assam GK/Assam Geography/Geography of Assam 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Geography%20of%20Assam%202_EA_25Q.txt",
+            "hash": "25487848442f03a50e4629534076bb8c"
+        },
+        "973": {
+            "id": "973",
+            "name": "National Parks & Wildlife Sanctuaries of Assam 1_EA_25Q.txt",
+            "path": "Assam GK/Assam Geography/National Parks & Wildlife Sanctuaries of Assam 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/National%20Parks%20%26%20Wildlife%20Sanctuaries%20of%20Assam%201_EA_25Q.txt",
+            "hash": "4297324d3b6dc097e30f6868a902130a"
+        },
+        "974": {
+            "id": "974",
+            "name": "Rivers of Assam 2_EA_25Q.txt",
+            "path": "Assam GK/Assam Geography/Rivers of Assam 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Rivers%20of%20Assam%202_EA_25Q.txt",
+            "hash": "2694e700a533b73f2743a47ecd05d1f7"
+        },
+        "975": {
+            "id": "975",
+            "name": "Mountains and Hills of Assam 1_EA_15Q.txt",
+            "path": "Assam GK/Assam Geography/Mountains and Hills of Assam 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Mountains%20and%20Hills%20of%20Assam%201_EA_15Q.txt",
+            "hash": "43a8390ae40abb9a9fd862c7e0a29a02"
+        },
+        "976": {
+            "id": "976",
+            "name": "Landforms and Islands of Assam 2_EA_20Q.txt",
+            "path": "Assam GK/Assam Geography/Landforms and Islands of Assam 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Landforms%20and%20Islands%20of%20Assam%202_EA_20Q.txt",
+            "hash": "f2d43bcad6131aa14519f87f52cbaa0b"
+        },
+        "977": {
+            "id": "977",
+            "name": "Climate, Forests, and Soils of Assam 1_EA_15Q.txt",
+            "path": "Assam GK/Assam Geography/Climate, Forests, and Soils of Assam 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Assam%20Geography/Climate%2C%20Forests%2C%20and%20Soils%20of%20Assam%201_EA_15Q.txt",
+            "hash": "f663d163adf2a1c24ca5ed420f43bba5"
+        },
+        "978": {
+            "id": "978",
+            "name": "Literature of Assam 3_EA_15Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 3_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%203_EA_15Q.txt",
+            "hash": "3af380af6ec54d265c282d8816e8bfa9"
+        },
+        "979": {
+            "id": "979",
+            "name": "Festivals of Assam 2_EA_20Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Festivals of Assam 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Festivals%20of%20Assam%202_EA_20Q.txt",
+            "hash": "4ce969055d69b72bb41997560b877683"
+        },
+        "980": {
+            "id": "980",
+            "name": "Festivals of Assam 1_EA_20Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Festivals of Assam 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Festivals%20of%20Assam%201_EA_20Q.txt",
+            "hash": "bba38dbb4a089530a2d21a5639a82d48"
+        },
+        "981": {
+            "id": "981",
+            "name": "Literature of Assam 2_EA_15Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%202_EA_15Q.txt",
+            "hash": "40f7d3d30dadbd17da146d6b240a67cc"
+        },
+        "982": {
+            "id": "982",
+            "name": "Famous Landmarks of Assam 1_EA_20Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Famous Landmarks of Assam 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Famous%20Landmarks%20of%20Assam%201_EA_20Q.txt",
+            "hash": "3c1e2945605833ff9e73dfe946190fae"
+        },
+        "983": {
+            "id": "983",
+            "name": "Literature and Media of Assam 2.txt_EA_20Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature and Media of Assam 2.txt_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20and%20Media%20of%20Assam%202.txt_EA_20Q.txt",
+            "hash": "ca99a63e8bc277dc0341f806b2718b39"
+        },
+        "984": {
+            "id": "984",
+            "name": "Literature and Media of Assam 1_EA_20Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature and Media of Assam 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20and%20Media%20of%20Assam%201_EA_20Q.txt",
+            "hash": "f8980bcf6897629171e856f28a00bea4"
+        },
+        "985": {
+            "id": "985",
+            "name": "Literature of Assam 5_EA_20Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 5_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%205_EA_20Q.txt",
+            "hash": "0de0df6617576db7ea4496d4c9b884ba"
+        },
+        "986": {
+            "id": "986",
+            "name": "Literature of Assam 1_EA_15Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%201_EA_15Q.txt",
+            "hash": "be52023df9d3ec00fe702fa314f036ba"
+        },
+        "987": {
+            "id": "987",
+            "name": "Folk Dances of Assam 1_EA_20Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Folk Dances of Assam 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Folk%20Dances%20of%20Assam%201_EA_20Q.txt",
+            "hash": "ab86bcc8ba78013fbb4b3ac6b45f6554"
+        },
+        "988": {
+            "id": "988",
+            "name": "Literature of Assam 4_EA_15Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Literature of Assam 4_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Literature%20of%20Assam%204_EA_15Q.txt",
+            "hash": "8e22234d855cc062093d0a4df4245852"
+        },
+        "989": {
+            "id": "989",
+            "name": "Famous Landmarks of Assam 2_EA_20Q.txt",
+            "path": "Assam GK/Art, Culture and Festivals of Assam/Famous Landmarks of Assam 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Art%2C%20Culture%20and%20Festivals%20of%20Assam/Famous%20Landmarks%20of%20Assam%202_EA_20Q.txt",
+            "hash": "ceeeac712a59b4827363d8b4f38210b0"
+        },
+        "990": {
+            "id": "990",
+            "name": "Special provisions of Assam 2_EA_15Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Special provisions of Assam 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Special%20provisions%20of%20Assam%202_EA_15Q.txt",
+            "hash": "794cefc216b77db6c0c27f6f0378f847"
+        },
+        "991": {
+            "id": "991",
+            "name": "Legislature 1_EA_20Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Legislature 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Legislature%201_EA_20Q.txt",
+            "hash": "0c98afc9287ce7868f72216753e462e8"
+        },
+        "992": {
+            "id": "992",
+            "name": "First in Assam 2_EA_25Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/First in Assam 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/First%20in%20Assam%202_EA_25Q.txt",
+            "hash": "27bf8caf17b4bd5dccccfbb889816ff0"
+        },
+        "993": {
+            "id": "993",
+            "name": "Special provisions of Assam 1_EA_15Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Special provisions of Assam 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Special%20provisions%20of%20Assam%201_EA_15Q.txt",
+            "hash": "70edec943089d4fb9619805d962614f6"
+        },
+        "994": {
+            "id": "994",
+            "name": "State Symbols 2_EA_15Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/State Symbols 2_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/State%20Symbols%202_EA_15Q.txt",
+            "hash": "39b7023272367ad07910ace0ac433248"
+        },
+        "995": {
+            "id": "995",
+            "name": "Legislature 2_EA_20Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Legislature 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Legislature%202_EA_20Q.txt",
+            "hash": "2bc20744dd33c949290794ef321112ee"
+        },
+        "996": {
+            "id": "996",
+            "name": "State Symbols 1_EA_15Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/State Symbols 1_EA_15Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/State%20Symbols%201_EA_15Q.txt",
+            "hash": "46e506c4050ceb2da536e8a3e553f089"
+        },
+        "997": {
+            "id": "997",
+            "name": "First in Assam 1_EA_25Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/First in Assam 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/First%20in%20Assam%201_EA_25Q.txt",
+            "hash": "7a48de73569d5250a1ea5f0dbffcdcb3"
+        },
+        "998": {
+            "id": "998",
+            "name": "Legislature 3_EA_20Q.txt",
+            "path": "Assam GK/Polity and Administration of Assam/Legislature 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Legislature%203_EA_20Q.txt",
+            "hash": "e69d190f20c2d1c2342d912fc3138246"
         }
     }
 }

@@ -55,7 +55,7 @@ Ans: A
 7. Lilabari Airport serves which district/town of Assam?
 
 লীলাবাৰী বিমান বন্দৰটোৱে অসমৰ কোনখন জিলা/নগৰক সেৱা আগবঢ়ায়?
-A) Lakhimpur / North Lakhimpur / লক্ষীমপুৰ / উত্তৰ লক্ষীমপুৰ
+A) Lakhimpur / লক্ষীমপুৰ
 B) Dibrugarh / ডিব্ৰুগড়
 C) Tinsukia / তিনিচুকীয়া
 D) Jorhat / যোৰহাট
@@ -73,7 +73,7 @@ Ans: A
 9. Which is the first and only international airport in Northeast India?
 
 উত্তৰ-পূব ভাৰতৰ প্ৰথম আৰু একমাত্ৰ আন্তঃৰাষ্ট্ৰীয় বিমান বন্দৰটো কোনটো?
-A) Lokpriya Gopinath Bordoloi International Airport, Guwahati / লোকপ্ৰিয় গোপীনাথ বৰদলৈ আন্তঃৰাষ্ট্ৰীয় বিমান বন্দৰ, গুৱাহাটী
+A) Lokpriya Gopinath Bordoloi International Airport / লোকপ্ৰিয় গোপীনাথ বৰদলৈ আন্তঃৰাষ্ট্ৰীয় বিমান বন্দৰ
 B) Imphal Airport / ইম্ফল বিমান বন্দৰ
 C) Agartala Airport / আগৰতলা বিমান বন্দৰ
 D) Shillong Airport / শ্বিলং বিমান বন্দৰ
@@ -82,10 +82,10 @@ Ans: A
 10. Standard operational civil airports in Assam are managed primarily by which authority?
 
 অসমত থকা অসামৰিক বিমান বন্দৰসমূহ মুখ্যতঃ কোনটো প্ৰাধিকৰণৰ দ্বাৰা পৰিচালিত হয়?
-A) Airports Authority of India - AAI / ভাৰতীয় বিমান বন্দৰ প্ৰাধিকৰণ
+A) Airports Authority of India / ভাৰতীয় বিমান বন্দৰ প্ৰাধিকৰণ
 B) Assam Transport Department / অসম পৰিবহণ বিভাগ
 C) Indian Air Force exclusively / কেৱল ভাৰতীয় বিমান বাহিনী
-D) BRO (Border Roads Organisation) / বি আৰ অ' - সীমান্ত পথ সংস্থা
+D) BRO - Border Roads Organisation / বি আৰ অ' - সীমান্ত পথ সংস্থা
 Ans: A
 
 11. Rowriah Airport (Jorhat) was originally established in which decade, making it one of the oldest airfields in Assam?
@@ -127,7 +127,7 @@ Ans: A
 15. Under which Central Government scheme were regional connectivity flights restarted at airports like Rupsi and Lilabari?
 
 কেন্দ্ৰীয় চৰকাৰৰ কোনখন আঁচনিৰ অধীনত ৰূপসী আৰু লীলাবাৰীৰ দৰে বিমান বন্দৰত আঞ্চলিক বিমান সেৱা পুনৰ আৰম্ভ কৰা হৈছিল?
-A) UDAN Scheme - Ude Desh ka Aam Nagrik / উড়ান আঁচনি
+A) UDAN Scheme / উড়ান আঁচনি
 B) PM-Gati Shakti / পি এম গতি শক্তি
 C) Bharatmala Project / ভাৰতমালা প্ৰকল্প
 D) Asom Mala / অসম মালা

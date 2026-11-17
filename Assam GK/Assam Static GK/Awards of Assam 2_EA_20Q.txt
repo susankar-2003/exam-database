@@ -10,10 +10,10 @@ Ans: B
 2. In which year was the "Assam Baibhav" award instituted by the Government of Assam?
 
 অসম চৰকাৰে "অসম বৈৱভ" বঁটা কোনটো বছৰত প্ৰৱৰ্তন কৰিছিল?
-A) 2019 
-B) 2020 
-C) 2021 
-D) 2022 
+A) 2019
+B) 2020
+C) 2021
+D) 2022
 Ans: C
 
 3. Who was the first recipient of the "Assam Baibhav" award?
@@ -73,10 +73,10 @@ Ans: A
 9. Prior to Assam Baibhav, which was the highest state civilian award in Assam (instituted in 2008)?
 
 অসম বৈভৱৰ পূৰ্বে ২০০৮ চনত প্ৰৱৰ্তন কৰা অসমৰ সৰ্বোচ্চ ৰাজ্যিক অসামৰিক সন্মান কি আছিল?
-A) Assam Ratna অসম ৰত্ন
-B) Asom Sourav অসম সৌৰভ
-C) Asom Gaurav অসম গৌৰৱ
-D) Assam Shaan অসম শান
+A) Assam Ratna / অসম ৰত্ন
+B) Asom Sourav / অসম সৌৰভ
+C) Asom Gaurav / অসম গৌৰৱ
+D) Assam Shaan / অসম শান
 Ans: A
 
 10. Who was the first recipient of the "Assam Ratna" award?
@@ -154,7 +154,7 @@ Ans: B
 18. Who was the recipient of the prestigious "Assam Baibhav" award for the year 2024?
 
 ২০২৪ বৰ্ষৰ "অসম বৈৱভ" বঁটা কাৰ হাতত তুলি দিয়া হৈছিল?
-A) Ranjan Gogoi (Former Chief Justice of India) / ৰঞ্জন গগৈ - ভাৰতৰ প্ৰাক্তন মুখ্য ন্যায়াধীশ
+A) Ranjan Gogoi / ৰঞ্জন গগৈ
 B) Sarbananda Sonowal / সৰ্বানন্দ সোণোৱাল
 C) Hima Das / হিমা দাস
 D) Lovlina Borgohain / লাভলীনা বৰগোহাঁই
@@ -163,10 +163,10 @@ Ans: A
 19. How many categories of State Civilian Awards are given by the Government of Assam since 2021?
 
 ২০২১ চনৰ পৰা অসম চৰকাৰে কেইটা শ্ৰেণীৰ ৰাজ্যিক অসামৰিক বঁটা প্ৰদান কৰি আহিছে?
-A) 2 
-B) 3 
-C) 4 
-D) 5 
+A) 2
+B) 3
+C) 4
+D) 5
 Ans: B
 
 20. What is the cash prize associated with the "Assam Baibhav" award?

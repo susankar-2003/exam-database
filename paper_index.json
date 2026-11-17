@@ -1,5 +1,5 @@
 {
-    "last_serial": 998,
+    "last_serial": 1146,
     "papers": {
         "1": {
             "id": "1",
@@ -2395,44 +2395,44 @@
         },
         "343": {
             "id": "343",
-            "name": "Ancient India 1_20Q.txt",
-            "path": "General Awareness/Indian History/Ancient India 1_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%201_20Q.txt",
+            "name": "Ancient India 1_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Ancient India 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%201_EA_20Q.txt",
             "hash": "ff4027c3ed73ec0f14f3e7e5265f85dd"
         },
         "344": {
             "id": "344",
-            "name": "Ancient India 4_20Q.txt",
-            "path": "General Awareness/Indian History/Ancient India 4_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%204_20Q.txt",
+            "name": "Ancient India 4_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Ancient India 4_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%204_EA_20Q.txt",
             "hash": "c4bad0ab0570e18bc84adcddb130e92d"
         },
         "345": {
             "id": "345",
-            "name": "Art & Culture 2_25Q.txt",
-            "path": "General Awareness/Indian History/Art & Culture 2_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Art%20%26%20Culture%202_25Q.txt",
+            "name": "Art & Culture 2_EA_25Q.txt",
+            "path": "General Awareness/Indian History/Art & Culture 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Art%20%26%20Culture%202_EA_25Q.txt",
             "hash": "083eb0b8d0d448ccad03c290a1cc70aa"
         },
         "346": {
             "id": "346",
-            "name": "Art & Culture 1_25Q.txt",
-            "path": "General Awareness/Indian History/Art & Culture 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Art%20%26%20Culture%201_25Q.txt",
+            "name": "Art & Culture 1_EA_25Q.txt",
+            "path": "General Awareness/Indian History/Art & Culture 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Art%20%26%20Culture%201_EA_25Q.txt",
             "hash": "e27416d63c759033a98f249b5d2f1482"
         },
         "347": {
             "id": "347",
-            "name": "Ancient India 3_20Q.txt",
-            "path": "General Awareness/Indian History/Ancient India 3_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%203_20Q.txt",
+            "name": "Ancient India 3_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Ancient India 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%203_EA_20Q.txt",
             "hash": "f175152be73ae5a9cfef1af098dd73bf"
         },
         "348": {
             "id": "348",
-            "name": "Ancient India 2_20Q.txt",
-            "path": "General Awareness/Indian History/Ancient India 2_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%202_20Q.txt",
+            "name": "Ancient India 2_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Ancient India 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Ancient%20India%202_EA_20Q.txt",
             "hash": "3e90abd5706406b587ac0f4f5bc25f7e"
         },
         "349": {
@@ -5265,9 +5265,9 @@
         },
         "753": {
             "id": "753",
-            "name": "Inflation 3_20Q.txt",
-            "path": "General Awareness/Indian Economy/Inflation 3_20Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Inflation%203_20Q.txt",
+            "name": "Inflation 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Inflation 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Inflation%203_EA_20Q.txt",
             "hash": "c9749892d398887aef08263a2b97bd1b"
         },
         "754": {
@@ -5349,9 +5349,9 @@
         },
         "765": {
             "id": "765",
-            "name": "GDP & National Income 1_25Q.txt",
-            "path": "General Awareness/Indian Economy/GDP & National Income 1_25Q.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/GDP%20%26%20National%20Income%201_25Q.txt",
+            "name": "GDP & National Income 1_EA_25Q.txt",
+            "path": "General Awareness/Indian Economy/GDP & National Income 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/GDP%20%26%20National%20Income%201_EA_25Q.txt",
             "hash": "59db6198a727be65a1f363b7db1980b5"
         },
         "766": {
@@ -6984,6 +6984,1042 @@
             "path": "Assam GK/Polity and Administration of Assam/Legislature 3_EA_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20GK/Polity%20and%20Administration%20of%20Assam/Legislature%203_EA_20Q.txt",
             "hash": "e69d190f20c2d1c2342d912fc3138246"
+        },
+        "999": {
+            "id": "999",
+            "name": "Climate of India 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Climate of India 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Climate%20of%20India%202_EA_20Q.txt",
+            "hash": "2dd15eaf22b34d62e3144f553d214341"
+        },
+        "1000": {
+            "id": "1000",
+            "name": "Soils of India 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Soils of India 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Soils%20of%20India%203_EA_20Q.txt",
+            "hash": "f873fbe0094e00deacd2b6ecbcbae0c0"
+        },
+        "1001": {
+            "id": "1001",
+            "name": "Population & Census 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Population & Census 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Population%20%26%20Census%203_EA_20Q.txt",
+            "hash": "1ac793dc04dfb38e9d58e1338b76dc86"
+        },
+        "1002": {
+            "id": "1002",
+            "name": "Population & Census 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Population & Census 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Population%20%26%20Census%201_EA_20Q.txt",
+            "hash": "5690f7cfee8f7c417112dc875297cbbd"
+        },
+        "1003": {
+            "id": "1003",
+            "name": "Physical Geography of India 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Physical Geography of India 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Physical%20Geography%20of%20India%203_EA_20Q.txt",
+            "hash": "ed40c27e491262fd1adda7a527266196"
+        },
+        "1004": {
+            "id": "1004",
+            "name": "Indian Rivers & Drainage System 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Indian Rivers & Drainage System 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Indian%20Rivers%20%26%20Drainage%20System%201_EA_20Q.txt",
+            "hash": "831d4bc807a9d967f0599b473cc26ee1"
+        },
+        "1005": {
+            "id": "1005",
+            "name": "Indian Rivers & Drainage System 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Indian Rivers & Drainage System 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Indian%20Rivers%20%26%20Drainage%20System%203_EA_20Q.txt",
+            "hash": "214487ffc3498e2afe3abd2e231bb2d8"
+        },
+        "1006": {
+            "id": "1006",
+            "name": "Population & Census 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Population & Census 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Population%20%26%20Census%202_EA_20Q.txt",
+            "hash": "dc956398e66357c46c2f55de8d307d94"
+        },
+        "1007": {
+            "id": "1007",
+            "name": "Climate of India 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Climate of India 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Climate%20of%20India%203_EA_20Q.txt",
+            "hash": "753e287a48f8e8a04bb305da3ffc8bd5"
+        },
+        "1008": {
+            "id": "1008",
+            "name": "Lakes of India_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Lakes of India_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Lakes%20of%20India_EA_20Q.txt",
+            "hash": "edda489add4a5708e6757232a825fc41"
+        },
+        "1009": {
+            "id": "1009",
+            "name": "Climate of India 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Climate of India 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Climate%20of%20India%201_EA_20Q.txt",
+            "hash": "9958b336c1cbb45791c05028dccfd1e0"
+        },
+        "1010": {
+            "id": "1010",
+            "name": "Soils of India 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Soils of India 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Soils%20of%20India%201_EA_20Q.txt",
+            "hash": "55e9ff1ed20b14f520ea409c34241d78"
+        },
+        "1011": {
+            "id": "1011",
+            "name": "Physical Geography of India 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Physical Geography of India 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Physical%20Geography%20of%20India%202_EA_20Q.txt",
+            "hash": "bf9cbda23659c052ff76cbceefee6930"
+        },
+        "1012": {
+            "id": "1012",
+            "name": "Mineral & Energy Resources 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Mineral & Energy Resources 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mineral%20%26%20Energy%20Resources%202_EA_20Q.txt",
+            "hash": "7bdc1c29dac88775e2ccc291d211350c"
+        },
+        "1013": {
+            "id": "1013",
+            "name": "Soils of India 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Soils of India 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Soils%20of%20India%202_EA_20Q.txt",
+            "hash": "441c7b89e9bc43c6e93f383f4fd5d64c"
+        },
+        "1014": {
+            "id": "1014",
+            "name": "Agriculture 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Agriculture 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Agriculture%201_EA_20Q.txt",
+            "hash": "749ab84debb07720762b9b02f905cad6"
+        },
+        "1015": {
+            "id": "1015",
+            "name": "Natural Vegetation & Wildlife 1_EA_25Q.txt",
+            "path": "General Awareness/Indian Geography/Natural Vegetation & Wildlife 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Natural%20Vegetation%20%26%20Wildlife%201_EA_25Q.txt",
+            "hash": "7c3da3902638b20dceccaeb79bc57702"
+        },
+        "1016": {
+            "id": "1016",
+            "name": "Indian Rivers & Drainage System 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Indian Rivers & Drainage System 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Indian%20Rivers%20%26%20Drainage%20System%202_EA_20Q.txt",
+            "hash": "65b22c3dec41ec5c95a5e7fa433fa5ee"
+        },
+        "1017": {
+            "id": "1017",
+            "name": "Physical Geography of India 4_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Physical Geography of India 4_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Physical%20Geography%20of%20India%204_EA_20Q.txt",
+            "hash": "58cc85646c02c2078f856a5fe6e05946"
+        },
+        "1018": {
+            "id": "1018",
+            "name": "Physical Geography of India 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Physical Geography of India 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Physical%20Geography%20of%20India%201_EA_20Q.txt",
+            "hash": "61193094dfdfc86104e2877659e94089"
+        },
+        "1019": {
+            "id": "1019",
+            "name": "Mountain passes_EA_25Q.txt",
+            "path": "General Awareness/Indian Geography/Mountain passes_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mountain%20passes_EA_25Q.txt",
+            "hash": "c67bd5d71f0a19b1e23c088e795a4f7e"
+        },
+        "1020": {
+            "id": "1020",
+            "name": "Natural Vegetation & Wildlife 2_EA_25Q.txt",
+            "path": "General Awareness/Indian Geography/Natural Vegetation & Wildlife 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Natural%20Vegetation%20%26%20Wildlife%202_EA_25Q.txt",
+            "hash": "5b94a9308e3e78f0cb3395eeb677f461"
+        },
+        "1021": {
+            "id": "1021",
+            "name": "Mineral & Energy Resources 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Mineral & Energy Resources 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mineral%20%26%20Energy%20Resources%201_EA_20Q.txt",
+            "hash": "c5bd69a0a60e1167862d4910250d5be3"
+        },
+        "1022": {
+            "id": "1022",
+            "name": "Agriculture 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Agriculture 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Agriculture%202_EA_20Q.txt",
+            "hash": "64c7e274aba7af6ef2c5d9b9e17b1b47"
+        },
+        "1023": {
+            "id": "1023",
+            "name": "Industries of India 2_EA_25Q.txt",
+            "path": "General Awareness/Indian Geography/Industries of India 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Industries%20of%20India%202_EA_25Q.txt",
+            "hash": "981ca6270f611106487a10741418e359"
+        },
+        "1024": {
+            "id": "1024",
+            "name": "Industries of India 1_EA_25Q.txt",
+            "path": "General Awareness/Indian Geography/Industries of India 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Industries%20of%20India%201_EA_25Q.txt",
+            "hash": "68195fc531055a9644513037124f08d7"
+        },
+        "1025": {
+            "id": "1025",
+            "name": "Agriculture 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Agriculture 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Agriculture%203_EA_20Q.txt",
+            "hash": "95693e88a90dd5bb3a777be128aa9b3b"
+        },
+        "1026": {
+            "id": "1026",
+            "name": "Mineral & Energy Resources 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Geography/Mineral & Energy Resources 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Geography/Mineral%20%26%20Energy%20Resources%203_EA_20Q.txt",
+            "hash": "d2531a1b84b856c746c49082c8ff929d"
+        },
+        "1027": {
+            "id": "1027",
+            "name": "Imperialism & Colonialism 2_EA_25Q.txt",
+            "path": "General Awareness/World History/Imperialism & Colonialism 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Imperialism%20%26%20Colonialism%202_EA_25Q.txt",
+            "hash": "849aec7850b95c7b43ee8145aeed5ca8"
+        },
+        "1028": {
+            "id": "1028",
+            "name": "British History 1_EA_25Q.txt",
+            "path": "General Awareness/World History/British History 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/British%20History%201_EA_25Q.txt",
+            "hash": "4ffa56b8db56d8d75408d02934b42401"
+        },
+        "1029": {
+            "id": "1029",
+            "name": "World War I Part 1_EA_25Q.txt",
+            "path": "General Awareness/World History/World War I Part 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20I%20Part%201_EA_25Q.txt",
+            "hash": "76930c0b5348d988d8ca7af8ad85e58f"
+        },
+        "1030": {
+            "id": "1030",
+            "name": "World War I Part 2_EA_25Q.txt",
+            "path": "General Awareness/World History/World War I Part 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20I%20Part%202_EA_25Q.txt",
+            "hash": "2f145fe42e8bf666b94d6e5b98cbe0d5"
+        },
+        "1031": {
+            "id": "1031",
+            "name": "Decolonization 2_EA_25Q.txt",
+            "path": "General Awareness/World History/Decolonization 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Decolonization%202_EA_25Q.txt",
+            "hash": "7c48796072145d055ab57679cce520e2"
+        },
+        "1032": {
+            "id": "1032",
+            "name": "World History French Revolution 2_EA_20Q.txt",
+            "path": "General Awareness/World History/World History French Revolution 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20History%20French%20Revolution%202_EA_20Q.txt",
+            "hash": "28701129f54765987765c34fc65f26f4"
+        },
+        "1033": {
+            "id": "1033",
+            "name": "World War II Part 2_EA_25Q.txt",
+            "path": "General Awareness/World History/World War II Part 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20II%20Part%202_EA_25Q.txt",
+            "hash": "b948d8ab24d672d631b6c73660f284dc"
+        },
+        "1034": {
+            "id": "1034",
+            "name": "Cold War 1_EA_25Q.txt",
+            "path": "General Awareness/World History/Cold War 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Cold%20War%201_EA_25Q.txt",
+            "hash": "b70d68c34dfe7ae9cac006f46cd346ad"
+        },
+        "1035": {
+            "id": "1035",
+            "name": "Imperialism & Colonialism 1_EA_25Q.txt",
+            "path": "General Awareness/World History/Imperialism & Colonialism 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Imperialism%20%26%20Colonialism%201_EA_25Q.txt",
+            "hash": "be483f065011e50fdbc80516c63598a9"
+        },
+        "1036": {
+            "id": "1036",
+            "name": "United Nations 1_EA_25Q.txt",
+            "path": "General Awareness/World History/United Nations 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/United%20Nations%201_EA_25Q.txt",
+            "hash": "78ffc48da2ef58ad5352c14d09553f51"
+        },
+        "1037": {
+            "id": "1037",
+            "name": "United Nations 2_EA_25Q.txt",
+            "path": "General Awareness/World History/United Nations 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/United%20Nations%202_EA_25Q.txt",
+            "hash": "4d98fc8a4be9f91e36c3be9b47a9f00f"
+        },
+        "1038": {
+            "id": "1038",
+            "name": "Industrial Revolution 1_EA_25Q.txt",
+            "path": "General Awareness/World History/Industrial Revolution 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Industrial%20Revolution%201_EA_25Q.txt",
+            "hash": "4d81b35f3a4b8624f0f54ef6c58bc72a"
+        },
+        "1039": {
+            "id": "1039",
+            "name": "Ancient Civilizations 1_EA_25Q.txt",
+            "path": "General Awareness/World History/Ancient Civilizations 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Ancient%20Civilizations%201_EA_25Q.txt",
+            "hash": "02a3c2ce574e8ffa594ec567b87d97e6"
+        },
+        "1040": {
+            "id": "1040",
+            "name": "World History French Revolution 1_EA_20Q.txt",
+            "path": "General Awareness/World History/World History French Revolution 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20History%20French%20Revolution%201_EA_20Q.txt",
+            "hash": "d45d9c097e403d8856f2b78f749bdebe"
+        },
+        "1041": {
+            "id": "1041",
+            "name": "Decolonization 1_EA_25Q.txt",
+            "path": "General Awareness/World History/Decolonization 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Decolonization%201_EA_25Q.txt",
+            "hash": "5acfc570e16454bd7f5bb16d95677aae"
+        },
+        "1042": {
+            "id": "1042",
+            "name": "Cold War 2_EA_25Q.txt",
+            "path": "General Awareness/World History/Cold War 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Cold%20War%202_EA_25Q.txt",
+            "hash": "61fe9191ca687ff7e1e45aed8e3d1d4f"
+        },
+        "1043": {
+            "id": "1043",
+            "name": "World War II Part 1_EA_25Q.txt",
+            "path": "General Awareness/World History/World War II Part 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20II%20Part%201_EA_25Q.txt",
+            "hash": "91c913aa98594a94c9152cc6eb4f95e7"
+        },
+        "1044": {
+            "id": "1044",
+            "name": "Industrial Revolution 2_EA_25Q.txt",
+            "path": "General Awareness/World History/Industrial Revolution 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Industrial%20Revolution%202_EA_25Q.txt",
+            "hash": "db397841b7cac17fb9c28472e308c794"
+        },
+        "1045": {
+            "id": "1045",
+            "name": "British History 2_EA_25Q.txt",
+            "path": "General Awareness/World History/British History 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/British%20History%202_EA_25Q.txt",
+            "hash": "451252c7d80d095362f1d9c171baa47a"
+        },
+        "1046": {
+            "id": "1046",
+            "name": "Ancient Civilizations 2_EA_25Q.txt",
+            "path": "General Awareness/World History/Ancient Civilizations 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/Ancient%20Civilizations%202_EA_25Q.txt",
+            "hash": "83d74fa0ba36454cc18a5b4200653db4"
+        },
+        "1047": {
+            "id": "1047",
+            "name": "Regional kingdoms 2_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Regional kingdoms 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Regional%20kingdoms%202_EA_20Q.txt",
+            "hash": "48a568b399946294389c0f77035ccc98"
+        },
+        "1048": {
+            "id": "1048",
+            "name": "Governor Generals & Viceroys 1_EA_25Q.txt",
+            "path": "General Awareness/Indian History/Governor Generals & Viceroys 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Governor%20Generals%20%26%20Viceroys%201_EA_25Q.txt",
+            "hash": "750551bd0025de3caf5e4c07fb133f36"
+        },
+        "1049": {
+            "id": "1049",
+            "name": "Modern India 4_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Modern India 4_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Modern%20India%204_EA_20Q.txt",
+            "hash": "d315346d41a95837afd513d6ffe7bb4a"
+        },
+        "1050": {
+            "id": "1050",
+            "name": "British Acts 1_EA_25Q.txt",
+            "path": "General Awareness/Indian History/British Acts 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/British%20Acts%201_EA_25Q.txt",
+            "hash": "9ac840dc52f92b0770e152438cbcd88d"
+        },
+        "1051": {
+            "id": "1051",
+            "name": "Medieval India 1_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Medieval India 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Medieval%20India%201_EA_20Q.txt",
+            "hash": "a85554a12f69fd7d5897ab2902f4a5d6"
+        },
+        "1052": {
+            "id": "1052",
+            "name": "Constitutional Development 1_EA_25Q.txt",
+            "path": "General Awareness/Indian History/Constitutional Development 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Constitutional%20Development%201_EA_25Q.txt",
+            "hash": "7aefa891f2d5982beb3a491161562edc"
+        },
+        "1053": {
+            "id": "1053",
+            "name": "Regional kingdoms 3_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Regional kingdoms 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Regional%20kingdoms%203_EA_20Q.txt",
+            "hash": "bd93289a6fc90fab5e2434c5007db88f"
+        },
+        "1054": {
+            "id": "1054",
+            "name": "Modern India 3_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Modern India 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Modern%20India%203_EA_20Q.txt",
+            "hash": "11cab17261ea23460e3d3d99864cef3c"
+        },
+        "1055": {
+            "id": "1055",
+            "name": "British Acts 2_EA_25Q.txt",
+            "path": "General Awareness/Indian History/British Acts 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/British%20Acts%202_EA_25Q.txt",
+            "hash": "abd107afa9233df603d93db48b913bdd"
+        },
+        "1056": {
+            "id": "1056",
+            "name": "Constitutional Development 2_EA_25Q.txt",
+            "path": "General Awareness/Indian History/Constitutional Development 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Constitutional%20Development%202_EA_25Q.txt",
+            "hash": "bcb716ef8e628b5736e41946bb0a308b"
+        },
+        "1057": {
+            "id": "1057",
+            "name": "Medieval India 4_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Medieval India 4_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Medieval%20India%204_EA_20Q.txt",
+            "hash": "29bea1f36a445388800851baa1907098"
+        },
+        "1058": {
+            "id": "1058",
+            "name": "Indian National Movement 2_EA_25Q.txt",
+            "path": "General Awareness/Indian History/Indian National Movement 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Indian%20National%20Movement%202_EA_25Q.txt",
+            "hash": "6069e6f4b2e9bccedf27104e2964fa48"
+        },
+        "1059": {
+            "id": "1059",
+            "name": "Modern India 1_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Modern India 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Modern%20India%201_EA_20Q.txt",
+            "hash": "9909b83a9c1f3965f1b85f01b41c7551"
+        },
+        "1060": {
+            "id": "1060",
+            "name": "Medieval India 3_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Medieval India 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Medieval%20India%203_EA_20Q.txt",
+            "hash": "18d15b71fc15efe98f0c3309e075ebf0"
+        },
+        "1061": {
+            "id": "1061",
+            "name": "Regional kingdoms 1_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Regional kingdoms 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Regional%20kingdoms%201_EA_20Q.txt",
+            "hash": "f1aee819e75dee7590ed52f759d55148"
+        },
+        "1062": {
+            "id": "1062",
+            "name": "Indian National Movement 1_EA_25Q.txt",
+            "path": "General Awareness/Indian History/Indian National Movement 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Indian%20National%20Movement%201_EA_25Q.txt",
+            "hash": "631e4ccab7f026584e698879e8c22f99"
+        },
+        "1063": {
+            "id": "1063",
+            "name": "Governor Generals & Viceroys 2_EA_25Q.txt",
+            "path": "General Awareness/Indian History/Governor Generals & Viceroys 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Governor%20Generals%20%26%20Viceroys%202_EA_25Q.txt",
+            "hash": "b14f2e6a244f113627f28010af352a19"
+        },
+        "1064": {
+            "id": "1064",
+            "name": "Modern India 2_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Modern India 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Modern%20India%202_EA_20Q.txt",
+            "hash": "36b0a80c4d7b3374a54466858015584a"
+        },
+        "1065": {
+            "id": "1065",
+            "name": "Medieval India 2_EA_20Q.txt",
+            "path": "General Awareness/Indian History/Medieval India 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20History/Medieval%20India%202_EA_20Q.txt",
+            "hash": "6bedaa7406368feb5775632450ea7324"
+        },
+        "1066": {
+            "id": "1066",
+            "name": "State Government 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/State Government 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/State%20Government%201_EA_20Q.txt",
+            "hash": "da59eb0d6f78f08718f4b450fc300351"
+        },
+        "1067": {
+            "id": "1067",
+            "name": "President & Vice-President 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/President & Vice-President 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/President%20%26%20Vice-President%203_EA_20Q.txt",
+            "hash": "404b3ceeccea23956b1599050d2f76bf"
+        },
+        "1068": {
+            "id": "1068",
+            "name": "Fundamental Duties 1_EA_25Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Duties 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Duties%201_EA_25Q.txt",
+            "hash": "77ca76ac13cc975f5c255700f7cf34a5"
+        },
+        "1069": {
+            "id": "1069",
+            "name": "Fundamental Rights 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Rights 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Rights%201_EA_20Q.txt",
+            "hash": "ec12b52d0a7c1eda7d153447993865e2"
+        },
+        "1070": {
+            "id": "1070",
+            "name": "Constitutional Amendment 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Constitutional Amendment 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Constitutional%20Amendment%201_EA_20Q.txt",
+            "hash": "367d894ae38810a70c7b0f90b8728627"
+        },
+        "1071": {
+            "id": "1071",
+            "name": "Elections 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Elections 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Elections%202_EA_20Q.txt",
+            "hash": "4ef364c62578e1725acc5d787bb83332"
+        },
+        "1072": {
+            "id": "1072",
+            "name": "Indian Constitution 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Indian Constitution 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Indian%20Constitution%201_EA_20Q.txt",
+            "hash": "18087bca9c743b2fe79daa403f2d5a84"
+        },
+        "1073": {
+            "id": "1073",
+            "name": "Directive Principles of State Policy (DPSP) 2_EA_25Q.txt",
+            "path": "General Awareness/Indian Polity/Directive Principles of State Policy (DPSP) 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Directive%20Principles%20of%20State%20Policy%20%28DPSP%29%202_EA_25Q.txt",
+            "hash": "fdd7a6935dff7242be1ffd0917ed9034"
+        },
+        "1074": {
+            "id": "1074",
+            "name": "Parliament 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Parliament 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Parliament%201_EA_20Q.txt",
+            "hash": "45583bb7a724903015c19f25a10cdf38"
+        },
+        "1075": {
+            "id": "1075",
+            "name": "Parliament 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Parliament 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Parliament%203_EA_20Q.txt",
+            "hash": "326206bc4883e5291dbca37384b99ec3"
+        },
+        "1076": {
+            "id": "1076",
+            "name": "Indian Constitution 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Indian Constitution 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Indian%20Constitution%202_EA_20Q.txt",
+            "hash": "1916021f22d46ddbf6987643638a9d8f"
+        },
+        "1077": {
+            "id": "1077",
+            "name": "Elections 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Elections 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Elections%201_EA_20Q.txt",
+            "hash": "0b933e3eb33a2d404f213d3991d578c0"
+        },
+        "1078": {
+            "id": "1078",
+            "name": "Parliament 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Parliament 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Parliament%202_EA_20Q.txt",
+            "hash": "cac063633c559ca4ddce4a57dcd64930"
+        },
+        "1079": {
+            "id": "1079",
+            "name": "Emergency Provisions 2_EA_25Q.txt",
+            "path": "General Awareness/Indian Polity/Emergency Provisions 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Emergency%20Provisions%202_EA_25Q.txt",
+            "hash": "8a868e568c9e49db4e654983e3e68402"
+        },
+        "1080": {
+            "id": "1080",
+            "name": "Supreme Court & High Courts 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Supreme Court & High Courts 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Supreme%20Court%20%26%20High%20Courts%203_EA_20Q.txt",
+            "hash": "0c5e7fb8a08b026ce87f45193567ff4d"
+        },
+        "1081": {
+            "id": "1081",
+            "name": "Indian Constitution 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Indian Constitution 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Indian%20Constitution%203_EA_20Q.txt",
+            "hash": "96c7c83249fa7e04562cafa9d64e14a1"
+        },
+        "1082": {
+            "id": "1082",
+            "name": "President & Vice-President 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/President & Vice-President 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/President%20%26%20Vice-President%201_EA_20Q.txt",
+            "hash": "5583c6fabaf9bf6fbce551b1ea4bfbdf"
+        },
+        "1083": {
+            "id": "1083",
+            "name": "Constitutional Amendment 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Constitutional Amendment 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Constitutional%20Amendment%203_EA_20Q.txt",
+            "hash": "04fec978efacc1638cc2e939dd069fb1"
+        },
+        "1084": {
+            "id": "1084",
+            "name": "Emergency Provisions 1_EA_25Q.txt",
+            "path": "General Awareness/Indian Polity/Emergency Provisions 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Emergency%20Provisions%201_EA_25Q.txt",
+            "hash": "237726da562495ff58508e1ea5ed4c44"
+        },
+        "1085": {
+            "id": "1085",
+            "name": "Supreme Court & High Courts 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Supreme Court & High Courts 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Supreme%20Court%20%26%20High%20Courts%202_EA_20Q.txt",
+            "hash": "f7898b52c58b3583b277f1ecdd5ab56f"
+        },
+        "1086": {
+            "id": "1086",
+            "name": "Fundamental Rights 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Rights 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Rights%203_EA_20Q.txt",
+            "hash": "df9edb62aa9755752b73f5ff62ecb41b"
+        },
+        "1087": {
+            "id": "1087",
+            "name": "Directive Principles of State Policy (DPSP) 1_EA_25Q.txt",
+            "path": "General Awareness/Indian Polity/Directive Principles of State Policy (DPSP) 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Directive%20Principles%20of%20State%20Policy%20%28DPSP%29%201_EA_25Q.txt",
+            "hash": "36b437102fbee50e4b05c74f35ba0cac"
+        },
+        "1088": {
+            "id": "1088",
+            "name": "President & Vice-President 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/President & Vice-President 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/President%20%26%20Vice-President%202_EA_20Q.txt",
+            "hash": "bc75882a1e2fcdaad0b9e2c817a52da3"
+        },
+        "1089": {
+            "id": "1089",
+            "name": "Fundamental Rights 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Rights 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Rights%202_EA_20Q.txt",
+            "hash": "f59a8ab52363c7d44496fa49f9f1504a"
+        },
+        "1090": {
+            "id": "1090",
+            "name": "Elections 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Elections 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Elections%203_EA_20Q.txt",
+            "hash": "95d676e722a19a675bddefb99071c5c1"
+        },
+        "1091": {
+            "id": "1091",
+            "name": "Fundamental Duties 2_EA_25Q.txt",
+            "path": "General Awareness/Indian Polity/Fundamental Duties 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Fundamental%20Duties%202_EA_25Q.txt",
+            "hash": "35349cff1fd20a9d8179d67843ca66a1"
+        },
+        "1092": {
+            "id": "1092",
+            "name": "Supreme Court & High Courts 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Supreme Court & High Courts 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Supreme%20Court%20%26%20High%20Courts%201_EA_20Q.txt",
+            "hash": "2817f42e96fadd7da5b7f7c655ba3114"
+        },
+        "1093": {
+            "id": "1093",
+            "name": "State Government 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/State Government 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/State%20Government%203_EA_20Q.txt",
+            "hash": "3e30b4b8d4ec6daa771f5bed26a66298"
+        },
+        "1094": {
+            "id": "1094",
+            "name": "State Government 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/State Government 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/State%20Government%202_EA_20Q.txt",
+            "hash": "2fd955cb20396477dc4740d43ac8ad33"
+        },
+        "1095": {
+            "id": "1095",
+            "name": "Constitutional Amendment 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Polity/Constitutional Amendment 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Polity/Constitutional%20Amendment%202_EA_20Q.txt",
+            "hash": "2ba239883347acf404665cc0760c3b49"
+        },
+        "1096": {
+            "id": "1096",
+            "name": "Capitals & Currencies 3_EA_20Q.txt",
+            "path": "General Awareness/World Geography/Capitals & Currencies 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Capitals%20%26%20Currencies%203_EA_20Q.txt",
+            "hash": "ddca03171fe3f44e4e828fadfcd14ff4"
+        },
+        "1097": {
+            "id": "1097",
+            "name": "Mountains & Peaks 3_EA_20Q.txt",
+            "path": "General Awareness/World Geography/Mountains & Peaks 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%203_EA_20Q.txt",
+            "hash": "0e6f4b4690adc0581721f9c7755c95a5"
+        },
+        "1098": {
+            "id": "1098",
+            "name": "Rivers & Lakes 2_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Rivers & Lakes 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Rivers%20%26%20Lakes%202_EA_25Q.txt",
+            "hash": "422b2c1c75039e94a46b790b0cb13ce9"
+        },
+        "1099": {
+            "id": "1099",
+            "name": "Continents & Oceans 1_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Continents & Oceans 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Continents%20%26%20Oceans%201_EA_25Q.txt",
+            "hash": "efc4291232ebe8351bc3ddb9b89c75f2"
+        },
+        "1100": {
+            "id": "1100",
+            "name": "Climate & Natural Vegetation 1_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Climate & Natural Vegetation 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Climate%20%26%20Natural%20Vegetation%201_EA_25Q.txt",
+            "hash": "98d77e915b20add993d05412c812442d"
+        },
+        "1101": {
+            "id": "1101",
+            "name": "Volcanoes & Earthquakes 2_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Volcanoes & Earthquakes 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Volcanoes%20%26%20Earthquakes%202_EA_25Q.txt",
+            "hash": "0dd1285c59ea1db47dc640d705722c91"
+        },
+        "1102": {
+            "id": "1102",
+            "name": "Deserts 1_EA_20Q.txt",
+            "path": "General Awareness/World Geography/Deserts 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%201_EA_20Q.txt",
+            "hash": "a072f68402b0f1aa0a1b2748f38b677d"
+        },
+        "1103": {
+            "id": "1103",
+            "name": "Straits & Canals 2_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Straits & Canals 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Straits%20%26%20Canals%202_EA_25Q.txt",
+            "hash": "25ea34fb8a2ee6b483f45d2562518a3f"
+        },
+        "1104": {
+            "id": "1104",
+            "name": "Deserts 3_EA_20Q.txt",
+            "path": "General Awareness/World Geography/Deserts 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%203_EA_20Q.txt",
+            "hash": "0029bb94709097a427f6add2669ef93e"
+        },
+        "1105": {
+            "id": "1105",
+            "name": "Capitals & Currencies 2_EA_20Q.txt",
+            "path": "General Awareness/World Geography/Capitals & Currencies 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Capitals%20%26%20Currencies%202_EA_20Q.txt",
+            "hash": "e45002080eecd69b8d5733808c1d422a"
+        },
+        "1106": {
+            "id": "1106",
+            "name": "Climate & Natural Vegetation 2_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Climate & Natural Vegetation 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Climate%20%26%20Natural%20Vegetation%202_EA_25Q.txt",
+            "hash": "304cacaf8d10bc8ee720cddfeb1d5f3b"
+        },
+        "1107": {
+            "id": "1107",
+            "name": "Rivers & Lakes 1_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Rivers & Lakes 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Rivers%20%26%20Lakes%201_EA_25Q.txt",
+            "hash": "63273e6bcdf6af336c23c6e303cedde6"
+        },
+        "1108": {
+            "id": "1108",
+            "name": "Latitudes & Longitudes 1_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Latitudes & Longitudes 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Latitudes%20%26%20Longitudes%201_EA_25Q.txt",
+            "hash": "8d15124fcb029d281135ebf1d0b37557"
+        },
+        "1109": {
+            "id": "1109",
+            "name": "Volcanoes & Earthquakes 1_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Volcanoes & Earthquakes 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Volcanoes%20%26%20Earthquakes%201_EA_25Q.txt",
+            "hash": "e0dc630179b7df5195d055f740cfa6a1"
+        },
+        "1110": {
+            "id": "1110",
+            "name": "Seas, Gulfs & Bays 1_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Seas, Gulfs & Bays 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Seas%2C%20Gulfs%20%26%20Bays%201_EA_25Q.txt",
+            "hash": "20807f82bcacaa916d8ccdfb15f492b9"
+        },
+        "1111": {
+            "id": "1111",
+            "name": "Continents & Oceans 2_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Continents & Oceans 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Continents%20%26%20Oceans%202_EA_25Q.txt",
+            "hash": "6d29e28e14f0b3a15a0412a73e6f8a04"
+        },
+        "1112": {
+            "id": "1112",
+            "name": "Deserts 2.txt_EA_20Q.txt",
+            "path": "General Awareness/World Geography/Deserts 2.txt_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Deserts%202.txt_EA_20Q.txt",
+            "hash": "0e6f4b4690adc0581721f9c7755c95a5"
+        },
+        "1113": {
+            "id": "1113",
+            "name": "Seas, Gulfs & Bays 2_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Seas, Gulfs & Bays 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Seas%2C%20Gulfs%20%26%20Bays%202_EA_25Q.txt",
+            "hash": "0e42f3e6b56f33d3e28d94924512a682"
+        },
+        "1114": {
+            "id": "1114",
+            "name": "Capitals & Currencies 1_EA_20Q.txt",
+            "path": "General Awareness/World Geography/Capitals & Currencies 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Capitals%20%26%20Currencies%201_EA_20Q.txt",
+            "hash": "85df7765e8b8ea4bea1e4fbd7c466f99"
+        },
+        "1115": {
+            "id": "1115",
+            "name": "Winds & Ocean Currents 1_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Winds & Ocean Currents 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Winds%20%26%20Ocean%20Currents%201_EA_25Q.txt",
+            "hash": "88f08fc64ddb28a97c686fa7ffe09785"
+        },
+        "1116": {
+            "id": "1116",
+            "name": "Straits & Canals 1_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Straits & Canals 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Straits%20%26%20Canals%201_EA_25Q.txt",
+            "hash": "3cba27856cd2e341574b9572e8ddd2e8"
+        },
+        "1117": {
+            "id": "1117",
+            "name": "Latitudes & Longitudes 2_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Latitudes & Longitudes 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Latitudes%20%26%20Longitudes%202_EA_25Q.txt",
+            "hash": "353a2d55da0c3ae6ab0bdf1e62ec7ee4"
+        },
+        "1118": {
+            "id": "1118",
+            "name": "Winds & Ocean Currents 2_EA_25Q.txt",
+            "path": "General Awareness/World Geography/Winds & Ocean Currents 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Winds%20%26%20Ocean%20Currents%202_EA_25Q.txt",
+            "hash": "10dd47ada4e1f04f8b9b785ef0739776"
+        },
+        "1119": {
+            "id": "1119",
+            "name": "Mountains & Peaks 2_EA_20Q.txt",
+            "path": "General Awareness/World Geography/Mountains & Peaks 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%202_EA_20Q.txt",
+            "hash": "0029bb94709097a427f6add2669ef93e"
+        },
+        "1120": {
+            "id": "1120",
+            "name": "Mountains & Peaks 1_EA_20Q.txt",
+            "path": "General Awareness/World Geography/Mountains & Peaks 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20Geography/Mountains%20%26%20Peaks%201_EA_20Q.txt",
+            "hash": "a072f68402b0f1aa0a1b2748f38b677d"
+        },
+        "1121": {
+            "id": "1121",
+            "name": "Indian States And Folk Dances 1_EA_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Indian States And Folk Dances 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Indian%20States%20And%20Folk%20Dances%201_EA_25Q.txt",
+            "hash": "8152f9dec2cea7e09b7d71fab9482375"
+        },
+        "1122": {
+            "id": "1122",
+            "name": "Indian States And Folk Dances 2_EA_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Indian States And Folk Dances 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Indian%20States%20And%20Folk%20Dances%202_EA_25Q.txt",
+            "hash": "1a0a11c7413e33ecfc4582f6633cd3df"
+        },
+        "1123": {
+            "id": "1123",
+            "name": "UNESCO World Heritage & Indian Heritage 1_EA_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/UNESCO World Heritage & Indian Heritage 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/UNESCO%20World%20Heritage%20%26%20Indian%20Heritage%201_EA_25Q.txt",
+            "hash": "8def35c89cccb465d9c3e68cbf8fb237"
+        },
+        "1124": {
+            "id": "1124",
+            "name": "Temple Architecture Styles 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Temple Architecture Styles 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Temple%20Architecture%20Styles%201_EA_20Q.txt",
+            "hash": "68ce73b391a41322ede1453386d08da6"
+        },
+        "1125": {
+            "id": "1125",
+            "name": "Temple Architecture Styles 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Temple Architecture Styles 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Temple%20Architecture%20Styles%202_EA_20Q.txt",
+            "hash": "dd4a71d2bb667115fa1a09f7004d7216"
+        },
+        "1126": {
+            "id": "1126",
+            "name": "Indian Classical Dance & Artists_EA_20Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Indian Classical Dance & Artists_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Indian%20Classical%20Dance%20%26%20Artists_EA_20Q.txt",
+            "hash": "8d7a42ff3ee4befe065c5260cdb8d1f2"
+        },
+        "1127": {
+            "id": "1127",
+            "name": "Folk Music & Instruments_EA_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Folk Music & Instruments_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Folk%20Music%20%26%20Instruments_EA_25Q.txt",
+            "hash": "a0245263eda07fff1f78397feb6306fd"
+        },
+        "1128": {
+            "id": "1128",
+            "name": "UNESCO World Heritage & Indian Heritage 2_EA_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/UNESCO World Heritage & Indian Heritage 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/UNESCO%20World%20Heritage%20%26%20Indian%20Heritage%202_EA_25Q.txt",
+            "hash": "2a2ec58395a3857e5e32cf81129da265"
+        },
+        "1129": {
+            "id": "1129",
+            "name": "Classical Dances_EA_25Q.txt",
+            "path": "General Awareness/Indian Art and Culture/Classical Dances_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Art%20and%20Culture/Classical%20Dances_EA_25Q.txt",
+            "hash": "be75b081f3f94052e8f52ae2b06ad241"
+        },
+        "1130": {
+            "id": "1130",
+            "name": "GDP & National Income 2_EA_25Q.txt",
+            "path": "General Awareness/Indian Economy/GDP & National Income 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/GDP%20%26%20National%20Income%202_EA_25Q.txt",
+            "hash": "2074c56773750ef87eb1a342a8ed975e"
+        },
+        "1131": {
+            "id": "1131",
+            "name": "Government Schemes 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Government Schemes 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Government%20Schemes%201_EA_20Q.txt",
+            "hash": "5500096b75c893c151e4232c1f6ad14b"
+        },
+        "1132": {
+            "id": "1132",
+            "name": "Government Schemes 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Government Schemes 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Government%20Schemes%202_EA_20Q.txt",
+            "hash": "95399efc2437885a039f72a0666cc22d"
+        },
+        "1133": {
+            "id": "1133",
+            "name": "Taxation & GST 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Taxation & GST 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Taxation%20%26%20GST%201_EA_20Q.txt",
+            "hash": "e70dd02b64755d298a9b751605799a5a"
+        },
+        "1134": {
+            "id": "1134",
+            "name": "Basic Economic Concepts 1_EA_25Q.txt",
+            "path": "General Awareness/Indian Economy/Basic Economic Concepts 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Basic%20Economic%20Concepts%201_EA_25Q.txt",
+            "hash": "d386980da45273183a11f18755efb321"
+        },
+        "1135": {
+            "id": "1135",
+            "name": "Taxation & GST 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Taxation & GST 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Taxation%20%26%20GST%202_EA_20Q.txt",
+            "hash": "e06c1a0c0475e68cad9e5ff683be06e9"
+        },
+        "1136": {
+            "id": "1136",
+            "name": "Taxation & GST 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Taxation & GST 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Taxation%20%26%20GST%203_EA_20Q.txt",
+            "hash": "c646770737778557ba10ebc43b48e229"
+        },
+        "1137": {
+            "id": "1137",
+            "name": "Government Schemes 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Government Schemes 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Government%20Schemes%203_EA_20Q.txt",
+            "hash": "8dabcb045cc78e43b3c60ca966bcf4e7"
+        },
+        "1138": {
+            "id": "1138",
+            "name": "RBI & Banking 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/RBI & Banking 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/RBI%20%26%20Banking%202_EA_20Q.txt",
+            "hash": "1049c658d74635aedf921020168a734e"
+        },
+        "1139": {
+            "id": "1139",
+            "name": "Agriculture 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Agriculture 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Agriculture%201_EA_20Q.txt",
+            "hash": "b81f92ae2ed7ced2a6031cf20373a07d"
+        },
+        "1140": {
+            "id": "1140",
+            "name": "Inflation 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Inflation 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Inflation%201_EA_20Q.txt",
+            "hash": "c682a7df87169c9fd1ccf1e112393cd3"
+        },
+        "1141": {
+            "id": "1141",
+            "name": "RBI & Banking 1_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/RBI & Banking 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/RBI%20%26%20Banking%201_EA_20Q.txt",
+            "hash": "3517f7b787dee425402064bb1b90d1d7"
+        },
+        "1142": {
+            "id": "1142",
+            "name": "Basic Economic Concepts 2_EA_25Q.txt",
+            "path": "General Awareness/Indian Economy/Basic Economic Concepts 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Basic%20Economic%20Concepts%202_EA_25Q.txt",
+            "hash": "370c7c18ec826d98fe4cceac011976f6"
+        },
+        "1143": {
+            "id": "1143",
+            "name": "Agriculture 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Agriculture 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Agriculture%202_EA_20Q.txt",
+            "hash": "e752a98ac64cea4d5071d6db6dc735dd"
+        },
+        "1144": {
+            "id": "1144",
+            "name": "Inflation 2_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Inflation 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Inflation%202_EA_20Q.txt",
+            "hash": "9cccc17ff13bb26c1dcabea8761f166e"
+        },
+        "1145": {
+            "id": "1145",
+            "name": "Agriculture 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/Agriculture 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/Agriculture%203_EA_20Q.txt",
+            "hash": "06e5adab4633a33ace738d44e2ac30ea"
+        },
+        "1146": {
+            "id": "1146",
+            "name": "RBI & Banking 3_EA_20Q.txt",
+            "path": "General Awareness/Indian Economy/RBI & Banking 3_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/RBI%20%26%20Banking%203_EA_20Q.txt",
+            "hash": "924617a2ef0afc0e14ef225423f851b8"
         }
     }
 }

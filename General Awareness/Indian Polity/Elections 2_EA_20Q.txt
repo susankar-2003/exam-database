@@ -1,0 +1,179 @@
+1. What is the full form of VVPAT used alongside EVMs?
+
+EVM ৰ সৈতে ব্যৱহৃত VVPAT ৰ সম্পূৰ্ণ ৰূপ কি?
+A) Voter Verified Paper Audit Trail (ভোটাৰ ভেৰিফাইড পেপাৰ অডিট ট্ৰেইল)
+B) Voter Verified Paper Account Track (ভোটাৰ ভেৰিফাইড পেপাৰ একাউণ্ট ট্ৰেক)
+C) Visual Voter Paper Verification Trail (ভিজুৱেল ভোটাৰ পেপাৰ ভেৰিফিকেচন ট্ৰেইল)
+D) Voter Verification Paper Action Track (ভোটাৰ ভেৰিফিকেচন পেপাৰ একশ্যন ট্ৰেক)
+Ans: A
+
+2. In which State of India was EVM used on an experimental basis for the first time in 1982?
+
+১৯৮২ চনত প্ৰথমবাৰৰ বাবে ভাৰতৰ কোনখন ৰাজ্যত পৰীক্ষামূলকভাৱে EVM ব্যৱহাৰ কৰা হৈছিল?
+A) Kerala (কেৰালা)
+B) Goa (গোৱা)
+C) Tamil Nadu (তামিলনাডু)
+D) Maharashtra (মহাৰাষ্ট্ৰ)
+Ans: A
+
+3. Which was the first State in India to conduct general assembly elections using EVMs in all constituencies (1999)?
+
+১৯৯৯ চনত সকলো সমষ্টিত EVM ব্যৱহাৰ কৰি সাধাৰণ বিধানসভা নিৰ্বাচন অনুষ্ঠিত কৰা ভাৰতৰ প্ৰথমখন ৰাজ্য কোনখন?
+A) Kerala (কেৰালা)
+B) Goa (গোৱা)
+C) Rajasthan (ৰাজস্থান)
+D) Gujarat (গুজৰাট)
+Ans: B
+
+4. In which General Lok Sabha Election were EVMs used across all parliamentary constituencies in India for the first time?
+
+কোনটো সাধাৰণ লোকসভা নিৰ্বাচনত সমগ্ৰ ভাৰতৰ সকলো সংসদীয় সমষ্টিতে প্ৰথমবাৰৰ বাবে EVM ব্যৱহাৰ কৰা হৈছিল?
+A) 1999 General Elections (১৯৯৯ চনৰ সাধাৰণ নিৰ্বাচন)
+B) 2004 General Elections (২০০৪ চনৰ সাধাৰণ নিৰ্বাচন)
+C) 2009 General Elections (২০০৯ চনৰ সাধাৰণ নিৰ্বাচন)
+D) 2014 General Elections (২০১৪ চনৰ সাধাৰণ নিৰ্বাচন)
+Ans: B
+
+5. VVPAT was used for the first time in an election in India in 2013 in which State?
+
+২০১৩ চনত ভাৰতৰ কোনখন ৰাজ্যৰ নিৰ্বাচনত প্ৰথমবাৰৰ বাবে VVPAT ব্যৱহাৰ কৰা হৈছিল?
+A) Nagaland (নাগালেণ্ড)
+B) Assam (অসম)
+C) Mizoram (মিজোৰাম)
+D) Meghalaya (মেঘালয়)
+Ans: A
+
+6. The option NOTA (None of the Above) was introduced in Indian ballot papers/EVMs following a Supreme Court directive in which year?
+
+উচ্চতম ন্যায়ালয়ৰ নিৰ্দেশ অনুসৰি কোনটো বছৰত ভাৰতীয় বেলট পেপাৰ/EVM ত NOTA (None of the Above) বিকল্পটো অন্তৰ্ভুক্ত কৰা হৈছিল?
+A) 2010 (২০১০)
+B) 2013 (২০১৩)
+C) 2015 (২০১৫)
+D) 2017 (২০১৭)
+Ans: B
+
+7. Which election system is followed in India for elections to the Lok Sabha and State Legislative Assemblies?
+
+লোকসভা আৰু ৰাজ্যিক বিধানসভা নিৰ্বাচনৰ বাবে ভাৰতত কোনটো নিৰ্বাচনী ব্যৱস্থা অনুসৰণ কৰা হয়?
+A) Proportional Representation (সমানুপাতিক প্ৰতিনিধিত্ব)
+B) First-Past-The-Post System (ফাৰ্ষ্ট-পাষ্ট-দ্য-পোষ্ট ব্যৱস্থা)
+C) Single Transferable Vote System (এক একক হস্তান্তৰযোগ্য ভোট ব্যৱস্থা)
+D) Alternative Vote System (বিকল্প ভোট ব্যৱস্থা)
+Ans: B
+
+8. Which election system is used for the election of the President and Vice-President of India?
+
+ভাৰতৰ ৰাষ্ট্ৰপতি আৰু উপ-ৰাষ্ট্ৰপতি নিৰ্বাচনৰ বাবে কোনটো নিৰ্বাচনী ব্যৱস্থা ব্যৱহাৰ কৰা হয়?
+A) First-Past-The-Post System (ফাৰ্ষ্ট-পাষ্ট-দ্য-পোষ্ট ব্যৱস্থা)
+B) Proportional Representation by means of Single Transferable Vote (এক একক হস্তান্তৰযোগ্য ভোটৰ জৰিয়তে সমানুপাতিক প্ৰতিনিধিত্ব)
+C) Simple Majority System (সৰল সংখ্যাগৰিষ্ঠতা ব্যৱস্থা)
+D) List System (তালিকা ব্যৱস্থা)
+Ans: B
+
+9. Who lays down the Model Code of Conduct (MCC) during elections in India?
+
+ভাৰতত নিৰ্বাচনৰ সময়ত আদৰ্শ আচৰণ বিধি (Model Code of Conduct) কোনে নিৰ্ধাৰণ কৰে?
+A) Supreme Court of India (ভাৰতৰ উচ্চতম ন্যায়ালয়)
+B) Ministry of Law and Justice (আইন আৰু ন্যায় মন্ত্ৰালয়)
+C) Election Commission of India (ভাৰতৰ নিৰ্বাচন আয়োগ)
+D) Parliament of India (ভাৰতৰ সংসদ)
+Ans: C
+
+10. When does the Model Code of Conduct (MCC) come into operation?
+
+আদৰ্শ আচৰণ বিধি (MCC) কেতিয়াৰ পৰা বলৱৎ হয়?
+A) On the date of issuing notification (অধিসূচনা জাৰি কৰা তাৰিখৰ পৰা)
+B) On the date of announcement of election schedule by the EC (নিৰ্বাচন আয়োগে নিৰ্বাচনৰ সময়সূচী ঘোষণা কৰা তাৰিখৰ পৰা)
+C) 30 days before polling (ভোটগ্ৰহণৰ ৩০ দিনৰ আগৰ পৰা)
+D) On the last day of nomination (মনোনয়নৰ অন্তিম দিনৰ পৰা)
+Ans: B
+
+11. Who allocates election symbols to political parties in India?
+
+ভাৰতত ৰাজনৈতিক দলসমূহক নিৰ্বাচনী প্ৰতীক কোনে আৱণ্টন কৰে?
+A) Speaker of Lok Sabha (লোকসভাৰ অধ্যক্ষ)
+B) President of India (ভাৰতৰ ৰাষ্ট্ৰপতি)
+C) Election Commission of India (ভাৰতৰ নিৰ্বাচন আয়োগ)
+D) Law Commission of India (ভাৰতৰ আইন আয়োগ)
+Ans: C
+
+12. Under which Order does the Election Commission register political parties and grant them recognition?
+
+নিৰ্বাচন আয়োগে কোনটো আদেশৰ অধীনত ৰাজনৈতিক দলসমূহক পঞ্জীয়ন আৰু স্বীকৃতি প্ৰদান কৰে?
+A) Representation of the People Act, 1951 (জনপ্ৰতিনিধিত্ব আইন, ১৯৫১)
+B) Election Symbols (Reservation and Allotment) Order, 1968 (নিৰ্বাচনী প্ৰতীক (সংৰক্ষণ আৰু আৱণ্টন) আদেশ, ১৯৬৮)
+C) Delimitation Act, 2002 (সমষ্টি পুনৰ্নিৰ্ধাৰণ আইন, ২০০২)
+D) Conduct of Elections Rules, 1961 (নিৰ্বাচন পৰিচালনা নিয়মাৱলী, ১৯৬১)
+Ans: B
+
+13. Which Act deals with the actual conduct of elections, qualifications/disqualifications of MPs and MLAs, and electoral offenses in India?
+
+ভাৰতত নিৰ্বাচন পৰিচালনা, সাংসদ আৰু বিধায়কসকলৰ যোগ্যতা/অযোগ্যতা আৰু নিৰ্বাচনী অপৰাধৰ সৈতে কোনখন আইন জড়িত?
+A) Representation of the People Act, 1950 (জনপ্ৰতিনিধিত্ব আইন, ১৯৫০)
+B) Representation of the People Act, 1951 (জনপ্ৰতিনিধিত্ব আইন, ১৯৫১)
+C) Delimitation Commission Act, 1952 (সমষ্টি পুনৰ্নিৰ্ধাৰণ আয়োগ আইন, ১৯৫২)
+D) Indian Penal Code, 1860 (ভাৰতীয় দণ্ডবিধি, ১৮৬০)
+Ans: B
+
+14. Which Act primarily deals with the allocation of seats and delimitation of constituencies for elections?
+
+কোনখন আই আইনে মূলতঃ আসন আৱণ্টন আৰু সমষ্টি পুনৰ্নিৰ্ধাৰণৰ সৈতে সম্পৰ্ক ৰাখে?
+A) Representation of the People Act, 1950 (জনপ্ৰতিনিধিত্ব আইন, ১৯৫০)
+B) Representation of the People Act, 1951 (জনপ্ৰতিনিধিত্ব আইন, ১৯৫১)
+C) Election Laws Amendment Act (নিৰ্বাচনী আইন সংশোধনী আইন)
+D) Government of India Act, 1935 (ভাৰত চৰকাৰ আইন, ১৯৩৫)
+Ans: A
+
+15. Who is responsible for the delimitation or redrawing of boundaries of parliamentary and assembly constituencies in India?
+
+ভাৰতত সংসদীয় আৰু বিধানসভা সমষ্টিৰ সীমা পুনৰ্নিৰ্ধাৰণ বা পুনৰ অংকনৰ বাবে কোন দায়ী?
+A) Election Commission alone (কেৱল নিৰ্বাচন আয়োগ)
+B) Delimitation Commission (সমষ্টি পুনৰ্নিৰ্ধাৰণ আয়োগ)
+C) Supreme Court of India (ভাৰতৰ উচ্চতম ন্যায়ালয়)
+D) Planning Commission (পৰিকল্পনা আয়োগ)
+Ans: B
+
+16. Who appoints the Delimitation Commission of India?
+
+ভাৰতৰ সমষ্টি পুনৰ্নিৰ্ধাৰণ আয়োগক কোনে নিযুক্তি দিয়ে?
+A) Prime Minister (প্ৰধানমন্ত্ৰী)
+B) Chief Justice of India (ভাৰতৰ মুখ্য ন্যায়াধীশ)
+C) President of India (ভাৰতৰ ৰাষ্ট্ৰপতি)
+D) Speaker of Lok Sabha (লোকসভাৰ অধ্যক্ষ)
+Ans: C
+
+17. The orders issued by the Delimitation Commission CANNOT be challenged in which authority?
+
+সমষ্টি পুনৰ্নিৰ্ধাৰণ আয়োগে জাৰি কৰা আদেশসমূহ ক'ত প্ৰত্যাহ্বান জনাব নোৱাৰি?
+A) Supreme Court of India (ভাৰতৰ উচ্চতম ন্যায়ালয়)
+B) High Court (উচ্চ ন্যায়ালয়)
+C) Any Court of Law (যিকোনো আদালতত)
+D) Parliament (সংসদ)
+Ans: C
+
+18. According to the 84th Constitutional Amendment Act, 2001, the freeze on the total number of seats in Lok Sabha and Assemblies continues till which year?
+
+৮৪তম সাংবিধানিক সংশোধনী আইন, ২০০১ অনুসৰি লোকসভা আৰু বিধানসভাৰ মুঠ আসনৰ সংখ্যাৰ স্থাৱৰতা কোনটো বছৰলৈ বহাল থাকিব?
+A) 2020 (২০২০)
+B) 2026 (২০২৬)
+C) 2030 (২০৩০)
+D) 2050 (২০৫০)
+Ans: B
+
+19. The total number of seats frozen in Lok Sabha and Assemblies was based on which Census data?
+
+লোকসভা আৰু বিধানসভাৰ আসন সংৰক্ষণ মূলত কোনটো লোকপিয়লৰ তথ্যৰ ওপৰত ভিত্তি কৰি কৰা হৈছিল?
+A) 1971 Census (১৯৭১ চনৰ লোকপিয়ল)
+B) 1981 Census (১৯৮১ চনৰ লোকপিয়ল)
+C) 1991 Census (১৯৯১ চনৰ লোকপিয়ল)
+D) 2001 Census (২০০১ চনৰ লোকপিয়ল)
+Ans: A
+
+20. What is the security deposit amount for a general candidate contesting the Lok Sabha election?
+
+লোকসভা নিৰ্বাচনত অৱতীৰ্ণ হোৱা এজন সাধাৰণ প্ৰাৰ্থীৰ আমানত ধন (Security Deposit) কিমান?
+A) Rs. 10,000 (১০,০০০ টকা)
+B) Rs. 15,000 (১৫,০০০ টকা)
+C) Rs. 25,000 (২৫,০০০ টকা)
+D) Rs. 50,000 (৫০,০০০ টকা)
+Ans: C

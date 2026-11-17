@@ -1,0 +1,224 @@
+1. Which instrument is used to measure and record the intensity of seismic waves during an earthquake?
+
+ভূমিকম্পৰ সময়ত ভূকম্পীয় তৰংগৰ তীব্রতা জোখা আৰু ৰেকৰ্ড কৰাৰ বাবে কোনটো যন্ত্ৰ ব্যৱহাৰ কৰা হয়?
+A) Barometer (বেৰ’মিটাৰ)
+B) Seismograph (ছিছম’গ্ৰাফ)
+C) Thermometer (ফাৰ্ম’মিটাৰ)
+D) Hygrometer (হাইড্ৰ’মিটাৰ)
+Ans: B
+
+2. What is the point inside the Earth's crust where an earthquake originates called?
+
+পৃথিৱীৰ ভূ-ত্বকৰ ভিতৰত যিটো স্থানত ভূমিকম্পৰ উৎপত্তি হয়, তাক কি বোলা হয়?
+A) Epicenter (উপকেন্দ্ৰ / এপিচেণ্টাৰ)
+B) Focus / Hypocenter (কেন্দ্ৰ / হাইপ’চেণ্টাৰ)
+C) Fault line (চ্যুত্য ৰেখা)
+D) Crater (আগ্নেয়গিৰিৰ মুখ)
+Ans: B
+
+3. The point on the Earth's surface directly above the focus of an earthquake is known as what?
+
+ভূমিকম্পৰ কেন্দ্ৰৰ ঠিক ওপৰত পৃথিৱীৰ পৃষ্ঠত থকা বিন্দুটোক কি বোলা হয়?
+A) Focus (কেন্দ্ৰ)
+B) Epicenter (উপকেন্দ্ৰ / এপিচেণ্টাৰ)
+C) Fault (চ্যুত্য)
+D) Seismic Zone (ভূকম্পীয় অঞ্চল)
+Ans: B
+
+4. Which scale is commonly used to measure the magnitude of an earthquake?
+
+ভূমিকম্পৰ প্ৰাবল্য বা মাত্ৰা (Magnitude) জোখাৰ বাবে সাধাৰণতে কোনটো স্কেল ব্যৱহাৰ কৰা হয়?
+A) Kelvin Scale (কেলভিন স্কেল)
+B) Richter Scale (ৰিখটাৰ স্কেল)
+C) Beaufort Scale (বিউফৰ্ট স্কেল)
+D) Decibel Scale (ডেচিবেল স্কেল)
+Ans: B
+
+5. Which seismic waves are the fastest and reach the Earth's surface first?
+
+কোনবোৰ ভূকম্পীয় তৰংগ আটাইতকৈ দ্ৰুত আৰু পৃথিৱীৰ পৃষ্ঠত প্ৰথমে উপনীত হয়?
+A) Secondary Waves / S-Waves (গৌণ তৰংগ / এছ-তৰংগ)
+B) Primary Waves / P-Waves (প্ৰাথমিক তৰংগ / পি-তৰংগ)
+C) Surface Waves / L-Waves (পৃষ্ঠ তৰংগ / এল-তৰংগ)
+D) Rayleigh Waves (ৰেলি তৰংগ)
+Ans: B
+
+6. Which seismic waves can travel through solids, liquids, and gases?
+
+কোনবোৰ ভূকম্পীয় তৰংগ কঠিন, জুলীয়া আৰু গেছীয়—তিনিওটা মাধ্যমৰ মাজেৰে প্ৰবাহিত হ’ব পাৰে?
+A) S-Waves (এছ-তৰংগ)
+B) P-Waves (পি-তৰংগ)
+C) L-Waves (এল-তৰংগ)
+D) Love Waves ( লাভ তৰংগ)
+Ans: B
+
+7. Which seismic waves can travel ONLY through solids?
+
+কোনবোৰ ভূকম্পীয় তৰংগ কেৱল কঠিন মাধ্যমৰ মাজেৰেহে প্ৰবাহিত হ’ব পাৰে?
+A) P-Waves (পি-তৰংগ)
+B) S-Waves (এছ-তৰংগ)
+C) Sound Waves (শব্দ তৰংগ)
+D) Radio Waves (ৰেডিঅ’ তৰংগ)
+Ans: B
+
+8. Which type of seismic waves cause the maximum damage on the Earth's surface?
+
+কোন প্ৰকাৰৰ ভূকম্পীয় তৰংগই পৃথিৱীৰ পৃষ্ঠত আটাইতকৈ বেছি ক্ষতিসাধন কৰে?
+A) Primary Waves (প্ৰাথমিক তৰংগ)
+B) Surface Waves / L-Waves (পৃষ্ঠ তৰংগ / এল-তৰংগ)
+C) Secondary Waves (গৌণ তৰংগ)
+D) Deep Waves (গভীৰ তৰংগ)
+Ans: B
+
+9. Mercalli Scale is used to measure which aspect of an earthquake?
+
+মাৰ্কালি স্কেল (Mercalli Scale) ভূমিকম্পৰ কোনটো দিশ জোখাৰ বাবে ব্যৱহাৰ কৰা হয়?
+A) Magnitude (প্ৰাবল্য)
+B) Intensity / Damage (তীব্ৰতা / ক্ষয়-ক্ষতি)
+C) Speed of waves (তৰংগৰ গতি)
+D) Depth of focus (কেন্দ্ৰৰ গভীৰতা)
+Ans: B
+
+10. What is the Pacific 'Ring of Fire' famous for?
+
+প্ৰশান্ত মহাসাগৰীয় 'ৰিং অৱ ফায়াৰ' (Ring of Fire) কিহৰ বাবে বিখ্যাত?
+A) High tides and ocean currents (উচ্চ জোৱাৰ আৰু সামুদ্ৰিক প্ৰবাহ)
+B) Frequent earthquakes and volcanic eruptions (ঘন ঘন ভূমিকম্প আৰু আগ্নেয়গিৰিৰ উদগীৰণ)
+C) Coral reefs (প্ৰৱাল প্ৰাচীৰ)
+D) Deep ocean trenches (গভীৰ সামুদ্ৰিক গাত)
+Ans: B
+
+11. Which volcano is known as the 'Lighthouse of the Mediterranean'?
+
+কোনটো আগ্নেয়গিৰিক 'ভূমধ্যসাগৰৰ পোহৰঘৰ' (Lighthouse of the Mediterranean) বুলি জনা যায়?
+A) Mount Vesuvius (মাউন্ট ভেলুভিয়াছ)
+B) Stromboli (ষ্ট্ৰম্বোলি)
+C) Mount Etna (মাউন্ট এটনা)
+D) Mount Fuji (মাউন্ট ফুজি)
+Ans: B
+
+12. Which volcano is the world's highest active volcano?
+
+বিশ্বৰ আটাইতকৈ ওখ সক্ৰিয় আগ্নেয়গিৰি কোনটো?
+A) Mount Kilimanjaro (মাউন্ট কিলিমাঞ্জাৰ’)
+B) Ojos del Salado (ওজ’ছ ডেল ছালাড’)
+C) Mount Mauna Loa (মাউন্ট মৌনা লোৱা)
+D) Mount Cotopaxi (মাউন্ট কোটোপাক্সি)
+Ans: B
+
+13. Mauna Loa, one of the largest active volcanoes in the world, is located in which region?
+
+বিশ্বৰ অন্যতম বৃহৎ সক্ৰিয় আগ্নেয়গিৰি মৌনা লোৱা (Mauna Loa) কোনটো অঞ্চলত অৱস্থিত?
+A) Japan (জাপান)
+B) Hawaii, USA (হাৱাই, আমেৰিকা যুক্তৰাষ্ট্ৰ)
+C) Italy (ইটালী)
+D) Indonesia (ইণ্ডোনেছিয়া)
+Ans: B
+
+14. Mount Vesuvius and Mount Etna are active volcanoes located in which country?
+
+মাউন্ট ভেলুভিয়াছ আৰু মাউন্ট এটনা কোনখন দেশত অৱস্থিত সক্ৰিয় আগ্নেয়গিৰি?
+A) Greece (গ্ৰীচ)
+B) Italy (ইটালী)
+C) Spain (স্পেইন)
+D) Mexico (মেক্সিকো)
+Ans: B
+
+15. What is molten rock material present inside the Earth's surface called?
+
+পৃথিৱীৰ অভ্যন্তৰত থকা গলিত শিলাখণ্ডৰ পদাৰ্থখিনিক কি বোলা হয়?
+A) Lava (লাভা)
+B) Magma (মেগমা)
+C) Basalt (বেছাল্ট)
+D) Ash (ছাই)
+Ans: B
+
+16. What is the molten rock that reaches the surface of the Earth during a volcanic eruption called?
+
+আগ্নেয়গিৰিৰ উদগীৰণৰ সময়ত পৃথিৱীৰ পৃষ্ঠলৈ ওলাই অহা গলিত শিলাখণ্ডক কি বোলা হয়?
+A) Magma (মেগমা)
+B) Lava (লাভা)
+C) Granite (গ্ৰেনাইট)
+D) Pumice (পামিস)
+Ans: B
+
+17. A bowl-shaped depression at the mouth of a volcano is known as what?
+
+আগ্নেয়গিৰিৰ মুখত থকা বাটি আকৃতিৰ গাতটো বা গহ্বৰটোক কি বুলি জনা যায়?
+A) Caldera (কালডেৰা)
+B) Crater (ক্ৰেটাৰ / আগ্নেয় মুখ)
+C) Vent (ভেণ্ট)
+D) Geyser (গিজাৰ)
+Ans: B
+
+18. What is a very large crater formed by the collapse of a volcano cone called?
+
+আগ্নেয়গিৰিৰ শংকু ভাঙি পৰাৰ ফলত গঠিত হোৱা বিশাল আকৃতিৰ গহ্বৰটোক কি বোলা হয়?
+A) Crater (ক্ৰেটাৰ)
+B) Caldera (কালডেৰা)
+C) Dyke (ডাইক)
+D) Sill (ছিল)
+Ans: B
+
+19. Mount Fuji, an iconic dormant volcano, is located in which country?
+
+প্ৰসিদ্ধ সুপ্ত আগ্নেয়গিৰি মাউন্ট ফুজি কোনখন দেশত অৱস্থিত?
+A) China (চীন)
+B) Japan (জাপান)
+C) Philippines (ফিলি পাইনছ)
+D) Indonesia (ইণ্ডোনেছিয়া)
+Ans: B
+
+20. Which volcano erupted violently in 1883 in Indonesia, causing massive tsunamis?
+
+১৮৮৩ চনত ইণ্ডোনেছিয়াত কোনটো আগ্নেয়গিৰিৰ প্ৰচণ্ড উদগীৰণ হৈ বিশাল ছুনামীৰ সৃষ্টি হৈছিল?
+A) Mount Pinatubo (মাউন্ট পিনাতুব’)
+B) Krakatoa (ক্ৰাকাতোৱা)
+C) Mount Tambora (মাউন্ট তামবোৰা)
+D) Mount Merapi (মাউন্ট মেৰাপি)
+Ans: B
+
+21. What are giant ocean waves caused by underwater earthquakes or volcanic eruptions called?
+
+পানীৰ তলৰ ভূমিকম্প বা আগ্নেয় উদগীৰণৰ ফলত সৃষ্টি হোৱা বিশাল সামুদ্ৰিক ঢৌক কি বোলা হয়?
+A) Tides (জোৱাৰ-ভাটা)
+B) Tsunamis (ছুনামী)
+C) Ocean Currents (সামুদ্ৰিক প্ৰবাহ)
+D) Waves (তৰংগ)
+Ans: B
+
+22. Barren Island, the only active volcano in South Asia, is located in which region?
+
+দক্ষিণ এছিয়াৰ একমাত্ৰ সক্ৰিয় আগ্নেয়গিৰি বাৰেন দ্বীপ (Barren Island) কোনটো অঞ্চলত অৱস্থিত?
+A) Lakshadweep (লক্ষদ্বীপ)
+B) Andaman and Nicobar Islands (আন্দামান আৰু নিকোবৰ দ্বীপপুঞ্জ)
+C) Maldives (মালদ্বীপ)
+D) Sri Lanka (শ্ৰীলংকা)
+Ans: B
+
+23. A natural hot spring that periodically ejects water and steam into the air is known as what?
+
+সময়ে সময়ে পানী আৰু ভাপ বায়ুমণ্ডললৈ নিক্ষেপ কৰা প্ৰাকৃতিক গৰম পানীৰ উহটোক কি বুলি জনা যায়?
+A) Crater (ক্ৰেটাৰ)
+B) Geyser (গিজাৰ)
+C) Caldera (কালডেৰা)
+D) Fumarole (ফিউমাৰোল)
+Ans: B
+
+24. Old Faithful, a world-famous geyser, is located in which national park?
+
+বিশ্ব প্ৰসিদ্ধ গিজাৰ 'অ’ল্ড ফেথফুল' (Old Faithful) কোনটো ৰাষ্ট্ৰীয় উদ্যানত অৱস্থিত?
+A) Banff National Park (বেংফ ৰাষ্ট্ৰীয় উদ্যান)
+B) Yellowstone National Park (ইয়েল’ষ্ট’ন ৰাষ্ট্ৰীয় উদ্যান)
+C) Kruger National Park (ক্ৰুগাৰ ৰাষ্ট্ৰীয় উদ্যান)
+D) Yosemite National Park (ইয়োচেমিটি ৰাষ্ট্ৰীয় উদ্যান)
+Ans: B
+
+25. The study of earthquakes and seismic waves is known as what?
+
+ভূমিকম্প আৰু ভূকম্পীয় তৰংগৰ অধ্যয়নক কি বুলি জনা যায়?
+A) Volcanology (ভাৰ আগ্নেয়গিৰি বিজ্ঞান)
+B) Seismology (ছিছম’লজী / ভূকম্প বিজ্ঞান)
+C) Geology (ভূ-বিজ্ঞান)
+D) Geomorphology (ভূ-আকৃতি বিজ্ঞান)
+Ans: B

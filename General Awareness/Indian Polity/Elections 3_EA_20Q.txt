@@ -1,0 +1,179 @@
+1. A candidate contesting an election loses his security deposit if he fails to secure what fraction of total valid votes polled?
+
+ভোটগ্ৰহণ হোৱা মুঠ বৈধ ভোটৰ কিমান অংশ লাভ কৰিবলৈ ব্যৰ্থ হ'লে এজন প্ৰাৰ্থীৰ আমানত ধন বাজেয়াপ্ত হয়?
+A) 1/10th (১/১০ অংশ)
+B) 1/6th (১/৬ অংশ)
+C) 1/4th (১/৪ অংশ)
+D) 1/3rd (১/৩ অংশ)
+Ans: B
+
+2. What is the minimum age required to contest election for the Lok Sabha or Legislative Assembly?
+
+লোকসভা বা বিধানসভা নিৰ্বাচনত প্ৰতিদ্বন্দ্বিতা কৰাৰ বাবে ন্যূনতম বয়স কিমান হ'ব লাগে?
+A) 18 years (১৮ বছৰ)
+B) 21 years (২১ বছৰ)
+C) 25 years (২৫ বছৰ)
+D) 30 years (৩০ বছৰ)
+Ans: C
+
+3. What is the minimum age required to contest election for the Rajya Sabha or Legislative Council?
+
+ৰাজ্যসভা বা বিধান পৰিষদ নিৰ্বাচনত প্ৰতিদ্বন্দ্বিতা কৰাৰ বাবে ন্যূনতম বয়স কিমান হ'ব লাগে?
+A) 21 years (২১ বছৰ)
+B) 25 years (২৫ বছৰ)
+C) 30 years (৩০ বছৰ)
+D) 35 years (৩৫ বছৰ)
+Ans: C
+
+4. What is the minimum age required to contest Panchayat or Municipal elections in India?
+
+ভাৰতত পঞ্চায়ত বা পৌৰসভা নিৰ্বাচনত প্ৰতিদ্বন্দ্বিতা কৰাৰ বাবে ন্যূনতম বয়স কিমান হ'ব লাগে?
+A) 18 years (১৮ বছৰ)
+B) 21 years (২১ বছৰ)
+C) 25 years (২৫ বছৰ)
+D) 30 years (৩০ বছৰ)
+Ans: B
+
+5. Who is the Chief Electoral Officer (CEO) at the State level?
+
+ৰাজ্যিক পৰ্যায়ত মুখ্য নিৰ্বাচনী বিষয়া (CEO) কোন?
+A) An officer appointed by the State Government alone (কেৱল ৰাজ্য চৰকাৰে নিযুক্তি দিয়া বিষয়া)
+B) An officer designated by the Election Commission in consultation with State Govt (ৰাজ্য চৰকাৰৰ সৈতে পৰামৰ্শ কৰি নিৰ্বাচন আয়োগে মনোনীত কৰা বিষয়া)
+C) The Governor of the State (ৰাজ্যৰ ৰাজ্যপাল)
+D) The High Court Chief Justice (উচ্চ ন্যায়ালয়ৰ মুখ্য ন্যায়াধীশ)
+Ans: B
+
+6. Who acts as the District Election Officer (DEO) during elections at the district level?
+
+জিলা পৰ্যায়ত নিৰ্বাচনৰ সময়ত জিলা নিৰ্বাচন বিষয়া (DEO) হিচাপে কোনে কাৰ্যনিৰ্বাহ কৰে?
+A) Superintendent of Police (আৰক্ষী অধীক্ষক)
+B) District Collector/Magistrate (জিলা উপায়ুক্ত/দণ্ডাধীশ)
+C) Sub-Divisional Officer (মহকুমাাধিপতি)
+D) Block Development Officer (খণ্ড উন্নয়ন বিষয়া)
+Ans: B
+
+7. Who is the officer directly responsible for conducting elections in a specific constituency?
+
+নিৰ্দিষ্ট নিৰ্বাচনী সমষ্টি এটাত নিৰ্বাচন পৰিচালনাৰ বাবে প্ৰত্যক্ষভাৱে দায়ী বিষয়াগৰাকী কোন?
+A) Returning Officer (ৰিটানিং বিষয়া)
+B) Presiding Officer (পীঠাসীন বিষয়া)
+C) Polling Officer (পোলোং বিষয়া)
+D) Electoral Registration Officer (নিৰ্বাচনী পঞ্জীয়ন বিষয়া)
+Ans: A
+
+8. Who is the officer in charge of a single polling booth during voting?
+
+ভোটগ্ৰহণৰ সময়ত এটা ভোটগ্ৰহণ কেন্দ্ৰৰ দায়িত্বত থকা বিষয়াগৰাকী কোন?
+A) Returning Officer (ৰিটানিং বিষয়া)
+B) Presiding Officer (পীঠাসীন বিষয়া)
+C) District Election Officer (জিলা নিৰ্বাচন বিষয়া)
+D) Sector Officer (ছেক্টৰ বিষয়া)
+Ans: B
+
+9. Under Article 329, courts are barred from interfering in which matters?
+
+অনুচ্ছেদ ৩২৯ ৰ অধীনত আদালতসমূহক কোনবোৰ বিষয়ত হস্তক্ষেপ কৰাৰ পৰা বাৰণ কৰা হৈছে?
+A) Electoral matters including delimitation and allocation of seats (সমষ্টি পুনৰ্নিৰ্ধাৰণ আৰু আসন আৱণ্টন ধৰি নিৰ্বাচনী বিষয়সমূহ)
+B) Criminal cases against politicians (ৰাজনীতিবিদসকলৰ বিৰুদ্ধে ফৌজদাৰী গোচৰ)
+C) Fundamental Rights violation (মৌলিক অধিকাৰ উলংঘন)
+D) Disqualifications under Anti-Defection law (দলত্যাগ বিৰোধী আইনৰ অধীনত অযোগ্যতা)
+Ans: A
+
+10. An election petition challenging the election of a Member of Parliament or State Legislature is filed in which court?
+
+সংসদ সদস্য বা ৰাজ্যিক বিধানসভাৰ সদস্যৰ নিৰ্বাচনক প্ৰত্যাহ্বান জনাই নিৰ্বাচনী আবেদন (Election Petition) কোন আদালতত তৰা হয়?
+A) District Court (জিলা আদালত)
+B) High Court of the concerned State (সম্পৰ্কিত ৰাজ্যৰ উচ্চ ন্যায়ালয়)
+C) Supreme Court directly (প্ৰত্যক্ষভাৱে উচ্চতম ন্যায়ালয়ত)
+D) Election Commission (নিৰ্বাচন আয়োগত)
+Ans: B
+
+11. Any dispute regarding the election of the President or Vice-President of India is inquired into and decided exclusively by whom?
+
+ভাৰতৰ ৰাষ্ট্ৰপতি বা উপ-ৰাষ্ট্ৰপতি নিৰ্বাচন সংক্ৰান্তীয় যিকোনো বিবাদৰ তদন্ত আৰু চূড়ান্ত সিদ্ধান্ত কেৱল কোনে কৰে?
+A) Election Commission of India (ভাৰতৰ নিৰ্বাচন আয়োগ)
+B) Parliament of India (ভাৰতৰ সংসদ)
+C) Supreme Court of India (ভাৰতৰ উচ্চতম ন্যায়ালয়)
+D) Special Election Tribunal (বিশেষ নিৰ্বাচন ট্ৰাইবিউনাল)
+Ans: C
+
+12. The Anti-Defection Law was added to the Constitution by which Amendment in 1985?
+
+১৯৮৫ চনত কোনটো সংশোধনীৰ জৰিয়তে সংবিধানত দলত্যাগ বিৰোধী আইন (Anti-Defection Law) যোগ কৰা হৈছিল?
+A) 42nd Amendment (৪২তম সংশোধনী)
+B) 44th Amendment (৪৪তম সংশোধনী)
+C) 52nd Amendment (৫২তম সংশোধনী)
+D) 61st Amendment (৬১তম সংশোধনী)
+Ans: C
+
+13. Which Schedule was added to the Constitution of India by the 52nd Amendment Act regarding Anti-Defection?
+
+দলত্যাগ সংক্ৰান্তীয় ৫২তম সংশোধনী আইনৰ জৰিয়তে ভাৰতীয় সংবিধানত কোনটো অনুসূচী যোগ কৰা হৈছিল?
+A) 8th Schedule (অষ্টম অনুসূচী)
+B) 9th Schedule (নৱম অনুসূচী)
+C) 10th Schedule (দশম অনুসূচী)
+D) 11th Schedule (একাদশ অনুসূচী)
+Ans: C
+
+14. Who is the final authority to decide on disqualification of a member under the Anti-Defection Law?
+
+দলত্যাগ বিৰোধী আইনৰ অধীনত সদস্য এজনৰ অযোগ্যতাৰ বিষয়ে সিদ্ধান্ত লোৱাৰ চূড়ান্ত কৰ্তৃত্ব কাৰ আছে?
+A) President / Governor (ৰাষ্ট্ৰপতি / ৰাজ্যপাল)
+B) Presiding Officer of the respective House (Speaker/Chairman) (সম্পৰ্কিত সদনৰ অধ্যক্ষ/সভাপতি)
+C) Election Commission (নিৰ্বাচন আয়োগ)
+D) Supreme Court (উচ্চতম ন্যায়ালয়)
+Ans: B
+
+15. On grounds other than anti-defection, who decides the disqualification of a Member of Parliament after obtaining opinion of the Election Commission?
+
+দলত্যাগৰ উপৰি অন্যান্য কাৰণত লোকসভা/ৰাজ্যসভাৰ সদস্যৰ অযোগ্যতাৰ বিষয়ে নিৰ্বাচন আয়োগৰ মতামত লৈ কোনে সিদ্ধান্ত দিয়ে?
+A) Speaker of Lok Sabha (লোকসভাৰ অধ্যক্ষ)
+B) Prime Minister (প্ৰধানমন্ত্ৰী)
+C) President of India (ভাৰতৰ ৰাষ্ট্ৰপতি)
+D) Chief Justice of India (ভাৰতৰ মুখ্য ন্যায়াধীশ)
+Ans: C
+
+16. To be recognized as a National Party in India, a political party must be recognized as a State Party in at least how many States?
+
+ভাৰতত ৰাষ্ট্ৰীয় দল হিচাপে স্বীকৃতি পাবলৈ এটা ৰাজনৈতিক দলে অন্ততঃ কেইখন ৰাজ্যত ৰাজ্যিক দলৰ স্বীকৃতি পাব লাগিব?
+A) 2 States (২ খন ৰাজ্য)
+B) 3 States (৩ খন ৰাজ্য)
+C) 4 States (৪ খন ৰাজ্য)
+D) 5 States (৫ খন ৰাজ্য)
+Ans: C
+
+17. Which committee was constituted in 1990 to give recommendations on Electoral Reforms in India?
+
+ভাৰতত নিৰ্বাচনী সংস্কাৰৰ বাবে পৰামৰ্শ আগবঢ়াবলৈ ১৯৯০ চনত কোনখন কমিটি গঠন কৰা হৈছিল?
+A) Dinesh Goswami Committee (দিনেশ গোস্বামী কমিটি)
+B) Sarkaria Commission (চৰকাৰীয়া আয়োগ)
+C) Balwant Rai Mehta Committee (বলৱন্ত ৰায় মেহতা কমিটি)
+D) Kothari Commission (কোঠাৰী আয়োগ)
+Ans: A
+
+18. Indrajit Gupta Committee (1998) was set up specifically to examine which electoral issue?
+
+ইন্দ্ৰজিৎ গুপ্ত কমিটি (১৯৯৮) বিশেষভাৱে কোনটো নিৰ্বাচনী বিষয় পৰীক্ষা কৰিবলৈ গঠন কৰা হৈছিল?
+A) Voting age reduction (ভোটাধিকাৰৰ বয়স হ্ৰাস)
+B) State Funding of Elections (নিৰ্বাচনত চৰকাৰী বিত্তীয় সাহায্য)
+C) Use of EVMs (EVM ৰ ব্যৱহাৰ)
+D) Anti-defection law (দলত্যাগ বিৰোধী আইন)
+Ans: B
+
+19. Electoral Bonds scheme was introduced in India in which year to clean up political donation system?
+
+ৰাজনৈতিক অনুদান ব্যৱস্থা স্বচ্ছ কৰাৰ উদ্দেশ্যে কোনটো বছৰত ভাৰতত ইলেক্ট্ৰৰেল বণ্ড আঁচনি আৰম্ভ কৰা হৈছিল?
+A) 2014 (২০১৪)
+B) 2017 (২০১৭)
+C) 2018 (২০১৮)
+D) 2020 (২০২০)
+Ans: C
+
+20. In February 2024, which Constitutional Bench of the Supreme Court struck down the Electoral Bonds scheme as unconstitutional?
+
+২০২৪ চনৰ ফেব্ৰুৱাৰী মাহত উচ্চতম ন্যায়ালয়ৰ কোনখন সাংবিধানিক বেঞ্চে ইলেক্ট্ৰৰেল বণ্ড আঁচনিক অসাংবিধানিক বুলি বাতিল কৰিছিল?
+A) 3-Judge Bench (৩ জনীয়া ন্যায়াধীশৰ বেঞ্চ)
+B) 5-Judge Constitution Bench (৫ জনীয়া সাংবিধানিক বেঞ্চ)
+C) 7-Judge Constitution Bench (৭ জনীয়া সাংবিধানিক বেঞ্চ)
+D) 9-Judge Constitution Bench (৯ জনীয়া সাংবিধানিক বেঞ্চ)
+Ans: B

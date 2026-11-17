@@ -1,0 +1,224 @@
+1. Which country in the world covers the maximum number of time zones officially?
+
+বিশ্বৰ কোনখন দেশত চৰকাৰীভাৱে সৰ্বাধিক সংখ্যক সময় অঞ্চল (Time Zones) আছে?
+A) Russia (ৰাছিয়া)
+B) France (ফ্ৰান্স)
+C) USA (আমেৰিকা যুক্তৰাষ্ট্ৰ)
+D) China ( চীন)
+Ans: B
+
+2. How many mainland time zones does Russia span across geographically?
+
+ৰাছিয়াই ভৌগোলিকভাৱে কেইটা সময় অঞ্চল (Time Zones) আগুৰি আছে?
+A) 9 (৯)
+B) 11 (১১)
+C) 12 (১২)
+D) 7 (৭)
+Ans: B
+
+3. Which Indian state is the first to experience sunrise every morning due to its easternmost longitude?
+
+প্ৰত্যেক পুৱা আটাইতকৈ পূবৰ দ্ৰাঘিমাংশত থকাৰ বাবে ভাৰতৰ কোনখন ৰাজ্যত প্ৰথমে সূৰ্যোদয় হয়?
+A) Assam (অসম)
+B) Arunachal Pradesh (অৰুণাচল প্ৰদেশ)
+C) Nagaland (নাগালেণ্ড)
+D) Manipur (মণিপুৰ)
+Ans: B
+
+4. What is the approximate local time difference between the easternmost point (Dong) and westernmost point (Ghar Mota) of India?
+
+ভাৰতৰ আটাইতকৈ পূবৰ বিন্দু আৰু পশ্চিমৰ বিন্দুৰ মাজত স্থানীয় সময়ৰ পাৰ্থক্য আনুমানিক কিমান?
+A) 1 hour (১ ঘণ্টা)
+B) 2 hours (২ ঘণ্টা)
+C) 3 hours (৩ ঘণ্টা)
+D) 30 minutes (৩০ মিনিট)
+Ans: B
+
+5. Which ocean is intersected by both the Equator and the Prime Meridian at zero degree latitude and zero degree longitude?
+
+শূন্য ডিগ্ৰী অক্ষৰেখা আৰু শূন্য ডিগ্ৰী দ্ৰাঘিমা ৰেখাই (0°N/S, 0°E/W) কোনখন মহাসাগৰত ইটোৱে সিটোক ছেদ কৰে?
+A) Pacific Ocean (প্ৰশান্ত মহাসাগৰ)
+B) Atlantic Ocean / Gulf of Guinea (আটলান্টিক মহাসাগৰ / গিনী উপসাগৰ)
+C) Indian Ocean (ভাৰত মহাসাগৰ)
+D) Southern Ocean (দক্ষিণ মহাসাগৰ)
+Ans: B
+
+6. Which is the only continent through which all three main latitude lines - Equator, Tropic of Cancer, and Tropic of Capricorn pass?
+
+বিষুৱৰেখা, কৰ্কট ক্ৰান্তি ৰেখা আৰু মকৰ ক্ৰান্তি ৰেখা - এই তিনিউটা মূল অক্ষৰেখা পাৰ হৈ যোৱা একমাত্ৰ মহাদেশখন কি?
+A) Asia (এছিয়া)
+B) Africa (আফ্ৰিকা)
+C) South America (দক্ষিণ আমেৰিকা)
+D) Australia (অষ্ট্ৰেলিয়া)
+Ans: B
+
+7. Through which of the following South American countries does the Equator pass?
+
+ত তলৰ কোনখন দক্ষিণ আমেৰিকান দেশৰ মাজেৰে বিষুৱৰেখা পাৰ হৈ গৈছে?
+A) Argentina (আৰ্জেণ্টিনা)
+B) Ecuador, Colombia, and Brazil (ইকুৱেডৰ, কলম্বিয়া আৰু ব্ৰাজিল)
+C) Peru (পেৰু)
+D) Chile (চিলি)
+Ans: B
+
+8. Which latitude line divides India into almost two equal geographic halves?
+
+কোনটো অক্ষৰেখাই ভাৰতক প্ৰায় দুটা সমান ভৌগোলিক ভাগত বিভক্ত কৰিছে?
+A) Equator (বিষুৱৰেখা)
+B) Tropic of Cancer (কৰ্কট ক্ৰান্তি ৰেখা)
+C) Tropic of Capricorn (মকৰ ক্ৰান্তি ৰেখা)
+D) 30° North Latitude (৩০° উত্তৰ অক্ষৰেখা)
+Ans: B
+
+9. How many Indian states does the Tropic of Cancer pass through?
+
+কৰ্কট ক্ৰান্তি ৰেখা ভাৰতৰ কেইখন ৰাজ্যৰ মাজেৰে পাৰ হৈ গৈছে?
+A) 7 (৭)
+B) 8 (৮)
+C) 9 (৯)
+D) 6 (৬)
+Ans: B
+
+10. Which of the following North Eastern Indian states does the Tropic of Cancer pass through?
+
+উত্তৰ-পূব ভাৰতৰ তলৰ কোনকেইখন ৰাজ্যৰ মাজেৰে কৰ্কট ক্ৰান্তি ৰেখা পাৰ হৈ গৈছে?
+A) Assam and Meghalaya (অসম আৰু মেঘালয়)
+B) Tripura and Mizoram (ত্ৰিপুৰা আৰু মিজোৰাম)
+C) Manipur and Nagaland (মণিপুৰ আৰু নাগালেণ্ড)
+D) Arunachal Pradesh and Sikkim (অৰুণাচল প্ৰদেশ আৰু ছিকিম)
+Ans: B
+
+11. Which River in India crosses the Tropic of Cancer twice?
+
+ভাৰতৰ কোনখন নদীয়ে কৰ্কট ক্ৰান্তি ৰেখাক দুবাৰ অতিক্ৰম কৰিছে?
+A) Narmada (নৰ্মদা)
+B) Mahi River (মাহী নদী)
+C) Tapti (তাপ্তি)
+D) Godavari (গোদাৱৰী)
+Ans: B
+
+12. Which African river crosses the Equator twice along its course?
+
+আফ্ৰিকাৰ কোনখন নদীয়ে তাৰ গতিপথত বিষুৱৰেখাক দুবাৰ অতিক্ৰম কৰিছে?
+A) Nile (নীল নদ)
+B) Congo River / Zaire ( কংগো নদী / জায়ৰে)
+C) Niger (নাইজাৰ)
+D) Zambezi (জাম্বেজী)
+Ans: B
+
+13. Which river crosses the Tropic of Capricorn twice in Southern Africa?
+
+দক্ষিণ আফ্ৰিকাত মকৰ ক্ৰান্তি ৰেখাক দুবাৰ অতিক্ৰম কৰা নদীখন কি?
+A) Orange River (অৰেঞ্জ নদী)
+B) Limpopo River (লিৰ্ম্পোপো নদী)
+C) Zambezi (জাম্বেজী)
+D) Congo (কংগো)
+Ans: B
+
+14. What is the region between the Tropic of Cancer and Tropic of Capricorn called climatically?
+
+কৰ্কট ক্ৰান্তি ৰেখা আৰু মকৰ ক্ৰান্তি ৰেখাৰ মাজৰ অঞ্চলটোক জলবায়ুৰ দৃষ্টিৰে কি বোলা হয়?
+A) Temperate Zone (নাতিশীতোষ্ণ বলয়)
+B) Torrid Zone / Tropics (উষ্ণ বলয় / ক্ৰান্তীয় বলয়)
+C) Frigid Zone (হিম বলয়)
+D) Sub-polar Zone (উপ-মেৰু বলয়)
+Ans: B
+
+15. The area lying between the Arctic Circle and North Pole or Antarctic Circle and South Pole is known as what?
+
+সুমীৰু বৃত্ত আৰু উত্তৰ মেৰু বা কুপ্ৰদেশীয় বৃত্ত আৰু দক্ষিণ মেৰুৰ মাজত অৱস্থিত অঞ্চলটোক কি বুলি জনা যায়?
+A) Torrid Zone (উষ্ণ বলয়)
+B) Frigid Zone (হিম বলয়)
+C) Temperate Zone (নাতিশীতোষ্ণ বলয়)
+D) Equatorial Zone (বিষুৱীয় বলয়)
+Ans: B
+
+16. Identifying location on Earth using exact values of latitude and longitude is known as what?
+
+অক্ষমাংশ আৰু দ্ৰাঘিমাংশৰ সঠিক মান ব্যৱহাৰ কৰি পৃথিৱীৰ স্থান নিৰ্ধাৰণ কৰাক কি বোলা হয়?
+A) Relative Location (আপেক্ষিক অৱস্থান)
+B) Absolute Location (প্ৰকৃত অৱস্থান)
+C) Topographic Location (ভূ-সংস্থান সংক্ৰান্তিয় অৱস্থান)
+D) Cardinal Location (দিগন্ত অৱস্থান)
+Ans: B
+
+17. As one moves from the Equator towards the Poles, what happens to the length of parallel latitude lines?
+
+বিষুৱৰেখাৰ পৰা মেৰুৰ দিশলৈ গ’লে সমান্তৰাল অক্ষৰেখাবোৰৰ দৈৰ্ঘ্যৰ কি পৰিৱৰ্তন হয়?
+A) Increases (বৃদ্ধি পায়)
+B) Decreases (হ্ৰাস পায়)
+C) Remains constant (একেই থাকে)
+D) First increases then decreases (প্ৰথমে বাঢ়ে আৰু পিছত কমে)
+Ans: B
+
+18. All lines of longitude (meridians) meet together at which geographical point?
+
+সকলোবোৰ দ্ৰাঘিমা ৰেখা (মধ্যাহ্ন ৰেখা) কোনটো ভৌগোলিক বিন্দুত লগ হয়?
+A) Equator (বিষুৱৰেখাত)
+B) Poles - North and South (উত্তৰ আৰু দক্ষিণ মেৰুত)
+C) Tropic of Cancer (কৰ্কট ক্ৰান্তি ৰেখাত)
+D) International Date Line (আন্তঃৰাষ্ট্ৰীয় তাৰিখ ৰেখাত)
+Ans: B
+
+19. If GMT is 12:00 Noon, what will be the local time at 30° East longitude?
+
+যদি জি.এম.টি (GMT) দুপৰীয়া ১২:০০ বজা হয়, তেন্তে ৩০° পূব দ্ৰাঘিমাংশত স্থানীয় সময় কিমান হ’ব?
+A) 10:00 AM (পুৱা ১০:০০ বজা)
+B) 2:00 PM (অপৰাহ্ন ২:০০ বজা)
+C) 1:00 PM (দুপৰীয়া ১:০০ বজা)
+D) 4:00 PM (আবেলি ৪:০০ বজা)
+Ans: B
+
+20. If GMT is 12:00 Noon, what will be the local time at 45° West longitude?
+
+যদি জি.এম.টি (GMT) দুপৰীয়া ১২:০০ বজা হয়, তেন্তে ৪৫° পশ্চিম দ্ৰাঘিমাংশত স্থানীয় সময় কিমান হ’ব?
+A) 3:00 PM (অপৰাহ্ন ৩:০০ বজা)
+B) 9:00 AM (পুৱা ৯:০০ বজা)
+C) 8:00 AM (পুৱা ৮:০০ বজা)
+D) 15:00 PM (বেলিকা ৩:০০ বজা)
+Ans: B
+
+21. What is the Great Circle on Earth that divides it into Northern and Southern Hemispheres?
+
+পৃথিৱীক উত্তৰ আৰু দক্ষিণ গোলাৰ্ধত বিভক্ত কৰা মহাবৃত্ত (Great Circle) টো কি?
+A) Prime Meridian (মুখ্য মধ্যাহ্ন ৰেখা)
+B) Equator (বিষুৱৰেখা)
+C) Tropic of Cancer (কৰ্কট ক্ৰান্তি ৰেখা)
+D) Arctic Circle (সুমীৰু বৃত্ত)
+Ans: B
+
+22. How many degrees of latitude separate the Tropic of Cancer and the Tropic of Capricorn?
+
+কৰ্কট ক্ৰান্তি ৰেখা আৰু মকৰ ক্ৰান্তি ৰেখাৰ মাজত কেইডিগ্ৰী অক্ষমাংশৰ পাৰ্থক্য আছে?
+A) 23.5° (২৩.৫°)
+B) 47° (৪৭°)
+C) 66.5° (৬৬.৫°)
+D) 90° (৯০°)
+Ans: B
+
+23. The Royal Observatory from where Prime Meridian zero degree longitude was historically defined is situated in which country?
+
+যিটো ৰয়েল পৰ্যবেক্ষণাগাৰৰ পৰা মুখ্য মধ্যাহ্ন ৰেখাৰ (০° দ্ৰাঘিমাংশ) ঐতিহাসিক সংজ্ঞায়িত কৰা হৈছিল, সেয়া কোনখন দেশত অৱস্থিত?
+A) France (ফ্ৰান্স)
+B) United Kingdom / UK (যুক্তৰাজ্য)
+C) United States (যুক্তৰাষ্ট্ৰ)
+D) Germany (জাৰ্মানী)
+Ans: B
+
+24. Which famous strait separates Asia and North America and lies very close to the International Date Line?
+
+এছিয়া আৰু উত্তৰ আমেৰিকাক পৃথক কৰা আৰু আন্তঃৰাষ্ট্ৰীয় তাৰিখ ৰেখাৰ অতি ওচৰত অৱস্থিত বিখ্যাত প্ৰণালীটো কি?
+A) Strait of Gibraltar (জিব্ৰাল্টাৰ প্ৰণালী)
+B) Bering Strait (বেৰিং প্ৰণালী)
+C) Malacca Strait (মালাকা প্ৰণালী)
+D) Strait of Hormuz (হৰমুজ প্ৰণালী)
+Ans: B
+
+25. If a person travels from Tokyo (East) to San Francisco (West) across the International Date Line, what adjustment should they make to their date?
+
+যদি এজন ব্যক্তি আন্তঃৰাষ্ট্ৰীয় তাৰিখ ৰেখা অতিক্ৰম কৰি টকিঅ’ৰ (পূব) পৰা ছান ফ্ৰান্সিস্কোলৈ (পশ্চিম) ভ্ৰমণ কৰে, তেন্তে তেওঁ তাৰিখত কি সালসলনি কৰিব লাগিব?
+A) Add one day (একদিন যোগ কৰিব লাগিব)
+B) Repeat / Subtract one day (এদিন পিছুৱাই বা একেটা তাৰিখ পুনৰ পাব)
+C) Advance time by 24 hours (২৪ ঘণ্টা সময় আগুৱাব লাগিব)
+D) No change is required (কোনো পৰিৱৰ্তনৰ প্ৰয়োজন নাই)
+Ans: B

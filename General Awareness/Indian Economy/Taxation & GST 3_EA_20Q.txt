@@ -29,7 +29,7 @@ Ans: B
 
 ভাৰতীয় কৰ ব্যৱস্থাত 'চেছ' (Cess) কি উদ্দেশ্যত আৰোপ কৰা হয়?
 A) General revenue collection / সাধাৰণ ৰাজহ সংগ্ৰহৰ বাবে
-B) Specific designated purpose (e.g., Education, Health) / নিৰ্দিষ্ট বিশেষ উদ্দেশ্যৰ বাবে (যেনে- শিক্ষা, স্বাস্থ্য)
+B) Specific designated purpose / e.g., Education, Health / নিৰ্দিষ্ট বিশেষ উদ্দেশ্যৰ বাবে / যেনে- শিক্ষা, স্বাস্থ্য
 C) State government funding only / কেৱল ৰাজ্য চৰকাৰৰ পুঁজিৰ বাবে
 D) Import penalty / আমদানিকৃত বস্তুৰ জৰিমনা
 Ans: B
@@ -47,7 +47,7 @@ Ans: B
 
 কোনো এক অৰ্থনীতিৰ 'Tax-to-GDP ratio' মানে কি?
 A) Ratio of direct taxes to indirect taxes / প্ৰত্যক্ষ কৰ আৰু পৰোক্ষ কৰৰ অনুপাত
-B) Total tax revenue as a percentage of gross domestic product / মুঠ ঘৰুৱা উৎপাদনৰ (GDP) শতাংশ হিচাপে মুঠ কৰ ৰাজহ
+B) Total tax revenue as a percentage of gross domestic product / মুঠ ঘৰুৱা উৎপাদনৰ / GDP শতাংশ হিচাপে মুঠ কৰ ৰাজহ
 C) Ratio of central tax to state tax / কেন্দ্ৰীয় কৰ আৰু ৰাজ্যিক কৰৰ অনুপাত
 D) Ratio of corporate tax to income tax / নিগম কৰ আৰু আয়কৰৰ অনুপাত
 Ans: B

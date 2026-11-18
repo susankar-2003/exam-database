@@ -109,10 +109,10 @@ Ans: A
 13. Which regulator controls the capital market and stock exchanges in India?
 
 ভাৰতৰ মূলধন বজাৰ আৰু ষ্টক এক্সচেঞ্জসমূহ কোনটো নিয়ন্ত্ৰক সংস্থাই নিয়ন্ত্ৰণ কৰে?
-A) SEBI / ছেবি (SEBI)
-B) RBI / আৰ.বি.আই. (RBI)
-C) IRDAI / আৰে.ডি.এ.আই. (IRDAI)
-D) PFRDA / পি.এফ.আৰ.ডি.এ. (PFRDA)
+A) SEBI
+B) RBI
+C) IRDAI
+D) PFRDA
 Ans: A
 
 14. Where is the headquarters of the Securities and Exchange Board of India (SEBI) located?
@@ -172,7 +172,7 @@ Ans: A
 20. Which index measures inequality in income or wealth distribution in a population?
 
 জনসংখ্যাৰ ভিতৰত আয় বা সম্পদৰ অসমতা কোনটো সূচকে জোখে?
-A) Gini Coefficient / গিনি গুণাঙ্ক (Gini Coefficient)
+A) Gini Coefficient / গিনি গুণাঙ্ক / Gini Coefficient
 B) Human Development Index / মানৱ উন্নয়ন সূচক
 C) Consumer Price Index / উপভোক্তা মূল্য সূচক
 D) Poverty Line Index / দৰিদ্ৰতা ৰেখা সূচক
@@ -181,10 +181,10 @@ Ans: A
 21. Human Development Index (HDI) is released by which international organization?
 
 মানৱ উন্নয়ন সূচক (HDI) কোনটো আন্তঃৰাষ্ট্ৰীয় সংস্থাই প্ৰকাশ কৰে?
-A) UNDP / ইউ.এন.ডি.পি. (UNDP)
-B) World Bank / বিশ্ব বেংক
-C) IMF / আই.এম.এফ. (IMF)
-D) WEF / ডব্লিউ.ই.এফ. (WEF)
+A) UNDP
+B) World Bank
+C) IMF
+D) WEF
 Ans: A
 
 22. What are the three basic dimensions measured in the Human Development Index (HDI)?

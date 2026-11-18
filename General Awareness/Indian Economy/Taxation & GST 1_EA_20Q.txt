@@ -84,8 +84,8 @@ Ans: A
 তলৰ কোনটো কৰ ভাৰতত GST ৰ অধীনত অন্তৰ্ভুক্ত কৰা হোৱা নাই?
 A) Central Excise Duty / কেন্দ্ৰীয় আবকাৰী শুল্ক
 B) Service Tax / সেৱা কৰ
-C) Basic Customs Duty / মৌলিক শুল্ক (Basic Customs Duty)
-D) Value Added Tax (VAT) / মূল্য সংযোজিত কৰ (VAT)
+C) Basic Customs Duty / মৌলিক শুল্ক / Basic Customs Duty
+D) Value Added Tax / VAT / মূল্য সংযোজিত কৰ / VAT
 Ans: C
 
 11. Which of the following items is completely kept outside the purview of GST?
@@ -119,7 +119,7 @@ Ans: B
 
 সমন্বিত সামগ্ৰী আৰু সেৱা কৰ (IGST) কোন প্ৰকাৰৰ লেনদেনৰ ওপৰত আৰোপ কৰা হয়?
 A) Intra-state supply / ৰাজ্যৰ ভিতৰুৱা যোগান
-B) Inter-state supply / আন্তঃৰাজ্যিক (এক ৰাজ্যৰ পৰা আন ৰাজ্যলৈ) যোগান
+B) Inter-state supply / আন্তঃৰাজ্যিক / এক ৰাজ্যৰ পৰা আন ৰাজ্যলৈ যোগান
 C) Local retail sales / স্থানীয় খুচুৰা বিক্ৰী
 D) Exempted goods sales / ৰেহাইপ্ৰাপ্ত সামগ্ৰীৰ বিক্ৰী
 Ans: B
@@ -164,7 +164,7 @@ Ans: C
 
 15 টা অংকযুক্ত GSTIN ৰ প্ৰথম দুটা অংকে কি সূচায়?
 A) PAN Number / PAN নম্বৰ
-B) State Code / ৰাজ্যিক ক’ড (State Code)
+B) State Code / ৰাজ্যিক ক’ড / State Code
 C) Entity Code / এণ্টিটি ক’ড
 D) Check Digit / চেক ডিজিট
 Ans: B
@@ -172,8 +172,8 @@ Ans: B
 20. What is the maximum voting power of the Central Government in the GST Council?
 
 GST পৰিষদত কেন্দ্ৰীয় চৰকাৰৰ সৰ্বোচ্চ ভোটিং ক্ষমতা বা ক্ষমতাৰ অংশ কিমান?
-A) One-half of total votes / মুঠ ভোটৰ আধা অংশ (1/2)
-B) One-third of total votes / মুঠ ভোটৰ এক-তৃতীয়াংশ (1/3)
-C) Two-thirds of total votes / মুঠ ভোটৰ দুই-তৃতীয়াংশ (2/3)
-D) Three-fourths of total votes / মুঠ ভোটৰ তিনি-চতুৰ্থাংশ (3/4)
+A) One-half of total votes / মুঠ ভোটৰ আধা অংশ / 1/2
+B) One-third of total votes / মুঠ ভোটৰ এক-তৃতীয়াংশ / 1/3
+C) Two-thirds of total votes / মুঠ ভোটৰ দুই-তৃতীয়াংশ / 2/3
+D) Three-fourths of total votes / মুঠ ভোটৰ তিনি-চতুৰ্থাংশ / 3/4
 Ans: B

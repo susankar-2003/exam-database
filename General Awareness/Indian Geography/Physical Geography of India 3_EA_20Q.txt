@@ -74,7 +74,7 @@ Ans: A
 
 কপাহ খেতিৰ বাবে কোনবিধ মাটি আটাইতকৈ উপযোগী?
 A) Alluvial Soil / পলি মাটি
-B) Black Soil (Regur) / ক'লা মাটি (ৰেগুৰ)
+B) Black Soil / Regur / ক'লা মাটি / ৰেগুৰ
 C) Red Soil / ৰঙা মাটি
 D) Mountain Soil / পৰ্বতীয়া মাটি
 Ans: B
@@ -164,7 +164,7 @@ Ans: B
 
 লক্ষদ্বীপসমূহ মূলতঃ কি পদাৰ্থৰে গঠিত?
 A) Volcanic Rocks / আগ্নেয় শিলা
-B) Coral Deposits / প্ৰবাল (Coral) জমা
+B) Coral Deposits / প্ৰবাল / Coral জমা
 C) Alluvial Soil / পলি মাটি
 D) Tectonic Rocks / ভূ-ত্বকীয় শিলা
 Ans: B

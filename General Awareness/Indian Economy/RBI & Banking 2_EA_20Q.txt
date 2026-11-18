@@ -11,7 +11,7 @@ Ans: B
 
 ভাৰতত বৰ্তমানেও চলি থকা আটাইতকৈ পুৰণি যৌথ মূলধনী বেংক (Joint Stock Bank) কোনটা?
 A) Bank of Baroda / বেংক অফ বৰোদা
-B) Allahabad Bank (now merged with Indian Bank) / এলাহাবাদ বেংক (বৰ্তমান ইণ্ডিয়ান বেংকৰ সৈতে একত্ৰিত)
+B) Allahabad Bank / এলাহাবাদ বেংক
 C) Punjab National Bank / পঞ্জাৱ নেচনেল বেংক
 D) Bank of India / বেংক অফ ইণ্ডিয়া
 Ans: B
@@ -110,7 +110,7 @@ Ans: B
 
 ভাৰতত গৃহ বিত্তীয় খণ্ডৰ সৰ্বোচ্চ নিয়ন্ত্ৰক সংস্থা কোনটো?
 A) NABARD
-B) National Housing Bank (NHB) / নেচনেল হাউছিং বেংক (NHB)
+B) National Housing Bank NHB / নেচনেল হাউছিং বেংক NHB
 C) HUDCO
 D) RBI
 Ans: B
@@ -154,10 +154,10 @@ Ans: B
 18. What is the target inflation rate set by the RBI under the Flexible Inflation Targeting framework?
 
 নমনীয় মুদ্ৰাস্ফীতি লক্ষ্য নিৰ্ধাৰণ কাঠামোৰ অধীনত RBI এ বান্ধি দিয়া মুদ্ৰাস্ফীতিৰ লক্ষ্যৰ হাৰ কিমান?
-A) 2% (+/- 1%) / 2% (+/- 1%)
-B) 4% (+/- 2%) / 4% (+/- 2%)
-C) 6% (+/- 2%) / 6% (+/- 2%)
-D) 5% (+/- 1%) / 5% (+/- 1%)
+A) 2% (+- 1%)
+B) 4% (+- 2%)
+C) 6% (+- 2%)
+D) 5% (+- 1%)
 Ans: B
 
 19. What does 'LAF' stand for in monetary policy context?

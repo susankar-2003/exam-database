@@ -127,7 +127,7 @@ Ans: D
 15. The Solanki Dynasty, also known as Chalukyas of Gujarat, had its capital at which city?
 
 গুজৰাটৰ চালুক্য বুলিও জনাজাত ছোলংকী ৰাজবংশৰ ৰাজধানী কোনখন চহৰত আছিল?
-A) Anhilwad (Patan) / অনহিলৱাড় (পাটান)
+A) Anhilwad / Patan / অনহিলৱাড় / পাটান
 B) Junagadh / জুনাগড়
 C) Somnath / সোমনাথ
 D) Vadodara / ভদোদৰা
@@ -172,7 +172,7 @@ Ans: B
 20. What was the famous local self-government system of the Cholas based on?
 
 চোলসকলৰ বিখ্যাত স্থানীয় স্বায়ত্তশাসন ব্যৱস্থা কিহৰ ওপৰত আধাৰিত আছিল?
-A) Village Assemblies (Sabha and Ur) / গাঁও সভা (সভা আৰু উৰ)
+A) Village Assemblies / Sabha and Ur / গাঁও সভা / সভা আৰু উৰ
 B) Centralized Bureaucracy / কেন্দ্ৰীয় আমোলাতন্ত্ৰ
 C) Military Governors / সামৰিক গৱৰ্ণৰ
 D) Feudal Chiefs / সামন্তীয় প্ৰধান

@@ -109,7 +109,7 @@ Ans: A
 13. Which material was predominantly used in building Hoysala temples like Belur and Halebidu?
 
 বেলুৰ আৰু হালেবিদূৰ দৰে হোয়ছালা মন্দিৰ নিৰ্মাণত মূলতঃ কোনটো সামগ্ৰী ব্যৱহাৰ কৰা হৈছিল?
-A) Soapstone (Chloritic Schist) / চাবোন পাথৰ (ক্লোৰিটিক শিষ্ট)
+A) Soapstone / চাবোন পাথৰ 
 B) Granite / গ্ৰেনাইট
 C) Sandstone / বেলেগাঁথনি পাথৰ
 D) Red Brick / ৰঙা ইটা

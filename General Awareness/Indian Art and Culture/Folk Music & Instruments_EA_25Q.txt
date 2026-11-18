@@ -64,7 +64,7 @@ Ans: A
 8. Which folk percussion instrument, consisting of a wooden frame with metal jingles, is commonly used in devotional songs across India?
 
 কাঠৰ ফ্ৰেম আৰু ধাতুৰ পাত বিশিষ্ট কোনটো লোকবাদ্যযন্ত্ৰ ভাৰতজুৰি ভক্তি ছবিত ব্যৱহাৰ কৰা হয়?
-A) Khanjari (Tambourine) / খঞ্জৰী
+A) Khanjari / Tambourine / খঞ্জৰী
 B) Dholak / ঢোলক
 C) Ektara / একতাৰা
 D) Ghatam / ঘটম
@@ -136,7 +136,7 @@ Ans: A
 16. Which of the following is a traditional reed instrument blown using mouth, played by snake charmers in India?
 
 ভাৰতৰ সাপুৰিয়াসকলে মুখৰে ফুঁ দি বজোৱা পৰম্পৰাগত পৱন বাদ্যযন্ত্ৰটো কি?
-A) Pungi (Been) / পেঁপা বা পুংগী (বীন)
+A) Pungi / পেঁপা বা পুংগী 
 B) Shehnai / সানাই
 C) Bansuri / বাঁহী
 D) Algoza / আলগোজা
@@ -181,7 +181,7 @@ Ans: A
 21. What type of musical instrument is a Gagana, commonly used in Assamese folk music?
 
 অসমীয়া লোকসংগীতত বহুলভাৱে ব্যৱহৃত গগনা (Gagana) কি ধৰণৰ বাদ্যযন্ত্ৰ?
-A) Jaw Harp (Idiophone) / মুখত লৈ বজোৱা বাঁহৰ বাদ্য
+A) Jaw Harp / মুখত লৈ বজোৱা বাঁহৰ বাদ্য
 B) Stringed Instrument / তাৰযুক্ত বাদ্য
 C) Drum Instrument / ছালৰ চামৰাৰ বাদ্য
 D) Wind Horn / শিঙা বাদ্য
@@ -217,8 +217,8 @@ Ans: A
 25. The folk instrument Pakhawaj belongs to which major category of musical instruments?
 
 লোকবাদ্য পখাৱাজ (Pakhawaj) বাদ্যযন্ত্ৰৰ কোনটো মুখ্য শ্ৰেণীৰ অন্তৰ্গত?
-A) Percussion (Membranophone) / আঘাতজ বা অৱনদ্ধ বাদ্য (ছালত আঘাত কৰা)
-B) Wind (Aerophone) / পৱন বা সুষিৰ বাদ্য
-C) Plucked String (Chordophone) / তাৰ বা তত বাদ্য
-D) Solid Metal (Idiophone) / ঘন বাদ্য
+A) Percussion / আঘাতজ বা অৱনদ্ধ বাদ্য
+B) Wind / Aerophone / পৱন বা সুষিৰ বাদ্য
+C) Plucked String / Chordophone / তাৰ বা তত বাদ্য
+D) Solid Metal / Idiophone / ঘন বাদ্য
 Ans: A

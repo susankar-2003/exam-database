@@ -2,7 +2,7 @@
 
 গোদাৱৰী নদীৰ উৎপত্তি ক'ত হৈছে?
 A) Mahabaleshwar / মহাবলেশ্বৰ
-B) Trimbakeshwar (Nashik) / ত্ৰ্যম্বকেশ্বৰ (নাচিক)
+B) Trimbakeshwar / Nashik / ত্ৰ্যম্বকেশ্বৰ / নাচিক
 C) Amarkantak / অমৰকণ্টক
 D) Brahmagiri Hills / ব্ৰহ্মগিৰি পাহাৰ
 Ans: B
@@ -37,7 +37,7 @@ Ans: A
 5. From where does the Kaveri River originate?
 
 কাবেৰী নদীৰ উৎপত্তি ক'ৰ পৰা হৈছে?
-A) Brahmagiri Hills (Coorg) / ব্ৰহ্মগিৰি পাহাৰ (কূৰ্গ)
+A) Brahmagiri Hills / Coorg / ব্ৰহ্মগিৰি পাহাৰ / কূৰ্গ
 B) Mahabaleshwar / মহাবলেশ্বৰ
 C) Amarkantak / অমৰকণ্টক
 D) Cardamom Hills / ইলাচী পাহাৰ
@@ -83,7 +83,7 @@ Ans: B
 
 ভাৰতৰ পশ্চিমলৈ বোৱা দ্বিতীয় বৃহত্তম উপদ্বীপীয় নদী কোনখন?
 A) Narmada / নৰ্মদা
-B) Tapi (Tapti) / তাপি (তাপ্তি)
+B) Tapi / Tapti / তাপি / তাপ্তি
 C) Sabarmati / সাবৰমতী
 D) Luni / লুনি
 Ans: B
@@ -91,7 +91,7 @@ Ans: B
 11. From where does the Tapi River originate?
 
 তাপি নদীৰ উৎপত্তি ক'ৰ পৰা হৈছে?
-A) Betul district (Satpura Range) / বেতুল জিলা (সাতপুৰা পৰ্বতমালা)
+A) Betul district / Satpura Range / বেতুল জিলা / সাতপুৰা পৰ্বতমালা
 B) Amarkantak / অমৰকণ্টক
 C) Nashik / নাচিক
 D) Ajanta Range / অজন্তা পৰ্বতমালা
@@ -127,7 +127,7 @@ Ans: A
 15. From where does the Mahanadi River originate?
 
 মহানদীৰ উৎপত্তি ক'ৰ পৰা হৈছে?
-A) Sihawa (Sihora) in Raipur / ৰায়পুৰৰ সিহাৱা (সিহোৰা)
+A) Sihawa / Sihora in Raipur / ৰায়পুৰৰ সিহাৱা / সিহোৰা
 B) Amarkantak / অমৰকণ্টক
 C) Chota Nagpur Plateau / ছোটা নাগপুৰ মালভূমি
 D) Ranchi / ৰাঁচী

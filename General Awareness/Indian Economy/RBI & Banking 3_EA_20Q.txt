@@ -146,7 +146,7 @@ Ans: B
 
 জৰুৰীকালীন অৱস্থাত বেংকসমূহে SLR সীমাৰ ওপৰতো নিশাৰ ভিতৰতে RBI ৰ পৰা ধন ঋণ ল’বলৈ ব্যৱহাৰ কৰা সুবিধাক কি বোলা হয়?
 A) Repo Rate / ৰিপ’ ৰেট
-B) Marginal Standing Facility (MSF) / মাৰ্জিনেল ষ্টেণ্ডিং ফেচিলিটি
+B) Marginal Standing Facility / MSF / মাৰ্জিনেল ষ্টেণ্ডিং ফেচিলিটি
 C) Reverse Repo Rate / ৰিভাৰ্ছ ৰিপ’ ৰেট
 D) Bank Rate / বেংক ৰেট
 Ans: B

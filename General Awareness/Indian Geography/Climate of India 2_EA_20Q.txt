@@ -20,7 +20,7 @@ Ans: B
 
 শীতকালত ভাৰতৰ কোনটো ঠাইত আটাইতকৈ কম উষ্ণতা লিপিৱদ্ধ হয়?
 A) Shimla / শিমলা
-B) Dras (Ladakh) / দ্ৰাছ (লাডাখ)
+B) Dras / Ladakh / দ্ৰাছ / লাডাখ
 C) Srinagar / শ্ৰীনগৰ
 D) Leh / লেহ
 Ans: B
@@ -38,7 +38,7 @@ Ans: B
 
 ভাৰতৰ পশ্চিমঘাট পৰ্বতমালাৰ কাষত মুখ্যতঃ কেনে ধৰণৰ বৰষুণ হয়?
 A) Convectional Rainfall / পৰিচলন বৰষুণ
-B) Orographic (Relief) Rainfall / শৈল উৎক্ষেপ বৰষুণ
+B) Orographic / Relief Rainfall / শৈল উৎক্ষেপ বৰষুণ
 C) Cyclonic Rainfall / ঘূৰ্ণীবতাহজনিত বৰষুণ
 D) Frontal Rainfall / সংঘাতজনিত বৰষুণ
 Ans: B
@@ -101,7 +101,7 @@ Ans: A
 
 উচ্চ বায়ুমণ্ডলত থকা উচ্চ উচ্চতাৰ পশ্চিমা বতাহৰ কোনটো ঠেক বেল্টে ভাৰতীয় জলবায়ুক প্ৰভাৱিত কৰে?
 A) Trade Winds / বাণিজ্য বতাহ
-B) Jet Streams / জে'ট প্ৰবাহ (Jet Streams)
+B) Jet Streams / জে'ট প্ৰবাহ / Jet Streams
 C) Doldrums / ডলড্ৰামছ
 D) Polar Easterlies / মেৰু পূবালী বতাহ
 Ans: B
@@ -163,10 +163,10 @@ Ans: A
 19. What type of climate is found in the Thar Desert of Rajasthan according to Koppen?
 
 কোপেনৰ মতে ৰাজস্থানৰ থৰ মৰুভূমিত কেনে ধৰণৰ জলবায়ু পোৱা যায়?
-A) Hot Desert Climate (BWhw) / গৰম মৰুভূমি জলবায়ু (BWhw)
-B) Tropical Monsoon (Amw) / ক্ৰান্তীয় মৌচুমী (Amw)
-C) Tundra Climate (ET) / টুণ্ড্ৰা জলবায়ু (ET)
-D) Polar Climate (E) / মেৰু জলবায়ু (E)
+A) Hot Desert Climate / BWhw / গৰম মৰুভূমি জলবায়ু / BWhw
+B) Tropical Monsoon / Amw / ক্ৰান্তীয় মৌচুমী / Amw
+C) Tundra Climate / ET / টুণ্ড্ৰা জলবায়ু / ET
+D) Polar Climate / E / মেৰু জলবায়ু / E
 Ans: A
 
 20. Which factor prevents rain in Western Rajasthan during the monsoon season?

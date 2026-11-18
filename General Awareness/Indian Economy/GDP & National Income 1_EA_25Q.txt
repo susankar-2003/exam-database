@@ -1,9 +1,9 @@
 1. What is the total market value of all final goods and services produced within a country's borders in a specific time period called?
 
 এক নিৰ্দিষ্ট সময়সীমাৰ ভিতৰত এখন দেশৰ ভৌগোলিক সীমাৰ ভিতৰত উৎপাদিত সকলো চূড়ান্ত সামগ্ৰী আৰু সেৱাৰ মুঠ বজাৰ মূল্যক কি বোলা হয়?
-A) Gross National Product (GNP) / মুঠ ৰাষ্ট্ৰীয় উৎপাদন
-B) Gross Domestic Product (GDP) / মুঠ ঘৰুৱা উৎপাদন
-C) Net National Product (NNP) / নিখুঁত ৰাষ্ট্ৰীয় উৎপাদন
+A) Gross National Product / মুঠ ৰাষ্ট্ৰীয় উৎপাদন
+B) Gross Domestic Product / মুঠ ঘৰুৱা উৎপাদন
+C) Net National Product / নিখুঁত ৰাষ্ট্ৰীয় উৎপাদন
 D) National Income / ৰাষ্ট্ৰীয় আয়
 Ans: B
 
@@ -37,8 +37,8 @@ Ans: A
 5. Which organization currently releases the GDP estimates and National Income data in India?
 
 ভাৰতত বৰ্তমান কোনটো সংস্থাই GDP ৰ আনুমানিক হিচাপ আৰু ৰাষ্ট্ৰীয় আয়ৰ তথ্য প্ৰকাশ কৰে?
-A) National Statistical Office (NSO) / ৰাষ্ট্ৰীয় পৰিসংখ্যা কাৰ্যালয় (NSO)
-B) Reserve Bank of India (RBI) / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া
+A) National Statistical Office / ৰাষ্ট্ৰীয় পৰিসংখ্যা কাৰ্যালয়
+B) Reserve Bank of India / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া
 C) NITI Aayog / নীতি আয়োগ
 D) Finance Ministry / বিত্ত মন্ত্ৰালয়
 Ans: A
@@ -55,9 +55,9 @@ Ans: B
 7. What is obtained by subtracting Depreciation from Gross Domestic Product (GDP)?
 
 মুঠ ঘৰুৱা উৎপাদনৰ (GDP) পৰা অৱক্ষয় বিয়োগ কৰিলে কি পোৱা যায়?
-A) Net Domestic Product (NDP) / নিখুঁত ঘৰুৱা উৎপাদন
-B) Gross National Product (GNP) / মুঠ ৰাষ্ট্ৰীয় উৎপাদন
-C) Net National Product (NNP) / নিখুঁত ৰাষ্ট্ৰীয় উৎপাদন
+A) Net Domestic Product / নিখুঁত ঘৰুৱা উৎপাদন
+B) Gross National Product / মুঠ ৰাষ্ট্ৰীয় উৎপাদন
+C) Net National Product / নিখুঁত ৰাষ্ট্ৰীয় উৎপাদন
 D) Personal Income / ব্যক্তিগত আয়
 Ans: A
 

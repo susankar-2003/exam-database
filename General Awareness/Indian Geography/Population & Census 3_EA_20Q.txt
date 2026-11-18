@@ -172,8 +172,8 @@ Ans: A
 20. What is the minimum population threshold for an urban area to be classified as a Metropolitan City in India?
 
 ভাৰতত এটা নগৰীয়া অঞ্চলক মহানগৰ (Metropolitan City) হিচাপে শ্ৰেণীভুক্ত কৰিবলৈ জনসংখ্যাৰ ন্যূনতম সীমা কিমান?
-A) 1 Million (10 Lakhs) / ১০ লাখ (১ মিলিয়ন)
-B) 5 Million (50 Lakhs) / ৫০ লাখ (৫ মিলিয়ন)
-C) 2 Million (20 Lakhs) / ২০ লাখ (২ মিলিয়ন)
-D) 500,000 (5 Lakhs) / ৫ লাখ
+A) 1 Million / 10 Lakhs / ১০ লাখ / ১ মিলিয়ন
+B) 5 Million / 50 Lakhs / ৫০ লাখ / ৫ মিলিয়ন
+C) 2 Million / 20 Lakhs / ২০ লাখ / ২ মিলিয়ন
+D) 500,000 / 5 Lakhs / ৫ লাখ
 Ans: A

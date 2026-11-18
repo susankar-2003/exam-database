@@ -163,9 +163,9 @@ Ans: A
 19. Koraput in Odisha is famous for which public sector aerospace units?
 
 উড়িষ্যাৰ কোৰাপুট কোনটো ৰাজহুৱা খণ্ডৰ এৰ'স্পেছ গোটৰ বাবে বিখ্যাত?
-A) HAL (Hindustan Aeronautics Limited) / এইছ এ এল
-B) BHEL (Bharat Heavy Electricals Limited) / ভেল
-C) BEL (Bharat Electronics Limited) / বেল
+A) HAL / Hindustan Aeronautics Limited / এইছ এ এল
+B) BHEL / Bharat Heavy Electricals Limited / ভেল
+C) BEL / Bharat Electronics Limited / বেল
 D) ISRO / ইছৰ'
 Ans: A
 
@@ -217,8 +217,8 @@ Ans: A
 25. Which apex body regulates and promotes Small Scale Industries in India?
 
 ভাৰতৰ ক্ষুদ্ৰ উদ্যোগ খণ্ড নিয়ন্ত্ৰণ আৰু প্ৰসাৰ কৰা শীৰ্ষ প্ৰতিষ্ঠানটো কোনটো?
-A) SIDBI / চিডবি (SIDBI)
-B) NABARD / নাবাৰ্ড (NABARD)
-C) RBI / আৰ বি আই (RBI)
-D) SEBI / ছেবি (SEBI)
+A) SIDBI / চিডবি / SIDBI
+B) NABARD / নাবাৰ্ড / NABARD
+C) RBI / আৰ বি আই / RBI
+D) SEBI / ছেবি / SEBI
 Ans: A

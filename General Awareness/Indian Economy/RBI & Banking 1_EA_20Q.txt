@@ -127,10 +127,10 @@ Ans: B
 15. What percentage of bank deposits must be kept with the RBI in cash form?
 
 বাণিজ্যিক বেংকসমূহে নিজৰ আমানতৰ কত শতাংশ নগদ ধন হিচাপে RBI ৰ ওচৰত ৰাখিব লাগে?
-A) Statutory Liquidity Ratio (SLR) / ষ্টেটিউটৰী লিকুইডিটি ৰেচিঅ’
-B) Cash Reserve Ratio (CRR) / কেছ ৰিজাৰ্ভ ৰেচিঅ’
-C) Marginal Standing Facility (MSF) / মাৰ্জিনেল ষ্টেণ্ডিং ফেচিলিটি
-D) Capital Adequacy Ratio (CAR) / কেপিটেল এডি কুৱেচি ৰেচিঅ’
+A) Statutory Liquidity Ratio / ষ্টেটিউটৰী লিকুইডিটি ৰেচিঅ’
+B) Cash Reserve Ratio / কেছ ৰিজাৰ্ভ ৰেচিঅ’
+C) Marginal Standing Facility / মাৰ্জিনেল ষ্টেণ্ডিং ফেচিলিটি
+D) Capital Adequacy Ratio / কেপিটেল এডি কুৱেচি ৰেচিঅ’
 Ans: B
 
 16. What is the portion of deposits that commercial banks must maintain in liquid assets like gold, cash, and approved securities?

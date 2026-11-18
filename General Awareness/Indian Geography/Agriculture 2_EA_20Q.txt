@@ -56,7 +56,7 @@ Ans: B
 
 কপাহ খেতিৰ বাবে কোনটো মাটি আটাইতকৈ উপযোগী?
 A) Alluvial Soil / পলি মাটি
-B) Black Soil (Regur Soil) / ক'লা মাটি (ৰেগুৰ মাটি)
+B) Black Soil / Regur Soil / ক'লা মাটি / ৰেগুৰ মাটি
 C) Red Soil / ৰঙা মাটি
 D) Laterite Soil / লেটেৰাইট মাটি
 Ans: B
@@ -83,7 +83,7 @@ Ans: A
 
 ভাৰতত শস্যৰ বাবে ন্যূনতম সমৰ্থন মূল্য (MSP) কোনটো সংস্থাই পৰামৰ্শ দিয়ে?
 A) NITI Aayog / নীতি আয়োগ
-B) CACP / চি এ চি পি (CACP)
+B) CACP / চি এ চি পি / CACP
 C) NABARD / নাবাৰ্ড
 D) FCI / এফ চি আই
 Ans: B

@@ -21,7 +21,7 @@ Ans: C
 ভাৰতৰ মুঠ ঘৰুৱা উৎপাদনত (GDP) কোনটো খণ্ডই সৰ্বাধিক বৰঙণি যোগায়?
 A) Primary Sector / প্ৰাথমিক খণ্ড
 B) Secondary Sector / দ্বিতীয়ক খণ্ড
-C) Tertiary Sector (Service Sector) / তৃতীয়ক খণ্ড (সেৱা খণ্ড)
+C) Tertiary Sector / তৃতীয়ক খণ্ড
 D) Agricultural Sector / কৃষি খণ্ড
 Ans: C
 
@@ -46,7 +46,7 @@ Ans: B
 6. What does GDP stand for in economics?
 
 অৰ্থনীতিত GDP ৰ সম্পূৰ্ণ ৰূপ কি?
-A) Gross Domestic Product / গ্ৰছ ডমেষ্টিক প্ৰডাক্ট (মুঠ ঘৰুৱা উৎপাদন)
+A) Gross Domestic Product / গ্ৰছ ডমেষ্টিক প্ৰডাক্ট 
 B) Gross Domestic Price / গ্ৰছ ডমেষ্টিক প্ৰাইচ
 C) General Domestic Product / জেনোৰেল ডমেষ্টিক প্ৰডাক্ট
 D) Global Domestic Product / গ্ল'বেল ডমেষ্টিক প্ৰডাক্ট
@@ -145,8 +145,8 @@ Ans: A
 17. Which index is used to measure inflation in India for retail consumers?
 
 ভাৰতত খুচুৰা উপভোক্তাৰ বাবে মুদ্ৰাস্ফীতি জুখিবলৈ কোনটো সূচক ব্যৱহাৰ কৰা হয়?
-A) Wholesale Price Index (WPI) / পাইকাৰী মূল্য সূচক
-B) Consumer Price Index (CPI) / উপভোক্তা মূল্য সূচক
+A) Wholesale Price Index / পাইকাৰী মূল্য সূচক
+B) Consumer Price Index / উপভোক্তা মূল্য সূচক
 C) Sensex / চেঞ্চেক্স
 D) Nifty / নিফটি
 Ans: B
@@ -164,7 +164,7 @@ Ans: A
 
 চৰকাৰী ৰাজহ আৰু ব্যয়ৰ সৈতে জৰিত নীতিটোক কি বোলা হয়?
 A) Monetary Policy / মুদ্ৰানীতি
-B) Fiscal Policy / বিত্তীয় নীতি (ফিচকেল পলিচি)
+B) Fiscal Policy / বিত্তীয় নীতি
 C) Foreign Trade Policy / বৈদেশিক বাণিজ্য নীতি
 D) Industrial Policy / ঔদ্যোগিক নীতি
 Ans: B
@@ -175,7 +175,7 @@ Ans: B
 A) Reserve Bank of India / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া
 B) Ministry of Finance / বিত্ত মন্ত্ৰালয়
 C) NITI Aayog / নীতি আয়োগ
-D) SEBI / ছেবি (SEBI)
+D) SEBI / ছেবি 
 Ans: B
 
 21. Fiscal Deficit refers to:

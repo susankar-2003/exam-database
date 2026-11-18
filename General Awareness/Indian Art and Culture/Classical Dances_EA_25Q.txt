@@ -91,7 +91,7 @@ Ans: A
 11. The term "Mohiniyattam" literally means the dance of which mythological persona?
 
 "মোহিনীঅট্যম" শব্দটোৰ আক্ষৰিক অৰ্থ কোনটো পৌৰাণিক চৰিত্ৰৰ নৃত্য?
-A) Enchantress / মোহিনী (সুন্দৰী ৰূপধাৰী নাৰী)
+A) Enchantress / সুন্দৰী ৰূপধাৰী নাৰী
 B) Warrior / যোদ্ধা
 C) Forest Goddess / বনদেৱী
 D) Queen / ৰাণী
@@ -136,7 +136,7 @@ Ans: A
 16. Which classical dance form was traditionally performed by Devadasis in the temples of Tamil Nadu?
 
 তামিলনাডুৰ মন্দিৰবোৰত দেৱদাসীসকলে পৰম্পৰাগতভাৱে কোনটো শাস্ত্ৰীয় নৃত্য পৰিৱেশন কৰিছিল?
-A) Sadir (Bharatanatyam) / সদীৰ (ভাৰতনাট্যম)
+A) Bharatanatyam / ভাৰতনাট্যম
 B) Kathakali / কথাকলি
 C) Sattriya / সত্ৰীয়া
 D) Odissi / ওডিছি

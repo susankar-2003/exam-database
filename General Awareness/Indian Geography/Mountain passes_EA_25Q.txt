@@ -154,7 +154,7 @@ Ans: A
 18. Both Thal Ghat and Bhor Ghat passes are located in which mountain range?
 
 থাল ঘাট আৰু ভোৰ ঘাট দুয়োটা গিৰিপথ কোনটো পৰ্বতমালাত অৱস্থিত?
-A) Western Ghats (Sahyadri) / পশ্চিমঘাট পৰ্বতমালা (সহ্যাদ্ৰি)
+A) Western Ghats / Sahyadri / পশ্চিমঘাট পৰ্বতমালা / সহ্যাদ্ৰি
 B) Eastern Ghats / পূৰ্বঘাট পৰ্বতমালা
 C) Aravalli Range / আৰাৱলী পৰ্বতমালা
 D) Satpura Range / সাতপুৰা পৰ্বতমালা
@@ -172,7 +172,7 @@ Ans: A
 20. Bara-lacha La Pass connects Lahaul district in Himachal Pradesh with which region?
 
 বাৰা-লাচা লা গিৰিপথে হিমাচল প্ৰদেশৰ লাহুল জিলাক কোনটো অঞ্চলৰ সৈতে সংযোগ কৰে?
-A) Leh (Ladakh) / লেহ (লাডাখ)
+A) Leh / Ladakh / লেহ / লাডাখ
 B) Srinagar / শ্ৰীনগৰ
 C) Shimla / শিমলা
 D) Gangtok / গেংটক

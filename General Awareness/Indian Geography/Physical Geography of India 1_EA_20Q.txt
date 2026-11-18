@@ -1,7 +1,7 @@
 1. Which is the highest mountain peak in India?
 
 ভাৰতৰ সৰ্বোচ্চ পৰ্বত শৃংগ কোনটো?
-A) K2 (Godwin-Austen) / কে২ (গডৱিন-অষ্টিন)
+A) K2 / Godwin-Austen / কে২ / গডৱিন-অষ্টিন
 B) Kanchenjunga / কাঞ্চনজংঘা
 C) Nanda Devi / নন্দা দেৱী
 D) Anamudi / আনামুদি
@@ -38,7 +38,7 @@ Ans: B
 
 ভাৰতৰ মূল ভূখণ্ডৰ একেবাৰে দক্ষিণৰ বিন্দু কি?
 A) Indira Point / ইন্দিৰা পইণ্ট
-B) Kanyakumari (Cape Comorin) / কন্যাকুমাৰী (কেপ কমৰিন)
+B) Kanyakumari / Cape Comorin / কন্যাকুমাৰী / কেপ কমৰিন
 C) Rameshwaram / ৰামেশ্বৰম
 D) Minicoy / মিনিকয়
 Ans: B
@@ -65,7 +65,7 @@ Ans: C
 
 ভাৰতৰ প্ৰমাণ দ্ৰাঘিমা ৰেখা উত্তৰ প্ৰদেশৰ কোনখন চহৰৰ মাজেৰে পাৰ হৈ গৈছে?
 A) Varanasi / বাৰাণসী
-B) Mirzapur (Prayagraj) / মিৰ্জাপুৰ (প্ৰয়াগৰাজ)
+B) Mirzapur / Prayagraj / মিৰ্জাপুৰ / প্ৰয়াগৰাজ
 C) Lucknow / লখনউ
 D) Kanpur / কানপুৰ
 Ans: B
@@ -127,7 +127,7 @@ Ans: B
 15. Which is the highest peak in the Eastern Ghats?
 
 পূৰ্বঘাট পৰ্বতমালাৰ সৰ্বোচ্চ শৃংগ কোনটো?
-A) Jindhagada Peak (or Armakonda) / জিন্দাগাদা শৃংগ (বা আৰ্মাকোণ্ডা)
+A) Jindhagada Peak / or Armakonda / জিন্দাগাদা শৃংগ / বা আৰ্মাকোণ্ডা
 B) Anamudi / আনামুদি
 C) Doddabetta / দোদাবেত্তা
 D) Dhupgarh / ধূপগড়

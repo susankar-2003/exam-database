@@ -2,7 +2,7 @@
 
 পাঞ্জাৱ আৰু হাৰিয়ানাত শীতকালৰ বৰষুণ কোনটো শস্যৰ বাবে অত্যন্ত লাভজনক?
 A) Rice / ধান
-B) Wheat (Rabi Crop) / ঘেঁহু (ৰবি শস্য)
+B) Wheat / Rabi Crop / ঘেঁহু / ৰবি শস্য
 C) Cotton / কপাহ
 D) Tea / চাহ
 Ans: B
@@ -145,7 +145,7 @@ Ans: A
 17. Why does Mumbai receive more rainfall than Pune during the summer monsoon?
 
 গ্ৰীষ্মকালীন মৌচুমীৰ সময়ত মুম্বাইত পুনেতকৈ কিয় বেছি বৰষুণ হয়?
-A) Mumbai lies on the windward side of Western Ghats / মুম্বাই পশ্চিমঘাটৰ বতাহৰ মুখিন (Windward) ফালত অৱস্থিত
+A) Mumbai lies on the windward side of Western Ghats / মুম্বাই পশ্চিমঘাটৰ বতাহৰ মুখিন / Windward ফালত অৱস্থিত
 B) Pune is closer to sea / পুনে সাগৰৰ ওচৰত অৱস্থিত
 C) Mumbai has more vegetation / মুম্বাইত গছ-গছনি বেছি
 D) Pune is at a lower elevation / পুনে কম উচ্চতাত অৱস্থিত

@@ -20,7 +20,7 @@ Ans: B
 
 একেখন পামতে শস্য উৎপাদন আৰু পশু পালন একেলগে কৰা কৃষি প্ৰণালীক কি বোলা হয়?
 A) Subsistence Farming / জীৱিকা নিৰ্বাহক কৃষি
-B) Mixed Farming / মিশ্ৰিত কৃষি (Mixed Farming)
+B) Mixed Farming / মিশ্ৰিত কৃষি / Mixed Farming
 C) Commercial Farming / বাণিজ্যিক কৃষি
 D) Plantation Agriculture / ৰোপণ কৃষি
 Ans: B
@@ -39,7 +39,7 @@ Ans: B
 তলৰ কোনটো ভাৰতৰ এটা প্ৰধান খাৰিফ শস্য?
 A) Wheat / ঘেঁহু
 B) Mustard / সৰিয়হ
-C) Paddy (Rice) / ধান
+C) Paddy / Rice / ধান
 D) Barley / বাৰ্লি
 Ans: C
 
@@ -57,7 +57,7 @@ Ans: C
 ভাৰতত জায়েড (Zaid) শস্য কোনডো সময়ছোৱাত কৰা হয়?
 A) October to March / অক্টোবৰৰ পৰা মাৰ্চ
 B) June to September / জুনৰ পৰা ছেপ্টেম্বৰ
-C) March to June (Summer season) / মাৰ্চৰ পৰা জুন (গ্ৰীষ্মকাল)
+C) March to June / গ্ৰীষ্মকাল
 D) December to February / ডিচেম্বৰৰ পৰা ফেব্ৰুৱাৰী
 Ans: C
 
@@ -65,7 +65,7 @@ Ans: C
 
 ভাৰতত খাদ্যশস্যৰ বাফাৰ মজুত (Buffer Stock) কোনটো প্ৰতিষ্ঠানে সংৰক্ষণ কৰে?
 A) NITI Aayog / নীতি আয়োগ
-B) Food Corporation of India (FCI) / ভাৰতীয় খাদ্য নিগম (FCI)
+B) Food Corporation of India / ভাৰতীয় খাদ্য নিগম
 C) NABARD / নাবাৰ্ড
 D) Ministry of Agriculture / কৃষি মন্ত্ৰালয়
 Ans: B
@@ -110,7 +110,7 @@ Ans: B
 
 ৰপ্তানি মূল্যৰ দিশৰ পৰা ভাৰতৰ আটাইতকৈ ডাঙৰ নগদ ধন উপাৰ্জনকাৰী শস্য (Cash Crop) কোনটো?
 A) Tea / চাহ
-B) Rice (Basmati) / ধান (বাসমতী)
+B) Rice / ধান 
 C) Spices / মচলা
 D) Tobacco / ধপাত
 Ans: B
@@ -137,7 +137,7 @@ Ans: B
 
 পৰম্পৰাগত কৃষি বিকাশ যোজনা (PKVY) ৰ উদ্দেশ্য কি প্ৰসাৰ কৰা?
 A) Chemical Fertilizers / ৰাসায়নিক সাৰ
-B) Organic Farming / জৈৱিক কৃষি (Organic Farming)
+B) Organic Farming / জৈৱিক কৃষি
 C) Drip Irrigation / টোপাল জলসিঞ্চন
 D) Farm Mechanization / কৃষি যান্ত্ৰিকীকৰণ
 Ans: B
@@ -155,7 +155,7 @@ Ans: D
 
 কোনটো শস্যৰ বৃদ্ধিৰ বাবে পথাৰত পানী জমা হৈ থকাটো প্ৰয়োজন?
 A) Wheat / ঘেঁহু
-B) Rice (Paddy) / ধান
+B) Rice / ধান
 C) Mustard / সৰিয়হ
 D) Gram / বুট দাইল
 Ans: B
@@ -173,7 +173,7 @@ Ans: B
 
 ভাৰত চৰকাৰৰ হৈ আধিকাৰিকভাৱে ন্যূনতম সমৰ্থন মূল্য (MSP) কোনে ঘোষণা কৰে?
 A) NABARD / নাবাৰ্ড
-B) Cabinet Committee on Economic Affairs (CCEA) / অৰ্থনৈতিক পৰিক্ৰমাৰ কেবিনেট কমিটি (CCEA)
+B) Cabinet Committee on Economic Affairs / অৰ্থনৈতিক পৰিক্ৰমাৰ কেবিনেট কমিটি
 C) Reserve Bank of India / ৰিজাৰ্ভ বেংক অফ ইণ্ডিয়া
 D) Finance Commission / বিত্ত আয়োগ
 Ans: B

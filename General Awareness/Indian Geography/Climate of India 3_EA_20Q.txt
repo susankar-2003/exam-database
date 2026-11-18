@@ -65,7 +65,7 @@ Ans: B
 
 কৰমণ্ডল উপকূল (তামিলনাডু) ত শীতকালত বেছিভাগ বৰষুণ কোনটো বতাহৰ পৰা হয়?
 A) South-West Monsoon / দক্ষিণ-পশ্চিম মৌচুমী বতাহ
-B) North-East (Retreating) Monsoon / উত্তৰ-পূব (প্ৰত্যাৱৰ্তনকাৰী) মৌচুমী বতাহ
+B) North-East / Retreating Monsoon / উত্তৰ-পূব / প্ৰত্যাৱৰ্তনকাৰী মৌচুমী বতাহ
 C) South-East Trade Winds / দক্ষিণ-পূব বাণিজ্য বতাহ
 D) Western Disturbances / পশ্চিমীয়া ঝঞ্ঝা
 Ans: B
@@ -83,7 +83,7 @@ Ans: B
 
 পশ্চিম বংগ আৰু অসমত মৌচুমীৰ পূৰ্বে হোৱা ধুমুহা-বৰষুণক স্থানীয়ভাৱে কি বুলি জনা যায়?
 A) Loo / লু
-B) Kalbaisakhi (Nor'westers) / কালবৈশাখী
+B) Kalbaisakhi / Nor'westers / কালবৈশাখী
 C) Mango Showers / আম্ৰ বৃষ্টি
 D) Cherry Blossom / চেৰী ব্লচম
 Ans: B
@@ -110,7 +110,7 @@ Ans: A
 
 পশ্চিমীয়া ঝঞ্ঝাৰ (Western Disturbances) বাবে ভাৰতৰ কোনটো অঞ্চলত শীতকালত বৰষুণ হয়?
 A) South-East Peninsular India / দক্ষিণ-পূব উপদ্বীপীয় ভাৰত
-B) North-West India (Punjab, Haryana) / উত্তৰ-পশ্চিম ভাৰত (পাঞ্জাৱ, হাৰিয়ানা)
+B) North-West India / Punjab, Haryana / উত্তৰ-পশ্চিম ভাৰত / পাঞ্জাৱ, হাৰিয়ানা
 C) North-East India / উত্তৰ-পূব ভাৰত
 D) Western Coastal Plains / পশ্চিম উপকূলীয় সমভূমি
 Ans: B

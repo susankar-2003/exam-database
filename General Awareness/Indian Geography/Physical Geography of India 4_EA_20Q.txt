@@ -28,7 +28,7 @@ Ans: B
 4. Which region in India receives winter rainfall from Western Disturbances?
 
 ভাৰতৰ কোনটো অঞ্চলে পশ্চিমীয়া ঝঞ্ঝাৰ (Western Disturbances) পৰা শীতকালত বৰষুণ লাভ কৰে?
-A) North-West India (Punjab, Haryana) / উত্তৰ-পশ্চিম ভাৰত (পঞ্জাব, হাৰিয়ানা)
+A) North-West India / Punjab, Haryana / উত্তৰ-পশ্চিম ভাৰত / পঞ্জাব, হাৰিয়ানা
 B) Coromandel Coast / কৰমণ্ডল উপকূল
 C) Malabar Coast / মালাবাৰ উপকূল
 D) North-East India / উত্তৰ-পূব ভাৰত
@@ -38,7 +38,7 @@ Ans: A
 
 উভতি যোৱা উত্তৰ-পূব মৌচুমী বতাহৰ বাবে ভাৰতৰ কোনটো উপকূলে শীতকালত বৰষুণ লাভ কৰে?
 A) Malabar Coast / মালাবাৰ উপকূল
-B) Coromandel Coast (Tamil Nadu) / কৰমণ্ডল উপকূল (তামিলনাডু)
+B) Coromandel Coast / Tamil Nadu / কৰমণ্ডল উপকূল / তামিলনাডু
 C) Konkan Coast / কোংকন উপকূল
 D) Northern Circars / উত্তৰ সৰকাৰ
 Ans: B
@@ -74,7 +74,7 @@ Ans: A
 
 কেৰালা আৰু কৰ্ণাটকত আম সোনকালে পকাত সহায় কৰা প্ৰাক-মৌচুমী বৰষুণক কি বুলি জনা যায়?
 A) Kalbaisakhi / কালবৈশাখী
-B) Mango Showers / মেংগো শ্বাৱাৰ্ছ (Mango Showers)
+B) Mango Showers / মেংগো শ্বাৱাৰ্ছ / Mango Showers
 C) Loo / লু
 D) Cherry Blossom / চেৰী ব্লছম
 Ans: B

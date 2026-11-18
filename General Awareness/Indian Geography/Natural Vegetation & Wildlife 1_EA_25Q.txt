@@ -136,7 +136,7 @@ Ans: A
 16. Which tree species is commonly found in Tropical Thorn Forests and Scrubs?
 
 ক্ৰান্তীয় কাঁইটীয়া অৰণ্যত সাধাৰণতে কোন বিধ গছ পোৱা যায়?
-A) Acacia (Babool) / বাবুল (Acacia)
+A) Acacia / Babool / বাবুল / Acacia
 B) Teak / চেগুন
 C) Sal / শাল
 D) Ebony / এবনী
@@ -199,9 +199,9 @@ Ans: A
 23. Which organization publishes the India State of Forest Report (ISFR) biennially?
 
 কোনটো প্ৰতিষ্ঠানে দ্বি-বাৰ্ষিকভাৱে ইণ্ডিয়া ষ্টেট অৱ ফৰেষ্ট ৰিপ’ৰ্ট (ISFR) প্ৰকাশ কৰে?
-A) Forest Survey of India (FSI) / ফৰেষ্ট চাৰ্ভে অৱ ইণ্ডিয়া
-B) Botanical Survey of India (BSI) / বোটানিকেল চাৰ্ভে অৱ ইণ্ডিয়া
-C) Zoological Survey of India (ZSI) / জুঅ'লজিকেল চাৰ্ভে অৱ ইণ্ডিয়া
+A) Forest Survey of India / FSI / ফৰেষ্ট চাৰ্ভে অৱ ইণ্ডিয়া
+B) Botanical Survey of India / BSI / বোটানিকেল চাৰ্ভে অৱ ইণ্ডিয়া
+C) Zoological Survey of India / ZSI / জুঅ'লজিকেল চাৰ্ভে অৱ ইণ্ডিয়া
 D) NITI Aayog / নীতি আয়োগ
 Ans: A
 

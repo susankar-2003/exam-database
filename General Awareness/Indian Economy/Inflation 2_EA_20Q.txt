@@ -11,7 +11,7 @@ Ans: B
 
 সামগ্ৰী আৰু সেৱাৰ সাধাৰণ মূল্যস্তৰৰ নিৰন্তৰ হ্ৰাস হোৱা অৱস্থাক কি বোলা হয়?
 A) Inflation / মুদ্ৰাস্ফীতি
-B) Deflation / ডিফ্লেশ্বন (মুদ্ৰাসংকুচন)
+B) Deflation / ডিফ্লেশ্বন / মুদ্ৰাসংকুচন
 C) Stagflation / ষ্টেগফ্লেশ্বন
 D) Reflation / ৰিফ্লেশ্বন
 Ans: B
@@ -46,17 +46,17 @@ Ans: C
 6. How is the GDP Deflator calculated?
 
 জিডিপি ডিফ্লেটৰ (GDP Deflator) কেনেকৈ গণনা কৰা হয়?
-A) (Nominal GDP / Real GDP) * 100 / (নামমাত্ৰ জিডিপি / প্ৰকৃত জিডিপি) * 100
-B) (Real GDP / Nominal GDP) * 100 / (প্ৰকৃত জিডিপি / নামমাত্ৰ জিডিপি) * 100
-C) (Nominal GDP - Real GDP) * 100 / (নামমাত্ৰ জিডিপি - প্ৰকৃত জিডিপি) * 100
-D) (CPI / WPI) * 100 / (গ্ৰাহক মূল্য সূচকাংক / পাইকাৰী মূল্য সূচকাংক) * 100
+A) Nominal GDP / Real GDP * 100 / নামমাত্ৰ জিডিপি / প্ৰকৃত জিডিপি * 100
+B) Real GDP / Nominal GDP * 100 / প্ৰকৃত জিডিপি / নামমাত্ৰ জিডিপি * 100
+C) Nominal GDP - Real GDP * 100 / নামমাত্ৰ জিডিপি - প্ৰকৃত জিডিপি * 100
+D) CPI / WPI * 100 / গ্ৰাহক মূল্য সূচকাংক / পাইকাৰী মূল্য সূচকাংক * 100
 Ans: A
 
 7. Government policy of deliberately inducing mild inflation to revive a slumping economy is called:
 
 মন্থৰ হৈ পৰা অৰ্থনীতিৰ পুনৰুজ্জীৱনৰ বাবে চৰকাৰে ইচ্ছাকৃতভাৱে মৃদু মুদ্ৰাস্ফীতি সৃষ্টি কৰা নীতিটো কি?
 A) Stagflation / ষ্টেগফ্লেশ্বন
-B) Reflation / ৰিফ্লেশ্বন (Reflation)
+B) Reflation / ৰিফ্লেশ্বন 
 C) Disinflation / ডিজইনফ্লেশ্বন
 D) Deflation / ডিফ্লেশ্বন
 Ans: B
@@ -64,8 +64,8 @@ Ans: B
 8. Which type of inflation occurs when prices rise very slowly at a rate of 1% to 3% per annum?
 
 বছৰি 1% ৰ পৰা 3% ৰ লেহেমীয়াকৈ মূল্য বৃদ্ধি হ’লে তাক কি ধৰণৰ মুদ্ৰাস্ফীতি বোলা হয়?
-A) Creeping Inflation / ক্ৰিপিং (লাহে লাহে বগোৱা) মুদ্ৰাস্ফীতি
-B) Running Inflation / ৰানিং (দৌৰা) মুদ্ৰাস্ফীতি
+A) Creeping Inflation / লাহে লাহে বগোৱা মুদ্ৰাস্ফীতি
+B) Running Inflation / দৌৰা মুদ্ৰাস্ফীতি
 C) Hyperinflation / হাইপাৰইনফ্লেশ্বন
 D) Galloping Inflation / গ্যালোপিং মুদ্ৰাস্ফীতি
 Ans: A
@@ -92,7 +92,7 @@ Ans: B
 
 উচ্চ মূল্যৰ কেঁচামাল আমদানিৰ ফলত দেশীয় অৰ্থনীতিত হোৱা মুদ্ৰাস্ফীতিক কি বোলা হয়?
 A) Domestic Inflation / দেশীয় মুদ্ৰাস্ফীতি
-B) Imported Inflation / আমদানিকৃত মুদ্ৰাস্ফীতি (Imported Inflation)
+B) Imported Inflation / আমদানিকৃত মুদ্ৰাস্ফীতি
 C) Exported Inflation / ৰপ্তানিকৃত মুদ্ৰাস্ফীতি
 D) Cost-benefit Inflation / ব্যয়-লাভ মুদ্ৰাস্ফীতি
 Ans: B
@@ -121,7 +121,7 @@ Ans: B
 A) Primary Articles / প্ৰাথমিক সামগ্ৰী
 B) Fuel and Power / ইন্ধন আৰু শক্তি
 C) Manufactured Goods / উৎপাদিত সামগ্ৰী
-D) Services / সেৱা খণ্ড (Services)
+D) Services / সেৱা খণ্ড
 Ans: D
 
 15. The Monetary Policy Committee (MPC) in India consists of how many members?
@@ -145,16 +145,16 @@ Ans: B
 17. A situation of high inflation alongside high economic growth is termed as:
 
 উচ্চ অৰ্থনৈতিক বিকাশৰ সমান্তৰালভাৱে হোৱা উচ্চ মুদ্ৰাস্ফীতিক কি বোলা হয়?
-A) Overheating of the economy / অৰ্থনীতি অতি উত্তপ্ত হোৱা (Overheating)
-B) Recession / মন্দাৱস্থা (Recession)
-C) Depression / বিষণ্নতা (Depression)
+A) Overheating of the economy / অৰ্থনীতি অতি উত্তপ্ত হোৱা 
+B) Recession / মন্দাৱস্থা 
+C) Depression / বিষণ্নতা 
 D) Deflation / ডিফ্লেশ্বন
 Ans: A
 
 18. The phenomenon where wage increases lead to price increases, which in turn lead to further wage increases is called:
 
 মজুৰি বৃদ্ধিয়ে মূল্য বৃদ্ধি কৰা আৰু তাৰ ফলত পুনৰ মজুৰি বৃদ্ধি হোৱা চক্ৰীয় প্ৰক্ৰিয়াটোক কি বোলা হয়?
-A) Wage-Price Spiral / ৱেজ-প্ৰাইচ স্পাইৰেল (Wage-Price Spiral)
+A) Wage-Price Spiral / ৱেজ-প্ৰাইচ স্পাইৰেল
 B) Price Elasticity / মূল্য নমনীয়তা
 C) Inflationary Gap / মুদ্ৰাস্ফীতিৰ ব্যৱধান
 D) Cost Trajectory / ব্যয় গতিপথ

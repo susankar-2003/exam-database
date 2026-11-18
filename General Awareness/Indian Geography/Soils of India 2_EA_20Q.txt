@@ -37,7 +37,7 @@ Ans: A
 5. The Karewas soil formations in Jammu & Kashmir are famous for the cultivation of which crop?
 
 জম্মু আৰু কাশ্মীৰৰ 'কাৰেৱা' (Karewas) মাটিৰ গঠন কোনটো শস্যৰ খেতিৰ বাবে বিখ্যাত?
-A) Saffron (Zafran) / জাফৰান (জাফ্ৰান/কেচৰ)
+A) Saffron / Zafran / জাফৰান / জাফ্ৰান/কেচৰ
 B) Tea / চাহ
 C) Rice / ধান
 D) Coffee / কফি
@@ -56,9 +56,9 @@ Ans: A
 
 পানীৰ ক্ষয় হ্ৰাস কৰিবলৈ সমোচ্চ ৰেখা (Contour lines) আৰু ঢাল অনুসৰি খেতি কৰা মৃত্তিকা সংৰক্ষণ পদ্ধতিটোক কি বোলা হয়?
 A) Contour Ploughing / কণ্টুৰ নাঙল বোৱা
-B) Shelterbelts / আশ্ৰয়বেষ্টনী (Shelterbelts)
-C) Terrace Farming / ঢাপ খেতি (Terrace Farming)
-D) Mulching / মালচিং (Mulching)
+B) Shelterbelts / আশ্ৰয়বেষ্টনী / Shelterbelts
+C) Terrace Farming / ঢাপ খেতি / Terrace Farming
+D) Mulching / মালচিং / Mulching
 Ans: A
 
 8. Rows of trees planted to check the wind speed and prevent soil erosion in arid zones are called what?
@@ -82,7 +82,7 @@ Ans: A
 10. Soil pH can be increased to treat acidic soil by applying which substance?
 
 কোনটো পদাৰ্থ প্ৰয়োগ কৰি অম্লীয় মাটিৰ চিকিৎসাৰ বাবে soil pH বৃদ্ধি কৰিব পাৰি?
-A) Lime (Calcium Carbonate) / চূণ (কেলছিয়াম কাৰ্বনেট)
+A) Lime / Calcium Carbonate / চূণ / কেলছিয়াম কাৰ্বনেট
 B) Gypsum / জিপচাম
 C) Urea / ইউৰিয়া
 D) Sulphur / চালফাৰ
@@ -118,10 +118,10 @@ Ans: A
 14. Which soil layer contains the highest amount of organic matter and nutrients?
 
 মাটিৰ কোনটো স্তৰত আটাইতকৈ বেছি পৰিমাণে জৈৱিক পদাৰ্থ আৰু পুষ্টিকৰ উপাদান থাকে?
-A) Topsoil (A Horizon) / উপৰিভাগৰ মাটি (A স্তৰ)
-B) Subsoil (B Horizon) / তলৰ মাটি (B স্তৰ)
-C) Parent Rock (C Horizon) / মূল শিলা (C স্তৰ)
-D) Bedrock (R Horizon) / ভেটি শিলা (R স্তৰ)
+A) Topsoil / A Horizon / উপৰিভাগৰ মাটি / A স্তৰ
+B) Subsoil / B Horizon / তলৰ মাটি / B স্তৰ
+C) Parent Rock / C Horizon / মূল শিলা / C স্তৰ
+D) Bedrock / R Horizon / ভেটি শিলা / R স্তৰ
 Ans: A
 
 15. The Soil Health Card Scheme was launched by the Government of India in which year?

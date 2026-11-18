@@ -38,7 +38,7 @@ Ans: C
 
 PM-SVANidhi আঁচনিখন কোনটো বিশেষ গোটক ক্ষুদ্ৰ ঋণ প্ৰদান কৰাৰ বাবে আৰম্ভ কৰা হৈছিল?
 A) Small Farmers / ক্ষুদ্ৰ কৃষক
-B) Street Vendors / পথৰ ব্যৱসায়ী (ফৰীয়া)
+B) Street Vendors / পথৰ ব্যৱসায়ী 
 C) Anganwadi Workers / অংগনবাড়ী কৰ্মী
 D) Handloom Weavers / তাঁতশালৰ বোৱাকটা শ্ৰমিক
 Ans: B
@@ -82,7 +82,7 @@ Ans: A
 10. Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) is formulated with which primary vision?
 
 প্ৰধানমন্ত্ৰী কৃষি সিঞ্চায়ী যোজনা (PMKSY) কোনটো মূল লক্ষ্যৰে গ্ৰহণ কৰা হৈছে?
-A) Har Khet Ko Pani / হৰ খেত কো পানী (প্ৰতিডৰা পথাৰলৈ পানী)
+A) Har Khet Ko Pani / হৰ খেত কো পানী
 B) Har Hath Ko Kam / হৰ হাত কো কাম
 C) Sabka Saath Sabka Vikas / সবকা সাথ সবকা বিকাশ
 D) Clean India Green India / ক্লিন ইণ্ডিয়া গ্ৰীণ ইণ্ডিয়া
@@ -145,7 +145,7 @@ Ans: A
 17. Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM) aims at reducing poverty through:
 
 দীনদয়াল অন্ত্যোদয় যোজনা - ৰাষ্ট্ৰীয় গ্ৰাম্য জীৱিকা মিছনে (DAY-NRLM) কিহৰ জৰিয়তে দৰিদ্ৰতা হ্ৰাস কৰাৰ লক্ষ্য ৰাখিছে?
-A) Self-Help Groups (SHGs) and micro-enterprises / আত্মসহায়ক গোট (SHG) আৰু ক্ষুদ্ৰ উদ্যোগ
+A) Self-Help Groups and micro-enterprises / আত্মসহায়ক গোট আৰু ক্ষুদ্ৰ উদ্যোগ
 B) Direct Cash Transfers / প্ৰত্যক্ষ নগদ ধন হস্তান্তৰ
 C) Free Grain Distribution / বিনামূলীয়া খাদ্যশস্য বিতৰণ
 D) Urban Housing Loans / নগৰীয়া গৃহ ঋণ

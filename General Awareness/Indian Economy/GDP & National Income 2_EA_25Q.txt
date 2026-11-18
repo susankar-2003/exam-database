@@ -73,7 +73,7 @@ Ans: A
 9. What is the current trend of the service sector's contribution to India's GDP?
 
 ভাৰতৰ GDP লৈ সেৱা খণ্ডৰ বৰঙণিৰ বৰ্তমানৰ প্ৰৱণতা কি?
-A) Consistently the largest share (over 50%) / ধাৰাবাহিকভাৱে সৰ্ববৃহৎ অংশ (50% তকৈ অধিক)
+A) Consistently the largest share / ধাৰাবাহিকভাৱে সৰ্ববৃহৎ অংশ 
 B) Decreasing rapidly / দ্ৰুতগতিত হ্ৰাস পাইছে
 C) Equal to agriculture / কৃষিৰ সমান
 D) Lowest among all sectors / সকলো খণ্ডতকৈ নিম্ন
@@ -172,9 +172,9 @@ Ans: A
 20. The total financial value of final goods produced by citizens of a country inside or outside the country is:
 
 দেশৰ নাগৰিকে দেশৰ ভিতৰত বা বাহিৰত উৎপাদন কৰা চূড়ান্ত সামগ্ৰীৰ মুঠ বিত্তীয় মূল্য হ'ল:
-A) Gross National Product (GNP) / মুঠ ৰাষ্ট্ৰীয় উৎপাদন
-B) Gross Domestic Product (GDP) / মুঠ ঘৰুৱা উৎপাদন
-C) Net Domestic Product (NDP) / নিখুঁত ঘৰুৱা উৎপাদন
+A) Gross National Product / মুঠ ৰাষ্ট্ৰীয় উৎপাদন
+B) Gross Domestic Product / মুঠ ঘৰুৱা উৎপাদন
+C) Net Domestic Product / নিখুঁত ঘৰুৱা উৎপাদন
 D) Personal Income / ব্যক্তিগত আয়
 Ans: A
 

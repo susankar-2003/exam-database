@@ -55,7 +55,7 @@ Ans: A
 7. What is the study of soil in its natural environment called?
 
 প্ৰাকৃতিক পৰিৱেশত মাটিৰ অধ্যয়নক কি বুলি জনা যায়?
-A) Pedology / পেড'লজী (Pedology)
+A) Pedology / পেড'লজী / Pedology
 B) Petrology / পেট্ৰ'লজী
 C) Hydrology / হাইড্ৰ'লজী
 D) Geomorphology / জিঅ'মৰ্ফ'লজী
@@ -64,7 +64,7 @@ Ans: A
 8. What is the scientific term for the vertical section of soil showing different layers?
 
 মাটিৰ বিভিন্ন স্তৰ প্ৰদৰ্শন কৰা উলম্ব ছেদৰ বৈজ্ঞানিক নাম কি?
-A) Soil Profile / মৃত্তিকা পাৰ্শ্বচিত্ৰ (Soil Profile)
+A) Soil Profile / মৃত্তিকা পাৰ্শ্বচিত্ৰ / Soil Profile
 B) Soil Texture / মৃত্তিকা গঠন
 C) Soil Horizon / মৃত্তিকা স্তৰ
 D) Soil Structure / মৃত্তিকা গাঁথনি
@@ -145,7 +145,7 @@ Ans: A
 17. Which crop is suitable to be planted to restore nitrogen naturally in depleted soils?
 
 ক্ষয়প্ৰাপ্ত মাটিত প্ৰাকৃতিকভাৱে নাইট্ৰ'জেন পুনৰুদ্ধাৰ কৰিবলৈ কোনটো শস্য ৰোপণ কৰাটো উপযোগী?
-A) Leguminous crops (Pulses) / মাহজাতীয় শস্য
+A) Leguminous crops / Pulses / মাহজাতীয় শস্য
 B) Rice / ধান
 C) Wheat / ঘেঁহু
 D) Sugarcane / কুঁহিয়াৰ
@@ -154,7 +154,7 @@ Ans: A
 18. What is the process of movement of water-soluble nutrients down through soil layers called?
 
 মাটিৰ স্তৰৰ মাজেৰে পানী দ্ৰৱণীয় পুষ্টিকৰ উপাদানসমূহ তললৈ বৈ যোৱা প্ৰক্ৰিয়াটোক কি বোলা হয়?
-A) Leaching / লিচিং (Leaching)
+A) Leaching / লিচিং / Leaching
 B) Weathering / ক্ষয়ীভৱন
 C) Erosion / ক্ষয়
 D) Salinization / লৱণীকৰণ

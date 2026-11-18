@@ -55,26 +55,26 @@ Ans: B
 7. Dearness Allowance (DA) for Central Government employees in India is calculated based on:
 
 ভাৰতত কেন্দ্ৰীয় চৰকাৰৰ কৰ্মচাৰীসকলৰ মৰঘীয়া বানচ (DA) কিহৰ ভিত্তিত গণনা কৰা হয়?
-A) CPI for Industrial Workers (CPI-IW) / উদ্যোগ শ্ৰমিকৰ গ্ৰাহক মূল্য সূচকাংক (CPI-IW)
-B) CPI for Agricultural Labourers (CPI-AL) / কৃষি শ্ৰমিকৰ গ্ৰাহক মূল্য সূচকাংক (CPI-AL)
-C) Wholesale Price Index (WPI) / পাইকাৰী মূল্য সূচকাংক (WPI)
+A) CPI for Industrial Workers / উদ্যোগ শ্ৰমিকৰ গ্ৰাহক মূল্য সূচকাংক 
+B) CPI for Agricultural Labourers / কৃষি শ্ৰমিকৰ গ্ৰাহক মূল্য সূচকাংক
+C) Wholesale Price Index / পাইকাৰী মূল্য সূচকাংক
 D) GDP Deflator / জিডিপি ডিফ্লেটৰ
 Ans: A
 
 8. Which CPI index is used to fix minimum wages for agricultural workers in India?
 
 ভাৰতত কৃষি শ্ৰমিকৰ ন্যূনতম মজুৰি নিৰ্ধাৰণৰ বাবে কোনটো CPI সূচকাংক ব্যৱহাৰ কৰা হয়?
-A) CPI Rural / গ্ৰাম্য CPI
-B) CPI Agricultural Labourers (CPI-AL) / কৃষি শ্ৰমিকৰ গ্ৰাহক মূল্য সূচকাংক (CPI-AL)
-C) CPI Urban / নগৰীয়া CPI
-D) CPI Combined / একত্ৰিত CPI
+A) CPI Rural / গ্ৰাম্য 
+B) CPI Agricultural Labourers / কৃষি শ্ৰমিকৰ গ্ৰাহক মূল্য সূচকাংক
+C) CPI Urban / নগৰীয়া 
+D) CPI Combined / একত্ৰিত 
 Ans: B
 
 9. What is the main disadvantage of Wholesale Price Index (WPI)?
 
 পাইকাৰী মূল্য সূচকাংকৰ (WPI) মূল অসুবিধা কি?
 A) It does not cover primary articles / ইয়াত প্ৰাথমিক সামগ্ৰী অন্তৰ্ভুক্ত নহয়
-B) It does not include the service sector / ইয়াত সেৱা খণ্ড (Services) অন্তৰ্ভুক্ত নহয়
+B) It does not include the service sector / ইয়াত সেৱা খণ্ড অন্তৰ্ভুক্ত নহয়
 C) It is published annually / ই বছৰেকীয়াকৈ প্ৰকাশ পায়
 D) It is based on retail prices / ই খুচুৰা মূল্যৰ ওপৰত আধাৰিত
 Ans: B
@@ -110,7 +110,7 @@ Ans: D
 
 কোনটো ধাৰণাই ব্যাখ্যা কৰে যে মুদ্ৰাস্ফীতি সদায় আৰু সকলো ঠাইতে এক মুদ্ৰাগত ঘটনা?
 A) Keynesian Theory / কেইনছীয় তত্ত্ব
-B) Monetarist Theory (Milton Friedman) / মুদ্ৰাবাদী তত্ত্ব (মিল্টন ফ্ৰীডমেন)
+B) Monetarist Theory / মুদ্ৰাবাদী তত্ত্ব
 C) Classical Trade Theory / ধ্ৰুপদী বাণিজ্য তত্ত্ব
 D) Structuralist Theory / গঠনবাদী তত্ত্ব
 Ans: B

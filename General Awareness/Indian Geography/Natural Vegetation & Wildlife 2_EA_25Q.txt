@@ -72,7 +72,7 @@ Ans: A
 
 9. Jim Corbett National Park, the first national park of India, is located in which state?
 
-ভাৰতৰ প্ৰথমটো ৰাষ্ট্ৰীয় উদ্যান জিম কৰ্বাট ৰাষ্ট্ৰীয় উদ্যান কোনখন ৰাজ্যত অৱস্থিত?
+ভাৰতৰ প্ৰথমটো ৰাষ্ট্ৰীয় উদ্যান জিম কৰ্বেট ৰাষ্ট্ৰীয় উদ্যান কোনখন ৰাজ্যত অৱস্থিত?
 A) Uttarakhand / উত্তৰাখণ্ড
 B) Himachal Pradesh / হিমাচল প্ৰদেশ
 C) Assam / অসম
@@ -81,7 +81,7 @@ Ans: A
 
 10. What was the original name of Jim Corbett National Park when it was established in 1936?
 
-১৯৩৬ চনত প্ৰতিষ্ঠা হ'ওঁতে জিম কৰ্বাট ৰাষ্ট্ৰীয় উদ্যানৰ মূল নাম কি আছিল?
+১৯৩৬ চনত প্ৰতিষ্ঠা হ'ওঁতে জিম কৰ্বেট ৰাষ্ট্ৰীয় উদ্যানৰ মূল নাম কি আছিল?
 A) Hailey National Park / হেলী ৰাষ্ট্ৰীয় উদ্যান
 B) Ramganga National Park / ৰামগংগা ৰাষ্ট্ৰীয় উদ্যান
 C) Kaziranga National Park / কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান
@@ -91,7 +91,7 @@ Ans: A
 11. Kaziranga National Park in Assam is world-famous for which animal?
 
 অসমৰ কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান কোনটো প্ৰাণীৰ বাবে বিশ্বখ্যাত?
-A) One-horned Rhinoceros / এশিঙীয়া গঁৰ
+A) One-horned Rhinoceros / এশিঙীয়া গঁড়
 B) Royal Bengal Tiger / ৰয়েল বেঙ্গল টাইগাৰ
 C) Asiatic Lion / এছিয়াটিক সিংহ
 D) Snow Leopard / স্ন’ লেপাৰ্ড
@@ -103,7 +103,7 @@ Ans: A
 A) Asiatic Lion / এছিয়াটিক সিংহ
 B) Royal Bengal Tiger / ৰয়েল বেঙ্গল টাইগাৰ
 C) Snow Leopard / স্ন’ লেপাৰ্ড
-D) One-horned Rhinoceros / এশিঙীয়া গঁৰ
+D) One-horned Rhinoceros / এশিঙীয়া গঁড়
 Ans: A
 
 13. Keoladeo Ghana National Park (formerly Bharatpur Bird Sanctuary) is located in which state?
@@ -198,7 +198,7 @@ Ans: A
 
 23. Periyar National Park, known for its elephant and tiger reserve, is in which state?
 
-হাতী আৰু বাঘ ৰিজাৰ্ভৰ বাবে জনাজাত পৰিয়াৰ ৰাষ্ট্ৰীয় উদ্যান কোনখন ৰাজ্যত অৱস্থিত?
+হাতী আৰু বাঘ ৰিজাৰ্ভৰ বাবে জনাজাত পেৰিয়াৰ ৰাষ্ট্ৰীয় উদ্যান কোনখন ৰাজ্যত অৱস্থিত?
 A) Kerala / কেৰালা
 B) Tamil Nadu / তামিলনাডু
 C) Karnataka / কৰ্ণাটক

@@ -90,7 +90,7 @@ Ans: C
 
 11. Hornbill Festival, a famous cultural event, is celebrated in which Indian state?
 
-বিখ্যাত সাংস্কৃতিক উৎসৱ হৰ্ণবিল অণুমণ্ডলী কোনখন ভাৰতীয় ৰাজ্যত উদযাপন কৰা হয়?
+বিখ্যাত সাংস্কৃতিক উৎসৱ হৰ্ণবিল কোনখন ভাৰতীয় ৰাজ্যত উদযাপন কৰা হয়?
 A) Mizoram / মিজোৰাম
 B) Nagaland / নাগালেণ্ড
 C) Meghalaya / মেঘালয়
@@ -145,7 +145,7 @@ Ans: A
 17. The Great Stupa at Sanchi was built by which emperor?
 
 সাঁচীৰ বিখ্যাত মহাস্তূপ কোনজন সম্ৰাটে নিৰ্মাণ কৰাইছিল?
-A) Kanishka / কনিষ্ঠ
+A) Kanishka / কনিষ্ক
 B) Ashoka / অশোক
 C) Chandragupta Maurya / চন্দ্ৰগুপ্ত মৌৰ্য
 D) Harsha / হৰ্ষ

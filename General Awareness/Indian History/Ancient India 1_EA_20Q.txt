@@ -58,12 +58,12 @@ Ans: A
 A) Bull (ষাঁৰ)
 B) Elephant (হাতী)
 C) Horse (ঘোঁৰা)
-D) Rhinoceros (গঁৰ)
+D) Rhinoceros (গঁড়)
 Ans: C
 
 8. Who was the first archaeologist to discover Harappa in 1921?
 
-১৯২১ চনত হৰপ্পা আৱিষ্কাৰ কৰা প্ৰথমজন পুৰাতত্ত্ববিদ কোণ আছিল?
+১৯২১ চনত হৰপ্পা আৱিষ্কাৰ কৰা প্ৰথমজন পুৰাতত্ত্ববিদ কোন আছিল?
 A) R D Banerjee (আৰ. ডি. বেনাৰ্জী)
 B) Daya Ram Sahni (দয়া ৰাম সাহানী)
 C) John Marshall (জন মাৰ্শ্বাল)
@@ -72,7 +72,7 @@ Ans: B
 
 9. The famous statuette of the 'Dancing Girl' found at Mohenjo-daro was made of which material?
 
-মহেনজোদাৰোটো পোৱা বিখ্যাত 'নৃত্যৰতা ছোৱালী'ৰ মূৰ্তিটো কি উপাদানেৰে তৈয়াৰী আছিল?
+মহেনজোদাৰোত পোৱা বিখ্যাত 'নৃত্যৰতা ছোৱালী'ৰ মূৰ্তিটো কি উপাদানেৰে তৈয়াৰী আছিল?
 A) Terracotta (টেৰাকোটা)
 B) Steatite (ষ্টীয়াতাইট)
 C) Bronze (ব্ৰঞ্জ)

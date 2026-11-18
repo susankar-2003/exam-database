@@ -37,9 +37,9 @@ Ans: A
 5. Which was the first successful modern iron and steel plant in India?
 
 ভাৰতৰ প্ৰথমটো সফল আধুনিক লোহা আৰু ইস্পাত কাৰখানা কোনটো আছিল?
-A) TISCO, Jamshedpur / টিস্ক', জামছেদপুৰ
-B) IISCO, Burnpur / ইিস্ক', বাৰ্ণপুৰ
-C) VISL, Bhadravati / ভি আই এছ এল, ভদ্ৰাৱতী
+A) TISCO, Jamshedpur / TISCO টিস্ক', জামছেদপুৰ
+B) IISCO, Burnpur / IISCO ইস্ক', বাৰ্ণপুৰ
+C) VISL, Bhadravati / VISL ভি আই এছ এল, ভদ্ৰাৱতী
 D) Bokaro Steel Plant / বোকাৰো ইস্পাত কাৰখানা
 Ans: A
 
@@ -162,7 +162,7 @@ Ans: A
 
 19. Which city is widely known as the 'Detroit of Asia'?
 
-কোনখন চহৰক 'এছিয়াৰ ডাইট্ৰইট' বুলি জনা যায়?
+কোনখন চহৰক 'এছিয়াৰ ডেট্ৰয়েট' বুলি জনা যায়?
 A) Chennai / চেন্নাই
 B) Pune / পুণে
 C) Bengaluru / বেংগালুৰু

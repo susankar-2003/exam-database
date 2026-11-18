@@ -18,7 +18,7 @@ Ans: B
 
 3. What is the Northernmost point of India known as?
 
-ভাৰতৰ একেবাৰে উত্তৰৰ বিন্দু বুলি কাাক জনা যায়?
+ভাৰতৰ একেবাৰে উত্তৰৰ বিন্দু কি বুলি জনা যায়?
 A) Indira Point / ইন্দিৰা পইণ্ট
 B) Indira Col / ইন্দিৰা কোল
 C) Kibithu / কিবিথু
@@ -38,7 +38,7 @@ Ans: B
 
 ভাৰতৰ মূল ভূখণ্ডৰ একেবাৰে দক্ষিণৰ বিন্দু কি?
 A) Indira Point / ইন্দিৰা পইণ্ট
-B) Kanyakumari (Cape Comorin) / কন্যাকুমাৰী (কেপ কেমৰিন)
+B) Kanyakumari (Cape Comorin) / কন্যাকুমাৰী (কেপ কমৰিন)
 C) Rameshwaram / ৰামেশ্বৰম
 D) Minicoy / মিনিকয়
 Ans: B

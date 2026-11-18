@@ -9,7 +9,7 @@ Ans: B
 
 2. Who was the temporary Chairman of the Constituent Assembly in its first meeting?
 
-সংবিধান সভাৰ প্ৰথমখন বৈঠকত অস্থা‌য়ী সভাপতি কোনে কৰিছিল?
+সংবিধান সভাৰ প্ৰথমখন বৈঠকত অস্থায়ী সভাপতি কোন আছিল?
 A) Dr. Rajendra Prasad / ড° ৰাজেন্দ্ৰ প্ৰসাদ
 B) Dr. Sachchidananda Sinha / ড° সচ্চিদানন্দ সিনহা
 C) Dr. B R Ambedkar / ড° বি. আৰ. আম্বেদকাৰ
@@ -112,7 +112,7 @@ Ans: B
 A) Jawaharlal Nehru / জৱাহৰলাল নেহৰু
 B) Sardar Vallabhbhai Patel / চৰ্দাৰ বল্লভভাই পেটেল
 C) Dr. B R Ambedkar / ড° বি. আৰ. আম্বেদকাৰ
-D) J B Kripalani / জে. বি. কৃপালিনী
+D) J B Kripalani / জে. বি. কৃপালনী
 Ans: A
 
 14. Who was the Chairman of the Provincial Constitution Committee of the Constituent Assembly?

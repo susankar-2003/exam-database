@@ -1,6 +1,6 @@
 1. Bhabar belt lies parallel to the foothills of which mountain range?
 
-ভাম্বাৰ (Bhabar) অঞ্চলটো কোনটো পৰ্বতমালাৰ পাদদেশৰ সমান্তৰালভাৱে অৱস্থিত?
+ভাবৰ (Bhabar) অঞ্চলটো কোনটো পৰ্বতমালাৰ পাদদেশৰ সমান্তৰালভাৱে অৱস্থিত?
 A) Shiwalik Range / শিৱালিক পৰ্বতমালা
 B) Western Ghats / পশ্চিমঘাট পৰ্বতমালা
 C) Aravalli Range / আৰাৱলী পৰ্বতমালা
@@ -9,7 +9,7 @@ Ans: A
 
 2. What is the swampy, marshy, and thickly forested belt south of the Bhabar belt called?
 
-ভাম্বাৰ অঞ্চলৰ দক্ষিণে থকা জলাশয়যুক্ত, পিটনি আৰু ঘন অৰণ্যৰে আবৃত অঞ্চলটোক কি বোলা হয়?
+ভাবৰ অঞ্চলৰ দক্ষিণে থকা জলাশয়যুক্ত, পিটনি আৰু ঘন অৰণ্যৰে আবৃত অঞ্চলটোক কি বোলা হয়?
 A) Terai / তৰাই
 B) Bangar / বাংগৰ
 C) Khadar / খাদ্দাৰ
@@ -38,7 +38,7 @@ Ans: A
 
 মালচিং (Mulching) হৈছে মৃত্তিকা সংৰক্ষণৰ এনে এক কৌশল য'ত কি কৰা হয়?
 A) Covering open soil with organic matter like straw / খালী মাটি খেৰৰ দৰে জৈৱিক পদাৰ্থৰে ঢাকি দিয়া
-B) Planting trees in rows / শৰীয়াভাৱে গছ ৰোপণ কৰা
+B) Planting trees in rows / শাৰীবদ্ধভাৱে গছ ৰোপণ কৰা
 C) Constructing stone dams / শিলৰ বান্ধ নিৰ্মাণ কৰা
 D) Ploughing along slopes / ঢাল অনুসৰি নাঙল বোৱা
 Ans: A

@@ -63,7 +63,7 @@ Ans: B
 
 8. What are the local hot and dry summer winds blowing over Northern India called?
 
-উত্তৰ ভাৰতত গ্ৰীষ্মকালত বতাহ বৈ যোৱা স্থানীয় গৰম আৰু শুকান বতাহজাকক কি বোলা হয়?
+উত্তৰ ভাৰতত গ্ৰীষ্মকালত বোৱা স্থানীয় গৰম আৰু শুকান বতাহজাকক কি বোলা হয়?
 A) Loo / লু
 B) Mango Showers / আম বৰষুণ
 C) Nor'westers / কালবৈশাখী
@@ -145,7 +145,7 @@ Ans: A
 17. The Sunderbans region is famous for which endangered animal?
 
 সুন্দৰবন অঞ্চল কোনটো বিপন্ন প্ৰাণীৰ বাবে বিখ্যাত?
-A) One-horned Rhinoceros / একশিঙীয়া গঁৰ
+A) One-horned Rhinoceros / একশিঙীয়া গঁড়
 B) Royal Bengal Tiger / ৰয়েল বেংগল টাইগাৰ
 C) Asiatic Lion / এচিয়াটিক সিংহ
 D) Snow Leopard / স্ন' লেপাৰ্ড

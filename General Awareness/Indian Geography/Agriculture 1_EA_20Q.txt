@@ -39,7 +39,7 @@ Ans: B
 ভাৰতত সেউজ বিপ্লৱ প্ৰাথমিকভাৱে কোন দুটা শস্যৰ সৈতে জড়িত আছিল?
 A) Rice and Wheat / ধান আৰু ঘেঁহু
 B) Tea and Coffee / চাহ আৰু কফি
-C) Pulses and Oilseeds / দাইল আৰু তলজাতীয় শস্য
+C) Pulses and Oilseeds / দাইল আৰু তেলজাতীয় শস্য
 D) Cotton and Jute / কপাহ আৰু মৰাপাট
 Ans: A
 
@@ -126,7 +126,7 @@ Ans: B
 
 15. Yellow Revolution is associated with the production of which agricultural product?
 
-পিত বিপ্লৱ (Yellow Revolution) কোনটো কৃষি সামগ্ৰীৰ উৎপাদনৰ সৈতে জড়িত?
+হালধীয়া বিপ্লৱ (Yellow Revolution) কোনটো কৃষি সামগ্ৰীৰ উৎপাদনৰ সৈতে জড়িত?
 A) Oilseeds / তেলজাতীয় শস্য
 B) Egg / কণী
 C) Pulses / দাইল

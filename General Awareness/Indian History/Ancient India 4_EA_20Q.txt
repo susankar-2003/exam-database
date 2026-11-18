@@ -36,7 +36,7 @@ Ans: B
 
 5. Who was the Kamarupa king who formed an alliance with Harshavardhana?
 
-হৰ্ষবৰ্ধনৰ সৈতে মৈত্ৰী চুক্তি কৰা কামৰূপৰ ৰজাাজন কোন আছিল?
+হৰ্ষবৰ্ধনৰ সৈতে মৈত্ৰী চুক্তি কৰা কামৰূপৰ ৰজাজন কোন আছিল?
 A) Pushyavarman (পুষ্যৱৰ্মন)
 B) Bhaskaravarman (ভাস্কৰৱৰ্মন)
 C) Susthitavarman (সুস্থিতৱৰ্মন)
@@ -72,7 +72,7 @@ Ans: C
 
 9. Who was the founder of the Chola Dynasty in South India?
 
-দক্ষিণ ভাৰতৰ চোল ৰাজবংশৰ প্ৰতিষ্ঠাপক কোণ আছিল?
+দক্ষিণ ভাৰতৰ চোল ৰাজবংশৰ প্ৰতিষ্ঠাপক কোন আছিল?
 A) Rajaraja I (প্ৰথম ৰাজাৰাজ)
 B) Rajendra I (প্ৰথম ৰাজেন্দ্ৰ)
 C) Vijayalaya (বিজয়ালয়)
@@ -90,7 +90,7 @@ Ans: A
 
 11. Which Chola king assumed the title 'Gangaikonda Chola' after conquering parts of North India?
 
-উ উত্তৰ ভাৰতৰ অংশ বিশেষ জয় কৰাৰ পিছত কোনজন চোল ৰজাই 'গংগাইকোণ্ড চোল' উপাধি গ্ৰহণ কৰিছিল?
+উত্তৰ ভাৰতৰ অংশ বিশেষ জয় কৰাৰ পিছত কোনজন চোল ৰজাই 'গংগাইকোণ্ড চোল' উপাধি গ্ৰহণ কৰিছিল?
 A) Rajaraja I (প্ৰথম ৰাজাৰাজ)
 B) Rajendra I (প্ৰথম ৰাজেন্দ্ৰ)
 C) Vijayalaya (বিজয়ালয়)
@@ -126,7 +126,7 @@ Ans: B
 
 15. Who was the founder of the Pala Dynasty of Bengal?
 
-বংগৰ পাল ৰাজবংশৰ প্ৰতিষ্ঠাপক কোণ আছিল?
+বংগৰ পাল ৰাজবংশৰ প্ৰতিষ্ঠাপক কোন আছিল?
 A) Dharmapala (ধৰ্মপাল)
 B) Gopala (গোপাল)
 C) Devapala (দেৱপাল)
@@ -147,7 +147,7 @@ Ans: B
 কনৌজৰ ওপৰত কৰ্তৃত্ব স্থাপনৰ বাবে ত্ৰিপাক্ষিক সংগ্ৰাম কোন তিনিটা ৰাজবংশৰ মাজত সংঘটিত হৈছিল?
 A) Palas, Pratiharas, and Rashtrakutas (পাল, প্ৰতীহাৰ আৰু ৰাষ্ট্ৰকূট)
 B) Cholas, Cheras, and Pandyas (চোল, চেৰ আৰু পাণ্ড্য)
-C) Mauryas, Guptas, and Kushanas (মৌৰ্য, গুপ্ত আৰু কুমাৰ/কুশান)
+C) Mauryas, Guptas, and Kushanas (মৌৰ্য, গুপ্ত আৰু কুষাণ)
 D) Chalukyas, Pallavas, and Kadambas (চালুক্য, পল্লৱ আৰু কদম্ব)
 Ans: A
 

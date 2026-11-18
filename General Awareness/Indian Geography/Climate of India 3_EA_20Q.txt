@@ -154,7 +154,7 @@ Ans: B
 18. Which periodic warm ocean current in the Pacific Ocean adversely affects the Indian Monsoon?
 
 প্ৰশান্ত মহাসাগৰৰ কোনটো সাময়িক উষ্ণ সামুদ্ৰিক প্ৰবাহে ভাৰতীয় মৌচুমী বতাহত প্ৰতিকূল প্ৰভাৱ পেলায়?
-A) La Nina / লা নিনো
+A) La Nina / লা নিনা
 B) El Nino / এল নিনো
 C) Kuroshio Current / কুৰোচিঅ' প্ৰবাহ
 D) Agulhas Current / অগুলহাছ প্ৰবাহ
@@ -164,7 +164,7 @@ Ans: B
 
 ভাৰতীয় মৌচুমীৰ সময়ত ভাল বা স্বাভাৱিকতকৈ অধিক বৰষুণৰ সৈতে কোনটো বতৰৰ পৰিঘটনা জড়িত?
 A) El Nino / এল নিনো
-B) La Nina / লা নিনো
+B) La Nina / লা নিনা
 C) Western Disturbance / পশ্চিমীয়া ঝঞ্ঝা
 D) Heat Wave / উত্তাপৰ ঢৌ
 Ans: B

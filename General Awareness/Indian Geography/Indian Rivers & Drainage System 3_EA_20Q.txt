@@ -12,7 +12,7 @@ Ans: C
 সিন্ধু নদীৰ উৎপত্তি ক'ৰ পৰা হৈছে?
 A) Gangotri Glacier / গংগোত্ৰী হিমবাহ
 B) Lake Mansarovar (Tibet) / মানসৰোবৰ হ্ৰদ (তিব্বত)
-C) Yamunotri Glacier / যমুনা-উত্ৰী হিমবাহ
+C) Yamunotri Glacier / যমুনোত্ৰী হিমবাহ
 D) Amarkantak / অমৰকণ্টক
 Ans: B
 
@@ -56,7 +56,7 @@ Ans: A
 
 যমুনা নদীৰ উৎপত্তি কোনটো হিমবাহৰ পৰা হৈছে?
 A) Siachen / ছিয়াচেন
-B) Yamunotri / যমুনা-উত্ৰী
+B) Yamunotri / যমুনোত্ৰী
 C) Gangotri / গংগোত্ৰী
 D) Zemu / জেমু
 Ans: B
@@ -93,7 +93,7 @@ Ans: B
 ব্ৰহ্মপুত্ৰ নদীৰ উৎপত্তি কোনটো হিমবাহৰ পৰা হৈছে?
 A) Chemayungdung Glacier / চেমায়ুংদুং হিমবাহ
 B) Gangotri Glacier / গংগোত্ৰী হিমবাহ
-C) Yamunotri Glacier / যমুনা-উত্ৰী হিমবাহ
+C) Yamunotri Glacier / যমুনোত্ৰী হিমবাহ
 D) Baltoro Glacier / বাল্টোৰো হিমবাহ
 Ans: A
 

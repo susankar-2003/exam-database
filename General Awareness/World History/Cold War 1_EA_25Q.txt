@@ -1,6 +1,6 @@
 1. Which two superpowers were the primary rivals during the Cold War?
 
-শীতল যুদ্ধৰ সময়ত কোন দুখন মহাশক্তিমান দেশ মুখ্য প্ৰতিদ্বন্দী আছিল?
+শীতল যুদ্ধৰ সময়ত কোন দুখন মহাশক্তি মুখ্য প্ৰতিদ্বন্দ্বী আছিল?
 A) USA and USSR / আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু ছোভিয়েত ইউনিয়ন
 B) USA and China / আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু চীন
 C) UK and USSR / গ্ৰেট ব্ৰিটেইন আৰু ছোভিয়েত ইউনিয়ন
@@ -172,7 +172,7 @@ Ans: B
 20. Which US space mission landed the first humans on the Moon in July 1969?
 
 ১৯৬৯ চনৰ জুলাই মাহত আমেৰিকাৰ কোনটো মহাকাশ অভিযানে প্ৰথমবাৰৰ বাবে চন্দ্ৰৰ মাটিত মানুহ অৱতৰণ কৰাইছিল?
-A) Gemini 8 / জে মিনি ৮
+A) Gemini 8 / জেমিনি
 B) Apollo 11 / এপোলো ১১
 C) Mercury-Redstone 3 / মাৰ্কুৰী-ৰেডষ্টোন ৩
 D) Apollo 13 / এপোলো ১৩
@@ -181,17 +181,17 @@ Ans: B
 21. What non-aligned forum was formed in 1961 at Belgrade by leaders like Nehru, Tito, and Nasser?
 
 নেহৰু, টিটো আৰু নাছেৰৰ দৰে নেতাসকলে ১৯৬১ চনত বেলগ্ৰেডত কোনটো অসংলগ্ন মঞ্চ গঠন কৰিছিল?
-A) Non-Aligned Movement / NAM / অসংলগ্ন আন্দোলন
-B) SAARC / ছাৰ্ক
-C) ASEAN / আছিয়ান
-D) OPEC / অ’পেক
+A) Non-Aligned Movement / অসংলগ্ন আন্দোলন
+B) SAARC 
+C) ASEAN 
+D) OPEC 
 Ans: A
 
 22. The 1955 conference held in Indonesia that laid the groundwork for the Non-Aligned Movement was called what?
 
 অসংলগ্ন আন্দোলনৰ ভেটি স্থাপন কৰা ১৯৫৫ চনত ইণ্ডোনেছিয়াত অনুষ্ঠিত সন্মিলনখনৰ নাম কি আছিল?
 A) Bandung Conference / বাণ্ডুং সন্মিলন
-B) Cairo Conference / কিৰো সন্মিলন
+B) Cairo Conference / কাইৰো সন্মিলন
 C) Havana Conference / হাভানা সন্মিলন
 D) Belgrade Conference / বেলগ্ৰেড সন্মিলন
 Ans: A
@@ -199,10 +199,10 @@ Ans: A
 23. What military agreement was signed in 1954 to prevent the spread of communism in Southeast Asia?
 
 দক্ষিণ-পূব এছিয়াত সাম্যবাদৰ প্ৰসাৰ ৰোধ কৰিবলৈ ১৯৫৪ চনত কোনটো সামৰিক চুক্তি স্বাক্ষৰিত হৈছিল?
-A) NATO / নেট’
-B) SEATO / চিটো
-C) CENTO / সেণ্টো
-D) ANZUS / আনজুছ
+A) NATO
+B) SEATO
+C) CENTO
+D) ANZUS
 Ans: B
 
 24. Which incident in 1964 led to the full-scale military involvement of the US in the Vietnam War?

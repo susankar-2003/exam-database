@@ -3,13 +3,13 @@
 দ্বিতীয় বিশ্বযুদ্ধৰ পিছত ১৯৪৭ চনত ব্ৰিটিছ শাসনৰ পৰা স্বাধীনতা লাভ কৰা প্ৰথমখন এছীয় দেশ কোনখন আছিল?
 A) India / ভাৰত
 B) Burma / বাৰ্মা
-C) Ceylon / সিংহলী / চিলন
+C) Ceylon / চিলন
 D) Malaysia / মালয়েছিয়া
 Ans: A
 
 2. Who was the leader of the Indian independence movement known for non-violent civil disobedience?
 
-অহিংস অসামৰিক অমান্য আন্দোলনৰ বাবে জনাজাত ভাৰতীয় স্বাধীনতা আন্দোলনৰ নেতাগৰাকী কোণ আছিল?
+অহিংস অসামৰিক অমান্য আন্দোলনৰ বাবে জনাজাত ভাৰতীয় স্বাধীনতা আন্দোলনৰ নেতাগৰাকী কোন আছিল?
 A) Jawaharlal Nehru / জৱাহৰলাল নেহৰু
 B) Mahatma Gandhi / মহাত্মা গান্ধী
 C) Subhas Chandra Bose / সুভাষ চন্দ্ৰ বসু
@@ -36,7 +36,7 @@ Ans: B
 
 5. Who was the first President of independent Ghana and a prominent advocate of Pan-Africanism?
 
-স্বাধীন ঘানাৰ প্ৰথমজন ৰাষ্ট্ৰপতি আৰু পেন-আফ্ৰিকানিজমৰ প্ৰধান সমৰ্থক কোণ আছিল?
+স্বাধীন ঘানাৰ প্ৰথমজন ৰাষ্ট্ৰপতি আৰু পেন-আফ্ৰিকানিজমৰ প্ৰধান সমৰ্থক কোন আছিল?
 A) Jomo Kenyatta / জোমো কেনিয়াত্তা
 B) Kwame Nkrumah / কোৱামে নক্ৰুমা
 C) Patrice Lumumba / পেট্ৰিছ লুমুম্বা
@@ -82,7 +82,7 @@ Ans: B
 10. Which movement was formally established in Belgrade in 1961 by leaders like Nehru, Tito, and Nasser?
 
 নেহৰু, টিটো আৰু নাছেৰৰ দৰে নেতাসকলে ১৯৬১ চনত বেলগ্ৰেডত কোনটো আন্দোলন আনুষ্ঠানিকভাৱে প্ৰতিষ্ঠা কৰিছিল?
-A) Non-Aligned Movement / NAM / গুৰ নিৰপেক্ষ আন্দোলন
+A) Non-Aligned Movement / গোট নিৰপেক্ষ আন্দোলন
 B) African Union / আফ্ৰিকান ইউনিয়ন
 C) Commonwealth of Nations / কমৱেলথ অৱ নেচনছ
 D) Arab League / আৰৱ লিগ
@@ -144,10 +144,10 @@ Ans: B
 
 17. Who became the first Prime Minister of independent Zimbabwe in 1980?
 
-১৯৮০ চনত স্বাধীন জিম্বাবৱেৰ প্ৰথমজন প্ৰধানমন্ত্ৰী কোণ হৈছিল?
+১৯৮০ চনত স্বাধীন জিম্বাবৱেৰ প্ৰথমজন প্ৰধানমন্ত্ৰী কোন হৈছিল?
 A) Joshua Nkomo / জশোৱা এনকোমো
 B) Robert Mugabe / ৰবাৰ্ট মুগাবে
-C) Ian Smith / িয়ান স্মিথ
+C) Ian Smith / ইয়ান স্মিথ
 D) Morgan Tsvangirai / মৰ্গান টিছাংগিৰাই
 Ans: B
 
@@ -166,7 +166,7 @@ Ans: B
 A) Joseph Kasa-Vubu / জোচেফ কাছা-ভুবু
 B) Patrice Lumumba / পেট্ৰিছ লুমুম্বা
 C) Mobutu Sese Seko / মবুটু চেছে ছেকো
-D) Moïse Tshombe / মোইছ টচম্বে
+D) Moïse Tshombe / মোইজ ছম্বে
 Ans: B
 
 20. Which dictator seized power in the Congo in 1965 and renamed the country Zaire in 1971?

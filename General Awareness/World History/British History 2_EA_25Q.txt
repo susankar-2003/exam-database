@@ -1,7 +1,7 @@
 1. Which organization led by Emmeline Pankhurst fought militantly for women's suffrage in Britain?
 
 এমেলিন পেন্কহাৰ্ষ্টৰ নেতৃত্বত কোনটো সংগঠনে ব্ৰিটেইনত মহিলাৰ ভোটাধিকাৰৰ বাবে উগ্ৰভাৱে যুঁজ দিছিল?
-A) WSPU / Women's Social and Political Union / মহিলা সামাজিক আৰু ৰাজনৈতিক ইউনিয়ন
+A) Women's Social and Political Union / মহিলা সামাজিক আৰু ৰাজনৈতিক ইউনিয়ন
 B) Fabian Society / ফেবিয়ান চচাইটি
 C) National Union of Women's Suffrage Societies / নেচনেল ইউনিয়ন অৱ উইমেনছ চাফ্ৰেজ চচাইটিছ
 D) Chartists / চাৰ্টিষ্টসকল
@@ -27,7 +27,7 @@ Ans: B
 
 4. Who was the British Prime Minister during the majority of First World War (1916-1922)?
 
-প্ৰথম বিশ্বযুদ্ধৰ বেছিভাগ সময়ত (১৯১৬-১৯২২) ব্ৰিটিছ প্ৰধানমন্ত্ৰী কোণ আছিল?
+প্ৰথম বিশ্বযুদ্ধৰ বেছিভাগ সময়ত (১৯১৬-১৯২২) ব্ৰিটিছ প্ৰধানমন্ত্ৰী কোন আছিল?
 A) Herbert Asquith / হাৰ্বাট এচকুৱিথ
 B) David Lloyd George / ডেভিদ লয়ড জৰ্জ
 C) Ramsay MacDonald / ৰামছে মেকডোনাল্ড
@@ -54,8 +54,8 @@ Ans: A
 
 7. Who was the first Labour Party Prime Minister of the United Kingdom, coming to power in 1924?
 
-১৯২৪ চনত ক্ষমতালৈ অহা যুক্তৰাজ্যৰ প্ৰথমজন লেবাৰ পাৰ্টিৰ প্ৰধানমন্ত্ৰী কোণ আছিল?
-A) Clement Attlee / ক্ৰেমেন্ট এটলী
+১৯২৪ চনত ক্ষমতালৈ অহা যুক্তৰাজ্যৰ প্ৰথমজন লেবাৰ পাৰ্টিৰ প্ৰধানমন্ত্ৰী কোন আছিল?
+A) Clement Attlee / ক্লেমেণ্ট এটলী
 B) Ramsay MacDonald / ৰামছে মেকডোনাল্ড
 C) Keir Hardie / কিয়াৰ হাৰ্ডি
 D) Harold Wilson / হেৰল্ড উইলছন
@@ -74,14 +74,14 @@ Ans: A
 
 ১৯৩৮ চনত এডলফ হিটলাৰৰ প্ৰতি নেভিল চেম্বাৰলেইনৰ ৰেহাই দিয়াৰ নীতিটোক কি বুলি জনা যায়?
 A) Containment / কন্টেইনমেন্ট
-B) Appeasement Policy / তুষ্টীকৰণ নীতি / এপ্ৰিজমেন্ট পলিচি
+B) Appeasement Policy / এপিজমেণ্ট পলিচি
 C) Brinkmanship / ব্ৰিংকমেনশ্বিপ
 D) Detente / ডিটেনটে
 Ans: B
 
 10. Which British Prime Minister led the nation through most of World War II from May 1940 to 1945?
 
-১৯৪০ চনৰ মে’ মাহৰ পৰা ১৯৪৫ চনলৈ দ্বিতীয় বিশ্বযুদ্ধৰ বেছিভাগ সময় ব্ৰিটেইনক নেতৃত্ব দিয়া প্ৰধানমন্ত্ৰীজন কোণ আছিল?
+১৯৪০ চনৰ মে’ মাহৰ পৰা ১৯৪৫ চনলৈ দ্বিতীয় বিশ্বযুদ্ধৰ বেছিভাগ সময় ব্ৰিটেইনক নেতৃত্ব দিয়া প্ৰধানমন্ত্ৰীজন কোন আছিল?
 A) Neville Chamberlain / নেভিল চেম্বাৰলেইন
 B) Winston Churchill / উইনষ্টন চাৰ্চিল
 C) Clement Attlee / ক্ৰেমেন্ট এটলী
@@ -101,17 +101,17 @@ Ans: B
 
 ১৯৪০ চনত জাৰ্মান লুফটৱাফেৰ বিৰুদ্ধে যুক্তৰাজ্যৰ আকাশমাৰ্গৰ প্ৰতিৰক্ষাক কি নামেৰে প্ৰসিদ্ধ?
 A) Battle of Britain / ব্ৰিটেইনৰ যুদ্ধ
-B) Blitzkrieg / ব্লিৎজক্্ৰিগ
+B) Blitzkrieg / ব্লিৎজক্ৰিগ
 C) Battle of the Atlantic / আটলান্টিকৰ যুদ্ধ
 D) Operation Barbarossa / অপাৰেচন বাৰ্বাৰোছা
 Ans: A
 
 13. Which Labour Prime Minister defeated Winston Churchill in the 1945 post-war election and established the National Health Service (NHS)?
 
-১৯৪৫ চনৰ যুদ্ধোত্তৰ নিৰ্বাচনত উইনষ্টন চাৰ্চিলক পৰাজিত কৰা আৰু নেচনেল হেল্থ চাৰ্ভিছ (NHS) প্ৰতিষ্ঠা কৰা লেবাৰ প্ৰধানমন্ত্ৰীজন কোণ আছিল?
+১৯৪৫ চনৰ যুদ্ধোত্তৰ নিৰ্বাচনত উইনষ্টন চাৰ্চিলক পৰাজিত কৰা আৰু নেচনেল হেল্থ চাৰ্ভিছ (NHS) প্ৰতিষ্ঠা কৰা লেবাৰ প্ৰধানমন্ত্ৰীজন কোন আছিল?
 A) Clement Attlee / ক্ৰেমেন্ট এটলী
 B) Harold Wilson / হেৰল্ড উইলছন
-C) James Callaghan / জেমছ ক্যেলাঘান
+C) James Callaghan / জেমছ কেলাঘান
 D) Hugh Gaitskell / হিউ গেইটস্কেল
 Ans: A
 
@@ -162,7 +162,7 @@ Ans: B
 
 19. The Falklands War of 1982 was fought between the United Kingdom and which South American country?
 
-১৯৮২ চনৰ ফকলৰ্ড যুদ্ধ যুক্তৰাজ্য আৰু দক্ষিণ আমেৰিকাৰ কোনখন দেশৰ মাজত সংঘটিত হৈছিল?
+১৯৮২ চনৰ ফকলেণ্ড যুদ্ধ যুক্তৰাজ্য আৰু দক্ষিণ আমেৰিকাৰ কোনখন দেশৰ মাজত সংঘটিত হৈছিল?
 A) Brazil / ব্ৰাজিল
 B) Argentina / আৰ্জেন্টিনা
 C) Chile / চিলি
@@ -171,17 +171,17 @@ Ans: B
 
 20. Who was the first female Prime Minister of the United Kingdom, serving from 1979 to 1990?
 
-১৯৭৯ ৰ পৰা ১৯৯০ চনলৈ সেৱা আগবঢ়োৱা যুক্তৰাজ্যৰ প্ৰথমগৰাকী মহিলা প্ৰধানমন্ত্ৰী কোণ আছিল?
+১৯৭৯ ৰ পৰা ১৯৯০ চনলৈ সেৱা আগবঢ়োৱা যুক্তৰাজ্যৰ প্ৰথমগৰাকী মহিলা প্ৰধানমন্ত্ৰী কোন আছিল?
 A) Margaret Thatcher / মাৰ্গাৰেট থেচাৰ
 B) Theresa May / থেৰেছা মে’
-C) Liz Truss / লিছ ট্রাছ
+C) Liz Truss / লিজ ট্ৰাছ
 D) Shirley Williams / চাৰ্লি ৱিলিয়ামছ
 Ans: A
 
 21. What was Margaret Thatcher's popular nickname given by a Soviet newspaper?
 
 ছোভিয়েত সংবাদ পত্ৰই মাৰ্গাৰেট থেচাৰক দিয়া জনপ্ৰিয় উপনাম কি আছিল?
-A) Iron Lady / আইৰন লেডী / লৌহ মানৱী
+A) Iron Lady / আইৰন লেডী 
 B) Iron Rose / আইৰন ৰোজ
 C) Lady of Steel / লেডী অৱ ষ্টীল
 D) Cold Queen / কোল্ড কুৱিন
@@ -198,7 +198,7 @@ Ans: B
 
 23. Which Labour Prime Minister won three consecutive general elections starting in 1997?
 
-১৯৯৭ চনৰ পৰা আৰম্ভ কৰি একেৰাহে তিনিটা সাধাৰণ নিৰ্বাচনত জয়লাভ কৰা লেবাৰ প্ৰধানমন্ত্ৰীজন কোণ আছিল?
+১৯৯৭ চনৰ পৰা আৰম্ভ কৰি একেৰাহে তিনিটা সাধাৰণ নিৰ্বাচনত জয়লাভ কৰা লেবাৰ প্ৰধানমন্ত্ৰীজন কোন আছিল?
 A) Tony Blair / টনি ব্লেয়াৰ
 B) Gordon Brown / গৰ্ডন ব্ৰাউন
 C) John Major / জন মেজৰ
@@ -216,9 +216,9 @@ Ans: B
 
 25. Who became King of the United Kingdom following the death of Queen Elizabeth II in September 2022?
 
-২০২২ চনৰ ছেপ্টেম্বৰত ৰাণী এলিজাবেথ দ্বিতীয়ৰ মৃত্যুৰ পিছত কোণ যুক্তৰাজ্যৰ ৰজা হৈছিল?
+২০২২ চনৰ ছেপ্টেম্বৰত ৰাণী এলিজাবেথ দ্বিতীয়ৰ মৃত্যুৰ পিছত কোন যুক্তৰাজ্যৰ ৰজা হৈছিল?
 A) King William V / ৰজা উইলিয়াম পঞ্চম
 B) King Charles III / ৰজা চাৰ্লছ তৃতীয়
-C) King Prince Andrew / ৰজা প্ৰিন্স এণ্ড্ৰিউ
+C) Prince Andrew / ৰজা প্ৰিন্স এণ্ড্ৰিউ
 D) King George VII / ৰজা জৰ্জ সপ্তম
 Ans: B

@@ -10,7 +10,7 @@ Ans: C
 2. Who is known as the 'Father of the Industrial Revolution'?
 
 ‘ঔদ্যোগিক বিপ্লৱৰ পিতৃ’ বুলি কাক জনা যায়?
-A) James Watt / জে মছ ৱাট
+A) James Watt / জেমছ ৱাট
 B) Richard Arkwright / ৰিচাৰ্ড আৰ্কৰাইট
 C) George Stephenson / জৰ্জ ষ্টিফেনছন
 D) Henry Bessemer / হেনৰী বেছেমাৰ
@@ -19,7 +19,7 @@ Ans: B
 3. Who invented the steam engine that triggered the Industrial Revolution?
 
 ঔদ্যোগিক বিপ্লৱৰ সূচনা কৰা ভাপ ইঞ্জিনী কোনে আৱিষ্কাৰ (উন্নত) কৰিছিল?
-A) James Watt / জে মছ ৱাট
+A) James Watt / জেমছ ৱাট
 B) Thomas Newcomen / থমাছ নিউকমেন
 C) John Kay / জন কে
 D) Robert Fulton / ৰবাৰ্ট ফুলটন
@@ -28,10 +28,10 @@ Ans: A
 4. Who invented the 'Flying Shuttle' in 1733, which revolutionized the weaving industry?
 
 ১৭৩৩ চনত বয়ণ উদ্যোগত বিপ্লৱ অনা ‘ফ্লায়িং শ্বাটল’ (Flying Shuttle) কোনে আৱিষ্কাৰ কৰিছিল?
-A) James Hargreaves / জে মছ হাৰগ্ৰীভছ
+A) James Hargreaves / জেমছ হাৰগ্ৰীভছ
 B) John Kay / জন কে
 C) Edmund Cartwright / এডমুণ্ড কাৰ্টৰাইট
-D) Samuel Crompton /  চেমুৱেল ক্ৰম্পটন
+D) Samuel Crompton / চেমুৱেল ক্ৰম্পটন
 Ans: B
 
 5. The term 'Industrial Revolution' was first popularized in English by which historian?
@@ -46,7 +46,7 @@ Ans: B
 6. Who invented the 'Spinning Jenny' in 1764?
 
 ১৭৬৪ চনত ‘স্পিনিং জেনী’ (Spinning Jenny) কোনে আৱিষ্কাৰ কৰিছিল?
-A) James Hargreaves / জে মছ হাৰগ্ৰীভছ
+A) James Hargreaves / জেমছ হাৰগ্ৰীভছ
 B) Richard Arkwright / ৰিচাৰ্ড আৰ্কৰাইট
 C) Eli Whitney / ইলাই হোৱাইটনি
 D) Thomas Edison / থমাছ এডিছন
@@ -65,7 +65,7 @@ Ans: B
 
 ১৭৯৩ চনত কপাহৰ গুটি আৰু আঁহ পৃথক কৰা যন্ত্ৰ ‘কটন জিন’ (Cotton Gin) কোনে আৱিষ্কাৰ কৰিছিল?
 A) Eli Whitney / ইলাই হোৱাইটনি
-B) James Watt / জে মছ ৱাট
+B) James Watt / জেমছ ৱাট
 C) Edmund Cartwright / এডমুণ্ড কাৰ্টৰাইট
 D) Henry Ford / হেনৰী ফোৰ্ড
 Ans: A
@@ -93,7 +93,7 @@ Ans: B
 ১৭৮৫ চনত কাপোৰ বোৱা যন্ত্ৰ ‘পাৱাৰ লুম’ (Power Loom) কোনে আৱিষ্কাৰ কৰিছিল?
 A) Edmund Cartwright / এডমুণ্ড কাৰ্টৰাইট
 B) Samuel Crompton / চেমুৱেল ক্ৰম্পটন
-C) James Hargreaves / জে মছ হাৰগ্ৰীভছ
+C) James Hargreaves / জেমছ হাৰগ্ৰীভছ
 D) John Kay / জন কে
 Ans: A
 
@@ -112,7 +112,7 @@ Ans: B
 A) Humphry Davy / হামফ্ৰি ডেভী
 B) Michael Faraday / মাইকেল ফেৰাডে
 C) Thomas Edison / থমাছ এডিছন
-D) Alexander Graham Bell / অলেগজেণ্ডাৰ গ্ৰাহাম বে'ল
+D) Alexander Graham Bell / আলেকজেণ্ডাৰ গ্ৰাহাম বেল
 Ans: A
 
 14. The Bessemer process, developed in the 1850s, was crucial for mass-producing which material?
@@ -128,7 +128,7 @@ Ans: B
 
 ১৮০৭ চনত ‘ক্লেৰমণ্ট’ (Clermont) নামৰ প্ৰথম ব্যৱসায়িকভাৱে সফল ভাপজাহাজ কোনে নিৰ্মাণ কৰিছিল?
 A) Robert Fulton / ৰবাৰ্ট ফুলটন
-B) James Watt / জে মছ ৱাট
+B) James Watt / জেমছ ৱাট
 C) George Stephenson / জৰ্জ ষ্টিফেনছন
 D) Henry Bell / হেনৰী বে'ল
 Ans: A
@@ -139,12 +139,12 @@ Ans: A
 A) Coal and Iron / কয়লা আৰু লোহা
 B) Gold and Silver / সোণ আৰু ৰূপ
 C) Petroleum and Natural Gas / পেট্ৰ’লিয়াম আৰু প্ৰাকৃতিক গেছ
-D) Copper and Tin / তাম আৰু টি tin
+D) Copper and Tin / তাম আৰু টিন
 Ans: A
 
 17. Which industry was the primary driver of the early Industrial Revolution in Britain?
 
-ব্ৰিটেইনৰ প্ৰাৰম্ভিক ঔদ্যোগic বিপ্লৱৰ মূল চালক কোনটো উদ্যোগ আছিল?
+ব্ৰিটেইনৰ প্ৰাৰম্ভিক ঔদ্যোগিক বিপ্লৱৰ মূল চালক কোনটো উদ্যোগ আছিল?
 A) Steel Industry / ইস্পাত উদ্যোগ
 B) Textile Industry / বস্ত্র উদ্যোগ
 C) Chemical Industry / ৰাসায়নিক উদ্যোগ
@@ -200,7 +200,7 @@ Ans: B
 
 ১৮৭৬ চনত টেলিফোন কোনে আৱিষ্কাৰ কৰিছিল?
 A) Samuel Morse / চেমুৱেল মৰ্ছ
-B) Alexander Graham Bell / অলেগজেণ্ডাৰ গ্ৰাহাম বে'ল
+B) Alexander Graham Bell / আলেকজেণ্ডাৰ গ্ৰাহাম বেল
 C) Thomas Edison / থমাছ এডিছন
 D) Nikola Tesla / নিকোলা টেছলা
 Ans: B
@@ -220,5 +220,5 @@ Ans: B
 A) Karl Benz / কাৰ্ল বেঞ্জ
 B) Rudolf Diesel / ৰুডল্ফ ডিজেল
 C) Henry Ford / হেনৰী ফোৰ্ড
-D) James Watt / জে মছ ৱাট
+D) James Watt / জেমছ ৱাট
 Ans: B

@@ -1,6 +1,6 @@
 1. Which of the following is considered the oldest civilization in the world?
 
-তলৰ কোনটোক বিশ্বৰ আটাইতকৈ পুৰণি সভ্যতাসমূহৰ ভিতৰত এটা বুলি গণ্য কৰা হয়?
+তলৰ কোনটোক বিশ্বৰ আটাইতকৈ পুৰণি সভ্যতা বুলি গণ্য কৰা হয়?
 A) Mesopotamian Civilization / মেছ'পটেমিয়াৰ সভ্যতা
 B) Harappan Civilization / হৰপ্পা সভ্যতা
 C) Egyptian Civilization / মিচৰীয় সভ্যতা
@@ -27,7 +27,7 @@ Ans: C
 
 4. What was the script used by the ancient Mesopotamians (Sumerians) called?
 
-প্ৰাচীন মেছ'পটেমিয়াহকলে (চুমেৰীয়াসকল) ব্যৱহাৰ কৰা লিপিটোৰ নাম কি আছিল?
+প্ৰাচীন মেছ'পটেমিয়াসকলে (চুমেৰীয়াসকল) ব্যৱহাৰ কৰা লিপিটোৰ নাম কি আছিল?
 A) Hieroglyphics / হায়াৰ’গ্লিফিক্স
 B) Cuneiform / কিউনিফৰ্ম
 C) Brahmi / ব্ৰাহ্মী
@@ -63,7 +63,7 @@ Ans: B
 
 8. Which Indus Valley site is famous for having a large artificial brick dockyard?
 
-সিন্ধু উপত্যকাৰ কোনটো স্থান এটা ডাঙৰ কৃটিম ইটাৰ ডকয়াৰ্ডৰ বাবে বিখ্যাত?
+সিন্ধু উপত্যকাৰ কোনটো স্থান এটা ডাঙৰ কৃত্ৰিম ইটাৰ ডকয়াৰ্ডৰ বাবে বিখ্যাত?
 A) Harappa / হৰপ্পা
 B) Mohenjo-daro / মহেনজো-দাৰো
 C) Lothal / লোথাল
@@ -72,7 +72,7 @@ Ans: C
 
 9. The Great Bath was discovered in which ancient Indus Valley city?
 
-বিখ্যাত 'মহা স্নাৰাগাৰ' (Great Bath) সিন্ধু উপত্যকাৰ কোনখন চহৰত আৱিষ্কৃত হৈছিল?
+বিখ্যাত 'মহা স্নানাগাৰ' (Great Bath) সিন্ধু উপত্যকাৰ কোনখন চহৰত আৱিষ্কৃত হৈছিল?
 A) Lothal / লোথাল
 B) Mohenjo-daro / মহেনজো-দাৰো
 C) Dholavira / ধোলাবীৰা
@@ -135,7 +135,7 @@ Ans: B
 
 16. Which ancient Mediterranean city was destroyed by the eruption of Mount Vesuvius in 79 AD?
 
-খ্ৰীষ্টাব্দ ৭৯ ত মাউণ্ট ভেকুভিয়াছ আগ্নেয়গিৰিৰ উদগীৰণত কোনখন প্ৰাচীন ভূমধ্যসাগৰীয় চহৰ ধ্বংস হৈছিল?
+খ্ৰীষ্টাব্দ ৭৯ ত মাউণ্ট ভেছুভিয়াছ আগ্নেয়গিৰিৰ উদগীৰণত কোনখন প্ৰাচীন ভূমধ্যসাগৰীয় চহৰ ধ্বংস হৈছিল?
 A) Pompeii / পম্পেই
 B) Rome / ৰোম
 C) Carthage / কাৰ্থেজ
@@ -162,9 +162,9 @@ Ans: B
 
 19. Which Persian king attempted to invade Greece in 480 BC, leading to the Battle of Thermopylae?
 
-খ্ৰীষ্টপূৰ্ব ৪৮০ ত গ্ৰীছ আক্ৰমণ কৰাৰ চেষ্টা কৰা আৰু থাৰ্ম’পিলাইৰ যুদ্ধত অংশ লোৱা পাৰস্যৰ ৰজাজন কোন আছিল?
+খ্ৰীষ্টপূৰ্ব ৪৮০ ত গ্ৰীছ আক্ৰমণ কৰাৰ চেষ্টা কৰা আৰু থাৰ্ম’পিলাইৰ যুদ্ধৰ সূচনা কৰা পাৰস্যৰ ৰজাজন কোন আছিল?
 A) Cyrus the Great / চাইৰাছ দা গ্ৰেট
-B) Xerxes I / জাৰ্ক্সিছ প্ৰথম
+B) Xerxes I / জাৰ্ক্সেছ প্ৰথম
 C) Darius I / দাৰায়াৱহুছ প্ৰথম
 D) Artaxerxes / আৰ্টাজাক্সিছ
 Ans: B
@@ -180,7 +180,7 @@ Ans: B
 
 21. Which Chinese dynasty began the construction of the Great Wall of China?
 
-কোনটো চীনা ৰাজবংশৰ সময়ত চীনৰ মহামিলন বা মহান প্ৰাচীৰ (Great Wall of China) ৰ নিৰ্মাণ আৰম্ভ হৈছিল?
+কোনটো চীনা ৰাজবংশৰ সময়ত চীনৰ মহান প্ৰাচীৰ (Great Wall of China) ৰ নিৰ্মাণ আৰম্ভ হৈছিল?
 A) Han Dynasty / হান ৰাজবংশ
 B) Qin Dynasty / কিন ৰাজবংশ
 C) Tang Dynasty / টাং ৰাজবংশ
@@ -189,7 +189,7 @@ Ans: B
 
 22. Who was the founder of the Qin Dynasty and the first emperor of a unified China?
 
-কিন ৰাজবংশৰ প্ৰতিষ্ঠাপক আৰু একত্ৰিত চীনৰ প্ৰথম সম্রাট কোন আছিল?
+কিন ৰাজবংশৰ প্ৰতিষ্ঠাপক আৰু একত্ৰিত চীনৰ প্ৰথম সম্ৰাট কোন আছিল?
 A) Confucius / কনফুচিয়াছ
 B) Qin Shi Huang / কিন শ্বি হুয়াং
 C) Han Wudi / হান ৱুডি

@@ -12,7 +12,7 @@ Ans: B
 ১৬০০ চনত ইষ্ট ইণ্ডিজৰ সৈতে বাণিজ্য কৰিবলৈ ৰাজকীয় সনদ প্ৰাপ্ত আৰু পিছলৈ ভাৰতত উপনিৱেশ স্থাপন কৰা ব্ৰিটিছ প্ৰতিষ্ঠানখনৰ নাম কি আছিল?
 A) Dutch East India Company / ডাচ ইষ্ট ইণ্ডিয়া কোম্পানী
 B) British East India Company / ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী
-C) French East India Company / ফ্ৰেন্স ইষ্ট ইণ্ডিয়া কোম্পানী
+C) French East India Company / ফ্ৰান্সৰ ইষ্ট ইণ্ডিয়া কোম্পানী
 D) Virginia Company / ভাৰ্জিনিয়া কোম্পানী
 Ans: B
 
@@ -37,7 +37,7 @@ Ans: B
 5. What was the rapid invasion, annexation, and division of African territory by European powers between 1881 and 1914 called?
 
 ১৮৮১ ৰ পৰা ১৯১৪ চনৰ মাজত ইউৰোপীয় শক্তিসমূহে আফ্ৰিকাৰ ভূখণ্ড দ্ৰুতগতিত আক্ৰমণ, দখল আৰু বিভাজন কৰা প্ৰক্ৰিয়াটোক কি বুলি কোৱা হৈছিল?
-A) Scramble for Africa / স্ক্ৰেম্বুল ফৰ আফ্ৰিকা / আফ্ৰিকাৰ বাবে প্ৰতিযোগিতা
+A) Scramble for Africa / স্ক্ৰেম্বল ফৰ আফ্ৰিকা 
 B) Great Game / গ্ৰেট গেম
 C) Partition of Asia / এছিয়াৰ বিভাজন
 D) Boer Resistance / বোৱাৰ প্ৰতিৰোধ
@@ -45,7 +45,7 @@ Ans: A
 
 6. Which European King claimed the Congo Free State as his personal private property in 1885?
 
-১৮৮৫ চনত কোনজন ইউৰোপীয় ৰজাই কঙ্গো মুক্ত ৰাজ্যক তেওঁৰ ব্যক্তিগত ব্যক্তিগত সম্পত্তি বুলি দাবী কৰিছিল?
+১৮৮৫ চনত কোনজন ইউৰোপীয় ৰজাই কঙ্গো মুক্ত ৰাজ্যক তেওঁৰ ব্যক্তিগত সম্পত্তি বুলি দাবী কৰিছিল?
 A) Leopold II of Belgium / বেলজিয়ামৰ দ্বিতীয় লিঅ’প’ল্ড
 B) Wilhelm II of Germany / জাৰ্মানীৰ দ্বিতীয় উইলহেল্ম
 C) George V of Britain / ব্ৰিটেইনৰ পঞ্চম জৰ্জ
@@ -65,7 +65,7 @@ Ans: B
 
 ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানীৰ শাসনৰ বিৰুদ্ধে ১৮৫৭ চনত ভাৰতত কোনটো বিদ্ৰোহ সংঘটিত হৈছিল?
 A) Taiping Rebellion / তাইপিং বিদ্ৰোহ
-B) Sepoy Mutiny / Indian Rebellion of 1857 / চিপাহী বিদ্ৰোহ / ১৮৫৭ ৰ ভাৰতীয় বিদ্ৰোহ
+B) Sepoy Mutiny / চিপাহী বিদ্ৰোহ
 C) Boxer Rebellion / বক্সাৰ বিদ্ৰোহ
 D) Santhal Rebellion / সাঁওতাল বিদ্ৰোহ
 Ans: B
@@ -81,7 +81,7 @@ Ans: A
 
 10. The anti-foreign and anti-imperialist uprising in China between 1899 and 1901 was known as what?
 
-১৮৯৯ ৰ পৰা ১৯০১ চনৰ মাজত চীনত হোৱা বৈদেশীক-বিৰোধী আৰু সাম্ৰাজ্যবাদ-বিৰোধী বিদ্ৰোহটোক কি বুলি জনা গৈছিল?
+১৮৯৯ ৰ পৰা ১৯০১ চনৰ মাজত চীনত হোৱা বৈদেশিক-বিৰোধী আৰু সাম্ৰাজ্যবাদ-বিৰোধী বিদ্ৰোহটোক কি বুলি জনা গৈছিল?
 A) Taiping Rebellion / তাইপিং বিদ্ৰোহ
 B) Boxer Rebellion / বক্সাৰ বিদ্ৰোহ
 C) Xinhai Revolution / সিনহাই বিপ্লৱ
@@ -118,7 +118,7 @@ Ans: B
 14. Dutch settlers in South Africa who fought against the British during the Boer Wars were known as what?
 
 বোৱাৰ যুদ্ধৰ সময়ত ব্ৰিটিছৰ বিৰুদ্ধে যুঁজ দিয়া দক্ষিণ আফ্ৰিকাৰ ডাচ উপনিৱেশকাৰীসকলক কি বুলি জনা গৈছিল?
-A) Boers / Afrikaners / বোৱাৰ / আফ্ৰিকানাৰ
+A) Boers / বোৱাৰ 
 B) Zulus / জুলু
 C) Moors / মুৰ
 D) Cossacks / কচাক
@@ -146,7 +146,7 @@ Ans: A
 
 ডাচ উপনিৱেশকাৰীসকলৰ বাধ্যতামূলক কৃষি নীতি 'কাল্টিভেচন চিষ্টেম' ৰ অধীনত কোনখন দেশ শাসিত হৈছিল?
 A) Philippines / ফিলিপাইনছ
-B) Indonesia / Dutch East Indies / ইণ্ডোনেছিয়া / ডাচ ইষ্ট ইণ্ডিজ
+B) Indonesia / ইণ্ডোনেছিয়া
 C) Vietnam / ভিয়েটনাম
 D) Malaysia / মালয়েছিয়া
 Ans: B
@@ -164,7 +164,7 @@ Ans: A
 
 কোনখন দক্ষিণ-পূব এছীয় দেশ ব্ৰিটিছ আৰু ফ্ৰান্স সাম্ৰাজ্যৰ মাজত এক মধ্যৱৰ্তী ৰাজ্য হিচাপে নিজৰ স্বাধীনতা সফলতাৰে বজাই ৰাখিছিল?
 A) Burma / বাৰ্মা
-B) Siam / Thailand / ছিয়াম / থাইলেণ্ড
+B) Thailand / থাইলেণ্ড
 C) Malaya / মালাইয়া
 D) Philippines / ফিলিপাইনছ
 Ans: B
@@ -198,9 +198,9 @@ Ans: A
 
 23. Which Japanese period starting in 1868 transformed Japan from a feudal isolated nation into a modernized imperial power?
 
-১৮৬৮ চনৰ পৰা আৰম্ভ হোৱা জাপানী সময়ছোৱাই জাপানখনক এক ফেউডাল বিচ্ছিন্ন ৰাষ্ট্ৰৰ পৰা আধুনিকীকৰণ কৰা সাম্ৰাজ্যবাদী শক্তিলৈ ৰূপান্তৰিত কৰিছিল?
+১৮৬৮ চনৰ পৰা আৰম্ভ হোৱা জাপানী সময়ছোৱাই জাপানখনক এক সামন্তবাদী বিচ্ছিন্ন ৰাষ্ট্ৰৰ পৰা আধুনিকীকৰণ কৰা সাম্ৰাজ্যবাদী শক্তিলৈ ৰূপান্তৰিত কৰিছিল?
 A) Tokugawa Shogunate / টোকুগাৱা শ্বোগুনেট
-B) Meiji Restoration / মেইজী পুনৰুজ্জীৱন / মেইজী ৰেষ্টোৰেচন
+B) Meiji Restoration / মেইজী ৰেষ্টোৰেচন
 C) Taisho Era / তাইশো যুগ
 D) Edo Period / ইডো কাল
 Ans: B

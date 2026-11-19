@@ -1,7 +1,7 @@
 1. Which country gained independence from Britain in 1948 and changed its name to Myanmar in 1989?
 
 ১৯৪৮ চনত ব্ৰিটেইনৰ পৰা স্বাধীনতা লাভ কৰা আৰু ১৯৮৯ চনত নাম সলনি কৰি ম্যানমাৰ কৰা দেশখন কোনখন?
-A) Ceylon / সিংহলী / চিলন
+A) Ceylon / চিলন
 B) Burma / বাৰ্মা
 C) Malaya / মালাইয়া
 D) Siam / ছিয়াম
@@ -11,7 +11,7 @@ Ans: B
 
 দক্ষিণ এছিয়াৰ কোনখন দ্বীপ ৰাষ্ট্ৰই ১৯৪৮ চনত চিলন হিচাপে ব্ৰিটেইনৰ পৰা স্বাধীনতা লাভ কৰিছিল আৰু ১৯৭২ চনত শ্ৰীলংকা নাম গ্ৰহণ কৰিছিল?
 A) Maldives / মালদ্বীপ
-B) Sri Lanka / Ceylon / শ্ৰীলংকা / চিলন
+B) Sri Lanka / শ্ৰীলংকা
 C) Mauritius / মৰিছাছ
 D) Seychelles / ছিচেলছ
 Ans: B
@@ -30,13 +30,13 @@ Ans: B
 চিঙ্গাপুৰ কোনটো বছৰত মালয়েছিয়াৰ পৰা পৃথক হৈ এক স্বাধীন সাৰ্বভৌম প্ৰজাতন্ত্ৰলৈ পৰিণত হয়?
 A) 1957 / ১৯৫৭
 B) 1963 / ১৯৬৩
-C) 1965 / ১৯ ১৯৬৫
+C) 1965 / ১৯৬৫
 D) 1971 / ১৯৭১
 Ans: C
 
 5. Who was the founding father and first Prime Minister of independent Singapore?
 
-স্বাধীন চিঙ্গাপুৰৰ প্ৰতিষ্ঠাপক পিতৃ আৰু প্ৰথমজন প্ৰধানমন্ত্ৰী কোণ আছিল?
+স্বাধীন চিঙ্গাপুৰৰ প্ৰতিষ্ঠাপক পিতৃ আৰু প্ৰথমজন প্ৰধানমন্ত্ৰী কোন আছিল?
 A) Lee Kuan Yew / লী কুয়ান ইয়েউ
 B) Goh Chok Tong / গো চোক টং
 C) Tunku Abdul Rahman / তুংকু আব্দুল ৰহমান
@@ -54,10 +54,10 @@ Ans: B
 
 7. Who was the founding leader and first President of Bangladesh, known as 'Bangabandhu'?
 
-'বন্ধু আৰু বাংলাদেশৰ পিতা' (বঙ্গবন্ধু) বুলি জনাজাত বাংলাদেশৰ প্ৰতিষ্ঠাপক নেতা আৰু প্ৰথম ৰাষ্ট্ৰপতি কোণ আছিল?
+'বন্ধু আৰু বাংলাদেশৰ পিতা' (বঙ্গবন্ধু) বুলি জনাজাত বাংলাদেশৰ প্ৰতিষ্ঠাপক নেতা আৰু প্ৰথম ৰাষ্ট্ৰপতি কোন আছিল?
 A) Sheikh Mujibur Rahman / শ্বেখ মুজিবুৰ ৰহমান
 B) Ziaur Rahman / জিয়াউৰ ৰহমান
-C) Tajuddin Ahmad / তাাজুদ্দিন আহমেদ
+C) Tajuddin Ahmad / তাজুদ্দিন আহমেদ
 D) Hussain Muhammad Ershad / হুছেইন মহম্মদ এৰশ্বাদ
 Ans: A
 
@@ -88,18 +88,18 @@ C) USSR, Egypt, and Syria / ছোভিয়েত ইউনিয়ন, ম�
 D) Britain, Italy, and Israel / ব্ৰিটেইন, ইটালী আৰু ইজৰাইল
 Ans: A
 
-11. Which treaty signed in 1955 transferred French enclaves like Pondicherry and Karikal to India?
+11. Which treaty signed in 1956 transferred French enclaves like Pondicherry and Karikal to India?
 
-১৯৫৫ চনত স্বাক্ষৰিত কোনখন চুক্তিৰ জৰিয়তে পণ্ডিচেৰী আৰু কাৰিকলৰ দৰে ফ্ৰান্সৰ ভূখণ্ডসমূহ ভাৰতলৈ হস্তান্তৰ কৰা হৈছিল?
+১৯৫৬ চনত স্বাক্ষৰিত কোনখন চুক্তিৰ জৰিয়তে পণ্ডিচেৰী আৰু কাৰিকলৰ দৰে ফ্ৰান্সৰ ভূখণ্ডসমূহ ভাৰতলৈ হস্তান্তৰ কৰা হৈছিল?
 A) Treaty of Cession / হস্তান্তৰ চুক্তি
 B) Treaty of Paris / পেৰিছ চুক্তি
 C) Treaty of Delhi / দিল্লী চুক্তি
 D) Treaty of Pondicherry / পণ্ডিচেৰী চুক্তি
 Ans: A
 
-12. Which African country gained independence from Italy after World War II and was unified with Eritrea in 1952?
+12. Which North African country gained independence from Italian colonial rule in 1951 under a United Nations mandate?
 
-দ্বিতীয় বিশ্বযুদ্ধৰ পিছত ইটালীয় শাসনৰ পৰা স্বাধীনতা লাভ কৰা আৰু ১৯৫২ চনত এৰিট্ৰিয়াৰ সৈতে একত্ৰিত হোৱা আফ্ৰিকীয় দেশখন কোনখন?
+জাতিসংঘৰ নিৰ্দেশনাত ১৯ ৫১ চনত ইটালীয় উপনিৱেশিক শাসনৰ পৰা কোনখন উত্তৰ আফ্ৰিকীয় দেশে স্বাধীনতা লাভ কৰিছিল??
 A) Somalia / চোমালিয়া
 B) Libya / লিবিয়া
 C) Ethiopia / ইথিওপিয়া
@@ -144,7 +144,7 @@ Ans: A
 
 17. Who was the founding leader of Tanzania known for his Ujamaa (African Socialism) policy?
 
-উ জামা (আফ্ৰিকান সমাজবাদ) নীতিৰ বাবে জনাজাত টানজানিয়াৰ প্ৰতিষ্ঠাপক নেতা কোণ আছিল?
+উ জামা (আফ্ৰিকান সমাজবাদ) নীতিৰ বাবে জনাজাত টানজানিয়াৰ প্ৰতিষ্ঠাপক নেতা কোন আছিল?
 A) Jomo Kenyatta / জোমো কেনিয়াত্তা
 B) Julius Nyerere / জুলিয়াছ ন্যায়ৰেৰে
 C) Kenneth Kaunda / কেন্নেথ কাউণ্ডা
@@ -153,7 +153,7 @@ Ans: B
 
 18. Which country gained independence from South Africa in 1990 after decades of illegal occupation and armed struggle by SWAPO?
 
-চাৱাপো (SWAPO) ৰ দ্বাৰা দশক দশক ধৰি চলোৱা অবৈধ দখল আৰু সশস্ত্ৰ সংগ্ৰামৰ পিছত ১৯৯০ চনত দক্ষিণ আফ্ৰিকাৰ পৰা কোনখন দেশে স্বাধীনতা লাভ কৰিছিল?
+ছোৱাপো (SWAPO) ৰ দ্বাৰা দশক দশক ধৰি চলোৱা অবৈধ দখল আৰু সশস্ত্ৰ সংগ্ৰামৰ পিছত ১৯৯০ চনত দক্ষিণ আফ্ৰিকাৰ পৰা কোনখন দেশে স্বাধীনতা লাভ কৰিছিল?
 A) Namibia / নামিবিয়া
 B) Botswana / বটছৱানা
 C) Zambia / জাম্বিয়া
@@ -162,7 +162,7 @@ Ans: A
 
 19. Which year saw the formal end of White Minority Apartheid rule in South Africa with democratic elections?
 
-গণতান্ত্ৰিক নিৰ্বাচনৰ জৰিয়তে দক্ষিণ আফ্ৰিকাত বগা সংখ্যা লঘু বৰ্ণবৈষম্য শাসনৰ আনুষ্ঠানিক অন্ত কোনটো বছৰত পৰিছিল?
+গণতান্ত্ৰিক নিৰ্বাচনৰ জৰিয়তে দক্ষিণ আফ্ৰিকাত শ্বেতাংগ সংখ্যালঘু বৰ্ণবৈষম্য শাসনৰ আনুষ্ঠানিক অন্ত কোনটো বছৰত পৰিছিল?
 A) 1990 / ১৯৯০
 B) 1994 / ১৯৯৪
 C) 1996 / ১৯৯৬
@@ -171,7 +171,7 @@ Ans: B
 
 20. Who was elected as the first Black President of South Africa in 1994 after spending 27 years in prison?
 
-২৭ বছৰ কাৰাগাৰত কটোৱাৰ পিছত ১৯৯৪ চনত দক্ষিণ আফ্ৰিকাৰ প্ৰথমজন ক্ৰীষ্ণকায় ৰাষ্ট্ৰপতি হিচাপে কোণ নিৰ্বাচিত হৈছিল?
+২৭ বছৰ কাৰাগাৰত কটোৱাৰ পিছত ১৯৯৪ চনত দক্ষিণ আফ্ৰিকাৰ প্ৰথমজন কৃষ্ণাংগ ৰাষ্ট্ৰপতি হিচাপে কোন নিৰ্বাচিত হৈছিল?
 A) Thabo Mbeki / থাবো এমবেকি
 B) Nelson Mandela / নেলছন মেণ্ডেলা
 C) Walter Sisulu / ৱাল্টাৰ চিছুলু

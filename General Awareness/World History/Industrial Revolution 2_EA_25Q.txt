@@ -10,8 +10,8 @@ Ans: B
 2. Who co-authored 'The Communist Manifesto' (1848), criticizing the capitalist system born from the Industrial Revolution?
 
 ঔদ্যোগিক বিপ্লৱৰ পৰা জন্ম লোৱা পুঁজিবাদী ব্যৱস্থাক সমালোচনা কৰি ‘দ্য কম্যুনিষ্ট মেনিফেষ্ট’ (১৮৪৮) গ্ৰন্থখন কাৰ্ল মাৰ্ক্সৰ সৈতে যুটীয়াভাৱে কোনে লিখিছিল?
-A) Friedrich Engels / ফ্ৰেডৰিক এংগেলেছ
-B) Vladimir Lenin / ভ্লাদিমিৰ লে নিন
+A) Friedrich Engels / ফ্ৰেডৰিক এংগেলছ
+B) Vladimir Lenin / ভ্লাদিমিৰ লেনিন
 C) Robert Owen / ৰবাৰ্ট ওৱেন
 D) John Stuart Mill / জন ষ্টুৱাৰ্ট মিল
 Ans: A
@@ -20,14 +20,14 @@ Ans: A
 
 ঔদ্যোগিক বিপ্লৱৰ সময়ত কোনটো সামাজিক শ্ৰেণী আটাইতকৈ ধনাঢ্য আৰু প্ৰভাৱশালী শ্ৰেণী হিচাপে আত্মপ্ৰকাশ কৰিছিল?
 A) Proletariat / শ্ৰমিক শ্ৰেণী
-B) Bourgeoisie / Capitalists / বুৰ্জোৱা / পুঁজিবাদী শ্ৰেণী
+B) Capitalists / পুঁজিবাদী শ্ৰেণী
 C) Peasantry / কৃষক শ্ৰেণী
 D) Clergy / পাদ্ৰী শ্ৰেণী
 Ans: B
 
 4. What was the French term for the doctrine advocating minimal government intervention in the economy?
 
-অর্থনীতিত চৰকাৰৰ ন্যূনতম হস্তক্ষে প্ৰক সমৰ্থন কৰা মতবাদটোৰ ফৰাচী শব্দটো কি আছিল?
+অর্থনীতিত চৰকাৰৰ ন্যূনতম হস্তক্ষেপক সমৰ্থন কৰা মতবাদটোৰ ফৰাচী শব্দটো কি আছিল?
 A) Mercantilism / বাণিজ্যবাদ
 B) Laissez-faire / লেছে-ফেয়াৰ
 C) Socialism / সমাজবাদ
@@ -67,7 +67,7 @@ Ans: B
 A) Nikola Tesla / নিকোলা টেছলা
 B) Thomas Edison / থমাছ এডিছন
 C) Michael Faraday / মাইকেল ফেৰাডে
-D) James Clerk Maxwell / জে মছ ক্লাৰ্ক মেক্সৱেল
+D) James Clerk Maxwell / জেমছ ক্লাৰ্ক মেক্সৱেল
 Ans: B
 
 9. Who discovered electromagnetic induction in 1831, laying the foundation for electric generators?
@@ -90,7 +90,7 @@ Ans: B
 
 11. Who developed the vulcanization process for rubber in 1839, making it durable and heat-resistant?
 
-১৮৩৯ চনত ৰবাৰক টেকসই আৰু তাপ-প্ৰতিৰোধী কৰি তোলা ‘ভাৰ্কেনাইজেচন’ প্ৰক্ৰিয়া কোনে আৱিষ্কাৰ কৰিছিল?
+১৮৩৯ চনত ৰবাৰক টেকসই আৰু তাপ-প্ৰতিৰোধী কৰি তোলা ‘ভালকানাইজেচন’ প্ৰক্ৰিয়া কোনে আৱিষ্কাৰ কৰিছিল?
 A) Charles Goodyear / চাৰ্লছ গুডইয়েৰ
 B) John Dunlop / জন ডানলপ
 C) Henry Bessemer / হেনৰী বেছেমাৰ
@@ -119,7 +119,7 @@ Ans: B
 
 ‘এনালাইটিকেল ইঞ্জিনী’ৰ ধাৰণাৰে প্ৰাৰম্ভিক কম্পিউটাৰ বিকাশলৈ কোনে গুৰুত্বপূৰ্ণ অৱদান আগবঢ়াইছিল?
 A) Charles Babbage / চাৰ্লছ বেবেজ
-B) Alan Turing / এ倫 টিউৰিং
+B) Alan Turing / এলান টিউৰিং
 C) John von Neumann / জন ভন নিউমেন
 D) Blaise Pascal / ব্লেজ পাস্কেল
 Ans: A
@@ -139,7 +139,7 @@ Ans: A
 A) Elias Howe / ইলাইয়াছ হাৱে
 B) Isaac Singer / আইজাক ছিংগাৰ
 C) Eli Whitney / ইলাই হোৱাইটনি
-D) Cyrus McCormick / চাইৰাছ মে কৰ্মিক
+D) Cyrus McCormick / চাইৰাছ মেককৰ্মিক
 Ans: A
 
 17. The First Industrial Revolution was primarily powered by which fuel source?
@@ -148,7 +148,7 @@ Ans: A
 A) Coal / কয়লা
 B) Petroleum / পেট্ৰ’লিয়াম
 C) Natural Gas / প্ৰাকৃতিক গেছ
-D) Uranium / ইউৰোনিয়াম
+D) Uranium / ইউৰেনিয়াম
 Ans: A
 
 18. Which law passed in 1847 in Great Britain limited the workday for women and children in factories to 10 hours?
@@ -181,7 +181,7 @@ Ans: A
 21. What was the Macadam process invented during the Industrial Revolution?
 
 ঔদ্যোগিক বিপ্লৱৰ সময়ত আৱিষ্কাৰ হোৱা ‘মেকাডাম প্ৰক্ৰিয়া’ (Macadam process) কি আছিল?
-A) A method for building smooth, durable roads / মন্থৰ আৰু টেকসই পথ নিৰ্মাণৰ এক পদ্ধতি
+A) A method for building smooth, durable roads / মসৃণ আৰু টেকসই পথ নিৰ্মাণৰ এক পদ্ধতি
 B) A process for purifying iron ore / লোহা পৰিশোধন কৰাৰ প্ৰক্ৰিয়া
 C) A chemical method for bleaching cotton / কপাহ ব্লিচ কৰাৰ ৰাসায়নিক পদ্ধতি
 D) A steam-based mining method / ভাপ ভিত্তিক খনি খণ্ডৰ পদ্ধতি
@@ -210,7 +210,7 @@ Ans: A
 ১৭০১ চনত ‘সীড ড্ৰিল’ (Seed Drill - গুটি সিঁচা যন্ত্ৰ) আৱিষ্কাৰ কৰি ব্ৰিটিছ কৃষি বিপ্লৱৰ সূচনা কৰাজন কোন আছিল?
 A) Jethro Tull / জেথ্ৰ’ তুল
 B) Charles Townshend / চাৰ্লছ টাউনশ্বেণ্ড
-C) Robert Bakewell / ৰবাৰ্ট বে কৱেল
+C) Robert Bakewell / ৰবাৰ্ট বেকৱেল
 D) Arthur Young / আৰ্থাৰ ইয়ং
 Ans: A
 

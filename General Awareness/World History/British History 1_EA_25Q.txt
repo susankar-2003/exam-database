@@ -10,7 +10,7 @@ Ans: B
 2. The Battle of Hastings in 1066 led to the conquest of England by which Norman ruler?
 
 ১০৬৬ চনৰ হেষ্টিংছৰ যুদ্ধৰ ফলত কোনজন নৰমান শাসকে ইংলেণ্ড জয় কৰিছিল?
-A) William the Conqueror / উইলিয়াম দ্য কনকুৱেৰৰ / বিজয়ী উইলিয়াম
+A) William the Conqueror / উইলিয়াম দ্য কনকুৱেৰৰ
 B) Richard the Lionheart / ৰিচাৰ্ড দ্য লায়নহাৰ্ট
 C) Henry II / দ্বিতীয় হেনৰী
 D) Edward the Confessor / এডৱাৰ্ড দ্য কনফেছৰ
@@ -27,7 +27,7 @@ Ans: A
 
 4. Who was the last monarch of the Tudor dynasty who ruled England from 1558 to 1603?
 
-১৫৫৮ ৰ পৰা ১৬০৩ চনলৈ ইংলেণ্ড শাসন কৰা টিউডৰ ৰাজবংশৰ শেষৰজন ৰজা বা ৰাণী কোণ আছিল?
+১৫৫৮ ৰ পৰা ১৬০৩ চনলৈ ইংলেণ্ড শাসন কৰা টিউডৰ ৰাজবংশৰ শেষৰজন ৰজা বা ৰাণী কোন আছিল?
 A) Mary I / প্ৰথম মেৰী
 B) Elizabeth I / প্ৰথম এলিজাবেথ
 C) Victoria / ভিক্টোৰিয়া
@@ -72,7 +72,7 @@ Ans: A
 
 9. The English Bill of Rights, establishing a constitutional monarchy, was enacted in which year?
 
-সাংবিধানিক ৰাজতন্ত্র প্ৰতিষ্ঠা কৰা ইংৰাজ বিল অৱ ৰাইটছ (Bill of Rights) কোনটো বছৰত গ্ৰহণ কৰা হৈছিল?
+সাংবিধানিক ৰাজতন্ত্ৰ প্ৰতিষ্ঠা কৰা ইংৰাজ বিল অৱ ৰাইটছ (Bill of Rights) কোনটো বছৰত গ্ৰহণ কৰা হৈছিল?
 A) 1603 / ১৬০৩
 B) 1689 / ১৬৮৯
 C) 1707 / ১৭০৭
@@ -109,7 +109,7 @@ Ans: C
 13. Who invented the steam engine with a separate condenser in 1769, driving the Industrial Revolution?
 
 ১৭৬৯ চনত পৃথক কণ্ডেনচাৰযুক্ত বাষ্পীয় ইঞ্জিন কোনে আৱিষ্কাৰ কৰি উদ্যোগিক বিপ্লৱক গতি প্ৰদান কৰিছিল?
-A) James Watt / জে বিচ ৱাট
+A) James Watt / জেমছ ৱাট
 B) George Stephenson / জৰ্জ ষ্টীফেনছন
 C) Richard Arkwright / ৰিচাৰ্ড আৰ্কৰাইট
 D) Thomas Newcomen / থমাস নিউকমেন
@@ -118,9 +118,9 @@ Ans: A
 14. The Battle of Waterloo in 1815 was won by British forces under the command of which military leader?
 
 ১৮১৫ চনৰ ৱাটাৰলুৰ যুদ্ধত কোনজন সামৰিক নেতাৰ নেতৃত্বত ব্ৰিটিছ বাহিনীয়ে জয়লাভ কৰিছিল?
-A) Duke of Wellington / Arthur Wellesley / ডিউক অৱ ৱেলিংটন / আৰ্থাৰ ৱেলেছলী
+A) Arthur Wellesley / আৰ্থাৰ ৱেলেছলী
 B) Lord Nelson / লৰ্ড নেলছন
-C) John Churchill / জৰ্জ চৰ্চিল
+C) John Churchill / জন চাৰ্চিল
 D) Bernard Montgomery / বাৰ্ণাৰ্ড মন্টগোমাৰী
 Ans: A
 
@@ -163,7 +163,7 @@ Ans: B
 19. Which 1840s crisis in Ireland led to mass starvation, death, and emigration under British rule?
 
 ১৮৪০ ৰ দশকৰ আয়াৰলেণ্ডৰ কোনটো সংকটে ব্ৰিটিছ শাসনৰ অধীনত ব্যাপক অনাহাৰ, মৃত্যু আৰু প্ৰব্ৰজনৰ সৃষ্টি কৰিছিল?
-A) Irish Potato Famine / আইৰিছ আলুর দুৰ্ভিক্ষ
+A) Irish Potato Famine / আইৰিছ আলুৰ দুৰ্ভিক্ষ
 B) Easter Rising / ইষ্টাৰ ৰাইজিং
 C) Irish Civil War / আইৰিছ গৃহযুদ্ধ
 D) Tithe War / টাইথ ৱাৰ
@@ -189,10 +189,10 @@ Ans: B
 
 22. Who became famous for establishing modern nursing principles during the Crimean War?
 
-ক্ৰিমিয়াৰ যুদ্ধৰ সময়ত আধুনিক নাৰ্চিং মূলনীতি প্ৰতিষ্ঠা কৰাৰ বাবে কোণ প্ৰসিদ্ধ হৈছিল?
+ক্ৰিমিয়াৰ যুদ্ধৰ সময়ত আধুনিক নাৰ্চিং মূলনীতি প্ৰতিষ্ঠা কৰাৰ বাবে কোন প্ৰসিদ্ধ হৈছিল?
 A) Florence Nightingale / ফ্লৰেঞ্চ নাইটিনগেল
 B) Mary Seacole / মেৰী চীক’ল
-C) Clara Barton / ক্ল্যা ৰা বাৰ্টন
+C) Clara Barton / ক্লাৰা বাৰ্টন
 D) Elizabeth Fry / এলিজাবেথ ফ্ৰাই
 Ans: A
 
@@ -219,6 +219,6 @@ Ans: A
 ১৯১১ চনৰ পাৰ্লামেন্ট এক্টে ব্ৰিটেইনৰ কোনটো প্ৰতিষ্ঠানৰ ৰাজনৈতিক ক্ষমতা যথেষ্ট হ্ৰাস কৰিছিল?
 A) House of Commons / হাউছ অৱ কমন্স
 B) House of Lords / হাউছ অৱ লৰ্ডছ
-C) The Monarchy / ৰাজতন্ত্র
+C) The Monarchy / ৰাজতন্ত্ৰ
 D) The Cabinet / কেবিনেট
 Ans: B

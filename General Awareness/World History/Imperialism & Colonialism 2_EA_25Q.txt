@@ -2,7 +2,7 @@
 
 ১৮৯৬ চনত আদৱাৰ যুদ্ধত (Battle of Adwa) আফ্ৰিকাৰ কোনটো ৰাজ্যই আক্ৰমণকাৰী ইটালীৰ সেনাক সফলতাৰে পৰাজিত কৰিছিল?
 A) Zulu Kingdom / জুলু ৰাজ্য
-B) Ethiopia / Abyssinia / ইথিওপিয়া / আবিচিনিয়া
+B) Ethiopia / ইথিওপিয়া
 C) Ashanti Empire / আশান্তি সাম্ৰাজ্য
 D) Dahomey / ডাহোমে
 Ans: B
@@ -19,7 +19,7 @@ Ans: B
 3. The famous Zulu victory against the British Empire in 1879 occurred at which battle?
 
 ১৮৭৯ চনত ব্ৰিটিছ সাম্ৰাজ্যৰ বিৰুদ্ধে জুলুসকলৰ বিখ্যাত বিজয় কোনখন যুদ্ধত সংঘটিত হৈছিল?
-A) Battle of Isandlwana / ইচান্দলৱানাৰ যুদ্ধ
+A) Battle of Isandlwana / ইচান্ডলৱানাৰ যুদ্ধ
 B) Battle of Rorke's Drift / ৰৰ্কছ ড্ৰিফ্টৰ যুদ্ধ
 C) Battle of Ulundi / উলুণ্ডিৰ যুদ্ধ
 D) Battle of Blood River / ব্লাড ৰিভাৰৰ যুদ্ধ
@@ -54,7 +54,7 @@ Ans: B
 
 7. Which British businessman and politician founded the British South Africa Company and dreamt of a Cape-to-Cairo railway?
 
-কোনজন ব্ৰিটিছ ব্যৱসায়ী আৰু ৰাজনীতিবিদ ৰ ব্ৰিটিছ চাউথ আফ্ৰিকা কোম্পানী প্ৰতিষ্ঠা কৰিছিল আৰু কেইপ-ৰ পৰা কায়ৰোলৈ ৰেলপথৰ সপোন দেখিছিল?
+কোনজন ব্ৰিটিছ ব্যৱসায়ী আৰু ৰাজনীতিবিদ ৰ ব্ৰিটিছ চাউথ আফ্ৰিকা কোম্পানী প্ৰতিষ্ঠা কৰিছিল আৰু কেপৰ পৰা কায়ৰোলৈ ৰেলপথৰ সপোন দেখিছিল?
 A) Cecil Rhodes / চেছিল ৰোডছ
 B) Benjamin Disraeli / বেনজামিন ডিছৰায়েলী
 C) Leander Starr Jameson / লিয়েন্ডাৰ স্টাৰ জেমেছন
@@ -88,9 +88,9 @@ C) France and Germany / ফ্ৰান্স আৰু জাৰ্মানী
 D) Italy and Ethiopia / ইটালী আৰু ইথিওপিয়া
 Ans: B
 
-11. Which 1842-1868 wars led to the British annexation of Burma (now Myanmar) into British India?
+11. Which 19th-century wars (1824-1885) led to the British annexation of Burma (now Myanmar) into British India?
 
-১৮৪২-১৮৬৮ চনৰ যুদ্ধসমূহে বাৰ্মাক (বৰ্তমান ম্যানমাৰ) ব্ৰিটিছ ভাৰতত অন্তৰ্ভুক্ত কৰাত অৰিহণা যোগাইছিল?
+উনবিংশ শতিকাৰ (১৮২৪-১৮৮৫) কোনবোৰ যুদ্ধই বাৰ্মাক (বৰ্তমান ম্যানমাৰ) ব্ৰিটিছ ভাৰতত অন্তৰ্ভুক্ত কৰাত অৰিহণা যোগাইছিল?
 A) Anglo-Afghan Wars / এংলো-আফগান যুদ্ধ
 B) Anglo-Burmese Wars / এংলো-বাৰ্মীজ যুদ্ধ
 C) Anglo-Sikh Wars / এংলো-শিখ যুদ্ধ
@@ -101,7 +101,7 @@ Ans: B
 
 ১৮২৩ চনত ঘোষিত 'মুনৰো নীতি'য়ে ইউৰোপীয় শক্তিসমূহক কোনটো গোলাৰ্ধত হস্তক্ষেপ নকৰিবলৈ সকীয়াই দিছিল?
 A) Eastern Hemisphere / পূব গোলাৰ্ধ
-B) Western Hemisphere / Americas / পশ্চিম গোলাৰ্ধ / আমেৰিকা মহাদেশ
+B) Western Hemisphere / পশ্চিম গোলাৰ্ধ 
 C) Northern Hemisphere / উত্তৰ গোলাৰ্ধ
 D) Southern Hemisphere / দক্ষিণ গোলাৰ্ধ
 Ans: B
@@ -200,7 +200,7 @@ Ans: B
 
 কোনটো অৰ্থনৈতিক নীতিয়ে বিশ্বাস কৰিছিল যে উপনিৱেশসমূহ কেৱল বাণিজ্যৰ ভাৰসাম্য আৰু সোণৰ সঞ্চয়ৰ জৰিয়তে মাতৃ দেশক চহকী কৰিবলৈ অস্তিত্বত আছে?
 A) Capitalism / পুঁজিবাদ
-B) Mercantilism / বাণিজ্যবাদ / মাৰ্কেনটাইলাইজম
+B) Mercantilism / মাৰ্কেন্টাইলিজম
 C) Socialism / সমাজবাদ
 D) Feudalism / সামন্তবাদ
 Ans: B

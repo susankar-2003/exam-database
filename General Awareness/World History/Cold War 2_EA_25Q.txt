@@ -19,10 +19,10 @@ Ans: B
 3. Which treaty signed in 1972 by Nixon and Brezhnev limited strategic nuclear weapons?
 
 ১৯৭২ চনত নিক্সন আৰু ব্ৰেঝনেভে স্বাক্ষৰ কৰা কোনখন চুক্তিয়ে কৌশলগত পাৰমাণৱিক অস্ত্ৰৰ ব্যৱহাৰ সীমিত কৰিছিল?
-A) START I / স্টাৰ্ট ১
-B) SALT I / সল্ট ১
-C) INF Treaty / আই এন এফ চুক্তি
-D) NPT / এন পি টি
+A) START I 
+B) SALT I ১
+C) INF Treaty
+D) NPT
 Ans: B
 
 4. In which year was the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) opened for signature?
@@ -48,7 +48,7 @@ Ans: B
 ১৯৮৫ চনত ছোভিয়েত ইউনিয়নৰ নেতা হৈ কোনে ৰাজনৈতিক আৰু অৰ্থনৈতিক সংস্কাৰ প্ৰৱৰ্তন কৰিছিল?
 A) Yuri Andropov / ইউৰি আন্দ্ৰোপভ
 B) Mikhail Gorbachev / মিকাইল গোৰ্বাচেভ
-C) Konstantin Chernenko / কনষ্টেনটিন চেৰネンকো
+C) Konstantin Chernenko / কনষ্টেনটিন চেৰ্নেনকো
 D) Boris Yeltsin / বৰিছ য়েল্টছিন
 Ans: B
 
@@ -109,7 +109,7 @@ Ans: B
 13. What was the military offensive launched by Western forces in 1991 to liberate Kuwait from Iraq called?
 
 ১৯৯১ চনত কুৱেতক ইৰাকৰ দখলৰ পৰা মুক্ত কৰিবলৈ পশ্চিমীয়া বাহিনীয়ে চলোৱা সামৰিক অভিযানটোক কি বুলি কোৱা হৈছিল?
-A) Operation Desert Storm / অপাৰেচন ডেজাৰ্ট স্টৰ্ম
+A) Operation Desert Storm / অপাৰেচন ডেজাৰ্ট স্তৰ্ম
 B) Operation Iraqi Freedom / অপাৰেচন ইৰাকী ফ্ৰীডম
 C) Operation Enduring Freedom / অপাৰেচন এণ্ডিউৰিং ফ্ৰীডম
 D) Operation Restore Hope / অপাৰেচন ৰিষ্ট’ৰ হোপ
@@ -121,13 +121,13 @@ Ans: A
 A) SALT II / সল্ট ২
 B) INF Treaty / আই এন এফ চুক্তি
 C) CTBT / চি টি বি টি
-D) START II / স্টাৰ্ট ২
+D) START II / স্তাৰ্ট ২
 Ans: B
 
 15. What was the codename for the Strategic Defense Initiative (SDI) proposed by US President Ronald Reagan in 1983?
 
 ১৯৮৩ চনত আমেৰিকাৰ ৰাষ্ট্ৰপতি ৰোনাল্ড ৰেগনে প্ৰস্তাৱ কৰা ষ্ট্ৰেটেজিক ডিফেন্স ইনিচিয়েটিভ (SDI) ৰ উপনাম কি আছিল?
-A) Star Wars / স্টাৰ ৱাৰ্ছ
+A) Star Wars / স্তাৰ ৱাৰ্ছ
 B) Iron Dome / আইৰন ডোম
 C) Sky Shield / স্কাই শ্বিল্ড
 D) Space Defense / স্পেছ ডিফেন্স
@@ -136,9 +136,9 @@ Ans: A
 16. Which alliance was founded in 1955 covering the Middle East region, involving the UK, Turkey, Iraq, Iran, and Pakistan?
 
 ইউ কে, তুৰস্ক, ইৰাক, ইৰান আৰু পাকিস্তানক লৈ ১৯৫৫ চনত মধ্যপ্ৰাচ্য অঞ্চলক সামৰি কোনটো মিত্ৰজোঁট গঠন কৰা হৈছিল?
-A) SEATO / চিটো
-B) CENTO / Baghdad Pact / সেণ্টো / বাগদাদ চুক্তি
-C) OPEC / অ’পেক
+A) SEATO
+B) CENTO 
+C) OPEC
 D) Arab League / আৰৱ লিগ
 Ans: B
 
@@ -163,7 +163,7 @@ Ans: A
 19. Which labor union movement formed in Poland in 1980 under Lech Wałęsa challenged Communist rule?
 
 ১৯৮০ চনত পোলেণ্ডত লেচ ৱালেছাৰ নেতৃত্বত গঠিত কোনটো শ্ৰমিক ইউনিয়ন আন্দোলনে সাম্যবাদী শাসনক প্ৰত্যাহ্বান জনাইছিল?
-A) Solidarity / Solidarność / ছলিডাৰিটী
+A) Solidarity / ছলিডাৰিটী
 B) Bolsheviks / বলছেভিকছ
 C) Charter 77 / চাৰ্টাৰ ৭৭
 D) New Left / নিউ লেফ্ট
@@ -175,14 +175,14 @@ Ans: A
 A) Chiang Kai-shek / চিয়াং কাই-শেক
 B) Mao Zedong / মাও সে তুং
 C) Deng Xiaoping / ডেং জিয়াওপিং
-D) Sun Yat-sen / ছু প্ৰন ইয়াট-চেন
+D) Sun Yat-sen / ছান ইয়াট-ছেন
 Ans: B
 
 21. Where did the defeated Nationalist forces (Kuomintang) flee after the Chinese Communist Revolution in 1949?
 
 ১৯৪৯ চনত চীনৰ সাম্যবাদী বিপ্লৱৰ পিছত পৰাস্ত ৰাষ্ট্ৰবাদী বাহিনী (কুওমিণ্টাং) ক’লৈ পলাই গৈছিল?
 A) Hong Kong / হংকং
-B) Taiwan / Formosa / টাইৱান / ফৰ্মোছা
+B) Taiwan / টাইৱান 
 C) Vietnam / ভিয়েটনাম
 D) Singapore / ছিংগাপুৰ
 Ans: B
@@ -194,7 +194,7 @@ A) Iron Curtain / আইৰন কাৰ্টেন
 B) Inner German Border / ইনাৰ জাৰ্মান বৰ্ডাৰ
 C) Maginot Line / মেগিন’ট লাইন
 D) Siegfried Line / ছিগফ্ৰাইড লাইন
-Ans: B
+Ans: A
 
 23. Which anti-communist doctrine was proclaimed in 1957 offering US economic and military aid to Middle Eastern nations?
 

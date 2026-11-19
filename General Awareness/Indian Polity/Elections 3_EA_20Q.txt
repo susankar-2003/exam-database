@@ -1,10 +1,10 @@
 1. A candidate contesting an election loses his security deposit if he fails to secure what fraction of total valid votes polled?
 
 ভোটগ্ৰহণ হোৱা মুঠ বৈধ ভোটৰ কিমান অংশ লাভ কৰিবলৈ ব্যৰ্থ হ'লে এজন প্ৰাৰ্থীৰ আমানত ধন বাজেয়াপ্ত হয়?
-A) 1/10th / ১/১০ অংশ
-B) 1/6th / ১/৬ অংশ
-C) 1/4th / ১/৪ অংশ
-D) 1/3rd / ১/৩ অংশ
+A) 1/10th 
+B) 1/6th 
+C) 1/4th 
+D) 1/3rd 
 Ans: B
 
 2. What is the minimum age required to contest election for the Lok Sabha or Legislative Assembly?
@@ -47,7 +47,7 @@ Ans: B
 
 জিলা পৰ্যায়ত নিৰ্বাচনৰ সময়ত জিলা নিৰ্বাচন বিষয়া (DEO) হিচাপে কোনে কাৰ্যনিৰ্বাহ কৰে?
 A) Superintendent of Police / আৰক্ষী অধীক্ষক
-B) District Collector/Magistrate / জিলা উপায়ুক্ত/দণ্ডাধীশ
+B) District Collector or Magistrate / জিলা উপায়ুক্ত বা দণ্ডাধীশ
 C) Sub-Divisional Officer / মহকুমাধিপতি
 D) Block Development Officer / খণ্ড উন্নয়ন বিষয়া
 Ans: B
@@ -118,8 +118,8 @@ Ans: C
 14. Who is the final authority to decide on disqualification of a member under the Anti-Defection Law?
 
 দলত্যাগ বিৰোধী আইনৰ অধীনত সদস্য এজনৰ অযোগ্যতাৰ বিষয়ে সিদ্ধান্ত লোৱাৰ চূড়ান্ত কৰ্তৃত্ব কাৰ আছে?
-A) President / Governor / ৰাষ্ট্ৰপতি / ৰাজ্যপাল
-B) Presiding Officer of the respective House / Speaker/Chairman / সম্পৰ্কিত সদনৰ অধ্যক্ষ/সভাপতি
+A) President or Governor / ৰাষ্ট্ৰপতি বা ৰাজ্যপাল
+B) Presiding Officer of the respective House or Chairman / সম্পৰ্কিত সদনৰ অধ্যক্ষ বা সভাপতি
 C) Election Commission / নিৰ্বাচন আয়োগ
 D) Supreme Court / উচ্চতম ন্যায়ালয়
 Ans: B

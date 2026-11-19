@@ -10,16 +10,16 @@ Ans: B
 2. Freedom of speech and expression is guaranteed under which clause of the Constitution?
 
 সংবিধানৰ কোনটো দফাত বাক আৰু প্ৰকাশ স্বাধীনতা সুৰক্ষিত?
-A) Article 19 / 1 / a / অনুচ্ছেদ ১৯(১ / এ)
-B) Article 19 / 1 / b / অনুচ্ছেদ ১৯(১ / বি)
-C) Article 19 / 1 / c / অনুচ্ছেদ ১৯(১ / চি)
-D) Article 19 / 1 / d / অনুচ্ছেদ ১৯(১ / ডি)
+A) Article 19 (1-a) 
+B) Article 19 (1-b) 
+C) Article 19 (1-c) 
+D) Article 19 (1-d) 
 Ans: A
 
 3. Freedom of Press in India is implicit under which Fundamental Right?
 
 ভাৰতত সংবাদ মাধ্যমৰ স্বাধীনতা (Freedom of Press) কোনটো মৌলিক অধিকাৰৰ অন্তৰ্গত?
-A) Article 19 / 1 / a - Speech and Expression / অনুচ্ছেদ ১৯(১ / এ - বাক আৰু প্ৰকাশ স্বাধীনতা)
+A) Article 19 (1-a) - Speech and Expression / অনুচ্ছেদ ১৯(১-এ) - বাক আৰু প্ৰকাশ স্বাধীনতা
 B) Article 21 - Personal Liberty / অনুচ্ছেদ ২১ - ব্যক্তিগত স্বাধীনতা
 C) Article 14 - Equality before Law / অনুচ্ছেদ ১৪ - আইনৰ দৃষ্টিত সমতা
 D) Article 32 - Constitutional Remedies / অনুচ্ছেদ ৩২ - সাংবিধানিক প্ৰতিকাৰ
@@ -28,37 +28,37 @@ Ans: A
 4. Right to assemble peacefully and without arms is mentioned under which clause?
 
 শান্তিপূৰ্ণভাৱে আৰু অস্ত্ৰ-শস্ত্ৰ অবিহনে সমবেত হোৱাৰ অধিকাৰ কোনটো দফাত উল্লেখ আছে?
-A) Article 19 / 1 / a / অনুচ্ছেদ ১৯(১ / এ)
-B) Article 19 / 1 / b / অনুচ্ছেদ ১৯(১ / বি)
-C) Article 19 / 1 / c / অনুচ্ছেদ ১৯(১ / চি)
-D) Article 19 / 1 / e / অনুচ্ছেদ ১৯(১ / ই)
+A) Article 19 (1-a) 
+B) Article 19 (1-b) 
+C) Article 19 (1-c) 
+D) Article 19 (1-e) 
 Ans: B
 
 5. Freedom to form associations, unions, or co-operative societies is guaranteed under which clause?
 
 সংঘ, ইউনিয়ন বা সমবায় সমিতি গঠনৰ স্বাধীনতা কোনটো দফাত দিয়া হৈছে?
-A) Article 19 / 1 / b / অনুচ্ছেদ ১৯(১ / বি)
-B) Article 19 / 1 / c / অনুচ্ছেদ ১৯(১ / চি)
-C) Article 19 / 1 / d / অনুচ্ছেদ ১৯(১ / ডি)
-D) Article 19 / 1 / g / অনুচ্ছেদ ১৯(১ / জি)
+A) Article 19 (1-b) 
+B) Article 19 (1-c) 
+C) Article 19 (1-d) 
+D) Article 19 (1-g) 
 Ans: B
 
 6. Right to move freely throughout the territory of India is guaranteed under which Article?
 
 ভাৰতৰ সমগ্ৰ ভূখণ্ডতে মুক্তভাৱে বিচৰণ কৰাৰ অধিকাৰ কোনটো অনুচ্ছেদত সুৰক্ষিত?
-A) Article 19 / 1 / d / অনুচ্ছেদ ১৯(১ / ডি)
-B) Article 19 / 1 / e / অনুচ্ছেদ ১৯(১ / ই)
-C) Article 21 / অনুচ্ছেদ ২১
-D) Article 22 / অনুচ্ছেদ ২২
+A) Article 19 (1-d) 
+B) Article 19 (1-e) 
+C) Article 21 
+D) Article 22 
 Ans: A
 
 7. Protection in respect of conviction for offences (no ex-post facto law, double jeopardy, self-incrimination) is provided under which Article?
 
 অপৰাধৰ দোষসিদ্ধিৰ ক্ষেত্ৰত সংৰক্ষণ কোনটো অনুচ্ছেদৰ অধীনত প্ৰদান কৰা হয়?
-A) Article 19 / অনুচ্ছেদ ১৯
-B) Article 20 / অনুচ্ছেদ ২০
-C) Article 21 / অনুচ্ছেদ ২১
-D) Article 22 / অনুচ্ছেদ ২২
+A) Article 19
+B) Article 20 
+C) Article 21 
+D) Article 22
 Ans: B
 
 8. The principle of 'No Double Jeopardy' means a person cannot be tried and punished for the same offence how many times?
@@ -73,10 +73,10 @@ Ans: A
 9. Protection of life and personal liberty is guaranteed under which Article of the Constitution?
 
 জীৱন আৰু ব্যক্তিগত স্বাধীনতাৰ সংৰক্ষণ সংবিধানৰ কোনটো অনুচ্ছেদৰ অধীনত সংৰক্ষিত?
-A) Article 19 / অনুচ্ছেদ ১৯
-B) Article 20 / অনুচ্ছেদ ২০
-C) Article 21 / অনুচ্ছেদ ২১
-D) Article 22 / অনুচ্ছেদ ২২
+A) Article 19 
+B) Article 20 
+C) Article 21 
+D) Article 22 
 Ans: C
 
 10. Right to Privacy was declared a Fundamental Right under Article 21 in which landmark Supreme Court judgment?
@@ -109,10 +109,10 @@ Ans: B
 13. Protection against arrest and detention in certain cases is guaranteed under which Article?
 
 কিছুমান ক্ষেত্ৰত গ্ৰেপ্তাৰ আৰু আটকৰ বিৰুদ্ধে সুৰক্ষা কোনটো অনুচ্ছেদৰ অধীনত সংৰক্ষিত?
-A) Article 20 / অনুচ্ছেদ ২০
-B) Article 21 / অনুচ্ছেদ ২১
-C) Article 22 / অনুচ্ছেদ ২২
-D) Article 23 / অনুচ্ছেদ ২৩
+A) Article 20 
+B) Article 21 
+C) Article 22 
+D) Article 23 
 Ans: C
 
 14. An arrested person must be produced before the nearest magistrate within how many hours of arrest?
@@ -127,53 +127,53 @@ Ans: B
 15. Which Articles guarantee the Right against Exploitation?
 
 কোন কেইটা অনুচ্ছেদে শোষণৰ বিৰুদ্ধে অধিকাৰ প্ৰদান কৰে?
-A) Articles 19 to 22 / অনুচ্ছেদ ১৯ ৰ পৰা ২২
-B) Articles 23 to 24 / অনুচ্ছেদ ২৩ ৰ পৰা ২৪
-C) Articles 25 to 28 / অনুচ্ছেদ ২৫ ৰ পৰা ২৮
-D) Articles 29 to 30 / অনুচ্ছেদ ২৯ ৰ পৰা ৩০
+A) Articles 19 to 22 
+B) Articles 23 to 24 
+C) Articles 25 to 28 
+D) Articles 29 to 30 
 Ans: B
 
 16. Prohibition of traffic in human beings and forced labour (Begar) is laid down under which Article?
 
 মানুহৰ অবৈধ ব্যৱসায় আৰু বেগাৰ শ্ৰম (বাধ্যতামূলক শ্ৰম) নিষিদ্ধকৰণ কোনটো অনুচ্ছেদত সন্নিৱিষ্ট কৰা হৈছে?
-A) Article 23 / অনুচ্ছেদ ২৩
-B) Article 24 / অনুচ্ছেদ ২৪
-C) Article 25 / অনুচ্ছেদ ২৫
-D) Article 29 / অনুচ্ছেদ ২৯
+A) Article 23 
+B) Article 24 
+C) Article 25 
+D) Article 29 
 Ans: A
 
 17. Prohibition of employment of children in factories and hazardous jobs below 14 years of age is provided under which Article?
 
 ১৪ বছৰৰ কম বয়সৰ শিশুক কাৰখানা আৰু বিপজ্জনক কামত নিযুক্তি নিষিদ্ধকৰণ কোনটো অনুচ্ছেদত প্ৰদান কৰা হৈছে?
-A) Article 21 / অনুচ্ছেদ ২১
-B) Article 23 / অনুচ্ছেদ ২৩
-C) Article 24 / অনুচ্ছেদ ২৪
-D) Article 25 / অনুচ্ছেদ ২৫
+A) Article 21 
+B) Article 23 
+C) Article 24 
+D) Article 25 
 Ans: C
 
 18. Freedom of conscience and free profession, practice, and propagation of religion is guaranteed under which Article?
 
 বিবেকৰ স্বাধীনতা আৰু ধৰ্ম গ্ৰহণ, পালন তথা প্ৰচাৰৰ স্বাধীনতা কোনটো অনুচ্ছেদৰ অধীনত সুৰক্ষিত?
-A) Article 25 / অনুচ্ছেদ ২৫
-B) Article 26 / অনুচ্ছেদ ২৬
-C) Article 27 / অনুচ্ছেদ ২৭
-D) Article 28 / অনুচ্ছেদ ২৮
+A) Article 25 
+B) Article 26 
+C) Article 27 
+D) Article 28 
 Ans: A
 
 19. Freedom to manage religious affairs is provided under which Article of the Constitution?
 
 ধৰ্মীয় বিষয় পৰিচালনাৰ স্বাধীনতা সংবিধানৰ কোনটো অনুচ্ছেদত প্ৰদান কৰা হৈছে?
-A) Article 25 / অনুচ্ছেদ ২৫
-B) Article 26 / অনুচ্ছেদ ২৬
-C) Article 27 / অনুচ্ছেদ ২৭
-D) Article 28 / অনুচ্ছেদ ২৮
+A) Article 25 
+B) Article 26 
+C) Article 27 
+D) Article 28 
 Ans: B
 
 20. Freedom from payment of taxes for promotion of any particular religion is guaranteed under which Article?
 
 কোনো বিশেষ ধৰ্মৰ প্ৰচাৰৰ বাবে কৰ প্ৰদানৰ পৰা ৰেহাই সংক্ৰান্ত স্বাধীনতা কোনটো অনুচ্ছেদত সুৰক্ষিত?
-A) Article 26 / অনুচ্ছেদ ২৬
-B) Article 27 / অনুচ্ছেদ ২৭
-C) Article 28 / অনুচ্ছেদ ২৮
-D) Article 29 / অনুচ্ছেদ ২৯
+A) Article 26 
+B) Article 27 
+C) Article 28 
+D) Article 29 
 Ans: B

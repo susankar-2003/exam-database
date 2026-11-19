@@ -13,7 +13,7 @@ Ans: C
 A) Paleolithic Age / পুৰাতন প্ৰস্তৰ যুগ
 B) Mesolithic Age / মধ্য প্ৰস্তৰ যুগ
 C) Neolithic Age / নতুন প্ৰস্তৰ যুগ
-D) Chalcolithic / Bronze Age / তাম্ৰ-প্ৰস্তৰ / ব্ৰঞ্জৰ যুগ
+D) Bronze Age / তাম্ৰ-প্ৰস্তৰ যুগ
 Ans: D
 
 3. Which Indus Valley site is known for having a dockyard?
@@ -109,10 +109,10 @@ Ans: A
 13. The Battle of Ten Kings (Dasharajna War) was fought on the banks of which river?
 
 দহজন ৰজাৰ যুদ্ধ (দাশৰাজ্য যুদ্ধ) কোনখন নদীৰ পাৰত সংঘটিত হৈছিল?
-A) Shatadru / Sutlej / শতদ্ৰু / সতলুজ
-B) Parushni / Ravi / পৰুষ্ণী / ৰাভী
-C) Vipasa / Beas / বিপাশা / বিয়াছ
-D) Vitasta / Jhelum / বিতস্তা / ঝিলাম
+A) Shatadru (Sutlej) / শতদ্ৰু (সতলুজ)
+B) Parushni (Ravi) / পৰুষ্ণী (ৰাভী)
+C) Vipasa (Beas) / বিপাশা (বিয়াছ)
+D) Vitasta (Jhelum) / বিতস্তা (ঝিলাম)
 Ans: B
 
 14. The term 'Satyameva Jayate' inscribed below the National Emblem of India is taken from which Upanishad?
@@ -128,7 +128,7 @@ Ans: B
 
 ঋগ্বৈদিক আৰ্যসকলৰ প্ৰধান অৰ্থনৈতিক কাৰ্যসূচী কি আছিল?
 A) Agriculture / কৃষি
-B) Pastoralism / Cattle Rearing / পশুপালন
+B) Pastoralism / পশুপালন
 C) Trade and Commerce / বাণিজ্য
 D) Industry /  উদ্যোগ
 Ans: B
@@ -173,7 +173,7 @@ Ans: A
 
 বৰ্ধমান মহাবীৰৰ জন্ম কোনটো স্থানত হৈছিল?
 A) Lumbini / লুম্বিনী
-B) Vaishali / Kundagrama /  বৈশালী / কুন্দগ্ৰাম
+B) Vaishali /  বৈশালী
 C) Pawa / পাৱা
 D) Sarnath / সাৰনাথ
 Ans: B

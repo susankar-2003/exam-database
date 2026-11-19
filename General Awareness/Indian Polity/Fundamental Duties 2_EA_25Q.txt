@@ -100,19 +100,19 @@ Ans: B
 12. The Forest Conservation Act of 1980 serves to implement which Fundamental Duty clause?
 
 ১৯৮০ চনৰ বন সংৰক্ষণ আইনে কোনটো মৌলিক কৰ্তব্যৰ দফা কাৰ্যকৰী কৰাত সহায় কৰে?
-A) Article 51A / f / অনুচ্ছেদ ৫১ক(চ)
-B) Article 51A / g / অনুচ্ছেদ ৫১ক(ছ)
-C) Article 51A / h / অনুচ্ছেদ ৫১ক(জ)
-D) Article 51A / i / অনুচ্ছেদ ৫১ক(ঝ)
+A) Article 51A-f / অনুচ্ছেদ ৫১ক(চ)
+B) Article 51A-g / অনুচ্ছেদ ৫১ক(ছ)
+C) Article 51A-h / অনুচ্ছেদ ৫১ক(জ)
+D) Article 51A-i / অনুচ্ছেদ ৫১ক(ঝ)
 Ans: B
 
 13. Which fundamental duty emphasizes developing the spirit of inquiry and reform?
 
 কোনটো মৌলিক কৰ্তব্যই অনুসন্ধিৎসা আৰু সংস্কাৰৰ মনোভাব বিকাশৰ ওপৰত গুৰুত্ব আৰোপ কৰে?
-A) Article 51A / e / অনুচ্ছেদ ৫১ক(ঙ)
-B) Article 51A / g / অনুচ্ছেদ ৫১ক(ছ)
-C) Article 51A / h / অনুচ্ছেদ ৫১ক(জ)
-D) Article 51A / j / অনুচ্ছেদ ৫১ক(ঞ)
+A) Article 51A-e / অনুচ্ছেদ ৫১ক(ঙ)
+B) Article 51A-g / অনুচ্ছেদ ৫১ক(ছ)
+C) Article 51A-h / অনুচ্ছেদ ৫১ক(জ)
+D) Article 51A-j / অনুচ্ছেদ ৫১ক(ঞ)
 Ans: C
 
 14. In which year did the Verma Committee submit its report on Fundamental Duties?
@@ -163,10 +163,10 @@ Ans: B
 19. Which Fundamental Duty inspires citizens to strive toward excellence so that the nation constantly rises to higher levels of endeavor?
 
 কোনটো মৌলিক কৰ্তব্যই নাগৰিকসকলক শ্ৰেষ্ঠত্বৰ দিশে অগ্ৰসৰ হ'বলৈ প্ৰেৰণা দিয়ে যাতে ৰাষ্ট্ৰই নিৰন্তৰ উচ্চ পৰ্যায়লৈ উন্নতি কৰিব পাৰে?
-A) Article 51A / i / অনুচ্ছেদ ৫১ক(ঝ)
-B) Article 51A / j / অনুচ্ছেদ ৫১ক(ঞ)
-C) Article 51A / k / অনুচ্ছেদ ৫১ক(ট)
-D) Article 51A / h / অনুচ্ছেদ ৫১ক(জ)
+A) Article 51A-i / অনুচ্ছেদ ৫১ক(ঝ)
+B) Article 51A-j / অনুচ্ছেদ ৫১ক(ঞ)
+C) Article 51A-k / অনুচ্ছেদ ৫১ক(ট)
+D) Article 51A-h / অনুচ্ছেদ ৫১ক(জ)
 Ans: B
 
 20. Are Fundamental Duties enforceable by Writ Petitions directly under Article 32?
@@ -208,7 +208,7 @@ Ans: A
 24. Which Act prohibits the improper use of the National Flag and symbols, backing Article 51A(a)?
 
 কোনটো আইনে অনুচ্ছেদ ৫১ক(ক) ক সমৰ্থন কৰি ৰাষ্ট্ৰীয় পতাকা আৰু প্ৰতীকৰ অনুচিত ব্যৱহাৰ নিষিদ্ধ কৰে?
-A) Emblems and Names / Prevention of Improper Use Act, 1950 / প্ৰতীক আৰু নাম (অনুচিত ব্যৱহাৰ প্ৰতিৰোধ আইন, ১৯৫০)
+A) Prevention of Improper Use Act, 1950(Emblems and Names) / প্ৰতীক আৰু নাম (অনুচিত ব্যৱহাৰ প্ৰতিৰোধ আইন, ১৯৫০)
 B) Flag Code of India 2002 only / কেৱল ভাৰতৰ পতাকা বিধি ২০০২
 C) Police Act 1861 / আৰক্ষী আইন ১৮৬১
 D) Arms Act 1959 / অস্ত্ৰ আইন ১৯৫৯

@@ -11,7 +11,7 @@ Ans: C
 
 দলত্যাগ বিৰোধী আইন কোনটো সাংবিধানিক সংশোধনী আইনৰ জৰিয়তে প্ৰৱৰ্তন কৰা হৈছিল?
 A) 44th Amendment Act / ৪৪তম সংশোধনী আইন
-B) 52nd Amendment Act, 1985 / ৫২তম সংশোধনী আইন, ১৯৮৫
+B) 52nd Amendment Act / ৫২তম সংশোধনী আইন
 C) 61st Amendment Act / ৬১তম সংশোধনী আইন
 D) 91st Amendment Act / ৯১তম সংশোধনী আইন
 Ans: B
@@ -29,7 +29,7 @@ Ans: B
 
 কোনটো সাংবিধানিক সংশোধনী আইনৰ জৰিয়তে ভোটাধিকাৰৰ বয়স ২১ ৰ পৰা ১৮ বছৰলৈ হ্ৰাস কৰা হৈছিল?
 A) 52nd Amendment Act / ৫২তম সংশোধনী আইন
-B) 61st Amendment Act, 1988 / ৬১তম সংশোধনী আইন, ১৯৮৮
+B) 61st Amendment Act / ৬১তম সংশোধনী আইন
 C) 69th Amendment Act / ৬৯তম সংশোধনী আইন
 D) 73rd Amendment Act / ৭৩তম সংশোধনী আইন
 Ans: B
@@ -38,7 +38,7 @@ Ans: B
 
 কোনটো সাংবিধানিক সংশোধনী আইনৰ জৰিয়তে দিল্লী ৰাষ্ট্ৰীয় ৰাজধানী অঞ্চল (NCT) সৃষ্টি কৰা হৈছিল?
 A) 61st Amendment Act / ৬১তম সংশোধনী আইন
-B) 69th Amendment Act, 1991 / ৬৯তম সংশোধনী আইন, ১৯৯১
+B) 69th Amendment Act / ৬৯তম সংশোধনী আইন
 C) 70th Amendment Act / ৭০তম সংশোধনী আইন
 D) 74th Amendment Act / ৭৪তম সংশোধনী আইন
 Ans: B
@@ -47,7 +47,7 @@ Ans: B
 
 কোনটো সংশোধনী আইনৰ জৰিয়তে কংকণী, মণিপুৰী আৰু নেপালী ভাষাক অষ্টম অনুসূচীত অন্তৰ্ভুক্ত কৰা হৈছিল?
 A) 21st Amendment Act / ২১তম সংশোধনী আইন
-B) 71st Amendment Act, 1992 / ৭১তম সংশোধনী আইন, ১৯৯২
+B) 71st Amendment Act / ৭১তম সংশোধনী আইন
 C) 92nd Amendment Act / ৯২তম সংশোধনী আইন
 D) 96th Amendment Act / ৯৬তম সংশোধনী আইন
 Ans: B
@@ -74,7 +74,7 @@ Ans: A
 
 ১৯৯২ চনৰ ৭৪তম সাংবিধানিক সংশোধনী আইনে কোনবোৰ স্থানীয় শাসন প্ৰতিষ্ঠানৰ সৈতে সম্পৰ্ক ৰাখে?
 A) Panchayats / পঞ্চায়ত
-B) Municipalities / Urban Local Bodies / পৌৰসভা / নগৰীয়া স্থানীয় নিকায়
+B) Municipalities or Urban Local Bodies / পৌৰসভা বা নগৰীয়া স্থানীয় নিকায়
 C) Autonomous District Councils / স্বায়ত্তশাসিত জিলা পৰিষদ
 D) Gram Sabhas / গ্ৰাম সভা
 Ans: B
@@ -101,7 +101,7 @@ Ans: A
 
 ৮৬তম সাংবিধানিক সংশোধনী আইনে ৫১এ অনুচ্ছেদৰ অধীনত এটা নতুন মৌলিক কৰ্তব্য যোগ কৰিছিল। ই কিহৰ সৈতে সম্পৰ্কিত?
 A) Protecting the environment / পৰিৱেশ সুৰক্ষা
-B) Duty of parent/guardian to provide education to child aged 6-14 years / ৬-১৪ বছৰৰ সন্তানক শিক্ষা প্ৰদানৰ পিতৃ-মাতৃ/অভিভাৱকৰ কৰ্তব্য
+B) Duty of parent or guardian to provide education to child aged 6-14 years / ৬-১৪ বছৰৰ সন্তানক শিক্ষা প্ৰদানৰ পিতৃ-মাতৃ বা অভিভাৱকৰ কৰ্তব্য
 C) Safeguarding public property / ৰাজহুৱা সম্পত্তি সুৰক্ষা
 D) Respecting national flag / ৰাষ্ট্ৰীয় পতাকাৰ প্ৰতি শ্ৰদ্ধা
 Ans: B
@@ -110,7 +110,7 @@ Ans: B
 
 কোনটো সাংবিধানিক সংশোধনী আইনে মন্ত্ৰীপৰিষদৰ আকাৰ লোকসভা / বিধানসভাৰ মুঠ সদস্য সংখ্যাৰ ১৫% লৈ সীমিত কৰিছিল?
 A) 86th Amendment Act / ৮৬তম সংশোধনী আইন
-B) 91st Amendment Act, 2003 / ৯১তম সংশোধনী আইন, ২০০৩
+B) 91st Amendment Act / ৯১তম সংশোধনী আইন
 C) 92nd Amendment Act / ৯২তম সংশোধনী আইন
 D) 95th Amendment Act / ৯৫তম সংশোধনী আইন
 Ans: B
@@ -119,7 +119,7 @@ Ans: B
 
 কোনটো সংশোধনী আইনৰ জৰিয়তে বড়ো, ডোগ্ৰী, মৈথিলী আৰু চাঁওতালী ভাষাক অষ্টম অনুসূচীত অন্তৰ্ভুক্ত কৰা হৈছিল?
 A) 71st Amendment Act / ৭১তম সংশোধনী আইন
-B) 92nd Constitutional Amendment Act, 2003 / ৯২তম সাংবিধানিক সংশোধনী আইন, ২০০৩
+B) 92nd Constitutional Amendment Act / ৯২তম সাংবিধানিক সংশোধনী আইন
 C) 96th Amendment Act / ৯৬তম সংশোধনী আইন
 D) 100th Amendment Act / ১০০তম সংশোধনী আইন
 Ans: B
@@ -137,7 +137,7 @@ Ans: C
 
 অষ্টম অনুসূচীত 'Oriya' শব্দটোৰ সলনি 'Odia' শব্দটো প্ৰতিস্থাপন কোনটো সংশোধনী আইনৰ জৰিয়তে কৰা হৈছিল?
 A) 92nd Amendment Act / ৯২তম সংশোধনী আইন
-B) 96th Constitutional Amendment Act, 2011 / ৯৬তম সাংবিধানিক সংশোধনী আইন, ২০১১
+B) 96th Constitutional Amendment Act/ ৯৬তম সাংবিধানিক সংশোধনী আইন
 C) 97th Amendment Act / ৯৭তম সংশোধনী আইন
 D) 99th Amendment Act / ৯৯তম সংশোধনী আইন
 Ans: B
@@ -146,7 +146,7 @@ Ans: B
 
 সমবায় সমিতিসমূহক সাংবিধানিক মৰ্যাদা কোনটো সংশোধনী আইনৰ জৰিয়তে প্ৰদান কৰা হৈছিল?
 A) 91st Amendment Act / ৯১তম সংশোধনী আইন
-B) 97th Constitutional Amendment Act, 2011 / ৯৭তম সাংবিধানিক সংশোধনী আইন, ২০১১
+B) 97th Constitutional Amendment Act / ৯৭তম সাংবিধানিক সংশোধনী আইন
 C) 99th Amendment Act / ৯৯তম সংশোধনী আইন
 D) 101st Amendment Act / ১০১তম সংশোধনী আইন
 Ans: B
@@ -155,7 +155,7 @@ Ans: B
 
 কোনটো সংশোধনী আইনৰ জৰিয়তে ৰাষ্ট্ৰীয় বিচাৰক নিযুক্তি আয়োগ (NJAC) গঠন কৰা হৈছিল, যিটো পৰৱৰ্তী সময়ত উচ্চতম ন্যায়ালয়ে বাতিল কৰিছিল?
 A) 98th Amendment Act / ৯৮তম সংশোধনী আইন
-B) 99th Constitutional Amendment Act, 2014 / ৯৯তম সাংবিধানিক সংশোধনী আইন, ২০১৪
+B) 99th Constitutional Amendment Act / ৯৯তম সাংবিধানিক সংশোধনী আইন
 C) 100th Amendment Act / ১০০তম সংশোধনী আইন
 D) 101st Amendment Act / ১০১তম সংশোধনী আইন
 Ans: B
@@ -173,7 +173,7 @@ Ans: B
 
 ভাৰতত সামগ্ৰী আৰু সেৱা কৰ (GST) কোনটো সাংবিধানিক সংশোধনী আইনৰ জৰিয়তে প্ৰৱৰ্তন কৰা হৈছিল?
 A) 100th Amendment Act / ১০০তম সংশোধনী আইন
-B) 101st Constitutional Amendment Act, 2016 / ১০১তম সাংবিধানিক সংশোধনী আইন, ২০১৬
+B) 101st Constitutional Amendment Act / ১০১তম সাংবিধানিক সংশোধনী আইন
 C) 102nd Amendment Act / ১০২তম সংশোধনী আইন
 D) 103rd Amendment Act / ১০৩তম সংশোধনী আইন
 Ans: B

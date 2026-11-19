@@ -37,7 +37,7 @@ Ans: C
 5. Which Articles were amended/inserted by the 103rd Amendment Act to enable EWS reservation?
 
 EWS সংৰক্ষণ কাৰ্যকৰী কৰিবলৈ ১০৩তম সংশোধনী আইনৰ জৰিয়তে কোনবোৰ অনুচ্ছেদ সংশোধন/সন্নিৱিষ্ট কৰা হৈছিল?
-A) Article 15 / 6 and Article 16 / 6 / অনুচ্ছেদ ১৫(৬ আৰু অনুচ্ছেদ ১৬ / ৬)
+A) Article 15-6 and Article 16-6 / অনুচ্ছেদ ১৫-৬ আৰু অনুচ্ছেদ ১৬-৬
 B) Article 14 and Article 15 / অনুচ্ছেদ ১৪ আৰু অনুচ্ছেদ ১৫
 C) Article 19 and Article 21 / অনুচ্ছেদ ১৯ আৰু অনুচ্ছেদ ২১
 D) Article 46 and Article 335 / অনুচ্ছেদ ৪৬ আৰু অনুচ্ছেদ ৩৩৫
@@ -65,7 +65,7 @@ Ans: C
 
 ২০২১ চনৰ ১০৫তম সাংবিধানিক সংশোধনী আইনে ৰাজ্য চৰকাৰসমূহৰ কোনটো ক্ষমতা পুনৰুদ্ধাৰ কৰিছিল?
 A) Power to levy GST / জিএছটি আৰোপ কৰাৰ ক্ষমতা
-B) Power to identify and specify Socially and Educationally Backward Classes / SEBCs / সামাজিক আৰু শৈক্ষিকভাৱে পিছপৰা শ্ৰেণী বাছনি কৰাৰ ক্ষমতা
+B) Power to identify and specify Socially and Educationally Backward Classes / সামাজিক আৰু শৈক্ষিকভাৱে পিছপৰা শ্ৰেণী বাছনি কৰাৰ ক্ষমতা
 C) Power to create Legislative Councils / বিধান পৰিষদ গঠন কৰাৰ ক্ষমতা
 D) Power to amend local tax laws / স্থানীয় কৰ আইন সংশোধনৰ ক্ষমতা
 Ans: B

@@ -55,7 +55,7 @@ Ans: B
 7. Bhilai Steel Plant in Chhattisgarh was setup with the collaboration of which country?
 
 ছত্তীশগড়ৰ ভিলাই ইস্পাত কাৰখানা কোনখন দেশৰ সহযোগত স্থাপন কৰা হৈছিল?
-A) Soviet Union / USSR / ছোভিয়েত ইউনিয়ন / ইউ এ এছ আৰ
+A) Soviet Union / ছোভিয়েত ইউনিয়ন
 B) United Kingdom / যুক্তৰাজ্য
 C) West Germany / পশ্চিম জাৰ্মানী
 D) USA / আমেৰিকা যুক্তৰাষ্ট্ৰ
@@ -82,7 +82,7 @@ Ans: A
 10. Bokaro Steel Plant was established in collaboration with which country?
 
 বোকাৰো ইস্পাত কাৰখানা কোনখন দেশৰ সহযোগত স্থাপন কৰা হৈছিল?
-A) Soviet Union / USSR / ছোভিয়েত ইউনিয়ন / ইউ এ এছ আৰ
+A) Soviet Union / ছোভিয়েত ইউনিয়ন
 B) Germany / জাৰ্মানী
 C) United Kingdom / যুক্তৰাজ্য
 D) USA / আমেৰিকা যুক্তৰাষ্ট্ৰ
@@ -154,7 +154,7 @@ Ans: A
 18. Where was the first cement plant established in India in 1904?
 
 ১৯০৪ চনত ভাৰতত প্ৰথমটো চিমেণ্ট কাৰখানা ক'ত স্থাপন কৰা হৈছিল?
-A) Chennai / Madras / চেন্নাই / মাদ্ৰাজ
+A) Madras / মাদ্ৰাজ
 B) Porbandar / পোৰবৰ্ন্দৰ
 C) Sindri / সিন্দ্ৰী
 D) Dalmianagar / ডালমিয়ানগৰ

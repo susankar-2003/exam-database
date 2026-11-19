@@ -10,7 +10,7 @@ Ans: A
 2. Petroleum is found in which type of rocks?
 
 পেট্ৰ'লিয়াম কোন বিধ শিলাত পোৱা যায়?
-A) Sedimentary Rocks / তলানী শিলা / পাললিক শিলা
+A) Sedimentary Rocks / তলানী শিলা
 B) Igneous Rocks / আগ্নেয় শিলা
 C) Metamorphic Rocks / ৰূপান্তৰিত শিলা
 D) Granite Rocks / গ্ৰেনাইট শিলা
@@ -91,10 +91,10 @@ Ans: A
 11. Which organization is responsible for the exploration of minerals in India?
 
 ভাৰতত খনিজ সম্পদ অনুসন্ধানৰ বাবে কোনটো সংস্থা দায়ী?
-A) Geological Survey of India / GSI / জিঅ'লজিকেল চাৰ্ভে অৱ ইণ্ডিয়া
-B) Archaeological Survey of India / ASI / আৰ্কিয়'লজিকেল চাৰ্ভে অৱ ইণ্ডিয়া
+A) Geological Survey of India / জিঅ'লজিকেল চাৰ্ভে অৱ ইণ্ডিয়া
+B) Archaeological Survey of India / আৰ্কিয়'লজিকেল চাৰ্ভে অৱ ইণ্ডিয়া
 C) Survey of India / চাৰ্ভে অৱ ইণ্ডিয়া
-D) Indian Bureau of Mines / IBM / ইণ্ডিয়ান বুৰ' অৱ মাইঞ্চ
+D) Indian Bureau of Mines / ইণ্ডিয়ান বুৰ' অৱ মাইঞ্চ
 Ans: A
 
 12. Where is the headquarters of the Geological Survey of India (GSI) located?

@@ -1,5 +1,5 @@
 {
-    "last_serial": 1146,
+    "last_serial": 1149,
     "papers": {
         "1": {
             "id": "1",
@@ -8020,6 +8020,27 @@
             "path": "General Awareness/Indian Economy/RBI & Banking 3_EA_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/Indian%20Economy/RBI%20%26%20Banking%203_EA_20Q.txt",
             "hash": "f50f113aff59d71a3eb2a0c279f4b0a7"
+        },
+        "1147": {
+            "id": "1147",
+            "name": "ADRE Paper III 2022_EA.zip",
+            "path": "ADRE/Grade-III Papers/ADRE Paper III 2022_EA.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/ADRE%20Paper%20III%202022_EA.zip",
+            "hash": "d9b0d18aec33cfa844ca8acc29251bdc"
+        },
+        "1148": {
+            "id": "1148",
+            "name": "Paper IV 2022_EA.zip",
+            "path": "ADRE/Grade-III Papers/Paper IV 2022_EA.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Paper%20IV%202022_EA.zip",
+            "hash": "17b09a5f723e2d3f893dd771ede06092"
+        },
+        "1149": {
+            "id": "1149",
+            "name": "Paper V 2022_EA.zip",
+            "path": "ADRE/Grade-III Papers/Paper V 2022_EA.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Paper%20V%202022_EA.zip",
+            "hash": "61167703022446c9988d489699fa9f7c"
         }
     }
 }

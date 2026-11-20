@@ -772,9 +772,9 @@
         },
         "111": {
             "id": "111",
-            "name": "paper 1.txt",
-            "path": "Medical Department/Directorate of Medical Education (DME)/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Medical%20Department/Directorate%20of%20Medical%20Education%20%28DME%29/paper%201.txt",
+            "name": "paper.txt",
+            "path": "ADRE/Grade-III Papers/paper.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/paper.txt",
             "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "112": {
@@ -933,22 +933,22 @@
         "134": {
             "id": "134",
             "name": "Paper V 2022.zip",
-            "path": "ADRE/Grade-III Papers/HSLC or Equivalent Level/Paper V 2022.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/HSLC%20or%20Equivalent%20Level/Paper%20V%202022.zip",
+            "path": "ADRE/Grade-III Papers/Paper V 2022.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Paper%20V%202022.zip",
             "hash": "11da08a9d8b5ef8e72941d8ca24d9945"
         },
         "135": {
             "id": "135",
             "name": "ADRE Paper III 2022.zip",
-            "path": "ADRE/Grade-III Papers/HSSLC or Equivalent Level/ADRE Paper III 2022.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/HSSLC%20or%20Equivalent%20Level/ADRE%20Paper%20III%202022.zip",
+            "path": "ADRE/Grade-III Papers/ADRE Paper III 2022.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/ADRE%20Paper%20III%202022.zip",
             "hash": "666ea1d2bab3d7324d479f68822cbeb7"
         },
         "136": {
             "id": "136",
             "name": "Paper IV 2022.zip",
-            "path": "ADRE/Grade-III Papers/Bachelor's Degree Level/Paper IV 2022.zip",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Bachelor%27s%20Degree%20Level/Paper%20IV%202022.zip",
+            "path": "ADRE/Grade-III Papers/Paper IV 2022.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Paper%20IV%202022.zip",
             "hash": "8f1139f738a6a07a65c02ae9ca7b6afc"
         },
         "137": {
@@ -7200,14 +7200,14 @@
             "name": "World War I Part 1_EA_25Q.txt",
             "path": "General Awareness/World History/World War I Part 1_EA_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20I%20Part%201_EA_25Q.txt",
-            "hash": "9f26de781cd67d6af37a4990530389dc"
+            "hash": "fabb01af4ea2eab35115e89b4b8d5d2e"
         },
         "1030": {
             "id": "1030",
             "name": "World War I Part 2_EA_25Q.txt",
             "path": "General Awareness/World History/World War I Part 2_EA_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20I%20Part%202_EA_25Q.txt",
-            "hash": "f7ed121917dd77770a3f3b1d5b02398c"
+            "hash": "73c35825d1f2c48c2efbdb798016830c"
         },
         "1031": {
             "id": "1031",
@@ -7221,14 +7221,14 @@
             "name": "World History French Revolution 2_EA_20Q.txt",
             "path": "General Awareness/World History/World History French Revolution 2_EA_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20History%20French%20Revolution%202_EA_20Q.txt",
-            "hash": "28701129f54765987765c34fc65f26f4"
+            "hash": "efc4e2e89a4f119d3aa3d47ab9348ea0"
         },
         "1033": {
             "id": "1033",
             "name": "World War II Part 2_EA_25Q.txt",
             "path": "General Awareness/World History/World War II Part 2_EA_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20II%20Part%202_EA_25Q.txt",
-            "hash": "ec8ae50da57b8ec4b553536d922766e8"
+            "hash": "37e41896ef700d95f7a5b9e418118dc9"
         },
         "1034": {
             "id": "1034",
@@ -7277,7 +7277,7 @@
             "name": "World History French Revolution 1_EA_20Q.txt",
             "path": "General Awareness/World History/World History French Revolution 1_EA_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20History%20French%20Revolution%201_EA_20Q.txt",
-            "hash": "d45d9c097e403d8856f2b78f749bdebe"
+            "hash": "21c5fcecd1c3fcb87d4a1943ad796c9a"
         },
         "1041": {
             "id": "1041",
@@ -7298,7 +7298,7 @@
             "name": "World War II Part 1_EA_25Q.txt",
             "path": "General Awareness/World History/World War II Part 1_EA_25Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/General%20Awareness/World%20History/World%20War%20II%20Part%201_EA_25Q.txt",
-            "hash": "6a4ce11962420cf1ee790c3a9225655c"
+            "hash": "a417f986381166c86a4f92d3dbd385c0"
         },
         "1044": {
             "id": "1044",

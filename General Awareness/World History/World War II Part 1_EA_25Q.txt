@@ -1,6 +1,6 @@
 1. Which event triggered the outbreak of World War II in Europe in September 1939?
 
-১৯৩৯ চনৰ ছেপ্টেম্বৰত ইউৰোপত প্ৰথম বিশ্বযুদ্ধ আৰম্ভ হোৱাৰ প্ৰত্যক্ষ কাৰণ কি আছিল?
+১৯৩৯ চনৰ ছেপ্টেম্বৰত ইউৰোপত দ্বিতীয় বিশ্বযুদ্ধ আৰম্ভ হোৱাৰ প্ৰত্যক্ষ কাৰণ কি আছিল?
 A) Germany's invasion of Poland / জাৰ্মানীয়ে পোলেণ্ড আক্ৰমণ কৰা
 B) Japan's attack on Pearl Harbor / জাপানে পাৰ্ল হাৰ্বাৰ আক্ৰমণ কৰা
 C) Italy's invasion of Abyssinia / ইটালীয়ে আবিচিনিয়া আক্ৰমণ কৰা
@@ -30,7 +30,7 @@ Ans: C
 জাৰ্মানীয়ে ব্যৱহাৰ কৰা দ্ৰুত আৰু একত্ৰিত যুদ্ধ কৌশলটোক কি বুলি কোৱা হৈছিল?
 A) Blitzkrieg / ব্লিটজক্ৰিগ
 B) Trench Warfare / ট্ৰেন্চ ৱাৰফেয়াৰ
-C) Kamikaze / কামি কাজে
+C) Kamikaze / কামিকাজে
 D) Total War / টোটেল ৱাৰ
 Ans: A
 
@@ -136,8 +136,8 @@ Ans: C
 16. What was the codename of the first atomic bomb dropped on Hiroshima?
 
 হিৰোছিমাত নিক্ষেপ কৰা প্ৰথমটো পাৰমাণৱিক বোমাৰ ক’ড নাম কি আছিল?
-A) Fat Man / ফ্যাট ম্যান
-B) Little Boy / লিল বৰ্
+A) Fat Man / ফেট মেন
+B) Little Boy / লিটল বয়
 C) Trinity / ট্ৰিনিটি
 D) Tsar Bomba / জাৰ বোম্বা
 Ans: B
@@ -154,8 +154,8 @@ Ans: B
 18. What was the codename of the atomic bomb dropped on Nagasaki?
 
 নাগাছাকীত নিক্ষেপ কৰা পাৰমাণৱিক বোমাটোৰ ক’ড নাম কি আছিল?
-A) Little Boy / লিল বৰ্
-B) Fat Man / ফ্যাট ম্যান
+A) Little Boy / লিটল বয়
+B) Fat Man / ফেট মেন
 C) B-29 / বি-২৯
 D) Enola Gay / এনোলা গে
 Ans: B
@@ -181,16 +181,16 @@ Ans: A
 21. Who was the scientific director of the Manhattan Project, often called the 'Father of the Atomic Bomb'?
 
 ম্যানহাটন প্ৰকল্পৰ বৈজ্ঞানিক সঞ্চালক কোন আছিল, যাক প্ৰায়ে ‘পাৰমাণৱিক বোমাৰ পিতৃ’ বুলি কোৱা হয়?
-A) Albert Einstein / আলবাৰ্ট আই প্ৰষ্টাইন
+A) Albert Einstein / আলবাৰ্ট আইনষ্টাইন
 B) J. Robert Oppenheimer / জে ৰবাৰ্ট অ’পেনহাইমাৰ
-C) Enrico Fermi / এনৰি কৰ ফেনি
+C) Enrico Fermi / এনৰিকো ফাৰ্মি
 D) Niels Bohr / নীলছ বোৰ
 Ans: B
 
 22. Which Japanese emperor announced Japan's surrender over the radio in August 1945?
 
 ১৯৪৫ চনৰ আগষ্ট মাহত ৰেডিঅ’ৰ সম্প্ৰচাৰৰ জৰিয়তে জাপানৰ আত্মসম্পৰ্পণৰ কথা কোনজন জাপানী সম্ৰাটে ঘোষণা কৰিছিল?
-A) Mutsuhito / মুটুছিটো
+A) Mutsuhito / মুৎসুহিতো
 B) Hirohito / হিৰোহিটো
 C) Akihito / আকিহিটো
 D) Yoshihito / য়োশিহিটো

@@ -46,10 +46,10 @@ Ans: B
 6. Which social class formed the 'First Estate' in pre-revolutionary France?
 
 বিপ্লৱপূৰ্ব ফ্ৰান্সত কোনটো সামাজিক শ্ৰেণীয়ে ‘প্ৰথম ইষ্টেট’ (First Estate) গঠন কৰিছিল?
-(A) Nobility (অভিজাত শ্ৰেণী)
-(B) Clergy (পাদ্ৰী শ্ৰেণী)
-(C) Peasants (কৃষক শ্ৰেণী)
-(D) Merchants (ব্যৱসায়ী শ্ৰেণী)
+(A) Nobility / অভিজাত শ্ৰেণী
+(B) Clergy / পাদ্ৰী শ্ৰেণী
+(C) Peasants / কৃষক শ্ৰেণী
+(D) Merchants / ব্যৱসায়ী শ্ৰেণী
 Ans: B
 
 7. Which group belonged to the 'Second Estate' in French society?
@@ -91,15 +91,15 @@ Ans: B
 11. 'Tithe', a religious tax collected by the Church, comprised what fraction of agricultural produce?
 
 গীৰ্জাই সংগ্ৰহ কৰা ধাৰ্মিক কৰ ‘টাইথ’ (Tithe) কৃষি উৎপাদনৰ কিমান অংশ আছিল?
-(A) One-tenth (১/১০)
-(B) One-fifth (১/৫)
-(C) Half (১/২)
-(D) One-fourth (১/৪)
+(A) 1/10
+(B) 1/5
+(C) 1/2
+(D) 1/4
 Ans: A
 
 12. Who was the Queen of France at the time of the 1789 Revolution?
 
-১৭৮৯ চনৰ বিপ্লৱৰ সময়ত ফ্ৰান্সৰ ৰাণীকোন আছিল?
+১৭৮৯ চনৰ বিপ্লৱৰ সময়ত ফ্ৰান্সৰ ৰাণী কোন আছিল?
 (A) Marie Antoinette
 (B) Catherine the Great
 (C) Marie de' Medici
@@ -162,7 +162,7 @@ Ans: B
 
 19. What was the main pledge made in the historic 'Tennis Court Oath'?
 
-ঐতিহাসিক ‘টে্নিছ কোৰ্টৰ শপত’ৰ (Tennis Court Oath) মূল সংকল্প কি আছিল?
+ঐতিহাসিক ‘টেনিছ কোৰ্টৰ শপত’ৰ (Tennis Court Oath) মূল সংকল্প কি আছিল?
 (A) To execute the King
 (B) Not to disband until a Constitution for France was drafted
 (C) To abolish the Catholic Church

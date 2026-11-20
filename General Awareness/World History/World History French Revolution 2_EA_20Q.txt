@@ -47,7 +47,7 @@ Ans: B
 
 জ্যাকোবিন ক্লাবৰ সদস্যসকলক ‘ছাঁ-কুলট’ (Sans-culottes) বুলি জনা গৈছিল, যাৰ আক্ষৰিক অৰ্থ কি?
 (A) Those with crowns
-(B) Those without knee breeches (আঠু লৈকে থকা বিশেষ কাপোৰ নিপিন্ধাসকল)
+(B) Those without knee breeches
 (C) Red cap wearers
 (D) Wealthy merchants
 Ans: B
@@ -74,14 +74,14 @@ Ans: C
 
 ফ্ৰান্সৰ ইতিহাসত ১৭৯৩ চনৰ জুনৰ পৰা ১৭৯৪ চনৰ জুলাইলৈকে সময়ছোৱাক কি বুলি জনা যায়?
 (A) The Golden Age
-(B) The Reign of Terror (সন্ত্ৰাসৰ ৰাজত্ব)
+(B) The Reign of Terror
 (C) The Age of Enlightenment
 (D) The Directory Period
 Ans: B
 
 10. Who was the head of the Committee of Public Safety during the Reign of Terror?
 
-সন্ত্ৰাসৰ ৰাজত্বৰ (Reign of Terror) সময়ত ‘কমিতি অৱ পাব্লিক ছেফটি’ৰ (Committee of Public Safety) মুৰব্বী কোন আছিল?
+সন্ত্ৰাসৰ ৰাজত্বৰ (Reign of Terror) সময়ত ‘কমিটি অৱ পাব্লিক ছেফটি’ৰ (Committee of Public Safety) মুৰব্বী কোন আছিল?
 (A) Maximilien Robespierre
 (B) Louis XVI
 (C) Napoleon Bonaparte
@@ -99,7 +99,7 @@ Ans: B
 
 12. Who wrote the patriotic song 'La Marseillaise', which later became the national anthem of France?
 
-ফ্ৰান্সৰ ৰাষ্ট্ৰীয় সংগীত হিচাপে স্বীকৃতি পোৱা দেশপ্ৰেমমূলক গীত ‘লা মাৰ্ছেইজ’ (La Marseillaise) কোনে ৰচনা কৰিছিল?
+ফ্ৰান্সৰ ৰাষ্ট্ৰীয় সংগীত হিচাপে স্বীকৃতি পোৱা দেশপ্ৰেমমূলক গীত ‘লা মাৰ্চেইলেজ’ (La Marseillaise) কোনে ৰচনা কৰিছিল?
 (A) Claude Joseph Rouget de Lisle
 (B) Jean-Paul Marat
 (C) Victor Hugo
@@ -145,7 +145,7 @@ Ans: B
 17. Napoleon Bonaparte came to power by overthrowing the Directory in which famous coup d'état?
 
 নেপোলিয়ন বোনাপাৰ্টে কোনটো পৰিচিত ৰাজনৈতিক অভুত্থানৰ (coup d'état) জৰিয়তে ডিৰেক্টৰীৰ পতন ঘটাই ক্ষমতা দখল কৰিছিল?
-(A) Coup of 18 Brumaire (1799)
+(A) Coup of 18 Brumaire
 (B) July Revolution
 (C) Thermidorian Coup
 (D) Vendémiaire Uprising

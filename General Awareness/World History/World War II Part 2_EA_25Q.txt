@@ -46,7 +46,7 @@ Ans: B
 6. What was the puppet government established in southern France after its defeat by Germany in 1940 called?
 
 ১৯৪০ চনত জাৰ্মানীৰ হাতত পৰাস্ত হোৱাৰ পিছত দক্ষিণ ফ্ৰান্সত স্থাপন কৰা পুতলা চৰকাৰখনক কি বুলি কোৱা হৈছিল?
-A) Third Republic / থৰ্ড ৰিপাব্লিক
+A) Third Republic / থাৰ্ড ৰিপাব্লিক
 B) Vichy France / ভিচি ফ্ৰান্স
 C) Paris Commune / পেৰিছ কম্যুন
 D) Free France / ফ্ৰী ফ্ৰান্স
@@ -64,7 +64,7 @@ Ans: A
 8. What was the name of the B-29 bomber that dropped the atomic bomb on Hiroshima?
 
 হিৰোছিমাত পাৰমাণৱিক বোমা নিক্ষেপ কৰা B-29 বোমাৰু বিমানখনৰ নাম কি আছিল?
-A) Bockscar / বোকাৰ্ছকাৰ
+A) Bockscar / বক্সকাৰ
 B) Enola Gay / এনোলা গে
 C) Great Artiste / গ্ৰেট আৰ্টিষ্ট
 D) Necessary Evil / নেচেছাৰী ইভিল
@@ -100,7 +100,7 @@ Ans: A
 12. What was the suicide attack strategy used by Japanese aviators against Allied naval vessels called?
 
 এলাইড নৌজাহাজসমূহৰ বিৰুদ্ধে জাপানী বিমান চালকসকলে ব্যৱহাৰ কৰা আত্মঘাতী আক্ৰমণৰ কৌশলটোক কি বুলি কোৱা হৈছিল?
-A) Kamikaze / কামি কাজে
+A) Kamikaze / কামিকাজে
 B) Seppuku / ছেপ্পুকু
 C) Bushido / বুছিডো
 D) Banzai / বানজাই
@@ -111,7 +111,7 @@ Ans: A
 প্ৰশান্ত মহাসাগৰৰ গুৰুত্বপূৰ্ণ দ্বীপসমূহ ইটোৰ পিছত সিটো দখল কৰাৰ মিত্ৰশক্তিৰ সামৰিক কৌশলটোক কি বুলি কোৱা হৈছিল?
 A) Island Hopping / আইলেণ্ড হপিং
 B) Trench Warfare / ট্ৰেন্চ ৱাৰফেয়াৰ
-C) Amphibious Leap / এμφিবিয়াছ লিপ
+C) Amphibious Leap / এমফিবিয়াছ লিপ
 D) Blitzkrieg / ব্লিটজক্ৰিগ
 Ans: A
 
@@ -157,7 +157,7 @@ Ans: A
 A) Georgy Zhukov / জৰ্জি জুকোভ
 B) Joseph Stalin / জোচেফ ষ্টালিন
 C) Vasily Chuikov / ভাছিলি চুইকোভ
-D) Aleksandr Vasilevsky / অলেগজেণ্ডাৰ ভাছিলেভস্কি
+D) Aleksandr Vasilevsky / আলেকজেণ্ডাৰ ভাছিলেভস্কি
 Ans: A
 
 19. What was the codename for the evacuation of over 330,000 Allied soldiers from Northern France in 1940?
@@ -172,8 +172,8 @@ Ans: A
 20. From which French coastal port city were Allied troops evacuated during Operation Dynamo?
 
 অপাৰেচন ডাইনামোৰ সময়ত এলাইড সৈন্যসকলক ফ্ৰান্সৰ কোনখন উপকূলীয় বন্দৰ চহৰৰ পৰা উদ্ধাৰ কৰা হৈছিল?
-A) Dunkirk / ডাংক্ৰাৰ্ক
-B) Calais / কেলৈ
+A) Dunkirk / ডানকাৰ্ক
+B) Calais / কেলে
 C) Normandy / নৰ্মাণ্ডী
 D) Cherbourg / শ্বেৰবাৰ্গ
 Ans: A

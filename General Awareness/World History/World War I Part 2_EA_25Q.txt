@@ -1,7 +1,7 @@
 1. US President Woodrow Wilson outlined his vision for post-war peace in a famous speech known as what?
 
 আমেৰিকাৰ ৰাষ্ট্ৰপতি উড্ৰ’ উইলছনে যুদ্ধ উত্তৰ শান্তিৰ দৃষ্টিভংগী এটা বিখ্যাত ভাষণত ডাঙি ধৰিছিল, যিটো কি নামেৰে জনাজাত?
-A) The Atlantic Charter / অেটলান্টিক চাৰ্টাৰ
+A) The Atlantic Charter / আটলান্টিক চাৰ্টাৰ
 B) The Fourteen Points / চৈধ্যটা দফা
 C) The New Deal / নিউ ডীল
 D) The Marshall Plan / মাৰ্শ্বেল প্লেন
@@ -9,7 +9,7 @@ Ans: B
 
 2. On which date and time did the Armistice ending the fighting in World War I take effect?
 
-প্ৰথম বিশ্বযুদ্ধৰ যুঁজৰ অন্ত পেলোৱা যুদ্ধবিৰতি (Armistice) কোনটো তারিখ আৰু সময়ৰ পৰা কাৰ্যকৰী হৈছিল?
+প্ৰথম বিশ্বযুদ্ধৰ যুঁজৰ অন্ত পেলোৱা যুদ্ধবিৰতি (Armistice) কোনটো তাৰিখ আৰু সময়ৰ পৰা কাৰ্যকৰী হৈছিল?
 A) November 11, 1918 at 11:00 AM / ১৯১৮ চনৰ ১১ নৱেম্বৰৰ পুৱা ১১ বজাত
 B) October 31, 1918 at 12:00 PM / ১৯১৮ চনৰ ৩১ অক্টোবৰৰ দুপৰীয়া ১২ বজাত
 C) December 25, 1918 at 6:00 AM / ১৯১৮ চনৰ ২৫ ডিচেম্বৰৰ পুৱা ৬ বজাত
@@ -46,7 +46,7 @@ Ans: B
 6. Which clause of the Treaty of Versailles forced Germany to accept sole responsibility for starting the war?
 
 ভাৰ্চাই চুক্তিৰ কোনটো ধাৰাই জাৰ্মানীক যুদ্ধ আৰম্ভ কৰাৰ সমগ্ৰ দায়িত্ব স্বীকাৰ কৰিবলৈ বাধ্য কৰাইছিল?
-A) War Guilt Clause / Article 231 / ৱাৰ গিল্ট ক্লজ / অনুচ্ছেদ ২৩১
+A) War Guilt Clause / ৱাৰ গিল্ট ক্লজ 
 B) Disarmament Clause / অস্ত্ৰসংবৰণ ধাৰা
 C) Reparations Clause / ক্ষতিপূৰণ ধাৰা
 D) League Clause / লীগ ধাৰা
@@ -135,7 +135,7 @@ Ans: A
 
 16. Which was the first nation to introduce armored tanks into battlefield combat?
 
-যুদ্ধক্ষেত্ৰত সাঁজ সাজুৱা টেংক প্ৰথম প্ৰৱৰ্তন কৰা দেশখন কোন আছিল?
+যুদ্ধক্ষেত্ৰত বৰ্মযুক্ত টেংক প্ৰথম প্ৰৱৰ্তন কৰা দেশখন কোন আছিল?
 A) Germany / জাৰ্মানী
 B) Great Britain / গ্ৰেট ব্ৰিটেইন
 C) France / ফ্ৰান্স
@@ -154,7 +154,7 @@ Ans: B
 18. Which British officer played a major role in leading the Arab Revolt against Ottoman rule during WWI?
 
 প্ৰথম বিশ্বযুদ্ধত অট’মান শাসনৰ বিৰুদ্ধে আৰৱ বিদ্ৰোহৰ নেতৃত্ব দিয়াত কোনজন ব্ৰিটিছ বিষয়াৰ গুৰুত্বপূৰ্ণ ভূমিকা আছিল?
-A) T.E. Lawrence / Lawrence of Arabia / টি.ই. লৰেঞ্চ / লৰেঞ্চ অৱ আৰবিয়া
+A) T.E. Lawrence / টি.ই. লৰেঞ্চ
 B) Bernard Montgomery / বাৰ্নাৰ্ড মোণ্টগোমাৰী
 C) Douglas Haig / ডগলাছ হেইগ
 D) Winston Churchill / উইনষ্টন চাৰ্চিল
@@ -181,8 +181,8 @@ Ans: A
 21. What type of warfare dominated the Western Front during World War I?
 
 প্ৰথম বিশ্বযুদ্ধৰ সময়ত ৱেষ্ট্ৰাৰ্ন ফ্ৰণ্টত কোন ধৰণৰ যুদ্ধৰ প্ৰাধান্য আছিল?
-A) Blitzkrieg / ব্লিটজক্্ৰিগ
-B) Trench Warfare / ট্ৰেন্চ ৱাৰফেয়াৰ / পৰখা যুদ্ধ
+A) Blitzkrieg / ব্লিটজক্ৰেগ 
+B) Trench Warfare / পৰখা যুদ্ধ
 C) Guerilla Warfare / গেৰিলা যুদ্ধ
 D) Naval Blockade / নৌ অৱৰোধ
 Ans: B
@@ -217,7 +217,7 @@ Ans: A
 25. World War I was historically also referred to by which name before WWII?
 
 দ্বিতীয় বিশ্বযুদ্ধৰ আগতে প্ৰথম বিশ্বযুদ্ধক ঐতিহাসিকভাৱে কি নামেৰে জনা গৈছিল?
-A) The Great War / দ্য গ্ৰেট ৱাৰ / মহা যুদ্ধ
+A) The Great War / দ্য গ্ৰেট ৱাৰ
 B) The Global War / দ্য গ্ল’বেল ৱাৰ
 C) The Total War / দ্য টোটেল ৱাৰ
 D) The European War / দ্য ইউৰোপীয়ান ৱাৰ

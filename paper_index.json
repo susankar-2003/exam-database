@@ -772,9 +772,9 @@
         },
         "111": {
             "id": "111",
-            "name": "paper.txt",
-            "path": "ADRE/Grade-III Papers/paper.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/paper.txt",
+            "name": "paper 1.txt",
+            "path": "ADRE/Grade-IV Papers/paper 1.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-IV%20Papers/paper%201.txt",
             "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "112": {
@@ -8033,7 +8033,7 @@
             "name": "Paper IV 2022_EA.zip",
             "path": "ADRE/Grade-III Papers/Paper IV 2022_EA.zip",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/Paper%20IV%202022_EA.zip",
-            "hash": "de27ae7dc9726c821d49f624bd133a50"
+            "hash": "5fa64dac95e75402babe839e23b93bca"
         },
         "1149": {
             "id": "1149",

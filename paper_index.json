@@ -1,5 +1,5 @@
 {
-    "last_serial": 1151,
+    "last_serial": 1156,
     "papers": {
         "1": {
             "id": "1",
@@ -900,7 +900,7 @@
             "name": "Mock 1 Assam Police Constable_EA_100Q.txt",
             "path": "Assam Police/Assam Police Constable/Mock 1 Assam Police Constable_EA_100Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Mock%201%20Assam%20Police%20Constable_EA_100Q.txt",
-            "hash": "8068a85c1a6aeffb1b16fe32dd5594ba"
+            "hash": "c83d8b345e729891d39ff36fc3c95a95"
         },
         "130": {
             "id": "130",
@@ -8047,14 +8047,49 @@
             "name": "Mock 3 Assam Police Constable_EA_locked_t1_100Q.txt",
             "path": "Assam Police/Assam Police Constable/Mock 3 Assam Police Constable_EA_locked_t1_100Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Mock%203%20Assam%20Police%20Constable_EA_locked_t1_100Q.txt",
-            "hash": "826e655aa85e082b526196e78750e166"
+            "hash": "65ba16a0bd92a0400f2799a59ff1b85c"
         },
         "1151": {
             "id": "1151",
             "name": "Mock 2 Assam Police Constable_EA_locked_t1_100Q.txt",
             "path": "Assam Police/Assam Police Constable/Mock 2 Assam Police Constable_EA_locked_t1_100Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Mock%202%20Assam%20Police%20Constable_EA_locked_t1_100Q.txt",
-            "hash": "980ac82353ed1f0a529a4a7e0307b19d"
+            "hash": "11a9a33e7b172b95e1c64a5b0eae1b1d"
+        },
+        "1152": {
+            "id": "1152",
+            "name": "Assam Police PYQ Reasoning 1_EA_20Q.zip",
+            "path": "Assam Police/Assam Police Constable/Assam Police PYQ Reasoning 1_EA_20Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20PYQ%20Reasoning%201_EA_20Q.zip",
+            "hash": "85a2710a7d25f790ecd8be89256d7334"
+        },
+        "1153": {
+            "id": "1153",
+            "name": "Assam Police PYQ Maths 1_EA_20Q.txt",
+            "path": "Assam Police/Assam Police Constable/Assam Police PYQ Maths 1_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20PYQ%20Maths%201_EA_20Q.txt",
+            "hash": "efe54dd79fcf35b2f0759cece8583195"
+        },
+        "1154": {
+            "id": "1154",
+            "name": "Assam police Constable PYQ GK_EA_46Q.txt",
+            "path": "Assam Police/Assam Police Constable/Assam police Constable PYQ GK_EA_46Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20police%20Constable%20PYQ%20GK_EA_46Q.txt",
+            "hash": "a264a88f05a1ed81d16827f36782c1ef"
+        },
+        "1155": {
+            "id": "1155",
+            "name": "Assam Police PYQ Reasoning 2_EA_20Q.zip",
+            "path": "Assam Police/Assam Police Constable/Assam Police PYQ Reasoning 2_EA_20Q.zip",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20PYQ%20Reasoning%202_EA_20Q.zip",
+            "hash": "caaec2375a1305a97e320e6c746cb8c2"
+        },
+        "1156": {
+            "id": "1156",
+            "name": "Assam Police PYQ Maths 2_EA_20Q.txt",
+            "path": "Assam Police/Assam Police Constable/Assam Police PYQ Maths 2_EA_20Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20PYQ%20Maths%202_EA_20Q.txt",
+            "hash": "328e1b8e1c2bf9f3cf51bfc605b459a5"
         }
     }
 }

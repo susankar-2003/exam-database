@@ -1,0 +1,215 @@
+1. Ramesh walks 10 km in front and 10 km to the right. Then every time turning left he walks 5 km, 15 km and 15 km respectively. How far is he now from the starting point? 
+
+ৰমেশে ১০ কিলোমিটাৰ সন্মুখৰ ফালে খোজকাঢ়ি গৈ সোঁফালে ১০ কিলোমিটাৰ গ'ল। তাৰ পাছত ক্রমান্বয়ে বাওফালে ৫ কিলোমিটাৰ, ১৫ কিলোমিটাৰ আৰু ১৫ কিলোমিটাৰ বাট গ'ল। তেওঁ আৰম্ভণিৰ ঠাইৰ পৰা কিমান দূৰত্বত আছে?
+A) 2 km 
+B) 5 km 
+C) 25 km 
+D) 40 km 
+Ans: B 
+
+2. If D, E and F are three mid points of the sides of BC, CA and AB of triangle ABC. The area of DEF is 4 cm² then the area of ABC will be: 
+
+ABC ত্ৰিভূজৰ BC, CA আৰু AB বাহুৰ মধ্য বিন্দু হ'ল D, E আৰু F, এতিয়া DEF ৰ ক্ষেত্রফল যদি 4 cm² হয় তেন্তে ABC ৰ ক্ষেত্রফল কিমান হ'ব?
+A) 8 cm²
+B) 12 cm²
+C) 16 cm²
+D) 24 cm²
+Ans: C 
+
+3. If the circumference of a circle is reduced by 50%, then the area of the circle will reduce by - 
+
+যদি বৃত্ত এটাৰ পৰিধি 50% কমাই দিয়া হয় তেন্তে বৃত্তটোৰ ক্ষেত্ৰফল কিমান কম হ'ব?
+A) 25% 
+B) 50% 
+C) 65% 
+D) 75% 
+Ans: D
+
+4. On a sum of money if the difference between simple interest and compound interest, both at 10%, is ₹10 in two years. What is the principal amount? 
+
+যদি কোনো ধনৰ ১০ শতাংশ সূতৰ হাৰত দুবছৰৰ সাধাৰণ সূত আৰু চক্রবৃদ্ধি সূতৰ পার্থক্য ১০ টকা হয় তেনেহলে মূলধন কিমান হ'ব?
+A) ₹ 100  
+B) ₹ 500 
+C) ₹ 1,000 
+D) ₹ 10 
+Ans: C
+
+5. A train leaves Jorhat at 5 AM and reaches Ghy at 11 AM. Another train leaves Ghy at 5:30 AM and reaches Jorhat at 11:30 AM. What time the two trains cross each other? 
+
+এখন ৰেল পুৱা ৫ বজাত যোৰহাটৰ পৰা আহি দিনৰ ১১ বজাত গুৱাহাটী পালেহি। আনহাতে আন এখন ৰেল পুৱা ৫:৩০ বজাত গুৱাহাটীৰ পৰা গৈ দিনৰ ১১:৩০ বজাত যোৰহাট পালেগৈ। এতিয়া কিমান সময়ত দুয়োখন ৰেলে এখনে আনখনক ক্ৰছ কৰিলে?
+A) 8 AM 
+B) 8:15 AM 
+C) 8:30 AM 
+D) None of these 
+Ans: B
+
+6. A can do a piece of work in 12 days and B can do it in 24 days. They started the work together. Calculate the number of days to complete the work? 
+
+এটা কাম কৰিবলৈ Aক সময় লাগে ১২ দিন, সেই একে কামকে কৰিবলৈ Bক লাগে ২৪ দিন। একেলগে কৰিলে মুঠতে কিমান দিন সময় লাগিব?
+A) 8 days 
+B) 6 days 
+C) 12 days 
+D) 7 days 
+Ans: A 
+
+7. If ₹ 2,600 is divided among the persons A, B and C in the ratio 1/2 : 1/3 : 1/4 respectively. How much B gets? 
+
+২৬০০ টকাক যদি A, B আৰু Cৰ মাজত ভগাই দিয়া হ'ল। সিহঁতৰ ভাগৰ অনুপাত ১/২ : ১/৩ : ১/৪ হ'লে B য়ে কিমান টকা পাব?
+A) ₹ 700 
+B) ₹ 800 
+C) ₹ 833 
+D) ₹ 767 
+Ans: B 
+
+8. Average monthly pay of five brothers is ₹ 600 and if two brothers got a pay raise of ₹ 100, then the new average pay will be: 
+
+গড় হিচাপত পাঁচজন ককাই ভায়ে ৬০০ টকা দৰমহা পায়। যদি দুজন ভায়েকৰ ১০০ টকা দৰমহা বৃদ্ধি পায় তেন্তে নতুনকৈ সিহঁতৰ গড় দৰমহা কিমান হ'ব?
+A) ₹ 620 
+B) ₹ 640 
+C) ₹ 660 
+D) ₹ 700 
+Ans: B
+
+9. A boy was asked to write (2^5)×(9^2) but he wrote 2592. What is the numerical difference between the two? 
+
+এজন ল’ৰাক (2^5)×(9^2) লিখিবলৈ কোৱা হৈছিল, কিন্তু তেওঁ 2592 লিখিলে। দুয়োটাৰ মাজৰ সংখ্যাগত পাৰ্থক্য কিমান?
+A) 1 
+B) 0 
+C) 3 
+D) 5 
+Ans: B 
+
+10. The square of a natural number subtracted from its cube comes to 48. The number is 
+
+এটা স্বাভাৱিক সংখ্যাৰ ঘনফলৰ পৰা সেই সংখ্যাটোৰ বৰ্গফল বিয়োগ কৰিলে ৪৮ পোৱা যায়। সংখ্যাটো হ’ল—
+A) 8 
+B) 6 
+C) 5 
+D) 4 
+Ans: D 
+
+11. The average age of A and B is 30 yrs and that of B and C is 26 yrs. The difference of the age of A and C is
+
+A আৰু B-ৰ গড় বয়স ৩০ বছৰ আৰু B আৰু C-ৰ গড় বয়স ২৬ বছৰ। A আৰু C-ৰ বয়সৰ পাৰ্থক্য কিমান? 
+A) 2 yrs 
+B) 4 yrs 
+C) 6 yrs 
+D) 8 yrs 
+Ans: D
+
+12. Average of 6 numbers is 8. One more number is added and the average became 9. What was the additional number? 
+
+৬টা সংখ্যাৰ গড় ৮। আৰু এটা সংখ্যা যোগ কৰাৰ পিছত গড় ৯ হ’ল। যোগ কৰা সংখ্যাটো কিমান?
+A) 15 
+B) 16 
+C) 7 
+D) 9 
+Ans: A 
+
+13. In a college the seats for Arts, Commerce and Science are in the ratio of 5:7:8 respectively. There is a proposal to increase these seats by 40%, 50%, and 75% respectively, what will be the ratio after the increased seats ? 
+
+এখন মহাবিদ্যালয়ত Arts, Commerce আৰু Science-ৰ আসনৰ অনুপাত ক্ৰমে ৫:৭:৮। এই আসনসমূহ ক্ৰমে ৪০%, ৫০% আৰু ৭৫% বৃদ্ধি কৰাৰ প্ৰস্তাৱ দিয়া হৈছে। বৃদ্ধি কৰাৰ পিছত আসনৰ অনুপাত কিমান হ’ব?
+A) 2:3:4 
+B) 6:7:8 
+C) 6:8:9 
+D) None of these 
+Ans: A 
+
+14. A horse and a cow were sold for 12,000 each. The horse was sold at a loss of 20% and the cow at a gain of 20%. The entire transaction resulted in 
+
+এটা ঘোঁৰা আৰু এটা গৰু প্ৰতিটো ১২,০০০ টকাকৈ বিক্ৰী কৰা হ’ল। ঘোঁৰাটো ২০% লোকচানত আৰু গৰুটো ২০% লাভত বিক্ৰী কৰা হৈছিল। সম্পূৰ্ণ লেনদেনটোত—
+A) No loss or gain 
+B) Loss of 1,000 
+C) Gain of 1,000 
+D) Gain of 2,000 
+Ans: B 
+
+15. A bag contains coins worth ₹112, consisting of ₹1, 50-paise and 10-paise coins in the ratio 3:8:10 respectively. What is the number of 50 paise coins in the bag? 
+
+এটা বেগত ১ টকা, ৫০ পইচা আৰু ১০ পইচাৰ মুদ্ৰাৰ সংখ্যা ক্ৰমে ৩:৮:১০ অনুপাতত আছে। বেগটোত ৫০ পইচাৰ মুদ্ৰা কিমানটা আছে?
+A) 198 
+B) 112 
+C) 96 
+D) 84 
+Ans: B 
+
+16. 675 was divided among 75 students. Each boy gets 20 and each girl gets 5. How many girls are there among the students? 
+
+৭৫ জন ছাত্ৰ-ছাত্ৰীৰ মাজত ৬৭৫ টকা এনেদৰে বিতৰণ কৰা হ’ল যে প্ৰতিজন ল’ৰাই ২০ টকা আৰু প্ৰতিগৰাকী ছোৱালীয়ে ৫ টকা পালে। ছোৱালী কিমানজন আছে?
+A) 45 
+B) 55 
+C) 50 
+D) 37 
+Ans: B 
+
+17. Two men start together to walk certain distance, one at 4km/hr  and another at 3km/hr . The former arrives half an hour before the later. Find the distance. 
+
+দুজন মানুহে একেলগে এটা নিৰ্দিষ্ট দূৰত্বলৈ খোজ কাঢ়িবলৈ আৰম্ভ কৰিলে। এজনৰ গতি ৪ km/hr আৰু আনজনৰ গতি ৩ km/hr প্ৰথমজন দ্বিতীয়জনতকৈ আধা ঘণ্টা আগতে গৈ উপস্থিত হ’ল। দূৰত্বটো কিমান?
+A) 8 km 
+B) 6 km 
+C) 7 km 
+D) 9 km 
+Ans: B 
+
+18. At what rate of simple interest in 4 years a sum of money will become four times the principal ? 
+
+৪ বছৰত কোনো এটা মূলধন চাৰিগুণ হ’বলৈ সৰল সুদৰ হাৰ কিমান হ’ব লাগিব?
+A) 50% 
+B) 60% 
+C) 75% 
+D) 80% 
+Ans: C 
+
+19. In what time will 1,000 become 1,331 at 10% per annum compound interest ? 
+
+বছৰি ১০% চক্ৰবৃদ্ধি সুদত ১,০০০ টকা কিমান সময়ত ১,৩৩১ টকা হ’ব?
+A) 3 yrs 
+B) 2 yrs 
+C) 2 1/2 yrs 
+D) 3 1/2 yrs 
+Ans: A
+
+20. By how much percentage area of a Square will increase if its side increased by 10%? 
+
+এটা বৰ্গৰ বাহু ১০% বৃদ্ধি কৰিলে ইয়াৰ ক্ষেত্ৰফল কিমান শতাংশ বৃদ্ধি পাব?
+A) 20% 
+B) 21% 
+C) 22% 
+D) 25% 
+Ans: B 
+
+21. From a rectangle metal sheet of sides 25 cm and 20 cm, circular sheet as large as possible is cut off. What is the approximate area of the remaining sheet ? 
+
+২৫ ছেমি × ২০ ছেমি জোখৰ এটা আয়তাকাৰ ধাতুৰ পাতৰ পৰা যিমান ডাঙৰ সম্ভৱ, সিমান ডাঙৰ এটা বৃত্তাকাৰ পাত কাটি উলিওৱা হ’ল। বাকী থকা ধাতুৰ পাতৰ আনুমানিক ক্ষেত্ৰফল কিমান?
+A) 186 cm²
+B) 93 cm²
+C) 144 cm²
+D) 72 cm²
+Ans: A 
+
+22. A rectangular tank whose length and breadth are 2.5 mt and 1.5 mt. If its capacity is 750 litre what is the height of the tank? 
+
+এটা আয়তাকাৰ টেংকৰ দৈৰ্ঘ্য ২.৫ মিটাৰ আৰু প্ৰস্থ ১.৫ মিটাৰ। যদি ইয়াৰ ধাৰণক্ষমতা ৭৫০ লিটাৰ হয়, তেন্তে টেংকটোৰ উচ্চতা কিমান?
+A) 20 cm 
+B) 15 cm 
+C) 80 cm 
+D) 100 cm 
+Ans: A 
+
+23. With A, B, C as centers, three circles are drawn such that they touch each other externally. If the sides of the triangle ABC are 4 cm, 6 cm and 8 cm, then what is the sum of the radii of the circles ? 
+
+A, B আৰু C-ক কেন্দ্ৰ কৰি তিনিটা বৃত্ত আঁকা হৈছে যাতে বৃত্তকেইটা ইটোৱে সিটোক বাহ্যিকভাৱে স্পৰ্শ কৰে। যদি ত্ৰিভুজ ABC-ৰ বাহুবোৰৰ দৈৰ্ঘ্য ৪ ছেমি, ৬ ছেমি আৰু ৮ ছেমি, তেন্তে বৃত্তকেইটাৰ ব্যাসাৰ্ধৰ যোগফল কিমান?
+A) 9 cm 
+B) 14 cm 
+C) 11 cm 
+D) 12 cm 
+Ans: A 
+
+24. The 100th term of the series 3, 5, 7, 9, ... will be 
+
+তলত দিয়া সংখ্যাৰ ধাৰাটোৰ ১০০তম পদটো কিমান হ’ব?  3, 5, 7, 9, ... 
+A) 201 
+B) 203 
+C) 199 
+D) 205 
+Ans: A

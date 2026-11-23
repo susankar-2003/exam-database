@@ -1,0 +1,178 @@
+1. What is the minimum number to be added to 1289 so that it becomes a perfect square? 
+
+১২৮৯ সংখ্যাটো এটা পূৰ্ণবৰ্গ সংখ্যা হ’বলৈ ইয়াৰ সৈতে ন্যূনতম কিমান যোগ কৰিব লাগিব?
+A) 7 
+B) 16 
+C) 13 
+D) 1 
+Ans: A
+
+2. The base and height of a parallelogram are 5 cm and 3 cm respectively. Find the area of the parallelogram. 
+
+এটা সামান্তৰিকৰ ভূমি ৫ ছেমি আৰু উচ্চতা ৩ ছেমি। সামান্তৰিকটোৰ কালি কিমান?
+A) 30 cm²
+B) 15 cm²
+C) 7.5 cm²
+D) 15 cm²
+Ans: B 
+
+3. In how many years will a sum of money double itself at a simple interest of 10% p.a.?
+
+১০% বাৰ্ষিক সৰল সুতত এটা ধন দুগুণ হ’বলৈ কিমান বছৰ লাগিব? 
+A) 2 years 
+B) 5 years 
+C) 10 years 
+D) 20 years 
+Ans: C
+
+4. A and B started a partnership business investing 10,000 and 6,400 respectively. After 5 months, A withdrew 3,000 and B added 600 to their investment. Being active partner, B gets 10% of the annual profit as salary. If the profit at the end of one year is 16,000, the share of profit of B will be 
+
+A আৰু B-এ অংশীদাৰী ব্যৱসায়ত ক্ৰমে ₹১০,০০০ আৰু ₹৬,৪০০ বিনিয়োগ কৰিলে। ৫ মাহৰ পিছত A-এ ₹৩,০০০ উলিয়াই ল’লে আৰু B-এ ₹৬০০ অধিক বিনিয়োগ কৰিলে। সক্ৰিয় অংশীদাৰ হিচাপে B-এ বাৰ্ষিক লাভৰ ১০% দৰমহা হিচাপে পায়। এবছৰৰ শেষত লাভ ₹১৬,০০০ হ’লে B-ৰ লাভৰ অংশ কিমান হ’ব?
+A) 6,480 
+B) 7,920 
+C) 8,080 
+D) None of these 
+Ans: C
+
+5. Find the value of 2/3-(-1/3)+(-20/9):
+
+তলৰ ৰাশিটোৰ মান নিৰ্ণয় কৰা : 2/3-(-1/3)+(-20/9):     
+A)   11/9
+B) − 11/9
+C)   17/9
+D) − 17/9
+Ans: B
+
+6. Find the median of the following numbers: 32, 32, 34, 35, 35, 38, 42 
+
+তলৰ সংখ্যাবোৰৰ মধ্যমা (Median) নিৰ্ণয় কৰা: 32, 32, 34, 35, 35, 38, 42
+A) 32 
+B) 38 
+C) 35 
+D) 42 
+Ans: C
+
+7. The amount on compound interest of 100 for 2 years at the rate of 10% per annum is 
+
+১০% বাৰ্ষিক হাৰত ₹১০০ টকাৰ ২ বছৰৰ চক্ৰবৃদ্ধি সুতৰ মুঠ ধন কিমান হ’ব?
+A) 121 
+B) 221 
+C) 111∙21 
+D) 121∙21 
+Ans: A
+
+8. If the HCF and LCM of p and q are r and s respectively, then the LCM of p,q,r and s is (p,q natural numbers) 
+
+যদি p আৰু q-ৰ HCF আৰু LCM ক্ৰমে r আৰু s হয়, তেন্তে p, q, r আৰু s-ৰ LCM কিমান? (p, q স্বাভাৱিক সংখ্যা)
+A) pq
+B) qr
+C) sp
+D) s
+Ans: D 
+
+9. If x+(1/x)=7, then x²+(1/x²)  is equal to 
+A) 49 
+B) 40 
+C) 42 
+D) 47 
+Ans: D 
+
+10. The sum of the odd consecutive numbers from 1 to 25 is 
+
+১ৰ পৰা ২৫লৈকে ক্ৰমাগত অযুগ্ম সংখ্যাবোৰৰ যোগফল কিমান?
+A) 325 
+B) 200 
+C) 169 
+D) 89 
+Ans: C   
+
+11. Which one of the following statements is not true? 
+
+তলৰ কোনটো উক্তি সঠিক নহয়?
+A) Each even (positive) number is a natural number / প্ৰতিটো ধনাত্মক যুগ্ম সংখ্যা এটা স্বাভাৱিক সংখ্যা
+B) The smallest natural number is 1 / আটাইতকৈ সৰু স্বাভাৱিক সংখ্যা ১
+C) 0 is a whole number / ০ এটা পূৰ্ণ সংখ্যা 
+D) Each natural number is an even number / প্ৰতিটো স্বাভাৱিক সংখ্যা যুগ্ম সংখ্যা
+Ans: D
+
+12. If the price of an article is 200 and the rebate on it is 10%, then the customer has to pay for this article 
+
+এটা সামগ্ৰীৰ মূল্য ₹২০০ আৰু ইয়াৰ ওপৰত ১০% ৰেহাই আছে। গ্ৰাহকে কিমান টকা দিব লাগিব?
+A) 90 
+B) 190 
+C) 80 
+D) 180 
+Ans: D 
+
+13. If we divide 460 among 10 men, 16 women and 20 children equally, then the share of each one will be 
+
+₹৪৬০ টকা ১০জন পুৰুষ, ১৬গৰাকী মহিলা আৰু ২০টা শিশুৰ মাজত সমানে ভাগ কৰিলে প্ৰতিজনে কিমান পাব?
+A) 10 
+B) 16 
+C) 20 
+D) 46 
+Ans: A 
+
+14. If (2^(2x+1))÷4=8, then the value of x is 
+
+যদি (2^(2x+1))÷4=8, তেন্তে x-ৰ মান কিমান?
+A) 1 
+B) 2 
+C) 3 
+D) 4 
+Ans: B 
+
+15. Which of the following mathematical statements is correct? 
+
+তলৰ কোনটো গাণিতিক উক্তি শুদ্ধ?
+A) -9/40 > 3/20
+B) 5/8 < 3/4
+C) 5/6 > 7/6
+D) 3/7 =9 /28
+Ans: B 
+
+16. Two rational numbers a/b and c/d are equivalent if 
+
+দুটা পৰিমেয় সংখ্যা a/b আৰু c/d সমতুল্য হ’ব যদিহে—
+A) a+b=c+d
+B) a-b=c-d
+C) a×d=b×c
+D) a+d=b+c
+Ans: C  
+
+17. If the base of a triangle is twice its altitude and the altitude is 2x unit, then the area of the triangle is 
+
+এটা ত্ৰিভুজৰ ভূমি ইয়াৰ উচ্চতাৰ দুগুণ। যদি উচ্চতা 2x একক, তেন্তে ত্ৰিভুজটোৰ কালি কিমান?
+A) 8x² sq. unit 
+B) 2x² sq. unit 
+C) x² sq. unit 
+D) 4x² sq. unit 
+Ans: D 
+
+18. Which of the following cannot be the measures of three sides of a triangle? 
+
+তলৰ কোনটো তিনিটা দৈৰ্ঘ্য এটা ত্ৰিভুজৰ তিনিটা বাহু হ’ব নোৱাৰে?
+A) 5 cm, 10 cm, 6 cm 
+B) 14 cm, 7 cm, 8 cm 
+C) 10 cm, 20 cm, 8 cm 
+D) 30 cm, 20 cm, 12 cm 
+Ans: C  
+
+19. "The sum of two consecutive odd numbers is 48." This statement can be expressed in equation as 
+
+“দুটা ক্ৰমাগত অযুগ্ম সংখ্যাৰ যোগফল ৪৮।” — এই উক্তিটো সমীকৰণ হিচাপে কেনেকৈ প্ৰকাশ কৰিব পাৰি?
+A) (x+1)+(x+2)=48
+B) x+(x+1)=48
+C) x+(x+2)=48
+D) (x-1)+(x-2)=48
+Ans: C
+
+20. What is the distance between the x-axis and the line y+2=0? 
+
+x-অক্ষ আৰু y + 2 = 0 সৰলৰেখাৰ মাজৰ দূৰত্ব কিমান?
+A) 2 units 
+B) 3 units 
+C) 4 units 
+D) 1 unit 
+Ans: A
+

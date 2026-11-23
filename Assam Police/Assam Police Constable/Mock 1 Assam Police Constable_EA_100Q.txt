@@ -1,3 +1,7 @@
+[SECTION] Mathematics | 1 - 20
+[SECTION] English | 20 - 35
+[SECTION] Reasoning | 36 - 60
+[SECTION] General Knowledge | 61 - 100
 1. A shopkeeper buys an article for Rs 800 and sells it for Rs 920. What is the profit percentage?
 
 এজন দোকানীয়ে এটা সামগ্ৰী ৮০০ টকাত ক্ৰয় কৰি ৯২০ টকাত বিক্ৰী কৰে। লাভৰ শতকৰা হাৰ কিমান?

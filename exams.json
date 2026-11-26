@@ -13,11 +13,6 @@
     },
     {
       "type": "admob"
-    },
-    {
-      "type": "custom",
-      "imageUrl": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/banners/banner2.png",
-      "actionUrl": "https://play.google.com/store/apps/details?id=com.simulator.cbt"
     }
   ],
   "Dibrugarh University (DU B.Ed)": [],

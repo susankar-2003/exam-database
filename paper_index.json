@@ -1,5 +1,5 @@
 {
-    "last_serial": 1156,
+    "last_serial": 1157,
     "papers": {
         "1": {
             "id": "1",
@@ -8090,6 +8090,13 @@
             "path": "Assam Police/Assam Police Constable/Assam Police PYQ Maths 2_EA_20Q.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Assam%20Police/Assam%20Police%20Constable/Assam%20Police%20PYQ%20Maths%202_EA_20Q.txt",
             "hash": "328e1b8e1c2bf9f3cf51bfc605b459a5"
+        },
+        "1157": {
+            "id": "1157",
+            "name": "GK.txt",
+            "path": "banners/GK.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/banners/GK.txt",
+            "hash": "3603b0fba69393fc03374a334307bd85"
         }
     }
 }

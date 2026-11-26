@@ -772,9 +772,9 @@
         },
         "111": {
             "id": "111",
-            "name": "paper 1.txt",
-            "path": "ADRE/Grade-IV Papers/paper 1.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-IV%20Papers/paper%201.txt",
+            "name": "paper.txt",
+            "path": "ADRE/Grade-III Papers/paper.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/paper.txt",
             "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "112": {
@@ -8093,9 +8093,9 @@
         },
         "1157": {
             "id": "1157",
-            "name": "GK.txt",
-            "path": "banners/GK.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/banners/GK.txt",
+            "name": "GK_EA.txt",
+            "path": "banners/GK_EA.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/banners/GK_EA.txt",
             "hash": "3603b0fba69393fc03374a334307bd85"
         }
     }

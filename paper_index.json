@@ -1,5 +1,5 @@
 {
-    "last_serial": 1157,
+    "last_serial": 1161,
     "papers": {
         "1": {
             "id": "1",
@@ -772,9 +772,9 @@
         },
         "111": {
             "id": "111",
-            "name": "paper.txt",
-            "path": "ADRE/Grade-III Papers/paper.txt",
-            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-III%20Papers/paper.txt",
+            "name": "paper 1.txt",
+            "path": "ADRE/Grade-IV Papers/paper 1.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/ADRE/Grade-IV%20Papers/paper%201.txt",
             "hash": "12fc204edeae5b57713c5ad7dcb97d39"
         },
         "112": {
@@ -8097,6 +8097,34 @@
             "path": "banners/GK_EA.txt",
             "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/banners/GK_EA.txt",
             "hash": "3603b0fba69393fc03374a334307bd85"
+        },
+        "1158": {
+            "id": "1158",
+            "name": "October 2026 3_EA_25Q.txt",
+            "path": "Current Affairs/October 2026/October 2026 3_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/October%202026/October%202026%203_EA_25Q.txt",
+            "hash": "be7f04d339853d60cbbb17a5b7e02a70"
+        },
+        "1159": {
+            "id": "1159",
+            "name": "October 2026 4_EA_25Q.txt",
+            "path": "Current Affairs/October 2026/October 2026 4_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/October%202026/October%202026%204_EA_25Q.txt",
+            "hash": "1e4a0c996a1386e3aeb22c029825ae2a"
+        },
+        "1160": {
+            "id": "1160",
+            "name": "October 2026 1_EA_25Q.txt",
+            "path": "Current Affairs/October 2026/October 2026 1_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/October%202026/October%202026%201_EA_25Q.txt",
+            "hash": "8727e38b1209e06e97460c6719a57187"
+        },
+        "1161": {
+            "id": "1161",
+            "name": "October 2026 2_EA_25Q.txt",
+            "path": "Current Affairs/October 2026/October 2026 2_EA_25Q.txt",
+            "download_url": "https://raw.githubusercontent.com/susankar-2003/exam-database/main/Current%20Affairs/October%202026/October%202026%202_EA_25Q.txt",
+            "hash": "a405d334b6f8ca3a8093334ae25ac4b8"
         }
     }
 }

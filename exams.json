@@ -9,7 +9,7 @@
     {
       "type": "custom",
       "imageUrl": "https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/banners/banner1.png",
-      "actionUrl": "app://exam?name=General%20Knowledge&url=https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/banners/GK.txt"
+      "actionUrl": "app://exam?name=General%20Knowledge&url=https://raw.githubusercontent.com/susankar-2003/exam-database/refs/heads/main/banners/GK_EA.txt"
       
     },
     {

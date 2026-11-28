@@ -19,10 +19,10 @@ Ans: D
 3. Pointing towards a lady, Rajan said, "She is the daughter of the woman who is the mother of the husband of my mother". Who is the lady to Rajan?
 
 এগৰাকী মহিলালৈ আঙুলিয়াই ৰাজনে ক’লে, “এইগৰাকী হৈছে সেই মহিলাৰ জীয়েক, যিগৰাকী মোৰ মাৰ স্বামীৰ মাতৃ।” ৰাজনৰ সৈতে সেই মহিলাগৰাকীৰ সম্পৰ্ক কি?
-A) Aunt /পেহী
-B) Daughter /জীয়েক
-C) Sister /ভনীয়েক
-D) Sister-in-law /বৌ
+A) Aunt / পেহী
+B) Daughter / জীয়েক
+C) Sister / ভনীয়েক
+D) Sister-in-law / বৌ
 Ans: A
 4. Play F was scheduled on which day ? If -
 
@@ -44,10 +44,10 @@ A, B, C, D, E আৰু F — এই ছয়খন নাটক সোমব�
 (iv) D আৰু F-ৰ মাজত দুদিনৰ ব্যৱধান থাকিব লাগিব।
 (v) E-ৰ ঠিক পিছতেই A মঞ্চস্থ হ’ব লাগিব।
 
-A) Monday /সোমবাৰ
-B) Saturday /শনিবাৰ
-C) Thursday /বৃহস্পতিবাৰ
-D) Tuesday /মঙলবাৰ
+A) Monday / সোমবাৰ
+B) Saturday / শনিবাৰ
+C) Thursday / বৃহস্পতিবাৰ
+D) Tuesday / মঙলবাৰ
 Ans: B
 
 5. Which is correct sequence of plays starting from Monday? If -
@@ -120,8 +120,8 @@ A ÷ B মানে A হৈছে B-ৰ মাতৃ।
 means A is sister of B.
 A = B মানে A হৈছে B-ৰ ভনী ।
 
-A) U is Father of S. /U হৈছে S-ৰ পিতৃ।
-B) U is Son of S. /U হৈছে S-ৰ পুত্ৰ।
+A) U is Father of S. / U হৈছে S-ৰ পিতৃ।
+B) U is Son of S. / U হৈছে S-ৰ পুত্ৰ।
 C) U is Uncle of S./ U হৈছে S-ৰ খুৰাক
 D) U is Brother of S./ U হৈছে S-ৰ ভাতৃ।
 Ans: A
@@ -224,10 +224,10 @@ Q- Are Jackfruit sweet (কঠাল মিঠা নেকি)?
 
 (I) All vegetables are sweet. (সকলো শাক-পাচলি মিঠা।)
 (II) Jackfruit is a vegetable. (কঠাল এবিধ শাক-পাচলি।)
-A) If the data in statement (I) alone is sufficient /কেৱল (I)-ৰ তথ্যই পৰ্যাপ্ত।
-B) If the data in statement (II) alone is sufficient /কেৱল (II)-ৰ তথ্যই পৰ্যাপ্ত।
-C) If the data in both (I) and (II) together are necessary /(I) আৰু (II) দুয়োটাৰ তথ্য প্ৰয়োজন।
-D) If the data in both statements together are not sufficient /দুয়োটা বক্তব্যৰ তথ্য একেলগে ল’লেও পৰ্যাপ্ত নহয়।
+A) If the data in statement (I) alone is sufficient / কেৱল (I)-ৰ তথ্যই পৰ্যাপ্ত।
+B) If the data in statement (II) alone is sufficient / কেৱল (II)-ৰ তথ্যই পৰ্যাপ্ত।
+C) If the data in both (I) and (II) together are necessary / (I) আৰু (II) দুয়োটাৰ তথ্য প্ৰয়োজন।
+D) If the data in both statements together are not sufficient / দুয়োটা বক্তব্যৰ তথ্য একেলগে ল’লেও পৰ্যাপ্ত নহয়।
 Ans: C
 
 13. Each question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements (I and/or II) are sufficient to answer the question.
@@ -238,10 +238,10 @@ Q- What is the colour of this bag(এই বেগটোৰ ৰং কি?)?
 
 (I) The colour of this bag is appealing.(এই বেগটোৰ ৰং আকৰ্ষণীয়।)
 (II) The colour of this bag is same as that of other bag which is black. (এই বেগটোৰ ৰং আন এটা বেগৰ ৰঙৰ সৈতে একে, আৰু সেই আনটো বেগ ক’লা।)
-A) If the data in statement (I) alone is sufficient /কেৱল (I)-ৰ তথ্যই পৰ্যাপ্ত।
-B) If the data in statement (II) alone is sufficient /কেৱল (II)-ৰ তথ্যই পৰ্যাপ্ত।
-C) If the data in both (I) and (II) together are necessary /(I) আৰু (II) দুয়োটাৰ তথ্য প্ৰয়োজন।
-D) If the data in both statements together are not sufficient /দুয়োটা বক্তব্যৰ তথ্য একেলগে ল’লেও পৰ্যাপ্ত নহয়।
+A) If the data in statement (I) alone is sufficient / কেৱল (I)-ৰ তথ্যই পৰ্যাপ্ত।
+B) If the data in statement (II) alone is sufficient / কেৱল (II)-ৰ তথ্যই পৰ্যাপ্ত।
+C) If the data in both (I) and (II) together are necessary / (I) আৰু (II) দুয়োটাৰ তথ্য প্ৰয়োজন।
+D) If the data in both statements together are not sufficient / দুয়োটা বক্তব্যৰ তথ্য একেলগে ল’লেও পৰ্যাপ্ত নহয়।
 Ans: B
 
 14. Manoj remembers that his elder brother's birthday is after fifteen but before eighteen of February whereas his sister remember that his elder brother's birthday is after sixteen but before nineteenth of February. On which date is Manoj's elder brother's birthday?
@@ -391,19 +391,19 @@ Ans: A
 30. A Supreme Court Judge can be removed by
 
 উচ্চতম ন্যায়ালয়ৰ এজন ন্যায়াধীশক কোনে অপসাৰণ কৰিব পাৰে?
-A) Prime Minister of India/ ভাৰতৰ প্ৰধানমন্ত্ৰী
-B) The Chief Justice of India /ভাৰতৰ মুখ্য ন্যায়াধীশ
-C) The Speaker of Lok Sabha /লোকসভাৰ অধ্যক্ষ
-D) The President of India after impeachment /মহাভিযোগৰ পিছত ভাৰতৰ ৰাষ্ট্ৰপতি
+A) Prime Minister of India / ভাৰতৰ প্ৰধানমন্ত্ৰী
+B) The Chief Justice of India / ভাৰতৰ মুখ্য ন্যায়াধীশ
+C) The Speaker of Lok Sabha / লোকসভাৰ অধ্যক্ষ
+D) The President of India after impeachment / মহাভিযোগৰ পিছত ভাৰতৰ ৰাষ্ট্ৰপতি
 Ans: D
 
 31. In the National Flag of India, the Ashok's Chakra has
 
 ভাৰতৰ ৰাষ্ট্ৰীয় পতাকাত অশোক চক্ৰত কিমানডাল দণ্ড (Spokes) আছে আৰু ইয়াৰ ৰং কি?
-A) 24 Spokes in black colour /ক’লা ৰঙৰ ২৪ডাল দণ্ড
-B) 16 Spokes in black colour /ক’লা ৰঙৰ ১৬ডাল দণ্ড
-C) 24 Spokes in blue colour /নীলা ৰঙৰ ২৪ডাল দণ্ড
-D) 16 Spokes in blue colour /নীলা ৰঙৰ ১৬ডাল দণ্ড
+A) 24 Spokes in black colour / ক’লা ৰঙৰ ২৪ডাল দণ্ড
+B) 16 Spokes in black colour / ক’লা ৰঙৰ ১৬ডাল দণ্ড
+C) 24 Spokes in blue colour / নীলা ৰঙৰ ২৪ডাল দণ্ড
+D) 16 Spokes in blue colour / নীলা ৰঙৰ ১৬ডাল দণ্ড
 Ans: C
 
 32. Fundamental Duties were incorporated in Indian Constitution in the year
@@ -427,28 +427,28 @@ Ans: D
 34. The President of India addresses both Houses of Parliament assembled together at the commencement of
 
 ভাৰতৰ ৰাষ্ট্ৰপতিয়ে সংসদৰ দুয়োখন সদন একেলগে সমবেত হোৱাৰ সময়ত কেতিয়া ভাষণ দিয়ে?
-A) Each year /প্ৰতি বছৰৰ
-B) After each General Election to the Lok Sabha /প্ৰতিটো সাধাৰণ লোকসভা নিৰ্বাচনৰ পিছত
-C) Both A) and B) /A) আৰু B) দুয়োটাই
-D) Neither A) nor B) /ওপৰৰ এটাও নহয়
+A) Each year / প্ৰতি বছৰৰ
+B) After each General Election to the Lok Sabha / প্ৰতিটো সাধাৰণ লোকসভা নিৰ্বাচনৰ পিছত
+C) Both A) and B) / A) আৰু B) দুয়োটাই
+D) Neither A) nor B) / ওপৰৰ এটাও নহয়
 Ans: C
 
 35. The Constitution of India describe India as a
 
 ভাৰতীয় সংবিধানত ভাৰতক কি বুলি বৰ্ণনা কৰা হৈছে?
-A) Confederation /সংঘৰাষ্ট্ৰ
-B) Federation /যুক্তৰাষ্ট্ৰ
-C) Union of States /ৰাজ্যসমূহৰ সংঘ
-D) None of these /ওপৰৰ এটাও নহয়
+A) Confederation / সংঘৰাষ্ট্ৰ
+B) Federation / যুক্তৰাষ্ট্ৰ
+C) Union of States / ৰাজ্যসমূহৰ সংঘ
+D) None of these / ওপৰৰ এটাও নহয়
 Ans: C
 
 36. Which Fundamental Right was described by Dr. B.R Ambedkar as the "heart and soul" of the Constitution?
 
 ড° বি. আৰ. আম্বেদকাৰে সংবিধানৰ “হৃদয় আৰু আত্মা” বুলি কোনটো মৌলিক অধিকাৰক অভিহিত কৰিছিল?
-A) Right to Religion /ধৰ্মৰ অধিকাৰ
-B) Right to Education /শিক্ষাৰ অধিকাৰ
-C) Right to Property/ সম্পত্তিৰ অধিকাৰ
-D) Right to Constitutional Remedies/ সাংবিধানিক প্ৰতিকাৰৰ অধিকাৰ
+A) Right to Religion / ধৰ্মৰ অধিকাৰ
+B) Right to Education / শিক্ষাৰ অধিকাৰ
+C) Right to Property / সম্পত্তিৰ অধিকাৰ
+D) Right to Constitutional Remedies / সাংবিধানিক প্ৰতিকাৰৰ অধিকাৰ
 Ans: D
 
 37. How many members can be nominated to the Lok Sabha by the President of India?
@@ -490,19 +490,19 @@ Ans: D
 41. The Planet nearest to Sun is
 
 সূৰ্যৰ আটাইতকৈ ওচৰৰ গ্ৰহ কোনটো?
-A) Earth /পৃথিৱী
-B) Mars /মংগল
-C) Mercury /বুধ
-D) Venus/ শুক্ৰ
+A) Earth / পৃথিৱী
+B) Mars / মংগল
+C) Mercury / বুধ
+D) Venus / শুক্ৰ
 Ans: C
 
 42. Which Planet emits green light ?
 
 কোনটো গ্ৰহে সেউজীয়া পোহৰ নিৰ্গত কৰে?
-A) Jupiter /বৃহস্পতি
-B) Uranus /ইউৰেনাছ
-C) Venus /শুক্ৰ
-D) Neptune/নেপচুন
+A) Jupiter / বৃহস্পতি
+B) Uranus / ইউৰেনাছ
+C) Venus / শুক্ৰ
+D) Neptune/ নেপচুন
 Ans: B
 
 43. "Territorial Water" means
@@ -524,18 +524,18 @@ Ans: B
 
 45. "Ring of Fire" means (“Ring of Fire” (অগ্নিবলয়) বুলিলে কি বুজায়?)
 
-A) Circum-Pacific belt /প্ৰশান্ত মহাসাগৰীয় ভূমিকম্পীয় বলয়
-B) Mid-Continental belt /মধ্য-মহাদেশীয় বলয়
-C) Indian Ocean belt /ভাৰত মহাসাগৰীয় বলয়
-D) Atlantic Ocean belt /আটলাণ্টিক মহাসাগৰীয় বলয়
+A) Circum-Pacific belt / প্ৰশান্ত মহাসাগৰীয় ভূমিকম্পীয় বলয়
+B) Mid-Continental belt / মধ্য-মহাদেশীয় বলয়
+C) Indian Ocean belt / ভাৰত মহাসাগৰীয় বলয়
+D) Atlantic Ocean belt / আটলাণ্টিক মহাসাগৰীয় বলয়
 Ans: A
 
 46. Lord Buddha's original name was (ভগৱান বুদ্ধৰ মূল নাম কি আছিল?)
 
-A) Dushyant /দুষ্যন্ত
-B) Siddharth /সিদ্ধাৰ্থ
-C) Samara /সমৰ
-D) Siddhant /সিদ্ধান্ত
+A) Dushyant / দুষ্যন্ত
+B) Siddharth / সিদ্ধাৰ্থ
+C) Samara / সমৰ
+D) Siddhant / সিদ্ধান্ত
 Ans: B
 
 47. Scurvy is caused by deficiency of-
@@ -550,28 +550,28 @@ Ans: C
 48. Most of the Oxygen transported by the blood is
 
 তেজৰ দ্বাৰা পৰিবহণ হোৱা অধিকাংশ অক্সিজেন—
-A) Dissolved in plasma /প্লাজমাত দ্ৰৱীভূত হৈ থাকে
-B) Dissolved in water /পানীত দ্ৰৱীভূত হৈ থাকে
-C) Bound to Haemoglobin /হিম’গ্ল’বিনৰ সৈতে সংযুক্ত হৈ থাকে
-D) Ionic form as solute in plasma /প্লাজমাত দ্ৰব্য হিচাপে আয়নিক ৰূপত থাকে
+A) Dissolved in plasma / প্লাজমাত দ্ৰৱীভূত হৈ থাকে
+B) Dissolved in water / পানীত দ্ৰৱীভূত হৈ থাকে
+C) Bound to Haemoglobin / হিম’গ্ল’বিনৰ সৈতে সংযুক্ত হৈ থাকে
+D) Ionic form as solute in plasma / প্লাজমাত দ্ৰব্য হিচাপে আয়নিক ৰূপত থাকে
 Ans: C
 
 49. Isotopes are atoms of the same element that have different
 
 সমস্থানিক (Isotopes) হৈছে একেটা মৌলৰ এনে পৰমাণু যাৰ কিহৰ সংখ্যা বেলেগ?
-A) Number of Neutrons /নিউট্ৰনৰ সংখ্যা
-B) Number of Electrons /ইলেক্ট্ৰনৰ সংখ্যা
-C) Number of Protons /প্ৰ’টনৰ সংখ্যা
-D) Atomic number /পাৰমাণৱিক সংখ্যা
+A) Number of Neutrons / নিউট্ৰনৰ সংখ্যা
+B) Number of Electrons / ইলেক্ট্ৰনৰ সংখ্যা
+C) Number of Protons / প্ৰ’টনৰ সংখ্যা
+D) Atomic number / পাৰমাণৱিক সংখ্যা
 Ans: A
 
 50. Genes are described best by
 
 জিন (Genes)-ক সৰ্বোত্তমভাৱে কেনেকৈ বৰ্ণনা কৰিব পাৰি?
 A) Long, Single chains of amino acids / এমিন’ এচিডৰ দীঘল একক শৃংখল
-B) Long, Double chains of amino acids /এমিন’ এচিডৰ দীঘল দ্বৈত শৃংখল
-C) Long, Single chains of Nucleic acids/নিউক্লিক এচিডৰ দীঘল একক শৃংখল
-D) Long, Double chains of Nucleic acids /নিউক্লিক এচিডৰ দীঘল দ্বৈত শৃংখল
+B) Long, Double chains of amino acids / এমিন’ এচিডৰ দীঘল দ্বৈত শৃংখল
+C) Long, Single chains of Nucleic acids / নিউক্লিক এচিডৰ দীঘল একক শৃংখল
+D) Long, Double chains of Nucleic acids / নিউক্লিক এচিডৰ দীঘল দ্বৈত শৃংখল
 Ans: D
 
 51. Who said "Man is a political animal" ?
@@ -603,9 +603,9 @@ Ans: D
 54. Indian Economy is (ভাৰতীয় অৰ্থনীতি কেনেধৰণৰ?)
 
 A) Capitalist/ পুঁজিবাদী
-B) Socialistic /সমাজবাদী
-C) Mixed /মিশ্ৰ অৰ্থনীতি
-D) Federal /যুক্তৰাষ্ট্ৰীয়
+B) Socialistic / সমাজবাদী
+C) Mixed / মিশ্ৰ অৰ্থনীতি
+D) Federal / যুক্তৰাষ্ট্ৰীয়
 Ans: C
 
 55. The National Stock Exchange is located at
@@ -647,10 +647,10 @@ Ans: C
 59. The shape of coins during Ahom Kingdom was
 
 আহোম ৰাজ্যৰ সময়ত মুদ্ৰাৰ আকৃতি কেনেধৰণৰ আছিল?
-A) Circular /বৃত্তাকাৰ
-B) Rectangular/ আয়তাকাৰ
-C) Square/ বৰ্গাকাৰ
-D) Octagonal /অষ্টভুজাকাৰ
+A) Circular / বৃত্তাকাৰ
+B) Rectangular / আয়তাকাৰ
+C) Square / বৰ্গাকাৰ
+D) Octagonal / অষ্টভুজাকাৰ
 Ans: D
 
 60. Assam sends _____ MPs to Rajya Sabha.
@@ -692,10 +692,10 @@ Ans: D
 64. East India Company annexed Kachari Kingdom because of
 
 ইষ্ট ইণ্ডিয়া কোম্পানীয়ে কছাৰী ৰাজ্য কিয় নিজৰ অধীনলৈ আনিছিল?
-A) Alliance with other kings /আন ৰজাসকলৰ সৈতে মিত্ৰতাৰ বাবে
-B) Mis-management/ কুশাসনৰ বাবে
-C) Conspiracy against East India Company /ইষ্ট ইণ্ডিয়া কোম্পানীৰ বিৰুদ্ধে ষড়যন্ত্ৰৰ বাবে
-D) Doctrine of Lapse /স্বত্ব বিলোপ নীতি (Doctrine of Lapse)-ৰ বাবে
+A) Alliance with other kings / আন ৰজাসকলৰ সৈতে মিত্ৰতাৰ বাবে
+B) Mis-management / কুশাসনৰ বাবে
+C) Conspiracy against East India Company / ইষ্ট ইণ্ডিয়া কোম্পানীৰ বিৰুদ্ধে ষড়যন্ত্ৰৰ বাবে
+D) Doctrine of Lapse / স্বত্ব বিলোপ নীতি (Doctrine of Lapse)-ৰ বাবে
 Ans: D
 
 65. Which Temple was built during Salastambha Dynasty ?
@@ -809,10 +809,10 @@ Ans: C
 77. One Megabyte (approximately) equals
 
 One Megabyte (MB) প্ৰায় কিমানৰ সমান?
-A) 1000 bits/ ১০০০ বিট
-B) 1000 bytes/ ১০০০ বাইট
-C) 10 Lakh bytes/ ১০ লাখ বাইট
-D) 10 Lakh bits/ ১০ লাখ বিট
+A) 1000 bits / ১০০০ বিট
+B) 1000 bytes / ১০০০ বাইট
+C) 10 Lakh bytes / ১০ লাখ বাইট
+D) 10 Lakh bits / ১০ লাখ বিট
 Ans: C
 
 78. When you are working on a document on PC, where is the document temporarily stored?
@@ -935,13 +935,13 @@ Medicine : Sickness :: Book : ?
 A) Ignorance / অজ্ঞানতা
 B) Knowledge / জ্ঞান
 C) Author / লেখক
-D) Teacher/ শিক্ষক
+D) Teacher / শিক্ষক
 Ans: A
 
 92. Telephone is related to Voice as 'Letter' is related to
 
 টেলিফোনৰ সৈতে কণ্ঠস্বৰৰ যি সম্পৰ্ক, চিঠিৰ সৈতে তলৰ কোনটোৰ একে সম্পৰ্ক?
-A) Envelope/ খাম
+A) Envelope / খাম
 B) Post office / ডাকঘৰ
 C) Cover Product / আৱৰণ
 D) Writing / লিখনি
@@ -995,10 +995,10 @@ Ans: B
 98. Select the odd pair of words.
 
 তলত দিয়া শব্দৰ যোৰসমূহৰ ভিতৰত অমিল যোৰটো বাছনি কৰক।
-A) Volume: Litre /আয়তন : লিটাৰ
-B) Time: Second /সময় : ছেকেণ্ড
-C) Length: Metre /দৈৰ্ঘ্য : মিটাৰ
-D) Pressure: Barometer /চাপ : বেৰোমিটাৰ
+A) Volume: Litre / আয়তন : লিটাৰ
+B) Time: Second / সময় : ছেকেণ্ড
+C) Length: Metre / দৈৰ্ঘ্য : মিটাৰ
+D) Pressure: Barometer / চাপ : বেৰোমিটাৰ
 Ans: D
 
 99. The 100th term of the series 3, 5, 7, 9, ... will be
